@@ -6,6 +6,56 @@
   ],
   "stats": [
     {
+      "semesterName": "ZS 2025/2026 - ZF",
+      "semesterId": "794",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=794;predmet=160445;lang=cz",
+      "totalPass": 6,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 2,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 6,
+          "fail": 0
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2024/2025 - ZF",
+      "semesterId": "780",
+      "year": 2024,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=780;predmet=157454;lang=cz",
+      "totalPass": 65,
+      "totalFail": 6,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 17,
+            "B": 19,
+            "C": 22,
+            "D": 4,
+            "E": 3,
+            "F": 0,
+            "FN": 6
+          },
+          "pass": 65,
+          "fail": 6
+        }
+      ]
+    },
+    {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
       "year": 2024,
@@ -51,6 +101,31 @@
             "FN": 0
           },
           "pass": 1,
+          "fail": 0
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2023/2024 - ZF",
+      "semesterId": "762",
+      "year": 2023,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=762;predmet=151407;lang=cz",
+      "totalPass": 60,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 22,
+            "B": 22,
+            "C": 12,
+            "D": 2,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 60,
           "fail": 0
         }
       ]
@@ -331,5 +406,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-16T05:55:31.283498Z"
+  "lastUpdated": "2026-02-28T10:35:44.983647Z"
 }

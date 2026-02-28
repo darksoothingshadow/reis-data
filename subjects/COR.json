@@ -3,6 +3,31 @@
   "aliases": [],
   "stats": [
     {
+      "semesterName": "ZS 2025/2026 - AF",
+      "semesterId": "785",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=785;predmet=158920;lang=cz",
+      "totalPass": 14,
+      "totalFail": 6,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 3,
+            "C": 4,
+            "D": 0,
+            "E": 6,
+            "F": 6,
+            "FN": 0
+          },
+          "pass": 14,
+          "fail": 6
+        }
+      ]
+    },
+    {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
       "year": 2024,
@@ -228,5 +253,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-16T05:55:31.283498Z"
+  "lastUpdated": "2026-02-28T10:35:44.983647Z"
 }

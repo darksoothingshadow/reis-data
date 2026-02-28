@@ -6,6 +6,61 @@
   ],
   "stats": [
     {
+      "semesterName": "ZS 2025/2026 - PEF",
+      "semesterId": "801",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=801;predmet=160301;lang=cz",
+      "totalPass": 158,
+      "totalFail": 98,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 3,
+            "C": 19,
+            "D": 47,
+            "E": 86,
+            "F": 22,
+            "FN": 76
+          },
+          "pass": 158,
+          "fail": 98
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2025/2026 - LDF",
+      "semesterId": "796",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=796;predmet=160715;lang=cz",
+      "totalPass": 21,
+      "totalFail": 11,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 1,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 21,
+          "fail": 11,
+          "creditGrades": {
+            "zap": 19,
+            "nezap": 10,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
+    {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
       "year": 2024,
@@ -531,5 +586,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-16T05:55:31.283498Z"
+  "lastUpdated": "2026-02-28T10:35:44.983647Z"
 }

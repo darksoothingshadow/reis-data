@@ -3,6 +3,31 @@
   "aliases": [],
   "stats": [
     {
+      "semesterName": "ZS 2025/2026 - PEF",
+      "semesterId": "801",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=801;predmet=159414;lang=cz",
+      "totalPass": 105,
+      "totalFail": 55,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 23,
+            "B": 14,
+            "C": 19,
+            "D": 31,
+            "E": 18,
+            "F": 33,
+            "FN": 22
+          },
+          "pass": 105,
+          "fail": 55
+        }
+      ]
+    },
+    {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
       "year": 2024,
@@ -253,5 +278,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-16T05:55:31.283498Z"
+  "lastUpdated": "2026-02-28T10:35:44.983647Z"
 }

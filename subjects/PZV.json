@@ -5,6 +5,31 @@
   ],
   "stats": [
     {
+      "semesterName": "ZS 2025/2026 - FRRMS",
+      "semesterId": "802",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=802;predmet=159369;lang=cz",
+      "totalPass": 48,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 11,
+            "C": 18,
+            "D": 8,
+            "E": 7,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 48,
+          "fail": 1
+        }
+      ]
+    },
+    {
       "semesterName": "ZS 2023/2024 - FRRMS",
       "semesterId": "737",
       "year": 2023,
@@ -250,5 +275,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-16T05:55:31.283498Z"
+  "lastUpdated": "2026-02-28T10:35:44.983647Z"
 }

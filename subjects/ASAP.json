@@ -1,13 +1,15 @@
 {
   "courseCode": "ASAP",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - ICV",
       "semesterId": "781",
       "year": 2024,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=781;predmet=157914;lang=cz",
       "totalPass": 52,
-      "totalFail": 2,
+      "totalFail": 1,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -18,10 +20,35 @@
             "D": 3,
             "E": 0,
             "F": 0,
-            "FN": 2
+            "FN": 1
           },
           "pass": 52,
-          "fail": 2
+          "fail": 1
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2023/2024 - ICV",
+      "semesterId": "750",
+      "year": 2023,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=750;predmet=151725;lang=cz",
+      "totalPass": 41,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 11,
+            "B": 16,
+            "C": 12,
+            "D": 2,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 41,
+          "fail": 0
         }
       ]
     },
@@ -29,6 +56,7 @@
       "semesterName": "LS 2022/2023 - ICV",
       "semesterId": "716",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=716;predmet=142343;lang=cz",
       "totalPass": 55,
       "totalFail": 2,
@@ -48,7 +76,32 @@
           "fail": 2
         }
       ]
+    },
+    {
+      "semesterName": "LS 2021/2022 - ICV",
+      "semesterId": "675",
+      "year": 2021,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=675;predmet=134423;lang=cz",
+      "totalPass": 50,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 10,
+            "B": 20,
+            "C": 15,
+            "D": 4,
+            "E": 1,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 50,
+          "fail": 2
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-01-05T04:50:48.817Z"
+  "lastUpdated": "2026-02-28T10:35:44.983647Z"
 }

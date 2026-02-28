@@ -5,6 +5,81 @@
   ],
   "stats": [
     {
+      "semesterName": "ZS 2025/2026 - LDF",
+      "semesterId": "796",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=796;predmet=159452;lang=cz",
+      "totalPass": 243,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 62,
+            "B": 35,
+            "C": 59,
+            "D": 47,
+            "E": 40,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 243,
+          "fail": 1
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2025/2026 - AF",
+      "semesterId": "785",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=785;predmet=158583;lang=cz",
+      "totalPass": 24,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 9,
+            "C": 6,
+            "D": 3,
+            "E": 2,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 24,
+          "fail": 2
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2024/2025 - ZF",
+      "semesterId": "780",
+      "year": 2024,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=780;predmet=157434;lang=cz",
+      "totalPass": 53,
+      "totalFail": 23,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 6,
+            "C": 9,
+            "D": 15,
+            "E": 20,
+            "F": 15,
+            "FN": 8
+          },
+          "pass": 53,
+          "fail": 23
+        }
+      ]
+    },
+    {
       "semesterName": "ZS 2024/2025 - LDF",
       "semesterId": "765",
       "year": 2024,
@@ -26,6 +101,31 @@
           },
           "pass": 251,
           "fail": 2
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2023/2024 - ZF",
+      "semesterId": "762",
+      "year": 2023,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=762;predmet=151366;lang=cz",
+      "totalPass": 62,
+      "totalFail": 33,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 8,
+            "C": 14,
+            "D": 16,
+            "E": 20,
+            "F": 18,
+            "FN": 15
+          },
+          "pass": 62,
+          "fail": 33
         }
       ]
     },
@@ -380,5 +480,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-16T05:55:31.283498Z"
+  "lastUpdated": "2026-02-28T10:35:44.983647Z"
 }
