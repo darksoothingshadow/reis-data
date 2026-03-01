@@ -18,5 +18,22 @@
 </head>
 <body>
     <script src="https://api.citymind.tech/resources/js/80"></script>
+    <script>
+        (function () {
+            var last = null;
+            function check() {
+                var el = document.getElementById('shadow-root');
+                var sr = el && el.shadowRoot;
+                if (!sr) return;
+                var win = sr.querySelector('.chat-window');
+                var state = win && getComputedStyle(win).display !== 'none' ? 'open' : 'closed';
+                if (state !== last) {
+                    last = state;
+                    window.parent.postMessage({ type: 'PEFBOT_STATE', state: state }, '*');
+                }
+            }
+            setInterval(check, 300);
+        })();
+    </script>
 </body>
 </html>
