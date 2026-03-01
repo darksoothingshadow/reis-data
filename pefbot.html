@@ -5,7 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PEFbot</title>
     <style>
-        html, body { margin: 0; padding: 0; background: transparent !important; overflow: hidden; }
+        html, body {
+            margin: 0;
+            padding: 0;
+            background: transparent !important;
+            overflow: hidden;
+        }
+        #shadow-root {
+            background: transparent !important;
+        }
     </style>
 </head>
 <body>
@@ -14,13 +22,32 @@
         (function () {
             var CLOSED = 'closed';
             var OPEN = 'open';
-            var lastState = CLOSED;
+            var lastState = null;
 
-            function detectState() {
-                var chatContainer = document.querySelector('.chat-container');
-                if (!chatContainer) return CLOSED;
-                var rect = chatContainer.getBoundingClientRect();
-                return (rect.width > 100 && rect.height > 100) ? OPEN : CLOSED;
+            function getShadow() {
+                var el = document.getElementById('shadow-root');
+                return el && el.shadowRoot ? el.shadowRoot : null;
+            }
+
+            function injectOverrideCSS(shadow) {
+                if (shadow.querySelector('#reis-override')) return;
+                var style = document.createElement('style');
+                style.id = 'reis-override';
+                style.textContent =
+                    '.chat-button { position: fixed !important; bottom: 0 !important; right: 0 !important; }' +
+                    '.chat-window { position: fixed !important; bottom: 0 !important; right: 0 !important; ' +
+                    'width: 100% !important; min-width: 0 !important; max-width: 100% !important; ' +
+                    'height: 100% !important; max-height: 100% !important; border-radius: 12px !important; }' +
+                    '.chat-window.maximized { width: 100% !important; height: 100% !important; }' +
+                    '.suggestion-container { bottom: 75px !important; right: 5px !important; }';
+                shadow.appendChild(style);
+            }
+
+            function detectState(shadow) {
+                var chatWindow = shadow.querySelector('.chat-window');
+                if (!chatWindow) return CLOSED;
+                var style = window.getComputedStyle(chatWindow);
+                return style.display !== 'none' ? OPEN : CLOSED;
             }
 
             function broadcast(state) {
@@ -30,29 +57,26 @@
                 }
             }
 
-            // Force transparency on widget wrapper elements that aren't the chat panel
             function enforceTransparency() {
                 var els = document.querySelectorAll('body > *');
                 for (var i = 0; i < els.length; i++) {
-                    var el = els[i];
-                    if (el.tagName === 'SCRIPT') continue;
-                    var bg = window.getComputedStyle(el).backgroundColor;
-                    if (bg && bg !== 'transparent' && bg !== 'rgba(0, 0, 0, 0)') {
-                        el.style.setProperty('background', 'transparent', 'important');
-                    }
+                    if (els[i].tagName === 'SCRIPT') continue;
+                    els[i].style.setProperty('background', 'transparent', 'important');
                 }
             }
 
-            var observer = new MutationObserver(function () {
+            function tick() {
                 enforceTransparency();
-                broadcast(detectState());
-            });
-            observer.observe(document.body, { childList: true, subtree: true, attributes: true });
+                var shadow = getShadow();
+                if (shadow) {
+                    injectOverrideCSS(shadow);
+                    broadcast(detectState(shadow));
+                }
+            }
 
-            setInterval(function () {
-                enforceTransparency();
-                broadcast(detectState());
-            }, 500);
+            var observer = new MutationObserver(tick);
+            observer.observe(document.body, { childList: true, subtree: true, attributes: true });
+            setInterval(tick, 500);
         })();
     </script>
 </body>
