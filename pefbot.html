@@ -21,14 +21,26 @@
     <script>
         (function () {
             var last = null;
+            console.log('[pefbot] state detector loaded');
+
             function check() {
                 var el = document.getElementById('shadow-root');
-                var sr = el && el.shadowRoot;
-                if (!sr) return;
+                if (!el) return;
+                var sr = el.shadowRoot;
+                if (!sr) {
+                    console.log('[pefbot] no shadowRoot yet');
+                    return;
+                }
                 var win = sr.querySelector('.chat-window');
-                var state = win && getComputedStyle(win).display !== 'none' ? 'open' : 'closed';
+                if (!win) {
+                    console.log('[pefbot] no .chat-window found');
+                    return;
+                }
+                var disp = getComputedStyle(win).display;
+                var state = disp !== 'none' ? 'open' : 'closed';
                 if (state !== last) {
                     last = state;
+                    console.log('[pefbot] state changed:', state);
                     window.parent.postMessage({ type: 'PEFBOT_STATE', state: state }, '*');
                 }
             }
