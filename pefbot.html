@@ -5,52 +5,54 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PEFbot</title>
     <style>
-        html, body { margin: 0; padding: 0; background: transparent; overflow: hidden; }
+        html, body { margin: 0; padding: 0; background: transparent !important; overflow: hidden; }
     </style>
 </head>
 <body>
     <script src="https://api.citymind.tech/resources/js/80"></script>
     <script>
-        // Watch for the bot widget DOM to appear and detect open/close state.
-        // Post messages to parent so the iframe can be resized accordingly.
         (function () {
-            var lastState = 'launcher';
+            var CLOSED = 'closed';
+            var OPEN = 'open';
+            var lastState = CLOSED;
 
             function detectState() {
-                // Look for any visible chat container (common patterns: large fixed/absolute divs)
-                var els = document.querySelectorAll('iframe, [class*="chat"], [class*="Chat"], [id*="chat"], [id*="Chat"], [class*="widget"], [class*="Widget"]');
-                var chatOpen = false;
-                for (var i = 0; i < els.length; i++) {
-                    var el = els[i];
-                    var rect = el.getBoundingClientRect();
-                    // If there's a sizable visible element (bigger than a launcher button), chat is open
-                    if (rect.width > 100 && rect.height > 100 && el.offsetParent !== null) {
-                        chatOpen = true;
-                        break;
-                    }
-                }
+                var chatContainer = document.querySelector('.chat-container');
+                if (!chatContainer) return CLOSED;
+                var rect = chatContainer.getBoundingClientRect();
+                return (rect.width > 100 && rect.height > 100) ? OPEN : CLOSED;
+            }
 
-                // Fallback: check overall document body scroll dimensions
-                var bw = document.body.scrollWidth;
-                var bh = document.body.scrollHeight;
-                if (bw > 150 || bh > 150) chatOpen = true;
-
-                var state = chatOpen ? 'open' : 'launcher';
+            function broadcast(state) {
                 if (state !== lastState) {
                     lastState = state;
-                    console.log('[pefbot.html] state changed:', state);
                     window.parent.postMessage({ type: 'PEFBOT_STATE', state: state }, '*');
                 }
             }
 
-            // Poll since we don't know the widget's exact mutation patterns
-            setInterval(detectState, 500);
+            // Force transparency on widget wrapper elements that aren't the chat panel
+            function enforceTransparency() {
+                var els = document.querySelectorAll('body > *');
+                for (var i = 0; i < els.length; i++) {
+                    var el = els[i];
+                    if (el.tagName === 'SCRIPT') continue;
+                    var bg = window.getComputedStyle(el).backgroundColor;
+                    if (bg && bg !== 'transparent' && bg !== 'rgba(0, 0, 0, 0)') {
+                        el.style.setProperty('background', 'transparent', 'important');
+                    }
+                }
+            }
 
-            // Also observe DOM mutations for faster detection
             var observer = new MutationObserver(function () {
-                setTimeout(detectState, 100);
+                enforceTransparency();
+                broadcast(detectState());
             });
             observer.observe(document.body, { childList: true, subtree: true, attributes: true });
+
+            setInterval(function () {
+                enforceTransparency();
+                broadcast(detectState());
+            }, 500);
         })();
     </script>
 </body>
