@@ -1,6 +1,5 @@
 {
   "courseCode": "AFZ2",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - LDF",
@@ -11,6 +10,34 @@
       "totalPass": 53,
       "totalFail": 1,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 2,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 4,
+          "fail": 2
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,6 +51,20 @@
           },
           "pass": 53,
           "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 10,
+            "B": 14,
+            "C": 7,
+            "D": 6,
+            "E": 11,
+            "F": 4,
+            "FN": 2
+          },
+          "pass": 48,
+          "fail": 6
         }
       ]
     },
@@ -38,6 +79,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 23,
+            "B": 15,
+            "C": 3,
+            "D": 3,
+            "E": 4,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 48,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 23,
             "B": 15,
@@ -74,9 +129,23 @@
           },
           "pass": 34,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 17,
+            "B": 3,
+            "C": 9,
+            "D": 3,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 34,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:26.779Z"
 }

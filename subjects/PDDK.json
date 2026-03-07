@@ -1,8 +1,5 @@
 {
   "courseCode": "PDDK",
-  "aliases": [
-    "PDKS"
-  ],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - LDF",
@@ -15,6 +12,25 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 44,
+          "fail": 2,
+          "creditGrades": {
+            "zap": 44,
+            "nezap": 2,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -61,6 +77,25 @@
             "nezap": 0,
             "zapNedost": 0
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 53,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 53,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -91,59 +126,28 @@
             "nezap": 4,
             "zapNedost": 0
           }
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2021/2022 - LDF",
-      "semesterId": "649",
-      "year": 2021,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=649;predmet=130125;lang=cz",
-      "totalPass": 52,
-      "totalFail": 1,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 11,
-            "B": 14,
-            "C": 18,
-            "D": 5,
-            "E": 4,
-            "F": 0,
-            "FN": 1
-          },
-          "pass": 52,
-          "fail": 1
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2020/2021 - LDF",
-      "semesterId": "588",
-      "year": 2020,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123932;lang=cz",
-      "totalPass": 35,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
-            "B": 15,
-            "C": 6,
-            "D": 4,
-            "E": 10,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
             "F": 0,
             "FN": 0
           },
-          "pass": 35,
-          "fail": 0
+          "pass": 31,
+          "fail": 4,
+          "creditGrades": {
+            "zap": 31,
+            "nezap": 4,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.119Z"
 }

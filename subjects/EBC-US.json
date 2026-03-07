@@ -1,8 +1,5 @@
 {
   "courseCode": "EBC-US",
-  "aliases": [
-    "USW"
-  ],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - PEF",
@@ -13,6 +10,34 @@
       "totalPass": 55,
       "totalFail": 1,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 2,
+            "B": 1,
+            "C": 2,
+            "D": 3,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -26,6 +51,20 @@
           },
           "pass": 55,
           "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 15,
+            "B": 11,
+            "C": 10,
+            "D": 8,
+            "E": 2,
+            "F": 10,
+            "FN": 0
+          },
+          "pass": 46,
+          "fail": 10
         }
       ]
     },
@@ -39,6 +78,34 @@
       "totalFail": 2,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 1,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 4,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 23,
@@ -51,6 +118,20 @@
           },
           "pass": 64,
           "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 23,
+            "B": 8,
+            "C": 17,
+            "D": 7,
+            "E": 4,
+            "F": 5,
+            "FN": 2
+          },
+          "pass": 59,
+          "fail": 7
         }
       ]
     },
@@ -64,6 +145,34 @@
       "totalFail": 2,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 5,
+            "B": 1,
+            "C": 3,
+            "D": 0,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 9,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 14,
@@ -76,6 +185,20 @@
           },
           "pass": 41,
           "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 9,
+            "B": 6,
+            "C": 9,
+            "D": 3,
+            "E": 4,
+            "F": 10,
+            "FN": 2
+          },
+          "pass": 31,
+          "fail": 12
         }
       ]
     },
@@ -89,6 +212,20 @@
       "totalFail": 5,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 3,
+            "B": 1,
+            "C": 3,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 32,
@@ -101,34 +238,23 @@
           },
           "pass": 72,
           "fail": 5
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2020/2021 - PEF",
-      "semesterId": "610",
-      "year": 2020,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=127295;lang=cz",
-      "totalPass": 102,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
-            "A": 65,
-            "B": 19,
-            "C": 9,
-            "D": 7,
-            "E": 2,
-            "F": 0,
-            "FN": 0
+            "A": 29,
+            "B": 18,
+            "C": 5,
+            "D": 8,
+            "E": 4,
+            "F": 9,
+            "FN": 4
           },
-          "pass": 102,
-          "fail": 0
+          "pass": 64,
+          "fail": 13
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.326Z"
 }

@@ -1,6 +1,5 @@
 {
   "courseCode": "TRPOR",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - AF",
@@ -13,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 11,
+            "B": 9,
+            "C": 4,
+            "D": 1,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 26,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 11,
             "B": 9,
@@ -49,6 +62,20 @@
           },
           "pass": 21,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 13,
+            "B": 3,
+            "C": 4,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 21,
+          "fail": 0
         }
       ]
     },
@@ -63,6 +90,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 5,
+            "B": 7,
+            "C": 3,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 15,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 5,
             "B": 7,
@@ -99,9 +140,23 @@
           },
           "pass": 15,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 9,
+            "B": 1,
+            "C": 5,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 15,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.655Z"
 }

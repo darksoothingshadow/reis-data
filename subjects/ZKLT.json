@@ -1,8 +1,5 @@
 {
   "courseCode": "ZKLT",
-  "aliases": [
-    "ZT"
-  ],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - LDF",
@@ -15,6 +12,25 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 126,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 126,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -61,6 +77,25 @@
             "nezap": 0,
             "zapNedost": 0
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 111,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 111,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -91,6 +126,25 @@
             "nezap": 1,
             "zapNedost": 32
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 91,
+          "fail": 33,
+          "creditGrades": {
+            "zap": 91,
+            "nezap": 1,
+            "zapNedost": 32
+          }
         }
       ]
     },
@@ -103,6 +157,25 @@
       "totalPass": 115,
       "totalFail": 34,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 1,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -121,6 +194,25 @@
             "nezap": 8,
             "zapNedost": 26
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 114,
+          "fail": 35,
+          "creditGrades": {
+            "zap": 114,
+            "nezap": 9,
+            "zapNedost": 26
+          }
         }
       ]
     },
@@ -135,6 +227,25 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 2,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -181,6 +292,25 @@
             "nezap": 2,
             "zapNedost": 0
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 99,
+          "fail": 2,
+          "creditGrades": {
+            "zap": 99,
+            "nezap": 2,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -190,21 +320,21 @@
       "year": 2020,
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=124277;lang=cz",
-      "totalPass": 167,
+      "totalPass": 91,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 3,
-            "B": 16,
-            "C": 24,
-            "D": 22,
-            "E": 11,
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
             "F": 0,
             "FN": 0
           },
-          "pass": 167,
+          "pass": 91,
           "fail": 0,
           "creditGrades": {
             "zap": 91,
@@ -215,5 +345,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.909Z"
 }

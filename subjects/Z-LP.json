@@ -1,32 +1,6 @@
 {
   "courseCode": "Z-LP",
-  "aliases": [],
   "stats": [
-    {
-      "semesterName": "LS 2006/2007 - REK",
-      "semesterId": "427",
-      "year": 2006,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=427;predmet=31314;lang=cz",
-      "totalPass": 2,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 2,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 2,
-          "fail": 0
-        }
-      ]
-    },
     {
       "semesterName": "LS 2008/2009 - REK",
       "semesterId": "174",
@@ -49,9 +23,62 @@
           },
           "pass": 15,
           "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 7,
+            "B": 4,
+            "C": 3,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 15,
+          "fail": 1
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2006/2007 - REK",
+      "semesterId": "427",
+      "year": 2006,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=427;predmet=31314;lang=cz",
+      "totalPass": 2,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 2,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 2,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.827Z"
 }

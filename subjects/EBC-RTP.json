@@ -1,6 +1,5 @@
 {
   "courseCode": "EBC-RTP",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - PEF",
@@ -13,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 4,
+            "C": 4,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 9,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 1,
             "B": 4,
@@ -49,9 +62,23 @@
           },
           "pass": 10,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 1,
+            "B": 2,
+            "C": 2,
+            "D": 3,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 10,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.309Z"
 }

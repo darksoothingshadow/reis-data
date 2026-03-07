@@ -1,8 +1,5 @@
 {
   "courseCode": "SNDK",
-  "aliases": [
-    "SDKV"
-  ],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - LDF",
@@ -13,6 +10,25 @@
       "totalPass": 21,
       "totalFail": 3,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 1,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -31,6 +47,25 @@
             "nezap": 3,
             "zapNedost": 0
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 20,
+          "fail": 4,
+          "creditGrades": {
+            "zap": 20,
+            "nezap": 4,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -45,6 +80,25 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 33,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 33,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -91,6 +145,25 @@
             "nezap": 0,
             "zapNedost": 0
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 28,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 28,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -121,6 +194,25 @@
             "nezap": 0,
             "zapNedost": 0
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 27,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 27,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -130,7 +222,7 @@
       "year": 2021,
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=649;predmet=130208;lang=cz",
-      "totalPass": 22,
+      "totalPass": 7,
       "totalFail": 0,
       "terms": [
         {
@@ -144,10 +236,29 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 22,
+          "pass": 7,
           "fail": 0,
           "creditGrades": {
-            "zap": 22,
+            "zap": 7,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 7,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 7,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -160,7 +271,7 @@
       "year": 2020,
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123868;lang=cz",
-      "totalPass": 15,
+      "totalPass": 7,
       "totalFail": 0,
       "terms": [
         {
@@ -174,10 +285,10 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 15,
+          "pass": 7,
           "fail": 0,
           "creditGrades": {
-            "zap": 15,
+            "zap": 7,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -185,5 +296,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.508Z"
 }

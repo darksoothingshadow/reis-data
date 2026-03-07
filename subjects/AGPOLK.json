@@ -1,6 +1,5 @@
 {
   "courseCode": "AGPOLK",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - AF",
@@ -11,6 +10,20 @@
       "totalPass": 14,
       "totalFail": 0,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,6 +37,20 @@
           },
           "pass": 14,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 13,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 13,
+          "fail": 1
         }
       ]
     },
@@ -38,6 +65,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 9,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 8,
             "B": 1,
@@ -74,9 +115,23 @@
           },
           "pass": 18,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 9,
+            "B": 6,
+            "C": 2,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 18,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:26.791Z"
 }

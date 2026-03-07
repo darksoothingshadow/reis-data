@@ -1,72 +1,19 @@
 {
   "courseCode": "MRP",
-  "aliases": [
-    "MNGP"
-  ],
   "stats": [
     {
-      "semesterName": "LS 2024/2025 - LDF",
-      "semesterId": "777",
-      "year": 2024,
+      "semesterName": "LS 2021/2022 - LDF",
+      "semesterId": "673",
+      "year": 2021,
       "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156844;lang=cz",
-      "totalPass": 1,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 1,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 1,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2022/2023 - LDF",
-      "semesterId": "725",
-      "year": 2022,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=141006;lang=cz",
-      "totalPass": 10,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=673;predmet=133438;lang=cz",
+      "totalPass": 5,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
             "A": 3,
-            "B": 5,
-            "C": 2,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 10,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2021/2022 - LDF",
-      "semesterId": "673",
-      "year": 2021,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=673;predmet=133402;lang=cz",
-      "totalPass": 8,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 6,
             "B": 1,
             "C": 0,
             "D": 1,
@@ -74,7 +21,21 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 8,
+          "pass": 5,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 1,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 5,
           "fail": 0
         }
       ]
@@ -89,6 +50,20 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 1,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 2,
@@ -101,9 +76,23 @@
           },
           "pass": 9,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 2,
+            "C": 0,
+            "D": 1,
+            "E": 1,
+            "F": 2,
+            "FN": 1
+          },
+          "pass": 6,
+          "fail": 3
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.959Z"
 }

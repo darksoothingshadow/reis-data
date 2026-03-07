@@ -1,6 +1,5 @@
 {
   "courseCode": "ENC-MSPR",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - PEF",
@@ -11,6 +10,20 @@
       "totalPass": 21,
       "totalFail": 1,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 3,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,9 +37,23 @@
           },
           "pass": 21,
           "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 5,
+            "B": 1,
+            "C": 3,
+            "D": 5,
+            "E": 2,
+            "F": 5,
+            "FN": 1
+          },
+          "pass": 16,
+          "fail": 6
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.497Z"
 }

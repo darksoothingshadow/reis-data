@@ -1,39 +1,6 @@
 {
   "courseCode": "PRXL1-L",
-  "aliases": [
-    "PRXL1-Z"
-  ],
   "stats": [
-    {
-      "semesterName": "ZS 2025/2026 - LDF",
-      "semesterId": "796",
-      "year": 2025,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=796;predmet=159503;lang=cz",
-      "totalPass": 76,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 76,
-          "fail": 0,
-          "creditGrades": {
-            "zap": 76,
-            "nezap": 0,
-            "zapNedost": 0
-          }
-        }
-      ]
-    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -61,20 +28,9 @@
             "nezap": 0,
             "zapNedost": 0
           }
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2024/2025 - LDF",
-      "semesterId": "765",
-      "year": 2024,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=765;predmet=153329;lang=cz",
-      "totalPass": 53,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -84,10 +40,10 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 53,
+          "pass": 52,
           "fail": 0,
           "creditGrades": {
-            "zap": 53,
+            "zap": 52,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -121,20 +77,9 @@
             "nezap": 0,
             "zapNedost": 0
           }
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2023/2024 - LDF",
-      "semesterId": "732",
-      "year": 2023,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=732;predmet=147971;lang=cz",
-      "totalPass": 81,
-      "totalFail": 2,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -144,16 +89,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 81,
-          "fail": 2,
+          "pass": 76,
+          "fail": 0,
           "creditGrades": {
-            "zap": 81,
+            "zap": 76,
             "nezap": 0,
-            "zapNedost": 2
+            "zapNedost": 0
           }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.283Z"
 }

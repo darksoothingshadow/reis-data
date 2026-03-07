@@ -1,6 +1,5 @@
 {
   "courseCode": "STAZZK",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2023/2024 - ICV",
@@ -13,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -49,6 +62,20 @@
           },
           "pass": 2,
           "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 1
         }
       ]
     },
@@ -63,6 +90,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 0,
+            "C": 3,
+            "D": 3,
+            "E": 1,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 10,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 3,
             "B": 0,
@@ -99,9 +140,23 @@
           },
           "pass": 13,
           "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 6,
+            "C": 2,
+            "D": 2,
+            "E": 1,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 13,
+          "fail": 1
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.545Z"
 }

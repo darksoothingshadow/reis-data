@@ -1,8 +1,5 @@
 {
   "courseCode": "ENOLO",
-  "aliases": [
-    "ENO"
-  ],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - ZF",
@@ -13,6 +10,20 @@
       "totalPass": 45,
       "totalFail": 0,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -26,6 +37,20 @@
           },
           "pass": 45,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 23,
+            "B": 8,
+            "C": 9,
+            "D": 0,
+            "E": 4,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 44,
+          "fail": 1
         }
       ]
     },
@@ -39,6 +64,20 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 16,
@@ -51,6 +90,20 @@
           },
           "pass": 49,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 16,
+            "B": 11,
+            "C": 17,
+            "D": 2,
+            "E": 0,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 46,
+          "fail": 3
         }
       ]
     },
@@ -60,22 +113,50 @@
       "year": 2021,
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=134008;lang=cz",
-      "totalPass": 48,
+      "totalPass": 47,
       "totalFail": 0,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 1,
+            "C": 2,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
             "A": 17,
             "B": 11,
-            "C": 13,
+            "C": 12,
             "D": 1,
             "E": 6,
             "F": 0,
             "FN": 0
           },
-          "pass": 48,
+          "pass": 47,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 16,
+            "B": 10,
+            "C": 10,
+            "D": 1,
+            "E": 6,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 43,
+          "fail": 4
         }
       ]
     },
@@ -85,9 +166,37 @@
       "year": 2020,
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=126795;lang=cz",
-      "totalPass": 54,
+      "totalPass": 53,
       "totalFail": 2,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 2,
+            "D": 0,
+            "E": 1,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -95,40 +204,29 @@
             "B": 15,
             "C": 22,
             "D": 3,
-            "E": 5,
+            "E": 4,
             "F": 1,
             "FN": 1
           },
-          "pass": 54,
+          "pass": 53,
           "fail": 2
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2019/2020 - ZF",
-      "semesterId": "580",
-      "year": 2019,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=580;predmet=120130;lang=cz",
-      "totalPass": 27,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
-            "A": 10,
-            "B": 6,
-            "C": 10,
-            "D": 1,
-            "E": 0,
-            "F": 0,
-            "FN": 0
+            "A": 9,
+            "B": 14,
+            "C": 19,
+            "D": 3,
+            "E": 3,
+            "F": 6,
+            "FN": 1
           },
-          "pass": 27,
-          "fail": 0
+          "pass": 48,
+          "fail": 7
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.537Z"
 }

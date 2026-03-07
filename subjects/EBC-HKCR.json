@@ -1,8 +1,5 @@
 {
   "courseCode": "EBC-HKCR",
-  "aliases": [
-    "HKC"
-  ],
   "stats": [
     {
       "semesterName": "LS 2022/2023 - PEF",
@@ -31,34 +28,28 @@
             "nezap": 0,
             "zapNedost": 0
           }
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2020/2021 - PEF",
-      "semesterId": "610",
-      "year": 2020,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=127513;lang=cz",
-      "totalPass": 10,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
-            "A": 5,
-            "B": 2,
-            "C": 1,
-            "D": 2,
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
             "E": 0,
             "F": 0,
             "FN": 0
           },
-          "pass": 10,
-          "fail": 0
+          "pass": 19,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 19,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.263Z"
 }

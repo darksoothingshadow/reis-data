@@ -1,6 +1,5 @@
 {
   "courseCode": "ZAGEP",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - AF",
@@ -24,6 +23,73 @@
           },
           "pass": 33,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 21,
+            "B": 5,
+            "C": 4,
+            "D": 1,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 33,
+          "fail": 0
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2024/2025 - AF",
+      "semesterId": "704",
+      "year": 2024,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=704;predmet=153789;lang=cz",
+      "totalPass": 27,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 15,
+            "B": 3,
+            "C": 4,
+            "D": 5,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 27,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 15,
+            "B": 3,
+            "C": 4,
+            "D": 4,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 26,
+          "fail": 1
         }
       ]
     },
@@ -49,30 +115,19 @@
           },
           "pass": 45,
           "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2024/2025 - AF",
-      "semesterId": "704",
-      "year": 2024,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=704;predmet=153789;lang=cz",
-      "totalPass": 27,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
             "A": 15,
-            "B": 3,
-            "C": 4,
+            "B": 14,
+            "C": 7,
             "D": 5,
-            "E": 0,
+            "E": 4,
             "F": 0,
             "FN": 0
           },
-          "pass": 27,
+          "pass": 45,
           "fail": 0
         }
       ]
@@ -87,6 +142,20 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 2,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 15,
@@ -99,6 +168,20 @@
           },
           "pass": 43,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 15,
+            "B": 7,
+            "C": 13,
+            "D": 2,
+            "E": 4,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 41,
+          "fail": 2
         }
       ]
     },
@@ -112,6 +195,20 @@
       "totalFail": 2,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 10,
@@ -124,6 +221,20 @@
           },
           "pass": 36,
           "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 10,
+            "B": 4,
+            "C": 4,
+            "D": 10,
+            "E": 6,
+            "F": 3,
+            "FN": 1
+          },
+          "pass": 34,
+          "fail": 4
         }
       ]
     },
@@ -153,5 +264,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.844Z"
 }

@@ -1,6 +1,5 @@
 {
   "courseCode": "DKE",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - LDF",
@@ -11,6 +10,34 @@
       "totalPass": 29,
       "totalFail": 1,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 1,
+            "D": 4,
+            "E": 4,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 11,
+          "fail": 3
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,6 +51,20 @@
           },
           "pass": 29,
           "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 1,
+            "C": 4,
+            "D": 4,
+            "E": 4,
+            "F": 15,
+            "FN": 0
+          },
+          "pass": 15,
+          "fail": 15
         }
       ]
     },
@@ -37,6 +78,34 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 2,
+            "E": 7,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 10,
+          "fail": 2
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 3,
@@ -49,6 +118,20 @@
           },
           "pass": 28,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 1,
+            "C": 4,
+            "D": 5,
+            "E": 3,
+            "F": 12,
+            "FN": 0
+          },
+          "pass": 16,
+          "fail": 12
         }
       ]
     },
@@ -62,6 +145,20 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 1,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 0,
@@ -74,6 +171,20 @@
           },
           "pass": 24,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 6,
+            "D": 4,
+            "E": 9,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 20,
+          "fail": 4
         }
       ]
     },
@@ -88,6 +199,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 10,
+            "C": 4,
+            "D": 2,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 23,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 7,
             "B": 10,
@@ -124,9 +249,23 @@
           },
           "pass": 20,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 9,
+            "B": 4,
+            "C": 7,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 20,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.091Z"
 }

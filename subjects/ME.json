@@ -1,34 +1,6 @@
 {
   "courseCode": "ME",
-  "aliases": [
-    "MNDO"
-  ],
   "stats": [
-    {
-      "semesterName": "ZS 2021/2022 - AF",
-      "semesterId": "651",
-      "year": 2021,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=651;predmet=129756;lang=cz",
-      "totalPass": 23,
-      "totalFail": 2,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 23,
-            "B": 0,
-            "C": 0,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 2
-          },
-          "pass": 23,
-          "fail": 2
-        }
-      ]
-    },
     {
       "semesterName": "ZS 2021/2022 - PEF",
       "semesterId": "650",
@@ -38,6 +10,20 @@
       "totalPass": 118,
       "totalFail": 4,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -51,31 +37,20 @@
           },
           "pass": 118,
           "fail": 4
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2020/2021 - AF",
-      "semesterId": "585",
-      "year": 2020,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=585;predmet=122888;lang=cz",
-      "totalPass": 17,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
-            "A": 17,
-            "B": 0,
-            "C": 0,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
+            "A": 58,
+            "B": 37,
+            "C": 18,
+            "D": 2,
+            "E": 1,
+            "F": 3,
+            "FN": 3
           },
-          "pass": 17,
-          "fail": 0
+          "pass": 116,
+          "fail": 6
         }
       ]
     },
@@ -105,5 +80,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.898Z"
 }

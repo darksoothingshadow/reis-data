@@ -1,6 +1,5 @@
 {
   "courseCode": "EBC-PDG5",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2023/2024 - PEF",
@@ -9,7 +8,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=146890;lang=cz",
       "totalPass": 126,
-      "totalFail": 5,
+      "totalFail": 4,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -23,15 +22,34 @@
             "FN": 0
           },
           "pass": 126,
-          "fail": 5,
+          "fail": 4,
           "creditGrades": {
             "zap": 126,
-            "nezap": 5,
+            "nezap": 4,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 126,
+          "fail": 4,
+          "creditGrades": {
+            "zap": 126,
+            "nezap": 4,
             "zapNedost": 0
           }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.294Z"
 }

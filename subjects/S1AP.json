@@ -1,6 +1,5 @@
 {
   "courseCode": "S1AP",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - ICV",
@@ -13,6 +12,25 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 37,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 37,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -59,6 +77,25 @@
             "nezap": 0,
             "zapNedost": 1
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 50,
+          "fail": 1,
+          "creditGrades": {
+            "zap": 50,
+            "nezap": 0,
+            "zapNedost": 1
+          }
         }
       ]
     },
@@ -89,9 +126,28 @@
             "nezap": 2,
             "zapNedost": 0
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 48,
+          "fail": 2,
+          "creditGrades": {
+            "zap": 48,
+            "nezap": 2,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.448Z"
 }

@@ -1,8 +1,5 @@
 {
   "courseCode": "SOMME",
-  "aliases": [
-    "SOM"
-  ],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - ZF",
@@ -15,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 28,
+            "B": 13,
+            "C": 5,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 47,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 28,
             "B": 13,
@@ -39,6 +50,20 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 4,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 21,
@@ -51,6 +76,20 @@
           },
           "pass": 26,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 17,
+            "B": 2,
+            "C": 2,
+            "D": 1,
+            "E": 0,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 22,
+          "fail": 4
         }
       ]
     },
@@ -64,6 +103,20 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 9,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 10,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 17,
@@ -76,6 +129,20 @@
           },
           "pass": 23,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 8,
+            "B": 4,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 9,
+            "FN": 1
+          },
+          "pass": 13,
+          "fail": 10
         }
       ]
     },
@@ -101,39 +168,23 @@
           },
           "pass": 38,
           "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2019/2020 - ZF",
-      "semesterId": "580",
-      "year": 2019,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=580;predmet=120158;lang=cz",
-      "totalPass": 17,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
+            "A": 23,
+            "B": 13,
+            "C": 2,
             "D": 0,
             "E": 0,
             "F": 0,
             "FN": 0
           },
-          "pass": 17,
-          "fail": 0,
-          "creditGrades": {
-            "zap": 17,
-            "nezap": 0,
-            "zapNedost": 0
-          }
+          "pass": 38,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.518Z"
 }

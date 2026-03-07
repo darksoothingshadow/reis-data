@@ -1,8 +1,5 @@
 {
   "courseCode": "EBA-MDE",
-  "aliases": [
-    "RRMRA"
-  ],
   "stats": [
     {
       "semesterName": "ZS 2022/2023 - PEF",
@@ -13,6 +10,34 @@
       "totalPass": 13,
       "totalFail": 0,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -26,6 +51,20 @@
           },
           "pass": 13,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 3,
+            "C": 3,
+            "D": 1,
+            "E": 2,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 11,
+          "fail": 2
         }
       ]
     },
@@ -51,30 +90,19 @@
           },
           "pass": 14,
           "fail": 2
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2020/2021 - FRRMS",
-      "semesterId": "633",
-      "year": 2020,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=633;predmet=128584;lang=cz",
-      "totalPass": 16,
-      "totalFail": 2,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
-            "A": 3,
-            "B": 5,
-            "C": 3,
-            "D": 4,
-            "E": 1,
-            "F": 1,
-            "FN": 1
+            "A": 5,
+            "B": 0,
+            "C": 4,
+            "D": 2,
+            "E": 3,
+            "F": 2,
+            "FN": 0
           },
-          "pass": 16,
+          "pass": 14,
           "fail": 2
         }
       ]
@@ -105,5 +133,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.212Z"
 }

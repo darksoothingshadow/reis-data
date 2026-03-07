@@ -1,6 +1,5 @@
 {
   "courseCode": "ENC-RRKP",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2023/2024 - PEF",
@@ -13,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 6,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 7,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 6,
             "B": 1,
@@ -49,6 +62,20 @@
           },
           "pass": 16,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 1,
+            "B": 7,
+            "C": 5,
+            "D": 3,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 16,
+          "fail": 0
         }
       ]
     },
@@ -63,6 +90,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 5,
+            "B": 2,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 5,
             "B": 2,
@@ -103,5 +144,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.516Z"
 }

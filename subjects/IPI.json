@@ -1,6 +1,5 @@
 {
   "courseCode": "IPI",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2021/2022 - PEF",
@@ -13,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 3,
+            "C": 6,
+            "D": 4,
+            "E": 3,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 19,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 3,
             "B": 3,
@@ -37,6 +50,34 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 4,
+            "D": 3,
+            "E": 0,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 7,
+          "fail": 3
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 3,
@@ -49,6 +90,20 @@
           },
           "pass": 31,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 3,
+            "C": 8,
+            "D": 7,
+            "E": 0,
+            "F": 10,
+            "FN": 0
+          },
+          "pass": 21,
+          "fail": 10
         }
       ]
     },
@@ -78,5 +133,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.731Z"
 }

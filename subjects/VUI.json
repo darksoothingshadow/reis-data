@@ -1,6 +1,5 @@
 {
   "courseCode": "VUI",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2020/2021 - PEF",
@@ -11,6 +10,20 @@
       "totalPass": 54,
       "totalFail": 6,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,6 +37,20 @@
           },
           "pass": 54,
           "fail": 6
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 4,
+            "B": 17,
+            "C": 18,
+            "D": 12,
+            "E": 1,
+            "F": 1,
+            "FN": 7
+          },
+          "pass": 52,
+          "fail": 8
         }
       ]
     },
@@ -53,5 +80,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.775Z"
 }

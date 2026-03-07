@@ -1,8 +1,5 @@
 {
   "courseCode": "PRAM4",
-  "aliases": [
-    "PKIV"
-  ],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - ZF",
@@ -15,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 2,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 2,
             "B": 2,
@@ -51,6 +62,20 @@
           },
           "pass": 7,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 2,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 7,
+          "fail": 0
         }
       ]
     },
@@ -65,6 +90,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 4,
+            "C": 3,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 7,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 4,
@@ -101,34 +140,23 @@
           },
           "pass": 12,
           "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2019/2020 - ZF",
-      "semesterId": "580",
-      "year": 2019,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=580;predmet=120263;lang=cz",
-      "totalPass": 15,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
-            "A": 5,
-            "B": 3,
-            "C": 3,
-            "D": 2,
-            "E": 2,
+            "A": 4,
+            "B": 7,
+            "C": 1,
+            "D": 0,
+            "E": 0,
             "F": 0,
             "FN": 0
           },
-          "pass": 15,
+          "pass": 12,
           "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.233Z"
 }

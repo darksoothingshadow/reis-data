@@ -1,6 +1,5 @@
 {
   "courseCode": "FERTE",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - ZF",
@@ -11,6 +10,20 @@
       "totalPass": 38,
       "totalFail": 1,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,6 +37,20 @@
           },
           "pass": 38,
           "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 12,
+            "B": 4,
+            "C": 11,
+            "D": 10,
+            "E": 0,
+            "F": 1,
+            "FN": 1
+          },
+          "pass": 37,
+          "fail": 2
         }
       ]
     },
@@ -37,6 +64,20 @@
       "totalFail": 1,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 7,
@@ -49,6 +90,20 @@
           },
           "pass": 39,
           "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 7,
+            "B": 12,
+            "C": 12,
+            "D": 4,
+            "E": 2,
+            "F": 1,
+            "FN": 2
+          },
+          "pass": 37,
+          "fail": 3
         }
       ]
     },
@@ -62,6 +117,20 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 9,
@@ -74,6 +143,20 @@
           },
           "pass": 55,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 9,
+            "B": 12,
+            "C": 9,
+            "D": 18,
+            "E": 5,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 53,
+          "fail": 2
         }
       ]
     },
@@ -87,6 +170,20 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 2,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 3,
@@ -99,6 +196,20 @@
           },
           "pass": 33,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 6,
+            "C": 8,
+            "D": 10,
+            "E": 2,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 29,
+          "fail": 4
         }
       ]
     },
@@ -128,5 +239,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.597Z"
 }

@@ -1,6 +1,5 @@
 {
   "courseCode": "ENC-PM",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - PEF",
@@ -13,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 9,
+            "B": 15,
+            "C": 16,
+            "D": 9,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 49,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 9,
             "B": 15,
@@ -37,6 +50,20 @@
       "totalFail": 2,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 0,
+          "fail": 1
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 13,
@@ -46,6 +73,20 @@
             "E": 0,
             "F": 0,
             "FN": 2
+          },
+          "pass": 50,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 13,
+            "B": 20,
+            "C": 14,
+            "D": 3,
+            "E": 0,
+            "F": 1,
+            "FN": 1
           },
           "pass": 50,
           "fail": 2
@@ -63,6 +104,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 18,
+            "B": 13,
+            "C": 6,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 37,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 18,
             "B": 13,
@@ -99,6 +154,20 @@
           },
           "pass": 37,
           "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 15,
+            "B": 12,
+            "C": 7,
+            "D": 3,
+            "E": 0,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 37,
+          "fail": 2
         }
       ]
     },
@@ -124,9 +193,23 @@
           },
           "pass": 81,
           "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 53,
+            "B": 21,
+            "C": 6,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 81,
+          "fail": 1
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.509Z"
 }

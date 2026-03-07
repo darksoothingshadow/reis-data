@@ -1,7 +1,126 @@
 {
   "courseCode": "ZGIS2",
-  "aliases": [],
   "stats": [
+    {
+      "semesterName": "LS 2009/2010 - REK",
+      "semesterId": "199",
+      "year": 2009,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=199;predmet=48386;lang=cz",
+      "totalPass": 8,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 3,
+            "C": 2,
+            "D": 2,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 2,
+            "D": 2,
+            "E": 1,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 7,
+          "fail": 1
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2008/2009 - REK",
+      "semesterId": "174",
+      "year": 2008,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=174;predmet=41657;lang=cz",
+      "totalPass": 8,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 1,
+            "F": 5,
+            "FN": 2
+          },
+          "pass": 2,
+          "fail": 7
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 2,
+            "D": 2,
+            "E": 1,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 5,
+          "fail": 2
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 3,
+            "D": 2,
+            "E": 2,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 8,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 7,
+            "FN": 2
+          },
+          "pass": 1,
+          "fail": 9
+        }
+      ]
+    },
     {
       "semesterName": "LS 2007/2008 - REK",
       "semesterId": "637",
@@ -11,6 +130,34 @@
       "totalPass": 14,
       "totalFail": 0,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 1,
+            "D": 1,
+            "E": 1,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,6 +171,20 @@
           },
           "pass": 14,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 4,
+            "C": 2,
+            "D": 1,
+            "E": 1,
+            "F": 6,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 6
         }
       ]
     },
@@ -49,59 +210,23 @@
           },
           "pass": 9,
           "fail": 2
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2009/2010 - REK",
-      "semesterId": "199",
-      "year": 2009,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=199;predmet=48386;lang=cz",
-      "totalPass": 8,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
-            "B": 3,
-            "C": 2,
-            "D": 2,
-            "E": 1,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 8,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2008/2009 - REK",
-      "semesterId": "174",
-      "year": 2008,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=174;predmet=41657;lang=cz",
-      "totalPass": 8,
-      "totalFail": 2,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 1,
-            "C": 3,
-            "D": 2,
+            "B": 2,
+            "C": 5,
+            "D": 0,
             "E": 2,
             "F": 0,
             "FN": 2
           },
-          "pass": 8,
+          "pass": 9,
           "fail": 2
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.896Z"
 }

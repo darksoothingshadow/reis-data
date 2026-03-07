@@ -1,6 +1,5 @@
 {
   "courseCode": "EBC-PDG3",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2023/2024 - PEF",
@@ -29,6 +28,25 @@
             "nezap": 5,
             "zapNedost": 0
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 170,
+          "fail": 5,
+          "creditGrades": {
+            "zap": 170,
+            "nezap": 5,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -39,7 +57,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=138187;lang=cz",
       "totalPass": 158,
-      "totalFail": 6,
+      "totalFail": 5,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -53,15 +71,34 @@
             "FN": 0
           },
           "pass": 158,
-          "fail": 6,
+          "fail": 5,
           "creditGrades": {
             "zap": 158,
-            "nezap": 6,
+            "nezap": 5,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 158,
+          "fail": 5,
+          "creditGrades": {
+            "zap": 158,
+            "nezap": 5,
             "zapNedost": 0
           }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.293Z"
 }

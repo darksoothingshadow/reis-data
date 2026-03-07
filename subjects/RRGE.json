@@ -1,6 +1,5 @@
 {
   "courseCode": "RRGE",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - FRRMS",
@@ -11,6 +10,34 @@
       "totalPass": 109,
       "totalFail": 2,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 2,
+            "D": 5,
+            "E": 1,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 10,
+          "fail": 4
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 2,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 2
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,56 +51,20 @@
           },
           "pass": 109,
           "fail": 2
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2023/2024 - FRRMS",
-      "semesterId": "737",
-      "year": 2023,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=737;predmet=146646;lang=cz",
-      "totalPass": 108,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
-            "A": 68,
-            "B": 16,
-            "C": 14,
-            "D": 8,
-            "E": 2,
-            "F": 0,
-            "FN": 0
+            "A": 31,
+            "B": 23,
+            "C": 23,
+            "D": 14,
+            "E": 6,
+            "F": 11,
+            "FN": 3
           },
-          "pass": 108,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2022/2023 - FRRMS",
-      "semesterId": "695",
-      "year": 2022,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=695;predmet=136882;lang=cz",
-      "totalPass": 93,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 1,
-            "B": 5,
-            "C": 26,
-            "D": 35,
-            "E": 26,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 93,
-          "fail": 0
+          "pass": 97,
+          "fail": 14
         }
       ]
     },
@@ -87,6 +78,20 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 1,
+            "C": 2,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 45,
@@ -99,6 +104,126 @@
           },
           "pass": 89,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 44,
+            "B": 17,
+            "C": 16,
+            "D": 4,
+            "E": 3,
+            "F": 5,
+            "FN": 0
+          },
+          "pass": 84,
+          "fail": 5
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2023/2024 - FRRMS",
+      "semesterId": "737",
+      "year": 2023,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=737;predmet=146646;lang=cz",
+      "totalPass": 108,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 4,
+            "B": 1,
+            "C": 2,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 7,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 68,
+            "B": 16,
+            "C": 14,
+            "D": 8,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 108,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 64,
+            "B": 15,
+            "C": 12,
+            "D": 8,
+            "E": 2,
+            "F": 4,
+            "FN": 3
+          },
+          "pass": 101,
+          "fail": 7
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2022/2023 - FRRMS",
+      "semesterId": "695",
+      "year": 2022,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=695;predmet=136882;lang=cz",
+      "totalPass": 93,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 1,
+            "C": 6,
+            "D": 4,
+            "E": 7,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 19,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 5,
+            "C": 26,
+            "D": 35,
+            "E": 26,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 93,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 4,
+            "C": 20,
+            "D": 31,
+            "E": 19,
+            "F": 14,
+            "FN": 5
+          },
+          "pass": 74,
+          "fail": 19
         }
       ]
     },
@@ -112,6 +237,34 @@
       "totalFail": 1,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 2,
+            "B": 7,
+            "C": 3,
+            "D": 1,
+            "E": 1,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 14,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 15,
@@ -124,6 +277,20 @@
           },
           "pass": 78,
           "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 12,
+            "B": 33,
+            "C": 4,
+            "D": 9,
+            "E": 5,
+            "F": 16,
+            "FN": 0
+          },
+          "pass": 63,
+          "fail": 16
         }
       ]
     },
@@ -153,5 +320,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.391Z"
 }

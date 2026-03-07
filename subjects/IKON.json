@@ -1,18 +1,13 @@
 {
   "courseCode": "IKON",
-  "aliases": [
-    "INK",
-    "INTK",
-    "INKT"
-  ],
   "stats": [
     {
-      "semesterName": "ZS 2025/2026 - LDF",
-      "semesterId": "796",
-      "year": 2025,
+      "semesterName": "ZS 2023/2024 - LDF",
+      "semesterId": "732",
+      "year": 2023,
       "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=796;predmet=159589;lang=cz",
-      "totalPass": 26,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=732;predmet=147038;lang=cz",
+      "totalPass": 22,
       "totalFail": 0,
       "terms": [
         {
@@ -26,10 +21,29 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 26,
+          "pass": 22,
           "fail": 0,
           "creditGrades": {
-            "zap": 26,
+            "zap": 22,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 22,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 22,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -37,14 +51,82 @@
       ]
     },
     {
-      "semesterName": "ZS 2024/2025 - LDF",
-      "semesterId": "765",
-      "year": 2024,
+      "semesterName": "ZS 2022/2023 - LDF",
+      "semesterId": "690",
+      "year": 2022,
       "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=765;predmet=153398;lang=cz",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=690;predmet=137867;lang=cz",
+      "totalPass": 12,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 12,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 12,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 12,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 12,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2021/2022 - LDF",
+      "semesterId": "649",
+      "year": 2021,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=649;predmet=130181;lang=cz",
       "totalPass": 17,
       "totalFail": 0,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 2,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -63,20 +145,9 @@
             "nezap": 0,
             "zapNedost": 0
           }
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2023/2024 - LDF",
-      "semesterId": "732",
-      "year": 2023,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=732;predmet=147011;lang=cz",
-      "totalPass": 40,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -86,132 +157,12 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 40,
-          "fail": 0,
+          "pass": 15,
+          "fail": 2,
           "creditGrades": {
-            "zap": 40,
+            "zap": 15,
             "nezap": 0,
-            "zapNedost": 0
-          }
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2022/2023 - LDF",
-      "semesterId": "690",
-      "year": 2022,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=690;predmet=137952;lang=cz",
-      "totalPass": 55,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 55,
-          "fail": 0,
-          "creditGrades": {
-            "zap": 55,
-            "nezap": 0,
-            "zapNedost": 0
-          }
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2021/2022 - LDF",
-      "semesterId": "673",
-      "year": 2021,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=673;predmet=133445;lang=cz",
-      "totalPass": 36,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 36,
-          "fail": 0,
-          "creditGrades": {
-            "zap": 36,
-            "nezap": 0,
-            "zapNedost": 0
-          }
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2021/2022 - LDF",
-      "semesterId": "649",
-      "year": 2021,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=649;predmet=130142;lang=cz",
-      "totalPass": 60,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 60,
-          "fail": 0,
-          "creditGrades": {
-            "zap": 60,
-            "nezap": 0,
-            "zapNedost": 0
-          }
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2020/2021 - LDF",
-      "semesterId": "611",
-      "year": 2020,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=611;predmet=127657;lang=cz",
-      "totalPass": 28,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 28,
-          "fail": 0,
-          "creditGrades": {
-            "zap": 28,
-            "nezap": 0,
-            "zapNedost": 0
+            "zapNedost": 2
           }
         }
       ]
@@ -221,8 +172,8 @@
       "semesterId": "588",
       "year": 2020,
       "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123941;lang=cz",
-      "totalPass": 50,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123832;lang=cz",
+      "totalPass": 29,
       "totalFail": 0,
       "terms": [
         {
@@ -236,10 +187,10 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 50,
+          "pass": 29,
           "fail": 0,
           "creditGrades": {
-            "zap": 50,
+            "zap": 29,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -247,5 +198,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.713Z"
 }

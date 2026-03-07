@@ -1,8 +1,5 @@
 {
   "courseCode": "RSDK",
-  "aliases": [
-    "DKREK"
-  ],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - LDF",
@@ -15,6 +12,25 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 24,
+          "fail": 1,
+          "creditGrades": {
+            "zap": 24,
+            "nezap": 1,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -61,6 +77,25 @@
             "nezap": 0,
             "zapNedost": 0
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 23,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 23,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -91,6 +126,25 @@
             "nezap": 0,
             "zapNedost": 0
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 21,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 21,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -100,7 +154,7 @@
       "year": 2022,
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=690;predmet=137882;lang=cz",
-      "totalPass": 16,
+      "totalPass": 13,
       "totalFail": 0,
       "terms": [
         {
@@ -114,10 +168,29 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 16,
+          "pass": 13,
           "fail": 0,
           "creditGrades": {
-            "zap": 16,
+            "zap": 13,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 13,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 13,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -125,5 +198,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.440Z"
 }

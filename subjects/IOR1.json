@@ -1,8 +1,5 @@
 {
   "courseCode": "IOR1",
-  "aliases": [
-    "IOR"
-  ],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - AF",
@@ -25,6 +22,59 @@
             "FN": 0
           },
           "pass": 58,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 9,
+            "B": 7,
+            "C": 24,
+            "D": 13,
+            "E": 5,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 58,
+          "fail": 0
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2024/2025 - AF",
+      "semesterId": "704",
+      "year": 2024,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=704;predmet=155029;lang=cz",
+      "totalPass": 1,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
           "fail": 0
         }
       ]
@@ -51,6 +101,20 @@
           },
           "pass": 56,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 11,
+            "B": 8,
+            "C": 13,
+            "D": 8,
+            "E": 16,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 56,
+          "fail": 0
         }
       ]
     },
@@ -64,6 +128,34 @@
       "totalFail": 1,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 6,
@@ -76,31 +168,20 @@
           },
           "pass": 26,
           "fail": 1
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2024/2025 - AF",
-      "semesterId": "704",
-      "year": 2024,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=704;predmet=155029;lang=cz",
-      "totalPass": 1,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 0,
-            "E": 1,
-            "F": 0,
+            "A": 6,
+            "B": 2,
+            "C": 5,
+            "D": 6,
+            "E": 4,
+            "F": 4,
             "FN": 0
           },
-          "pass": 1,
-          "fail": 0
+          "pass": 23,
+          "fail": 4
         }
       ]
     },
@@ -110,50 +191,39 @@
       "year": 2021,
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=687;predmet=133153;lang=cz",
-      "totalPass": 64,
+      "totalPass": 50,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 61,
-            "B": 2,
-            "C": 1,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 64,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2020/2021 - AF",
-      "semesterId": "640",
-      "year": 2020,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=640;predmet=126471;lang=cz",
-      "totalPass": 27,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 18,
-            "B": 9,
+            "A": 50,
+            "B": 0,
             "C": 0,
             "D": 0,
             "E": 0,
             "F": 0,
             "FN": 0
           },
-          "pass": 27,
+          "pass": 50,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 50,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 50,
           "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.729Z"
 }

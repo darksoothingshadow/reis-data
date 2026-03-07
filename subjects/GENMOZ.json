@@ -1,6 +1,5 @@
 {
   "courseCode": "GENMOZ",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2021/2022 - AF",
@@ -12,6 +11,34 @@
       "totalFail": 1,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 0,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 0,
+          "fail": 1
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 34,
@@ -21,6 +48,20 @@
             "E": 0,
             "F": 1,
             "FN": 0
+          },
+          "pass": 49,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 34,
+            "B": 14,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 1
           },
           "pass": 49,
           "fail": 1
@@ -53,5 +94,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.659Z"
 }

@@ -1,20 +1,19 @@
 {
   "courseCode": "HVPA",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2020/2021 - ICV",
       "semesterId": "632",
       "year": 2020,
-      "type": "credit",
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=632;predmet=127946;lang=cz",
-      "totalPass": 74,
+      "totalPass": 1,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 0,
+            "A": 1,
             "B": 0,
             "C": 0,
             "D": 0,
@@ -22,16 +21,25 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 74,
-          "fail": 0,
-          "creditGrades": {
-            "zap": 74,
-            "nezap": 0,
-            "zapNedost": 0
-          }
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.702Z"
 }

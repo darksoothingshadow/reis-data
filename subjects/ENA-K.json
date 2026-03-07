@@ -1,6 +1,5 @@
 {
   "courseCode": "ENA-K",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - PEF",
@@ -11,6 +10,34 @@
       "totalPass": 12,
       "totalFail": 4,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 0,
+            "D": 2,
+            "E": 3,
+            "F": 5,
+            "FN": 0
+          },
+          "pass": 7,
+          "fail": 5
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 3,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,6 +51,20 @@
           },
           "pass": 12,
           "fail": 4
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 13,
+            "FN": 2
+          },
+          "pass": 1,
+          "fail": 15
         }
       ]
     },
@@ -37,6 +78,34 @@
       "totalFail": 5,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 3,
+            "D": 1,
+            "E": 3,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 0,
@@ -49,6 +118,20 @@
           },
           "pass": 14,
           "fail": 5
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 2,
+            "D": 2,
+            "E": 0,
+            "F": 9,
+            "FN": 5
+          },
+          "pass": 5,
+          "fail": 14
         }
       ]
     },
@@ -62,6 +145,34 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 0,
@@ -74,6 +185,20 @@
           },
           "pass": 3,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 2
         }
       ]
     },
@@ -87,6 +212,20 @@
       "totalFail": 10,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 2,
+            "F": 1,
+            "FN": 2
+          },
+          "pass": 2,
+          "fail": 3
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 1,
@@ -99,9 +238,23 @@
           },
           "pass": 13,
           "fail": 10
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 3,
+            "D": 4,
+            "E": 3,
+            "F": 4,
+            "FN": 8
+          },
+          "pass": 11,
+          "fail": 12
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.402Z"
 }

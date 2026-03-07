@@ -1,6 +1,5 @@
 {
   "courseCode": "EBC-UFU",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - PEF",
@@ -11,6 +10,34 @@
       "totalPass": 381,
       "totalFail": 81,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 2,
+            "D": 10,
+            "E": 18,
+            "F": 16,
+            "FN": 0
+          },
+          "pass": 31,
+          "fail": 16
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 2,
+            "E": 6,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 9,
+          "fail": 3
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,9 +51,23 @@
           },
           "pass": 381,
           "fail": 81
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 69,
+            "B": 55,
+            "C": 89,
+            "D": 61,
+            "E": 67,
+            "F": 62,
+            "FN": 59
+          },
+          "pass": 341,
+          "fail": 121
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.323Z"
 }

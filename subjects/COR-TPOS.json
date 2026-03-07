@@ -1,6 +1,5 @@
 {
   "courseCode": "COR-TPOS",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - AF",
@@ -13,6 +12,25 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 26,
+          "fail": 16,
+          "creditGrades": {
+            "zap": 26,
+            "nezap": 13,
+            "zapNedost": 3
+          }
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -42,6 +60,44 @@
       "totalFail": 10,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 6,
+          "creditGrades": {
+            "zap": 3,
+            "nezap": 6,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 3,
+          "creditGrades": {
+            "zap": 3,
+            "nezap": 3,
+            "zapNedost": 0
+          }
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 0,
@@ -59,6 +115,25 @@
             "nezap": 9,
             "zapNedost": 1
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 36,
+          "fail": 16,
+          "creditGrades": {
+            "zap": 36,
+            "nezap": 15,
+            "zapNedost": 1
+          }
         }
       ]
     },
@@ -73,6 +148,25 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 31,
+          "fail": 28,
+          "creditGrades": {
+            "zap": 31,
+            "nezap": 22,
+            "zapNedost": 6
+          }
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -119,6 +213,25 @@
             "nezap": 14,
             "zapNedost": 7
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 46,
+          "fail": 21,
+          "creditGrades": {
+            "zap": 46,
+            "nezap": 14,
+            "zapNedost": 7
+          }
         }
       ]
     },
@@ -149,9 +262,28 @@
             "nezap": 9,
             "zapNedost": 8
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 56,
+          "fail": 17,
+          "creditGrades": {
+            "zap": 56,
+            "nezap": 9,
+            "zapNedost": 8
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.031Z"
 }

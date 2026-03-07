@@ -1,6 +1,5 @@
 {
   "courseCode": "RRRZR",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - FRRMS",
@@ -11,6 +10,34 @@
       "totalPass": 65,
       "totalFail": 0,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 2,
+            "B": 0,
+            "C": 0,
+            "D": 3,
+            "E": 4,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 9,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,56 +51,20 @@
           },
           "pass": 65,
           "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2023/2024 - FRRMS",
-      "semesterId": "737",
-      "year": 2023,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=737;predmet=146666;lang=cz",
-      "totalPass": 60,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
-            "A": 24,
-            "B": 12,
-            "C": 12,
-            "D": 7,
-            "E": 5,
-            "F": 0,
-            "FN": 0
+            "A": 5,
+            "B": 8,
+            "C": 10,
+            "D": 12,
+            "E": 20,
+            "F": 9,
+            "FN": 1
           },
-          "pass": 60,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2022/2023 - FRRMS",
-      "semesterId": "695",
-      "year": 2022,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=695;predmet=136863;lang=cz",
-      "totalPass": 43,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 8,
-            "B": 14,
-            "C": 8,
-            "D": 8,
-            "E": 5,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 43,
-          "fail": 0
+          "pass": 55,
+          "fail": 10
         }
       ]
     },
@@ -87,6 +78,20 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 0,
+            "D": 2,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 32,
@@ -99,6 +104,126 @@
           },
           "pass": 61,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 31,
+            "B": 10,
+            "C": 5,
+            "D": 4,
+            "E": 7,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 57,
+          "fail": 4
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2023/2024 - FRRMS",
+      "semesterId": "737",
+      "year": 2023,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=737;predmet=146666;lang=cz",
+      "totalPass": 60,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 24,
+            "B": 12,
+            "C": 12,
+            "D": 7,
+            "E": 5,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 60,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 23,
+            "B": 12,
+            "C": 11,
+            "D": 6,
+            "E": 5,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 57,
+          "fail": 3
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2022/2023 - FRRMS",
+      "semesterId": "695",
+      "year": 2022,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=695;predmet=136863;lang=cz",
+      "totalPass": 43,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 14,
+            "C": 8,
+            "D": 8,
+            "E": 5,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 43,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 8,
+            "B": 13,
+            "C": 8,
+            "D": 8,
+            "E": 4,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 41,
+          "fail": 2
         }
       ]
     },
@@ -113,6 +238,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 21,
+            "C": 10,
+            "D": 6,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 46,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 7,
             "B": 21,
@@ -153,5 +292,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.422Z"
 }

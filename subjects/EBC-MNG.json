@@ -1,6 +1,5 @@
 {
   "courseCode": "EBC-MNG",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - PEF",
@@ -11,6 +10,44 @@
       "totalPass": 388,
       "totalFail": 99,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 132,
+          "fail": 53,
+          "creditGrades": {
+            "zap": 132,
+            "nezap": 44,
+            "zapNedost": 9
+          }
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 25,
+          "fail": 9,
+          "creditGrades": {
+            "zap": 25,
+            "nezap": 9,
+            "zapNedost": 0
+          }
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -29,9 +66,28 @@
             "nezap": 30,
             "zapNedost": 69
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 231,
+          "fail": 256,
+          "creditGrades": {
+            "zap": 231,
+            "nezap": 180,
+            "zapNedost": 76
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.275Z"
 }

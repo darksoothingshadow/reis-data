@@ -1,6 +1,5 @@
 {
   "courseCode": "EBA-LUA",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - PEF",
@@ -9,7 +8,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=152266;lang=cz",
       "totalPass": 3,
-      "totalFail": 1,
+      "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -20,10 +19,24 @@
             "D": 0,
             "E": 1,
             "F": 0,
-            "FN": 1
+            "FN": 0
           },
           "pass": 3,
-          "fail": 1
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
         }
       ]
     },
@@ -38,6 +51,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 2,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 1,
             "B": 0,
@@ -74,9 +101,23 @@
           },
           "pass": 3,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.209Z"
 }

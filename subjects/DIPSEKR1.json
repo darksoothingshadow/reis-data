@@ -1,6 +1,5 @@
 {
   "courseCode": "DIPSEKR1",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - AF",
@@ -26,6 +25,74 @@
           "fail": 0,
           "creditGrades": {
             "zap": 25,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 25,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 25,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2024/2025 - AF",
+      "semesterId": "704",
+      "year": 2024,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=704;predmet=152746;lang=cz",
+      "totalPass": 34,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 34,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 34,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 34,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 34,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -59,20 +126,9 @@
             "nezap": 1,
             "zapNedost": 0
           }
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2024/2025 - AF",
-      "semesterId": "704",
-      "year": 2024,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=704;predmet=152746;lang=cz",
-      "totalPass": 34,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -82,16 +138,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 34,
-          "fail": 0,
+          "pass": 32,
+          "fail": 1,
           "creditGrades": {
-            "zap": 34,
-            "nezap": 0,
+            "zap": 32,
+            "nezap": 1,
             "zapNedost": 0
           }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.079Z"
 }

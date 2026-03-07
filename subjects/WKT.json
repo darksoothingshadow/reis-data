@@ -1,6 +1,5 @@
 {
   "courseCode": "WKT",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2023/2024 - ZF",
@@ -13,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 1,
             "B": 0,
@@ -49,6 +62,20 @@
           },
           "pass": 29,
           "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 11,
+            "B": 12,
+            "C": 6,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 29,
+          "fail": 2
         }
       ]
     },
@@ -63,6 +90,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 6,
+            "B": 6,
+            "C": 3,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 15,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 6,
             "B": 6,
@@ -103,5 +144,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.796Z"
 }

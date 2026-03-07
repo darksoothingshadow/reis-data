@@ -1,6 +1,5 @@
 {
   "courseCode": "ZEBOTK",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - AF",
@@ -11,6 +10,20 @@
       "totalPass": 23,
       "totalFail": 5,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 2,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,6 +37,20 @@
           },
           "pass": 23,
           "fail": 5
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 8,
+            "B": 7,
+            "C": 3,
+            "D": 2,
+            "E": 1,
+            "F": 0,
+            "FN": 7
+          },
+          "pass": 21,
+          "fail": 7
         }
       ]
     },
@@ -38,6 +65,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 8,
+            "C": 4,
+            "D": 4,
+            "E": 0,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 23,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 7,
             "B": 8,
@@ -74,6 +115,20 @@
           },
           "pass": 30,
           "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 15,
+            "B": 6,
+            "C": 5,
+            "D": 3,
+            "E": 1,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 30,
+          "fail": 2
         }
       ]
     },
@@ -87,6 +142,20 @@
       "totalFail": 2,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 3,
@@ -99,9 +168,23 @@
           },
           "pass": 14,
           "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 4,
+            "C": 2,
+            "D": 2,
+            "E": 2,
+            "F": 2,
+            "FN": 1
+          },
+          "pass": 13,
+          "fail": 3
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.871Z"
 }

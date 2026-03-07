@@ -1,84 +1,6 @@
 {
   "courseCode": "ZPFL",
-  "aliases": [
-    "ZAPRF"
-  ],
   "stats": [
-    {
-      "semesterName": "LS 2024/2025 - ZF",
-      "semesterId": "780",
-      "year": 2024,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=780;predmet=157546;lang=cz",
-      "totalPass": 20,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 1,
-            "B": 5,
-            "C": 7,
-            "D": 7,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 20,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2023/2024 - ZF",
-      "semesterId": "762",
-      "year": 2023,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=762;predmet=151589;lang=cz",
-      "totalPass": 16,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 3,
-            "B": 3,
-            "C": 7,
-            "D": 3,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 16,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2021/2022 - ZF",
-      "semesterId": "683",
-      "year": 2021,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=134128;lang=cz",
-      "totalPass": 16,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 5,
-            "B": 8,
-            "C": 3,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 16,
-          "fail": 0
-        }
-      ]
-    },
     {
       "semesterName": "LS 2020/2021 - ZF",
       "semesterId": "638",
@@ -90,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 9,
+            "B": 4,
+            "C": 6,
+            "D": 4,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 23,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 9,
             "B": 4,
@@ -130,5 +66,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.939Z"
 }

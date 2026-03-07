@@ -1,8 +1,5 @@
 {
   "courseCode": "INET1",
-  "aliases": [
-    "INET"
-  ],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - AF",
@@ -13,6 +10,34 @@
       "totalPass": 76,
       "totalFail": 1,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 2,
+            "D": 2,
+            "E": 2,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 7,
+          "fail": 2
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -26,6 +51,20 @@
           },
           "pass": 76,
           "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 14,
+            "B": 16,
+            "C": 22,
+            "D": 9,
+            "E": 6,
+            "F": 5,
+            "FN": 5
+          },
+          "pass": 67,
+          "fail": 10
         }
       ]
     },
@@ -39,6 +78,20 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 1,
+            "C": 2,
+            "D": 4,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 9,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 17,
@@ -51,6 +104,20 @@
           },
           "pass": 74,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 16,
+            "B": 11,
+            "C": 21,
+            "D": 8,
+            "E": 9,
+            "F": 6,
+            "FN": 3
+          },
+          "pass": 65,
+          "fail": 9
         }
       ]
     },
@@ -64,6 +131,34 @@
       "totalFail": 1,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 2,
+            "D": 2,
+            "E": 0,
+            "F": 1,
+            "FN": 1
+          },
+          "pass": 5,
+          "fail": 2
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 1
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 14,
@@ -76,59 +171,23 @@
           },
           "pass": 66,
           "fail": 1
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2021/2022 - AF",
-      "semesterId": "687",
-      "year": 2021,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=687;predmet=133981;lang=cz",
-      "totalPass": 65,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
-            "A": 18,
+            "A": 13,
             "B": 10,
-            "C": 28,
-            "D": 4,
-            "E": 5,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 65,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2020/2021 - AF",
-      "semesterId": "640",
-      "year": 2020,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=640;predmet=126441;lang=cz",
-      "totalPass": 52,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 8,
-            "B": 9,
             "C": 24,
-            "D": 8,
-            "E": 3,
-            "F": 0,
-            "FN": 0
+            "D": 6,
+            "E": 7,
+            "F": 4,
+            "FN": 3
           },
-          "pass": 52,
-          "fail": 0
+          "pass": 60,
+          "fail": 7
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.722Z"
 }

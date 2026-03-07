@@ -1,39 +1,6 @@
 {
   "courseCode": "EBC-AKP",
-  "aliases": [
-    "AKAP"
-  ],
   "stats": [
-    {
-      "semesterName": "LS 2024/2025 - ICV",
-      "semesterId": "781",
-      "year": 2024,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=781;predmet=157912;lang=cz",
-      "totalPass": 53,
-      "totalFail": 2,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 53,
-          "fail": 2,
-          "creditGrades": {
-            "zap": 53,
-            "nezap": 2,
-            "zapNedost": 0
-          }
-        }
-      ]
-    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -43,6 +10,25 @@
       "totalPass": 445,
       "totalFail": 26,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 2,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -61,6 +47,25 @@
             "nezap": 26,
             "zapNedost": 0
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 443,
+          "fail": 28,
+          "creditGrades": {
+            "zap": 443,
+            "nezap": 28,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -73,6 +78,25 @@
       "totalPass": 348,
       "totalFail": 27,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 7,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 7,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -91,20 +115,9 @@
             "nezap": 21,
             "zapNedost": 6
           }
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2023/2024 - ICV",
-      "semesterId": "750",
-      "year": 2023,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=750;predmet=151723;lang=cz",
-      "totalPass": 41,
-      "totalFail": 3,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -114,12 +127,12 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 41,
-          "fail": 3,
+          "pass": 341,
+          "fail": 34,
           "creditGrades": {
-            "zap": 41,
-            "nezap": 3,
-            "zapNedost": 0
+            "zap": 341,
+            "nezap": 28,
+            "zapNedost": 6
           }
         }
       ]
@@ -133,6 +146,25 @@
       "totalPass": 349,
       "totalFail": 48,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 22,
+          "fail": 1,
+          "creditGrades": {
+            "zap": 22,
+            "nezap": 1,
+            "zapNedost": 0
+          }
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -151,20 +183,9 @@
             "nezap": 48,
             "zapNedost": 0
           }
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2022/2023 - ICV",
-      "semesterId": "716",
-      "year": 2022,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=716;predmet=142341;lang=cz",
-      "totalPass": 50,
-      "totalFail": 8,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -174,12 +195,12 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 50,
-          "fail": 8,
+          "pass": 327,
+          "fail": 70,
           "creditGrades": {
-            "zap": 50,
-            "nezap": 8,
-            "zapNedost": 0
+            "zap": 327,
+            "nezap": 49,
+            "zapNedost": 21
           }
         }
       ]
@@ -211,20 +232,9 @@
             "nezap": 5,
             "zapNedost": 0
           }
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2021/2022 - ICV",
-      "semesterId": "675",
-      "year": 2021,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=675;predmet=134421;lang=cz",
-      "totalPass": 43,
-      "totalFail": 6,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -234,12 +244,12 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 43,
-          "fail": 6,
+          "pass": 35,
+          "fail": 5,
           "creditGrades": {
-            "zap": 43,
-            "nezap": 1,
-            "zapNedost": 5
+            "zap": 35,
+            "nezap": 5,
+            "zapNedost": 0
           }
         }
       ]
@@ -253,6 +263,25 @@
       "totalPass": 300,
       "totalFail": 86,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 4,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -269,6 +298,25 @@
           "creditGrades": {
             "zap": 300,
             "nezap": 50,
+            "zapNedost": 36
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 296,
+          "fail": 90,
+          "creditGrades": {
+            "zap": 296,
+            "nezap": 54,
             "zapNedost": 36
           }
         }
@@ -301,6 +349,25 @@
             "nezap": 3,
             "zapNedost": 3
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 26,
+          "fail": 6,
+          "creditGrades": {
+            "zap": 26,
+            "nezap": 3,
+            "zapNedost": 3
+          }
         }
       ]
     },
@@ -313,6 +380,25 @@
       "totalPass": 264,
       "totalFail": 90,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 3,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -331,9 +417,28 @@
             "nezap": 76,
             "zapNedost": 14
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 261,
+          "fail": 93,
+          "creditGrades": {
+            "zap": 261,
+            "nezap": 79,
+            "zapNedost": 14
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.233Z"
 }

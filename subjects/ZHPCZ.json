@@ -1,6 +1,5 @@
 {
   "courseCode": "ZHPCZ",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2021/2022 - AF",
@@ -13,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 13,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 14,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 13,
             "B": 0,
@@ -37,6 +50,20 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 2,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 18,
@@ -49,6 +76,20 @@
           },
           "pass": 29,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 17,
+            "B": 0,
+            "C": 2,
+            "D": 5,
+            "E": 2,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 26,
+          "fail": 3
         }
       ]
     },
@@ -63,6 +104,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 2,
+            "C": 2,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 13,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 8,
             "B": 2,
@@ -103,5 +158,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.901Z"
 }

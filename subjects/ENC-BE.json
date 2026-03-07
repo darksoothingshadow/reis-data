@@ -1,6 +1,5 @@
 {
   "courseCode": "ENC-BE",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - PEF",
@@ -13,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 1,
+            "C": 4,
+            "D": 2,
+            "E": 2,
+            "F": 0,
+            "FN": 10
+          },
+          "pass": 13,
+          "fail": 10
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 4,
             "B": 1,
@@ -49,9 +62,23 @@
           },
           "pass": 13,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 5,
+            "B": 3,
+            "C": 3,
+            "D": 1,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 13,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.470Z"
 }

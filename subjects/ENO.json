@@ -1,81 +1,56 @@
 {
   "courseCode": "ENO",
-  "aliases": [
-    "ENOLO"
-  ],
   "stats": [
-    {
-      "semesterName": "LS 2024/2025 - ZF",
-      "semesterId": "780",
-      "year": 2024,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=780;predmet=157452;lang=cz",
-      "totalPass": 45,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 24,
-            "B": 8,
-            "C": 9,
-            "D": 0,
-            "E": 4,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 45,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2023/2024 - ZF",
-      "semesterId": "762",
-      "year": 2023,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=762;predmet=151415;lang=cz",
-      "totalPass": 49,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 16,
-            "B": 13,
-            "C": 18,
-            "D": 2,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 49,
-          "fail": 0
-        }
-      ]
-    },
     {
       "semesterName": "LS 2021/2022 - ZF",
       "semesterId": "683",
       "year": 2021,
       "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=134008;lang=cz",
-      "totalPass": 48,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=135010;lang=cz",
+      "totalPass": 1,
       "totalFail": 0,
       "terms": [
         {
-          "term": "Všechny termíny",
+          "term": "1. opravný",
           "grades": {
-            "A": 17,
-            "B": 11,
-            "C": 13,
-            "D": 1,
-            "E": 6,
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
             "F": 0,
             "FN": 0
           },
-          "pass": 48,
+          "pass": 1,
           "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 0,
+          "fail": 1
         }
       ]
     },
@@ -84,23 +59,37 @@
       "semesterId": "638",
       "year": 2020,
       "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=126795;lang=cz",
-      "totalPass": 54,
-      "totalFail": 2,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=128624;lang=cz",
+      "totalPass": 1,
+      "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 9,
-            "B": 15,
-            "C": 22,
-            "D": 3,
-            "E": 5,
-            "F": 1,
-            "FN": 1
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
           },
-          "pass": 54,
-          "fail": 2
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
         }
       ]
     },
@@ -130,5 +119,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.536Z"
 }

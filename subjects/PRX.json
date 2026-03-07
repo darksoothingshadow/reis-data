@@ -1,6 +1,5 @@
 {
   "courseCode": "PRX",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2023/2024 - PEF",
@@ -13,6 +12,25 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 2,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -59,6 +77,25 @@
             "nezap": 0,
             "zapNedost": 0
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 6,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 6,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -73,6 +110,25 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 9,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 9,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -119,20 +175,9 @@
             "nezap": 0,
             "zapNedost": 0
           }
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2021/2022 - ZF",
-      "semesterId": "683",
-      "year": 2021,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=134050;lang=cz",
-      "totalPass": 15,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -142,10 +187,10 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 15,
+          "pass": 38,
           "fail": 0,
           "creditGrades": {
-            "zap": 15,
+            "zap": 38,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -179,16 +224,35 @@
             "nezap": 0,
             "zapNedost": 0
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 57,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 57,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
     {
-      "semesterName": "ZS 2021/2022 - ZF",
-      "semesterId": "652",
+      "semesterName": "LS 2021/2022 - ZF",
+      "semesterId": "683",
       "year": 2021,
       "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=652;predmet=132517;lang=cz",
-      "totalPass": 1,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=134050;lang=cz",
+      "totalPass": 15,
       "totalFail": 0,
       "terms": [
         {
@@ -202,10 +266,29 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 1,
+          "pass": 15,
           "fail": 0,
           "creditGrades": {
-            "zap": 1,
+            "zap": 15,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 15,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 15,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -239,16 +322,35 @@
             "nezap": 0,
             "zapNedost": 0
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 199,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 199,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
     {
-      "semesterName": "LS 2020/2021 - ZF",
-      "semesterId": "638",
-      "year": 2020,
+      "semesterName": "ZS 2021/2022 - ZF",
+      "semesterId": "652",
+      "year": 2021,
       "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=126742;lang=cz",
-      "totalPass": 32,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=652;predmet=132517;lang=cz",
+      "totalPass": 1,
       "totalFail": 0,
       "terms": [
         {
@@ -262,10 +364,29 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 32,
+          "pass": 1,
           "fail": 0,
           "creditGrades": {
-            "zap": 32,
+            "zap": 1,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 1,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -299,16 +420,35 @@
             "nezap": 0,
             "zapNedost": 0
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 97,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 97,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
     {
-      "semesterName": "ZS 2020/2021 - ZF",
-      "semesterId": "590",
+      "semesterName": "LS 2020/2021 - ZF",
+      "semesterId": "638",
       "year": 2020,
       "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=590;predmet=125736;lang=cz",
-      "totalPass": 1,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=126742;lang=cz",
+      "totalPass": 32,
       "totalFail": 0,
       "terms": [
         {
@@ -322,10 +462,29 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 1,
+          "pass": 32,
           "fail": 0,
           "creditGrades": {
-            "zap": 1,
+            "zap": 32,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 32,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 32,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -356,6 +515,55 @@
           "fail": 0,
           "creditGrades": {
             "zap": 230,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2020/2021 - ZF",
+      "semesterId": "590",
+      "year": 2020,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=590;predmet=125736;lang=cz",
+      "totalPass": 1,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 1,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 1,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -423,5 +631,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.277Z"
 }

@@ -1,6 +1,5 @@
 {
   "courseCode": "PZBP",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - FRRMS",
@@ -13,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 51,
+            "B": 24,
+            "C": 0,
+            "D": 1,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 77,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 51,
             "B": 24,
@@ -37,6 +50,20 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 3,
+            "D": 4,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 10,
@@ -49,6 +76,20 @@
           },
           "pass": 68,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 10,
+            "B": 13,
+            "C": 9,
+            "D": 12,
+            "E": 16,
+            "F": 8,
+            "FN": 0
+          },
+          "pass": 60,
+          "fail": 8
         }
       ]
     },
@@ -62,6 +103,34 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 2,
+            "B": 3,
+            "C": 3,
+            "D": 8,
+            "E": 2,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 18,
+          "fail": 2
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 8,
@@ -74,6 +143,20 @@
           },
           "pass": 84,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 6,
+            "B": 10,
+            "C": 21,
+            "D": 18,
+            "E": 9,
+            "F": 18,
+            "FN": 2
+          },
+          "pass": 64,
+          "fail": 20
         }
       ]
     },
@@ -87,6 +170,34 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 4,
+            "B": 3,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 9,
+          "fail": 3
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 21,
@@ -99,6 +210,20 @@
           },
           "pass": 62,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 17,
+            "B": 12,
+            "C": 7,
+            "D": 12,
+            "E": 2,
+            "F": 12,
+            "FN": 0
+          },
+          "pass": 50,
+          "fail": 12
         }
       ]
     },
@@ -124,9 +249,23 @@
           },
           "pass": 42,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 11,
+            "B": 13,
+            "C": 6,
+            "D": 8,
+            "E": 4,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 42,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.336Z"
 }

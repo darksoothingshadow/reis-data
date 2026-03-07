@@ -1,6 +1,5 @@
 {
   "courseCode": "DEOV",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - ICV",
@@ -13,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 16,
+            "B": 7,
+            "C": 4,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 27,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 16,
             "B": 7,
@@ -49,6 +62,20 @@
           },
           "pass": 15,
           "fail": 4
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 5,
+            "B": 7,
+            "C": 1,
+            "D": 1,
+            "E": 1,
+            "F": 0,
+            "FN": 4
+          },
+          "pass": 15,
+          "fail": 4
         }
       ]
     },
@@ -63,6 +90,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 12,
+            "B": 11,
+            "C": 1,
+            "D": 5,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 29,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 12,
             "B": 11,
@@ -99,9 +140,23 @@
           },
           "pass": 20,
           "fail": 5
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 13,
+            "B": 6,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 5
+          },
+          "pass": 20,
+          "fail": 5
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.066Z"
 }

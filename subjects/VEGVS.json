@@ -1,6 +1,5 @@
 {
   "courseCode": "VEGVS",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - ZF",
@@ -13,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 38,
+            "B": 11,
+            "C": 1,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 51,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 38,
             "B": 11,
@@ -49,6 +62,20 @@
           },
           "pass": 84,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 66,
+            "B": 11,
+            "C": 5,
+            "D": 2,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 84,
+          "fail": 0
         }
       ]
     },
@@ -62,6 +89,20 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 37,
@@ -74,6 +115,20 @@
           },
           "pass": 55,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 37,
+            "B": 7,
+            "C": 10,
+            "D": 0,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 54,
+          "fail": 1
         }
       ]
     },
@@ -99,9 +154,23 @@
           },
           "pass": 58,
           "fail": 10
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 40,
+            "B": 13,
+            "C": 5,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 10
+          },
+          "pass": 58,
+          "fail": 10
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.728Z"
 }

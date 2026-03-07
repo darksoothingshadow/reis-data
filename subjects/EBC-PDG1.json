@@ -1,6 +1,5 @@
 {
   "courseCode": "EBC-PDG1",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2023/2024 - PEF",
@@ -9,7 +8,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=146887;lang=cz",
       "totalPass": 259,
-      "totalFail": 48,
+      "totalFail": 47,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -23,10 +22,29 @@
             "FN": 0
           },
           "pass": 259,
-          "fail": 48,
+          "fail": 47,
           "creditGrades": {
             "zap": 259,
-            "nezap": 48,
+            "nezap": 47,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 259,
+          "fail": 47,
+          "creditGrades": {
+            "zap": 259,
+            "nezap": 47,
             "zapNedost": 0
           }
         }
@@ -39,7 +57,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=138186;lang=cz",
       "totalPass": 253,
-      "totalFail": 37,
+      "totalFail": 36,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -53,10 +71,29 @@
             "FN": 0
           },
           "pass": 253,
-          "fail": 37,
+          "fail": 36,
           "creditGrades": {
             "zap": 253,
-            "nezap": 37,
+            "nezap": 36,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 253,
+          "fail": 36,
+          "creditGrades": {
+            "zap": 253,
+            "nezap": 36,
             "zapNedost": 0
           }
         }
@@ -89,9 +126,28 @@
             "nezap": 39,
             "zapNedost": 0
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 296,
+          "fail": 39,
+          "creditGrades": {
+            "zap": 296,
+            "nezap": 39,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.292Z"
 }

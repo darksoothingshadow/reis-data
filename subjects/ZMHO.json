@@ -1,6 +1,5 @@
 {
   "courseCode": "ZMHO",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - LDF",
@@ -13,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 15,
+            "C": 21,
+            "D": 10,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 52,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 4,
             "B": 15,
@@ -37,6 +50,20 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 3,
@@ -49,6 +76,20 @@
           },
           "pass": 48,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 8,
+            "C": 20,
+            "D": 14,
+            "E": 2,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 47,
+          "fail": 1
         }
       ]
     },
@@ -74,9 +115,23 @@
           },
           "pass": 35,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 5,
+            "C": 15,
+            "D": 10,
+            "E": 5,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 35,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.923Z"
 }

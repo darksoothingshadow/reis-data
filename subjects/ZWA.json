@@ -1,13 +1,12 @@
 {
   "courseCode": "ZWA",
-  "aliases": [],
   "stats": [
     {
-      "semesterName": "LS 2007/2008 - REK",
-      "semesterId": "637",
-      "year": 2007,
+      "semesterName": "LS 2009/2010 - REK",
+      "semesterId": "199",
+      "year": 2009,
       "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=637;predmet=36561;lang=cz",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=199;predmet=48400;lang=cz",
       "totalPass": 2,
       "totalFail": 0,
       "terms": [
@@ -24,70 +23,9 @@
           },
           "pass": 2,
           "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2007/2008 - REK",
-      "semesterId": "534",
-      "year": 2007,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=534;predmet=34515;lang=cz",
-      "totalPass": 5,
-      "totalFail": 2,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 1,
-            "C": 0,
-            "D": 1,
-            "E": 3,
-            "F": 2,
-            "FN": 0
-          },
-          "pass": 5,
-          "fail": 2
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2005/2006 - REK",
-      "semesterId": "338",
-      "year": 2005,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=338;predmet=23900;lang=cz",
-      "totalPass": 2,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 1,
-            "B": 1,
-            "C": 0,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 2,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2009/2010 - REK",
-      "semesterId": "199",
-      "year": 2009,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=199;predmet=48400;lang=cz",
-      "totalPass": 2,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -124,6 +62,20 @@
           },
           "pass": 3,
           "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 2,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 1
         }
       ]
     },
@@ -137,6 +89,20 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 0,
@@ -149,6 +115,20 @@
           },
           "pass": 7,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 6,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 6,
+          "fail": 1
         }
       ]
     },
@@ -162,6 +142,34 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 1,
+            "C": 1,
+            "D": 4,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 7,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 1,
@@ -174,9 +182,168 @@
           },
           "pass": 10,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 1,
+            "F": 8,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 8
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2007/2008 - REK",
+      "semesterId": "637",
+      "year": 2007,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=637;predmet=36561;lang=cz",
+      "totalPass": 2,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2007/2008 - REK",
+      "semesterId": "534",
+      "year": 2007,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=534;predmet=34515;lang=cz",
+      "totalPass": 5,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 3,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 2
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 1,
+            "E": 3,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 7,
+            "FN": 0
+          },
+          "pass": 0,
+          "fail": 7
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2005/2006 - REK",
+      "semesterId": "338",
+      "year": 2005,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=338;predmet=23900;lang=cz",
+      "totalPass": 2,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 1,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.970Z"
 }

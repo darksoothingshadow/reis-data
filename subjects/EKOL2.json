@@ -1,6 +1,5 @@
 {
   "courseCode": "EKOL2",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - ZF",
@@ -11,6 +10,20 @@
       "totalPass": 47,
       "totalFail": 0,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,6 +37,20 @@
           },
           "pass": 47,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 11,
+            "B": 13,
+            "C": 19,
+            "D": 2,
+            "E": 1,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 46,
+          "fail": 1
         }
       ]
     },
@@ -37,6 +64,20 @@
       "totalFail": 2,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 22,
@@ -49,6 +90,20 @@
           },
           "pass": 43,
           "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 22,
+            "B": 9,
+            "C": 9,
+            "D": 1,
+            "E": 0,
+            "F": 1,
+            "FN": 3
+          },
+          "pass": 41,
+          "fail": 4
         }
       ]
     },
@@ -62,6 +117,34 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 0,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 20,
@@ -74,6 +157,20 @@
           },
           "pass": 40,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 20,
+            "B": 5,
+            "C": 8,
+            "D": 6,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 39,
+          "fail": 1
         }
       ]
     },
@@ -99,6 +196,20 @@
           },
           "pass": 6,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 4,
+            "C": 2,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 6,
+          "fail": 0
         }
       ]
     },
@@ -112,6 +223,20 @@
       "totalFail": 3,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 2,
+            "D": 0,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 1
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 18,
@@ -124,6 +249,20 @@
           },
           "pass": 49,
           "fail": 3
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 18,
+            "B": 12,
+            "C": 6,
+            "D": 7,
+            "E": 2,
+            "F": 5,
+            "FN": 2
+          },
+          "pass": 45,
+          "fail": 7
         }
       ]
     },
@@ -178,5 +317,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.375Z"
 }

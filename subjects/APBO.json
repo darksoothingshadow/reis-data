@@ -1,134 +1,6 @@
 {
   "courseCode": "APBO",
-  "aliases": [
-    "APBOT"
-  ],
   "stats": [
-    {
-      "semesterName": "ZS 2025/2026 - ZF",
-      "semesterId": "794",
-      "year": 2025,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=794;predmet=159135;lang=cz",
-      "totalPass": 18,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 6,
-            "B": 1,
-            "C": 1,
-            "D": 2,
-            "E": 8,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 18,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2024/2025 - ZF",
-      "semesterId": "763",
-      "year": 2024,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=763;predmet=153997;lang=cz",
-      "totalPass": 26,
-      "totalFail": 1,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 7,
-            "B": 6,
-            "C": 1,
-            "D": 2,
-            "E": 10,
-            "F": 1,
-            "FN": 0
-          },
-          "pass": 26,
-          "fail": 1
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2023/2024 - ZF",
-      "semesterId": "735",
-      "year": 2023,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=735;predmet=146423;lang=cz",
-      "totalPass": 21,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 10,
-            "B": 5,
-            "C": 1,
-            "D": 2,
-            "E": 3,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 21,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2022/2023 - ZF",
-      "semesterId": "693",
-      "year": 2022,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=693;predmet=136934;lang=cz",
-      "totalPass": 19,
-      "totalFail": 5,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 11,
-            "B": 3,
-            "C": 4,
-            "D": 0,
-            "E": 1,
-            "F": 2,
-            "FN": 3
-          },
-          "pass": 19,
-          "fail": 5
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2021/2022 - ZF",
-      "semesterId": "652",
-      "year": 2021,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=652;predmet=131154;lang=cz",
-      "totalPass": 17,
-      "totalFail": 1,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 4,
-            "B": 0,
-            "C": 1,
-            "D": 5,
-            "E": 7,
-            "F": 1,
-            "FN": 0
-          },
-          "pass": 17,
-          "fail": 1
-        }
-      ]
-    },
     {
       "semesterName": "ZS 2020/2021 - ZF",
       "semesterId": "590",
@@ -138,6 +10,34 @@
       "totalPass": 20,
       "totalFail": 1,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 2,
+            "E": 2,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -151,6 +51,20 @@
           },
           "pass": 20,
           "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 0,
+            "C": 8,
+            "D": 3,
+            "E": 1,
+            "F": 6,
+            "FN": 1
+          },
+          "pass": 14,
+          "fail": 7
         }
       ]
     },
@@ -180,5 +94,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:26.840Z"
 }

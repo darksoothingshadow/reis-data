@@ -1,34 +1,6 @@
 {
   "courseCode": "HEU",
-  "aliases": [
-    "ENA-HZEU"
-  ],
   "stats": [
-    {
-      "semesterName": "ZS 2022/2023 - PEF",
-      "semesterId": "689",
-      "year": 2022,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=134948;lang=cz",
-      "totalPass": 3,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 1,
-            "B": 1,
-            "C": 1,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 3,
-          "fail": 0
-        }
-      ]
-    },
     {
       "semesterName": "ZS 2021/2022 - PEF",
       "semesterId": "650",
@@ -40,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 9,
+            "B": 2,
+            "C": 7,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 5
+          },
+          "pass": 19,
+          "fail": 5
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 9,
             "B": 2,
@@ -80,5 +66,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.683Z"
 }

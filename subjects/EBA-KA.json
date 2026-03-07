@@ -1,6 +1,5 @@
 {
   "courseCode": "EBA-KA",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2020/2021 - PEF",
@@ -9,8 +8,46 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=124641;lang=cz",
       "totalPass": 15,
-      "totalFail": 14,
+      "totalFail": 13,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 6,
+          "creditGrades": {
+            "zap": 3,
+            "nezap": 4,
+            "zapNedost": 2
+          }
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 3,
+          "creditGrades": {
+            "zap": 1,
+            "nezap": 3,
+            "zapNedost": 0
+          }
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -23,15 +60,34 @@
             "FN": 0
           },
           "pass": 15,
-          "fail": 14,
+          "fail": 13,
           "creditGrades": {
             "zap": 15,
-            "nezap": 13,
+            "nezap": 12,
             "zapNedost": 1
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 11,
+          "fail": 17,
+          "creditGrades": {
+            "zap": 11,
+            "nezap": 14,
+            "zapNedost": 3
           }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.208Z"
 }

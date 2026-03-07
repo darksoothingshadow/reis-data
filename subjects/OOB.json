@@ -1,6 +1,5 @@
 {
   "courseCode": "OOB",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2020/2021 - PEF",
@@ -11,6 +10,34 @@
       "totalPass": 217,
       "totalFail": 18,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 20,
+            "B": 26,
+            "C": 20,
+            "D": 7,
+            "E": 0,
+            "F": 22,
+            "FN": 0
+          },
+          "pass": 73,
+          "fail": 22
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 6,
+            "B": 6,
+            "C": 6,
+            "D": 1,
+            "E": 0,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 19,
+          "fail": 3
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,9 +51,23 @@
           },
           "pass": 217,
           "fail": 18
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 51,
+            "B": 40,
+            "C": 29,
+            "D": 4,
+            "E": 1,
+            "F": 96,
+            "FN": 14
+          },
+          "pass": 125,
+          "fail": 110
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.061Z"
 }

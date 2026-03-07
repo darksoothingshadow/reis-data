@@ -1,8 +1,5 @@
 {
   "courseCode": "ATBI1",
-  "aliases": [
-    "ATB"
-  ],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - ZF",
@@ -15,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 6,
+            "B": 13,
+            "C": 8,
+            "D": 3,
+            "E": 0,
+            "F": 6,
+            "FN": 0
+          },
+          "pass": 30,
+          "fail": 6
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 6,
             "B": 13,
@@ -39,6 +50,20 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 6,
@@ -51,6 +76,20 @@
           },
           "pass": 38,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 6,
+            "B": 13,
+            "C": 9,
+            "D": 9,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 37,
+          "fail": 1
         }
       ]
     },
@@ -65,6 +104,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 13,
+            "B": 10,
+            "C": 5,
+            "D": 1,
+            "E": 0,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 29,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 13,
             "B": 10,
@@ -101,6 +154,20 @@
           },
           "pass": 39,
           "fail": 5
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 7,
+            "B": 15,
+            "C": 10,
+            "D": 5,
+            "E": 2,
+            "F": 5,
+            "FN": 0
+          },
+          "pass": 39,
+          "fail": 5
         }
       ]
     },
@@ -126,59 +193,23 @@
           },
           "pass": 22,
           "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2020/2021 - ZF",
-      "semesterId": "590",
-      "year": 2020,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=590;predmet=122732;lang=cz",
-      "totalPass": 33,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
-            "A": 8,
-            "B": 13,
+            "A": 2,
+            "B": 10,
             "C": 7,
-            "D": 4,
+            "D": 2,
             "E": 1,
             "F": 0,
             "FN": 0
           },
-          "pass": 33,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2019/2020 - ZF",
-      "semesterId": "557",
-      "year": 2019,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=557;predmet=116496;lang=cz",
-      "totalPass": 18,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 5,
-            "B": 2,
-            "C": 3,
-            "D": 6,
-            "E": 2,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 18,
+          "pass": 22,
           "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:26.865Z"
 }

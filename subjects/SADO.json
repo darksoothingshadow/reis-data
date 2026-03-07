@@ -1,6 +1,5 @@
 {
   "courseCode": "SADO",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2021/2022 - LDF",
@@ -11,6 +10,20 @@
       "totalPass": 51,
       "totalFail": 1,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,6 +37,20 @@
           },
           "pass": 51,
           "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 7,
+            "C": 11,
+            "D": 19,
+            "E": 12,
+            "F": 1,
+            "FN": 2
+          },
+          "pass": 49,
+          "fail": 3
         }
       ]
     },
@@ -49,9 +76,23 @@
           },
           "pass": 31,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 12,
+            "C": 2,
+            "D": 6,
+            "E": 11,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 31,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.449Z"
 }

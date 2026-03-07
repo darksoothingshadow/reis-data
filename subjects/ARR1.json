@@ -1,6 +1,5 @@
 {
   "courseCode": "ARR1",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2020/2021 - ZF",
@@ -11,6 +10,34 @@
       "totalPass": 25,
       "totalFail": 1,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 1,
+            "E": 2,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,6 +51,20 @@
           },
           "pass": 25,
           "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 5,
+            "B": 3,
+            "C": 4,
+            "D": 3,
+            "E": 5,
+            "F": 5,
+            "FN": 1
+          },
+          "pass": 20,
+          "fail": 6
         }
       ]
     },
@@ -53,5 +94,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:26.857Z"
 }

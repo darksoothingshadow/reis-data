@@ -1,8 +1,5 @@
 {
   "courseCode": "HODVY",
-  "aliases": [
-    "HOVY"
-  ],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - LDF",
@@ -15,6 +12,25 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 22,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 22,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -61,20 +77,9 @@
             "nezap": 0,
             "zapNedost": 0
           }
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2023/2024 - LDF",
-      "semesterId": "758",
-      "year": 2023,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=758;predmet=150924;lang=cz",
-      "totalPass": 5,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -95,42 +100,12 @@
       ]
     },
     {
-      "semesterName": "LS 2022/2023 - LDF",
-      "semesterId": "725",
-      "year": 2022,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=143360;lang=cz",
-      "totalPass": 1,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 1,
-          "fail": 0,
-          "creditGrades": {
-            "zap": 1,
-            "nezap": 0,
-            "zapNedost": 0
-          }
-        }
-      ]
-    },
-    {
       "semesterName": "LS 2021/2022 - LDF",
       "semesterId": "673",
       "year": 2021,
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=673;predmet=133322;lang=cz",
-      "totalPass": 21,
+      "totalPass": 17,
       "totalFail": 0,
       "terms": [
         {
@@ -144,10 +119,29 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 21,
+          "pass": 17,
           "fail": 0,
           "creditGrades": {
-            "zap": 21,
+            "zap": 17,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 17,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 17,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -160,7 +154,7 @@
       "year": 2020,
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=611;predmet=127709;lang=cz",
-      "totalPass": 12,
+      "totalPass": 7,
       "totalFail": 0,
       "terms": [
         {
@@ -174,10 +168,29 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 12,
+          "pass": 7,
           "fail": 0,
           "creditGrades": {
-            "zap": 12,
+            "zap": 7,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 7,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 7,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -215,5 +228,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.685Z"
 }

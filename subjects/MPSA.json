@@ -1,6 +1,5 @@
 {
   "courseCode": "MPSA",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2021/2022 - PEF",
@@ -13,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 3,
+            "C": 7,
+            "D": 2,
+            "E": 0,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 14,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 2,
             "B": 3,
@@ -49,9 +62,23 @@
           },
           "pass": 36,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 10,
+            "B": 19,
+            "C": 7,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 36,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.956Z"
 }

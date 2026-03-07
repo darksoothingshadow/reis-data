@@ -1,8 +1,5 @@
 {
   "courseCode": "UPPA",
-  "aliases": [
-    "UPOP"
-  ],
   "stats": [
     {
       "semesterName": "LS 2022/2023 - ICV",
@@ -31,6 +28,25 @@
             "nezap": 0,
             "zapNedost": 0
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 1,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -39,8 +55,8 @@
       "semesterId": "702",
       "year": 2022,
       "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=702;predmet=139966;lang=cz",
-      "totalPass": 67,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=702;predmet=138137;lang=cz",
+      "totalPass": 66,
       "totalFail": 1,
       "terms": [
         {
@@ -54,10 +70,29 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 67,
+          "pass": 66,
           "fail": 1,
           "creditGrades": {
-            "zap": 67,
+            "zap": 66,
+            "nezap": 1,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 66,
+          "fail": 1,
+          "creditGrades": {
+            "zap": 66,
             "nezap": 1,
             "zapNedost": 0
           }
@@ -69,9 +104,9 @@
       "semesterId": "655",
       "year": 2021,
       "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=655;predmet=130694;lang=cz",
-      "totalPass": 62,
-      "totalFail": 5,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=655;predmet=130675;lang=cz",
+      "totalPass": 44,
+      "totalFail": 1,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -84,16 +119,35 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 62,
-          "fail": 5,
+          "pass": 44,
+          "fail": 1,
           "creditGrades": {
-            "zap": 62,
+            "zap": 44,
             "nezap": 0,
-            "zapNedost": 5
+            "zapNedost": 1
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 44,
+          "fail": 1,
+          "creditGrades": {
+            "zap": 44,
+            "nezap": 0,
+            "zapNedost": 1
           }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.702Z"
 }

@@ -1,8 +1,5 @@
 {
   "courseCode": "HDV",
-  "aliases": [
-    "HDR"
-  ],
   "stats": [
     {
       "semesterName": "ZS 2021/2022 - LDF",
@@ -31,20 +28,9 @@
             "nezap": 0,
             "zapNedost": 0
           }
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2020/2021 - LDF",
-      "semesterId": "611",
-      "year": 2020,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=611;predmet=128639;lang=cz",
-      "totalPass": 2,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -54,10 +40,10 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 2,
+          "pass": 12,
           "fail": 0,
           "creditGrades": {
-            "zap": 2,
+            "zap": 12,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -65,5 +51,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.682Z"
 }

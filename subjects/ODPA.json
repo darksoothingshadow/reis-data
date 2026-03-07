@@ -1,6 +1,5 @@
 {
   "courseCode": "ODPA",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2020/2021 - ICV",
@@ -11,6 +10,20 @@
       "totalPass": 74,
       "totalFail": 6,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 5,
+            "B": 1,
+            "C": 3,
+            "D": 7,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 16,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,9 +37,23 @@
           },
           "pass": 74,
           "fail": 6
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 8,
+            "B": 11,
+            "C": 9,
+            "D": 18,
+            "E": 12,
+            "F": 18,
+            "FN": 4
+          },
+          "pass": 58,
+          "fail": 22
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.039Z"
 }

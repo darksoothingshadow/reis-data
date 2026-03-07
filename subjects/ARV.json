@@ -1,6 +1,5 @@
 {
   "courseCode": "ARV",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2021/2022 - ZF",
@@ -13,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 2,
             "B": 0,
@@ -37,6 +50,34 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 1,
+            "D": 2,
+            "E": 0,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 2
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 15,
@@ -49,6 +90,20 @@
           },
           "pass": 26,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 14,
+            "B": 2,
+            "C": 3,
+            "D": 1,
+            "E": 0,
+            "F": 6,
+            "FN": 0
+          },
+          "pass": 20,
+          "fail": 6
         }
       ]
     },
@@ -78,5 +133,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:26.861Z"
 }

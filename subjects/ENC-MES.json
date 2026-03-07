@@ -1,8 +1,5 @@
 {
   "courseCode": "ENC-MES",
-  "aliases": [
-    "MS"
-  ],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - PEF",
@@ -13,6 +10,20 @@
       "totalPass": 48,
       "totalFail": 1,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -26,59 +37,23 @@
           },
           "pass": 48,
           "fail": 1
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2021/2022 - PEF",
-      "semesterId": "671",
-      "year": 2021,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=671;predmet=136117;lang=cz",
-      "totalPass": 3,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 3,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 3,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2020/2021 - PEF",
-      "semesterId": "610",
-      "year": 2020,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=127355;lang=cz",
-      "totalPass": 27,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
             "A": 4,
-            "B": 4,
-            "C": 11,
-            "D": 6,
-            "E": 2,
-            "F": 0,
-            "FN": 0
+            "B": 11,
+            "C": 20,
+            "D": 8,
+            "E": 4,
+            "F": 1,
+            "FN": 1
           },
-          "pass": 27,
-          "fail": 0
+          "pass": 47,
+          "fail": 2
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.494Z"
 }

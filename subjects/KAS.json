@@ -1,6 +1,5 @@
 {
   "courseCode": "KAS",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2021/2022 - PEF",
@@ -11,6 +10,20 @@
       "totalPass": 17,
       "totalFail": 0,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 3,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,6 +37,20 @@
           },
           "pass": 17,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 3,
+            "C": 5,
+            "D": 5,
+            "E": 1,
+            "F": 2,
+            "FN": 1
+          },
+          "pass": 14,
+          "fail": 3
         }
       ]
     },
@@ -53,5 +80,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.750Z"
 }

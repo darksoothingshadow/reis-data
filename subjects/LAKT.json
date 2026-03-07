@@ -1,6 +1,5 @@
 {
   "courseCode": "LAKT",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2020/2021 - AF",
@@ -11,6 +10,20 @@
       "totalPass": 37,
       "totalFail": 0,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,9 +37,23 @@
           },
           "pass": 37,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 9,
+            "B": 11,
+            "C": 6,
+            "D": 4,
+            "E": 5,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 35,
+          "fail": 2
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.848Z"
 }

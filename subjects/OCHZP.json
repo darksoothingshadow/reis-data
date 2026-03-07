@@ -1,6 +1,5 @@
 {
   "courseCode": "OCHZP",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - AF",
@@ -11,6 +10,20 @@
       "totalPass": 205,
       "totalFail": 18,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 1,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,31 +37,20 @@
           },
           "pass": 205,
           "fail": 18
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2023/2024 - AF",
-      "semesterId": "733",
-      "year": 2023,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=733;predmet=146376;lang=cz",
-      "totalPass": 128,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
-            "A": 13,
-            "B": 30,
-            "C": 32,
-            "D": 31,
-            "E": 22,
+            "A": 133,
+            "B": 41,
+            "C": 23,
+            "D": 5,
+            "E": 0,
             "F": 0,
-            "FN": 0
+            "FN": 21
           },
-          "pass": 128,
-          "fail": 0
+          "pass": 202,
+          "fail": 21
         }
       ]
     },
@@ -62,6 +64,34 @@
       "totalFail": 1,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 3,
+            "C": 5,
+            "D": 8,
+            "E": 4,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 21,
+          "fail": 2
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 1
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 46,
@@ -74,6 +104,87 @@
           },
           "pass": 239,
           "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 45,
+            "B": 50,
+            "C": 56,
+            "D": 48,
+            "E": 18,
+            "F": 22,
+            "FN": 1
+          },
+          "pass": 217,
+          "fail": 23
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2023/2024 - AF",
+      "semesterId": "733",
+      "year": 2023,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=733;predmet=146376;lang=cz",
+      "totalPass": 128,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 13,
+            "B": 30,
+            "C": 32,
+            "D": 31,
+            "E": 22,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 128,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 13,
+            "B": 30,
+            "C": 31,
+            "D": 30,
+            "E": 22,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 126,
+          "fail": 2
         }
       ]
     },
@@ -87,6 +198,34 @@
       "totalFail": 2,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 4,
+            "D": 1,
+            "E": 3,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 10,
+          "fail": 2
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 0,
+          "fail": 2
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 4,
@@ -99,6 +238,20 @@
           },
           "pass": 122,
           "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 4,
+            "B": 23,
+            "C": 28,
+            "D": 34,
+            "E": 23,
+            "F": 10,
+            "FN": 2
+          },
+          "pass": 112,
+          "fail": 12
         }
       ]
     },
@@ -112,6 +265,34 @@
       "totalFail": 7,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 2,
+            "C": 6,
+            "D": 4,
+            "E": 26,
+            "F": 19,
+            "FN": 0
+          },
+          "pass": 39,
+          "fail": 19
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 1,
+            "D": 3,
+            "E": 7,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 12,
+          "fail": 4
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 2,
@@ -124,6 +305,20 @@
           },
           "pass": 109,
           "fail": 7
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 1,
+            "B": 6,
+            "C": 12,
+            "D": 10,
+            "E": 29,
+            "F": 58,
+            "FN": 0
+          },
+          "pass": 58,
+          "fail": 58
         }
       ]
     },
@@ -137,6 +332,34 @@
       "totalFail": 0,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 2,
+            "B": 0,
+            "C": 3,
+            "D": 0,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 12,
@@ -149,9 +372,23 @@
           },
           "pass": 39,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 10,
+            "B": 5,
+            "C": 8,
+            "D": 8,
+            "E": 2,
+            "F": 6,
+            "FN": 0
+          },
+          "pass": 33,
+          "fail": 6
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.034Z"
 }

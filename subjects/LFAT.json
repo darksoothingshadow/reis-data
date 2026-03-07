@@ -1,6 +1,5 @@
 {
   "courseCode": "LFAT",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2020/2021 - LDF",
@@ -11,6 +10,20 @@
       "totalPass": 101,
       "totalFail": 1,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -24,9 +37,23 @@
           },
           "pass": 101,
           "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 4,
+            "B": 17,
+            "C": 29,
+            "D": 26,
+            "E": 23,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 99,
+          "fail": 3
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.857Z"
 }

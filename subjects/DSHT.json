@@ -1,8 +1,5 @@
 {
   "courseCode": "DSHT",
-  "aliases": [
-    "DHST"
-  ],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - LDF",
@@ -15,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 15,
+            "B": 5,
+            "C": 3,
+            "D": 2,
+            "E": 4,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 29,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 15,
             "B": 5,
@@ -39,6 +50,34 @@
       "totalFail": 2,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 3,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 2,
+            "FN": 2
+          },
+          "pass": 5,
+          "fail": 4
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 3,
@@ -51,6 +90,20 @@
           },
           "pass": 27,
           "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 7,
+            "C": 5,
+            "D": 1,
+            "E": 4,
+            "F": 4,
+            "FN": 5
+          },
+          "pass": 20,
+          "fail": 9
         }
       ]
     },
@@ -64,6 +117,20 @@
       "totalFail": 6,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 1,
+            "D": 1,
+            "E": 4,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 7,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 6,
@@ -76,6 +143,20 @@
           },
           "pass": 18,
           "fail": 6
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 6,
+            "B": 0,
+            "C": 4,
+            "D": 0,
+            "E": 1,
+            "F": 11,
+            "FN": 2
+          },
+          "pass": 11,
+          "fail": 13
         }
       ]
     },
@@ -89,6 +170,20 @@
       "totalFail": 2,
       "terms": [
         {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 2,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        },
+        {
           "term": "Všechny termíny",
           "grades": {
             "A": 4,
@@ -101,59 +196,23 @@
           },
           "pass": 29,
           "fail": 2
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2021/2022 - LDF",
-      "semesterId": "649",
-      "year": 2021,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=649;predmet=130087;lang=cz",
-      "totalPass": 13,
-      "totalFail": 6,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
-            "A": 3,
-            "B": 1,
-            "C": 1,
-            "D": 6,
-            "E": 2,
-            "F": 5,
+            "A": 4,
+            "B": 4,
+            "C": 8,
+            "D": 10,
+            "E": 0,
+            "F": 4,
             "FN": 1
           },
-          "pass": 13,
-          "fail": 6
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2020/2021 - LDF",
-      "semesterId": "588",
-      "year": 2020,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123899;lang=cz",
-      "totalPass": 28,
-      "totalFail": 1,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 6,
-            "B": 5,
-            "C": 10,
-            "D": 5,
-            "E": 2,
-            "F": 1,
-            "FN": 0
-          },
-          "pass": 28,
-          "fail": 1
+          "pass": 26,
+          "fail": 5
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.113Z"
 }

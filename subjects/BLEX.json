@@ -1,8 +1,5 @@
 {
   "courseCode": "BLEX",
-  "aliases": [
-    "BEXP"
-  ],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - LDF",
@@ -15,6 +12,25 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 1,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -61,6 +77,25 @@
             "nezap": 0,
             "zapNedost": 0
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 6,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 6,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -70,7 +105,7 @@
       "year": 2022,
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=141005;lang=cz",
-      "totalPass": 4,
+      "totalPass": 3,
       "totalFail": 0,
       "terms": [
         {
@@ -84,10 +119,29 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 4,
+          "pass": 3,
           "fail": 0,
           "creditGrades": {
-            "zap": 4,
+            "zap": 3,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 3,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -100,7 +154,7 @@
       "year": 2021,
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=673;predmet=133401;lang=cz",
-      "totalPass": 11,
+      "totalPass": 3,
       "totalFail": 0,
       "terms": [
         {
@@ -114,27 +168,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 11,
+          "pass": 3,
           "fail": 0,
           "creditGrades": {
-            "zap": 11,
+            "zap": 3,
             "nezap": 0,
             "zapNedost": 0
           }
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2020/2021 - LDF",
-      "semesterId": "611",
-      "year": 2020,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=611;predmet=127649;lang=cz",
-      "totalPass": 40,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -144,10 +187,10 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 40,
+          "pass": 3,
           "fail": 0,
           "creditGrades": {
-            "zap": 40,
+            "zap": 3,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -155,5 +198,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:26.919Z"
 }

@@ -1,6 +1,5 @@
 {
   "courseCode": "EXC-KAPL",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2022/2023 - PEF",
@@ -11,6 +10,25 @@
       "totalPass": 22,
       "totalFail": 2,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 0,
+          "fail": 2,
+          "creditGrades": {
+            "zap": 0,
+            "nezap": 0,
+            "zapNedost": 2
+          }
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -28,6 +46,25 @@
             "zap": 22,
             "nezap": 0,
             "zapNedost": 2
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 22,
+          "fail": 2,
+          "creditGrades": {
+            "zap": 22,
+            "nezap": 2,
+            "zapNedost": 0
           }
         }
       ]
@@ -59,6 +96,25 @@
             "nezap": 0,
             "zapNedost": 0
           }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 33,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 33,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -73,6 +129,25 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 23,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 23,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -123,5 +198,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.580Z"
 }

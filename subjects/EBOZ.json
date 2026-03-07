@@ -1,8 +1,5 @@
 {
   "courseCode": "EBOZ",
-  "aliases": [
-    "ERBO"
-  ],
   "stats": [
     {
       "semesterName": "LS 2020/2021 - LDF",
@@ -13,6 +10,34 @@
       "totalPass": 4,
       "totalFail": 1,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 0,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 0,
+          "fail": 1
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -26,39 +51,23 @@
           },
           "pass": 4,
           "fail": 1
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2020/2021 - LDF",
-      "semesterId": "588",
-      "year": 2020,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123811;lang=cz",
-      "totalPass": 80,
-      "totalFail": 3,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
-            "A": 0,
-            "B": 0,
+            "A": 1,
+            "B": 2,
             "C": 0,
-            "D": 0,
+            "D": 1,
             "E": 0,
             "F": 0,
-            "FN": 0
+            "FN": 1
           },
-          "pass": 80,
-          "fail": 3,
-          "creditGrades": {
-            "zap": 80,
-            "nezap": 0,
-            "zapNedost": 3
-          }
+          "pass": 4,
+          "fail": 1
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.342Z"
 }

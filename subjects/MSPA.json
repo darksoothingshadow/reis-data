@@ -1,6 +1,5 @@
 {
   "courseCode": "MSPA",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2022/2023 - ICV",
@@ -13,6 +12,25 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 67,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 67,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -54,6 +72,20 @@
           },
           "pass": 24,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 6,
+            "B": 11,
+            "C": 7,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 24,
+          "fail": 0
         }
       ]
     },
@@ -68,6 +100,25 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 44,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 44,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 0,
             "B": 0,
@@ -109,9 +160,23 @@
           },
           "pass": 52,
           "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 26,
+            "B": 17,
+            "C": 8,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 52,
+          "fail": 2
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.964Z"
 }

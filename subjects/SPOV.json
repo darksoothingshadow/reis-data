@@ -1,8 +1,5 @@
 {
   "courseCode": "SPOV",
-  "aliases": [
-    "SGOP"
-  ],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - ICV",
@@ -15,6 +12,20 @@
       "terms": [
         {
           "term": "Všechny termíny",
+          "grades": {
+            "A": 15,
+            "B": 9,
+            "C": 3,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 28,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
           "grades": {
             "A": 15,
             "B": 9,
@@ -51,6 +62,20 @@
           },
           "pass": 16,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 16,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 16,
+          "fail": 0
         }
       ]
     },
@@ -76,6 +101,20 @@
           },
           "pass": 29,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 21,
+            "B": 2,
+            "C": 4,
+            "D": 2,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 29,
+          "fail": 0
         }
       ]
     },
@@ -84,8 +123,8 @@
       "semesterId": "702",
       "year": 2022,
       "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=702;predmet=139979;lang=cz",
-      "totalPass": 20,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=702;predmet=138149;lang=cz",
+      "totalPass": 19,
       "totalFail": 0,
       "terms": [
         {
@@ -93,58 +132,22 @@
           "grades": {
             "A": 15,
             "B": 3,
-            "C": 2,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 20,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2021/2022 - ICV",
-      "semesterId": "675",
-      "year": 2021,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=675;predmet=136097;lang=cz",
-      "totalPass": 1,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 0,
             "C": 1,
             "D": 0,
             "E": 0,
             "F": 0,
             "FN": 0
           },
-          "pass": 1,
+          "pass": 19,
           "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2021/2022 - ICV",
-      "semesterId": "655",
-      "year": 2021,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=655;predmet=130692;lang=cz",
-      "totalPass": 19,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
-            "A": 7,
-            "B": 5,
-            "C": 5,
-            "D": 2,
+            "A": 15,
+            "B": 3,
+            "C": 1,
+            "D": 0,
             "E": 0,
             "F": 0,
             "FN": 0
@@ -155,5 +158,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.530Z"
 }

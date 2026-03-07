@@ -1,6 +1,5 @@
 {
   "courseCode": "KNSAA",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - FRRMS",
@@ -9,8 +8,36 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=778;predmet=157788;lang=cz",
       "totalPass": 13,
-      "totalFail": 5,
+      "totalFail": 4,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 3,
+            "FN": 1
+          },
+          "pass": 1,
+          "fail": 4
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 2,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 1
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -20,10 +47,24 @@
             "D": 4,
             "E": 2,
             "F": 3,
-            "FN": 2
+            "FN": 1
           },
           "pass": 13,
-          "fail": 5
+          "fail": 4
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 3,
+            "C": 2,
+            "D": 3,
+            "E": 0,
+            "F": 7,
+            "FN": 0
+          },
+          "pass": 10,
+          "fail": 7
         }
       ]
     },
@@ -49,9 +90,23 @@
           },
           "pass": 10,
           "fail": 3
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 0,
+            "C": 4,
+            "D": 2,
+            "E": 2,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 10,
+          "fail": 3
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:27.784Z"
 }

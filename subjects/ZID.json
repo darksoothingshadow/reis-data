@@ -1,6 +1,5 @@
 {
   "courseCode": "ZID",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2009/2010 - REK",
@@ -24,22 +23,11 @@
           },
           "pass": 1,
           "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2009/2010 - REK",
-      "semesterId": "198",
-      "year": 2009,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=198;predmet=45926;lang=cz",
-      "totalPass": 4,
-      "totalFail": 0,
-      "terms": [
+        },
         {
-          "term": "Všechny termíny",
+          "term": "Řádný termín",
           "grades": {
-            "A": 0,
+            "A": 1,
             "B": 0,
             "C": 0,
             "D": 0,
@@ -47,13 +35,47 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 4,
-          "fail": 0,
-          "creditGrades": {
-            "zap": 4,
-            "nezap": 0,
-            "zapNedost": 0
-          }
+          "pass": 1,
+          "fail": 0
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2009/2010 - REK",
+      "semesterId": "198",
+      "year": 2009,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=198;predmet=45926;lang=cz",
+      "totalPass": 2,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
         }
       ]
     },
@@ -79,9 +101,23 @@
           },
           "pass": 1,
           "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "lastUpdated": "2026-03-07T08:18:28.902Z"
 }
