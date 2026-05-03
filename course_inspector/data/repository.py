@@ -56,5 +56,12 @@ class CourseRepository:
                 GradeDistribution(r["sem_name"], r["year"], grades, r["evaluation_type"])
             )
 
+    def get_by_code(self, code: str) -> "Course | None":
+        """Return a single Course by exact code, or None if not found."""
+        row = self._conn.execute(
+            "SELECT code, name FROM courses WHERE code = ? LIMIT 1", (code,)
+        ).fetchone()
+        return Course(row["code"], row["name"]) if row else None
+
     def close(self) -> None:
         self._conn.close()

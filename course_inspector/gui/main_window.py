@@ -14,6 +14,7 @@ class MainWindow:
         self._repo = repository
         self._saved = saved_list
         self._current_course = None
+        self._search_results = []
 
         self._root = ttk.Window(themename="darkly")
         self._root.title("MENDELU Lupa")
@@ -159,12 +160,10 @@ class MainWindow:
         sel = self._saved_list_widget.curselection()
         if not sel:
             return
-        entries = self._saved.get_all()
-        code = entries[sel[0]].code
-        results = self._repo.search(code)
-        exact = next((c for c in results if c.code == code), None)
-        if exact:
-            self._load_course(exact)
+        code = self._saved.get_all()[sel[0]].code
+        course = self._repo.get_by_code(code)
+        if course:
+            self._load_course(course)
 
     def _load_course(self, course) -> None:
         self._current_course = course

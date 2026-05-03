@@ -36,8 +36,8 @@ class GradeChart:
             counts = [dist.grades[g] for g in grade_keys]
             offset = (i - n_semesters / 2 + 0.5) * width
             color = BAR_COLORS[i % len(BAR_COLORS)]
-            bars = self._ax.bar(x + offset, counts, width, label=dist.semester_name,
-                                color=color, alpha=0.85)
+            self._ax.bar(x + offset, counts, width, label=dist.semester_name,
+                         color=color, alpha=0.85)
 
         self._ax.set_xticks(x)
         self._ax.set_xticklabels(grade_keys, color="white")
