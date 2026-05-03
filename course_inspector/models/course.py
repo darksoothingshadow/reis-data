@@ -1,14 +1,16 @@
 class GradeDistribution:
-    """Grade counts for one semester (aggregate term 'Všechny termíny')."""
+    """Grade counts for one semester (aggregate term 'Všechny termíny').
 
-    GRADE_KEYS = ("A", "B", "C", "D", "E", "F", "FN")
+    evaluation_type is either 'exam' (grades A-F/FN) or 'credit' (Zap/Nezap).
+    """
 
-    def __init__(self, semester_name, year, a, b, c, d, e, f, fn):
+    def __init__(self, semester_name, year, grades: dict, evaluation_type: str):
         self.semester_name = semester_name
         self.year = year
-        self.grades = {"A": a, "B": b, "C": c, "D": d, "E": e, "F": f, "FN": fn}
-        self.total = sum(self.grades.values())
-        failing = f + fn
+        self.grades = grades
+        self.evaluation_type = evaluation_type
+        self.total = sum(grades.values())
+        failing = grades.get("F", 0) + grades.get("FN", 0) + grades.get("Nezap", 0)
         self.fail_rate = failing / self.total if self.total > 0 else 0.0
 
 

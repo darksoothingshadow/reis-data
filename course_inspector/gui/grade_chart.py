@@ -6,8 +6,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 from models.course import GradeDistribution
 
-GRADE_KEYS = GradeDistribution.GRADE_KEYS
-BAR_COLORS = ["#4CAF50", "#8BC34A", "#CDDC39", "#FFC107", "#FF9800", "#f44336", "#9C27B0"]
+BAR_COLORS = ["#4CAF50", "#FFC107", "#2196F3", "#FF9800", "#9C27B0", "#f44336", "#00BCD4"]
 
 
 class GradeChart:
@@ -26,19 +25,21 @@ class GradeChart:
             self._draw_empty()
             return
 
+        # all distributions share the same keys — take them from the first one
+        grade_keys = list(distributions[0].grades.keys())
         n_semesters = len(distributions)
-        x = np.arange(len(GRADE_KEYS))
+        x = np.arange(len(grade_keys))
         width = 0.8 / n_semesters
 
         for i, dist in enumerate(distributions):
-            counts = [dist.grades[g] for g in GRADE_KEYS]
+            counts = [dist.grades[g] for g in grade_keys]
             offset = (i - n_semesters / 2 + 0.5) * width
-            bars = self._ax.bar(x + offset, counts, width, label=dist.semester_name)
-            for bar in bars:
-                bar.set_alpha(0.85)
+            color = BAR_COLORS[i % len(BAR_COLORS)]
+            bars = self._ax.bar(x + offset, counts, width, label=dist.semester_name,
+                                color=color, alpha=0.85)
 
         self._ax.set_xticks(x)
-        self._ax.set_xticklabels(GRADE_KEYS, color="white")
+        self._ax.set_xticklabels(grade_keys, color="white")
         self._ax.tick_params(colors="white")
         self._ax.set_facecolor("#2b2b2b")
         self._ax.spines[:].set_color("#555555")

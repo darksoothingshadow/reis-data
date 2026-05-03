@@ -29,9 +29,10 @@ class CourseRepository:
     def load_distributions(self, course: Course, n: int = 3) -> None:
         """Fill course.distributions with data from the last n semesters."""
         sql = """
-            SELECT s.name AS sem_name, s.year,
+            SELECT s.name AS sem_name, s.year, sr.evaluation_type,
                    sr.grade_a, sr.grade_b, sr.grade_c, sr.grade_d,
-                   sr.grade_e, sr.grade_f, sr.grade_fn
+                   sr.grade_e, sr.grade_f, sr.grade_fn,
+                   sr.grade_zap, sr.grade_nezap
             FROM success_rates sr
             JOIN courses c ON sr.course_id = c.id
             JOIN semesters s ON sr.semester_id = s.id
@@ -41,14 +42,19 @@ class CourseRepository:
             LIMIT ?
         """
         rows = self._conn.execute(sql, (course.code, n)).fetchall()
-        course.distributions = [
-            GradeDistribution(
-                r["sem_name"], r["year"],
-                r["grade_a"], r["grade_b"], r["grade_c"], r["grade_d"],
-                r["grade_e"], r["grade_f"], r["grade_fn"],
+        course.distributions = []
+        for r in rows:
+            if r["evaluation_type"] == "credit":
+                grades = {"Zap": r["grade_zap"], "Nezap": r["grade_nezap"]}
+            else:
+                grades = {
+                    "A": r["grade_a"], "B": r["grade_b"], "C": r["grade_c"],
+                    "D": r["grade_d"], "E": r["grade_e"], "F": r["grade_f"],
+                    "FN": r["grade_fn"],
+                }
+            course.distributions.append(
+                GradeDistribution(r["sem_name"], r["year"], grades, r["evaluation_type"])
             )
-            for r in rows
-        ]
 
     def close(self) -> None:
         self._conn.close()
