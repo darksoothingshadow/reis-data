@@ -32,7 +32,7 @@ class MainWindow:
         ttk.Label(outer, text="MENDELU Lupa", font=("Segoe UI", 16, "bold"),
                   bootstyle="info").pack(anchor=W, pady=(0, 6))
 
-        panes = ttk.PanedWindow(outer, orient=HORIZONTAL)
+        panes = ttk.Panedwindow(outer, orient=HORIZONTAL)
         panes.pack(fill=BOTH, expand=YES)
 
         panes.add(self._build_left(panes), weight=1)
@@ -92,8 +92,7 @@ class MainWindow:
         self._stats_label = ttk.Label(frame, text="", bootstyle="secondary")
         self._stats_label.pack(anchor=W, pady=(2, 6))
 
-        chart_frame = ttk.LabelFrame(frame, text="Rozložení známek (poslední 3 semestry)",
-                                     padding=4)
+        chart_frame = ttk.LabelFrame(frame, text="Rozložení známek (poslední 3 semestry)")
         chart_frame.pack(fill=BOTH, expand=YES)
         self._chart = GradeChart(chart_frame)
 
@@ -101,7 +100,7 @@ class MainWindow:
         bottom.pack(fill=X, pady=(8, 0))
 
         # note section
-        note_frame = ttk.LabelFrame(bottom, text="Poznámka", padding=4)
+        note_frame = ttk.LabelFrame(bottom, text="Poznámka")
         note_frame.pack(fill=X)
 
         self._note_text = tk.Text(
