@@ -3,14 +3,16 @@ from pathlib import Path
 
 from models.course import Course, GradeDistribution
 
+# Path is resolved relative to this file so the app works from any working directory.
 _DB_PATH = Path(__file__).parent.parent.parent / "success-rates.db"
 
 
 class CourseRepository:
-    """Reads course data from the local SQLite snapshot."""
+    """Reads course data from the local SQLite snapshot (success-rates.db)."""
 
     def __init__(self, db_path=_DB_PATH):
         self._conn = sqlite3.connect(db_path)
+        # Row objects allow column access by name (r["code"]) instead of index.
         self._conn.row_factory = sqlite3.Row
 
     def search(self, query: str) -> list[Course]:
@@ -23,11 +25,23 @@ class CourseRepository:
             ORDER BY code
             LIMIT 50
         """
+        # Parameterised query — prevents SQL injection.
         rows = self._conn.execute(sql, (pattern, pattern)).fetchall()
         return [Course(r["code"], r["name"]) for r in rows]
 
+    def get_by_code(self, code: str) -> "Course | None":
+        """Return a single Course by exact code, or None if not found."""
+        row = self._conn.execute(
+            "SELECT code, name FROM courses WHERE code = ? LIMIT 1", (code,)
+        ).fetchone()
+        return Course(row["code"], row["name"]) if row else None
+
     def load_distributions(self, course: Course, n: int = 3) -> None:
-        """Fill course.distributions with data from the last n semesters."""
+        """Fill course.distributions with data from the last n semesters.
+
+        Uses only the 'Všechny termíny' (all-terms aggregate) row per semester
+        so each semester is represented by a single combined result.
+        """
         sql = """
             SELECT s.name AS sem_name, s.year, sr.evaluation_type,
                    sr.grade_a, sr.grade_b, sr.grade_c, sr.grade_d,
@@ -44,6 +58,7 @@ class CourseRepository:
         rows = self._conn.execute(sql, (course.code, n)).fetchall()
         course.distributions = []
         for r in rows:
+            # Credit courses (zápočet) use pass/fail counts, not letter grades.
             if r["evaluation_type"] == "credit":
                 grades = {"Zap": r["grade_zap"], "Nezap": r["grade_nezap"]}
             else:
@@ -55,13 +70,6 @@ class CourseRepository:
             course.distributions.append(
                 GradeDistribution(r["sem_name"], r["year"], grades, r["evaluation_type"])
             )
-
-    def get_by_code(self, code: str) -> "Course | None":
-        """Return a single Course by exact code, or None if not found."""
-        row = self._conn.execute(
-            "SELECT code, name FROM courses WHERE code = ? LIMIT 1", (code,)
-        ).fetchone()
-        return Course(row["code"], row["name"]) if row else None
 
     def close(self) -> None:
         self._conn.close()

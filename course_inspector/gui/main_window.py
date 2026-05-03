@@ -14,6 +14,7 @@ class MainWindow:
         self._repo = repository
         self._saved = saved_list
         self._current_course = None
+        # Keeps search result objects in sync with the Listbox display order.
         self._search_results = []
 
         self._root = ttk.Window(themename="darkly")
@@ -33,6 +34,7 @@ class MainWindow:
         ttk.Label(outer, text="MENDELU Lupa", font=("Segoe UI", 16, "bold"),
                   bootstyle="info").pack(anchor=W, pady=(0, 6))
 
+        # Split window into left sidebar and right detail panel.
         panes = ttk.Panedwindow(outer, orient=HORIZONTAL)
         panes.pack(fill=BOTH, expand=YES)
 
@@ -46,6 +48,7 @@ class MainWindow:
         self._search_var = tk.StringVar()
         search_entry = ttk.Entry(frame, textvariable=self._search_var)
         search_entry.pack(fill=X, pady=(2, 4))
+        # Search fires on every keystroke — no button needed.
         search_entry.bind("<KeyRelease>", self._on_search)
 
         ttk.Label(frame, text="Výsledky hledání:").pack(anchor=W)
@@ -100,7 +103,6 @@ class MainWindow:
         bottom = ttk.Frame(frame)
         bottom.pack(fill=X, pady=(8, 0))
 
-        # note section
         note_frame = ttk.LabelFrame(bottom, text="Poznámka")
         note_frame.pack(fill=X)
 
@@ -142,30 +144,30 @@ class MainWindow:
     def _on_search(self, _event=None) -> None:
         query = self._search_var.get().strip()
         self._result_list.delete(0, END)
-        if len(query) < 1:
+        if not query:
             return
-        results = self._repo.search(query)
-        self._search_results = results
-        for course in results:
+        self._search_results = self._repo.search(query)
+        for course in self._search_results:
             self._result_list.insert(END, f"{course.code}  {course.name}")
 
     def _on_select_result(self, _event=None) -> None:
         sel = self._result_list.curselection()
         if not sel:
             return
-        course = self._search_results[sel[0]]
-        self._load_course(course)
+        self._load_course(self._search_results[sel[0]])
 
     def _on_select_saved(self, _event=None) -> None:
         sel = self._saved_list_widget.curselection()
         if not sel:
             return
         code = self._saved.get_all()[sel[0]].code
+        # Direct lookup by code — faster than searching and filtering.
         course = self._repo.get_by_code(code)
         if course:
             self._load_course(course)
 
     def _load_course(self, course) -> None:
+        """Load and display distributions for the selected course."""
         self._current_course = course
         self._repo.load_distributions(course)
 
@@ -182,6 +184,7 @@ class MainWindow:
 
         self._chart.update(course.distributions)
 
+        # Pre-fill note field if this course was previously saved with a note.
         note = self._saved.get_note(course.code)
         self._note_text.delete("1.0", END)
         self._note_text.insert("1.0", note)
@@ -199,7 +202,8 @@ class MainWindow:
     def _on_save_note(self) -> None:
         if self._current_course:
             note = self._note_text.get("1.0", END).strip()
-            self._saved.add(self._current_course.code)  # ensure it's saved first
+            # Ensure the course is in the saved list before attaching a note.
+            self._saved.add(self._current_course.code)
             self._saved.set_note(self._current_course.code, note)
             self._refresh_saved_list()
 
@@ -209,8 +213,10 @@ class MainWindow:
             self._saved.set_note(self._current_course.code, "")
 
     def _refresh_saved_list(self) -> None:
+        """Rebuild the saved-courses listbox from the current SavedList state."""
         self._saved_list_widget.delete(0, END)
         for entry in self._saved.get_all():
+            # ✎ marker indicates the entry has a note attached.
             marker = " ✎" if entry.note else ""
             self._saved_list_widget.insert(END, f"{entry.code}{marker}")
 

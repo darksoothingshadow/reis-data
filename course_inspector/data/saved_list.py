@@ -11,7 +11,11 @@ class SavedEntry:
 
 
 class SavedList:
-    """Persists a list of saved courses with notes to a JSON file."""
+    """Persists a list of saved courses with notes to a JSON file.
+
+    Every mutating method calls _save() immediately so data is never lost
+    even if the application closes unexpectedly.
+    """
 
     def __init__(self, path: Path):
         self._path = path
@@ -19,6 +23,7 @@ class SavedList:
         self._load()
 
     def add(self, code: str) -> None:
+        """Add a course to the list; silently ignored if already present."""
         if not any(e.code == code for e in self._entries):
             self._entries.append(SavedEntry(code))
             self._save()
@@ -47,6 +52,7 @@ class SavedList:
         return ""
 
     def _load(self) -> None:
+        """Load entries from JSON; start with empty list if file doesn't exist yet."""
         if self._path.exists():
             data = json.loads(self._path.read_text(encoding="utf-8"))
             self._entries = [SavedEntry(d["code"], d.get("note", "")) for d in data]

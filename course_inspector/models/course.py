@@ -7,9 +7,10 @@ class GradeDistribution:
     def __init__(self, semester_name, year, grades: dict, evaluation_type: str):
         self.semester_name = semester_name
         self.year = year
-        self.grades = grades
+        self.grades = grades                  # {"A": 10, "B": 5, ...} or {"Zap": 80, "Nezap": 3}
         self.evaluation_type = evaluation_type
         self.total = sum(grades.values())
+        # fail = F + FN for exams, Nezap for credits
         failing = grades.get("F", 0) + grades.get("FN", 0) + grades.get("Nezap", 0)
         self.fail_rate = failing / self.total if self.total > 0 else 0.0
 
@@ -20,6 +21,7 @@ class Course:
     def __init__(self, code, name):
         self.code = code
         self.name = name
+        # filled on demand by CourseRepository.load_distributions()
         self.distributions: list[GradeDistribution] = []
 
     def __str__(self):
