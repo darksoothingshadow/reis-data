@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib
+import matplotlib.ticker
 matplotlib.use("TkAgg")
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
@@ -40,10 +41,11 @@ class GradeChart:
 
         self._ax.set_xticks(x)
         self._ax.set_xticklabels(grade_keys, color="white")
+        self._ax.set_ylabel("Počet studentů", color="white", fontsize=9)
         self._ax.tick_params(colors="white")
+        self._ax.yaxis.set_major_locator(matplotlib.ticker.MaxNLocator(integer=True))
         self._ax.set_facecolor("#2b2b2b")
         self._ax.spines[:].set_color("#555555")
-        self._ax.yaxis.label.set_color("white")
         self._ax.legend(
             fontsize=7, facecolor="#333333", labelcolor="white", framealpha=0.7
         )
