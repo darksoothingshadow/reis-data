@@ -18,12 +18,12 @@ class GradeChart:
         self._ax = self._fig.add_subplot(111)
         self._canvas = FigureCanvasTkAgg(self._fig, master=parent)
         self._canvas.get_tk_widget().pack(fill="both", expand=True)
-        self._draw_empty()
+        self._draw_empty("Vyberte předmět")
 
     def update(self, distributions: list[GradeDistribution]) -> None:
         self._ax.clear()
         if not distributions:
-            self._draw_empty()
+            self._draw_empty("Pro tento předmět nejsou data")
             return
 
         # all distributions share the same keys — take them from the first one
@@ -54,16 +54,18 @@ class GradeChart:
 
     def clear(self) -> None:
         self._ax.clear()
-        self._draw_empty()
+        self._draw_empty("Vyberte předmět")
 
-    def _draw_empty(self) -> None:
+    def _draw_empty(self, message="Žádná data") -> None:
         self._ax.set_facecolor("#2b2b2b")
+        self._ax.set_xticks([])
+        self._ax.set_yticks([])
         self._ax.text(
-            0.5, 0.5, "Vyberte předmět",
+            0.5, 0.5, message,
             transform=self._ax.transAxes,
             ha="center", va="center", color="#888888", fontsize=12,
         )
         self._ax.tick_params(colors="#555555")
-        self._ax.spines[:].set_color("#555555")
+        self._ax.spines[:].set_color("#444444")
         self._fig.tight_layout()
         self._canvas.draw()
