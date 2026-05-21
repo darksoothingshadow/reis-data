@@ -1,0 +1,665 @@
+{
+  "courseCode": "EBC-SSZJ",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-SSZJ"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Správa síťových zařízení Juniper"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Juniper Network Device Management"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 0/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Jiří Balej, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jiří Balej, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Andrej Juríčka (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška a (Protokoly počítačových sítí nebo Počítačové sítě)"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do předmětu a laboratorního prostředí, základy konfigurace (dotace 0/3)"
+    },
+    {
+      "label": "2.",
+      "content": "Základní konfigurace zařízení, přístupová oprávnění, centrální autentizace, systémová nastavení (dotace 0/3)"
+    },
+    {
+      "label": "3.",
+      "content": "Fyzická zařízení, IPv6, DHCP server, logování a monitoring, zálohování konfigurace (dotace 0/3)"
+    },
+    {
+      "label": "4.",
+      "content": "Základní konfigurace zařízení, přístupová oprávnění, centrální autentizace, systémová nastavení (dotace 0/3)"
+    },
+    {
+      "label": "5.",
+      "content": "VLAN, přepínací tabulky, SVI, VRRP (dotace 0/3)"
+    },
+    {
+      "label": "6.",
+      "content": "Layer 2 security – etherchannel, DHCP snooping, DAI (dotace 0/3)"
+    },
+    {
+      "label": "7.",
+      "content": "Statické směrování (dotace 0/3)"
+    },
+    {
+      "label": "8.",
+      "content": "Dynamické směrování (dotace 0/9)"
+    },
+    {
+      "label": "a.",
+      "content": "OSPF"
+    },
+    {
+      "label": "b.",
+      "content": "IS-IS"
+    },
+    {
+      "label": "c.",
+      "content": "BGP"
+    },
+    {
+      "label": "9.",
+      "content": "Routing policy (dotace 0/3)"
+    },
+    {
+      "label": "10.",
+      "content": "Firewallová pravidla (dotace 0/3)"
+    },
+    {
+      "label": "11.",
+      "content": "Quality of Service (dotace 0/3)"
+    },
+    {
+      "label": "12.",
+      "content": "Upgrade Junos OS, J-web interface a automatizace konfigurace (dotace 0/3)"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2024/2025, ZS 2023/2024, ZS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Správa síťových zařízení Juniper"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Juniper Network Device Management"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Jiří Balej, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jiří Balej, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Andrej Juríčka (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a (Protokoly počítačových sítí nebo Počítačové sítě)"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí16.00-18.50Q01.48B-AIIJ. Balej, A. JuríčkaCvičeníKaždý týden18Sobota9.00-12.50Q01.48B-AIIJ. Balej, A. JuríčkaPřednáškaNepravidelně22"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je seznámit studenty se způsoby konfigurace síťových prvků Juniper a připravit je na složení certifikační zkoušky JNCIA-Junos."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do předmětu a laboratorního prostředí, základy konfigurace (dotace 0/3)2.Základní konfigurace zařízení, přístupová oprávnění, centrální autentizace, systémová nastavení (dotace 0/3)3.Fyzická zařízení, IPv6, DHCP server, logování a monitoring, zálohování konfigurace (dotace 0/3)4.Základní konfigurace zařízení, přístupová oprávnění, centrální autentizace, systémová nastavení (dotace 0/3)5.VLAN, přepínací tabulky, SVI, VRRP (dotace 0/3)6.Layer 2 security – etherchannel, DHCP snooping, DAI (dotace 0/3)7.Statické směrování (dotace 0/3)8.Dynamické směrování (dotace 0/9) a.OSPFb.IS-ISc.BGP9.Routing policy (dotace 0/3)10.Firewallová pravidla (dotace 0/3)11.Quality of Service (dotace 0/3)12.Upgrade Junos OS, J-web interface a automatizace konfigurace (dotace 0/3)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Základní konfigurace zařízení, přístupová oprávnění, centrální autentizace, systémová nastavení (dotace 0/3)"
+    },
+    {
+      "label": "[section] Úvod do předmětu a laboratorního prostředí, základy konfigurace",
+      "content": "2.Základní konfigurace zařízení, přístupová oprávnění, centrální autentizace, systémová nastavení (dotace 0/3)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Fyzická zařízení, IPv6, DHCP server, logování a monitoring, zálohování konfigurace (dotace 0/3)"
+    },
+    {
+      "label": "[section] Základní konfigurace zařízení, přístupová oprávnění, centrální autentizace, systémová nastavení",
+      "content": "3.Fyzická zařízení, IPv6, DHCP server, logování a monitoring, zálohování konfigurace (dotace 0/3)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Základní konfigurace zařízení, přístupová oprávnění, centrální autentizace, systémová nastavení (dotace 0/3)"
+    },
+    {
+      "label": "[section] Fyzická zařízení, IPv6, DHCP server, logování a monitoring, zálohování konfigurace",
+      "content": "4.Základní konfigurace zařízení, přístupová oprávnění, centrální autentizace, systémová nastavení (dotace 0/3)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.VLAN, přepínací tabulky, SVI, VRRP (dotace 0/3)"
+    },
+    {
+      "label": "[section] Základní konfigurace zařízení, přístupová oprávnění, centrální autentizace, systémová nastavení",
+      "content": "5.VLAN, přepínací tabulky, SVI, VRRP (dotace 0/3)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Layer 2 security – etherchannel, DHCP snooping, DAI (dotace 0/3)"
+    },
+    {
+      "label": "[section] VLAN, přepínací tabulky, SVI, VRRP",
+      "content": "6.Layer 2 security – etherchannel, DHCP snooping, DAI (dotace 0/3)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Statické směrování (dotace 0/3)"
+    },
+    {
+      "label": "[section] Layer 2 security – etherchannel, DHCP snooping, DAI",
+      "content": "7.Statické směrování (dotace 0/3)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Dynamické směrování (dotace 0/9)"
+    },
+    {
+      "label": "[section] Statické směrování",
+      "content": "8.Dynamické směrování (dotace 0/9)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.OSPFb.IS-ISc.BGP"
+    },
+    {
+      "label": "[section] Dynamické směrování",
+      "content": "a.OSPFb.IS-ISc.BGP"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Firewallová pravidla (dotace 0/3)"
+    },
+    {
+      "label": "[section] Routing policy",
+      "content": "10.Firewallová pravidla (dotace 0/3)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Quality of Service (dotace 0/3)"
+    },
+    {
+      "label": "[section] Firewallová pravidla",
+      "content": "11.Quality of Service (dotace 0/3)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Upgrade Junos OS, J-web interface a automatizace konfigurace (dotace 0/3)"
+    },
+    {
+      "label": "[section] Quality of Service",
+      "content": "12.Upgrade Junos OS, J-web interface a automatizace konfigurace (dotace 0/3)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška0 h16 hcvičení42 h0 hkonzultace0 h40 hpříprava na zkoušku49 h42 hpříprava na průběžné hodnocení49 h42 hCelkem140 h140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Během semestru jsou zadány 3 samostatné úkoly, dohromady za maximálně 45 bodů. Praktická zkouška za maximálně 45 bodů a teoretická zkouška za maximálně 10 bodů. Z každé části (kromě teoretické zkoušky) je nutné získat alespoň 60 % z maxima možných bodů. Známka: A (alespoň 90 bodů), B (83 bodů), C (75 bodů), D (68 bodů), E (60 bodů)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumVypracování semestrální práce45 %45 %Absolvování závěrečného testu10 %10 %Absolvování závěrečné praktické zkoušky45 %45 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní: JNCAA - Junos, Associate (JNCIA-Junos). 2023. https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JNCAA-JNCIA-JUNOS.ZACH, Petr. 2018. Správa síťových zařízení Juniper. Brno: Mendelova univerzita v Brně, 50 s. ISBN 978-80-7509-605-0.Doporučená:SMITH, Stacy; LOONEY, Jonathan. 2016. Automating Junos Administration: Doing More with Less. Beijing: O'Reilly Media, 682 s. ISBN 978-1-4919-2888-2. Juniper SRX series. 2013. Sebastopol, CA.: O'Reilly Media, Inc., 987 s. ISBN 978-1-449-33896-1.SOUTHWICK, Peter. 2012. Juniper Networks warrior. Sebastopol, CA: O'Reilly Media, 429 s. ISBN 978-1-4493-1663-1."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "JNCAA - Junos, Associate (JNCIA-Junos). 2023. https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JNCAA-JNCIA-JUNOS.ZACH, Petr. 2018. Správa síťových zařízení Juniper. Brno: Mendelova univerzita v Brně, 50 s. ISBN 978-80-7509-605-0."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "SMITH, Stacy; LOONEY, Jonathan. 2016. Automating Junos Administration: Doing More with Less. Beijing: O'Reilly Media, 682 s. ISBN 978-1-4919-2888-2. Juniper SRX series. 2013. Sebastopol, CA.: O'Reilly Media, Inc., 987 s. ISBN 978-1-449-33896-1.SOUTHWICK, Peter. 2012. Juniper Networks warrior. Sebastopol, CA: O'Reilly Media, 429 s. ISBN 978-1-4493-1663-1."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-SSZJ"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Správa síťových zařízení Juniper"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Juniper Network Device Management"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 0/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course cannot be studied during abroad internship."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Jiří Balej, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jiří Balej, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Andrej Juríčka (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam and (Computer Networks Protocols or Computer Networks)"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to the course and laboratory environment, configuration basics (allowance 0/3)"
+    },
+    {
+      "label": "2.",
+      "content": "Basic device configuration, access permissions, central authentication, system settings (allowance 0/3)"
+    },
+    {
+      "label": "3.",
+      "content": "Physical devices, IPv6, DHCP server, logging and monitoring, configuration backup (allowance 0/3)"
+    },
+    {
+      "label": "4.",
+      "content": "Basic device configuration, access permissions, central authentication, system settings (allowance 0/3)"
+    },
+    {
+      "label": "5.",
+      "content": "VLAN, switching tables, SVI, VRRP (allowance 0/3)"
+    },
+    {
+      "label": "6.",
+      "content": "Layer 2 security – etherchannel, DHCP snooping, DAI (allowance 0/3)"
+    },
+    {
+      "label": "7.",
+      "content": "Static routing (allowance 0/3)"
+    },
+    {
+      "label": "8.",
+      "content": "Dynamic routing (allowance 0/9)"
+    },
+    {
+      "label": "a.",
+      "content": "OSPF"
+    },
+    {
+      "label": "b.",
+      "content": "IS-IS"
+    },
+    {
+      "label": "c.",
+      "content": "BGP"
+    },
+    {
+      "label": "9.",
+      "content": "Routing policy (allowance 0/3)"
+    },
+    {
+      "label": "10.",
+      "content": "Firewall rules (allowance 0/3)"
+    },
+    {
+      "label": "11.",
+      "content": "Quality of Service (allowance 0/3)"
+    },
+    {
+      "label": "12.",
+      "content": "Junos OS upgrade, J-web interface and configuration automation (allowance 0/3)"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2024/2025, WS 2023/2024, WS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Správa síťových zařízení Juniper"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Juniper Network Device Management"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course cannot be studied during abroad internship."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Jiří Balej, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jiří Balej, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Andrej Juríčka (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam and (Computer Networks Protocols or Computer Networks)"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday16.00-18.50Q01.48B-AIIJ. Balej, A. JuríčkaSeminarEvery week18Saturday9.00-12.50Q01.48B-AIIJ. Balej, A. JuríčkaLectureOccasionally22"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to acquaint students with configuratoon of Juniper nework devices and prepare students for certification exam JNCIA-Junos."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to the course and laboratory environment, configuration basics (allowance 0/3)2.Basic device configuration, access permissions, central authentication, system settings (allowance 0/3)3.Physical devices, IPv6, DHCP server, logging and monitoring, configuration backup (allowance 0/3)4.Basic device configuration, access permissions, central authentication, system settings (allowance 0/3)5.VLAN, switching tables, SVI, VRRP (allowance 0/3)6.Layer 2 security – etherchannel, DHCP snooping, DAI (allowance 0/3)7.Static routing (allowance 0/3)8.Dynamic routing (allowance 0/9) a.OSPFb.IS-ISc.BGP9.Routing policy (allowance 0/3)10.Firewall rules (allowance 0/3)11.Quality of Service (allowance 0/3)12.Junos OS upgrade, J-web interface and configuration automation (allowance 0/3)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Basic device configuration, access permissions, central authentication, system settings (allowance 0/3)"
+    },
+    {
+      "label": "[section] Introduction to the course and laboratory environment, configuration basics",
+      "content": "2.Basic device configuration, access permissions, central authentication, system settings (allowance 0/3)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Physical devices, IPv6, DHCP server, logging and monitoring, configuration backup (allowance 0/3)"
+    },
+    {
+      "label": "[section] Basic device configuration, access permissions, central authentication, system settings",
+      "content": "3.Physical devices, IPv6, DHCP server, logging and monitoring, configuration backup (allowance 0/3)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Basic device configuration, access permissions, central authentication, system settings (allowance 0/3)"
+    },
+    {
+      "label": "[section] Physical devices, IPv6, DHCP server, logging and monitoring, configuration backup",
+      "content": "4.Basic device configuration, access permissions, central authentication, system settings (allowance 0/3)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.VLAN, switching tables, SVI, VRRP (allowance 0/3)"
+    },
+    {
+      "label": "[section] Basic device configuration, access permissions, central authentication, system settings",
+      "content": "5.VLAN, switching tables, SVI, VRRP (allowance 0/3)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Layer 2 security – etherchannel, DHCP snooping, DAI (allowance 0/3)"
+    },
+    {
+      "label": "[section] VLAN, switching tables, SVI, VRRP",
+      "content": "6.Layer 2 security – etherchannel, DHCP snooping, DAI (allowance 0/3)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Static routing (allowance 0/3)"
+    },
+    {
+      "label": "[section] Layer 2 security – etherchannel, DHCP snooping, DAI",
+      "content": "7.Static routing (allowance 0/3)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Dynamic routing (allowance 0/9)"
+    },
+    {
+      "label": "[section] Static routing",
+      "content": "8.Dynamic routing (allowance 0/9)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.OSPFb.IS-ISc.BGP"
+    },
+    {
+      "label": "[section] Dynamic routing",
+      "content": "a.OSPFb.IS-ISc.BGP"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Firewall rules (allowance 0/3)"
+    },
+    {
+      "label": "[section] Routing policy",
+      "content": "10.Firewall rules (allowance 0/3)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Quality of Service (allowance 0/3)"
+    },
+    {
+      "label": "[section] Firewall rules",
+      "content": "11.Quality of Service (allowance 0/3)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Junos OS upgrade, J-web interface and configuration automation (allowance 0/3)"
+    },
+    {
+      "label": "[section] Quality of Service",
+      "content": "12.Junos OS upgrade, J-web interface and configuration automation (allowance 0/3)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture0 h16 hpractice42 h0 hconsultation0 h40 hpreparation for exam49 h42 hpreparation for regular assessment49 h42 hTotal140 h140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "There are assined 3 separate tasks during the semester, together for a maximum of 45 points. Practical exam is for a maximum of 45 points and a theoretical exam for a maximum of 10 points. It is necessary to obtain at least 60% of the maximum possible points from each part except theoretical exam. Evaluation: A (at least 90 points), B (83 points), C (75 points), D (68 points), E (60 points)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTerm paper45 %45 %Final test10 %10 %Passing practical final exam45 %45 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic: JNCAA - Junos, Associate (JNCIA-Junos). 2023. https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JNCAA-JNCIA-JUNOS.ZACH, Petr. 2018. Správa síťových zařízení Juniper. Brno: Mendelova univerzita v Brně, 50 p. ISBN 978-80-7509-605-0.Recommended:SMITH, Stacy; LOONEY, Jonathan. 2016. Automating Junos Administration: Doing More with Less. Beijing: O'Reilly Media, 682 p. ISBN 978-1-4919-2888-2. Juniper SRX series. 2013. Sebastopol, CA.: O'Reilly Media, Inc., 987 p. ISBN 978-1-449-33896-1.SOUTHWICK, Peter. 2012. Juniper Networks warrior. Sebastopol, CA: O'Reilly Media, 429 p. ISBN 978-1-4493-1663-1."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "JNCAA - Junos, Associate (JNCIA-Junos). 2023. https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JNCAA-JNCIA-JUNOS.ZACH, Petr. 2018. Správa síťových zařízení Juniper. Brno: Mendelova univerzita v Brně, 50 p. ISBN 978-80-7509-605-0."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "SMITH, Stacy; LOONEY, Jonathan. 2016. Automating Junos Administration: Doing More with Less. Beijing: O'Reilly Media, 682 p. ISBN 978-1-4919-2888-2. Juniper SRX series. 2013. Sebastopol, CA.: O'Reilly Media, Inc., 987 p. ISBN 978-1-449-33896-1.SOUTHWICK, Peter. 2012. Juniper Networks warrior. Sebastopol, CA: O'Reilly Media, 429 p. ISBN 978-1-4493-1663-1."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:45:17",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

@@ -1,0 +1,1037 @@
+{
+  "courseCode": "DPR",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "DPR"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "3D tisk"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "3D Printing"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zápočet (3 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Tomáš Mikulec"
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav designu a nábytku (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Milan Gaff, Ph.D. (cvičící, přednášející, zkoušející)Ing. Tomáš Mikulec (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "(CAD vizualizace I nebo Techniky vizualizace) a ne 3D Printing"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Historie 3D tisku"
+    },
+    {
+      "label": "b.",
+      "content": "Představení 3D tisku"
+    },
+    {
+      "label": "c.",
+      "content": "Využití 3D tisku"
+    },
+    {
+      "label": "2.",
+      "content": "Technologie 3D tisku (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Základy 3D tisku"
+    },
+    {
+      "label": "b.",
+      "content": "Porovnání technologií výroby, pravidla, cenové srovnání"
+    },
+    {
+      "label": "c.",
+      "content": "Proces 3D tisku"
+    },
+    {
+      "label": "d.",
+      "content": "Technologie 3D tisku"
+    },
+    {
+      "label": "3.",
+      "content": "Technologie FDM (fused deposition modeling) (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Proces 3D tisku"
+    },
+    {
+      "label": "b.",
+      "content": "Borcení/smršťování výtisků"
+    },
+    {
+      "label": "c.",
+      "content": "Přilnavost vrstev"
+    },
+    {
+      "label": "d.",
+      "content": "Podpory"
+    },
+    {
+      "label": "e.",
+      "content": "Výplně"
+    },
+    {
+      "label": "f.",
+      "content": "Pravidla"
+    },
+    {
+      "label": "g.",
+      "content": "Materiály"
+    },
+    {
+      "label": "h.",
+      "content": "Post processing"
+    },
+    {
+      "label": "i.",
+      "content": "Nový vývoj a aplikace"
+    },
+    {
+      "label": "4.",
+      "content": "Technologie STL (stereolitography) (dotace 0/2)"
+    },
+    {
+      "label": "b.",
+      "content": "VAT polymerization"
+    },
+    {
+      "label": "c.",
+      "content": "SLA (stereolitography)"
+    },
+    {
+      "label": "d.",
+      "content": "DLP (direct light processing)"
+    },
+    {
+      "label": "e.",
+      "content": "Způsoby tisku"
+    },
+    {
+      "label": "f.",
+      "content": "Podpory"
+    },
+    {
+      "label": "g.",
+      "content": "Pravidla"
+    },
+    {
+      "label": "h.",
+      "content": "Materiály"
+    },
+    {
+      "label": "i.",
+      "content": "Post processing"
+    },
+    {
+      "label": "j.",
+      "content": "Nový vývoj a aplikace"
+    },
+    {
+      "label": "5.",
+      "content": "Technologie SLS (selective laser sintering) (dotace 0/2)"
+    },
+    {
+      "label": "b.",
+      "content": "Využití tisknutelného objemu"
+    },
+    {
+      "label": "c.",
+      "content": "Pravidla"
+    },
+    {
+      "label": "d.",
+      "content": "Materiály"
+    },
+    {
+      "label": "e.",
+      "content": "Post processing"
+    },
+    {
+      "label": "f.",
+      "content": "Nový vývoj a aplikace"
+    },
+    {
+      "label": "6.",
+      "content": "Další technologie 3D tisku (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Material Jetting"
+    },
+    {
+      "label": "b.",
+      "content": "Binder Jetting"
+    },
+    {
+      "label": "7.",
+      "content": "Materiály pro 3D tisk (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Polymery"
+    },
+    {
+      "label": "b.",
+      "content": "Kovy"
+    },
+    {
+      "label": "c.",
+      "content": "Bio materiály"
+    },
+    {
+      "label": "8.",
+      "content": "Navrhování pro 3D tisk (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní pravidla navrhování objektu pro 3D tisk"
+    },
+    {
+      "label": "b.",
+      "content": "Konzultace prací"
+    },
+    {
+      "label": "c.",
+      "content": "3D modelování objektů"
+    },
+    {
+      "label": "9.",
+      "content": "Aplikace 3D tisku (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Nástroje pro 3D design, aplikace pro FDM tisk"
+    },
+    {
+      "label": "b.",
+      "content": "3D model objektu"
+    },
+    {
+      "label": "c.",
+      "content": "Tisk"
+    },
+    {
+      "label": "d.",
+      "content": "Odstranění výtisku"
+    },
+    {
+      "label": "e.",
+      "content": "Úprava po tisku"
+    },
+    {
+      "label": "f.",
+      "content": "Konzultace prací"
+    },
+    {
+      "label": "g.",
+      "content": "3D modelování objektů"
+    },
+    {
+      "label": "10.",
+      "content": "3D modelování objektů, 3D tisk zadaných prací (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Tisk finálních modelů"
+    },
+    {
+      "label": "11.",
+      "content": "3D tisk zadaných prací (dotace 0/2)"
+    },
+    {
+      "label": "12.",
+      "content": "3D tisk zadaných prací (dotace 0/2)"
+    },
+    {
+      "label": "13.",
+      "content": "Zápočtový test (dotace 0/2)"
+    },
+    {
+      "label": "14.",
+      "content": "Závěr a shrnutí předmětu (dotace 0/2)"
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, LS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024, LS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: 3D tisk"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: 3D Printing"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zápočet (3 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zápočet (3 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Tomáš Mikulec"
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav designu a nábytku (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Milan Gaff, Ph.D. (cvičící, přednášející, zkoušející)Ing. Tomáš Mikulec (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: (CAD vizualizace I nebo Techniky vizualizace) a ne 3D Printing"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý13.00-14.50T17T. MikulecCvičeníKaždý týden16Úterý17.00-18.50T17T. MikulecCvičeníKaždý týden16Středa17.00-17.50T18T. Mikulec, M. GaffPřednáškaKaždý týden36"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je seznámení a vysvětlení technologie 3D tisku, jaký je postup samotného tisku. Předmět obsahuje přípravu podkladů před samotným tiskem a následný 3D tisk. Studenti se seznámí s FDM 3D tiskárnami, které jsou dostupné na Ústavu nábytku, designu a bydlení (Ultimaker, Prusa)."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod (dotace 0/2) a.Historie 3D tiskub.Představení 3D tiskuc.Využití 3D tisku2.Technologie 3D tisku (dotace 0/2) a.Základy 3D tiskub.Porovnání technologií výroby, pravidla, cenové srovnáníc.Proces 3D tiskud.Technologie 3D tisku3.Technologie FDM (fused deposition modeling) (dotace 0/2) a.Proces 3D tiskub.Borcení/smršťování výtiskůc.Přilnavost vrstevd.Podporye.Výplněf.Pravidlag.Materiályh.Post processingi.Nový vývoj a aplikace4.Technologie STL (stereolitography) (dotace 0/2) a.Proces 3D tiskub.VAT polymerizationc.SLA (stereolitography)d.DLP (direct light processing)e.Způsoby tiskuf.Podporyg.Pravidlah.Materiályi.Post processingj.Nový vývoj a aplikace5.Technologie SLS (selective laser sintering) (dotace 0/2) a.Proces 3D tiskub.Využití tisknutelného objemuc.Pravidlad.Materiálye.Post processingf.Nový vývoj a aplikace6.Další technologie 3D tisku (dotace 0/2) a.Material Jettingb.Binder Jetting7.Materiály pro 3D tisk (dotace 0/2) a.Polymeryb.Kovyc.Bio materiály8.Navrhování pro 3D tisk (dotace 0/2) a.Základní pravidla navrhování objektu pro 3D tiskb.Konzultace pracíc.3D modelování objektů9.Aplikace 3D tisku (dotace 0/2) a.Nástroje pro 3D design, aplikace pro FDM tiskb.3D model objektuc.Tiskd.Odstranění výtiskue.Úprava po tiskuf.Konzultace pracíg.3D modelování objektů10.3D modelování objektů, 3D tisk zadaných prací (dotace 0/2) a.Tisk finálních modelůb.Konzultace pracíc.3D modelování objektů11.3D tisk zadaných prací (dotace 0/2) a.Tisk finálních modelůb.Konzultace prací12.3D tisk zadaných prací (dotace 0/2) a.Tisk finálních modelů13.Zápočtový test (dotace 0/2)14.Závěr a shrnutí předmětu (dotace 0/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Historie 3D tiskub.Představení 3D tiskuc.Využití 3D tisku"
+    },
+    {
+      "label": "[section] Úvod",
+      "content": "a.Historie 3D tiskub.Představení 3D tiskuc.Využití 3D tisku"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Základy 3D tiskub.Porovnání technologií výroby, pravidla, cenové srovnáníc.Proces 3D tiskud.Technologie 3D tisku"
+    },
+    {
+      "label": "[section] Technologie 3D tisku",
+      "content": "a.Základy 3D tiskub.Porovnání technologií výroby, pravidla, cenové srovnáníc.Proces 3D tiskud.Technologie 3D tisku"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Proces 3D tiskub.Borcení/smršťování výtiskůc.Přilnavost vrstevd.Podporye.Výplněf.Pravidlag.Materiályh.Post processingi.Nový vývoj a aplikace"
+    },
+    {
+      "label": "[section] Technologie FDM (fused deposition modeling)",
+      "content": "a.Proces 3D tiskub.Borcení/smršťování výtiskůc.Přilnavost vrstevd.Podporye.Výplněf.Pravidlag.Materiályh.Post processingi.Nový vývoj a aplikace"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Proces 3D tiskub.VAT polymerizationc.SLA (stereolitography)d.DLP (direct light processing)e.Způsoby tiskuf.Podporyg.Pravidlah.Materiályi.Post processingj.Nový vývoj a aplikace"
+    },
+    {
+      "label": "[section] Technologie STL (stereolitography)",
+      "content": "a.Proces 3D tiskub.VAT polymerizationc.SLA (stereolitography)d.DLP (direct light processing)e.Způsoby tiskuf.Podporyg.Pravidlah.Materiályi.Post processingj.Nový vývoj a aplikace"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Proces 3D tiskub.Využití tisknutelného objemuc.Pravidlad.Materiálye.Post processingf.Nový vývoj a aplikace"
+    },
+    {
+      "label": "[section] Technologie SLS (selective laser sintering)",
+      "content": "a.Proces 3D tiskub.Využití tisknutelného objemuc.Pravidlad.Materiálye.Post processingf.Nový vývoj a aplikace"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Material Jettingb.Binder Jetting"
+    },
+    {
+      "label": "[section] Další technologie 3D tisku",
+      "content": "a.Material Jettingb.Binder Jetting"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Polymeryb.Kovyc.Bio materiály"
+    },
+    {
+      "label": "[section] Materiály pro 3D tisk",
+      "content": "a.Polymeryb.Kovyc.Bio materiály"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Základní pravidla navrhování objektu pro 3D tiskb.Konzultace pracíc.3D modelování objektů"
+    },
+    {
+      "label": "[section] Navrhování pro 3D tisk",
+      "content": "a.Základní pravidla navrhování objektu pro 3D tiskb.Konzultace pracíc.3D modelování objektů"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Nástroje pro 3D design, aplikace pro FDM tiskb.3D model objektuc.Tiskd.Odstranění výtiskue.Úprava po tiskuf.Konzultace pracíg.3D modelování objektů"
+    },
+    {
+      "label": "[section] Aplikace 3D tisku",
+      "content": "a.Nástroje pro 3D design, aplikace pro FDM tiskb.3D model objektuc.Tiskd.Odstranění výtiskue.Úprava po tiskuf.Konzultace pracíg.3D modelování objektů"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Tisk finálních modelůb.Konzultace pracíc.3D modelování objektů"
+    },
+    {
+      "label": "[section] 3D modelování objektů, 3D tisk zadaných prací",
+      "content": "a.Tisk finálních modelůb.Konzultace pracíc.3D modelování objektů"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Tisk finálních modelůb.Konzultace prací"
+    },
+    {
+      "label": "[section] 3D tisk zadaných prací",
+      "content": "a.Tisk finálních modelůb.Konzultace prací"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Tisk finálních modelů"
+    },
+    {
+      "label": "[section] 3D tisk zadaných prací",
+      "content": "a.Tisk finálních modelů"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "14.Závěr a shrnutí předmětu (dotace 0/2)"
+    },
+    {
+      "label": "[section] Zápočtový test",
+      "content": "14.Závěr a shrnutí předmětu (dotace 0/2)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumcvičení28 hkonzultace12 hpříprava na průběžný test20 hzpracování projektů24 hCelkem84 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "- Předmět je ukončen zápočtem. - Podmínkou udělení zápočtu je ústní prezentace, úspěšné napsání zápočtového testu (80% úspěšnost, 1 opravný termín) a splnění semestrální práce na zadané téma 3D tisku (konzultace k zadanému tématu, rešerše, hotový model). - Účast na cvičeních (minimálně 80%)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "DPR"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "3D tisk"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "3D Printing"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Pass credit (3 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Tomáš Mikulec"
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Design and Furniture (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Milan Gaff, Ph.D. (examiner, instructor, lecturer)Ing. Tomáš Mikulec (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "(CAD Visualization I or Visualization Techniques) and not 3D Printing"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "History of 3D printing"
+    },
+    {
+      "label": "b.",
+      "content": "Introduction to 3D printing"
+    },
+    {
+      "label": "c.",
+      "content": "Use of 3D printing"
+    },
+    {
+      "label": "2.",
+      "content": "3D printing technology (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Basics of 3D printing"
+    },
+    {
+      "label": "b.",
+      "content": "Comparison of production technologies, rules, price comparison"
+    },
+    {
+      "label": "c.",
+      "content": "3D printing process"
+    },
+    {
+      "label": "d.",
+      "content": "3D printing technology"
+    },
+    {
+      "label": "3.",
+      "content": "FDM technology (fused deposition modeling) (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "3D printing process"
+    },
+    {
+      "label": "b.",
+      "content": "Warp / shrink prints"
+    },
+    {
+      "label": "c.",
+      "content": "Adhesion of layers"
+    },
+    {
+      "label": "d.",
+      "content": "Support"
+    },
+    {
+      "label": "e.",
+      "content": "Infill"
+    },
+    {
+      "label": "f.",
+      "content": "Rules"
+    },
+    {
+      "label": "g.",
+      "content": "Materials"
+    },
+    {
+      "label": "h.",
+      "content": "Post processing"
+    },
+    {
+      "label": "i.",
+      "content": "New development and applications"
+    },
+    {
+      "label": "4.",
+      "content": "STL technology (stereolithography) (allowance 0/2)"
+    },
+    {
+      "label": "b.",
+      "content": "VAT polymerization"
+    },
+    {
+      "label": "c.",
+      "content": "SLA (stereolithography)"
+    },
+    {
+      "label": "d.",
+      "content": "DLP (direct light processing)"
+    },
+    {
+      "label": "e.",
+      "content": "Printing methods"
+    },
+    {
+      "label": "f.",
+      "content": "Support"
+    },
+    {
+      "label": "g.",
+      "content": "Rules"
+    },
+    {
+      "label": "h.",
+      "content": "Materials"
+    },
+    {
+      "label": "i.",
+      "content": "Post processing"
+    },
+    {
+      "label": "j.",
+      "content": "New development and applications"
+    },
+    {
+      "label": "5.",
+      "content": "SLS technology (selective laser sintering) (allowance 0/2)"
+    },
+    {
+      "label": "b.",
+      "content": "Use of printable volume"
+    },
+    {
+      "label": "c.",
+      "content": "Rules"
+    },
+    {
+      "label": "d.",
+      "content": "Materials"
+    },
+    {
+      "label": "e.",
+      "content": "Post processing"
+    },
+    {
+      "label": "f.",
+      "content": "New development and applications"
+    },
+    {
+      "label": "6.",
+      "content": "Other 3D printing technologies (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Jetting material"
+    },
+    {
+      "label": "b.",
+      "content": "Binder Jetting"
+    },
+    {
+      "label": "7.",
+      "content": "Materials for 3D printing (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Polymers"
+    },
+    {
+      "label": "b.",
+      "content": "Metals"
+    },
+    {
+      "label": "c.",
+      "content": "Bio materials"
+    },
+    {
+      "label": "8.",
+      "content": "Design for 3D printing (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic rules of object design for 3D printing"
+    },
+    {
+      "label": "b.",
+      "content": "Consultation of works"
+    },
+    {
+      "label": "c.",
+      "content": "3D modeling of objects"
+    },
+    {
+      "label": "9.",
+      "content": "3D printing application (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Tools for 3D design, applications for FDM printing"
+    },
+    {
+      "label": "b.",
+      "content": "3D model of the object"
+    },
+    {
+      "label": "c.",
+      "content": "Printing"
+    },
+    {
+      "label": "d.",
+      "content": "Delete a printout"
+    },
+    {
+      "label": "e.",
+      "content": "Edit after printing"
+    },
+    {
+      "label": "f.",
+      "content": "Consultation of works"
+    },
+    {
+      "label": "g.",
+      "content": "3D modeling of objects"
+    },
+    {
+      "label": "10.",
+      "content": "3D printing of assigned works (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Printing of final models"
+    },
+    {
+      "label": "11.",
+      "content": "3D printing of assigned works (allowance 0/2)"
+    },
+    {
+      "label": "12.",
+      "content": "3D modeling of objects, 3D printing of assigned works (allowance 0/2)"
+    },
+    {
+      "label": "13.",
+      "content": "Credit test (allowance 0/2)"
+    },
+    {
+      "label": "14.",
+      "content": "Conclusion and summary of the course (allowance 0/2)"
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, SS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024, SS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: 3D tisk"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: 3D Printing"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Pass credit (3 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Pass credit (3 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: -- item not defined --"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Tomáš Mikulec"
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Design and Furniture (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Milan Gaff, Ph.D. (examiner, instructor, lecturer)Ing. Tomáš Mikulec (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: (CAD Visualization I or Visualization Techniques) and not 3D Printing"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday13.00-14.50T17T. MikulecSeminarEvery week16Tuesday17.00-18.50T17T. MikulecSeminarEvery week16Wednesday17.00-17.50T18T. Mikulec, M. GaffLectureEvery week36"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to acquaint and explain the technology of 3D printing, what is the process of printing itself. The course includes the preparation of documents before printing and subsequent 3D printing. Students will get acquainted with FDM 3D printers, which are available at the Department of Furniture, Design and Housing (Ultimaker, Prusa)."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction (allowance 0/2) a.History of 3D printingb.Introduction to 3D printingc.Use of 3D printing2.3D printing technology (allowance 0/2) a.Basics of 3D printingb.Comparison of production technologies, rules, price comparisonc.3D printing processd.3D printing technology3.FDM technology (fused deposition modeling) (allowance 0/2) a.3D printing processb.Warp / shrink printsc.Adhesion of layersd.Supporte.Infillf.Rulesg.Materialsh.Post processingi.New development and applications4.STL technology (stereolithography) (allowance 0/2) a.3D printing processb.VAT polymerizationc.SLA (stereolithography)d.DLP (direct light processing)e.Printing methodsf.Supportg.Rulesh.Materialsi.Post processingj.New development and applications5.SLS technology (selective laser sintering) (allowance 0/2) a.3D printing processb.Use of printable volumec.Rulesd.Materialse.Post processingf.New development and applications6.Other 3D printing technologies (allowance 0/2) a.Jetting materialb.Binder Jetting7.Materials for 3D printing (allowance 0/2) a.Polymersb.Metalsc.Bio materials8.Design for 3D printing (allowance 0/2) a.Basic rules of object design for 3D printingb.Consultation of worksc.3D modeling of objects9.3D printing application (allowance 0/2) a.Tools for 3D design, applications for FDM printingb.3D model of the objectc.Printingd.Delete a printoute.Edit after printingf.Consultation of worksg.3D modeling of objects10.3D printing of assigned works (allowance 0/2) a.Printing of final modelsb.Consultation of worksc.3D modeling of objects11.3D printing of assigned works (allowance 0/2) a.Printing of final modelsb.Consultation of works12.3D modeling of objects, 3D printing of assigned works (allowance 0/2) a.Printing of final models13.Credit test (allowance 0/2)14.Conclusion and summary of the course (allowance 0/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.History of 3D printingb.Introduction to 3D printingc.Use of 3D printing"
+    },
+    {
+      "label": "[section] Introduction",
+      "content": "a.History of 3D printingb.Introduction to 3D printingc.Use of 3D printing"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Basics of 3D printingb.Comparison of production technologies, rules, price comparisonc.3D printing processd.3D printing technology"
+    },
+    {
+      "label": "[section] 3D printing technology",
+      "content": "a.Basics of 3D printingb.Comparison of production technologies, rules, price comparisonc.3D printing processd.3D printing technology"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.3D printing processb.Warp / shrink printsc.Adhesion of layersd.Supporte.Infillf.Rulesg.Materialsh.Post processingi.New development and applications"
+    },
+    {
+      "label": "[section] FDM technology (fused deposition modeling)",
+      "content": "a.3D printing processb.Warp / shrink printsc.Adhesion of layersd.Supporte.Infillf.Rulesg.Materialsh.Post processingi.New development and applications"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.3D printing processb.VAT polymerizationc.SLA (stereolithography)d.DLP (direct light processing)e.Printing methodsf.Supportg.Rulesh.Materialsi.Post processingj.New development and applications"
+    },
+    {
+      "label": "[section] STL technology (stereolithography)",
+      "content": "a.3D printing processb.VAT polymerizationc.SLA (stereolithography)d.DLP (direct light processing)e.Printing methodsf.Supportg.Rulesh.Materialsi.Post processingj.New development and applications"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.3D printing processb.Use of printable volumec.Rulesd.Materialse.Post processingf.New development and applications"
+    },
+    {
+      "label": "[section] SLS technology (selective laser sintering)",
+      "content": "a.3D printing processb.Use of printable volumec.Rulesd.Materialse.Post processingf.New development and applications"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Jetting materialb.Binder Jetting"
+    },
+    {
+      "label": "[section] Other 3D printing technologies",
+      "content": "a.Jetting materialb.Binder Jetting"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Polymersb.Metalsc.Bio materials"
+    },
+    {
+      "label": "[section] Materials for 3D printing",
+      "content": "a.Polymersb.Metalsc.Bio materials"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Basic rules of object design for 3D printingb.Consultation of worksc.3D modeling of objects"
+    },
+    {
+      "label": "[section] Design for 3D printing",
+      "content": "a.Basic rules of object design for 3D printingb.Consultation of worksc.3D modeling of objects"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Tools for 3D design, applications for FDM printingb.3D model of the objectc.Printingd.Delete a printoute.Edit after printingf.Consultation of worksg.3D modeling of objects"
+    },
+    {
+      "label": "[section] 3D printing application",
+      "content": "a.Tools for 3D design, applications for FDM printingb.3D model of the objectc.Printingd.Delete a printoute.Edit after printingf.Consultation of worksg.3D modeling of objects"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Printing of final modelsb.Consultation of worksc.3D modeling of objects"
+    },
+    {
+      "label": "[section] 3D printing of assigned works",
+      "content": "a.Printing of final modelsb.Consultation of worksc.3D modeling of objects"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Printing of final modelsb.Consultation of works"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Printing of final models"
+    },
+    {
+      "label": "[section] 3D modeling of objects, 3D printing of assigned works",
+      "content": "a.Printing of final models"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "14.Conclusion and summary of the course (allowance 0/2)"
+    },
+    {
+      "label": "[section] Credit test",
+      "content": "14.Conclusion and summary of the course (allowance 0/2)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancepractice28 hconsultation12 hpreparation for regular testing20 helaboration and execution of projects24 hTotal84 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "- The course is completed by credit. - The condition for granting the credit is an oral presentation, successful writing of a credit test (80% success rate, 1 correction term) and completion of the semester work on the assigned topic of 3D printing (consultation on the assigned topic, research, finished model). - participation in seminars (minimum 80%)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:32:47",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

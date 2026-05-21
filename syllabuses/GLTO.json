@@ -1,0 +1,777 @@
+{
+  "courseCode": "GLTO",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "GLTO"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Geobiocenologie a lesnická typologie"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Geobiocenology and Forest Typology"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 3/2/3 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0/0 (h/h/dny v semestru) (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "konzultační"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Hlavním výstupem předmětu je samostatná terénní práce. Ta je sice teoreticky zpracovatelná kdekoliv na světě, kde se vyskytuje lesní vegetace, ovšem pouze v rámci prezenčního studia budou na praktických terénních cvičeních prezentovány dovednosti, které umožní práci zpracovat a dokončit."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Michal Friedl, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav lesnické botaniky, dendrologie a geobiocenologie (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Petr Dujka, Ph.D. (cvičící)Ing. Michal Friedl, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Jan Šebesta, Ph.D. (cvičící)doc. Dr. Ing. Jan Štykar (cvičící)Ing. Martin Valtera, Ph.D. (cvičící)Ing. Daniel Volařík, Ph.D. (cvičící)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Lesnická botanika speciální a Lesnická pedologie a Dendrologie s ekologií lesních dřevin"
+    },
+    {
+      "label": "1.",
+      "content": "Význam, náplň, vývoj a současné trendy geobiocenologie a lesnické typologie (dotace 3/0)"
+    },
+    {
+      "label": "2.",
+      "content": "Základní terminologie a její souvislosti, základní koncepty v geobiocenologii a lesnické typologii (druh, taxon, syntaxon, fytocenóza, společenstvo, biocenóza, agregace, flóra, biota, vegetace, vegetace aktuální, vegetace potenciální, ekologické faktory, abiotický faktor, biotický faktor, antropický faktor, ekotop, biotop, segment, fragment, ekosystém, geobiocenóza, geobiocenoid, geobiocén, teorie typu geobiocénu, typ geobiocénu, lesní typ, skupina typů geobiocénů, soubor lesních typů, asociace, synusie, formace, biom, fytocenologie, geobiocenologie, lesnická typologie) (dotace 3/0)"
+    },
+    {
+      "label": "3.",
+      "content": "Metody studia vegetace (dotace 3/12)"
+    },
+    {
+      "label": "a.",
+      "content": "Analytické znaky geobiocenóz (floristická skladba, patrovitost, abundance, dominance, zastoupení dřevin, sociabilita, vitalita, životní formy rostlin, věková skladba, stádia a fáze vývoje lesa, přirozenost společenstva)"
+    },
+    {
+      "label": "b.",
+      "content": "Geobiocenologická plocha a zápis; minimální areál, homogenita, reprezentativnost geobiocenózy. Databáze fytocenologických a geobiocenologických snímků a jejich využití."
+    },
+    {
+      "label": "4.",
+      "content": "Interakce vegetace a prostředí (dotace 6/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Obecné zákonitosti vztahu vegetace a prostředí"
+    },
+    {
+      "label": "b.",
+      "content": "Vegetace a klima (teplo, světlo, voda, vítr, chemismus ovzduší)"
+    },
+    {
+      "label": "c.",
+      "content": "Vegetace a reliéf (katéna, hmotnost pohoří, expozice, nadmořská výška)"
+    },
+    {
+      "label": "d.",
+      "content": "Vegetace a půda"
+    },
+    {
+      "label": "e.",
+      "content": "Vegetace a voda"
+    },
+    {
+      "label": "f.",
+      "content": "Vegetační fenomény – vrcholový, anemo-orografické systémy, krasový, říční (údolní), nivní, hadcový, pískovcový"
+    },
+    {
+      "label": "g.",
+      "content": "Vegetace a oheň"
+    },
+    {
+      "label": "h.",
+      "content": "Vliv živočichů na vegetaci"
+    },
+    {
+      "label": "i.",
+      "content": "Ekoelementy, ekologická konstituce druhů, fytoindikace"
+    },
+    {
+      "label": "5.",
+      "content": "Dynamika vegetace (dotace 3/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Růst a šíření populací rostlin"
+    },
+    {
+      "label": "b.",
+      "content": "Vztahy mezi jedinci a populacemi rostlin (vnitrodruhová a mezidruhová konkurence, alelopatie, symbióza, mykorhiza, parazitismus, epifitismus)"
+    },
+    {
+      "label": "c.",
+      "content": "Strategie populací (strategie primární - R, C, S; strategie sekundární)"
+    },
+    {
+      "label": "d.",
+      "content": "Sukcese"
+    },
+    {
+      "label": "e.",
+      "content": "Dynamika přírodního lesa (přípravný, přechodný a závěrečný les, stadia zmlazování, dorůstání, zralosti a rozpadu)"
+    },
+    {
+      "label": "f.",
+      "content": "Stabilita a působení stresových faktorů"
+    },
+    {
+      "label": "6.",
+      "content": "Rozšíření a vývoj vegetace (dotace 3/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Biogeografické členění ČR, Přírodní lesní oblasti (PLO)"
+    },
+    {
+      "label": "b.",
+      "content": "Zonálnost vegetace (biom tropického deštného lesa, tropického opadavého lesa, savan, pouští, tvrdolisté dřevinné vegetace, vavřínových lesů, opadavých lesů, stepí, pouští a polopouští mírného klimatu, tajgy, tundry)"
+    },
+    {
+      "label": "c.",
+      "content": "Stupňovitost vegetace"
+    },
+    {
+      "label": "d.",
+      "content": "Floroelementy"
+    },
+    {
+      "label": "e.",
+      "content": "Vývoj vegetace v kvartéru"
+    },
+    {
+      "label": "f.",
+      "content": "Vliv člověka na vegetaci"
+    },
+    {
+      "label": "7.",
+      "content": "Klasifikace vegetace (dotace 15/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Základy a obecné principy klasifikačních systémů"
+    },
+    {
+      "label": "b.",
+      "content": "Curyšsko-montpeliérský systém"
+    },
+    {
+      "label": "c.",
+      "content": "Katalog biotopů České republiky"
+    },
+    {
+      "label": "d.",
+      "content": "Geobiocenologická typologie (teorie typu geobiocénu, vegetační stupně, trofické řady, hydrické řady, skupiny typů geobiocénů)"
+    },
+    {
+      "label": "e.",
+      "content": "Lesnicko-typologický klasifikační systém (lesní vegetační stupně, ekologické řady, edafické kategorie, soubory lesních typů, lesní typy)"
+    },
+    {
+      "label": "f.",
+      "content": "Diferenciace hospodaření v lesích (cílové hospodářské soubory, hospodářské soubory)"
+    },
+    {
+      "label": "g.",
+      "content": "Aplikace geobiocenologie a lesnické typologie"
+    },
+    {
+      "label": "8.",
+      "content": "Mapování vegetace (dotace 0/4)"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024, ZS 2023/2024, LS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Geobiocenologie a lesnická typologie"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Geobiocenology and Forest Typology"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 3/2/3 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0/0 (h/h/dny v semestru) (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 3/2/3 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0/0 (h/h/dny v semestru) (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: konzultační"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Hlavním výstupem předmětu je samostatná terénní práce. Ta je sice teoreticky zpracovatelná kdekoliv na světě, kde se vyskytuje lesní vegetace, ovšem pouze v rámci prezenčního studia budou na praktických terénních cvičeních prezentovány dovednosti, které umožní práci zpracovat a dokončit."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Michal Friedl, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav lesnické botaniky, dendrologie a geobiocenologie (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Petr Dujka, Ph.D. (cvičící)Ing. Michal Friedl, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Jan Šebesta, Ph.D. (cvičící)doc. Dr. Ing. Jan Štykar (cvičící)Ing. Martin Valtera, Ph.D. (cvičící)Ing. Daniel Volařík, Ph.D. (cvičící)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Lesnická botanika speciální a Lesnická pedologie a Dendrologie s ekologií lesních dřevin"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je pochopit principy klasifikace především lesní vegetace, a to prostřednictvím znalosti geobiocenologického a lesnicko-typologického klasifikačního systému. Na jejich příkladu by měli posluchači získat vědomosti o složení, struktuře, ekologii a vzájemných vztazích lesních společenstev. Předmět je na jedné straně koncipován jako syntetický, završující sérii přírodovědně orientovaných disciplín (geologie, pedologie, klimatologie, botanika, dendrologie, ekologie apod.) na straně druhé jako předmět základní pro navazující odborné lesnické disciplíny (pěstění lesů, hospodářská úprava lesů). Praktická část výuky bude zaměřena na osvojení praktických dovedností popisu a charakteristik lesních ekosystémů, jejich klasifikace a mapování, včetně navazující hospodářsko-úpravnické diferenciace."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Význam, náplň, vývoj a současné trendy geobiocenologie a lesnické typologie (dotace 3/0)2.Základní terminologie a její souvislosti, základní koncepty v geobiocenologii a lesnické typologii (druh, taxon, syntaxon, fytocenóza, společenstvo, biocenóza, agregace, flóra, biota, vegetace, vegetace aktuální, vegetace potenciální, ekologické faktory, abiotický faktor, biotický faktor, antropický faktor, ekotop, biotop, segment, fragment, ekosystém, geobiocenóza, geobiocenoid, geobiocén, teorie typu geobiocénu, typ geobiocénu, lesní typ, skupina typů geobiocénů, soubor lesních typů, asociace, synusie, formace, biom, fytocenologie, geobiocenologie, lesnická typologie) (dotace 3/0)3.Metody studia vegetace (dotace 3/12) a.Analytické znaky geobiocenóz (floristická skladba, patrovitost, abundance, dominance, zastoupení dřevin, sociabilita, vitalita, životní formy rostlin, věková skladba, stádia a fáze vývoje lesa, přirozenost společenstva)b.Geobiocenologická plocha a zápis; minimální areál, homogenita, reprezentativnost geobiocenózy. Databáze fytocenologických a geobiocenologických snímků a jejich využití.4.Interakce vegetace a prostředí (dotace 6/0) a.Obecné zákonitosti vztahu vegetace a prostředíb.Vegetace a klima (teplo, světlo, voda, vítr, chemismus ovzduší)c.Vegetace a reliéf (katéna, hmotnost pohoří, expozice, nadmořská výška)d.Vegetace a půdae.Vegetace a vodaf.Vegetační fenomény – vrcholový, anemo-orografické systémy, krasový, říční (údolní), nivní, hadcový, pískovcovýg.Vegetace a oheňh.Vliv živočichů na vegetacii.Ekoelementy, ekologická konstituce druhů, fytoindikace5.Dynamika vegetace (dotace 3/0) a.Růst a šíření populací rostlinb.Vztahy mezi jedinci a populacemi rostlin (vnitrodruhová a mezidruhová konkurence, alelopatie, symbióza, mykorhiza, parazitismus, epifitismus)c.Strategie populací (strategie primární - R, C, S; strategie sekundární)d.Sukcesee.Dynamika přírodního lesa (přípravný, přechodný a závěrečný les, stadia zmlazování, dorůstání, zralosti a rozpadu)f.Stabilita a působení stresových faktorů6.Rozšíření a vývoj vegetace (dotace 3/0) a.Biogeografické členění ČR, Přírodní lesní oblasti (PLO)b.Zonálnost vegetace (biom tropického deštného lesa, tropického opadavého lesa, savan, pouští, tvrdolisté dřevinné vegetace, vavřínových lesů, opadavých lesů, stepí, pouští a polopouští mírného klimatu, tajgy, tundry)c.Stupňovitost vegetaced.Floroelementye.Vývoj vegetace v kvartéruf.Vliv člověka na vegetaci7.Klasifikace vegetace (dotace 15/2) a.Základy a obecné principy klasifikačních systémůb.Curyšsko-montpeliérský systémc.Katalog biotopů České republikyd.Geobiocenologická typologie (teorie typu geobiocénu, vegetační stupně, trofické řady, hydrické řady, skupiny typů geobiocénů)e.Lesnicko-typologický klasifikační systém (lesní vegetační stupně, ekologické řady, edafické kategorie, soubory lesních typů, lesní typy)f.Diferenciace hospodaření v lesích (cílové hospodářské soubory, hospodářské soubory)g.Aplikace geobiocenologie a lesnické typologie8.Mapování vegetace (dotace 0/4)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Základní terminologie a její souvislosti, základní koncepty v geobiocenologii a lesnické typologii (druh, taxon, syntaxon, fytocenóza, společenstvo, biocenóza, agregace, flóra, biota, vegetace, vegetace aktuální, vegetace potenciální, ekologické faktory, abiotický faktor, biotický faktor, antropický faktor, ekotop, biotop, segment, fragment, ekosystém, geobiocenóza, geobiocenoid, geobiocén, teorie typu geobiocénu, typ geobiocénu, lesní typ, skupina typů geobiocénů, soubor lesních typů, asociace, synusie, formace, biom, fytocenologie, geobiocenologie, lesnická typologie) (dotace 3/0)"
+    },
+    {
+      "label": "[section] Význam, náplň, vývoj a současné trendy geobiocenologie a lesnické typologie",
+      "content": "2.Základní terminologie a její souvislosti, základní koncepty v geobiocenologii a lesnické typologii (druh, taxon, syntaxon, fytocenóza, společenstvo, biocenóza, agregace, flóra, biota, vegetace, vegetace aktuální, vegetace potenciální, ekologické faktory, abiotický faktor, biotický faktor, antropický faktor, ekotop, biotop, segment, fragment, ekosystém, geobiocenóza, geobiocenoid, geobiocén, teorie typu geobiocénu, typ geobiocénu, lesní typ, skupina typů geobiocénů, soubor lesních typů, asociace, synusie, formace, biom, fytocenologie, geobiocenologie, lesnická typologie) (dotace 3/0)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Metody studia vegetace (dotace 3/12)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Analytické znaky geobiocenóz (floristická skladba, patrovitost, abundance, dominance, zastoupení dřevin, sociabilita, vitalita, životní formy rostlin, věková skladba, stádia a fáze vývoje lesa, přirozenost společenstva)b.Geobiocenologická plocha a zápis; minimální areál, homogenita, reprezentativnost geobiocenózy. Databáze fytocenologických a geobiocenologických snímků a jejich využití."
+    },
+    {
+      "label": "[section] Metody studia vegetace",
+      "content": "a.Analytické znaky geobiocenóz (floristická skladba, patrovitost, abundance, dominance, zastoupení dřevin, sociabilita, vitalita, životní formy rostlin, věková skladba, stádia a fáze vývoje lesa, přirozenost společenstva)b.Geobiocenologická plocha a zápis; minimální areál, homogenita, reprezentativnost geobiocenózy. Databáze fytocenologických a geobiocenologických snímků a jejich využití."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Obecné zákonitosti vztahu vegetace a prostředíb.Vegetace a klima (teplo, světlo, voda, vítr, chemismus ovzduší)c.Vegetace a reliéf (katéna, hmotnost pohoří, expozice, nadmořská výška)d.Vegetace a půdae.Vegetace a vodaf.Vegetační fenomény – vrcholový, anemo-orografické systémy, krasový, říční (údolní), nivní, hadcový, pískovcovýg.Vegetace a oheňh.Vliv živočichů na vegetacii.Ekoelementy, ekologická konstituce druhů, fytoindikace"
+    },
+    {
+      "label": "[section] Interakce vegetace a prostředí",
+      "content": "a.Obecné zákonitosti vztahu vegetace a prostředíb.Vegetace a klima (teplo, světlo, voda, vítr, chemismus ovzduší)c.Vegetace a reliéf (katéna, hmotnost pohoří, expozice, nadmořská výška)d.Vegetace a půdae.Vegetace a vodaf.Vegetační fenomény – vrcholový, anemo-orografické systémy, krasový, říční (údolní), nivní, hadcový, pískovcovýg.Vegetace a oheňh.Vliv živočichů na vegetacii.Ekoelementy, ekologická konstituce druhů, fytoindikace"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Růst a šíření populací rostlinb.Vztahy mezi jedinci a populacemi rostlin (vnitrodruhová a mezidruhová konkurence, alelopatie, symbióza, mykorhiza, parazitismus, epifitismus)c.Strategie populací (strategie primární - R, C, S; strategie sekundární)d.Sukcesee.Dynamika přírodního lesa (přípravný, přechodný a závěrečný les, stadia zmlazování, dorůstání, zralosti a rozpadu)f.Stabilita a působení stresových faktorů"
+    },
+    {
+      "label": "[section] Dynamika vegetace",
+      "content": "a.Růst a šíření populací rostlinb.Vztahy mezi jedinci a populacemi rostlin (vnitrodruhová a mezidruhová konkurence, alelopatie, symbióza, mykorhiza, parazitismus, epifitismus)c.Strategie populací (strategie primární - R, C, S; strategie sekundární)d.Sukcesee.Dynamika přírodního lesa (přípravný, přechodný a závěrečný les, stadia zmlazování, dorůstání, zralosti a rozpadu)f.Stabilita a působení stresových faktorů"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Biogeografické členění ČR, Přírodní lesní oblasti (PLO)b.Zonálnost vegetace (biom tropického deštného lesa, tropického opadavého lesa, savan, pouští, tvrdolisté dřevinné vegetace, vavřínových lesů, opadavých lesů, stepí, pouští a polopouští mírného klimatu, tajgy, tundry)c.Stupňovitost vegetaced.Floroelementye.Vývoj vegetace v kvartéruf.Vliv člověka na vegetaci"
+    },
+    {
+      "label": "[section] Rozšíření a vývoj vegetace",
+      "content": "a.Biogeografické členění ČR, Přírodní lesní oblasti (PLO)b.Zonálnost vegetace (biom tropického deštného lesa, tropického opadavého lesa, savan, pouští, tvrdolisté dřevinné vegetace, vavřínových lesů, opadavých lesů, stepí, pouští a polopouští mírného klimatu, tajgy, tundry)c.Stupňovitost vegetaced.Floroelementye.Vývoj vegetace v kvartéruf.Vliv člověka na vegetaci"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Základy a obecné principy klasifikačních systémůb.Curyšsko-montpeliérský systémc.Katalog biotopů České republikyd.Geobiocenologická typologie (teorie typu geobiocénu, vegetační stupně, trofické řady, hydrické řady, skupiny typů geobiocénů)e.Lesnicko-typologický klasifikační systém (lesní vegetační stupně, ekologické řady, edafické kategorie, soubory lesních typů, lesní typy)f.Diferenciace hospodaření v lesích (cílové hospodářské soubory, hospodářské soubory)g.Aplikace geobiocenologie a lesnické typologie"
+    },
+    {
+      "label": "[section] Klasifikace vegetace",
+      "content": "a.Základy a obecné principy klasifikačních systémůb.Curyšsko-montpeliérský systémc.Katalog biotopů České republikyd.Geobiocenologická typologie (teorie typu geobiocénu, vegetační stupně, trofické řady, hydrické řady, skupiny typů geobiocénů)e.Lesnicko-typologický klasifikační systém (lesní vegetační stupně, ekologické řady, edafické kategorie, soubory lesních typů, lesní typy)f.Diferenciace hospodaření v lesích (cílové hospodářské soubory, hospodářské soubory)g.Aplikace geobiocenologie a lesnické typologie"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška36 h20 hcvičení24 h0 hpráce v terénu32 h32 hodborná exkurze24 h0 hkonzultace4 h4 hpříprava na zkoušku32 h32 hzpracování seminární práce32 h32 hCelkem184 h120 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Podmínkou zápočtu je účast na hlavních terénních cvičeních, zpracování dílčích protokolů ze cvičení a odevzdání seminární práce. Zkouška je písemná a ústní a skládá se z ověření znalostí dle obsahové náplně a z obhajoby seminární práce."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích30 %30 %Vypracování semestrální práce60 %60 %Absolvování závěrečné ústní zkoušky10 %10 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:BUČEK, Antonín; LACINA, Jan. 2007. Geobiocenologie II. Geobiocenologická typologie krajiny České republiky. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 251 s. ISBN 978-80-7375-046-6.PLÍVA, Karel. 1991. Funkčně integrované lesní hospodářství. Brandýs nad Labem: Ústav pro hospodářskou úpravu lesů, 264 s.RANDUŠKA, Dušan; VOREL, Jaromír; PLÍVA, Karel. 1986. Fytocenológia a lesnícka typológia. 1. vyd. Bratislava: Príroda, 339 s.ŠTYKAR, Jan. 2008. Lesnická fytocenologie a typologie. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 252 s. ISBN 978-80-7375-144-9.ÚHÚL, Brandýs nad Labem. 2023. Přehled lesních typů a souborů lesních typů v ČR. https://www.uhul.cz/wp-content/uploads/tabulka-LT_2023_web_FIN.pdf.Doporučená:AMBROS, Zdeněk; ŠTYKAR, Jan. 2004. Geobiocenologie I. Brno: MZLU v Brne, 80 s. ISBN 80-7157-397-3.CHYTRÝ, Milan. 2013. Vegetace České republiky. 1. vyd. Praha: Academia, 551 s. ISBN 978-80-200-2299-8.KUČERA, Tomáš; CHYTRÝ, Milan; KOČÍ, Martin. 2010. Katalog biotopů České republiky. Praha: Agentura ochrany přírody a krajiny ČR, 445 s. ISBN 978-80-87457-03-0.MORAVEC, Jaroslav a kol. 2000. Fytocenologie. 1. vyd. Praha: Academia, 403 s. ISBN 80-200-0128-X.PRŮŠA, Eduard. 2001. Pěstování lesů na typologických základech. Kostelec nad Černými lesy: Lesnická práce, s.r.o., 593 s. ISBN 80-86386-10-4.VIEWEGH, Jiří. 2003. Klasifikace lesních rostlinných společenstev: se zaměřením na typologický systém ÚHÚL. 1. vyd. Praha: Česká zemědělská univerzita, 208 s. ISBN 80-213-1061-8.Vyhláška 298/2018 o zpracování oblastních plánů rozvoje lesů a o vymezení hospodářských souborů."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "BUČEK, Antonín; LACINA, Jan. 2007. Geobiocenologie II. Geobiocenologická typologie krajiny České republiky. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 251 s. ISBN 978-80-7375-046-6.PLÍVA, Karel. 1991. Funkčně integrované lesní hospodářství. Brandýs nad Labem: Ústav pro hospodářskou úpravu lesů, 264 s.RANDUŠKA, Dušan; VOREL, Jaromír; PLÍVA, Karel. 1986. Fytocenológia a lesnícka typológia. 1. vyd. Bratislava: Príroda, 339 s.ŠTYKAR, Jan. 2008. Lesnická fytocenologie a typologie. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 252 s. ISBN 978-80-7375-144-9.ÚHÚL, Brandýs nad Labem. 2023. Přehled lesních typů a souborů lesních typů v ČR. https://www.uhul.cz/wp-content/uploads/tabulka-LT_2023_web_FIN.pdf."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "AMBROS, Zdeněk; ŠTYKAR, Jan. 2004. Geobiocenologie I. Brno: MZLU v Brne, 80 s. ISBN 80-7157-397-3.CHYTRÝ, Milan. 2013. Vegetace České republiky. 1. vyd. Praha: Academia, 551 s. ISBN 978-80-200-2299-8.KUČERA, Tomáš; CHYTRÝ, Milan; KOČÍ, Martin. 2010. Katalog biotopů České republiky. Praha: Agentura ochrany přírody a krajiny ČR, 445 s. ISBN 978-80-87457-03-0.MORAVEC, Jaroslav a kol. 2000. Fytocenologie. 1. vyd. Praha: Academia, 403 s. ISBN 80-200-0128-X.PRŮŠA, Eduard. 2001. Pěstování lesů na typologických základech. Kostelec nad Černými lesy: Lesnická práce, s.r.o., 593 s. ISBN 80-86386-10-4.VIEWEGH, Jiří. 2003. Klasifikace lesních rostlinných společenstev: se zaměřením na typologický systém ÚHÚL. 1. vyd. Praha: Česká zemědělská univerzita, 208 s. ISBN 80-213-1061-8.Vyhláška 298/2018 o zpracování oblastních plánů rozvoje lesů a o vymezení hospodářských souborů."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "GLTO"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Geobiocenologie a lesnická typologie"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Geobiocenology and Forest Typology"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 3/2/3 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)part-time, 20/0/0 (h/h/days in semester) (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "consulting"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The main output of the course is a field work. Although it is theoretically workable anywhere in the world where there is forest vegetation, only in the full-time study will skills be presented in practical field exercises that will allow the work to be processed and completed."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Michal Friedl, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Forest Botany, Dendrology and Geobiocoenology (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Petr Dujka, Ph.D. (instructor)Ing. Michal Friedl, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Jan Šebesta, Ph.D. (instructor)doc. Dr. Ing. Jan Štykar (instructor)Ing. Martin Valtera, Ph.D. (instructor)Ing. Daniel Volařík, Ph.D. (instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Special Forest Botany and Soil Science and Dendrology and Ecology of Forest Trees"
+    },
+    {
+      "label": "1.",
+      "content": "Significance, content, development and contemporary trends of geobiocenology and forest typology (allowance 3/0)"
+    },
+    {
+      "label": "2.",
+      "content": "Basic terms and their coherences, basic concepts in geobiocenology and forest typology (species, taxon, syntaxon, phytocenosis, community, biocenosis, aggregation, flora, biota, vegetation, actual vegetation, natural vegetation, ecological factors, abiotic factor, biotic factor, anthropogenic factor, ecotope, biotope, segment, fragment, ecosystem, geobiocenosis, geobiocenoid, geobiocene, theory of geobiocene type, geobiocene type, forest site, group of geobiocene types, forest site complex, association, synusia, formation, biome, phytosociology, geobiocenology, forest site classification) (allowance 3/0)"
+    },
+    {
+      "label": "3.",
+      "content": "Methods of vegetation study (allowance 3/12)"
+    },
+    {
+      "label": "a.",
+      "content": "Analytical characteristics of geobiocenoses (floristic composition, etage, abundance, dominance, tree species representation, sociability, vitality, living forms of plants, age structure, stages and phases of forest development, naturalness of vegetation)"
+    },
+    {
+      "label": "b.",
+      "content": "Geobiocenological plot and relevé, minimal area, homogenity, representativeness of geobiocenosis. Databases of phytosociological and geobiocenological relevés and their application."
+    },
+    {
+      "label": "4.",
+      "content": "Interactions of vegetation and environment (allowance 6/0)"
+    },
+    {
+      "label": "a.",
+      "content": "General principles of relationship of vegetation and environment"
+    },
+    {
+      "label": "b.",
+      "content": "Vegetation and climate (heat, light, water, wind, chemistry of atmosphere)"
+    },
+    {
+      "label": "c.",
+      "content": "Vegetation and relief (catena, exposition, height above sea level)"
+    },
+    {
+      "label": "d.",
+      "content": "Vegetation and soils"
+    },
+    {
+      "label": "e.",
+      "content": "Vegetation and water"
+    },
+    {
+      "label": "f.",
+      "content": "Vegetational phenomenons – top level, anemo-orographic systems, carsic, river valleys, fluvial flood-plain, serpentinit, sandstones"
+    },
+    {
+      "label": "g.",
+      "content": "Vegetation and fire"
+    },
+    {
+      "label": "h.",
+      "content": "Influence of animals on vegetation"
+    },
+    {
+      "label": "i.",
+      "content": "Ecolements, ecological constitution of species, phytoindication"
+    },
+    {
+      "label": "5.",
+      "content": "Dynamic of vegetation (allowance 3/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Growth and distribution of plant populations"
+    },
+    {
+      "label": "b.",
+      "content": "Relationship between individuals and plant populations (intra- and interspecific competion, allelopathy, symbiosis, parasitism, epifytism)"
+    },
+    {
+      "label": "c.",
+      "content": "Population strategy (primary and secundary)"
+    },
+    {
+      "label": "d.",
+      "content": "Succesion"
+    },
+    {
+      "label": "e.",
+      "content": "Dynamic of natural forest"
+    },
+    {
+      "label": "f.",
+      "content": "Stability and influence of stress factors"
+    },
+    {
+      "label": "6.",
+      "content": "Distribution and development of vegetation (allowance 3/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Biogeographical classification of the Czech Republic, Natural Forest Areas"
+    },
+    {
+      "label": "b.",
+      "content": "Vegetation zonality (biome of tropical rainforest, tropical deciduous forest, savannah, desert, hardwood woody vegetation, laurel forests, deciduous forests, steppes, deserts and semi-deserts of temperate climates, taiga, tundra)"
+    },
+    {
+      "label": "c.",
+      "content": "Vegetation tiers (altitudal zonality)"
+    },
+    {
+      "label": "d.",
+      "content": "Floroelements"
+    },
+    {
+      "label": "e.",
+      "content": "Vegetation development in the Quaternary"
+    },
+    {
+      "label": "f.",
+      "content": "Influence of human acivity"
+    },
+    {
+      "label": "7.",
+      "content": "Vegetation classification (allowance 15/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Funfamentals and general principles of classification systems"
+    },
+    {
+      "label": "b.",
+      "content": "Geobotanical system"
+    },
+    {
+      "label": "c.",
+      "content": "Habitat Catalogue of the Czech Republic"
+    },
+    {
+      "label": "d.",
+      "content": "Geobiocenological classification system (theory of geobiocene type, vegetation tiers, trophic ranges, hydric ranges, group of geobiocene types)"
+    },
+    {
+      "label": "e.",
+      "content": "Czech Forest Ecosystem Classification (forest vegetation zones, Edaphic series, Edaphic categories, Forest site complexes, Forest sites)"
+    },
+    {
+      "label": "f.",
+      "content": "Differentiation of forest management (target management complexes, management complexes)"
+    },
+    {
+      "label": "g.",
+      "content": "Application of geobiocenology and forest typology"
+    },
+    {
+      "label": "8.",
+      "content": "Vegetation mapping (allowance 0/4)"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024, WS 2023/2024, SS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Geobiocenologie a lesnická typologie"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Geobiocenology and Forest Typology"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 3/2/3 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)part-time, 20/0/0 (h/h/days in semester) (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 3/2/3 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)part-time, 20/0/0 (h/h/days in semester) (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: consulting"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The main output of the course is a field work. Although it is theoretically workable anywhere in the world where there is forest vegetation, only in the full-time study will skills be presented in practical field exercises that will allow the work to be processed and completed."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Michal Friedl, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Forest Botany, Dendrology and Geobiocoenology (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Petr Dujka, Ph.D. (instructor)Ing. Michal Friedl, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Jan Šebesta, Ph.D. (instructor)doc. Dr. Ing. Jan Štykar (instructor)Ing. Martin Valtera, Ph.D. (instructor)Ing. Daniel Volařík, Ph.D. (instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Special Forest Botany and Soil Science and Dendrology and Ecology of Forest Trees"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to understand the principles of classification of forest vegetation, through knowledge of geobiocenological and forest-typological classification. On their example, students should gain knowledge about the composition, structure, ecology and spatial pattern of forest communities. The course is designed on the one hand as a synthetic, completing a series of nature sciences (geology, pedology, climatology, botany, dendrology, ecology, etc.) on the other hand as a basic course for related forestry disciplines (Silviculture, Forest Management). The practical part of the course will focus on the acquisition of practical skills to describe and characteristics of forest ecosystems, their classification and mapping, including the subsequent management differentiation."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Significance, content, development and contemporary trends of geobiocenology and forest typology (allowance 3/0)2.Basic terms and their coherences, basic concepts in geobiocenology and forest typology (species, taxon, syntaxon, phytocenosis, community, biocenosis, aggregation, flora, biota, vegetation, actual vegetation, natural vegetation, ecological factors, abiotic factor, biotic factor, anthropogenic factor, ecotope, biotope, segment, fragment, ecosystem, geobiocenosis, geobiocenoid, geobiocene, theory of geobiocene type, geobiocene type, forest site, group of geobiocene types, forest site complex, association, synusia, formation, biome, phytosociology, geobiocenology, forest site classification) (allowance 3/0)3.Methods of vegetation study (allowance 3/12) a.Analytical characteristics of geobiocenoses (floristic composition, etage, abundance, dominance, tree species representation, sociability, vitality, living forms of plants, age structure, stages and phases of forest development, naturalness of vegetation)b.Geobiocenological plot and relevé, minimal area, homogenity, representativeness of geobiocenosis. Databases of phytosociological and geobiocenological relevés and their application.4.Interactions of vegetation and environment (allowance 6/0) a.General principles of relationship of vegetation and environmentb.Vegetation and climate (heat, light, water, wind, chemistry of atmosphere)c.Vegetation and relief (catena, exposition, height above sea level)d.Vegetation and soilse.Vegetation and waterf.Vegetational phenomenons – top level, anemo-orographic systems, carsic, river valleys, fluvial flood-plain, serpentinit, sandstonesg.Vegetation and fireh.Influence of animals on vegetationi.Ecolements, ecological constitution of species, phytoindication5.Dynamic of vegetation (allowance 3/0) a.Growth and distribution of plant populationsb.Relationship between individuals and plant populations (intra- and interspecific competion, allelopathy, symbiosis, parasitism, epifytism)c.Population strategy (primary and secundary)d.Succesione.Dynamic of natural forestf.Stability and influence of stress factors6.Distribution and development of vegetation (allowance 3/0) a.Biogeographical classification of the Czech Republic, Natural Forest Areasb.Vegetation zonality (biome of tropical rainforest, tropical deciduous forest, savannah, desert, hardwood woody vegetation, laurel forests, deciduous forests, steppes, deserts and semi-deserts of temperate climates, taiga, tundra)c.Vegetation tiers (altitudal zonality)d.Floroelementse.Vegetation development in the Quaternaryf.Influence of human acivity7.Vegetation classification (allowance 15/2) a.Funfamentals and general principles of classification systemsb.Geobotanical systemc.Habitat Catalogue of the Czech Republicd.Geobiocenological classification system (theory of geobiocene type, vegetation tiers, trophic ranges, hydric ranges, group of geobiocene types)e.Czech Forest Ecosystem Classification (forest vegetation zones, Edaphic series, Edaphic categories, Forest site complexes, Forest sites)f.Differentiation of forest management (target management complexes, management complexes)g.Application of geobiocenology and forest typology8.Vegetation mapping (allowance 0/4)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Basic terms and their coherences, basic concepts in geobiocenology and forest typology (species, taxon, syntaxon, phytocenosis, community, biocenosis, aggregation, flora, biota, vegetation, actual vegetation, natural vegetation, ecological factors, abiotic factor, biotic factor, anthropogenic factor, ecotope, biotope, segment, fragment, ecosystem, geobiocenosis, geobiocenoid, geobiocene, theory of geobiocene type, geobiocene type, forest site, group of geobiocene types, forest site complex, association, synusia, formation, biome, phytosociology, geobiocenology, forest site classification) (allowance 3/0)"
+    },
+    {
+      "label": "[section] Significance, content, development and contemporary trends of geobiocenology and forest typology",
+      "content": "2.Basic terms and their coherences, basic concepts in geobiocenology and forest typology (species, taxon, syntaxon, phytocenosis, community, biocenosis, aggregation, flora, biota, vegetation, actual vegetation, natural vegetation, ecological factors, abiotic factor, biotic factor, anthropogenic factor, ecotope, biotope, segment, fragment, ecosystem, geobiocenosis, geobiocenoid, geobiocene, theory of geobiocene type, geobiocene type, forest site, group of geobiocene types, forest site complex, association, synusia, formation, biome, phytosociology, geobiocenology, forest site classification) (allowance 3/0)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Methods of vegetation study (allowance 3/12)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Analytical characteristics of geobiocenoses (floristic composition, etage, abundance, dominance, tree species representation, sociability, vitality, living forms of plants, age structure, stages and phases of forest development, naturalness of vegetation)b.Geobiocenological plot and relevé, minimal area, homogenity, representativeness of geobiocenosis. Databases of phytosociological and geobiocenological relevés and their application."
+    },
+    {
+      "label": "[section] Methods of vegetation study",
+      "content": "a.Analytical characteristics of geobiocenoses (floristic composition, etage, abundance, dominance, tree species representation, sociability, vitality, living forms of plants, age structure, stages and phases of forest development, naturalness of vegetation)b.Geobiocenological plot and relevé, minimal area, homogenity, representativeness of geobiocenosis. Databases of phytosociological and geobiocenological relevés and their application."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.General principles of relationship of vegetation and environmentb.Vegetation and climate (heat, light, water, wind, chemistry of atmosphere)c.Vegetation and relief (catena, exposition, height above sea level)d.Vegetation and soilse.Vegetation and waterf.Vegetational phenomenons – top level, anemo-orographic systems, carsic, river valleys, fluvial flood-plain, serpentinit, sandstonesg.Vegetation and fireh.Influence of animals on vegetationi.Ecolements, ecological constitution of species, phytoindication"
+    },
+    {
+      "label": "[section] Interactions of vegetation and environment",
+      "content": "a.General principles of relationship of vegetation and environmentb.Vegetation and climate (heat, light, water, wind, chemistry of atmosphere)c.Vegetation and relief (catena, exposition, height above sea level)d.Vegetation and soilse.Vegetation and waterf.Vegetational phenomenons – top level, anemo-orographic systems, carsic, river valleys, fluvial flood-plain, serpentinit, sandstonesg.Vegetation and fireh.Influence of animals on vegetationi.Ecolements, ecological constitution of species, phytoindication"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Growth and distribution of plant populationsb.Relationship between individuals and plant populations (intra- and interspecific competion, allelopathy, symbiosis, parasitism, epifytism)c.Population strategy (primary and secundary)d.Succesione.Dynamic of natural forestf.Stability and influence of stress factors"
+    },
+    {
+      "label": "[section] Dynamic of vegetation",
+      "content": "a.Growth and distribution of plant populationsb.Relationship between individuals and plant populations (intra- and interspecific competion, allelopathy, symbiosis, parasitism, epifytism)c.Population strategy (primary and secundary)d.Succesione.Dynamic of natural forestf.Stability and influence of stress factors"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Biogeographical classification of the Czech Republic, Natural Forest Areasb.Vegetation zonality (biome of tropical rainforest, tropical deciduous forest, savannah, desert, hardwood woody vegetation, laurel forests, deciduous forests, steppes, deserts and semi-deserts of temperate climates, taiga, tundra)c.Vegetation tiers (altitudal zonality)d.Floroelementse.Vegetation development in the Quaternaryf.Influence of human acivity"
+    },
+    {
+      "label": "[section] Distribution and development of vegetation",
+      "content": "a.Biogeographical classification of the Czech Republic, Natural Forest Areasb.Vegetation zonality (biome of tropical rainforest, tropical deciduous forest, savannah, desert, hardwood woody vegetation, laurel forests, deciduous forests, steppes, deserts and semi-deserts of temperate climates, taiga, tundra)c.Vegetation tiers (altitudal zonality)d.Floroelementse.Vegetation development in the Quaternaryf.Influence of human acivity"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Funfamentals and general principles of classification systemsb.Geobotanical systemc.Habitat Catalogue of the Czech Republicd.Geobiocenological classification system (theory of geobiocene type, vegetation tiers, trophic ranges, hydric ranges, group of geobiocene types)e.Czech Forest Ecosystem Classification (forest vegetation zones, Edaphic series, Edaphic categories, Forest site complexes, Forest sites)f.Differentiation of forest management (target management complexes, management complexes)g.Application of geobiocenology and forest typology"
+    },
+    {
+      "label": "[section] Vegetation classification",
+      "content": "a.Funfamentals and general principles of classification systemsb.Geobotanical systemc.Habitat Catalogue of the Czech Republicd.Geobiocenological classification system (theory of geobiocene type, vegetation tiers, trophic ranges, hydric ranges, group of geobiocene types)e.Czech Forest Ecosystem Classification (forest vegetation zones, Edaphic series, Edaphic categories, Forest site complexes, Forest sites)f.Differentiation of forest management (target management complexes, management complexes)g.Application of geobiocenology and forest typology"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture36 h20 hpractice24 h0 hfield work32 h32 hprofessional educational excursion24 h0 hconsultation4 h4 hpreparation for exam32 h32 hwriting of seminar paper32 h32 hTotal184 h120 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "The condition of the credit is participation in the main field exercises, elaboration of partial protocols from the exercises and submission of the seminar work. The exam is written and oral and consists of verification of knowledge according to the content and seminar paper debate."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation30 %30 %Term paper60 %60 %Final oral exam10 %10 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:BUČEK, Antonín; LACINA, Jan. 2007. Geobiocenologie II. Geobiocenologická typologie krajiny České republiky. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 251 p. ISBN 978-80-7375-046-6.PLÍVA, Karel. 1991. Funkčně integrované lesní hospodářství. Brandýs nad Labem: Ústav pro hospodářskou úpravu lesů, 264 p.RANDUŠKA, Dušan; VOREL, Jaromír; PLÍVA, Karel. 1986. Fytocenológia a lesnícka typológia. 1st ed. Bratislava: Príroda, 339 p.ŠTYKAR, Jan. 2008. Lesnická fytocenologie a typologie. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 252 p. ISBN 978-80-7375-144-9.ÚHÚL, Brandýs nad Labem. 2023. Přehled lesních typů a souborů lesních typů v ČR. https://www.uhul.cz/wp-content/uploads/tabulka-LT_2023_web_FIN.pdf.Recommended:AMBROS, Zdeněk; ŠTYKAR, Jan. 2004. Geobiocenologie I. Brno: MZLU v Brne, 80 p. ISBN 80-7157-397-3.CHYTRÝ, Milan. 2013. Vegetace České republiky. 1st ed. Praha: Academia, 551 p. ISBN 978-80-200-2299-8.KUČERA, Tomáš; CHYTRÝ, Milan; KOČÍ, Martin. 2010. Katalog biotopů České republiky. Praha: Agentura ochrany přírody a krajiny ČR, 445 p. ISBN 978-80-87457-03-0.MORAVEC, Jaroslav et al. 2000. Fytocenologie. 1st ed. Praha: Academia, 403 p. ISBN 80-200-0128-X.PRŮŠA, Eduard. 2001. Pěstování lesů na typologických základech. Kostelec nad Černými lesy: Lesnická práce, s.r.o., 593 p. ISBN 80-86386-10-4.VIEWEGH, Jiří. 2003. Klasifikace lesních rostlinných společenstev: se zaměřením na typologický systém ÚHÚL. 1st ed. Praha: Česká zemědělská univerzita, 208 p. ISBN 80-213-1061-8.Vyhláška 298/2018 o zpracování oblastních plánů rozvoje lesů a o vymezení hospodářských souborů."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "BUČEK, Antonín; LACINA, Jan. 2007. Geobiocenologie II. Geobiocenologická typologie krajiny České republiky. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 251 p. ISBN 978-80-7375-046-6.PLÍVA, Karel. 1991. Funkčně integrované lesní hospodářství. Brandýs nad Labem: Ústav pro hospodářskou úpravu lesů, 264 p.RANDUŠKA, Dušan; VOREL, Jaromír; PLÍVA, Karel. 1986. Fytocenológia a lesnícka typológia. 1st ed. Bratislava: Príroda, 339 p.ŠTYKAR, Jan. 2008. Lesnická fytocenologie a typologie. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 252 p. ISBN 978-80-7375-144-9.ÚHÚL, Brandýs nad Labem. 2023. Přehled lesních typů a souborů lesních typů v ČR. https://www.uhul.cz/wp-content/uploads/tabulka-LT_2023_web_FIN.pdf."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "AMBROS, Zdeněk; ŠTYKAR, Jan. 2004. Geobiocenologie I. Brno: MZLU v Brne, 80 p. ISBN 80-7157-397-3.CHYTRÝ, Milan. 2013. Vegetace České republiky. 1st ed. Praha: Academia, 551 p. ISBN 978-80-200-2299-8.KUČERA, Tomáš; CHYTRÝ, Milan; KOČÍ, Martin. 2010. Katalog biotopů České republiky. Praha: Agentura ochrany přírody a krajiny ČR, 445 p. ISBN 978-80-87457-03-0.MORAVEC, Jaroslav et al. 2000. Fytocenologie. 1st ed. Praha: Academia, 403 p. ISBN 80-200-0128-X.PRŮŠA, Eduard. 2001. Pěstování lesů na typologických základech. Kostelec nad Černými lesy: Lesnická práce, s.r.o., 593 p. ISBN 80-86386-10-4.VIEWEGH, Jiří. 2003. Klasifikace lesních rostlinných společenstev: se zaměřením na typologický systém ÚHÚL. 1st ed. Praha: Česká zemědělská univerzita, 208 p. ISBN 80-213-1061-8.Vyhláška 298/2018 o zpracování oblastních plánů rozvoje lesů a o vymezení hospodářských souborů."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:13:39",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

@@ -1,0 +1,521 @@
+{
+  "courseCode": "PMVC",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "PMVC"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Počítačové modelování v CAD"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "CAD Computer Modeling"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Adam Kořený, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav designu a nábytku (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Adam Kořený, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Zdeněk Kořínek (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Základní úvod do CAD systémů. (dotace 2/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Základní operace kreslení ve 2D. (dotace 4/4)"
+    },
+    {
+      "label": "3.",
+      "content": "Druhy tvorby 3D objektů s použitím 2D uzavřených tvarů a s aplikací 3D booleovských operací. (dotace 4/4)"
+    },
+    {
+      "label": "4.",
+      "content": "Nástroje pro tvorbu 3D složitých objektů a jejich editace. (dotace 4/4)"
+    },
+    {
+      "label": "5.",
+      "content": "Přenos vytvořených objektů do prostředí výkresové dokumentace. (dotace 4/4)"
+    },
+    {
+      "label": "6.",
+      "content": "Tvorba sestav z vytvořených objektů, metody nastavení základní polohy. (dotace 4/4)"
+    },
+    {
+      "label": "7.",
+      "content": "Zobrazování a tvorba prostředí pro vizualizaci navržených modelů. (dotace 2/2)"
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021, LS 2019/2020, LS 2018/2019 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Počítačové modelování v CAD"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: CAD Computer Modeling"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Adam Kořený, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav designu a nábytku (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Adam Kořený, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Zdeněk Kořínek (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Základní činnosti v systémech CAD zaměřených na modelování objektů ve 3D. Modelování objektů s využitím základních grafických operací. Tvorba sestav s vytvořených objektů. Přenos do výkresové dokumentace."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Základní úvod do CAD systémů. (dotace 2/2)2.Základní operace kreslení ve 2D. (dotace 4/4)3.Druhy tvorby 3D objektů s použitím 2D uzavřených tvarů a s aplikací 3D booleovských operací. (dotace 4/4)4.Nástroje pro tvorbu 3D složitých objektů a jejich editace. (dotace 4/4)5.Přenos vytvořených objektů do prostředí výkresové dokumentace. (dotace 4/4)6.Tvorba sestav z vytvořených objektů, metody nastavení základní polohy. (dotace 4/4)7.Zobrazování a tvorba prostředí pro vizualizaci navržených modelů. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Základní operace kreslení ve 2D. (dotace 4/4)"
+    },
+    {
+      "label": "[section] Základní úvod do CAD systémů.",
+      "content": "2.Základní operace kreslení ve 2D. (dotace 4/4)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Druhy tvorby 3D objektů s použitím 2D uzavřených tvarů a s aplikací 3D booleovských operací. (dotace 4/4)"
+    },
+    {
+      "label": "[section] Základní operace kreslení ve 2D.",
+      "content": "3.Druhy tvorby 3D objektů s použitím 2D uzavřených tvarů a s aplikací 3D booleovských operací. (dotace 4/4)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Nástroje pro tvorbu 3D složitých objektů a jejich editace. (dotace 4/4)"
+    },
+    {
+      "label": "[section] Druhy tvorby 3D objektů s použitím 2D uzavřených tvarů a s aplikací 3D booleovských operací.",
+      "content": "4.Nástroje pro tvorbu 3D složitých objektů a jejich editace. (dotace 4/4)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Přenos vytvořených objektů do prostředí výkresové dokumentace. (dotace 4/4)"
+    },
+    {
+      "label": "[section] Nástroje pro tvorbu 3D složitých objektů a jejich editace.",
+      "content": "5.Přenos vytvořených objektů do prostředí výkresové dokumentace. (dotace 4/4)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Tvorba sestav z vytvořených objektů, metody nastavení základní polohy. (dotace 4/4)"
+    },
+    {
+      "label": "[section] Přenos vytvořených objektů do prostředí výkresové dokumentace.",
+      "content": "6.Tvorba sestav z vytvořených objektů, metody nastavení základní polohy. (dotace 4/4)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Zobrazování a tvorba prostředí pro vizualizaci navržených modelů. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Tvorba sestav z vytvořených objektů, metody nastavení základní polohy.",
+      "content": "7.Zobrazování a tvorba prostředí pro vizualizaci navržených modelů. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení28 hpříprava prezentace14 hzpracování projektů56 hCelkem112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Obhajoba projektu. K ukončení je požadována minimálně 75% úspěšnost."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:SVOBODA, Jaroslav; TAUBER, Jiří. 2013. Vizualizace v CAD I - Navrhování nábytku a interiéru v programu 3D Studiu Max. 1. vyd. Astron studio CZ, a.s., Praha: Mendelova univerita v Brně v rámci projektu TechDrev, 120 s. ISBN 978-80-7375-940-7. CADCAM: principles, practice, and manufacturing management. 1998. 2. vyd. Harlow: Addison Wesley Longman, 665 s. ISBN 0-201-17819-2.JIČÍNSKÝ, Marek; CHLADIL, Josef. 2004. Konstrukce v systémech CAD včetně parametrické aplikace. In: NÁBYTOK 2004 [CD-ROM]. Zvolen: Technická univerzita vo Zvolene, 2004. 1. vyd. Zvolen: TECHNICKÁ UNIVERZITA VO ZVOLENE a Drevársky kongres ZSVTS Zvolen, 1–9. ISBN 80-228-1390-7.SPIELMANN, Michal; ŠPAČEK, Jiří. 2010. AutoCAD: názorný průvodce pro verze 2010 a 2011. 1. vyd. Brno: Computer Press, 431 s. Názorný průvodce. ISBN 978-80-251-3120-6."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "SVOBODA, Jaroslav; TAUBER, Jiří. 2013. Vizualizace v CAD I - Navrhování nábytku a interiéru v programu 3D Studiu Max. 1. vyd. Astron studio CZ, a.s., Praha: Mendelova univerita v Brně v rámci projektu TechDrev, 120 s. ISBN 978-80-7375-940-7. CADCAM: principles, practice, and manufacturing management. 1998. 2. vyd. Harlow: Addison Wesley Longman, 665 s. ISBN 0-201-17819-2.JIČÍNSKÝ, Marek; CHLADIL, Josef. 2004. Konstrukce v systémech CAD včetně parametrické aplikace. In: NÁBYTOK 2004 [CD-ROM]. Zvolen: Technická univerzita vo Zvolene, 2004. 1. vyd. Zvolen: TECHNICKÁ UNIVERZITA VO ZVOLENE a Drevársky kongres ZSVTS Zvolen, 1–9. ISBN 80-228-1390-7.SPIELMANN, Michal; ŠPAČEK, Jiří. 2010. AutoCAD: názorný průvodce pro verze 2010 a 2011. 1. vyd. Brno: Computer Press, 431 s. Názorný průvodce. ISBN 978-80-251-3120-6."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-DESGN Design nábytku, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "PMVC"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Počítačové modelování v CAD"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "CAD Computer Modeling"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Adam Kořený, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Design and Furniture (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Adam Kořený, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Zdeněk Kořínek (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "State Bachelor Examination"
+    },
+    {
+      "label": "1.",
+      "content": "Essential introduction into CAD systems. (allowance 2/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Basic operations of drawing in 2D. (allowance 4/4)"
+    },
+    {
+      "label": "3.",
+      "content": "Types of 3D objects using 2D closed shapes and applications of 3D Boolean operations. (allowance 4/4)"
+    },
+    {
+      "label": "4.",
+      "content": "Tools for creating complex 3D objects and edit them. (allowance 4/4)"
+    },
+    {
+      "label": "5.",
+      "content": "Transfer of created objects in drawings. (allowance 4/4)"
+    },
+    {
+      "label": "6.",
+      "content": "Creating assemblies of created objects, methods of setting the basic position. (allowance 4/4)"
+    },
+    {
+      "label": "7.",
+      "content": "Rendering and creating an environment for visualizing the models. (allowance 2/2)"
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021, SS 2019/2020, SS 2018/2019 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Počítačové modelování v CAD"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: CAD Computer Modeling"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Adam Kořený, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Design and Furniture (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Adam Kořený, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Zdeněk Kořínek (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: State Bachelor Examination"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Basic activities in CAD systems focused at modeling objects in 3D. Modeling objects using basic graphic operations. Creating assemblies with generated objects. Transfer to the drawings."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Essential introduction into CAD systems. (allowance 2/2)2.Basic operations of drawing in 2D. (allowance 4/4)3.Types of 3D objects using 2D closed shapes and applications of 3D Boolean operations. (allowance 4/4)4.Tools for creating complex 3D objects and edit them. (allowance 4/4)5.Transfer of created objects in drawings. (allowance 4/4)6.Creating assemblies of created objects, methods of setting the basic position. (allowance 4/4)7.Rendering and creating an environment for visualizing the models. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Basic operations of drawing in 2D. (allowance 4/4)"
+    },
+    {
+      "label": "[section] Essential introduction into CAD systems.",
+      "content": "2.Basic operations of drawing in 2D. (allowance 4/4)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Types of 3D objects using 2D closed shapes and applications of 3D Boolean operations. (allowance 4/4)"
+    },
+    {
+      "label": "[section] Basic operations of drawing in 2D.",
+      "content": "3.Types of 3D objects using 2D closed shapes and applications of 3D Boolean operations. (allowance 4/4)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Tools for creating complex 3D objects and edit them. (allowance 4/4)"
+    },
+    {
+      "label": "[section] Types of 3D objects using 2D closed shapes and applications of 3D Boolean operations.",
+      "content": "4.Tools for creating complex 3D objects and edit them. (allowance 4/4)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Transfer of created objects in drawings. (allowance 4/4)"
+    },
+    {
+      "label": "[section] Tools for creating complex 3D objects and edit them.",
+      "content": "5.Transfer of created objects in drawings. (allowance 4/4)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Creating assemblies of created objects, methods of setting the basic position. (allowance 4/4)"
+    },
+    {
+      "label": "[section] Transfer of created objects in drawings.",
+      "content": "6.Creating assemblies of created objects, methods of setting the basic position. (allowance 4/4)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Rendering and creating an environment for visualizing the models. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Creating assemblies of created objects, methods of setting the basic position.",
+      "content": "7.Rendering and creating an environment for visualizing the models. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice28 hpreparation of presentation14 helaboration and execution of projects56 hTotal112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Project elaboration. The termination is required at least a 75% success rate."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:SVOBODA, Jaroslav; TAUBER, Jiří. 2013. Vizualizace v CAD I - Navrhování nábytku a interiéru v programu 3D Studiu Max. 1st ed. Astron studio CZ, a.s., Praha: Mendelova univerita v Brně v rámci projektu TechDrev, 120 p. ISBN 978-80-7375-940-7. CADCAM: principles, practice, and manufacturing management. 1998. 2nd ed. Harlow: Addison Wesley Longman, 665 p. ISBN 0-201-17819-2.JIČÍNSKÝ, Marek; CHLADIL, Josef. 2004. Konstrukce v systémech CAD včetně parametrické aplikace. In: NÁBYTOK 2004 [CD-ROM]. Zvolen: Technická univerzita vo Zvolene, 2004. 1st ed. Zvolen: TECHNICKÁ UNIVERZITA VO ZVOLENE a Drevársky kongres ZSVTS Zvolen, 1–9. ISBN 80-228-1390-7.SPIELMANN, Michal; ŠPAČEK, Jiří. 2010. AutoCAD: názorný průvodce pro verze 2010 a 2011. 1st ed. Brno: Computer Press, 431 p. Názorný průvodce. ISBN 978-80-251-3120-6."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "SVOBODA, Jaroslav; TAUBER, Jiří. 2013. Vizualizace v CAD I - Navrhování nábytku a interiéru v programu 3D Studiu Max. 1st ed. Astron studio CZ, a.s., Praha: Mendelova univerita v Brně v rámci projektu TechDrev, 120 p. ISBN 978-80-7375-940-7. CADCAM: principles, practice, and manufacturing management. 1998. 2nd ed. Harlow: Addison Wesley Longman, 665 p. ISBN 0-201-17819-2.JIČÍNSKÝ, Marek; CHLADIL, Josef. 2004. Konstrukce v systémech CAD včetně parametrické aplikace. In: NÁBYTOK 2004 [CD-ROM]. Zvolen: Technická univerzita vo Zvolene, 2004. 1st ed. Zvolen: TECHNICKÁ UNIVERZITA VO ZVOLENE a Drevársky kongres ZSVTS Zvolen, 1–9. ISBN 80-228-1390-7.SPIELMANN, Michal; ŠPAČEK, Jiří. 2010. AutoCAD: názorný průvodce pro verze 2010 a 2011. 1st ed. Brno: Computer Press, 431 p. Názorný průvodce. ISBN 978-80-251-3120-6."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-DESGN Furniture Design, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:48:09",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

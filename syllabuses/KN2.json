@@ -1,0 +1,985 @@
+{
+  "courseCode": "KN2",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "KN2"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Konstrukce nábytku II"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Constructing of Furniture II."
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zápočet (3 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Eliška Máchová, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav designu a nábytku (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Eliška Máchová, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Vojtěch Ondrejka, PhD. (cvičící)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "(Konstrukce nábytku I a Základy technického kreslení a Technické kreslení v nábytkářství) a ne (Konstrukce nábytku II nebo nyní Konstrukce nábytku II nebo Konstrukce nábytku II)"
+    },
+    {
+      "label": "1.",
+      "content": "Konstrukce židlí ze dřeva materiálů na bázi dřeva. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Typologie židlí a sedacího nábytku."
+    },
+    {
+      "label": "b.",
+      "content": "Materiálově - technologické koncepce židlí."
+    },
+    {
+      "label": "c.",
+      "content": "Používané materiály a požadavky na použitý materiál - dřevo a materiály na bázi dřeva."
+    },
+    {
+      "label": "d.",
+      "content": "Používané konstrukční spoje v konstrukcích židlí."
+    },
+    {
+      "label": "2.",
+      "content": "Typologie čalouněného nábytku. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Typologie pevných čalouněných prvků."
+    },
+    {
+      "label": "b.",
+      "content": "Typologie čalouněných výrobků s funkcí."
+    },
+    {
+      "label": "3.",
+      "content": "Materiály používané na dřevěné nosné kostry čalouněného nábytku. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Dřevo a používané druhy."
+    },
+    {
+      "label": "b.",
+      "content": "Velkoplošné konstrukční materiály na bázi dřeva."
+    },
+    {
+      "label": "c.",
+      "content": "Nedřevěné materiály (kov, plast, pryž, papírová lepenka atd.)"
+    },
+    {
+      "label": "4.",
+      "content": "Základní konstrukční spoje používáné v nosných kostrách čalouněných výrobků. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Konstrukční spoje nerozebiratelné."
+    },
+    {
+      "label": "b.",
+      "content": "Konstrukční spoje rozebiratelné."
+    },
+    {
+      "label": "c.",
+      "content": "Spojovací mechanické prostředky."
+    },
+    {
+      "label": "5.",
+      "content": "Podstavení čalouněných výrobků. (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Kluzáky a jejich připevnění."
+    },
+    {
+      "label": "b.",
+      "content": "Nohy a jejich připevnění."
+    },
+    {
+      "label": "c.",
+      "content": "Kolečka a jejich připevnění."
+    },
+    {
+      "label": "d.",
+      "content": "Atypické prvky dle trendu designu."
+    },
+    {
+      "label": "6.",
+      "content": "Jednoduché čalouněné výrobky - taburety, ukončovací a prodlužovací prvky. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Typologie a účel použití."
+    },
+    {
+      "label": "b.",
+      "content": "Konstrukce taburetů bez úložného prostoru."
+    },
+    {
+      "label": "c.",
+      "content": "Konstrukce taburetů s úložným prostorem."
+    },
+    {
+      "label": "d.",
+      "content": "Konstrukce ukončovacích a prodlužovacích prvků bez úložného prostoru."
+    },
+    {
+      "label": "7.",
+      "content": "Prvky z viditelného dřeva a tvarové prvky. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Konstrukce a připevnění."
+    },
+    {
+      "label": "8.",
+      "content": "Konstrukce nosných koster područek, nosných koster sedáků a opěradel, jako samostatné montážní jednotky (podsestavy). (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Materiály."
+    },
+    {
+      "label": "b.",
+      "content": "Používané konstrukční spoje a spojovací prostředky (součástky) v nosných kostrách daných koster podsestav."
+    },
+    {
+      "label": "c.",
+      "content": "Konstrukční řešení dle tvaru područek."
+    },
+    {
+      "label": "d.",
+      "content": "Vztah způsobu pružení a konstrukce nosných podkladů sedáků."
+    },
+    {
+      "label": "e.",
+      "content": "Vztah způsobu pružení a čalounění s konstrukčním uspořádáním nosných koster opěradel."
+    },
+    {
+      "label": "9.",
+      "content": "Konstrukce křesel a pohovek pevných - bez funkce, jako kostry v celku. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Možné koncepce konstrukčního řešení."
+    },
+    {
+      "label": "10.",
+      "content": "Konstrukce nosných koster rohových prvků. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Materiály, konstrukční spoje a spojovací prostředky (součástky)."
+    },
+    {
+      "label": "b.",
+      "content": "Typologie a konstrukční řešení rohových prvků dle půdorysného tvaru."
+    },
+    {
+      "label": "c.",
+      "content": "Otoman, jako rohový a sedací prvek, v čalouněných soupravách a jeho konstrukní řešení."
+    },
+    {
+      "label": "11.",
+      "content": "Konstrukce nosných koster rozkládacích čalouněných výrobků a výrobků s funkcí. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Čalouněné výrobky s možností funke přeměny na lůžko - umožní příležitostné spaní."
+    },
+    {
+      "label": "b.",
+      "content": "Seznámení se s mechanismy rozkládání a s možností změn poloh."
+    },
+    {
+      "label": "c.",
+      "content": "Seznámení se s výrobci těchto mechanismů a s kováním pro možnost přenastavení poloh - polohovatelné kování."
+    },
+    {
+      "label": "d.",
+      "content": "Polohovací prvky a funkce čalouněného nábytku (u: područek, sedáku a opěradla a opěrek hlah)."
+    },
+    {
+      "label": "12.",
+      "content": "Balení a expdice čalouněných výrobků. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Zasady a způsoby balení, pro expedici čalouněných výrobků od výrobce do obchodů a skladů ke spotřebiteli."
+    },
+    {
+      "label": "b.",
+      "content": "Zasady a způsoby balení, pro expedici čalouněných výrobků námořní (vodní) dopravou."
+    },
+    {
+      "label": "13.",
+      "content": "Bezpečnost a životnost čalouněných výrobků ve vztahu k bezpečnosti a ochrany zdraví, respektive ekologie. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní požadavky na bezpečnost a životnost čalouněných výrobků dle současně platných technických norem a legislativních požadavků ve vztahu k bezpečnosti a ochrany zdraví včetně ekologie."
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "90 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "10 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022, ZS 2020/2021, LS 2019/2020 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Konstrukce nábytku II"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Constructing of Furniture II."
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zápočet (3 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zápočet (3 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Eliška Máchová, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav designu a nábytku (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Eliška Máchová, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Vojtěch Ondrejka, PhD. (cvičící)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: (Konstrukce nábytku I a Základy technického kreslení a Technické kreslení v nábytkářství) a ne (Konstrukce nábytku II nebo nyní Konstrukce nábytku II nebo Konstrukce nábytku II)"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je seznámení se skupinou sedacího nábytku - židle včetně konstrukce a dále s prvky a typologií čalouněného nábytku, zkládní tvorbou konstrukcí koster pro čalouněný nábytek, včetně konstrukčních vazeb, spojů a spojovacích součástí jednotlivých prvků. Praktické zpracování výkresové dokumentace v CAD."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Konstrukce židlí ze dřeva materiálů na bázi dřeva. (dotace 0/0) a.Typologie židlí a sedacího nábytku.b.Materiálově - technologické koncepce židlí.c.Používané materiály a požadavky na použitý materiál - dřevo a materiály na bázi dřeva.d.Používané konstrukční spoje v konstrukcích židlí.2.Typologie čalouněného nábytku. (dotace 0/0) a.Typologie pevných čalouněných prvků.b.Typologie čalouněných výrobků s funkcí.3.Materiály používané na dřevěné nosné kostry čalouněného nábytku. (dotace 0/0) a.Dřevo a používané druhy.b.Velkoplošné konstrukční materiály na bázi dřeva.c.Nedřevěné materiály (kov, plast, pryž, papírová lepenka atd.)4.Základní konstrukční spoje používáné v nosných kostrách čalouněných výrobků. (dotace 0/0) a.Konstrukční spoje nerozebiratelné.b.Konstrukční spoje rozebiratelné.c.Spojovací mechanické prostředky.5.Podstavení čalouněných výrobků. (dotace 1/1) a.Kluzáky a jejich připevnění.b.Nohy a jejich připevnění.c.Kolečka a jejich připevnění.d.Atypické prvky dle trendu designu.6.Jednoduché čalouněné výrobky - taburety, ukončovací a prodlužovací prvky. (dotace 0/0) a.Typologie a účel použití.b.Konstrukce taburetů bez úložného prostoru.c.Konstrukce taburetů s úložným prostorem.d.Konstrukce ukončovacích a prodlužovacích prvků bez úložného prostoru.7.Prvky z viditelného dřeva a tvarové prvky. (dotace 0/0) a.Konstrukce a připevnění.8.Konstrukce nosných koster područek, nosných koster sedáků a opěradel, jako samostatné montážní jednotky (podsestavy). (dotace 0/0) a.Materiály.b.Používané konstrukční spoje a spojovací prostředky (součástky) v nosných kostrách daných koster podsestav.c.Konstrukční řešení dle tvaru područek.d.Vztah způsobu pružení a konstrukce nosných podkladů sedáků.e.Vztah způsobu pružení a čalounění s konstrukčním uspořádáním nosných koster opěradel.9.Konstrukce křesel a pohovek pevných - bez funkce, jako kostry v celku. (dotace 0/0) a.Možné koncepce konstrukčního řešení.10.Konstrukce nosných koster rohových prvků. (dotace 0/0) a.Materiály, konstrukční spoje a spojovací prostředky (součástky).b.Typologie a konstrukční řešení rohových prvků dle půdorysného tvaru.c.Otoman, jako rohový a sedací prvek, v čalouněných soupravách a jeho konstrukní řešení.11.Konstrukce nosných koster rozkládacích čalouněných výrobků a výrobků s funkcí. (dotace 0/0) a.Čalouněné výrobky s možností funke přeměny na lůžko - umožní příležitostné spaní.b.Seznámení se s mechanismy rozkládání a s možností změn poloh.c.Seznámení se s výrobci těchto mechanismů a s kováním pro možnost přenastavení poloh - polohovatelné kování.d.Polohovací prvky a funkce čalouněného nábytku (u: područek, sedáku a opěradla a opěrek hlah).12.Balení a expdice čalouněných výrobků. (dotace 0/0) a.Zasady a způsoby balení, pro expedici čalouněných výrobků od výrobce do obchodů a skladů ke spotřebiteli.b.Zasady a způsoby balení, pro expedici čalouněných výrobků námořní (vodní) dopravou.13.Bezpečnost a životnost čalouněných výrobků ve vztahu k bezpečnosti a ochrany zdraví, respektive ekologie. (dotace 0/0) a.Základní požadavky na bezpečnost a životnost čalouněných výrobků dle současně platných technických norem a legislativních požadavků ve vztahu k bezpečnosti a ochrany zdraví včetně ekologie."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Typologie židlí a sedacího nábytku.b.Materiálově - technologické koncepce židlí.c.Používané materiály a požadavky na použitý materiál - dřevo a materiály na bázi dřeva.d.Používané konstrukční spoje v konstrukcích židlí."
+    },
+    {
+      "label": "[section] Konstrukce židlí ze dřeva materiálů na bázi dřeva.",
+      "content": "a.Typologie židlí a sedacího nábytku.b.Materiálově - technologické koncepce židlí.c.Používané materiály a požadavky na použitý materiál - dřevo a materiály na bázi dřeva.d.Používané konstrukční spoje v konstrukcích židlí."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Typologie pevných čalouněných prvků.b.Typologie čalouněných výrobků s funkcí."
+    },
+    {
+      "label": "[section] Typologie čalouněného nábytku.",
+      "content": "a.Typologie pevných čalouněných prvků.b.Typologie čalouněných výrobků s funkcí."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Dřevo a používané druhy.b.Velkoplošné konstrukční materiály na bázi dřeva.c.Nedřevěné materiály (kov, plast, pryž, papírová lepenka atd.)"
+    },
+    {
+      "label": "[section] Materiály používané na dřevěné nosné kostry čalouněného nábytku.",
+      "content": "a.Dřevo a používané druhy.b.Velkoplošné konstrukční materiály na bázi dřeva.c.Nedřevěné materiály (kov, plast, pryž, papírová lepenka atd.)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Konstrukční spoje nerozebiratelné.b.Konstrukční spoje rozebiratelné.c.Spojovací mechanické prostředky."
+    },
+    {
+      "label": "[section] Základní konstrukční spoje používáné v nosných kostrách čalouněných výrobků.",
+      "content": "a.Konstrukční spoje nerozebiratelné.b.Konstrukční spoje rozebiratelné.c.Spojovací mechanické prostředky."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Kluzáky a jejich připevnění.b.Nohy a jejich připevnění.c.Kolečka a jejich připevnění.d.Atypické prvky dle trendu designu."
+    },
+    {
+      "label": "[section] Podstavení čalouněných výrobků.",
+      "content": "a.Kluzáky a jejich připevnění.b.Nohy a jejich připevnění.c.Kolečka a jejich připevnění.d.Atypické prvky dle trendu designu."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Typologie a účel použití.b.Konstrukce taburetů bez úložného prostoru.c.Konstrukce taburetů s úložným prostorem.d.Konstrukce ukončovacích a prodlužovacích prvků bez úložného prostoru."
+    },
+    {
+      "label": "[section] Jednoduché čalouněné výrobky - taburety, ukončovací a prodlužovací prvky.",
+      "content": "a.Typologie a účel použití.b.Konstrukce taburetů bez úložného prostoru.c.Konstrukce taburetů s úložným prostorem.d.Konstrukce ukončovacích a prodlužovacích prvků bez úložného prostoru."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Konstrukce a připevnění."
+    },
+    {
+      "label": "[section] Prvky z viditelného dřeva a tvarové prvky.",
+      "content": "a.Konstrukce a připevnění."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Materiály.b.Používané konstrukční spoje a spojovací prostředky (součástky) v nosných kostrách daných koster podsestav.c.Konstrukční řešení dle tvaru područek.d.Vztah způsobu pružení a konstrukce nosných podkladů sedáků.e.Vztah způsobu pružení a čalounění s konstrukčním uspořádáním nosných koster opěradel."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Možné koncepce konstrukčního řešení."
+    },
+    {
+      "label": "[section] Konstrukce křesel a pohovek pevných - bez funkce, jako kostry v celku.",
+      "content": "a.Možné koncepce konstrukčního řešení."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Materiály, konstrukční spoje a spojovací prostředky (součástky).b.Typologie a konstrukční řešení rohových prvků dle půdorysného tvaru.c.Otoman, jako rohový a sedací prvek, v čalouněných soupravách a jeho konstrukní řešení."
+    },
+    {
+      "label": "[section] Konstrukce nosných koster rohových prvků.",
+      "content": "a.Materiály, konstrukční spoje a spojovací prostředky (součástky).b.Typologie a konstrukční řešení rohových prvků dle půdorysného tvaru.c.Otoman, jako rohový a sedací prvek, v čalouněných soupravách a jeho konstrukní řešení."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Čalouněné výrobky s možností funke přeměny na lůžko - umožní příležitostné spaní.b.Seznámení se s mechanismy rozkládání a s možností změn poloh.c.Seznámení se s výrobci těchto mechanismů a s kováním pro možnost přenastavení poloh - polohovatelné kování.d.Polohovací prvky a funkce čalouněného nábytku (u: područek, sedáku a opěradla a opěrek hlah)."
+    },
+    {
+      "label": "[section] Konstrukce nosných koster rozkládacích čalouněných výrobků a výrobků s funkcí.",
+      "content": "a.Čalouněné výrobky s možností funke přeměny na lůžko - umožní příležitostné spaní.b.Seznámení se s mechanismy rozkládání a s možností změn poloh.c.Seznámení se s výrobci těchto mechanismů a s kováním pro možnost přenastavení poloh - polohovatelné kování.d.Polohovací prvky a funkce čalouněného nábytku (u: područek, sedáku a opěradla a opěrek hlah)."
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Zasady a způsoby balení, pro expedici čalouněných výrobků od výrobce do obchodů a skladů ke spotřebiteli.b.Zasady a způsoby balení, pro expedici čalouněných výrobků námořní (vodní) dopravou."
+    },
+    {
+      "label": "[section] Balení a expdice čalouněných výrobků.",
+      "content": "a.Zasady a způsoby balení, pro expedici čalouněných výrobků od výrobce do obchodů a skladů ke spotřebiteli.b.Zasady a způsoby balení, pro expedici čalouněných výrobků námořní (vodní) dopravou."
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Základní požadavky na bezpečnost a životnost čalouněných výrobků dle současně platných technických norem a legislativních požadavků ve vztahu k bezpečnosti a ochrany zdraví včetně ekologie."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení28 hkonzultace8 hpříprava na průběžné hodnocení10 hzpracování projektů24 hCelkem84 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "- Předmět ukončen udělením zápočtu. - Podmínkou udělení zápočtu je: 1) 100%účast na cvičeních s výjimkou pracovní neschopnosti z důvodu nemoci aj. pádných důvodů řádně doložených omluvným dokladem (neschopenka, doklad z úřadu, úmrtní list s účastí na pohřbu aj.) 2) absolvované na daný termín a pořádku napsané dva semestrální testy na zadanou problematiku v klasifikačním ohodnocení A-E a to s možností jednoho opravného termínu, pro daný test. 3) splněné a na daný termín odevzdané sem.programy (konstrukční výkres s kusovníkem) na zadanou problematiku. Programy jsou zadané v příslušném semestru na začátku probírání daného tématu. Programy, které budou vráceny k opravě či přepracování po termínu odevzdání, musí být nejpozději odevzdány do konce zápočtového týdne."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích90 %Vypracování semestrální práce10 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:HOLOUŠ, Zdeněk; MÁCHOVÁ, Eliška. 2015. Konstrukce nábytku, učební texty. http://user.mendelu.cz/holous/konstrukce_nabytku.pdf.HOLOUŠ, Zdeněk; MÁCHOVÁ, Eliška. 2021. Konstrukce nábytku - čalouněné výrobky s přidanou funkcí. http://user.mendelu.cz/holous/konstrukce_nabytku_cal_vyrobky_s_pridanou_funkci.pdf.Doporučená: Möbel und Innenausbau: Handbuch der Holzkonstruktionen. 1992. 4. vyd. Leinfelden-Echterdingen: Verlagsanstalt Alexander Koch, 283 s. ISBN 3-87422-617-4.LEINVEBER, Jiří; VÁVRA, Pavel. 2017. Strojnické tabulky: pomocná učebnice pro školy technického zaměření. Úvaly: ALBRA, 928 s. ISBN 978-80-7361-111-8.HOLOUŠ, Zdeněk; MÁCHOVÁ, Eliška. 2007. Konstrukce čalouněného nábytku II: konstrukce nosných koster čalouněného nábytku. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 130 s. ISBN 978-80-7375-104-3.HOLOUŠ, Zdeněk; MÁCHOVÁ, Eliška. 2013. Konstrukce nábytku I. Procesy, návody, příklady. Brno: Mendelova univerzita v Brně, 144 s. ISBN 978-80-7375-844-8.HOLOUŠ, Zdeněk; MÁCHOVÁ, Eliška. 2014. Konstrukce nábytku II. Konstrukce nábytku, konstrukce nosných koster čalouněného nábytku a zkoušky nábytku. Brno: Mendelova univerzita v Brně, 133 s. ISBN 978-80-7509-010-2.HALABALA, Jindřich. 1969. Výroba nábytku: tvorba a konstrukce. 1. vyd. Praha: SNTL, 271 s. Řada dřevařské lit.ČSN 01 3610:2008 Výkresy ve dřevozpracujícím průmyslu"
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "HOLOUŠ, Zdeněk; MÁCHOVÁ, Eliška. 2015. Konstrukce nábytku, učební texty. http://user.mendelu.cz/holous/konstrukce_nabytku.pdf.HOLOUŠ, Zdeněk; MÁCHOVÁ, Eliška. 2021. Konstrukce nábytku - čalouněné výrobky s přidanou funkcí. http://user.mendelu.cz/holous/konstrukce_nabytku_cal_vyrobky_s_pridanou_funkci.pdf."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "Möbel und Innenausbau: Handbuch der Holzkonstruktionen. 1992. 4. vyd. Leinfelden-Echterdingen: Verlagsanstalt Alexander Koch, 283 s. ISBN 3-87422-617-4.LEINVEBER, Jiří; VÁVRA, Pavel. 2017. Strojnické tabulky: pomocná učebnice pro školy technického zaměření. Úvaly: ALBRA, 928 s. ISBN 978-80-7361-111-8.HOLOUŠ, Zdeněk; MÁCHOVÁ, Eliška. 2007. Konstrukce čalouněného nábytku II: konstrukce nosných koster čalouněného nábytku. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 130 s. ISBN 978-80-7375-104-3.HOLOUŠ, Zdeněk; MÁCHOVÁ, Eliška. 2013. Konstrukce nábytku I. Procesy, návody, příklady. Brno: Mendelova univerzita v Brně, 144 s. ISBN 978-80-7375-844-8.HOLOUŠ, Zdeněk; MÁCHOVÁ, Eliška. 2014. Konstrukce nábytku II. Konstrukce nábytku, konstrukce nosných koster čalouněného nábytku a zkoušky nábytku. Brno: Mendelova univerzita v Brně, 133 s. ISBN 978-80-7509-010-2.HALABALA, Jindřich. 1969. Výroba nábytku: tvorba a konstrukce. 1. vyd. Praha: SNTL, 271 s. Řada dřevařské lit.ČSN 01 3610:2008 Výkresy ve dřevozpracujícím průmyslu"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-DESGN Design nábytku, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "KN2"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Konstrukce nábytku II"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Constructing of Furniture II."
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Pass credit (3 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Eliška Máchová, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Design and Furniture (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Eliška Máchová, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Ing. Vojtěch Ondrejka, PhD. (instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "(Constructing of Furniture I and Fundamentals of Technical Drawing and Technical Drawing) and not (Constructing of Furniture II. or now Constructing of Furniture II. or Furniture Construction II)"
+    },
+    {
+      "label": "1.",
+      "content": "Construction of chairs from wood-based materials. (allowance 7/19)"
+    },
+    {
+      "label": "a.",
+      "content": "Typology of chairs and seating furniture."
+    },
+    {
+      "label": "b.",
+      "content": "Material and technological concepts of chairs."
+    },
+    {
+      "label": "c.",
+      "content": "Materials used and requirements for the material used - wood and wood-based materials."
+    },
+    {
+      "label": "d.",
+      "content": "Structural joints used in chair construction."
+    },
+    {
+      "label": "2.",
+      "content": "Typology of upholstered furniture. (allowance 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Typology of fixed upholstery elements."
+    },
+    {
+      "label": "b.",
+      "content": "Typology of upholstered products with function."
+    },
+    {
+      "label": "3.",
+      "content": "Materials used for wooden supporting frames of upholstered furniture. (allowance 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Wood and species used."
+    },
+    {
+      "label": "b.",
+      "content": "Large-area wood-based construction materials."
+    },
+    {
+      "label": "c.",
+      "content": "Non-wood materials ( metal, plastic, rubber, cardboard etc.)."
+    },
+    {
+      "label": "4.",
+      "content": "Basic structural joints used in load-bearing frames of upholstered products. (allowance 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Structural connections cannot be disassembled."
+    },
+    {
+      "label": "b.",
+      "content": "Construction dismountable joints."
+    },
+    {
+      "label": "c.",
+      "content": "Connecting mechanical means."
+    },
+    {
+      "label": "5.",
+      "content": "Supporting upholstered products. (allowance 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Gliders and their attachments."
+    },
+    {
+      "label": "b.",
+      "content": "Legs and their attachment."
+    },
+    {
+      "label": "c.",
+      "content": "Wheelbarrow and their attachment."
+    },
+    {
+      "label": "d.",
+      "content": "Atypical elements according to the design trend."
+    },
+    {
+      "label": "6.",
+      "content": "Simple upholstered products - stools, termination and extension elements. (allowance 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Typology and purpose of use."
+    },
+    {
+      "label": "b.",
+      "content": "Construction of stools without storage space."
+    },
+    {
+      "label": "c.",
+      "content": "Construction of stools with storage space."
+    },
+    {
+      "label": "d.",
+      "content": "Construction of termination and extension elements without storage space."
+    },
+    {
+      "label": "7.",
+      "content": "Elements in visible wood and shaped elements. (allowance 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Construction and attachment (mounting)."
+    },
+    {
+      "label": "8.",
+      "content": "Construction of armrest support frames, seat and backrest support frames, as separate assembly units (subassemblies). (allowance 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Materials."
+    },
+    {
+      "label": "b.",
+      "content": "Structural connections and fasteners (components) used in the supporting frames of the subassemblies."
+    },
+    {
+      "label": "c.",
+      "content": "Design solutions according to the shape of the substructures.Relationship between the method of suspension and the design of the supporting bases of the seat frames."
+    },
+    {
+      "label": "d.",
+      "content": "Relationship of the method of suspension and upholstery to the structural arrangement of the backrest support frames."
+    },
+    {
+      "label": "9.",
+      "content": "The construction of chairs and sofas fixed - without function, as a skeleton in the whole. (allowance 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Possible design concepts."
+    },
+    {
+      "label": "10.",
+      "content": "Construction of supporting frames of corner elements. (allowance 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Materials, structural connections and fasteners (components)."
+    },
+    {
+      "label": "b.",
+      "content": "Typology and structural design of corner elements according to plan form."
+    },
+    {
+      "label": "c.",
+      "content": "Ottoman, as a corner and seating element, in upholstered sets and its structural design."
+    },
+    {
+      "label": "11.",
+      "content": "Construction of load-bearing skeletons of folding upholstered products and products with function. (allowance 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Upholstered products with the possibility of funke conversion into a bed - will allow occasional sleeping."
+    },
+    {
+      "label": "b.",
+      "content": "Familiarity with the mechanisms of folding and the possibility of changing positions."
+    },
+    {
+      "label": "c.",
+      "content": "Familiarisation with the manufacturers of these mechanisms and with the fittings for the possibility of changing positions - adjustable fittings."
+    },
+    {
+      "label": "d.",
+      "content": "Positioning elements and functions of upholstered furniture (for: armrests, seat and backrest and headrests)."
+    },
+    {
+      "label": "12.",
+      "content": "Packaging and export of upholstered products. (allowance 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Principles and methods of packaging for the dispatch of upholstered products from the manufacturer to shops and warehouses to the consumer."
+    },
+    {
+      "label": "b.",
+      "content": "Principles and methods of packaging for the dispatch of upholstered products by sea (water) transport."
+    },
+    {
+      "label": "13.",
+      "content": "Safety and durability of upholstered products in relation to health and safety and ecology. (allowance 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic requirements for the safety and durability of upholstered products according to currently applicable technical standards and legislative requirements in relation to health and safety, including ecology."
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "90 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "10 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, WS 2023/2024, WS 2022/2023, WS 2021/2022, WS 2020/2021, SS 2019/2020 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Konstrukce nábytku II"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Constructing of Furniture II."
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Pass credit (3 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Pass credit (3 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Eliška Máchová, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Design and Furniture (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Eliška Máchová, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Ing. Vojtěch Ondrejka, PhD. (instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: (Constructing of Furniture I and Fundamentals of Technical Drawing and Technical Drawing) and not (Constructing of Furniture II. or now Constructing of Furniture II. or Furniture Construction II)"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to familiarize with the group of seating furniture - chairs, including the construction, as well as with the elements and typology of upholstered furniture, the folding of skeleton structures for upholstered furniture, including structural links, joints and connecting parts of individual elements. Practical processing of drawing documentation in CAD."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Construction of chairs from wood-based materials. (allowance 7/19) a.Typology of chairs and seating furniture.b.Material and technological concepts of chairs.c.Materials used and requirements for the material used - wood and wood-based materials.d.Structural joints used in chair construction.2.Typology of upholstered furniture. (allowance 0/0) a.Typology of fixed upholstery elements.b.Typology of upholstered products with function.3.Materials used for wooden supporting frames of upholstered furniture. (allowance 0/0) a.Wood and species used.b.Large-area wood-based construction materials.c.Non-wood materials ( metal, plastic, rubber, cardboard etc.).4.Basic structural joints used in load-bearing frames of upholstered products. (allowance 0/0) a.Structural connections cannot be disassembled.b.Construction dismountable joints.c.Connecting mechanical means.5.Supporting upholstered products. (allowance 0/0) a.Gliders and their attachments.b.Legs and their attachment.c.Wheelbarrow and their attachment.d.Atypical elements according to the design trend.6.Simple upholstered products - stools, termination and extension elements. (allowance 0/0) a.Typology and purpose of use.b.Construction of stools without storage space.c.Construction of stools with storage space.d.Construction of termination and extension elements without storage space.7.Elements in visible wood and shaped elements. (allowance 0/0) a.Construction and attachment (mounting).8.Construction of armrest support frames, seat and backrest support frames, as separate assembly units (subassemblies). (allowance 0/0) a.Materials.b.Structural connections and fasteners (components) used in the supporting frames of the subassemblies.c.Design solutions according to the shape of the substructures.Relationship between the method of suspension and the design of the supporting bases of the seat frames.d.Relationship of the method of suspension and upholstery to the structural arrangement of the backrest support frames.9.The construction of chairs and sofas fixed - without function, as a skeleton in the whole. (allowance 0/0) a.Possible design concepts.10.Construction of supporting frames of corner elements. (allowance 0/0) a.Materials, structural connections and fasteners (components).b.Typology and structural design of corner elements according to plan form.c.Ottoman, as a corner and seating element, in upholstered sets and its structural design.11.Construction of load-bearing skeletons of folding upholstered products and products with function. (allowance 0/0) a.Upholstered products with the possibility of funke conversion into a bed - will allow occasional sleeping.b.Familiarity with the mechanisms of folding and the possibility of changing positions.c.Familiarisation with the manufacturers of these mechanisms and with the fittings for the possibility of changing positions - adjustable fittings.d.Positioning elements and functions of upholstered furniture (for: armrests, seat and backrest and headrests).12.Packaging and export of upholstered products. (allowance 0/0) a.Principles and methods of packaging for the dispatch of upholstered products from the manufacturer to shops and warehouses to the consumer.b.Principles and methods of packaging for the dispatch of upholstered products by sea (water) transport.13.Safety and durability of upholstered products in relation to health and safety and ecology. (allowance 0/0) a.Basic requirements for the safety and durability of upholstered products according to currently applicable technical standards and legislative requirements in relation to health and safety, including ecology."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Typology of chairs and seating furniture.b.Material and technological concepts of chairs.c.Materials used and requirements for the material used - wood and wood-based materials.d.Structural joints used in chair construction."
+    },
+    {
+      "label": "[section] Construction of chairs from wood-based materials.",
+      "content": "a.Typology of chairs and seating furniture.b.Material and technological concepts of chairs.c.Materials used and requirements for the material used - wood and wood-based materials.d.Structural joints used in chair construction."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Typology of fixed upholstery elements.b.Typology of upholstered products with function."
+    },
+    {
+      "label": "[section] Typology of upholstered furniture.",
+      "content": "a.Typology of fixed upholstery elements.b.Typology of upholstered products with function."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Wood and species used.b.Large-area wood-based construction materials.c.Non-wood materials ( metal, plastic, rubber, cardboard etc.)."
+    },
+    {
+      "label": "[section] Materials used for wooden supporting frames of upholstered furniture.",
+      "content": "a.Wood and species used.b.Large-area wood-based construction materials.c.Non-wood materials ( metal, plastic, rubber, cardboard etc.)."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Structural connections cannot be disassembled.b.Construction dismountable joints.c.Connecting mechanical means."
+    },
+    {
+      "label": "[section] Basic structural joints used in load-bearing frames of upholstered products.",
+      "content": "a.Structural connections cannot be disassembled.b.Construction dismountable joints.c.Connecting mechanical means."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Gliders and their attachments.b.Legs and their attachment.c.Wheelbarrow and their attachment.d.Atypical elements according to the design trend."
+    },
+    {
+      "label": "[section] Supporting upholstered products.",
+      "content": "a.Gliders and their attachments.b.Legs and their attachment.c.Wheelbarrow and their attachment.d.Atypical elements according to the design trend."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Typology and purpose of use.b.Construction of stools without storage space.c.Construction of stools with storage space.d.Construction of termination and extension elements without storage space."
+    },
+    {
+      "label": "[section] Simple upholstered products - stools, termination and extension elements.",
+      "content": "a.Typology and purpose of use.b.Construction of stools without storage space.c.Construction of stools with storage space.d.Construction of termination and extension elements without storage space."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Construction and attachment (mounting)."
+    },
+    {
+      "label": "[section] Elements in visible wood and shaped elements.",
+      "content": "a.Construction and attachment (mounting)."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Materials.b.Structural connections and fasteners (components) used in the supporting frames of the subassemblies.c.Design solutions according to the shape of the substructures.Relationship between the method of suspension and the design of the supporting bases of the seat frames.d.Relationship of the method of suspension and upholstery to the structural arrangement of the backrest support frames."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Possible design concepts."
+    },
+    {
+      "label": "[section] The construction of chairs and sofas fixed - without function, as a skeleton in the whole.",
+      "content": "a.Possible design concepts."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Materials, structural connections and fasteners (components).b.Typology and structural design of corner elements according to plan form.c.Ottoman, as a corner and seating element, in upholstered sets and its structural design."
+    },
+    {
+      "label": "[section] Construction of supporting frames of corner elements.",
+      "content": "a.Materials, structural connections and fasteners (components).b.Typology and structural design of corner elements according to plan form.c.Ottoman, as a corner and seating element, in upholstered sets and its structural design."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Upholstered products with the possibility of funke conversion into a bed - will allow occasional sleeping.b.Familiarity with the mechanisms of folding and the possibility of changing positions.c.Familiarisation with the manufacturers of these mechanisms and with the fittings for the possibility of changing positions - adjustable fittings.d.Positioning elements and functions of upholstered furniture (for: armrests, seat and backrest and headrests)."
+    },
+    {
+      "label": "[section] Construction of load-bearing skeletons of folding upholstered products and products with function.",
+      "content": "a.Upholstered products with the possibility of funke conversion into a bed - will allow occasional sleeping.b.Familiarity with the mechanisms of folding and the possibility of changing positions.c.Familiarisation with the manufacturers of these mechanisms and with the fittings for the possibility of changing positions - adjustable fittings.d.Positioning elements and functions of upholstered furniture (for: armrests, seat and backrest and headrests)."
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Principles and methods of packaging for the dispatch of upholstered products from the manufacturer to shops and warehouses to the consumer.b.Principles and methods of packaging for the dispatch of upholstered products by sea (water) transport."
+    },
+    {
+      "label": "[section] Packaging and export of upholstered products.",
+      "content": "a.Principles and methods of packaging for the dispatch of upholstered products from the manufacturer to shops and warehouses to the consumer.b.Principles and methods of packaging for the dispatch of upholstered products by sea (water) transport."
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Basic requirements for the safety and durability of upholstered products according to currently applicable technical standards and legislative requirements in relation to health and safety, including ecology."
+    },
+    {
+      "label": "[section] Safety and durability of upholstered products in relation to health and safety and ecology.",
+      "content": "a.Basic requirements for the safety and durability of upholstered products according to currently applicable technical standards and legislative requirements in relation to health and safety, including ecology."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice28 hconsultation8 hpreparation for regular assessment10 helaboration and execution of projects24 hTotal84 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "- The course finished by credit. - Credit is awarded: 1) 100% attendance at seminars, with the exception of incapacity due to illness and others. Cogent reasons properly apologetic documented evidence (sick note, proof of authority, death certificate of attendance at the funeral etc.). 2) completed at a given date and order semester two written tests given problems in the classification and evaluation of A-E with the possibility of one resit for the test. 3) have been met and the deadline of submission semester programs(design drawing and parts-list) to a specified topic. The programs are specified in the respective semester at the beginning of discussing the topic. Programs that will be returned for repair or reworking after the due date must be submitted no later than by the end of the credit week."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation90 %Term paper10 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:HOLOUŠ, Zdeněk; MÁCHOVÁ, Eliška. 2015. Konstrukce nábytku, učební texty. http://user.mendelu.cz/holous/konstrukce_nabytku.pdf.HOLOUŠ, Zdeněk; MÁCHOVÁ, Eliška. 2021. Konstrukce nábytku - čalouněné výrobky s přidanou funkcí. http://user.mendelu.cz/holous/konstrukce_nabytku_cal_vyrobky_s_pridanou_funkci.pdf.Recommended: Möbel und Innenausbau: Handbuch der Holzkonstruktionen. 1992. 4th ed. Leinfelden-Echterdingen: Verlagsanstalt Alexander Koch, 283 p. ISBN 3-87422-617-4.LEINVEBER, Jiří; VÁVRA, Pavel. 2017. Strojnické tabulky: pomocná učebnice pro školy technického zaměření. Úvaly: ALBRA, 928 p. ISBN 978-80-7361-111-8.HOLOUŠ, Zdeněk; MÁCHOVÁ, Eliška. 2007. Konstrukce čalouněného nábytku II: konstrukce nosných koster čalouněného nábytku. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 130 p. ISBN 978-80-7375-104-3.HOLOUŠ, Zdeněk; MÁCHOVÁ, Eliška. 2013. Konstrukce nábytku I. Procesy, návody, příklady. Brno: Mendelova univerzita v Brně, 144 p. ISBN 978-80-7375-844-8.HOLOUŠ, Zdeněk; MÁCHOVÁ, Eliška. 2014. Konstrukce nábytku II. Konstrukce nábytku, konstrukce nosných koster čalouněného nábytku a zkoušky nábytku. Brno: Mendelova univerzita v Brně, 133 p. ISBN 978-80-7509-010-2.HALABALA, Jindřich. 1969. Výroba nábytku: tvorba a konstrukce. 1st ed. Praha: SNTL, 271 p. Řada dřevařské lit.ČSN 01 3610:2008 Výkresy ve dřevozpracujícím průmyslu"
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "HOLOUŠ, Zdeněk; MÁCHOVÁ, Eliška. 2015. Konstrukce nábytku, učební texty. http://user.mendelu.cz/holous/konstrukce_nabytku.pdf.HOLOUŠ, Zdeněk; MÁCHOVÁ, Eliška. 2021. Konstrukce nábytku - čalouněné výrobky s přidanou funkcí. http://user.mendelu.cz/holous/konstrukce_nabytku_cal_vyrobky_s_pridanou_funkci.pdf."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "Möbel und Innenausbau: Handbuch der Holzkonstruktionen. 1992. 4th ed. Leinfelden-Echterdingen: Verlagsanstalt Alexander Koch, 283 p. ISBN 3-87422-617-4.LEINVEBER, Jiří; VÁVRA, Pavel. 2017. Strojnické tabulky: pomocná učebnice pro školy technického zaměření. Úvaly: ALBRA, 928 p. ISBN 978-80-7361-111-8.HOLOUŠ, Zdeněk; MÁCHOVÁ, Eliška. 2007. Konstrukce čalouněného nábytku II: konstrukce nosných koster čalouněného nábytku. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 130 p. ISBN 978-80-7375-104-3.HOLOUŠ, Zdeněk; MÁCHOVÁ, Eliška. 2013. Konstrukce nábytku I. Procesy, návody, příklady. Brno: Mendelova univerzita v Brně, 144 p. ISBN 978-80-7375-844-8.HOLOUŠ, Zdeněk; MÁCHOVÁ, Eliška. 2014. Konstrukce nábytku II. Konstrukce nábytku, konstrukce nosných koster čalouněného nábytku a zkoušky nábytku. Brno: Mendelova univerzita v Brně, 133 p. ISBN 978-80-7509-010-2.HALABALA, Jindřich. 1969. Výroba nábytku: tvorba a konstrukce. 1st ed. Praha: SNTL, 271 p. Řada dřevařské lit.ČSN 01 3610:2008 Výkresy ve dřevozpracujícím průmyslu"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-DESGN Furniture Design, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:19:25",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

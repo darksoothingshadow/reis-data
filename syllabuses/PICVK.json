@@ -1,0 +1,921 @@
+{
+  "courseCode": "PICVK",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "PICVK"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Pícninářství a výroba krmiv"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Foraging and Fodder Production"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Ing. Jiří Skládanka, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav výživy zvířat a pícninářství (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Daria Baholet Bátik, Ph.D. (cvičící, přednášející)prof. Ing. Pavel Horký, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Pavel Knot, Ph.D. (cvičící, přednášející, zkoušející)prof. Ing. Jiří Skládanka, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Pěstební plochy pícnin, stavy hospodářských zvířat a rozdělení pícnin (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Pěstební plochy pícnin"
+    },
+    {
+      "label": "b.",
+      "content": "Stavy hospodářských zvířat ve vztahu k potřebě krmiv"
+    },
+    {
+      "label": "c.",
+      "content": "Rozdělení pícnin"
+    },
+    {
+      "label": "d.",
+      "content": "Význam pícninářství"
+    },
+    {
+      "label": "2.",
+      "content": "Jeteloviny a trávy (dotace 4/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Biologie trav a jetelovin"
+    },
+    {
+      "label": "b.",
+      "content": "Charakteristika kulturních druhů trav a jetelovin, mezirodové hybridy"
+    },
+    {
+      "label": "c.",
+      "content": "Způsoby odnožování trav"
+    },
+    {
+      "label": "d.",
+      "content": "Faktory podmiňující produkci a kvalitu píce trav a jetelovin"
+    },
+    {
+      "label": "e.",
+      "content": "Výroba osiva trav a jetelovin, semenářství trav a jetelovin"
+    },
+    {
+      "label": "f.",
+      "content": "Využití jetelovin a trav v trávníkářství"
+    },
+    {
+      "label": "g.",
+      "content": "Pěstování jetelotravních směsí, zásady sestavování jetelotravních směsí"
+    },
+    {
+      "label": "3.",
+      "content": "Jednoleté pícniny (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Přehled jednoletých pícnin"
+    },
+    {
+      "label": "b.",
+      "content": "Kukuřice setá, pěstování kukuřice seté, využití kukuřice seté v pícninářství"
+    },
+    {
+      "label": "c.",
+      "content": "Výhody a nevýhody pěstování kukuřice seté"
+    },
+    {
+      "label": "d.",
+      "content": "Využití ostatních obilnin v pícninářství; využití ovsa, pšenice, žita, ječmenu, čiroku a prosa v pícninářství"
+    },
+    {
+      "label": "e.",
+      "content": "Využití okopanin v pícninářství; využití krmné řepy, cukrovky, mrkve a topinamburu v pícninářství"
+    },
+    {
+      "label": "f.",
+      "content": "Využití luskovin v pícninářství; využití hrachu, bobu a lupiny v pícninářství"
+    },
+    {
+      "label": "g.",
+      "content": "Výhody pěstování luskovin"
+    },
+    {
+      "label": "h.",
+      "content": "Využití brukvovitých pícnin"
+    },
+    {
+      "label": "i.",
+      "content": "Výhody a nevýhody pěstování brukvovitých pícnin"
+    },
+    {
+      "label": "4.",
+      "content": "Trvalé travní porosty (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Produkční a mimoprodukční funkce travních porostů"
+    },
+    {
+      "label": "b.",
+      "content": "Využívání travních porostů (pastva, sečením mulčování)"
+    },
+    {
+      "label": "c.",
+      "content": "Ošetřování travních porostů"
+    },
+    {
+      "label": "d.",
+      "content": "Rozdíly mezi lučním a pastevním porostem"
+    },
+    {
+      "label": "5.",
+      "content": "Nutriční hodnota krmiv (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Definice živin (NEL, vláknina, dusíkaté látky, BNLV, stravitelnost organické hmoty atd.)"
+    },
+    {
+      "label": "b.",
+      "content": "Vyjádření nutriční hodnoty krmiv"
+    },
+    {
+      "label": "c.",
+      "content": "Stanovení živin"
+    },
+    {
+      "label": "d.",
+      "content": "Stanovení stravitelnosti živin"
+    },
+    {
+      "label": "e.",
+      "content": "Hodnocení objemných krmiv"
+    },
+    {
+      "label": "f.",
+      "content": "Zdravotní bezpečnost objemných krmiv"
+    },
+    {
+      "label": "6.",
+      "content": "Konzervace silážováním a sušením (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Charakteristika konzervovaných krmiv (kukuřičné siláže, siláže ze zavadlé píce, seno, horkovzdušné úsušky)"
+    },
+    {
+      "label": "b.",
+      "content": "Technologický postup při výrobě siláží, silážní aditiva, předpoklady výroby kvalitních siláží"
+    },
+    {
+      "label": "c.",
+      "content": "Fáze konzervačního procesu při výrobě siláží"
+    },
+    {
+      "label": "d.",
+      "content": "Význam sušiny a délky řezanky při výrobě siláží"
+    },
+    {
+      "label": "e.",
+      "content": "Chyby při výrobě siláží"
+    },
+    {
+      "label": "f.",
+      "content": "Výroba sena"
+    },
+    {
+      "label": "g.",
+      "content": "Výroba horkovzdušných úsušků"
+    },
+    {
+      "label": "h.",
+      "content": "Ztráty při konzervaci píce"
+    },
+    {
+      "label": "7.",
+      "content": "Jadrná krmiva a krmivářský průmysl (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Zdroje jadrných krmiv"
+    },
+    {
+      "label": "b.",
+      "content": "Požadavky na jadrná krmiva"
+    },
+    {
+      "label": "c.",
+      "content": "Výživná hodnota jadrných krmiv"
+    },
+    {
+      "label": "d.",
+      "content": "Minerální a vitamínové doplňky pro zvířata, aplikace doplňků"
+    },
+    {
+      "label": "e.",
+      "content": "Požadavky pro registraci"
+    },
+    {
+      "label": "f.",
+      "content": "Receptury krmných směsí a označování krmných směsí"
+    },
+    {
+      "label": "g.",
+      "content": "Druhy a formy krmných směsí"
+    },
+    {
+      "label": "h.",
+      "content": "Premixy"
+    },
+    {
+      "label": "8.",
+      "content": "Skladování a úpravy krmiv (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Zásady skladování krmiv"
+    },
+    {
+      "label": "b.",
+      "content": "Požadavky na podmínky skladování"
+    },
+    {
+      "label": "c.",
+      "content": "Výhody a cíle úpravy krmiva"
+    },
+    {
+      "label": "d.",
+      "content": "Metody úprav krmiva"
+    },
+    {
+      "label": "e.",
+      "content": "Ztráty při skladování krmiv"
+    },
+    {
+      "label": "9.",
+      "content": "Základy výživy hospodářských zvířat (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Základy výživy přežvýkavců (základy fyziologie výživy, krmná technika, faktory ovlivňující rentabilitu výživy, požadavky na krmiva)"
+    },
+    {
+      "label": "b.",
+      "content": "Základy výživy monogastrů (základy fyziologie výživy, krmná technika, faktory ovlivňující rentabilitu výživy, požadavky na krmiva)"
+    },
+    {
+      "label": "c.",
+      "content": "Základy sestavování krmných dávek"
+    },
+    {
+      "label": "d.",
+      "content": "Princip sestavování krmných dávek a programy na výpočet krmných dávek"
+    },
+    {
+      "label": "e.",
+      "content": "Kvalita krmiv a úroveň výživy"
+    },
+    {
+      "label": "f.",
+      "content": "Směsná krmná dávka (TMR), přednosti a výhody její aplikace u skotu."
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021, LS 2019/2020 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Pícninářství a výroba krmiv"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Foraging and Fodder Production"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Ing. Jiří Skládanka, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav výživy zvířat a pícninářství (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Daria Baholet Bátik, Ph.D. (cvičící, přednášející)prof. Ing. Pavel Horký, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Pavel Knot, Ph.D. (cvičící, přednášející, zkoušející)prof. Ing. Jiří Skládanka, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaStředa17.00-18.50C01J. Skládanka, D. Baholet Bátik, P. HorkýPřednáškaKaždý týden48Čtvrtek11.00-12.50A22P. Horký, D. Baholet Bátik, P. Knot, J. SkládankaCvičeníKaždý týden22Čtvrtek13.00-14.50A22P. Horký, D. Baholet Bátik, P. Knot, J. SkládankaCvičeníKaždý týden22"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je seznámit posluchače s výrobou krmiv, ekonomikou pěstování jednoletých pícnin, trav a jetelovin. Posluchači se seznámí se základy výživy přežvýkavých a nepřežvýkavých zvířat. Pozornost bude věnována travním porostům s důrazem na produkci a kvalitu biomasy. Opomenuty nezůstanou mimoprodukční funkce travních porostů a jejich význam pro kvalitu života. Absolvent získá znalosti z oblasti pěstování pícnin, výroby krmiva a základů výživy zvířat. Porozumí problematice krmivové základny. Získané dovednosti budou představovat schopnost absolventa integrovat poznatky výživy zvířat a výroby krmiv s ekonomikou zemědělského podnikání. Absolvent bude schopen uplatnit získané znalosti při zvyšování ekonomiky živočišné a rostlinné výroby s přihlédnutím k trvale udržitelnému zemědělství."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Pěstební plochy pícnin, stavy hospodářských zvířat a rozdělení pícnin (dotace 2/0) a.Pěstební plochy pícninb.Stavy hospodářských zvířat ve vztahu k potřebě krmivc.Rozdělení pícnind.Význam pícninářství2.Jeteloviny a trávy (dotace 4/8) a.Biologie trav a jetelovinb.Charakteristika kulturních druhů trav a jetelovin, mezirodové hybridyc.Způsoby odnožování travd.Faktory podmiňující produkci a kvalitu píce trav a jetelovine.Výroba osiva trav a jetelovin, semenářství trav a jetelovinf.Využití jetelovin a trav v trávníkářstvíg.Pěstování jetelotravních směsí, zásady sestavování jetelotravních směsí3.Jednoleté pícniny (dotace 4/2) a.Přehled jednoletých pícninb.Kukuřice setá, pěstování kukuřice seté, využití kukuřice seté v pícninářstvíc.Výhody a nevýhody pěstování kukuřice setéd.Využití ostatních obilnin v pícninářství; využití ovsa, pšenice, žita, ječmenu, čiroku a prosa v pícninářstvíe.Využití okopanin v pícninářství; využití krmné řepy, cukrovky, mrkve a topinamburu v pícninářstvíf.Využití luskovin v pícninářství; využití hrachu, bobu a lupiny v pícninářstvíg.Výhody pěstování luskovinh.Využití brukvovitých pícnini.Výhody a nevýhody pěstování brukvovitých pícnin4.Trvalé travní porosty (dotace 2/2) a.Produkční a mimoprodukční funkce travních porostůb.Využívání travních porostů (pastva, sečením mulčování)c.Ošetřování travních porostůd.Rozdíly mezi lučním a pastevním porostem5.Nutriční hodnota krmiv (dotace 0/4) a.Definice živin (NEL, vláknina, dusíkaté látky, BNLV, stravitelnost organické hmoty atd.)b.Vyjádření nutriční hodnoty krmivc.Stanovení živind.Stanovení stravitelnosti živine.Hodnocení objemných krmivf.Zdravotní bezpečnost objemných krmiv6.Konzervace silážováním a sušením (dotace 4/2) a.Charakteristika konzervovaných krmiv (kukuřičné siláže, siláže ze zavadlé píce, seno, horkovzdušné úsušky)b.Technologický postup při výrobě siláží, silážní aditiva, předpoklady výroby kvalitních silážíc.Fáze konzervačního procesu při výrobě silážíd.Význam sušiny a délky řezanky při výrobě silážíe.Chyby při výrobě silážíf.Výroba senag.Výroba horkovzdušných úsuškůh.Ztráty při konzervaci píce7.Jadrná krmiva a krmivářský průmysl (dotace 2/2) a.Zdroje jadrných krmivb.Požadavky na jadrná krmivac.Výživná hodnota jadrných krmivd.Minerální a vitamínové doplňky pro zvířata, aplikace doplňkůe.Požadavky pro registracif.Receptury krmných směsí a označování krmných směsíg.Druhy a formy krmných směsíh.Premixy8.Skladování a úpravy krmiv (dotace 2/2) a.Zásady skladování krmivb.Požadavky na podmínky skladováníc.Výhody a cíle úpravy krmivad.Metody úprav krmivae.Ztráty při skladování krmiv9.Základy výživy hospodářských zvířat (dotace 4/2) a.Základy výživy přežvýkavců (základy fyziologie výživy, krmná technika, faktory ovlivňující rentabilitu výživy, požadavky na krmiva)b.Základy výživy monogastrů (základy fyziologie výživy, krmná technika, faktory ovlivňující rentabilitu výživy, požadavky na krmiva)c.Základy sestavování krmných dávekd.Princip sestavování krmných dávek a programy na výpočet krmných dáveke.Kvalita krmiv a úroveň výživyf.Směsná krmná dávka (TMR), přednosti a výhody její aplikace u skotu."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Pěstební plochy pícninb.Stavy hospodářských zvířat ve vztahu k potřebě krmivc.Rozdělení pícnind.Význam pícninářství"
+    },
+    {
+      "label": "[section] Pěstební plochy pícnin, stavy hospodářských zvířat a rozdělení pícnin",
+      "content": "a.Pěstební plochy pícninb.Stavy hospodářských zvířat ve vztahu k potřebě krmivc.Rozdělení pícnind.Význam pícninářství"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Biologie trav a jetelovinb.Charakteristika kulturních druhů trav a jetelovin, mezirodové hybridyc.Způsoby odnožování travd.Faktory podmiňující produkci a kvalitu píce trav a jetelovine.Výroba osiva trav a jetelovin, semenářství trav a jetelovinf.Využití jetelovin a trav v trávníkářstvíg.Pěstování jetelotravních směsí, zásady sestavování jetelotravních směsí"
+    },
+    {
+      "label": "[section] Jeteloviny a trávy",
+      "content": "a.Biologie trav a jetelovinb.Charakteristika kulturních druhů trav a jetelovin, mezirodové hybridyc.Způsoby odnožování travd.Faktory podmiňující produkci a kvalitu píce trav a jetelovine.Výroba osiva trav a jetelovin, semenářství trav a jetelovinf.Využití jetelovin a trav v trávníkářstvíg.Pěstování jetelotravních směsí, zásady sestavování jetelotravních směsí"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Přehled jednoletých pícninb.Kukuřice setá, pěstování kukuřice seté, využití kukuřice seté v pícninářstvíc.Výhody a nevýhody pěstování kukuřice setéd.Využití ostatních obilnin v pícninářství; využití ovsa, pšenice, žita, ječmenu, čiroku a prosa v pícninářstvíe.Využití okopanin v pícninářství; využití krmné řepy, cukrovky, mrkve a topinamburu v pícninářstvíf.Využití luskovin v pícninářství; využití hrachu, bobu a lupiny v pícninářstvíg.Výhody pěstování luskovinh.Využití brukvovitých pícnini.Výhody a nevýhody pěstování brukvovitých pícnin"
+    },
+    {
+      "label": "[section] Jednoleté pícniny",
+      "content": "a.Přehled jednoletých pícninb.Kukuřice setá, pěstování kukuřice seté, využití kukuřice seté v pícninářstvíc.Výhody a nevýhody pěstování kukuřice setéd.Využití ostatních obilnin v pícninářství; využití ovsa, pšenice, žita, ječmenu, čiroku a prosa v pícninářstvíe.Využití okopanin v pícninářství; využití krmné řepy, cukrovky, mrkve a topinamburu v pícninářstvíf.Využití luskovin v pícninářství; využití hrachu, bobu a lupiny v pícninářstvíg.Výhody pěstování luskovinh.Využití brukvovitých pícnini.Výhody a nevýhody pěstování brukvovitých pícnin"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Produkční a mimoprodukční funkce travních porostůb.Využívání travních porostů (pastva, sečením mulčování)c.Ošetřování travních porostůd.Rozdíly mezi lučním a pastevním porostem"
+    },
+    {
+      "label": "[section] Trvalé travní porosty",
+      "content": "a.Produkční a mimoprodukční funkce travních porostůb.Využívání travních porostů (pastva, sečením mulčování)c.Ošetřování travních porostůd.Rozdíly mezi lučním a pastevním porostem"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Definice živin (NEL, vláknina, dusíkaté látky, BNLV, stravitelnost organické hmoty atd.)b.Vyjádření nutriční hodnoty krmivc.Stanovení živind.Stanovení stravitelnosti živine.Hodnocení objemných krmivf.Zdravotní bezpečnost objemných krmiv"
+    },
+    {
+      "label": "[section] Nutriční hodnota krmiv",
+      "content": "a.Definice živin (NEL, vláknina, dusíkaté látky, BNLV, stravitelnost organické hmoty atd.)b.Vyjádření nutriční hodnoty krmivc.Stanovení živind.Stanovení stravitelnosti živine.Hodnocení objemných krmivf.Zdravotní bezpečnost objemných krmiv"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Charakteristika konzervovaných krmiv (kukuřičné siláže, siláže ze zavadlé píce, seno, horkovzdušné úsušky)b.Technologický postup při výrobě siláží, silážní aditiva, předpoklady výroby kvalitních silážíc.Fáze konzervačního procesu při výrobě silážíd.Význam sušiny a délky řezanky při výrobě silážíe.Chyby při výrobě silážíf.Výroba senag.Výroba horkovzdušných úsuškůh.Ztráty při konzervaci píce"
+    },
+    {
+      "label": "[section] Konzervace silážováním a sušením",
+      "content": "a.Charakteristika konzervovaných krmiv (kukuřičné siláže, siláže ze zavadlé píce, seno, horkovzdušné úsušky)b.Technologický postup při výrobě siláží, silážní aditiva, předpoklady výroby kvalitních silážíc.Fáze konzervačního procesu při výrobě silážíd.Význam sušiny a délky řezanky při výrobě silážíe.Chyby při výrobě silážíf.Výroba senag.Výroba horkovzdušných úsuškůh.Ztráty při konzervaci píce"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Zdroje jadrných krmivb.Požadavky na jadrná krmivac.Výživná hodnota jadrných krmivd.Minerální a vitamínové doplňky pro zvířata, aplikace doplňkůe.Požadavky pro registracif.Receptury krmných směsí a označování krmných směsíg.Druhy a formy krmných směsíh.Premixy"
+    },
+    {
+      "label": "[section] Jadrná krmiva a krmivářský průmysl",
+      "content": "a.Zdroje jadrných krmivb.Požadavky na jadrná krmivac.Výživná hodnota jadrných krmivd.Minerální a vitamínové doplňky pro zvířata, aplikace doplňkůe.Požadavky pro registracif.Receptury krmných směsí a označování krmných směsíg.Druhy a formy krmných směsíh.Premixy"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Zásady skladování krmivb.Požadavky na podmínky skladováníc.Výhody a cíle úpravy krmivad.Metody úprav krmivae.Ztráty při skladování krmiv"
+    },
+    {
+      "label": "[section] Skladování a úpravy krmiv",
+      "content": "a.Zásady skladování krmivb.Požadavky na podmínky skladováníc.Výhody a cíle úpravy krmivad.Metody úprav krmivae.Ztráty při skladování krmiv"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Základy výživy přežvýkavců (základy fyziologie výživy, krmná technika, faktory ovlivňující rentabilitu výživy, požadavky na krmiva)b.Základy výživy monogastrů (základy fyziologie výživy, krmná technika, faktory ovlivňující rentabilitu výživy, požadavky na krmiva)c.Základy sestavování krmných dávekd.Princip sestavování krmných dávek a programy na výpočet krmných dáveke.Kvalita krmiv a úroveň výživyf.Směsná krmná dávka (TMR), přednosti a výhody její aplikace u skotu."
+    },
+    {
+      "label": "[section] Základy výživy hospodářských zvířat",
+      "content": "a.Základy výživy přežvýkavců (základy fyziologie výživy, krmná technika, faktory ovlivňující rentabilitu výživy, požadavky na krmiva)b.Základy výživy monogastrů (základy fyziologie výživy, krmná technika, faktory ovlivňující rentabilitu výživy, požadavky na krmiva)c.Základy sestavování krmných dávekd.Princip sestavování krmných dávek a programy na výpočet krmných dáveke.Kvalita krmiv a úroveň výživyf.Směsná krmná dávka (TMR), přednosti a výhody její aplikace u skotu."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška24 hcvičení22 hkonzultace4 hveřejná prezentace (ústní)1 hpříprava na zkoušku35 hpříprava na průběžné hodnocení8 hpříprava prezentace6 hzpracování seminární práce40 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Podmínkou ukončení předmětu bude 80% účast na cvičení (10% z celkové známky), poznávání semen jetelovin a obilek trav, kdy student musí poznat 100% předložených vzorků (5% z celkové známky), poznávání základních krmiv, kdy student musí poznat 100% předložených vzorků (10% z celkové známky). Podmínkou ukončení je dále zpracování seminární práce (10% z celkové známky) a její prezentace a úspěšná obhajoba (10 % z celkové známky). Předmět bude zakončen písemnou zkouškou (student musí tuto zkoušku napsat ze 60%; 30% z celkové známky) a ústní zkouškou. Ústní zkouška následuje pouze v případě úspěšného absolvování písemné zkoušky (15% z celkové známky). Doporučená účast na přednáškách v rozsahu 80 % (10% známky)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:SKLÁDANKA, Jiří; CAGAŠ, Bohumír; DOLEŽAL, Petr; HAVLÍČEK, Zdeněk; HEJDUK, Stanislav; HORKÝ, Pavel; JANČOVIČ, Ján; KLUSOŇOVÁ, Iva; KNOT, Pavel; KOVÁR, Peter; ALBA MEJÍA, Jhonny Edison; MIKYSKA, František; NAWRATH, Adam; POKORNÝ, Radovan; SLÁMA, Petr; SZWEDZIAK, Katarzyna; TUKIENDORF, Marek; ŠEDA, Jan; VOZÁR, Luboš; VYSKOČIL, Ivo; ZEMAN, Ladislav. 2014. Pícninářství. 1. vyd. Brno: Mendelova univerzita v Brně, 368 s. ISBN 978-80-7509-111-6.SKLÁDANKA, Jiří; DOLEŽAL, Petr; VYSKOČIL, Ivo. 2011. Pícninářství a výroba krmiv - multimediální učební texty. http://web2.mendelu.cz/af_222_multitext/picvk/.MRKVICOVÁ, Eva; DOLEŽAL, Petr; MRKVICA, Vavřinec. 2015. Konzervace krmiv. https://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=6665.DOLEŽAL, Petr a kol. 2012. Konzervace krmiv a jejich využití ve výživě zvířat. Olomouc: Petr Baštan, 307 s. ISBN 978-80-87091-33-3.Doporučená:DOLEŽAL, Petr a kol. 2010. Konzervace, skladování a úpravy objemných krmiv: (přednášky). 2. vyd. Brno: Mendelova univerzita v Brně, 248 s. ISBN 978-80-7375-441-9.VESELÝ, Pavel; ZELENKA, Jiří; DOLEŽAL, Petr; ZEMAN, Ladislav; KOPŘIVA, Antonín; MRKVICOVÁ, Eva. 2006. Úpravy krmiv. In: ZEMAN, Ladislav; DOLEŽAL, Petr; KOPŘIVA, Antonín; MRKVICOVÁ, Eva; PROCHÁZKOVÁ, Jiřina; RYANT, Pavel; SKLÁDANKA, Jiří; STRAKOVÁ, Eva; SUCHÝ, Pavel; VESELÝ, Pavel; ZELENKA, Jiří. Výživa a krmení hospodářských zvířat. 1. vyd. Praha: Profi Press, s.r.o., 147–194. ISBN 80-86726-17-7."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "SKLÁDANKA, Jiří; CAGAŠ, Bohumír; DOLEŽAL, Petr; HAVLÍČEK, Zdeněk; HEJDUK, Stanislav; HORKÝ, Pavel; JANČOVIČ, Ján; KLUSOŇOVÁ, Iva; KNOT, Pavel; KOVÁR, Peter; ALBA MEJÍA, Jhonny Edison; MIKYSKA, František; NAWRATH, Adam; POKORNÝ, Radovan; SLÁMA, Petr; SZWEDZIAK, Katarzyna; TUKIENDORF, Marek; ŠEDA, Jan; VOZÁR, Luboš; VYSKOČIL, Ivo; ZEMAN, Ladislav. 2014. Pícninářství. 1. vyd. Brno: Mendelova univerzita v Brně, 368 s. ISBN 978-80-7509-111-6.SKLÁDANKA, Jiří; DOLEŽAL, Petr; VYSKOČIL, Ivo. 2011. Pícninářství a výroba krmiv - multimediální učební texty. http://web2.mendelu.cz/af_222_multitext/picvk/.MRKVICOVÁ, Eva; DOLEŽAL, Petr; MRKVICA, Vavřinec. 2015. Konzervace krmiv. https://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=6665.DOLEŽAL, Petr a kol. 2012. Konzervace krmiv a jejich využití ve výživě zvířat. Olomouc: Petr Baštan, 307 s. ISBN 978-80-87091-33-3."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "DOLEŽAL, Petr a kol. 2010. Konzervace, skladování a úpravy objemných krmiv: (přednášky). 2. vyd. Brno: Mendelova univerzita v Brně, 248 s. ISBN 978-80-7375-441-9.VESELÝ, Pavel; ZELENKA, Jiří; DOLEŽAL, Petr; ZEMAN, Ladislav; KOPŘIVA, Antonín; MRKVICOVÁ, Eva. 2006. Úpravy krmiv. In: ZEMAN, Ladislav; DOLEŽAL, Petr; KOPŘIVA, Antonín; MRKVICOVÁ, Eva; PROCHÁZKOVÁ, Jiřina; RYANT, Pavel; SKLÁDANKA, Jiří; STRAKOVÁ, Eva; SUCHÝ, Pavel; VESELÝ, Pavel; ZELENKA, Jiří. Výživa a krmení hospodářských zvířat. 1. vyd. Praha: Profi Press, s.r.o., 147–194. ISBN 80-86726-17-7."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-ZIN Zemědělské inženýrství, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "PICVK"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Pícninářství a výroba krmiv"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Foraging and Fodder Production"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Ing. Jiří Skládanka, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Animal Nutrition and Forage Production (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Daria Baholet Bátik, Ph.D. (instructor, lecturer)prof. Ing. Pavel Horký, Ph.D. (examiner, instructor, lecturer)doc. Ing. Pavel Knot, Ph.D. (examiner, instructor, lecturer)prof. Ing. Jiří Skládanka, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Feed base (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "The areas under fodder"
+    },
+    {
+      "label": "b.",
+      "content": "Areas of permanent grassland"
+    },
+    {
+      "label": "c.",
+      "content": "Productive and non-productive functions of grassland"
+    },
+    {
+      "label": "d.",
+      "content": "The states of animals in relation to the need for feed"
+    },
+    {
+      "label": "2.",
+      "content": "Clover and grass (allowance 4/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Cultural grasses and clovers"
+    },
+    {
+      "label": "b.",
+      "content": "Factors affecting the production of grasses and clovers"
+    },
+    {
+      "label": "c.",
+      "content": "The cost of forage production"
+    },
+    {
+      "label": "d.",
+      "content": "Production of seeds of grasses and clovers"
+    },
+    {
+      "label": "e.",
+      "content": "The use of legumes and grasses in the lawn"
+    },
+    {
+      "label": "3.",
+      "content": "Annual forage (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Overview of annual forage"
+    },
+    {
+      "label": "b.",
+      "content": "The economy growing annual fodder"
+    },
+    {
+      "label": "c.",
+      "content": "Advantages and disadvantages of maize sown"
+    },
+    {
+      "label": "4.",
+      "content": "Grassland (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "The cost of forage production from permanent grassland"
+    },
+    {
+      "label": "b.",
+      "content": "Grass ecosystem structure"
+    },
+    {
+      "label": "c.",
+      "content": "Restoration of permanent grassland"
+    },
+    {
+      "label": "d.",
+      "content": "Differences between the meadow and pasture vegetation"
+    },
+    {
+      "label": "e.",
+      "content": "Pasture"
+    },
+    {
+      "label": "5.",
+      "content": "Silage preservation and drying (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "The principle of preservation and silage additives"
+    },
+    {
+      "label": "b.",
+      "content": "The cost of producing hay and silage"
+    },
+    {
+      "label": "c.",
+      "content": "Losses in the preservation, storage and treatment of feed"
+    },
+    {
+      "label": "6.",
+      "content": "Racy food and feed industry (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Sources of the concentrate feed"
+    },
+    {
+      "label": "b.",
+      "content": "Racy requirements for feed"
+    },
+    {
+      "label": "c.",
+      "content": "Mineral and vitamin supplements for animals"
+    },
+    {
+      "label": "d.",
+      "content": "Requirements for registration"
+    },
+    {
+      "label": "e.",
+      "content": "Recipes labeling of compound feed and feed mixtures"
+    },
+    {
+      "label": "f.",
+      "content": "Premixes"
+    },
+    {
+      "label": "7.",
+      "content": "Principles of Livestock Nutrition (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Principles of ruminant nutrition and physiology monogastry"
+    },
+    {
+      "label": "b.",
+      "content": "Feed technology"
+    },
+    {
+      "label": "c.",
+      "content": "Factors influencing the profitability of food"
+    },
+    {
+      "label": "d.",
+      "content": "The principle of drawing rations and programs for calculating feed rations"
+    },
+    {
+      "label": "e.",
+      "content": "PřekladačThe quality of feed and nutrition levels"
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021, SS 2019/2020 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Pícninářství a výroba krmiv"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Foraging and Fodder Production"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Ing. Jiří Skládanka, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Animal Nutrition and Forage Production (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Daria Baholet Bátik, Ph.D. (instructor, lecturer)prof. Ing. Pavel Horký, Ph.D. (examiner, instructor, lecturer)doc. Ing. Pavel Knot, Ph.D. (examiner, instructor, lecturer)prof. Ing. Jiří Skládanka, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityWednesday17.00-18.50C01J. Skládanka, D. Baholet Bátik, P. HorkýLectureEvery week48Thursday11.00-12.50A22P. Horký, D. Baholet Bátik, P. Knot, J. SkládankaSeminarEvery week22Thursday13.00-14.50A22P. Horký, D. Baholet Bátik, P. Knot, J. SkládankaSeminarEvery week22"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim is to acquaint students with the production of feed, the economy growing annual forage grasses and legumes. Students will learn the basics of ruminant nutrition and non-ruminant animals. Particular attention will be devoted to grassland with an emphasis on quality production and biomass. Omissions remain non-productive functions of grasslands and their significance for quality of life. Student will gain knowledge of fodder crops, fodder production and the fundamentals of animal nutrition. Understand the problems of feed base. Learning will be the graduate's ability to integrate knowledge of animal nutrition and feed production to the economy of the agricultural business. Graduate incomprehension will apply the knowledge gained in improving the economy of animal and plant production with regard to sustainable agriculture."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Feed base (allowance 2/0) a.The areas under fodderb.Areas of permanent grasslandc.Productive and non-productive functions of grasslandd.The states of animals in relation to the need for feed2.Clover and grass (allowance 4/6) a.Cultural grasses and cloversb.Factors affecting the production of grasses and cloversc.The cost of forage productiond.Production of seeds of grasses and cloverse.The use of legumes and grasses in the lawn3.Annual forage (allowance 2/2) a.Overview of annual forageb.The economy growing annual fodderc.Advantages and disadvantages of maize sown4.Grassland (allowance 4/4) a.The cost of forage production from permanent grasslandb.Grass ecosystem structurec.Restoration of permanent grasslandd.Differences between the meadow and pasture vegetatione.Pasture5.Silage preservation and drying (allowance 2/2) a.The principle of preservation and silage additivesb.The cost of producing hay and silagec.Losses in the preservation, storage and treatment of feed6.Racy food and feed industry (allowance 6/6) a.Sources of the concentrate feedb.Racy requirements for feedc.Mineral and vitamin supplements for animalsd.Requirements for registratione.Recipes labeling of compound feed and feed mixturesf.Premixes7.Principles of Livestock Nutrition (allowance 4/4) a.Principles of ruminant nutrition and physiology monogastryb.Feed technologyc.Factors influencing the profitability of foodd.The principle of drawing rations and programs for calculating feed rationse.PřekladačThe quality of feed and nutrition levels"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.The areas under fodderb.Areas of permanent grasslandc.Productive and non-productive functions of grasslandd.The states of animals in relation to the need for feed"
+    },
+    {
+      "label": "[section] Feed base",
+      "content": "a.The areas under fodderb.Areas of permanent grasslandc.Productive and non-productive functions of grasslandd.The states of animals in relation to the need for feed"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Cultural grasses and cloversb.Factors affecting the production of grasses and cloversc.The cost of forage productiond.Production of seeds of grasses and cloverse.The use of legumes and grasses in the lawn"
+    },
+    {
+      "label": "[section] Clover and grass",
+      "content": "a.Cultural grasses and cloversb.Factors affecting the production of grasses and cloversc.The cost of forage productiond.Production of seeds of grasses and cloverse.The use of legumes and grasses in the lawn"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Overview of annual forageb.The economy growing annual fodderc.Advantages and disadvantages of maize sown"
+    },
+    {
+      "label": "[section] Annual forage",
+      "content": "a.Overview of annual forageb.The economy growing annual fodderc.Advantages and disadvantages of maize sown"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.The cost of forage production from permanent grasslandb.Grass ecosystem structurec.Restoration of permanent grasslandd.Differences between the meadow and pasture vegetatione.Pasture"
+    },
+    {
+      "label": "[section] Grassland",
+      "content": "a.The cost of forage production from permanent grasslandb.Grass ecosystem structurec.Restoration of permanent grasslandd.Differences between the meadow and pasture vegetatione.Pasture"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.The principle of preservation and silage additivesb.The cost of producing hay and silagec.Losses in the preservation, storage and treatment of feed"
+    },
+    {
+      "label": "[section] Silage preservation and drying",
+      "content": "a.The principle of preservation and silage additivesb.The cost of producing hay and silagec.Losses in the preservation, storage and treatment of feed"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Sources of the concentrate feedb.Racy requirements for feedc.Mineral and vitamin supplements for animalsd.Requirements for registratione.Recipes labeling of compound feed and feed mixturesf.Premixes"
+    },
+    {
+      "label": "[section] Racy food and feed industry",
+      "content": "a.Sources of the concentrate feedb.Racy requirements for feedc.Mineral and vitamin supplements for animalsd.Requirements for registratione.Recipes labeling of compound feed and feed mixturesf.Premixes"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Principles of ruminant nutrition and physiology monogastryb.Feed technologyc.Factors influencing the profitability of foodd.The principle of drawing rations and programs for calculating feed rationse.PřekladačThe quality of feed and nutrition levels"
+    },
+    {
+      "label": "[section] Principles of Livestock Nutrition",
+      "content": "a.Principles of ruminant nutrition and physiology monogastryb.Feed technologyc.Factors influencing the profitability of foodd.The principle of drawing rations and programs for calculating feed rationse.PřekladačThe quality of feed and nutrition levels"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture24 hpractice22 hconsultation4 hpublic presentation (oral)1 hpreparation for exam35 hpreparation for regular assessment8 hpreparation of presentation6 hwriting of seminar paper40 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Prerequisite course completion will be participating in the exercise (10% of total mark), learning about clovers seeds and grains grasses, the student must identify 100% of the samples (5% of the total mark), learning the basic feed, the student must identify 100% of samples (10% of the total mark). Termination condition is further seminar work (10% of total mark) and its presentation and successful defense (10% of total mark). Course will concluded with a written exam (student must write this exam from 60%; 30% of the total mark) and an oral examination. The oral exam is followed only in case of successful completion of a written examination (15% of the total marks). Recommended attendance at lectures 80% (10% of total mark)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:SKLÁDANKA, Jiří; CAGAŠ, Bohumír; DOLEŽAL, Petr; HAVLÍČEK, Zdeněk; HEJDUK, Stanislav; HORKÝ, Pavel; JANČOVIČ, Ján; KLUSOŇOVÁ, Iva; KNOT, Pavel; KOVÁR, Peter; ALBA MEJÍA, Jhonny Edison; MIKYSKA, František; NAWRATH, Adam; POKORNÝ, Radovan; SLÁMA, Petr; SZWEDZIAK, Katarzyna; TUKIENDORF, Marek; ŠEDA, Jan; VOZÁR, Luboš; VYSKOČIL, Ivo; ZEMAN, Ladislav. 2014. Pícninářství. 1st ed. Brno: Mendelova univerzita v Brně, 368 p. ISBN 978-80-7509-111-6.SKLÁDANKA, Jiří; DOLEŽAL, Petr; VYSKOČIL, Ivo. 2011. Pícninářství a výroba krmiv - multimediální učební texty. http://web2.mendelu.cz/af_222_multitext/picvk/.MRKVICOVÁ, Eva; DOLEŽAL, Petr; MRKVICA, Vavřinec. 2015. Konzervace krmiv. https://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=6665.DOLEŽAL, Petr et al. 2012. Konzervace krmiv a jejich využití ve výživě zvířat. Olomouc: Petr Baštan, 307 p. ISBN 978-80-87091-33-3.Recommended:DOLEŽAL, Petr et al. 2010. Konzervace, skladování a úpravy objemných krmiv: (přednášky). 2nd ed. Brno: Mendelova univerzita v Brně, 248 p. ISBN 978-80-7375-441-9.VESELÝ, Pavel; ZELENKA, Jiří; DOLEŽAL, Petr; ZEMAN, Ladislav; KOPŘIVA, Antonín; MRKVICOVÁ, Eva. 2006. Úpravy krmiv. In: ZEMAN, Ladislav; DOLEŽAL, Petr; KOPŘIVA, Antonín; MRKVICOVÁ, Eva; PROCHÁZKOVÁ, Jiřina; RYANT, Pavel; SKLÁDANKA, Jiří; STRAKOVÁ, Eva; SUCHÝ, Pavel; VESELÝ, Pavel; ZELENKA, Jiří. Výživa a krmení hospodářských zvířat. 1st ed. Praha: Profi Press, s.r.o., 147–194. ISBN 80-86726-17-7."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "SKLÁDANKA, Jiří; CAGAŠ, Bohumír; DOLEŽAL, Petr; HAVLÍČEK, Zdeněk; HEJDUK, Stanislav; HORKÝ, Pavel; JANČOVIČ, Ján; KLUSOŇOVÁ, Iva; KNOT, Pavel; KOVÁR, Peter; ALBA MEJÍA, Jhonny Edison; MIKYSKA, František; NAWRATH, Adam; POKORNÝ, Radovan; SLÁMA, Petr; SZWEDZIAK, Katarzyna; TUKIENDORF, Marek; ŠEDA, Jan; VOZÁR, Luboš; VYSKOČIL, Ivo; ZEMAN, Ladislav. 2014. Pícninářství. 1st ed. Brno: Mendelova univerzita v Brně, 368 p. ISBN 978-80-7509-111-6.SKLÁDANKA, Jiří; DOLEŽAL, Petr; VYSKOČIL, Ivo. 2011. Pícninářství a výroba krmiv - multimediální učební texty. http://web2.mendelu.cz/af_222_multitext/picvk/.MRKVICOVÁ, Eva; DOLEŽAL, Petr; MRKVICA, Vavřinec. 2015. Konzervace krmiv. https://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=6665.DOLEŽAL, Petr et al. 2012. Konzervace krmiv a jejich využití ve výživě zvířat. Olomouc: Petr Baštan, 307 p. ISBN 978-80-87091-33-3."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "DOLEŽAL, Petr et al. 2010. Konzervace, skladování a úpravy objemných krmiv: (přednášky). 2nd ed. Brno: Mendelova univerzita v Brně, 248 p. ISBN 978-80-7375-441-9.VESELÝ, Pavel; ZELENKA, Jiří; DOLEŽAL, Petr; ZEMAN, Ladislav; KOPŘIVA, Antonín; MRKVICOVÁ, Eva. 2006. Úpravy krmiv. In: ZEMAN, Ladislav; DOLEŽAL, Petr; KOPŘIVA, Antonín; MRKVICOVÁ, Eva; PROCHÁZKOVÁ, Jiřina; RYANT, Pavel; SKLÁDANKA, Jiří; STRAKOVÁ, Eva; SUCHÝ, Pavel; VESELÝ, Pavel; ZELENKA, Jiří. Výživa a krmení hospodářských zvířat. 1st ed. Praha: Profi Press, s.r.o., 147–194. ISBN 80-86726-17-7."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-AEN Agricultural Engineering, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:46:34",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

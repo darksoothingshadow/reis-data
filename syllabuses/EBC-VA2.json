@@ -1,0 +1,617 @@
+{
+  "courseCode": "EBC-VA2",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-VA2"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Vývoj aplikací pro Android 2"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Application Development for Android 2"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět nelze studovat studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Jaromír Landa, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jaromír Landa, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška a Vývoj aplikací pro Android 1"
+    },
+    {
+      "label": "1.",
+      "content": "Jetpack Compose (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Deklarativní tvorba UI"
+    },
+    {
+      "label": "b.",
+      "content": "@Composable metody"
+    },
+    {
+      "label": "c.",
+      "content": "Propojení Jetpack Compose s MVVM architekturou."
+    },
+    {
+      "label": "2.",
+      "content": "Komunikace mobilní aplikace se serverem (dotace 4/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Komunikace s REST API (Retrofit)"
+    },
+    {
+      "label": "b.",
+      "content": "Firebase cloud messaging"
+    },
+    {
+      "label": "3.",
+      "content": "Testování (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "JUnit testy"
+    },
+    {
+      "label": "b.",
+      "content": "Testy uživatelského rozhraní (Espresso,…)"
+    },
+    {
+      "label": "4.",
+      "content": "Lokační služby a rozšířená realita (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Pokročilá práce s mapu"
+    },
+    {
+      "label": "b.",
+      "content": "Použití knihovny Google Maps Android API Utility Library"
+    },
+    {
+      "label": "5.",
+      "content": "Práce s obrazovými data (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Rozšířená realita (ARCore)"
+    },
+    {
+      "label": "b.",
+      "content": "Strojové učení pro Android"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "10 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "50 %"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "10 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "30 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Vývoj aplikací pro Android 2"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Application Development for Android 2"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět nelze studovat studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Jaromír Landa, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jaromír Landa, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a Vývoj aplikací pro Android 1"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí13.00-14.50Q16B-OIJ. LandaPřednáškaSudý týden57Středa9.00-10.50Q12B-OIJ. LandaCvičeníKaždý týden19Středa11.00-12.50Q12B-OIJ. LandaCvičeníKaždý týden19Středa13.00-14.50Q12B-OIJ. LandaCvičeníKaždý týden19"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "V rámci předmětu studenti získají hlubší znalosti vývoje mobilních aplikací pro Android. Předmět je zaměřen na řešení pokročilejších témat jako reaktivní programování, komunikace mobilní aplikace s REST API nebo práce s obrazovými daty."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Jetpack Compose (dotace 2/4) a.Deklarativní tvorba UIb.@Composable metodyc.Propojení Jetpack Compose s MVVM architekturou.2.Komunikace mobilní aplikace se serverem (dotace 4/6) a.Komunikace s REST API (Retrofit)b.Firebase cloud messaging3.Testování (dotace 2/4) a.JUnit testyb.Testy uživatelského rozhraní (Espresso,…)4.Lokační služby a rozšířená realita (dotace 2/6) a.Pokročilá práce s mapub.Použití knihovny Google Maps Android API Utility Library5.Práce s obrazovými data (dotace 2/2) a.Rozšířená realita (ARCore)b.Strojové učení pro Android"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Deklarativní tvorba UIb.@Composable metodyc.Propojení Jetpack Compose s MVVM architekturou."
+    },
+    {
+      "label": "[section] Jetpack Compose",
+      "content": "a.Deklarativní tvorba UIb.@Composable metodyc.Propojení Jetpack Compose s MVVM architekturou."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Komunikace s REST API (Retrofit)b.Firebase cloud messaging"
+    },
+    {
+      "label": "[section] Komunikace mobilní aplikace se serverem",
+      "content": "a.Komunikace s REST API (Retrofit)b.Firebase cloud messaging"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.JUnit testyb.Testy uživatelského rozhraní (Espresso,…)"
+    },
+    {
+      "label": "[section] Testování",
+      "content": "a.JUnit testyb.Testy uživatelského rozhraní (Espresso,…)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Pokročilá práce s mapub.Použití knihovny Google Maps Android API Utility Library"
+    },
+    {
+      "label": "[section] Lokační služby a rozšířená realita",
+      "content": "a.Pokročilá práce s mapub.Použití knihovny Google Maps Android API Utility Library"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Rozšířená realita (ARCore)b.Strojové učení pro Android"
+    },
+    {
+      "label": "[section] Práce s obrazovými data",
+      "content": "a.Rozšířená realita (ARCore)b.Strojové učení pro Android"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška12 hcvičení24 hpříprava na zkoušku20 hpříprava na průběžný test10 hzpracování projektů74 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "V průběhu semestru může student získat až 100 bodů za různé aktivity. Pro získání známky E je nezbytné získat alespoň 60 bodů. 20 bodů lze získat za průběžné testy z vytváření aplikací a samostatné úkoly, 50 bodů za projekt a 30 bodů lze získat za semestrální zkoušku. V rámci projektů studenti vytvoří vlastní mobilní aplikaci pro operační systém Android. Pro úspěšné získání zkoušky je nutné, aby student získal z projektu minimálně 25 bodů, ze zkoušky minimálně 15 bodů a z průběžné aktivity minimálně 10 bodů. Semestrální zkouška je praktická, jedná se o implementaci jednoduché funkční mobilní aplikace a lze při ní používat libovolné zdroje (knihy, Internet aj.). Při testu a zkoušce je zakázáno jakoukoliv formou komunikovat s jinými lidmi. Škála hodnocení: méně než 60 bodů F, 60 bodů a více E, 68 bodů a více D, 75 bodů a více C, 83 bodů a více B a 90 bodů a více A."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích10 %Vypracování semestrální práce50 %Absolvování průběžného testu (testů)10 %Absolvování závěrečného testu30 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:TUTORIAL TEAM, Raywenderlich; CHENG, Yun; DOMÍNGUEZ, Aldo Olivares. 2019. Advanced Android App Architecture. USA: Razeware LLC, 273 s. ISBN 978-1-94-287869-8.GLEASON, Lance; SPROVIERO, Fernando; RAYWENDERLICH, Tutorial Team. 2019. Android Test-Driven Development by Tutorials. Virginia: Razeware, 408 s. ISBN 978-1-94-287890-2.Doporučená:GOOGLE ARCore overview [online]. 2019. Dostupné z: https://developers.google.com/ar/discover Kolektiv autorů Build anything on Android [online]. Dostupné z: https://developer.android.com/"
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "TUTORIAL TEAM, Raywenderlich; CHENG, Yun; DOMÍNGUEZ, Aldo Olivares. 2019. Advanced Android App Architecture. USA: Razeware LLC, 273 s. ISBN 978-1-94-287869-8.GLEASON, Lance; SPROVIERO, Fernando; RAYWENDERLICH, Tutorial Team. 2019. Android Test-Driven Development by Tutorials. Virginia: Razeware, 408 s. ISBN 978-1-94-287890-2."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "GOOGLE ARCore overview [online]. 2019. Dostupné z: https://developers.google.com/ar/discover Kolektiv autorů Build anything on Android [online]. Dostupné z: https://developer.android.com/"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Zaměření ZBOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-VA2"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Vývoj aplikací pro Android 2"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Application Development for Android 2"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The subject cannot be attended during foreign trip."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Jaromír Landa, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jaromír Landa, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam and Application Development for Android"
+    },
+    {
+      "label": "1.",
+      "content": "Jetpack Compose (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Declarative programming"
+    },
+    {
+      "label": "b.",
+      "content": "@Composable methods."
+    },
+    {
+      "label": "c.",
+      "content": "Connecting Jetpack Compose with MVVM."
+    },
+    {
+      "label": "2.",
+      "content": "Communication of the mobile application with the server (allowance 4/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Communication with REST API (Retrofit)"
+    },
+    {
+      "label": "b.",
+      "content": "Firebase cloud messaging"
+    },
+    {
+      "label": "3.",
+      "content": "Testing (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "JUnit tests"
+    },
+    {
+      "label": "b.",
+      "content": "User interface tests (Espress,...)"
+    },
+    {
+      "label": "4.",
+      "content": "Location-based services (allowance 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Advanced operations with a map"
+    },
+    {
+      "label": "b.",
+      "content": "Usage of the Google Maps Android API Utility Library"
+    },
+    {
+      "label": "5.",
+      "content": "Work with image data (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Augmented reality (ARCore)"
+    },
+    {
+      "label": "b.",
+      "content": "Machine Learning on Android"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "10 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "50 %"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "10 %"
+    },
+    {
+      "label": "Final test",
+      "content": "30 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Vývoj aplikací pro Android 2"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Application Development for Android 2"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The subject cannot be attended during foreign trip."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Jaromír Landa, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jaromír Landa, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam and Application Development for Android"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday13.00-14.50Q16B-OIJ. LandaLectureEven week57Wednesday9.00-10.50Q12B-OIJ. LandaSeminarEvery week19Wednesday11.00-12.50Q12B-OIJ. LandaSeminarEvery week19Wednesday13.00-14.50Q12B-OIJ. LandaSeminarEvery week19"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "During the course, students will gain deeper knowledge of the development of mobile applications for Android. The course is focused on solving more advanced topics such as reactive programming, communication of mobile applications with REST API or work with image data."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Jetpack Compose (allowance 2/4) a.Declarative programmingb.@Composable methods.c.Connecting Jetpack Compose with MVVM.2.Communication of the mobile application with the server (allowance 4/6) a.Communication with REST API (Retrofit)b.Firebase cloud messaging3.Testing (allowance 2/4) a.JUnit testsb.User interface tests (Espress,...)4.Location-based services (allowance 2/6) a.Advanced operations with a mapb.Usage of the Google Maps Android API Utility Library5.Work with image data (allowance 2/4) a.Augmented reality (ARCore)b.Machine Learning on Android"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Declarative programmingb.@Composable methods.c.Connecting Jetpack Compose with MVVM."
+    },
+    {
+      "label": "[section] Jetpack Compose",
+      "content": "a.Declarative programmingb.@Composable methods.c.Connecting Jetpack Compose with MVVM."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Communication with REST API (Retrofit)b.Firebase cloud messaging"
+    },
+    {
+      "label": "[section] Communication of the mobile application with the server",
+      "content": "a.Communication with REST API (Retrofit)b.Firebase cloud messaging"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.JUnit testsb.User interface tests (Espress,...)"
+    },
+    {
+      "label": "[section] Testing",
+      "content": "a.JUnit testsb.User interface tests (Espress,...)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Advanced operations with a mapb.Usage of the Google Maps Android API Utility Library"
+    },
+    {
+      "label": "[section] Location-based services",
+      "content": "a.Advanced operations with a mapb.Usage of the Google Maps Android API Utility Library"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Augmented reality (ARCore)b.Machine Learning on Android"
+    },
+    {
+      "label": "[section] Work with image data",
+      "content": "a.Augmented reality (ARCore)b.Machine Learning on Android"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture12 hpractice24 hpreparation for exam20 hpreparation for regular testing10 helaboration and execution of projects74 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "During the semester, the student can get up to 100 points for various activities. To obtain the grade E, it is necessary to obtain at least 60 points. 20 points can be obtained for continuous tests of creating applications and individual tasks, 50 points for a project and 30 points can be obtained for a final exam. As a project, students will create their own mobile application for the Android operating system. To successfully pass the exam, it is necessary for the student to obtain at least 25 points from the project, at least 15 points from the exam and at least 10 points from the activities during semester. The semester exam is practical, it is an implementation of a simple functional mobile application and students can use any resources (books, Internet, etc.). It is forbidden to communicate with other students in any form during the test and exam. Points for grade: less than 60 points F, 60 points and more E, 68 points and more D, 75 points and more C, 83 points and more B a 90 points and more A."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation10 %Term paper50 %Mid-term test(s)10 %Final test30 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:TUTORIAL TEAM, Raywenderlich; CHENG, Yun; DOMÍNGUEZ, Aldo Olivares. 2019. Advanced Android App Architecture. USA: Razeware LLC, 273 p. ISBN 978-1-94-287869-8.GLEASON, Lance; SPROVIERO, Fernando; RAYWENDERLICH, Tutorial Team. 2019. Android Test-Driven Development by Tutorials. Virginia: Razeware, 408 p. ISBN 978-1-94-287890-2.Recommended:GOOGLE ARCore overview [online]. 2019. Dostupné z: https://developers.google.com/ar/discover Kolektiv autorů Build anything on Android [online]. Dostupné z: https://developer.android.com/"
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "TUTORIAL TEAM, Raywenderlich; CHENG, Yun; DOMÍNGUEZ, Aldo Olivares. 2019. Advanced Android App Architecture. USA: Razeware LLC, 273 p. ISBN 978-1-94-287869-8.GLEASON, Lance; SPROVIERO, Fernando; RAYWENDERLICH, Tutorial Team. 2019. Android Test-Driven Development by Tutorials. Virginia: Razeware, 408 p. ISBN 978-1-94-287890-2."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "GOOGLE ARCore overview [online]. 2019. Dostupné z: https://developers.google.com/ar/discover Kolektiv autorů Build anything on Android [online]. Dostupné z: https://developer.android.com/"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Scope ZBOI Scope for Open Informatics, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:46:24",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

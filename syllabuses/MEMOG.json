@@ -1,0 +1,905 @@
+{
+  "courseCode": "MEMOG",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "MEMOG"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Metody molekulární genetiky"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Methods of molecular genetics"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "konzultační"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. RNDr. Aleš Knoll, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav morfologie, fyziologie a genetiky zvířat (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Petra Bartoňová, Ph.D. (cvičící)prof. RNDr. Aleš Knoll, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Izolace a purifikace nukleových kyselin (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "zdroj DNA, zpracování biol. materiálu"
+    },
+    {
+      "label": "b.",
+      "content": "lýza buněk"
+    },
+    {
+      "label": "c.",
+      "content": "izolace a purifikace DNA"
+    },
+    {
+      "label": "d.",
+      "content": "uchovávání DNA"
+    },
+    {
+      "label": "2.",
+      "content": "Detekce a kvantifikace nukleových kyselin (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "centrifugace"
+    },
+    {
+      "label": "b.",
+      "content": "elektroforéza"
+    },
+    {
+      "label": "c.",
+      "content": "metody vizualizace DNA"
+    },
+    {
+      "label": "d.",
+      "content": "stanovení koncentrace a čistoty nukleových kyselin"
+    },
+    {
+      "label": "3.",
+      "content": "Manipulace s nukleovými kyselinami I (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "syntéza (polymerázy)"
+    },
+    {
+      "label": "b.",
+      "content": "enzymatické modifikace"
+    },
+    {
+      "label": "c.",
+      "content": "spojování (ligace)"
+    },
+    {
+      "label": "d.",
+      "content": "odbourávání (nukleázy), restrikční endonukleázy"
+    },
+    {
+      "label": "e.",
+      "content": "značení DNA"
+    },
+    {
+      "label": "4.",
+      "content": "Denaturace a hybridizace (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "denaturace a renaturace DNA"
+    },
+    {
+      "label": "b.",
+      "content": "hybridizace"
+    },
+    {
+      "label": "c.",
+      "content": "hybridizační sondy, FISH"
+    },
+    {
+      "label": "d.",
+      "content": "Southernův přenos DNA"
+    },
+    {
+      "label": "e.",
+      "content": "DNA-microarrays"
+    },
+    {
+      "label": "5.",
+      "content": "Klonování DNA (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "DNA vektory"
+    },
+    {
+      "label": "b.",
+      "content": "ligace, rekombinantní DNA"
+    },
+    {
+      "label": "c.",
+      "content": "genové knihovny"
+    },
+    {
+      "label": "d.",
+      "content": "klonování produktů PCR"
+    },
+    {
+      "label": "6.",
+      "content": "Amplifikace DNA (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "PCR - princip a využití"
+    },
+    {
+      "label": "b.",
+      "content": "primery a jejich navrhování"
+    },
+    {
+      "label": "c.",
+      "content": "DNA polymerázy"
+    },
+    {
+      "label": "d.",
+      "content": "faktory ovlivňující průběh PCR"
+    },
+    {
+      "label": "7.",
+      "content": "Metody založené na PCR (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "QPCR v reálném čase a alelická diskriminace"
+    },
+    {
+      "label": "b.",
+      "content": "mnohonásobná PCR"
+    },
+    {
+      "label": "c.",
+      "content": "odstupňovaná PCR"
+    },
+    {
+      "label": "d.",
+      "content": "náhodná PCR"
+    },
+    {
+      "label": "e.",
+      "content": "AS-PCR"
+    },
+    {
+      "label": "f.",
+      "content": "digitální PCR"
+    },
+    {
+      "label": "8.",
+      "content": "Metody detekce polymorfismů DNA a molekulárně-genetických markerů I (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "přehled"
+    },
+    {
+      "label": "b.",
+      "content": "SSCP, DGGE"
+    },
+    {
+      "label": "c.",
+      "content": "PCR-RFLP, CFLP"
+    },
+    {
+      "label": "d.",
+      "content": "AFLP, RAPD"
+    },
+    {
+      "label": "9.",
+      "content": "Metody detekce polymorfismů DNA a molekulárně-genetických markerů II (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "analýzy SNP (OLA, SNP čipy)"
+    },
+    {
+      "label": "b.",
+      "content": "analýza mikrosatelitů"
+    },
+    {
+      "label": "c.",
+      "content": "molekulární diagnostika (genových variant, genetické choroby)"
+    },
+    {
+      "label": "d.",
+      "content": "diagnostika patogenů (identifikace, typizace)"
+    },
+    {
+      "label": "10.",
+      "content": "Metody molekulární diagnostiky (dotace 2/3)"
+    },
+    {
+      "label": "11.",
+      "content": "Stanovení sekvence DNA (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "podmínky pro sekvenování"
+    },
+    {
+      "label": "b.",
+      "content": "chemická metoda"
+    },
+    {
+      "label": "c.",
+      "content": "enzymová metoda"
+    },
+    {
+      "label": "d.",
+      "content": "automatické sekvenování"
+    },
+    {
+      "label": "e.",
+      "content": "pyrosekvenování"
+    },
+    {
+      "label": "12.",
+      "content": "Velkoformátové SNP detekční metody (dotace 2/0)"
+    },
+    {
+      "label": "13.",
+      "content": "Velkoformátové sekvenační metody (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "sekvenování poslední generace (NGS), celogenomové sekvenování"
+    },
+    {
+      "label": "b.",
+      "content": "sekvenování 3. generace"
+    },
+    {
+      "label": "14.",
+      "content": "Zpracování výsledků metod – bioinformatické přístupy (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "molekulárně biologické databáze"
+    },
+    {
+      "label": "b.",
+      "content": "vyhledávání podobností sekvencí (Clustal, Blast)"
+    },
+    {
+      "label": "c.",
+      "content": "základy statistického vyhodnocení genetické podobnosti"
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Metody molekulární genetiky"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Methods of molecular genetics"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: konzultační"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. RNDr. Aleš Knoll, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav morfologie, fyziologie a genetiky zvířat (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Petra Bartoňová, Ph.D. (cvičící)prof. RNDr. Aleš Knoll, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je poskytnout posluchačům podrobný a ucelený výklad experimentálních přístupů, metod a technik používaných v současné molekulární genetice s důrazem na analýzu DNA a genetických markerů. Hlavní cílem předmětu je praktické zvládnutí základních a nejdůležitějších metod práce s DNA v molekulárně-genetické laboratoři a praktická aplikace znalostí získaných studiem předmětu Molekulární biologie. Další techniky molekulární biologie založené na práci s RNA a proteiny jsou součástí navazujících předmětů."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Izolace a purifikace nukleových kyselin (dotace 2/3) a.zdroj DNA, zpracování biol. materiálub.lýza buněkc.izolace a purifikace DNAd.uchovávání DNA2.Detekce a kvantifikace nukleových kyselin (dotace 2/3) a.centrifugaceb.elektroforézac.metody vizualizace DNAd.stanovení koncentrace a čistoty nukleových kyselin3.Manipulace s nukleovými kyselinami I (dotace 2/3) a.syntéza (polymerázy)b.enzymatické modifikacec.spojování (ligace)d.odbourávání (nukleázy), restrikční endonukleázye.značení DNA4.Denaturace a hybridizace (dotace 2/3) a.denaturace a renaturace DNAb.hybridizacec.hybridizační sondy, FISHd.Southernův přenos DNAe.DNA-microarrays5.Klonování DNA (dotace 2/0) a.DNA vektoryb.ligace, rekombinantní DNAc.genové knihovnyd.klonování produktů PCR6.Amplifikace DNA (dotace 2/6) a.PCR - princip a využitíb.primery a jejich navrhováníc.DNA polymerázyd.faktory ovlivňující průběh PCR7.Metody založené na PCR (dotace 2/3) a.QPCR v reálném čase a alelická diskriminaceb.mnohonásobná PCRc.odstupňovaná PCRd.náhodná PCRe.AS-PCRf.digitální PCR8.Metody detekce polymorfismů DNA a molekulárně-genetických markerů I (dotace 2/6) a.přehledb.SSCP, DGGEc.PCR-RFLP, CFLPd.AFLP, RAPD9.Metody detekce polymorfismů DNA a molekulárně-genetických markerů II (dotace 2/6) a.analýzy SNP (OLA, SNP čipy)b.analýza mikrosatelitůc.molekulární diagnostika (genových variant, genetické choroby)d.diagnostika patogenů (identifikace, typizace)10.Metody molekulární diagnostiky (dotace 2/3)11.Stanovení sekvence DNA (dotace 2/3) a.podmínky pro sekvenováníb.chemická metodac.enzymová metodad.automatické sekvenováníe.pyrosekvenování12.Velkoformátové SNP detekční metody (dotace 2/0)13.Velkoformátové sekvenační metody (dotace 2/0) a.sekvenování poslední generace (NGS), celogenomové sekvenováníb.sekvenování 3. generace14.Zpracování výsledků metod – bioinformatické přístupy (dotace 2/3) a.molekulárně biologické databázeb.vyhledávání podobností sekvencí (Clustal, Blast)c.základy statistického vyhodnocení genetické podobnosti"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.zdroj DNA, zpracování biol. materiálub.lýza buněkc.izolace a purifikace DNAd.uchovávání DNA"
+    },
+    {
+      "label": "[section] Izolace a purifikace nukleových kyselin",
+      "content": "a.zdroj DNA, zpracování biol. materiálub.lýza buněkc.izolace a purifikace DNAd.uchovávání DNA"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.centrifugaceb.elektroforézac.metody vizualizace DNAd.stanovení koncentrace a čistoty nukleových kyselin"
+    },
+    {
+      "label": "[section] Detekce a kvantifikace nukleových kyselin",
+      "content": "a.centrifugaceb.elektroforézac.metody vizualizace DNAd.stanovení koncentrace a čistoty nukleových kyselin"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.syntéza (polymerázy)b.enzymatické modifikacec.spojování (ligace)d.odbourávání (nukleázy), restrikční endonukleázye.značení DNA"
+    },
+    {
+      "label": "[section] Manipulace s nukleovými kyselinami I",
+      "content": "a.syntéza (polymerázy)b.enzymatické modifikacec.spojování (ligace)d.odbourávání (nukleázy), restrikční endonukleázye.značení DNA"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.denaturace a renaturace DNAb.hybridizacec.hybridizační sondy, FISHd.Southernův přenos DNAe.DNA-microarrays"
+    },
+    {
+      "label": "[section] Denaturace a hybridizace",
+      "content": "a.denaturace a renaturace DNAb.hybridizacec.hybridizační sondy, FISHd.Southernův přenos DNAe.DNA-microarrays"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.DNA vektoryb.ligace, rekombinantní DNAc.genové knihovnyd.klonování produktů PCR"
+    },
+    {
+      "label": "[section] Klonování DNA",
+      "content": "a.DNA vektoryb.ligace, rekombinantní DNAc.genové knihovnyd.klonování produktů PCR"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.PCR - princip a využitíb.primery a jejich navrhováníc.DNA polymerázyd.faktory ovlivňující průběh PCR"
+    },
+    {
+      "label": "[section] Amplifikace DNA",
+      "content": "a.PCR - princip a využitíb.primery a jejich navrhováníc.DNA polymerázyd.faktory ovlivňující průběh PCR"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.QPCR v reálném čase a alelická diskriminaceb.mnohonásobná PCRc.odstupňovaná PCRd.náhodná PCRe.AS-PCRf.digitální PCR"
+    },
+    {
+      "label": "[section] Metody založené na PCR",
+      "content": "a.QPCR v reálném čase a alelická diskriminaceb.mnohonásobná PCRc.odstupňovaná PCRd.náhodná PCRe.AS-PCRf.digitální PCR"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.přehledb.SSCP, DGGEc.PCR-RFLP, CFLPd.AFLP, RAPD"
+    },
+    {
+      "label": "[section] Metody detekce polymorfismů DNA a molekulárně-genetických markerů I",
+      "content": "a.přehledb.SSCP, DGGEc.PCR-RFLP, CFLPd.AFLP, RAPD"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.analýzy SNP (OLA, SNP čipy)b.analýza mikrosatelitůc.molekulární diagnostika (genových variant, genetické choroby)d.diagnostika patogenů (identifikace, typizace)"
+    },
+    {
+      "label": "[section] Metody detekce polymorfismů DNA a molekulárně-genetických markerů II",
+      "content": "a.analýzy SNP (OLA, SNP čipy)b.analýza mikrosatelitůc.molekulární diagnostika (genových variant, genetické choroby)d.diagnostika patogenů (identifikace, typizace)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Stanovení sekvence DNA (dotace 2/3)"
+    },
+    {
+      "label": "[section] Metody molekulární diagnostiky",
+      "content": "11.Stanovení sekvence DNA (dotace 2/3)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.podmínky pro sekvenováníb.chemická metodac.enzymová metodad.automatické sekvenováníe.pyrosekvenování"
+    },
+    {
+      "label": "[section] Stanovení sekvence DNA",
+      "content": "a.podmínky pro sekvenováníb.chemická metodac.enzymová metodad.automatické sekvenováníe.pyrosekvenování"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Velkoformátové sekvenační metody (dotace 2/0)"
+    },
+    {
+      "label": "[section] Velkoformátové SNP detekční metody",
+      "content": "13.Velkoformátové sekvenační metody (dotace 2/0)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.sekvenování poslední generace (NGS), celogenomové sekvenováníb.sekvenování 3. generace"
+    },
+    {
+      "label": "[section] Velkoformátové sekvenační metody",
+      "content": "a.sekvenování poslední generace (NGS), celogenomové sekvenováníb.sekvenování 3. generace"
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.molekulárně biologické databázeb.vyhledávání podobností sekvencí (Clustal, Blast)c.základy statistického vyhodnocení genetické podobnosti"
+    },
+    {
+      "label": "[section] Zpracování výsledků metod – bioinformatické přístupy",
+      "content": "a.molekulárně biologické databázeb.vyhledávání podobností sekvencí (Clustal, Blast)c.základy statistického vyhodnocení genetické podobnosti"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hlaboratorní práce42 hpříprava na zkoušku40 hpříprava na průběžné hodnocení24 hzpracování protokolů34 hCelkem168 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Docházka cvičení minimálně 80 %. Zápočet na základě zápočtového testu (ověření prováděných metod) a na základě zhodnocení protokolu z lab. cvičení. Zkouška má písemnou a ústní část. Čtyřicetiminutový písemný test obsahuje 12 otázek, které musí být zodpovězeny minimálně z 60 %. Následující ústní zkouška obsahuje 2 zkušební otázky z tematických okruhů uvedených v sylabu předmětu, které musí být zodpovězeny minimálně z 60 %."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:ŠMARDA, Jan a kol. 2005. Metody molekulární biologie. 1. vyd. Brno: Masarykova univerzita, 188 s. ISBN 80-210-3841-1.SLABÝ, Ondřej. 2015. Molekulární medicína. Praha: Galén, 598 s. ISBN 978-80-7492-121-6.Doporučená:CARSON, Sue, Heather Bennett. MILLER a D. Scott WITHEROW. Molecular biology techniques: a classroom laboratory manual. 3rd ed. Amsterdam: Elsevier /Academic Press, 2012. ISBN 9780123855459"
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "ŠMARDA, Jan a kol. 2005. Metody molekulární biologie. 1. vyd. Brno: Masarykova univerzita, 188 s. ISBN 80-210-3841-1.SLABÝ, Ondřej. 2015. Molekulární medicína. Praha: Galén, 598 s. ISBN 978-80-7492-121-6."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "CARSON, Sue, Heather Bennett. MILLER a D. Scott WITHEROW. Molecular biology techniques: a classroom laboratory manual. 3rd ed. Amsterdam: Elsevier /Academic Press, 2012. ISBN 9780123855459"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "MEMOG"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Metody molekulární genetiky"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Methods of molecular genetics"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "consulting"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. RNDr. Aleš Knoll, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Morphology, Physiology and Animal Genetics (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Petra Bartoňová, Ph.D. (instructor)prof. RNDr. Aleš Knoll, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Isolation and purification of nucleic acids (allowance 2/3)"
+    },
+    {
+      "label": "2.",
+      "content": "Detection and quantification of nucleic acids (allowance 2/3)"
+    },
+    {
+      "label": "3.",
+      "content": "Manipulation with nucleic acids (allowance 2/3)"
+    },
+    {
+      "label": "4.",
+      "content": "Denaturation and hybridization (allowance 2/3)"
+    },
+    {
+      "label": "5.",
+      "content": "DNA cloning (allowance 2/0)"
+    },
+    {
+      "label": "6.",
+      "content": "DNA amplification (allowance 2/6)"
+    },
+    {
+      "label": "7.",
+      "content": "PCR-based method (allowance 2/3)"
+    },
+    {
+      "label": "8.",
+      "content": "Methods for Detection of DNA Polymorphisms and Molecular Genetic Markers 1 (allowance 2/6)"
+    },
+    {
+      "label": "9.",
+      "content": "Methods for Detection of DNA Polymorphisms and Molecular Genetic Markers 2 (allowance 2/6)"
+    },
+    {
+      "label": "10.",
+      "content": "Methods of molecular diagnostics (allowance 2/3)"
+    },
+    {
+      "label": "11.",
+      "content": "Determination of DNA sequence (allowance 2/3)"
+    },
+    {
+      "label": "12.",
+      "content": "Large format SNP detection methods (allowance 2/0)"
+    },
+    {
+      "label": "13.",
+      "content": "Large format sequencing methods (allowance 2/0)"
+    },
+    {
+      "label": "14.",
+      "content": "Processing of results of methods - bioinformatic approaches (allowance 2/3)"
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Metody molekulární genetiky"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Methods of molecular genetics"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: consulting"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. RNDr. Aleš Knoll, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Morphology, Physiology and Animal Genetics (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Petra Bartoňová, Ph.D. (instructor)prof. RNDr. Aleš Knoll, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the subject is to provide students with a detailed and comprehensive explanation of experimental approaches, methods and techniques used in current molecular genetics with an emphasis on DNA analysis and genetic markers. The main aim of the course is practical handling of the basic and most important methods of work with DNA in the molecular-genetic laboratory and practical application of the knowledge gained by studying the subject of Molecular biology. Other techniques of molecular biology based on RNA and proteins analysis are included in follow-up study subjects."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Isolation and purification of nucleic acids (allowance 2/3)2.Detection and quantification of nucleic acids (allowance 2/3)3.Manipulation with nucleic acids (allowance 2/3)4.Denaturation and hybridization (allowance 2/3)5.DNA cloning (allowance 2/0)6.DNA amplification (allowance 2/6)7.PCR-based method (allowance 2/3)8.Methods for Detection of DNA Polymorphisms and Molecular Genetic Markers 1 (allowance 2/6)9.Methods for Detection of DNA Polymorphisms and Molecular Genetic Markers 2 (allowance 2/6)10.Methods of molecular diagnostics (allowance 2/3)11.Determination of DNA sequence (allowance 2/3)12.Large format SNP detection methods (allowance 2/0)13.Large format sequencing methods (allowance 2/0)14.Processing of results of methods - bioinformatic approaches (allowance 2/3)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Detection and quantification of nucleic acids (allowance 2/3)"
+    },
+    {
+      "label": "[section] Isolation and purification of nucleic acids",
+      "content": "2.Detection and quantification of nucleic acids (allowance 2/3)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Manipulation with nucleic acids (allowance 2/3)"
+    },
+    {
+      "label": "[section] Detection and quantification of nucleic acids",
+      "content": "3.Manipulation with nucleic acids (allowance 2/3)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Denaturation and hybridization (allowance 2/3)"
+    },
+    {
+      "label": "[section] Manipulation with nucleic acids",
+      "content": "4.Denaturation and hybridization (allowance 2/3)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.DNA cloning (allowance 2/0)"
+    },
+    {
+      "label": "[section] Denaturation and hybridization",
+      "content": "5.DNA cloning (allowance 2/0)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.DNA amplification (allowance 2/6)"
+    },
+    {
+      "label": "[section] DNA cloning",
+      "content": "6.DNA amplification (allowance 2/6)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.PCR-based method (allowance 2/3)"
+    },
+    {
+      "label": "[section] DNA amplification",
+      "content": "7.PCR-based method (allowance 2/3)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Methods for Detection of DNA Polymorphisms and Molecular Genetic Markers 1 (allowance 2/6)"
+    },
+    {
+      "label": "[section] PCR-based method",
+      "content": "8.Methods for Detection of DNA Polymorphisms and Molecular Genetic Markers 1 (allowance 2/6)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Methods for Detection of DNA Polymorphisms and Molecular Genetic Markers 2 (allowance 2/6)"
+    },
+    {
+      "label": "[section] Methods for Detection of DNA Polymorphisms and Molecular Genetic Markers 1",
+      "content": "9.Methods for Detection of DNA Polymorphisms and Molecular Genetic Markers 2 (allowance 2/6)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Methods of molecular diagnostics (allowance 2/3)"
+    },
+    {
+      "label": "[section] Methods for Detection of DNA Polymorphisms and Molecular Genetic Markers 2",
+      "content": "10.Methods of molecular diagnostics (allowance 2/3)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Determination of DNA sequence (allowance 2/3)"
+    },
+    {
+      "label": "[section] Methods of molecular diagnostics",
+      "content": "11.Determination of DNA sequence (allowance 2/3)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Large format SNP detection methods (allowance 2/0)"
+    },
+    {
+      "label": "[section] Determination of DNA sequence",
+      "content": "12.Large format SNP detection methods (allowance 2/0)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Large format sequencing methods (allowance 2/0)"
+    },
+    {
+      "label": "[section] Large format SNP detection methods",
+      "content": "13.Large format sequencing methods (allowance 2/0)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "14.Processing of results of methods - bioinformatic approaches (allowance 2/3)"
+    },
+    {
+      "label": "[section] Large format sequencing methods",
+      "content": "14.Processing of results of methods - bioinformatic approaches (allowance 2/3)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hlaboratory work42 hpreparation for exam40 hpreparation for regular assessment24 helaboration of reports34 hTotal168 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Attendance minim. 80 %. Credit based on credit test (verification of methods) and on the basis of an evaluation of the laboratory practice protocol. The exam has a written and oral part. The 40-minute written test contains 12 questions that must be answered by at least 60%. The following oral exam contains 2 test questions from the thematic areas listed in the syllabus of the subject (minimum 60%)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:ŠMARDA, Jan et al. 2005. Metody molekulární biologie. 1st ed. Brno: Masarykova univerzita, 188 p. ISBN 80-210-3841-1.SLABÝ, Ondřej. 2015. Molekulární medicína. Praha: Galén, 598 p. ISBN 978-80-7492-121-6.Recommended:CARSON, Sue, Heather Bennett. MILLER a D. Scott WITHEROW. Molecular biology techniques: a classroom laboratory manual. 3rd ed. Amsterdam: Elsevier /Academic Press, 2012. ISBN 9780123855459"
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "ŠMARDA, Jan et al. 2005. Metody molekulární biologie. 1st ed. Brno: Masarykova univerzita, 188 p. ISBN 80-210-3841-1.SLABÝ, Ondřej. 2015. Molekulární medicína. Praha: Galén, 598 p. ISBN 978-80-7492-121-6."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "CARSON, Sue, Heather Bennett. MILLER a D. Scott WITHEROW. Molecular biology techniques: a classroom laboratory manual. 3rd ed. Amsterdam: Elsevier /Academic Press, 2012. ISBN 9780123855459"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:28:12",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

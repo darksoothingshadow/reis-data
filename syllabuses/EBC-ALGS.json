@@ -1,0 +1,593 @@
+{
+  "courseCode": "EBC-ALGS",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-ALGS"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Algoritmizace – skriptování"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Algorithmization – scripting"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Jan Turčínek, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jan Turčínek, Ph.D. (garant, přednášející, tutor, zkoušející)Ing. Pavel Turčínek, Ph.D. (cvičící)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do algoritmizace (dotace 2/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Metody návrhu algoritmů (dotace 2/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Základní stavební struktury, Jazyk vývojových diagramů, výrazy (dotace 4/4)"
+    },
+    {
+      "label": "4.",
+      "content": "Jednoduché algoritmy (dotace 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Algoritmy nad číselnými řadami (dotace 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Seznámení se skriptovacím jazykem Python, převod algoritmů do programovacícho jazyka (dotace 2/2)"
+    },
+    {
+      "label": "7.",
+      "content": "Algoritmy nad indexovanými proměnnými (seznamy, řetězce) (dotace 2/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Podprogramy (dotace 4/4)"
+    },
+    {
+      "label": "9.",
+      "content": "Zpracování vstupů (textové soubory) (dotace 4/4)"
+    },
+    {
+      "label": "10.",
+      "content": "Algoritmy nad strukturovanými proměnnými (seznamy, množiny) (dotace 4/4)"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2023/2024, ZS 2022/2023, ZS 2021/2022, ZS 2020/2021, ZS 2019/2020 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Algoritmizace – skriptování"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Algorithmization – scripting"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Jan Turčínek, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jan Turčínek, Ph.D. (garant, přednášející, tutor, zkoušející)Ing. Pavel Turčínek, Ph.D. (cvičící)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkSkupinaVyučujícíAkceČetnostKapacitaÚterý11.00-12.50Q15B-AII 123 J. TurčínekPřednáškaKaždý týden80Úterý15.00-16.50Q08B-AII 1231 P. TurčínekCvičeníKaždý týden23Středa13.00-14.50Q08B-AII 1232 P. TurčínekCvičeníKaždý týden23Pátek14.00-14.50Q23B-AIIB-AII1251 J. TurčínekPřednáškaNepravidelně38"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Naučit strukturovaně přemýšlet, Získání základních analytických schopností v oblasti popisu procesů (řešení problémů), Seznámení se základními způsoby zápisu Algoritmů (přirozený jazyk, graficky), Prohloubit Algoritmické dovednosti získané v předchozím předmětu, Naučit realizaci algoritmů ve vybraném skriptovacím jazyku."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do algoritmizace (dotace 2/2)2.Metody návrhu algoritmů (dotace 2/2)3.Základní stavební struktury, Jazyk vývojových diagramů, výrazy (dotace 4/4)4.Jednoduché algoritmy (dotace 2/2)5.Algoritmy nad číselnými řadami (dotace 2/2)6.Seznámení se skriptovacím jazykem Python, převod algoritmů do programovacícho jazyka (dotace 2/2)7.Algoritmy nad indexovanými proměnnými (seznamy, řetězce) (dotace 2/2)8.Podprogramy (dotace 4/4)9.Zpracování vstupů (textové soubory) (dotace 4/4)10.Algoritmy nad strukturovanými proměnnými (seznamy, množiny) (dotace 4/4)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Metody návrhu algoritmů (dotace 2/2)"
+    },
+    {
+      "label": "[section] Úvod do algoritmizace",
+      "content": "2.Metody návrhu algoritmů (dotace 2/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Základní stavební struktury, Jazyk vývojových diagramů, výrazy (dotace 4/4)"
+    },
+    {
+      "label": "[section] Metody návrhu algoritmů",
+      "content": "3.Základní stavební struktury, Jazyk vývojových diagramů, výrazy (dotace 4/4)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Jednoduché algoritmy (dotace 2/2)"
+    },
+    {
+      "label": "[section] Základní stavební struktury, Jazyk vývojových diagramů, výrazy",
+      "content": "4.Jednoduché algoritmy (dotace 2/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Algoritmy nad číselnými řadami (dotace 2/2)"
+    },
+    {
+      "label": "[section] Jednoduché algoritmy",
+      "content": "5.Algoritmy nad číselnými řadami (dotace 2/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Seznámení se skriptovacím jazykem Python, převod algoritmů do programovacícho jazyka (dotace 2/2)"
+    },
+    {
+      "label": "[section] Algoritmy nad číselnými řadami",
+      "content": "6.Seznámení se skriptovacím jazykem Python, převod algoritmů do programovacícho jazyka (dotace 2/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Algoritmy nad indexovanými proměnnými (seznamy, řetězce) (dotace 2/2)"
+    },
+    {
+      "label": "[section] Seznámení se skriptovacím jazykem Python, převod algoritmů do programovacícho jazyka",
+      "content": "7.Algoritmy nad indexovanými proměnnými (seznamy, řetězce) (dotace 2/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Podprogramy (dotace 4/4)"
+    },
+    {
+      "label": "[section] Algoritmy nad indexovanými proměnnými (seznamy, řetězce)",
+      "content": "8.Podprogramy (dotace 4/4)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Zpracování vstupů (textové soubory) (dotace 4/4)"
+    },
+    {
+      "label": "[section] Podprogramy",
+      "content": "9.Zpracování vstupů (textové soubory) (dotace 4/4)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Algoritmy nad strukturovanými proměnnými (seznamy, množiny) (dotace 4/4)"
+    },
+    {
+      "label": "[section] Zpracování vstupů (textové soubory)",
+      "content": "10.Algoritmy nad strukturovanými proměnnými (seznamy, množiny) (dotace 4/4)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení28 h0 hkonzultace10 h50 hprojektová práce32 h32 hpříprava na zkoušku50 h50 hpříprava na průběžný test20 h20 hCelkem168 h168 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Předmět je ukončen zkouškou. Náplní zkoušky bude ověření schopnosti algoritmicky uvažovat a dovednosti vytvořit funkční skript ve vybraném skriptovacím jazyce. Forma zkoušky bude písemná. V průběhu semestru studenti píší jeden průběžný test, na 40 bodů. Závěrečná písemná zkouška je na 60 bodů. Celkové skóre je dáno součtem skóre průběžného testů a závěrečné zkoušky (maximum 100 bodů). A (alespoň 90 bodů), B (83 bodů), C (75 bodů), D (68 bodů), E (60 bodů)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAbsolvování průběžného testu (testů)40 %40 %Absolvování závěrečného testu60 %60 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:TURČÍNEK, Jan. 2018. Algoritmizace a skriptován. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-646-3. Algoritmizace. 1999. 1. vyd. Brno: Konvoj, 75 s. ISBN 80-85615-80-0.HYLMAN, Radek. 2012. Programování pro úplné začátečníky. Brno: Comuper Press, ISBN 978-80-251-2129-0.SUMMERFIELD, Mark. 2010. Python 3: výukový kurz. Brno: Computer Press, ISBN 978-80-251-2737-7.Doporučená:Python Tutorial [online]. W3Schools, ©Copyright2001-2018. Dostupné také z: https://www.w3schools.com/python/Python 3.7.1 documentation [online]. Python Software Foundation, ©Copyright2001-2018. Dostupné také z: https://docs.python.org/3/"
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "TURČÍNEK, Jan. 2018. Algoritmizace a skriptován. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-646-3. Algoritmizace. 1999. 1. vyd. Brno: Konvoj, 75 s. ISBN 80-85615-80-0.HYLMAN, Radek. 2012. Programování pro úplné začátečníky. Brno: Comuper Press, ISBN 978-80-251-2129-0.SUMMERFIELD, Mark. 2010. Python 3: výukový kurz. Brno: Computer Press, ISBN 978-80-251-2737-7."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "Python Tutorial [online]. W3Schools, ©Copyright2001-2018. Dostupné také z: https://www.w3schools.com/python/Python 3.7.1 documentation [online]. Python Software Foundation, ©Copyright2001-2018. Dostupné také z: https://docs.python.org/3/"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-AII Administrace IS/ICT, kombinovaná forma, počáteční období ZS 2024/2025Program B-AII Administrace IS/ICT, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-ALGS"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Algoritmizace – skriptování"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Algorithmization – scripting"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Jan Turčínek, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jan Turčínek, Ph.D. (examiner, lecturer, supervisor, tutor)Ing. Pavel Turčínek, Ph.D. (instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to algorithmization (allowance 2/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Methods of algorithm design (allowance 2/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Basic building structures, Flowchart language, expressions (allowance 4/4)"
+    },
+    {
+      "label": "4.",
+      "content": "Simple algorithms (allowance 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Numeric series algorithms (allowance 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Introduction to scripting language Python, conversion of algorithms into programming language (allowance 2/2)"
+    },
+    {
+      "label": "7.",
+      "content": "Algorithms over indexed variables (lists, strings) (allowance 2/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Subprograms (allowance 4/4)"
+    },
+    {
+      "label": "9.",
+      "content": "Input Processing (Text Files) (allowance 4/4)"
+    },
+    {
+      "label": "10.",
+      "content": "Structured Variable Algorithms (Lists, Sets) (allowance 4/4)"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2023/2024, WS 2022/2023, WS 2021/2022, WS 2020/2021, WS 2019/2020 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Algoritmizace – skriptování"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Algorithmization – scripting"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Jan Turčínek, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jan Turčínek, Ph.D. (examiner, lecturer, supervisor, tutor)Ing. Pavel Turčínek, Ph.D. (instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyGroupTeacherEntryFrequencyCapacityTuesday11.00-12.50Q15B-AII 123 J. TurčínekLectureEvery week80Tuesday15.00-16.50Q08B-AII 1231 P. TurčínekSeminarEvery week23Wednesday13.00-14.50Q08B-AII 1232 P. TurčínekSeminarEvery week23Friday14.00-14.50Q23B-AIIB-AII1251 J. TurčínekLectureOccasionally38"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "To teach structured thinking, obtain basic analytical abilities in the field of process description (problem solving), introduction to basic ways of writing Algorithms, expending Algorithmic skills acquired in the previous subject, To teach the implementation of algorithms in selected scripting language."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to algorithmization (allowance 2/2)2.Methods of algorithm design (allowance 2/2)3.Basic building structures, Flowchart language, expressions (allowance 4/4)4.Simple algorithms (allowance 2/2)5.Numeric series algorithms (allowance 2/2)6.Introduction to scripting language Python, conversion of algorithms into programming language (allowance 2/2)7.Algorithms over indexed variables (lists, strings) (allowance 2/2)8.Subprograms (allowance 4/4)9.Input Processing (Text Files) (allowance 4/4)10.Structured Variable Algorithms (Lists, Sets) (allowance 4/4)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Methods of algorithm design (allowance 2/2)"
+    },
+    {
+      "label": "[section] Introduction to algorithmization",
+      "content": "2.Methods of algorithm design (allowance 2/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Basic building structures, Flowchart language, expressions (allowance 4/4)"
+    },
+    {
+      "label": "[section] Methods of algorithm design",
+      "content": "3.Basic building structures, Flowchart language, expressions (allowance 4/4)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Simple algorithms (allowance 2/2)"
+    },
+    {
+      "label": "[section] Basic building structures, Flowchart language, expressions",
+      "content": "4.Simple algorithms (allowance 2/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Numeric series algorithms (allowance 2/2)"
+    },
+    {
+      "label": "[section] Simple algorithms",
+      "content": "5.Numeric series algorithms (allowance 2/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Introduction to scripting language Python, conversion of algorithms into programming language (allowance 2/2)"
+    },
+    {
+      "label": "[section] Numeric series algorithms",
+      "content": "6.Introduction to scripting language Python, conversion of algorithms into programming language (allowance 2/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Algorithms over indexed variables (lists, strings) (allowance 2/2)"
+    },
+    {
+      "label": "[section] Introduction to scripting language Python, conversion of algorithms into programming language",
+      "content": "7.Algorithms over indexed variables (lists, strings) (allowance 2/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Subprograms (allowance 4/4)"
+    },
+    {
+      "label": "[section] Algorithms over indexed variables (lists, strings)",
+      "content": "8.Subprograms (allowance 4/4)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Input Processing (Text Files) (allowance 4/4)"
+    },
+    {
+      "label": "[section] Subprograms",
+      "content": "9.Input Processing (Text Files) (allowance 4/4)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Structured Variable Algorithms (Lists, Sets) (allowance 4/4)"
+    },
+    {
+      "label": "[section] Input Processing (Text Files)",
+      "content": "10.Structured Variable Algorithms (Lists, Sets) (allowance 4/4)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice28 h0 hconsultation10 h50 hproject work32 h32 hpreparation for exam50 h50 hpreparation for regular testing20 h20 hTotal168 h168 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "The course is finished by an exam. The content of the exam will be verification of the ability to think algorithmically and skills to create a functional script in the selected scripting language. The examination form will be written. During the semester, students write one continuous test (for 40 points). The final written exam is 60 points. The total score is given by the sum of the scores of the continuous test and the final exam (maximum 100 points)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formMid-term test(s)40 %40 %Final test60 %60 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:TURČÍNEK, Jan. 2018. Algoritmizace a skriptován. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-646-3. Algoritmizace. 1999. 1st ed. Brno: Konvoj, 75 p. ISBN 80-85615-80-0.HYLMAN, Radek. 2012. Programování pro úplné začátečníky. Brno: Comuper Press, ISBN 978-80-251-2129-0.SUMMERFIELD, Mark. 2010. Python 3: výukový kurz. Brno: Computer Press, ISBN 978-80-251-2737-7.Recommended:Python Tutorial [online]. W3Schools, ©Copyright2001-2018. Dostupné také z: https://www.w3schools.com/python/Python 3.7.1 documentation [online]. Python Software Foundation, ©Copyright2001-2018. Dostupné také z: https://docs.python.org/3/"
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "TURČÍNEK, Jan. 2018. Algoritmizace a skriptován. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-646-3. Algoritmizace. 1999. 1st ed. Brno: Konvoj, 75 p. ISBN 80-85615-80-0.HYLMAN, Radek. 2012. Programování pro úplné začátečníky. Brno: Comuper Press, ISBN 978-80-251-2129-0.SUMMERFIELD, Mark. 2010. Python 3: výukový kurz. Brno: Computer Press, ISBN 978-80-251-2737-7."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "Python Tutorial [online]. W3Schools, ©Copyright2001-2018. Dostupné také z: https://www.w3schools.com/python/Python 3.7.1 documentation [online]. Python Software Foundation, ©Copyright2001-2018. Dostupné také z: https://docs.python.org/3/"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-AII Administration IS/ICT, part-time form, initial period WS 2024/2025Programme B-AII Administration IS/ICT, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:38:05",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

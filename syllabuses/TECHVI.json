@@ -1,0 +1,1181 @@
+{
+  "courseCode": "TECHVI",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "TECHVI"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Techniky vizualizace"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Visualization Techniques"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zápočet (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 0/6 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "konzultační"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat distanční formou."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Tomáš Mikulec"
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav designu a nábytku (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. arch. Vladimír Haltof, Ph.D. (cvičící, přednášející, tutor, zkoušející)Ing. Tomáš Mikulec (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do principů 3D modelování a vizualizace. Technologie a pojmy používané ve 3D grafice. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Vstupní test."
+    },
+    {
+      "label": "b.",
+      "content": "Souborové formáty používané pro statické snímky i animace, ztrátová a neztrátová komprese, kontejner, alfa kanál, RGB, CMYK."
+    },
+    {
+      "label": "c.",
+      "content": "Polygonové modelování, mesh smooth, objemové modelování, parametrické modelování, voxely, NURBS."
+    },
+    {
+      "label": "d.",
+      "content": "Pixel, phongovo stínování, antialiasing, index refrakce, fresnel, kaustika, treshold."
+    },
+    {
+      "label": "e.",
+      "content": "Mapování, bump mapa, normálová mapa, displacement mapa, UVW, procedurální textura."
+    },
+    {
+      "label": "f.",
+      "content": "Kamera, ohnisková vzdálenost, expozice, vinětace, bokeh, aberace, hloubka ostrosti, motion blur, diffuse glow."
+    },
+    {
+      "label": "g.",
+      "content": "Osvětlení, HDRI, Shadow mapy, plošné stíny."
+    },
+    {
+      "label": "h.",
+      "content": "Raytracing, globální osvětlení, ambient occlusion, color bleeding."
+    },
+    {
+      "label": "2.",
+      "content": "Seznámení s programem Rhinoceros, přizpůsobení programu a dokumentu. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Palety, ikony, plovoucí paleta."
+    },
+    {
+      "label": "b.",
+      "content": "Pohledy, přizpůsobení vlastností pohledů, parametry zobrazení, uživatelské pohledy, vícemonitorové zobrazení."
+    },
+    {
+      "label": "c.",
+      "content": "Jednotky, tolerance."
+    },
+    {
+      "label": "d.",
+      "content": "Nový dokument, otevírání a ukládání souborů, import a export."
+    },
+    {
+      "label": "e.",
+      "content": "Podporované souborové formáty a jejich použití."
+    },
+    {
+      "label": "3.",
+      "content": "Základy práce práce v programu Rhinoceros. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Funkce tlačítek myši."
+    },
+    {
+      "label": "b.",
+      "content": "Možnosti výběru objektů."
+    },
+    {
+      "label": "c.",
+      "content": "Práce s příkazovým řádkem, způsoby používání příkazů a zadávání parametrů."
+    },
+    {
+      "label": "d.",
+      "content": "Klávesové zkratky, aliasy."
+    },
+    {
+      "label": "e.",
+      "content": "Uchopování, orto, mřížka, režim promítání, Gumball."
+    },
+    {
+      "label": "f.",
+      "content": "Možnosti viditelnosti a uzamykání objektů."
+    },
+    {
+      "label": "g.",
+      "content": "Vlastnosti objektů, barvy, materiály, typy čar, zobrazení izočar, vlastní mesh, podrobné informace o objektech."
+    },
+    {
+      "label": "h.",
+      "content": "Práce s vrstvami, hierarchie vrstev, vlastnosti vrstev."
+    },
+    {
+      "label": "i.",
+      "content": "Konstrukční roviny, uživatelské konstrukční roviny."
+    },
+    {
+      "label": "j.",
+      "content": "Historie a konstrukční historie."
+    },
+    {
+      "label": "k.",
+      "content": "Seskupování a napojování objektů."
+    },
+    {
+      "label": "4.",
+      "content": "Objemové modelování. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Charakteristika objemových těles."
+    },
+    {
+      "label": "b.",
+      "content": "Vytváření základních geometrických těles."
+    },
+    {
+      "label": "c.",
+      "content": "Transformace objektů."
+    },
+    {
+      "label": "d.",
+      "content": "Logické operace mezi základními geometrickými tělesy (boolean operace)."
+    },
+    {
+      "label": "e.",
+      "content": "Úpravy základních geometrických těles."
+    },
+    {
+      "label": "5.",
+      "content": "Křivkové objekty. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Vlastnosti a typy křivkových objektů."
+    },
+    {
+      "label": "b.",
+      "content": "Vytváření křivkových objektů."
+    },
+    {
+      "label": "c.",
+      "content": "Editace křivkových objektů."
+    },
+    {
+      "label": "d.",
+      "content": "Nástroje pro úpravy křivkových objektů."
+    },
+    {
+      "label": "e.",
+      "content": "Analýza křivkových objektů a nástroje pro pokročilou úpravu křivkových objektů."
+    },
+    {
+      "label": "6.",
+      "content": "Obecné plochy. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Vlastnosti a typy obecných ploch."
+    },
+    {
+      "label": "b.",
+      "content": "Vytváření obecných ploch."
+    },
+    {
+      "label": "c.",
+      "content": "Nástroje pro úpravy obecných ploch."
+    },
+    {
+      "label": "d.",
+      "content": "SubD plochy, vytváření a úpravy."
+    },
+    {
+      "label": "e.",
+      "content": "Analýza obecných ploch a nástroje pro pokročilou úpravu ploch."
+    },
+    {
+      "label": "7.",
+      "content": "Nástroje pro vytváření výkresové dokumentace. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Kótování, úpravy vlastností kót, kótovací styly."
+    },
+    {
+      "label": "b.",
+      "content": "Šrafování, úpravy šraf, vytváření vlastních typů šraf."
+    },
+    {
+      "label": "c.",
+      "content": "Typy čar, možnosti úprav vlastností typů čar a vytváření vlastních typů čar."
+    },
+    {
+      "label": "d.",
+      "content": "Vytváření 2D geometrie z 3D objektů, generování čárovek, promítání, vytváření řezů."
+    },
+    {
+      "label": "e.",
+      "content": "Tisk, export do digitálních publikačních formátů."
+    },
+    {
+      "label": "8.",
+      "content": "Práce s bloky a navázanými soubory. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam použití bloků a externích referencí, typy bloků v programu Rhinoceros."
+    },
+    {
+      "label": "b.",
+      "content": "Vytváření bloků."
+    },
+    {
+      "label": "c.",
+      "content": "Editace bloků."
+    },
+    {
+      "label": "d.",
+      "content": "Práce s externími soubory."
+    },
+    {
+      "label": "e.",
+      "content": "Současná práce na větším počtu otevřených souborů."
+    },
+    {
+      "label": "9.",
+      "content": "Práce s polygonovými objekty. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní charakteristiky a vlastnosti polygonových sítí."
+    },
+    {
+      "label": "b.",
+      "content": "Generování polygonových sítí z existujících objektů, význam jednotlivých parametrů."
+    },
+    {
+      "label": "c.",
+      "content": "Příprava dat pro 3D tisk nebo CNC, export."
+    },
+    {
+      "label": "d.",
+      "content": "Souborové formáty pro export polygonových sítí."
+    },
+    {
+      "label": "10.",
+      "content": "Workflow při vytváření produkčního 3D modelu v programu Rhinoceros. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Metody vytváření objektů dle předlohy nebo dokumentace."
+    },
+    {
+      "label": "b.",
+      "content": "Práce s 3D skenovanou předlohou, import, modifikace polygonové sítě."
+    },
+    {
+      "label": "c.",
+      "content": "Integrace externích součástí do projektu."
+    },
+    {
+      "label": "d.",
+      "content": "Souborové formáty a metody práce při výměně dat s jinými platformami (2D i 3D)."
+    },
+    {
+      "label": "11.",
+      "content": "Vizualizace v programu Rhinoceros. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Materiály – úprava parametrů, bitmapové nebo procedurální textury, mapování."
+    },
+    {
+      "label": "b.",
+      "content": "Světla – typy světel a jejich parametry, typy stínů a jejich parametry."
+    },
+    {
+      "label": "c.",
+      "content": "Kamera – typy kamer a jejich parametry."
+    },
+    {
+      "label": "d.",
+      "content": "Základy stylizovaného renderování v programu Rhinoceros."
+    },
+    {
+      "label": "e.",
+      "content": "Základy realistického renderování v programu Rhinoceros. Parametery nastavení renderingu."
+    },
+    {
+      "label": "f.",
+      "content": "Přehled používaných externích vizualizačních plug–inů a real–time vizualizačních aplikací."
+    },
+    {
+      "label": "g.",
+      "content": "Základy animace, otočný stůl, oblet, průlet, studie osvětlení."
+    },
+    {
+      "label": "12.",
+      "content": "Základy práce v aplikaci 3ds Max. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Seznámení s prostředím programu, přizpůsobení, funkce tlačítek myši, základní klávesové zkratky."
+    },
+    {
+      "label": "b.",
+      "content": "Import geometrie vytvořené v jiné aplikaci."
+    },
+    {
+      "label": "c.",
+      "content": "Vytváření a editace vlastní geometrie, typy objektů, subobjektů a možnosti práce s nimi."
+    },
+    {
+      "label": "d.",
+      "content": "Konstrukční historie, použití modifikátorů."
+    },
+    {
+      "label": "13.",
+      "content": "Vizualizace v aplikaci 3ds Max. (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Materiály, úprava parametrů, bitmapové nebo procedurální textury, mapování."
+    },
+    {
+      "label": "d.",
+      "content": "Nastavení renderingu – rozlišení, parametry ovlivňující kvalitu a dobu výpočtu."
+    },
+    {
+      "label": "e.",
+      "content": "Základy animace – keyframová animace, princip a běžné způsoby použití."
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022, ZS 2020/2021, ZS 2019/2020 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Techniky vizualizace"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Visualization Techniques"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zápočet (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/6 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zápočet (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/6 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: konzultační"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat distanční formou."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Tomáš Mikulec"
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav designu a nábytku (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. arch. Vladimír Haltof, Ph.D. (cvičící, přednášející, tutor, zkoušející)Ing. Tomáš Mikulec (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je seznámení se základními postupy práce v programech určených pro 3D modelování a vizualizaci produktů a interiérů v tvůrčích oborech. Předpokládají se elementární znalosti práce s PC v systému Windows a alespoň základní znalosti práce s rastrovou 2D grafikou. Výhodou jsou jakékoli zkušenosti s počítačovou 3D grafikou."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do principů 3D modelování a vizualizace. Technologie a pojmy používané ve 3D grafice. (dotace 0/0) a.Vstupní test.b.Souborové formáty používané pro statické snímky i animace, ztrátová a neztrátová komprese, kontejner, alfa kanál, RGB, CMYK.c.Polygonové modelování, mesh smooth, objemové modelování, parametrické modelování, voxely, NURBS.d.Pixel, phongovo stínování, antialiasing, index refrakce, fresnel, kaustika, treshold.e.Mapování, bump mapa, normálová mapa, displacement mapa, UVW, procedurální textura.f.Kamera, ohnisková vzdálenost, expozice, vinětace, bokeh, aberace, hloubka ostrosti, motion blur, diffuse glow.g.Osvětlení, HDRI, Shadow mapy, plošné stíny.h.Raytracing, globální osvětlení, ambient occlusion, color bleeding.2.Seznámení s programem Rhinoceros, přizpůsobení programu a dokumentu. (dotace 0/0) a.Palety, ikony, plovoucí paleta.b.Pohledy, přizpůsobení vlastností pohledů, parametry zobrazení, uživatelské pohledy, vícemonitorové zobrazení.c.Jednotky, tolerance.d.Nový dokument, otevírání a ukládání souborů, import a export.e.Podporované souborové formáty a jejich použití.3.Základy práce práce v programu Rhinoceros. (dotace 0/0) a.Funkce tlačítek myši.b.Možnosti výběru objektů.c.Práce s příkazovým řádkem, způsoby používání příkazů a zadávání parametrů.d.Klávesové zkratky, aliasy.e.Uchopování, orto, mřížka, režim promítání, Gumball.f.Možnosti viditelnosti a uzamykání objektů.g.Vlastnosti objektů, barvy, materiály, typy čar, zobrazení izočar, vlastní mesh, podrobné informace o objektech.h.Práce s vrstvami, hierarchie vrstev, vlastnosti vrstev.i.Konstrukční roviny, uživatelské konstrukční roviny.j.Historie a konstrukční historie.k.Seskupování a napojování objektů.4.Objemové modelování. (dotace 0/0) a.Charakteristika objemových těles.b.Vytváření základních geometrických těles.c.Transformace objektů.d.Logické operace mezi základními geometrickými tělesy (boolean operace).e.Úpravy základních geometrických těles.5.Křivkové objekty. (dotace 0/0) a.Vlastnosti a typy křivkových objektů.b.Vytváření křivkových objektů.c.Editace křivkových objektů.d.Nástroje pro úpravy křivkových objektů.e.Analýza křivkových objektů a nástroje pro pokročilou úpravu křivkových objektů.6.Obecné plochy. (dotace 0/0) a.Vlastnosti a typy obecných ploch.b.Vytváření obecných ploch.c.Nástroje pro úpravy obecných ploch.d.SubD plochy, vytváření a úpravy.e.Analýza obecných ploch a nástroje pro pokročilou úpravu ploch.7.Nástroje pro vytváření výkresové dokumentace. (dotace 0/0) a.Kótování, úpravy vlastností kót, kótovací styly.b.Šrafování, úpravy šraf, vytváření vlastních typů šraf.c.Typy čar, možnosti úprav vlastností typů čar a vytváření vlastních typů čar.d.Vytváření 2D geometrie z 3D objektů, generování čárovek, promítání, vytváření řezů.e.Tisk, export do digitálních publikačních formátů.8.Práce s bloky a navázanými soubory. (dotace 0/0) a.Význam použití bloků a externích referencí, typy bloků v programu Rhinoceros.b.Vytváření bloků.c.Editace bloků.d.Práce s externími soubory.e.Současná práce na větším počtu otevřených souborů.9.Práce s polygonovými objekty. (dotace 0/0) a.Základní charakteristiky a vlastnosti polygonových sítí.b.Generování polygonových sítí z existujících objektů, význam jednotlivých parametrů.c.Příprava dat pro 3D tisk nebo CNC, export.d.Souborové formáty pro export polygonových sítí.10.Workflow při vytváření produkčního 3D modelu v programu Rhinoceros. (dotace 0/0) a.Metody vytváření objektů dle předlohy nebo dokumentace.b.Práce s 3D skenovanou předlohou, import, modifikace polygonové sítě.c.Integrace externích součástí do projektu.d.Souborové formáty a metody práce při výměně dat s jinými platformami (2D i 3D).11.Vizualizace v programu Rhinoceros. (dotace 0/0) a.Materiály – úprava parametrů, bitmapové nebo procedurální textury, mapování.b.Světla – typy světel a jejich parametry, typy stínů a jejich parametry.c.Kamera – typy kamer a jejich parametry.d.Základy stylizovaného renderování v programu Rhinoceros.e.Základy realistického renderování v programu Rhinoceros. Parametery nastavení renderingu.f.Přehled používaných externích vizualizačních plug–inů a real–time vizualizačních aplikací.g.Základy animace, otočný stůl, oblet, průlet, studie osvětlení.12.Základy práce v aplikaci 3ds Max. (dotace 0/0) a.Seznámení s prostředím programu, přizpůsobení, funkce tlačítek myši, základní klávesové zkratky.b.Import geometrie vytvořené v jiné aplikaci.c.Vytváření a editace vlastní geometrie, typy objektů, subobjektů a možnosti práce s nimi.d.Konstrukční historie, použití modifikátorů.13.Vizualizace v aplikaci 3ds Max. (dotace 0/0) a.Materiály, úprava parametrů, bitmapové nebo procedurální textury, mapování.b.Světla – typy světel a jejich parametry, typy stínů a jejich parametry.c.Kamera – typy kamer a jejich parametry.d.Nastavení renderingu – rozlišení, parametry ovlivňující kvalitu a dobu výpočtu.e.Základy animace – keyframová animace, princip a běžné způsoby použití."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Vstupní test.b.Souborové formáty používané pro statické snímky i animace, ztrátová a neztrátová komprese, kontejner, alfa kanál, RGB, CMYK.c.Polygonové modelování, mesh smooth, objemové modelování, parametrické modelování, voxely, NURBS.d.Pixel, phongovo stínování, antialiasing, index refrakce, fresnel, kaustika, treshold.e.Mapování, bump mapa, normálová mapa, displacement mapa, UVW, procedurální textura.f.Kamera, ohnisková vzdálenost, expozice, vinětace, bokeh, aberace, hloubka ostrosti, motion blur, diffuse glow.g.Osvětlení, HDRI, Shadow mapy, plošné stíny.h.Raytracing, globální osvětlení, ambient occlusion, color bleeding."
+    },
+    {
+      "label": "[section] Úvod do principů 3D modelování a vizualizace. Technologie a pojmy používané ve 3D grafice.",
+      "content": "a.Vstupní test.b.Souborové formáty používané pro statické snímky i animace, ztrátová a neztrátová komprese, kontejner, alfa kanál, RGB, CMYK.c.Polygonové modelování, mesh smooth, objemové modelování, parametrické modelování, voxely, NURBS.d.Pixel, phongovo stínování, antialiasing, index refrakce, fresnel, kaustika, treshold.e.Mapování, bump mapa, normálová mapa, displacement mapa, UVW, procedurální textura.f.Kamera, ohnisková vzdálenost, expozice, vinětace, bokeh, aberace, hloubka ostrosti, motion blur, diffuse glow.g.Osvětlení, HDRI, Shadow mapy, plošné stíny.h.Raytracing, globální osvětlení, ambient occlusion, color bleeding."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Palety, ikony, plovoucí paleta.b.Pohledy, přizpůsobení vlastností pohledů, parametry zobrazení, uživatelské pohledy, vícemonitorové zobrazení.c.Jednotky, tolerance.d.Nový dokument, otevírání a ukládání souborů, import a export.e.Podporované souborové formáty a jejich použití."
+    },
+    {
+      "label": "[section] Seznámení s programem Rhinoceros, přizpůsobení programu a dokumentu.",
+      "content": "a.Palety, ikony, plovoucí paleta.b.Pohledy, přizpůsobení vlastností pohledů, parametry zobrazení, uživatelské pohledy, vícemonitorové zobrazení.c.Jednotky, tolerance.d.Nový dokument, otevírání a ukládání souborů, import a export.e.Podporované souborové formáty a jejich použití."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Funkce tlačítek myši.b.Možnosti výběru objektů.c.Práce s příkazovým řádkem, způsoby používání příkazů a zadávání parametrů.d.Klávesové zkratky, aliasy.e.Uchopování, orto, mřížka, režim promítání, Gumball.f.Možnosti viditelnosti a uzamykání objektů.g.Vlastnosti objektů, barvy, materiály, typy čar, zobrazení izočar, vlastní mesh, podrobné informace o objektech.h.Práce s vrstvami, hierarchie vrstev, vlastnosti vrstev.i.Konstrukční roviny, uživatelské konstrukční roviny.j.Historie a konstrukční historie.k.Seskupování a napojování objektů."
+    },
+    {
+      "label": "[section] Základy práce práce v programu Rhinoceros.",
+      "content": "a.Funkce tlačítek myši.b.Možnosti výběru objektů.c.Práce s příkazovým řádkem, způsoby používání příkazů a zadávání parametrů.d.Klávesové zkratky, aliasy.e.Uchopování, orto, mřížka, režim promítání, Gumball.f.Možnosti viditelnosti a uzamykání objektů.g.Vlastnosti objektů, barvy, materiály, typy čar, zobrazení izočar, vlastní mesh, podrobné informace o objektech.h.Práce s vrstvami, hierarchie vrstev, vlastnosti vrstev.i.Konstrukční roviny, uživatelské konstrukční roviny.j.Historie a konstrukční historie.k.Seskupování a napojování objektů."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Charakteristika objemových těles.b.Vytváření základních geometrických těles.c.Transformace objektů.d.Logické operace mezi základními geometrickými tělesy (boolean operace).e.Úpravy základních geometrických těles."
+    },
+    {
+      "label": "[section] Objemové modelování.",
+      "content": "a.Charakteristika objemových těles.b.Vytváření základních geometrických těles.c.Transformace objektů.d.Logické operace mezi základními geometrickými tělesy (boolean operace).e.Úpravy základních geometrických těles."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Vlastnosti a typy křivkových objektů.b.Vytváření křivkových objektů.c.Editace křivkových objektů.d.Nástroje pro úpravy křivkových objektů.e.Analýza křivkových objektů a nástroje pro pokročilou úpravu křivkových objektů."
+    },
+    {
+      "label": "[section] Křivkové objekty.",
+      "content": "a.Vlastnosti a typy křivkových objektů.b.Vytváření křivkových objektů.c.Editace křivkových objektů.d.Nástroje pro úpravy křivkových objektů.e.Analýza křivkových objektů a nástroje pro pokročilou úpravu křivkových objektů."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Vlastnosti a typy obecných ploch.b.Vytváření obecných ploch.c.Nástroje pro úpravy obecných ploch.d.SubD plochy, vytváření a úpravy.e.Analýza obecných ploch a nástroje pro pokročilou úpravu ploch."
+    },
+    {
+      "label": "[section] Obecné plochy.",
+      "content": "a.Vlastnosti a typy obecných ploch.b.Vytváření obecných ploch.c.Nástroje pro úpravy obecných ploch.d.SubD plochy, vytváření a úpravy.e.Analýza obecných ploch a nástroje pro pokročilou úpravu ploch."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Kótování, úpravy vlastností kót, kótovací styly.b.Šrafování, úpravy šraf, vytváření vlastních typů šraf.c.Typy čar, možnosti úprav vlastností typů čar a vytváření vlastních typů čar.d.Vytváření 2D geometrie z 3D objektů, generování čárovek, promítání, vytváření řezů.e.Tisk, export do digitálních publikačních formátů."
+    },
+    {
+      "label": "[section] Nástroje pro vytváření výkresové dokumentace.",
+      "content": "a.Kótování, úpravy vlastností kót, kótovací styly.b.Šrafování, úpravy šraf, vytváření vlastních typů šraf.c.Typy čar, možnosti úprav vlastností typů čar a vytváření vlastních typů čar.d.Vytváření 2D geometrie z 3D objektů, generování čárovek, promítání, vytváření řezů.e.Tisk, export do digitálních publikačních formátů."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Význam použití bloků a externích referencí, typy bloků v programu Rhinoceros.b.Vytváření bloků.c.Editace bloků.d.Práce s externími soubory.e.Současná práce na větším počtu otevřených souborů."
+    },
+    {
+      "label": "[section] Práce s bloky a navázanými soubory.",
+      "content": "a.Význam použití bloků a externích referencí, typy bloků v programu Rhinoceros.b.Vytváření bloků.c.Editace bloků.d.Práce s externími soubory.e.Současná práce na větším počtu otevřených souborů."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Základní charakteristiky a vlastnosti polygonových sítí.b.Generování polygonových sítí z existujících objektů, význam jednotlivých parametrů.c.Příprava dat pro 3D tisk nebo CNC, export.d.Souborové formáty pro export polygonových sítí."
+    },
+    {
+      "label": "[section] Práce s polygonovými objekty.",
+      "content": "a.Základní charakteristiky a vlastnosti polygonových sítí.b.Generování polygonových sítí z existujících objektů, význam jednotlivých parametrů.c.Příprava dat pro 3D tisk nebo CNC, export.d.Souborové formáty pro export polygonových sítí."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Metody vytváření objektů dle předlohy nebo dokumentace.b.Práce s 3D skenovanou předlohou, import, modifikace polygonové sítě.c.Integrace externích součástí do projektu.d.Souborové formáty a metody práce při výměně dat s jinými platformami (2D i 3D)."
+    },
+    {
+      "label": "[section] Workflow při vytváření produkčního 3D modelu v programu Rhinoceros.",
+      "content": "a.Metody vytváření objektů dle předlohy nebo dokumentace.b.Práce s 3D skenovanou předlohou, import, modifikace polygonové sítě.c.Integrace externích součástí do projektu.d.Souborové formáty a metody práce při výměně dat s jinými platformami (2D i 3D)."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Materiály – úprava parametrů, bitmapové nebo procedurální textury, mapování.b.Světla – typy světel a jejich parametry, typy stínů a jejich parametry.c.Kamera – typy kamer a jejich parametry.d.Základy stylizovaného renderování v programu Rhinoceros.e.Základy realistického renderování v programu Rhinoceros. Parametery nastavení renderingu.f.Přehled používaných externích vizualizačních plug–inů a real–time vizualizačních aplikací.g.Základy animace, otočný stůl, oblet, průlet, studie osvětlení."
+    },
+    {
+      "label": "[section] Vizualizace v programu Rhinoceros.",
+      "content": "a.Materiály – úprava parametrů, bitmapové nebo procedurální textury, mapování.b.Světla – typy světel a jejich parametry, typy stínů a jejich parametry.c.Kamera – typy kamer a jejich parametry.d.Základy stylizovaného renderování v programu Rhinoceros.e.Základy realistického renderování v programu Rhinoceros. Parametery nastavení renderingu.f.Přehled používaných externích vizualizačních plug–inů a real–time vizualizačních aplikací.g.Základy animace, otočný stůl, oblet, průlet, studie osvětlení."
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Seznámení s prostředím programu, přizpůsobení, funkce tlačítek myši, základní klávesové zkratky.b.Import geometrie vytvořené v jiné aplikaci.c.Vytváření a editace vlastní geometrie, typy objektů, subobjektů a možnosti práce s nimi.d.Konstrukční historie, použití modifikátorů."
+    },
+    {
+      "label": "[section] Základy práce v aplikaci 3ds Max.",
+      "content": "a.Seznámení s prostředím programu, přizpůsobení, funkce tlačítek myši, základní klávesové zkratky.b.Import geometrie vytvořené v jiné aplikaci.c.Vytváření a editace vlastní geometrie, typy objektů, subobjektů a možnosti práce s nimi.d.Konstrukční historie, použití modifikátorů."
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Materiály, úprava parametrů, bitmapové nebo procedurální textury, mapování.b.Světla – typy světel a jejich parametry, typy stínů a jejich parametry.c.Kamera – typy kamer a jejich parametry.d.Nastavení renderingu – rozlišení, parametry ovlivňující kvalitu a dobu výpočtu.e.Základy animace – keyframová animace, princip a běžné způsoby použití."
+    },
+    {
+      "label": "[section] Vizualizace v aplikaci 3ds Max.",
+      "content": "a.Materiály, úprava parametrů, bitmapové nebo procedurální textury, mapování.b.Světla – typy světel a jejich parametry, typy stínů a jejich parametry.c.Kamera – typy kamer a jejich parametry.d.Nastavení renderingu – rozlišení, parametry ovlivňující kvalitu a dobu výpočtu.e.Základy animace – keyframová animace, princip a běžné způsoby použití."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumCelkem0 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zápočet bude udělen na základě hodnocení: 1) dílčích samostatných úkolů zadaných v průběhu semestru týkajících se jednotlivých tematických bloků probírané látky, 2) samostatného úkolu v podobě 3D modelu a vizualizace interiérového prvku (produktová vizualizace), 3) samostatného úkolu v podobě 3D modelu a vizualizace jednoduchého interiéru (interiérová vizualizace). Odevzdání všech prací je vyžadováno v elektronické podobě (specifikace v zadání). Podmínkou udělení zápočtu je nejméně dostatečné hodnocení (50 %) všech zadaných dílčích i závěrečných zadání. Minimální účast na cvičeních je 80 %."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Doporučená:Rhino User's Guide for Windows - https://docs.mcneel.com/rhino/7/usersguide/en-us/index.htm3ds Max 2024 Help - https://help.autodesk.com/view/3DSMAX/2024/ENU/"
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "Rhino User's Guide for Windows - https://docs.mcneel.com/rhino/7/usersguide/en-us/index.htm3ds Max 2024 Help - https://help.autodesk.com/view/3DSMAX/2024/ENU/"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "TECHVI"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Techniky vizualizace"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Visualization Techniques"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Pass credit (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 0/6 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "consulting"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Tomáš Mikulec"
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Design and Furniture (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. arch. Vladimír Haltof, Ph.D. (examiner, instructor, lecturer, tutor)Ing. Tomáš Mikulec (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not State Bachelor Examination"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to 3D Modeling and Visualization. (allowance 0/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Technologies and concepts used in 3D graphics."
+    },
+    {
+      "label": "b.",
+      "content": "Principles of 3D modeling and visualization."
+    },
+    {
+      "label": "2.",
+      "content": "Modeling program. (allowance 0/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Program environment."
+    },
+    {
+      "label": "b.",
+      "content": "Philosophy of work."
+    },
+    {
+      "label": "c.",
+      "content": "Working with files."
+    },
+    {
+      "label": "d.",
+      "content": "Working with objects."
+    },
+    {
+      "label": "e.",
+      "content": "Program customization options."
+    },
+    {
+      "label": "f.",
+      "content": "Document customization options."
+    },
+    {
+      "label": "3.",
+      "content": "Program control. (allowance 0/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Entering parameters."
+    },
+    {
+      "label": "b.",
+      "content": "Selections."
+    },
+    {
+      "label": "c.",
+      "content": "Object properties."
+    },
+    {
+      "label": "d.",
+      "content": "Layers."
+    },
+    {
+      "label": "e.",
+      "content": "Coordinate system."
+    },
+    {
+      "label": "f.",
+      "content": "Snapping."
+    },
+    {
+      "label": "g.",
+      "content": "Construction history."
+    },
+    {
+      "label": "h.",
+      "content": "Custom views."
+    },
+    {
+      "label": "i.",
+      "content": "Custom coordinate systems."
+    },
+    {
+      "label": "j.",
+      "content": "Grouping and connecting objects."
+    },
+    {
+      "label": "4.",
+      "content": "Basic geometric objects. (allowance 0/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Creating basic geometric objects."
+    },
+    {
+      "label": "b.",
+      "content": "Modifications of basic geometric objects, boolean operations."
+    },
+    {
+      "label": "c.",
+      "content": "Additional editing options and creation of custom objects from basic geometric objects."
+    },
+    {
+      "label": "5.",
+      "content": "Curve objects. (allowance 0/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Creating curve objects."
+    },
+    {
+      "label": "b.",
+      "content": "Editing curve objects."
+    },
+    {
+      "label": "c.",
+      "content": "Editing tools for curve objects."
+    },
+    {
+      "label": "6.",
+      "content": "Surfaces. (allowance 0/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Creating surfaces."
+    },
+    {
+      "label": "b.",
+      "content": "Surface editing tools."
+    },
+    {
+      "label": "c.",
+      "content": "Principles and possibilities of creating continuity between surfaces."
+    },
+    {
+      "label": "7.",
+      "content": "Tools for creating 2D documentation. (allowance 0/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Creating a 2D drawing from a 3D model."
+    },
+    {
+      "label": "b.",
+      "content": "Annotation, dimensioning."
+    },
+    {
+      "label": "c.",
+      "content": "Hatching."
+    },
+    {
+      "label": "d.",
+      "content": "Export and print."
+    },
+    {
+      "label": "8.",
+      "content": "Blocks and external documents. (allowance 0/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Defining, editing and using blocks."
+    },
+    {
+      "label": "b.",
+      "content": "Types and ways of using external documents."
+    },
+    {
+      "label": "9.",
+      "content": "Polygon geometry. (allowance 0/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Options for using and editing polygon objects."
+    },
+    {
+      "label": "b.",
+      "content": "Generating polygon meshes from NURBS geometry."
+    },
+    {
+      "label": "c.",
+      "content": "Export polygon meshes."
+    },
+    {
+      "label": "d.",
+      "content": "Data preparation for 3D printing or CNC."
+    },
+    {
+      "label": "10.",
+      "content": "Creating objects according to a template or documentation. (allowance 0/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Work with orthogonal 2D templates (blueprints)."
+    },
+    {
+      "label": "b.",
+      "content": "Working with a 3D scanned model."
+    },
+    {
+      "label": "c.",
+      "content": "Integration of external components into the project."
+    },
+    {
+      "label": "11.",
+      "content": "Visualization within a modeling application. (allowance 0/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Overview of options for creating visualization outputs, visualization plug-ins, realtime and offline visualization applications."
+    },
+    {
+      "label": "b.",
+      "content": "Technical and technological parameters of rendering and output."
+    },
+    {
+      "label": "c.",
+      "content": "Realistic rendering. Scene settings, rendering algorithm settings."
+    },
+    {
+      "label": "d.",
+      "content": "Stylized rendering. Customizing output properties."
+    },
+    {
+      "label": "e.",
+      "content": "Simple animation."
+    },
+    {
+      "label": "12.",
+      "content": "External application to create visualizations. (allowance 0/12)"
+    },
+    {
+      "label": "a.",
+      "content": "Application environment, tools."
+    },
+    {
+      "label": "b.",
+      "content": "Import geometry."
+    },
+    {
+      "label": "c.",
+      "content": "Creating and editing geometry."
+    },
+    {
+      "label": "d.",
+      "content": "Scene, materials, lights, cameras, environment."
+    },
+    {
+      "label": "e.",
+      "content": "Animation."
+    },
+    {
+      "label": "f.",
+      "content": "Rendering parameters."
+    },
+    {
+      "label": "13.",
+      "content": "Individual project. (allowance 0/12)"
+    },
+    {
+      "label": "a.",
+      "content": "Assignment specification."
+    },
+    {
+      "label": "b.",
+      "content": "Preparation of documents."
+    },
+    {
+      "label": "c.",
+      "content": "Working on the interior element project."
+    },
+    {
+      "label": "d.",
+      "content": "Working on the interior project."
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022, WS 2020/2021, WS 2019/2020 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Techniky vizualizace"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Visualization Techniques"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Pass credit (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/6 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Pass credit (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/6 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: consulting"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Tomáš Mikulec"
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Design and Furniture (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. arch. Vladimír Haltof, Ph.D. (examiner, instructor, lecturer, tutor)Ing. Tomáš Mikulec (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not State Bachelor Examination"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to 3D Modeling and Visualization. (allowance 0/6) a.Technologies and concepts used in 3D graphics.b.Principles of 3D modeling and visualization.2.Modeling program. (allowance 0/6) a.Program environment.b.Philosophy of work.c.Working with files.d.Working with objects.e.Program customization options.f.Document customization options.3.Program control. (allowance 0/6) a.Entering parameters.b.Selections.c.Object properties.d.Layers.e.Coordinate system.f.Snapping.g.Construction history.h.Custom views.i.Custom coordinate systems.j.Grouping and connecting objects.4.Basic geometric objects. (allowance 0/3) a.Creating basic geometric objects.b.Modifications of basic geometric objects, boolean operations.c.Additional editing options and creation of custom objects from basic geometric objects.5.Curve objects. (allowance 0/6) a.Creating curve objects.b.Editing curve objects.c.Editing tools for curve objects.6.Surfaces. (allowance 0/6) a.Creating surfaces.b.Surface editing tools.c.Principles and possibilities of creating continuity between surfaces.7.Tools for creating 2D documentation. (allowance 0/3) a.Creating a 2D drawing from a 3D model.b.Annotation, dimensioning.c.Hatching.d.Export and print.8.Blocks and external documents. (allowance 0/3) a.Defining, editing and using blocks.b.Types and ways of using external documents.9.Polygon geometry. (allowance 0/3) a.Options for using and editing polygon objects.b.Generating polygon meshes from NURBS geometry.c.Export polygon meshes.d.Data preparation for 3D printing or CNC.10.Creating objects according to a template or documentation. (allowance 0/6) a.Work with orthogonal 2D templates (blueprints).b.Working with a 3D scanned model.c.Integration of external components into the project.11.Visualization within a modeling application. (allowance 0/6) a.Overview of options for creating visualization outputs, visualization plug-ins, realtime and offline visualization applications.b.Technical and technological parameters of rendering and output.c.Realistic rendering. Scene settings, rendering algorithm settings.d.Stylized rendering. Customizing output properties.e.Simple animation.12.External application to create visualizations. (allowance 0/12) a.Application environment, tools.b.Import geometry.c.Creating and editing geometry.d.Scene, materials, lights, cameras, environment.e.Animation.f.Rendering parameters.13.Individual project. (allowance 0/12) a.Assignment specification.b.Preparation of documents.c.Working on the interior element project.d.Working on the interior project."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Technologies and concepts used in 3D graphics.b.Principles of 3D modeling and visualization."
+    },
+    {
+      "label": "[section] Introduction to 3D Modeling and Visualization.",
+      "content": "a.Technologies and concepts used in 3D graphics.b.Principles of 3D modeling and visualization."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Program environment.b.Philosophy of work.c.Working with files.d.Working with objects.e.Program customization options.f.Document customization options."
+    },
+    {
+      "label": "[section] Modeling program.",
+      "content": "a.Program environment.b.Philosophy of work.c.Working with files.d.Working with objects.e.Program customization options.f.Document customization options."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Entering parameters.b.Selections.c.Object properties.d.Layers.e.Coordinate system.f.Snapping.g.Construction history.h.Custom views.i.Custom coordinate systems.j.Grouping and connecting objects."
+    },
+    {
+      "label": "[section] Program control.",
+      "content": "a.Entering parameters.b.Selections.c.Object properties.d.Layers.e.Coordinate system.f.Snapping.g.Construction history.h.Custom views.i.Custom coordinate systems.j.Grouping and connecting objects."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Creating basic geometric objects.b.Modifications of basic geometric objects, boolean operations.c.Additional editing options and creation of custom objects from basic geometric objects."
+    },
+    {
+      "label": "[section] Basic geometric objects.",
+      "content": "a.Creating basic geometric objects.b.Modifications of basic geometric objects, boolean operations.c.Additional editing options and creation of custom objects from basic geometric objects."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Creating curve objects.b.Editing curve objects.c.Editing tools for curve objects."
+    },
+    {
+      "label": "[section] Curve objects.",
+      "content": "a.Creating curve objects.b.Editing curve objects.c.Editing tools for curve objects."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Creating surfaces.b.Surface editing tools.c.Principles and possibilities of creating continuity between surfaces."
+    },
+    {
+      "label": "[section] Surfaces.",
+      "content": "a.Creating surfaces.b.Surface editing tools.c.Principles and possibilities of creating continuity between surfaces."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Creating a 2D drawing from a 3D model.b.Annotation, dimensioning.c.Hatching.d.Export and print."
+    },
+    {
+      "label": "[section] Tools for creating 2D documentation.",
+      "content": "a.Creating a 2D drawing from a 3D model.b.Annotation, dimensioning.c.Hatching.d.Export and print."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Defining, editing and using blocks.b.Types and ways of using external documents."
+    },
+    {
+      "label": "[section] Blocks and external documents.",
+      "content": "a.Defining, editing and using blocks.b.Types and ways of using external documents."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Options for using and editing polygon objects.b.Generating polygon meshes from NURBS geometry.c.Export polygon meshes.d.Data preparation for 3D printing or CNC."
+    },
+    {
+      "label": "[section] Polygon geometry.",
+      "content": "a.Options for using and editing polygon objects.b.Generating polygon meshes from NURBS geometry.c.Export polygon meshes.d.Data preparation for 3D printing or CNC."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Work with orthogonal 2D templates (blueprints).b.Working with a 3D scanned model.c.Integration of external components into the project."
+    },
+    {
+      "label": "[section] Creating objects according to a template or documentation.",
+      "content": "a.Work with orthogonal 2D templates (blueprints).b.Working with a 3D scanned model.c.Integration of external components into the project."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Overview of options for creating visualization outputs, visualization plug-ins, realtime and offline visualization applications.b.Technical and technological parameters of rendering and output.c.Realistic rendering. Scene settings, rendering algorithm settings.d.Stylized rendering. Customizing output properties.e.Simple animation."
+    },
+    {
+      "label": "[section] Visualization within a modeling application.",
+      "content": "a.Overview of options for creating visualization outputs, visualization plug-ins, realtime and offline visualization applications.b.Technical and technological parameters of rendering and output.c.Realistic rendering. Scene settings, rendering algorithm settings.d.Stylized rendering. Customizing output properties.e.Simple animation."
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Application environment, tools.b.Import geometry.c.Creating and editing geometry.d.Scene, materials, lights, cameras, environment.e.Animation.f.Rendering parameters."
+    },
+    {
+      "label": "[section] External application to create visualizations.",
+      "content": "a.Application environment, tools.b.Import geometry.c.Creating and editing geometry.d.Scene, materials, lights, cameras, environment.e.Animation.f.Rendering parameters."
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Assignment specification.b.Preparation of documents.c.Working on the interior element project.d.Working on the interior project."
+    },
+    {
+      "label": "[section] Individual project.",
+      "content": "a.Assignment specification.b.Preparation of documents.c.Working on the interior element project.d.Working on the interior project."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendanceTotal0 h"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Recommended:Rhino User's Guide for Windows - https://docs.mcneel.com/rhino/7/usersguide/en-us/index.htm3ds Max 2024 Help - https://help.autodesk.com/view/3DSMAX/2024/ENU/"
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "Rhino User's Guide for Windows - https://docs.mcneel.com/rhino/7/usersguide/en-us/index.htm3ds Max 2024 Help - https://help.autodesk.com/view/3DSMAX/2024/ENU/"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:21:31",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

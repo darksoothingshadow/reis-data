@@ -1,0 +1,929 @@
+{
+  "courseCode": "MIKPU",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "MIKPU"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Mikrobiologie půdy"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Soil microbiology"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Jaroslav Záhora, CSc."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav půdoznalství a výživy rostlin (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jitka Čermáková (cvičící)Ing. Helena Dvořáčková, Ph.D. (cvičící)Ing. Ivan Tůma, Ph.D. (cvičící, přednášející, zkoušející)Ing. Jana Vavříková (cvičící)Ing. Jaroslav Záhora, CSc. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Historický vývoj zájmu o biologii a mikrobiologii půdy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Půda jako prostředí pro život"
+    },
+    {
+      "label": "b.",
+      "content": "Biodiverzita půdy"
+    },
+    {
+      "label": "2.",
+      "content": "Úloha půdních biot při vzniku půdy (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Vzájemná výhodnost interakcí mezi jednotlivými živými složkami půdy zůstává platná po celou dobu pedogeneze"
+    },
+    {
+      "label": "b.",
+      "content": "Jiná role kořenů prehistorických rostlin a mikrobiálních symbiontů při primární kolonizaci souší v minulosti a dnes."
+    },
+    {
+      "label": "c.",
+      "content": "Postupně se měnící role jednotlivých živých složek při tvorbě a udržování půdních charakteristik pomáhájí pochopit současnou sukcesi půd."
+    },
+    {
+      "label": "3.",
+      "content": "Živé složky půdy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Doména Bacteria"
+    },
+    {
+      "label": "b.",
+      "content": "Doména Archaea"
+    },
+    {
+      "label": "c.",
+      "content": "Doména Eucarya"
+    },
+    {
+      "label": "4.",
+      "content": "Rozdílné strategie baktérií, aktinomycet a půdních hub (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Půdní bakterie a aktinomycety: biodiverzita, metabolické zvláštnosti"
+    },
+    {
+      "label": "b.",
+      "content": "Půdní Archeae: biodiverzita, metabolické zvláštnosti"
+    },
+    {
+      "label": "c.",
+      "content": "Saprofytické půdní houby: biodiverzita, metabolické zvláštnosti"
+    },
+    {
+      "label": "5.",
+      "content": "Mykorhitické houby (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Fylogenetický vývoj interakcí mezi mykorhitickými houbami a hostitelskou rostlinou"
+    },
+    {
+      "label": "b.",
+      "content": "Mykorhiza nemusí být vždy oboustranně prospěšná"
+    },
+    {
+      "label": "c.",
+      "content": "Podmínky pro vzájemněprospěšné vztahy"
+    },
+    {
+      "label": "6.",
+      "content": "Půdní fauna (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Hmotnostní a četnostní zastoupení jednotlivých představitelů půdní fauny"
+    },
+    {
+      "label": "b.",
+      "content": "Nezastupitelná role půdní fauny a mikroorganismů ve výživě rostlin"
+    },
+    {
+      "label": "c.",
+      "content": "Půdní fauna a její vliv na fyzikální parametry půdy"
+    },
+    {
+      "label": "7.",
+      "content": "Půdní potravní sítě a význam půdních virů (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Půdní prostřední jako nejsložitější živený prostor s rychlese měnícími podmínkymi"
+    },
+    {
+      "label": "b.",
+      "content": "Role půdních virů pro metabolické adaptace mikroorganismů na příkladu bakteriofágů"
+    },
+    {
+      "label": "c.",
+      "content": "Jednotlivé úrovně potravních sítí v půdě"
+    },
+    {
+      "label": "8.",
+      "content": "Růst, rozmnožování a pohyb mikroorganismů (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Růstové charakteristiky mikroorganismů v jednodruhovém a vícedruhovém společenstvu"
+    },
+    {
+      "label": "b.",
+      "content": "Pohyb mikroorganismů"
+    },
+    {
+      "label": "9.",
+      "content": "Půdní mikrobiální biofilmy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Rozdílnost individuálních a kolektivních strategií půdních mikroorganismů"
+    },
+    {
+      "label": "b.",
+      "content": "Quorum sensing - mechanismus koordinace mikrobiálních aktivit"
+    },
+    {
+      "label": "c.",
+      "content": "Význam sekundárních mikrobiálních produktů pro ochranu živin v půdě a stabilitu fyzikálně - chemických parametrů půdy."
+    },
+    {
+      "label": "10.",
+      "content": "Význam mikroorganismů pro půdní organickou hmotu (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Obecná charakteristika POH (půdní organické hmoty)"
+    },
+    {
+      "label": "b.",
+      "content": "Současné teorie formování, transformace a udržování půdní organické hmoty"
+    },
+    {
+      "label": "c.",
+      "content": "Půdní mikrobiální společenstvo jako rozhodující činitel pro kontrolu optimálního množství POH"
+    },
+    {
+      "label": "11.",
+      "content": "Význam mikroorganismů pro koloběh dusíku (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Symbiotická a nesymbiotická fixace molekulárního dusíku"
+    },
+    {
+      "label": "b.",
+      "content": "Mikorbiální mineralizace organického dusíku"
+    },
+    {
+      "label": "c.",
+      "content": "Nitrifikace a denitrifikace půdních dusíkatých látek"
+    },
+    {
+      "label": "12.",
+      "content": "Význam mikroorganismů pro koloběh fosforu, síry a stopových prvků (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam mikroorganismů pro koloběh fosforu"
+    },
+    {
+      "label": "b.",
+      "content": "Význam mikroorganismů pro koloběh síry"
+    },
+    {
+      "label": "c.",
+      "content": "Význam mikroorganismů pro koloběh stopových prvků"
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, LS 2023/2024, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Mikrobiologie půdy"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Soil microbiology"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Jaroslav Záhora, CSc."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav půdoznalství a výživy rostlin (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jitka Čermáková (cvičící)Ing. Helena Dvořáčková, Ph.D. (cvičící)Ing. Ivan Tůma, Ph.D. (cvičící, přednášející, zkoušející)Ing. Jana Vavříková (cvičící)Ing. Jaroslav Záhora, CSc. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí7.00-8.50A12I. Tůma, J. ZáhoraPřednáškaKaždý týden48Pondělí11.00-12.50A36J. ČermákováCvičeníKaždý týden16Čtvrtek15.00-16.50A36H. DvořáčkováCvičeníKaždý týden16"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Poskytnout studentům znalosti týkající se klíčové role půdních mikroorganismů pro produkci rostlin za současného zajištění ostatních funkcí půdy. Poskytnout studentům informace týkající se taxonomických, fyziologických a environmentálních aspektů půdních mikroorganismů zejména s ohledem na rozklad a transformaci organické hmoty, na sekvestraci uhlíku za současného zajištění dostupnosti živin, infiltraci vody, zlepšení fazikálních a chemických charakteristik půdy atd. Získat znalosti o interakcích mezi živou a neživou půdní složkou."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Historický vývoj zájmu o biologii a mikrobiologii půdy (dotace 2/2) a.Půda jako prostředí pro životb.Biodiverzita půdy2.Úloha půdních biot při vzniku půdy (dotace 4/4) a.Vzájemná výhodnost interakcí mezi jednotlivými živými složkami půdy zůstává platná po celou dobu pedogenezeb.Jiná role kořenů prehistorických rostlin a mikrobiálních symbiontů při primární kolonizaci souší v minulosti a dnes.c.Postupně se měnící role jednotlivých živých složek při tvorbě a udržování půdních charakteristik pomáhájí pochopit současnou sukcesi půd.3.Živé složky půdy (dotace 2/2) a.Doména Bacteriab.Doména Archaeac.Doména Eucarya4.Rozdílné strategie baktérií, aktinomycet a půdních hub (dotace 2/2) a.Půdní bakterie a aktinomycety: biodiverzita, metabolické zvláštnostib.Půdní Archeae: biodiverzita, metabolické zvláštnostic.Saprofytické půdní houby: biodiverzita, metabolické zvláštnosti5.Mykorhitické houby (dotace 2/2) a.Fylogenetický vývoj interakcí mezi mykorhitickými houbami a hostitelskou rostlinoub.Mykorhiza nemusí být vždy oboustranně prospěšnác.Podmínky pro vzájemněprospěšné vztahy6.Půdní fauna (dotace 2/2) a.Hmotnostní a četnostní zastoupení jednotlivých představitelů půdní faunyb.Nezastupitelná role půdní fauny a mikroorganismů ve výživě rostlinc.Půdní fauna a její vliv na fyzikální parametry půdy7.Půdní potravní sítě a význam půdních virů (dotace 2/2) a.Půdní prostřední jako nejsložitější živený prostor s rychlese měnícími podmínkymib.Role půdních virů pro metabolické adaptace mikroorganismů na příkladu bakteriofágůc.Jednotlivé úrovně potravních sítí v půdě8.Růst, rozmnožování a pohyb mikroorganismů (dotace 2/2) a.Růstové charakteristiky mikroorganismů v jednodruhovém a vícedruhovém společenstvub.Pohyb mikroorganismů9.Půdní mikrobiální biofilmy (dotace 2/2) a.Rozdílnost individuálních a kolektivních strategií půdních mikroorganismůb.Quorum sensing - mechanismus koordinace mikrobiálních aktivitc.Význam sekundárních mikrobiálních produktů pro ochranu živin v půdě a stabilitu fyzikálně - chemických parametrů půdy.10.Význam mikroorganismů pro půdní organickou hmotu (dotace 2/2) a.Obecná charakteristika POH (půdní organické hmoty)b.Současné teorie formování, transformace a udržování půdní organické hmotyc.Půdní mikrobiální společenstvo jako rozhodující činitel pro kontrolu optimálního množství POH11.Význam mikroorganismů pro koloběh dusíku (dotace 2/2) a.Symbiotická a nesymbiotická fixace molekulárního dusíkub.Mikorbiální mineralizace organického dusíkuc.Nitrifikace a denitrifikace půdních dusíkatých látek12.Význam mikroorganismů pro koloběh fosforu, síry a stopových prvků (dotace 2/2) a.Význam mikroorganismů pro koloběh fosforub.Význam mikroorganismů pro koloběh síryc.Význam mikroorganismů pro koloběh stopových prvků"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Půda jako prostředí pro životb.Biodiverzita půdy"
+    },
+    {
+      "label": "[section] Historický vývoj zájmu o biologii a mikrobiologii půdy",
+      "content": "a.Půda jako prostředí pro životb.Biodiverzita půdy"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Vzájemná výhodnost interakcí mezi jednotlivými živými složkami půdy zůstává platná po celou dobu pedogenezeb.Jiná role kořenů prehistorických rostlin a mikrobiálních symbiontů při primární kolonizaci souší v minulosti a dnes.c.Postupně se měnící role jednotlivých živých složek při tvorbě a udržování půdních charakteristik pomáhájí pochopit současnou sukcesi půd."
+    },
+    {
+      "label": "[section] Úloha půdních biot při vzniku půdy",
+      "content": "a.Vzájemná výhodnost interakcí mezi jednotlivými živými složkami půdy zůstává platná po celou dobu pedogenezeb.Jiná role kořenů prehistorických rostlin a mikrobiálních symbiontů při primární kolonizaci souší v minulosti a dnes.c.Postupně se měnící role jednotlivých živých složek při tvorbě a udržování půdních charakteristik pomáhájí pochopit současnou sukcesi půd."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Doména Bacteriab.Doména Archaeac.Doména Eucarya"
+    },
+    {
+      "label": "[section] Živé složky půdy",
+      "content": "a.Doména Bacteriab.Doména Archaeac.Doména Eucarya"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Půdní bakterie a aktinomycety: biodiverzita, metabolické zvláštnostib.Půdní Archeae: biodiverzita, metabolické zvláštnostic.Saprofytické půdní houby: biodiverzita, metabolické zvláštnosti"
+    },
+    {
+      "label": "[section] Rozdílné strategie baktérií, aktinomycet a půdních hub",
+      "content": "a.Půdní bakterie a aktinomycety: biodiverzita, metabolické zvláštnostib.Půdní Archeae: biodiverzita, metabolické zvláštnostic.Saprofytické půdní houby: biodiverzita, metabolické zvláštnosti"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Fylogenetický vývoj interakcí mezi mykorhitickými houbami a hostitelskou rostlinoub.Mykorhiza nemusí být vždy oboustranně prospěšnác.Podmínky pro vzájemněprospěšné vztahy"
+    },
+    {
+      "label": "[section] Mykorhitické houby",
+      "content": "a.Fylogenetický vývoj interakcí mezi mykorhitickými houbami a hostitelskou rostlinoub.Mykorhiza nemusí být vždy oboustranně prospěšnác.Podmínky pro vzájemněprospěšné vztahy"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Hmotnostní a četnostní zastoupení jednotlivých představitelů půdní faunyb.Nezastupitelná role půdní fauny a mikroorganismů ve výživě rostlinc.Půdní fauna a její vliv na fyzikální parametry půdy"
+    },
+    {
+      "label": "[section] Půdní fauna",
+      "content": "a.Hmotnostní a četnostní zastoupení jednotlivých představitelů půdní faunyb.Nezastupitelná role půdní fauny a mikroorganismů ve výživě rostlinc.Půdní fauna a její vliv na fyzikální parametry půdy"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Půdní prostřední jako nejsložitější živený prostor s rychlese měnícími podmínkymib.Role půdních virů pro metabolické adaptace mikroorganismů na příkladu bakteriofágůc.Jednotlivé úrovně potravních sítí v půdě"
+    },
+    {
+      "label": "[section] Půdní potravní sítě a význam půdních virů",
+      "content": "a.Půdní prostřední jako nejsložitější živený prostor s rychlese měnícími podmínkymib.Role půdních virů pro metabolické adaptace mikroorganismů na příkladu bakteriofágůc.Jednotlivé úrovně potravních sítí v půdě"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Růstové charakteristiky mikroorganismů v jednodruhovém a vícedruhovém společenstvub.Pohyb mikroorganismů"
+    },
+    {
+      "label": "[section] Růst, rozmnožování a pohyb mikroorganismů",
+      "content": "a.Růstové charakteristiky mikroorganismů v jednodruhovém a vícedruhovém společenstvub.Pohyb mikroorganismů"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Rozdílnost individuálních a kolektivních strategií půdních mikroorganismůb.Quorum sensing - mechanismus koordinace mikrobiálních aktivitc.Význam sekundárních mikrobiálních produktů pro ochranu živin v půdě a stabilitu fyzikálně - chemických parametrů půdy."
+    },
+    {
+      "label": "[section] Půdní mikrobiální biofilmy",
+      "content": "a.Rozdílnost individuálních a kolektivních strategií půdních mikroorganismůb.Quorum sensing - mechanismus koordinace mikrobiálních aktivitc.Význam sekundárních mikrobiálních produktů pro ochranu živin v půdě a stabilitu fyzikálně - chemických parametrů půdy."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Obecná charakteristika POH (půdní organické hmoty)b.Současné teorie formování, transformace a udržování půdní organické hmotyc.Půdní mikrobiální společenstvo jako rozhodující činitel pro kontrolu optimálního množství POH"
+    },
+    {
+      "label": "[section] Význam mikroorganismů pro půdní organickou hmotu",
+      "content": "a.Obecná charakteristika POH (půdní organické hmoty)b.Současné teorie formování, transformace a udržování půdní organické hmotyc.Půdní mikrobiální společenstvo jako rozhodující činitel pro kontrolu optimálního množství POH"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Symbiotická a nesymbiotická fixace molekulárního dusíkub.Mikorbiální mineralizace organického dusíkuc.Nitrifikace a denitrifikace půdních dusíkatých látek"
+    },
+    {
+      "label": "[section] Význam mikroorganismů pro koloběh dusíku",
+      "content": "a.Symbiotická a nesymbiotická fixace molekulárního dusíkub.Mikorbiální mineralizace organického dusíkuc.Nitrifikace a denitrifikace půdních dusíkatých látek"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Význam mikroorganismů pro koloběh fosforub.Význam mikroorganismů pro koloběh síryc.Význam mikroorganismů pro koloběh stopových prvků"
+    },
+    {
+      "label": "[section] Význam mikroorganismů pro koloběh fosforu, síry a stopových prvků",
+      "content": "a.Význam mikroorganismů pro koloběh fosforub.Význam mikroorganismů pro koloběh síryc.Význam mikroorganismů pro koloběh stopových prvků"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška24 hcvičení24 hpříprava na zkoušku70 hpříprava na průběžné hodnocení9 hzpracování protokolů20 hzpracování projektů10 hzpracování seminární práce11 hCelkem168 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zápočet z cvičení: (požadavky - účast na cvičení, vypracované protokoly z každého cvičení, na konci zápočtový test - správně min. 60% otázek) Vypracování závěrečné seminární práce. Zápočet je povinný pro vykonání závěrečné zkoušky. Zkouška : písemná příprava a ústní zkouška (trvání celkem 30 minut) sestává ze 4 otázek z jednotlivých tematických okruhů. Předpokladem pro absolvování zkoušky je zodpovědět na každou ze zadaných otázek alespoň známkou dobře."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:GOBAT, Jean-Michel. The living soil: fundamentals of soil science and soil biology. Enfield: Science Publishers, 602 s. ISBN 1-57808-212-9. Advances in Soil Microbiology: Recent Trends and Future Prospects: Volume 1: Soil-Microbe Interaction. 2018. Singapore: Springer Singapore, 204 s. Microorganisms for Sustainability. ISBN 9789811061783.ELSAS, Jan Dirk van; TREVORS, Jack T. 2019. Modern soil microbiology. Boca Raton: CRC Press ;, 472 s. ISBN 978-1-4987-6353-0.PAUL, Eldor Alvin. 2007. Soil microbiology, ecology, and biochemistry. 3. vyd. Amsterdam: Academic Press, 532 s. ISBN 978-0-12546807-7."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "GOBAT, Jean-Michel. The living soil: fundamentals of soil science and soil biology. Enfield: Science Publishers, 602 s. ISBN 1-57808-212-9. Advances in Soil Microbiology: Recent Trends and Future Prospects: Volume 1: Soil-Microbe Interaction. 2018. Singapore: Springer Singapore, 204 s. Microorganisms for Sustainability. ISBN 9789811061783.ELSAS, Jan Dirk van; TREVORS, Jack T. 2019. Modern soil microbiology. Boca Raton: CRC Press ;, 472 s. ISBN 978-1-4987-6353-0.PAUL, Eldor Alvin. 2007. Soil microbiology, ecology, and biochemistry. 3. vyd. Amsterdam: Academic Press, 532 s. ISBN 978-0-12546807-7."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-RLE Rostlinolékařství, prezenční forma, počáteční období ZS 2025/2026Program N-FYT Fytotechnika, prezenční forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "MIKPU"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Mikrobiologie půdy"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Soil microbiology"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Jaroslav Záhora, CSc."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Soil Science and Plant Nutrition (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jitka Čermáková (instructor)Ing. Helena Dvořáčková, Ph.D. (instructor)Ing. Ivan Tůma, Ph.D. (examiner, instructor, lecturer)Ing. Jana Vavříková (instructor)Ing. Jaroslav Záhora, CSc. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Historical development of interest in soil biology and microbiology (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Soil as an environment for life"
+    },
+    {
+      "label": "b.",
+      "content": "Soil biodiversity"
+    },
+    {
+      "label": "2.",
+      "content": "Role of soil biota in soil formation (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Mutual benefits of interactions between soil biota remain valid throughout pedogenesis"
+    },
+    {
+      "label": "b.",
+      "content": "Role of prehistoric plant roots and microbial symbionts in the primary colonization of soils in the past and today"
+    },
+    {
+      "label": "c.",
+      "content": "Changing roles of the different living components in the formation and conservation of soil characteristics help to understand contemporary soil succession"
+    },
+    {
+      "label": "3.",
+      "content": "Living soil components (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Bacteria domain"
+    },
+    {
+      "label": "b.",
+      "content": "Archaea domain"
+    },
+    {
+      "label": "c.",
+      "content": "Eucarya domain"
+    },
+    {
+      "label": "4.",
+      "content": "Different strategies of bacteria, actinomycetes and soil fungi (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Soil bacteria and actinomycetes: biodiversity, metabolic special features"
+    },
+    {
+      "label": "b.",
+      "content": "Soil Archaea: biodiversity, metabolic special features"
+    },
+    {
+      "label": "c.",
+      "content": "Saprophytic soil fungi: biodiversity, metabolic special features"
+    },
+    {
+      "label": "5.",
+      "content": "Mycorrhizal fungi (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Phylogenetic evolution of interactions between mycorrhizal fungi and the host plant"
+    },
+    {
+      "label": "b.",
+      "content": "Mycorrhiza may not always be mutually beneficial"
+    },
+    {
+      "label": "c.",
+      "content": "Conditions for mutually beneficial relationships"
+    },
+    {
+      "label": "6.",
+      "content": "Soil fauna (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "biomass and abundance of the different representatives of the soil fauna"
+    },
+    {
+      "label": "b.",
+      "content": "Indispensable role of soil fauna and microorganisms in plant nutrition"
+    },
+    {
+      "label": "c.",
+      "content": "Soil fauna and its influence on soil physical parameters"
+    },
+    {
+      "label": "7.",
+      "content": "Soil food webs and the importance of soil viruses (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Soil environment as the most complex food web with rapidly changing conditions"
+    },
+    {
+      "label": "b.",
+      "content": "The role of soil viruses (e.g. bacteriophages) in the metabolic adaptations of microorganisms"
+    },
+    {
+      "label": "c.",
+      "content": "Different trophic levels of soil food web"
+    },
+    {
+      "label": "8.",
+      "content": "Growth, reproduction and movement of microorganisms (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Growth characteristics of microorganisms in single-species and multispecies communities"
+    },
+    {
+      "label": "b.",
+      "content": "Movement of microorganisms"
+    },
+    {
+      "label": "9.",
+      "content": "Soil microbial biofilms (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Difference in individual and collective strategies of soil microorganisms"
+    },
+    {
+      "label": "b.",
+      "content": "Quorum sensing - a mechanism for coordination of microbial activities"
+    },
+    {
+      "label": "c.",
+      "content": "Importance of secondary microbial products for soil nutrient conservation and stability of soil physicochemical parameters"
+    },
+    {
+      "label": "10.",
+      "content": "Importance of microorganisms in soil organic matter formation (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "General characteristics of soil organic matter (SOM)"
+    },
+    {
+      "label": "b.",
+      "content": "Current theories of formation, transformation and stabilization of SOM"
+    },
+    {
+      "label": "c.",
+      "content": "Soil microbial community as a critical factor in SOM turnover"
+    },
+    {
+      "label": "11.",
+      "content": "The importance of microorganisms for the nitrogen cycle (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Symbiotic and non-symbiotic fixation of molecular nitrogen"
+    },
+    {
+      "label": "b.",
+      "content": "Microbial mineralization of organic nitrogen"
+    },
+    {
+      "label": "c.",
+      "content": "Nitrification and denitrification in soil"
+    },
+    {
+      "label": "12.",
+      "content": "Importance of microorganisms in phosphorus, sulphur and trace elements cycles (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Importance of microorganisms for the phosphorus cycle"
+    },
+    {
+      "label": "b.",
+      "content": "Importance of microorganisms for the sulphur cycle"
+    },
+    {
+      "label": "c.",
+      "content": "Importance of microorganisms for trace element cycles"
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, SS 2023/2024, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Mikrobiologie půdy"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Soil microbiology"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Jaroslav Záhora, CSc."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Soil Science and Plant Nutrition (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jitka Čermáková (instructor)Ing. Helena Dvořáčková, Ph.D. (instructor)Ing. Ivan Tůma, Ph.D. (examiner, instructor, lecturer)Ing. Jana Vavříková (instructor)Ing. Jaroslav Záhora, CSc. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday7.00-8.50A12I. Tůma, J. ZáhoraLectureEvery week48Monday11.00-12.50A36J. ČermákováSeminarEvery week16Thursday15.00-16.50A36H. DvořáčkováSeminarEvery week16"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "To provide students with knowledge about the key role of soil microorganisms for plant production while ensuring other soil functions. To provide students with information on taxonomic, physiological and environmental aspects of soil microorganisms, especially with regard to the decomposition and transformation of organic matter, carbon sequestration while ensuring nutrient availability, water infiltration, improving the physical and chemical characteristics of soil, etc. Gain knowledge about the interactions between living and non-living soil component."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Historical development of interest in soil biology and microbiology (allowance 2/2) a.Soil as an environment for lifeb.Soil biodiversity2.Role of soil biota in soil formation (allowance 4/4) a.Mutual benefits of interactions between soil biota remain valid throughout pedogenesisb.Role of prehistoric plant roots and microbial symbionts in the primary colonization of soils in the past and todayc.Changing roles of the different living components in the formation and conservation of soil characteristics help to understand contemporary soil succession3.Living soil components (allowance 2/2) a.Bacteria domainb.Archaea domainc.Eucarya domain4.Different strategies of bacteria, actinomycetes and soil fungi (allowance 2/2) a.Soil bacteria and actinomycetes: biodiversity, metabolic special featuresb.Soil Archaea: biodiversity, metabolic special featuresc.Saprophytic soil fungi: biodiversity, metabolic special features5.Mycorrhizal fungi (allowance 2/2) a.Phylogenetic evolution of interactions between mycorrhizal fungi and the host plantb.Mycorrhiza may not always be mutually beneficialc.Conditions for mutually beneficial relationships6.Soil fauna (allowance 2/2) a.biomass and abundance of the different representatives of the soil faunab.Indispensable role of soil fauna and microorganisms in plant nutritionc.Soil fauna and its influence on soil physical parameters7.Soil food webs and the importance of soil viruses (allowance 2/2) a.Soil environment as the most complex food web with rapidly changing conditionsb.The role of soil viruses (e.g. bacteriophages) in the metabolic adaptations of microorganismsc.Different trophic levels of soil food web8.Growth, reproduction and movement of microorganisms (allowance 2/2) a.Growth characteristics of microorganisms in single-species and multispecies communitiesb.Movement of microorganisms9.Soil microbial biofilms (allowance 2/2) a.Difference in individual and collective strategies of soil microorganismsb.Quorum sensing - a mechanism for coordination of microbial activitiesc.Importance of secondary microbial products for soil nutrient conservation and stability of soil physicochemical parameters10.Importance of microorganisms in soil organic matter formation (allowance 2/2) a.General characteristics of soil organic matter (SOM)b.Current theories of formation, transformation and stabilization of SOMc.Soil microbial community as a critical factor in SOM turnover11.The importance of microorganisms for the nitrogen cycle (allowance 2/2) a.Symbiotic and non-symbiotic fixation of molecular nitrogenb.Microbial mineralization of organic nitrogenc.Nitrification and denitrification in soil12.Importance of microorganisms in phosphorus, sulphur and trace elements cycles (allowance 2/2) a.Importance of microorganisms for the phosphorus cycleb.Importance of microorganisms for the sulphur cyclec.Importance of microorganisms for trace element cycles"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Soil as an environment for lifeb.Soil biodiversity"
+    },
+    {
+      "label": "[section] Historical development of interest in soil biology and microbiology",
+      "content": "a.Soil as an environment for lifeb.Soil biodiversity"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Mutual benefits of interactions between soil biota remain valid throughout pedogenesisb.Role of prehistoric plant roots and microbial symbionts in the primary colonization of soils in the past and todayc.Changing roles of the different living components in the formation and conservation of soil characteristics help to understand contemporary soil succession"
+    },
+    {
+      "label": "[section] Role of soil biota in soil formation",
+      "content": "a.Mutual benefits of interactions between soil biota remain valid throughout pedogenesisb.Role of prehistoric plant roots and microbial symbionts in the primary colonization of soils in the past and todayc.Changing roles of the different living components in the formation and conservation of soil characteristics help to understand contemporary soil succession"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Bacteria domainb.Archaea domainc.Eucarya domain"
+    },
+    {
+      "label": "[section] Living soil components",
+      "content": "a.Bacteria domainb.Archaea domainc.Eucarya domain"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Soil bacteria and actinomycetes: biodiversity, metabolic special featuresb.Soil Archaea: biodiversity, metabolic special featuresc.Saprophytic soil fungi: biodiversity, metabolic special features"
+    },
+    {
+      "label": "[section] Different strategies of bacteria, actinomycetes and soil fungi",
+      "content": "a.Soil bacteria and actinomycetes: biodiversity, metabolic special featuresb.Soil Archaea: biodiversity, metabolic special featuresc.Saprophytic soil fungi: biodiversity, metabolic special features"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Phylogenetic evolution of interactions between mycorrhizal fungi and the host plantb.Mycorrhiza may not always be mutually beneficialc.Conditions for mutually beneficial relationships"
+    },
+    {
+      "label": "[section] Mycorrhizal fungi",
+      "content": "a.Phylogenetic evolution of interactions between mycorrhizal fungi and the host plantb.Mycorrhiza may not always be mutually beneficialc.Conditions for mutually beneficial relationships"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.biomass and abundance of the different representatives of the soil faunab.Indispensable role of soil fauna and microorganisms in plant nutritionc.Soil fauna and its influence on soil physical parameters"
+    },
+    {
+      "label": "[section] Soil fauna",
+      "content": "a.biomass and abundance of the different representatives of the soil faunab.Indispensable role of soil fauna and microorganisms in plant nutritionc.Soil fauna and its influence on soil physical parameters"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Soil environment as the most complex food web with rapidly changing conditionsb.The role of soil viruses (e.g. bacteriophages) in the metabolic adaptations of microorganismsc.Different trophic levels of soil food web"
+    },
+    {
+      "label": "[section] Soil food webs and the importance of soil viruses",
+      "content": "a.Soil environment as the most complex food web with rapidly changing conditionsb.The role of soil viruses (e.g. bacteriophages) in the metabolic adaptations of microorganismsc.Different trophic levels of soil food web"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Growth characteristics of microorganisms in single-species and multispecies communitiesb.Movement of microorganisms"
+    },
+    {
+      "label": "[section] Growth, reproduction and movement of microorganisms",
+      "content": "a.Growth characteristics of microorganisms in single-species and multispecies communitiesb.Movement of microorganisms"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Difference in individual and collective strategies of soil microorganismsb.Quorum sensing - a mechanism for coordination of microbial activitiesc.Importance of secondary microbial products for soil nutrient conservation and stability of soil physicochemical parameters"
+    },
+    {
+      "label": "[section] Soil microbial biofilms",
+      "content": "a.Difference in individual and collective strategies of soil microorganismsb.Quorum sensing - a mechanism for coordination of microbial activitiesc.Importance of secondary microbial products for soil nutrient conservation and stability of soil physicochemical parameters"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.General characteristics of soil organic matter (SOM)b.Current theories of formation, transformation and stabilization of SOMc.Soil microbial community as a critical factor in SOM turnover"
+    },
+    {
+      "label": "[section] Importance of microorganisms in soil organic matter formation",
+      "content": "a.General characteristics of soil organic matter (SOM)b.Current theories of formation, transformation and stabilization of SOMc.Soil microbial community as a critical factor in SOM turnover"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Symbiotic and non-symbiotic fixation of molecular nitrogenb.Microbial mineralization of organic nitrogenc.Nitrification and denitrification in soil"
+    },
+    {
+      "label": "[section] The importance of microorganisms for the nitrogen cycle",
+      "content": "a.Symbiotic and non-symbiotic fixation of molecular nitrogenb.Microbial mineralization of organic nitrogenc.Nitrification and denitrification in soil"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Importance of microorganisms for the phosphorus cycleb.Importance of microorganisms for the sulphur cyclec.Importance of microorganisms for trace element cycles"
+    },
+    {
+      "label": "[section] Importance of microorganisms in phosphorus, sulphur and trace elements cycles",
+      "content": "a.Importance of microorganisms for the phosphorus cycleb.Importance of microorganisms for the sulphur cyclec.Importance of microorganisms for trace element cycles"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture24 hpractice24 hpreparation for exam70 hpreparation for regular assessment9 helaboration of reports20 helaboration and execution of projects10 hwriting of seminar paper11 hTotal168 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Credit from exercises: (requirements - participation in exercises, elaborated protocols from each exercise, at the end a credit test - correctly at least 60% of questions) Elaboration of the final seminar work. Credit is mandatory for the final exam. Exam: written preparation and oral exam (total duration 30 minutes) consists of 4 questions from individual thematic areas. The prerequisite for passing the exam is to answer each of the questions at least well."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:GOBAT, Jean-Michel. The living soil: fundamentals of soil science and soil biology. Enfield: Science Publishers, 602 p. ISBN 1-57808-212-9. Advances in Soil Microbiology: Recent Trends and Future Prospects: Volume 1: Soil-Microbe Interaction. 2018. Singapore: Springer Singapore, 204 p. Microorganisms for Sustainability. ISBN 9789811061783.ELSAS, Jan Dirk van; TREVORS, Jack T. 2019. Modern soil microbiology. Boca Raton: CRC Press ;, 472 p. ISBN 978-1-4987-6353-0.PAUL, Eldor Alvin. 2007. Soil microbiology, ecology, and biochemistry. 3rd ed. Amsterdam: Academic Press, 532 p. ISBN 978-0-12546807-7."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "GOBAT, Jean-Michel. The living soil: fundamentals of soil science and soil biology. Enfield: Science Publishers, 602 p. ISBN 1-57808-212-9. Advances in Soil Microbiology: Recent Trends and Future Prospects: Volume 1: Soil-Microbe Interaction. 2018. Singapore: Springer Singapore, 204 p. Microorganisms for Sustainability. ISBN 9789811061783.ELSAS, Jan Dirk van; TREVORS, Jack T. 2019. Modern soil microbiology. Boca Raton: CRC Press ;, 472 p. ISBN 978-1-4987-6353-0.PAUL, Eldor Alvin. 2007. Soil microbiology, ecology, and biochemistry. 3rd ed. Amsterdam: Academic Press, 532 p. ISBN 978-0-12546807-7."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-RLE Plant Protection, full-time form, initial period WS 2025/2026Programme C-FYT Plant Production, full-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:29:45",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

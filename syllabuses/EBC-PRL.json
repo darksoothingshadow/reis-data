@@ -1,0 +1,681 @@
+{
+  "courseCode": "EBC-PRL",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-PRL"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Programovací jazyk Perl"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Perl Programming Language"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "konzultační"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět je možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. František Dařena, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. František Dařena, Ph.D. (garant)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "(Algoritmizace nebo Algoritmizace nebo Algoritmizace – skriptování) a (Základy objektového návrhu nebo Základy objektového návrhu) a ne Programovací jazyk Perl"
+    },
+    {
+      "label": "1.",
+      "content": "Základní prvky jazyka (dotace 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Kontext"
+    },
+    {
+      "label": "b.",
+      "content": "Datové typy, proměnné"
+    },
+    {
+      "label": "c.",
+      "content": "Operátory"
+    },
+    {
+      "label": "d.",
+      "content": "Příkazy"
+    },
+    {
+      "label": "e.",
+      "content": "Standardní funkce"
+    },
+    {
+      "label": "2.",
+      "content": "Odkazy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Pevné, symbolické odkazy"
+    },
+    {
+      "label": "b.",
+      "content": "Vícerozměrné datové struktury"
+    },
+    {
+      "label": "3.",
+      "content": "Podprogramy (dotace 2/2)"
+    },
+    {
+      "label": "4.",
+      "content": "Regulární výrazy a zpracování textů (dotace 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Modulární programování (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Balíky, moduly"
+    },
+    {
+      "label": "b.",
+      "content": "Tabulky symbolů"
+    },
+    {
+      "label": "6.",
+      "content": "Objektově orientované programování (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Implementace OOP v Perlu"
+    },
+    {
+      "label": "b.",
+      "content": "Objektové rozhraní modulů"
+    },
+    {
+      "label": "7.",
+      "content": "Využití jazyka pro správu systémů (dotace 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Práce se soubory a adresáři"
+    },
+    {
+      "label": "b.",
+      "content": "Spolupráce s operačním systémem"
+    },
+    {
+      "label": "c.",
+      "content": "Práce s databází"
+    },
+    {
+      "label": "d.",
+      "content": "Systémové úkoly"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "50 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "50 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2024/2025, ZS 2023/2024, LS 2022/2023, ZS 2022/2023, LS 2021/2022, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Programovací jazyk Perl"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Perl Programming Language"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: konzultační"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. František Dařena, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. František Dařena, Ph.D. (garant)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: (Algoritmizace nebo Algoritmizace nebo Algoritmizace – skriptování) a (Základy objektového návrhu nebo Základy objektového návrhu) a ne Programovací jazyk Perl"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Studenti získají znalosti jazyka Perl jako přenositelného programovacího jazyka vhodného k řešení úloh z oblastí správy systémů i tvorby rozsáhlých počítačových aplikací a osvojí si dovednost rychlé a efektivní tvorby skriptů a vývoje aplikací."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Základní prvky jazyka (dotace 8/8) a.Kontextb.Datové typy, proměnnéc.Operátoryd.Příkazye.Standardní funkce2.Odkazy (dotace 2/2) a.Pevné, symbolické odkazyb.Vícerozměrné datové struktury3.Podprogramy (dotace 2/2)4.Regulární výrazy a zpracování textů (dotace 2/2)5.Modulární programování (dotace 2/2) a.Balíky, modulyb.Tabulky symbolů6.Objektově orientované programování (dotace 4/4) a.Implementace OOP v Perlub.Objektové rozhraní modulů7.Využití jazyka pro správu systémů (dotace 8/8) a.Práce se soubory a adresářib.Spolupráce s operačním systémemc.Práce s databázíd.Systémové úkoly"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Kontextb.Datové typy, proměnnéc.Operátoryd.Příkazye.Standardní funkce"
+    },
+    {
+      "label": "[section] Základní prvky jazyka",
+      "content": "a.Kontextb.Datové typy, proměnnéc.Operátoryd.Příkazye.Standardní funkce"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Pevné, symbolické odkazyb.Vícerozměrné datové struktury"
+    },
+    {
+      "label": "[section] Odkazy",
+      "content": "a.Pevné, symbolické odkazyb.Vícerozměrné datové struktury"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Regulární výrazy a zpracování textů (dotace 2/2)"
+    },
+    {
+      "label": "[section] Podprogramy",
+      "content": "4.Regulární výrazy a zpracování textů (dotace 2/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Modulární programování (dotace 2/2)"
+    },
+    {
+      "label": "[section] Regulární výrazy a zpracování textů",
+      "content": "5.Modulární programování (dotace 2/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Balíky, modulyb.Tabulky symbolů"
+    },
+    {
+      "label": "[section] Modulární programování",
+      "content": "a.Balíky, modulyb.Tabulky symbolů"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Implementace OOP v Perlub.Objektové rozhraní modulů"
+    },
+    {
+      "label": "[section] Objektově orientované programování",
+      "content": "a.Implementace OOP v Perlub.Objektové rozhraní modulů"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Práce se soubory a adresářib.Spolupráce s operačním systémemc.Práce s databázíd.Systémové úkoly"
+    },
+    {
+      "label": "[section] Využití jazyka pro správu systémů",
+      "content": "a.Práce se soubory a adresářib.Spolupráce s operačním systémemc.Práce s databázíd.Systémové úkoly"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhKombinované studiumpřednáška16 hcvičení0 hpříprava na zkoušku20 hpříprava na průběžné hodnocení14 hzpracování projektů50 hsamostudium40 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Semestrální práce prokazující zvládnutí jazyka na konkrétním problému zadaném vyučujícím nebo stanoveným studentem a schváleném vyučujícím , ústní zkouška zaměřená na důležité aspekty jazyka."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhKombinované studiumVypracování semestrální práce50 %Absolvování závěrečné ústní zkoušky50 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:DAŘENA, František. 2018. Programovací jazyk Perl. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-585-5.DAŘENA, František. 2005. Myslíme v jazyku PERL. 1. vyd. Praha: Grada publishing, 700 s. Knihovna programátora. ISBN 80-247-1147-8.Doporučená:WALL, L; CHRISTIANSEN, T; FOY, b. 2012. Programming Perl. Sebastopol: O'Reilly, ISBN 978-0-596-00492-7.CHROMATIC, C. 2016. Modern Perl. Raleigh: The Pragmatic Programmers, ISBN 1-680-50088-0."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "DAŘENA, František. 2018. Programovací jazyk Perl. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-585-5.DAŘENA, František. 2005. Myslíme v jazyku PERL. 1. vyd. Praha: Grada publishing, 700 s. Knihovna programátora. ISBN 80-247-1147-8."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "WALL, L; CHRISTIANSEN, T; FOY, b. 2012. Programming Perl. Sebastopol: O'Reilly, ISBN 978-0-596-00492-7.CHROMATIC, C. 2016. Modern Perl. Raleigh: The Pragmatic Programmers, ISBN 1-680-50088-0."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-PRL"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Programovací jazyk Perl"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Perl Programming Language"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "consulting"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course can be studied during a foreign trip."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. František Dařena, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. František Dařena, Ph.D. (supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "(Algorithm Development or Algorithmization or Algorithmization – scripting) and (Basics of Object Oriented Design or Basics of Object Oriented Design) and not Perl Programming Language"
+    },
+    {
+      "label": "1.",
+      "content": "Basic elements (allowance 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Context"
+    },
+    {
+      "label": "b.",
+      "content": "Data types, variables"
+    },
+    {
+      "label": "c.",
+      "content": "Operators"
+    },
+    {
+      "label": "d.",
+      "content": "Commands"
+    },
+    {
+      "label": "e.",
+      "content": "Built-in functions"
+    },
+    {
+      "label": "2.",
+      "content": "References (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Hard and symbolic references"
+    },
+    {
+      "label": "b.",
+      "content": "Multidimensional structures"
+    },
+    {
+      "label": "3.",
+      "content": "Functions (allowance 2/2)"
+    },
+    {
+      "label": "4.",
+      "content": "Regular expressions (allowance 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Modular programming (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Packages, modules"
+    },
+    {
+      "label": "b.",
+      "content": "Symbol tables"
+    },
+    {
+      "label": "6.",
+      "content": "Object oriented programming (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Implementation of OOP in Perl"
+    },
+    {
+      "label": "b.",
+      "content": "Object oriented module interface"
+    },
+    {
+      "label": "7.",
+      "content": "Systems administration (allowance 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Working with files and directories"
+    },
+    {
+      "label": "b.",
+      "content": "Interaction with operation system"
+    },
+    {
+      "label": "c.",
+      "content": "Programming database applications"
+    },
+    {
+      "label": "d.",
+      "content": "Web-based applications"
+    },
+    {
+      "label": "Term paper",
+      "content": "50 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "50 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2024/2025, WS 2023/2024, SS 2022/2023, WS 2022/2023, SS 2021/2022, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Programovací jazyk Perl"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Perl Programming Language"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: consulting"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course can be studied during a foreign trip."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. František Dařena, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. František Dařena, Ph.D. (supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: (Algorithm Development or Algorithmization or Algorithmization – scripting) and (Basics of Object Oriented Design or Basics of Object Oriented Design) and not Perl Programming Language"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The goal is to familiarize students with programming language Perl which is a language suitable for solving tasks from the field of systems administration. The students will be able to write scripts quickly and efficiently and develop various applications."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Basic elements (allowance 8/8) a.Contextb.Data types, variablesc.Operatorsd.Commandse.Built-in functions2.References (allowance 2/2) a.Hard and symbolic referencesb.Multidimensional structures3.Functions (allowance 2/2)4.Regular expressions (allowance 2/2)5.Modular programming (allowance 2/2) a.Packages, modulesb.Symbol tables6.Object oriented programming (allowance 4/4) a.Implementation of OOP in Perlb.Object oriented module interface7.Systems administration (allowance 8/8) a.Working with files and directoriesb.Interaction with operation systemc.Programming database applicationsd.Web-based applications"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Contextb.Data types, variablesc.Operatorsd.Commandse.Built-in functions"
+    },
+    {
+      "label": "[section] Basic elements",
+      "content": "a.Contextb.Data types, variablesc.Operatorsd.Commandse.Built-in functions"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Hard and symbolic referencesb.Multidimensional structures"
+    },
+    {
+      "label": "[section] References",
+      "content": "a.Hard and symbolic referencesb.Multidimensional structures"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Regular expressions (allowance 2/2)"
+    },
+    {
+      "label": "[section] Functions",
+      "content": "4.Regular expressions (allowance 2/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Modular programming (allowance 2/2)"
+    },
+    {
+      "label": "[section] Regular expressions",
+      "content": "5.Modular programming (allowance 2/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Packages, modulesb.Symbol tables"
+    },
+    {
+      "label": "[section] Modular programming",
+      "content": "a.Packages, modulesb.Symbol tables"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Implementation of OOP in Perlb.Object oriented module interface"
+    },
+    {
+      "label": "[section] Object oriented programming",
+      "content": "a.Implementation of OOP in Perlb.Object oriented module interface"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Working with files and directoriesb.Interaction with operation systemc.Programming database applicationsd.Web-based applications"
+    },
+    {
+      "label": "[section] Systems administration",
+      "content": "a.Working with files and directoriesb.Interaction with operation systemc.Programming database applicationsd.Web-based applications"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodCombined formlecture16 hpractice0 hpreparation for exam20 hpreparation for regular assessment14 helaboration and execution of projects50 hself-study40 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "The course is completed by a defense of the term project accompanied by a discussion. The student develops an application where he or she demonstrates the abilities in using selected chapters of Perl. Additional discussion is oriented at other substantial topics."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeCombined formTerm paper50 %Final oral exam50 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:DAŘENA, František. 2018. Programovací jazyk Perl. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-585-5.DAŘENA, František. 2005. Myslíme v jazyku PERL. 1st ed. Praha: Grada publishing, 700 p. Knihovna programátora. ISBN 80-247-1147-8.Recommended:WALL, L; CHRISTIANSEN, T; FOY, b. 2012. Programming Perl. Sebastopol: O'Reilly, ISBN 978-0-596-00492-7.CHROMATIC, C. 2016. Modern Perl. Raleigh: The Pragmatic Programmers, ISBN 1-680-50088-0."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "DAŘENA, František. 2018. Programovací jazyk Perl. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-585-5.DAŘENA, František. 2005. Myslíme v jazyku PERL. 1st ed. Praha: Grada publishing, 700 p. Knihovna programátora. ISBN 80-247-1147-8."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "WALL, L; CHRISTIANSEN, T; FOY, b. 2012. Programming Perl. Sebastopol: O'Reilly, ISBN 978-0-596-00492-7.CHROMATIC, C. 2016. Modern Perl. Raleigh: The Pragmatic Programmers, ISBN 1-680-50088-0."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:44:01",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

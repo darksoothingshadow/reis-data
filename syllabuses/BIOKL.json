@@ -1,0 +1,809 @@
+{
+  "courseCode": "BIOKL",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "BIOKL"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Bioklimatologie"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Bioclimatology"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Lenka Bartošová, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav agrosystémů a bioklimatologie (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Lenka Bartošová, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Marcela Hlaváčová, Ph.D. (cvičící)Ing. Matěj Orság, Ph.D. (cvičící)prof. Ing. Zdeněk Žalud, Ph.D. (přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Klimatický systém (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Faktory prostředí"
+    },
+    {
+      "label": "b.",
+      "content": "Síť meteorologických stanic"
+    },
+    {
+      "label": "c.",
+      "content": "počasí, podnebí"
+    },
+    {
+      "label": "d.",
+      "content": "radarová měření a jejich využití v zemědělství"
+    },
+    {
+      "label": "2.",
+      "content": "Fyzika atmosféry (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "vzduch"
+    },
+    {
+      "label": "b.",
+      "content": "složky vzduchu a jejich význam pro rostliny"
+    },
+    {
+      "label": "c.",
+      "content": "stratifikace atmosféry"
+    },
+    {
+      "label": "d.",
+      "content": "ozonosféra"
+    },
+    {
+      "label": "e.",
+      "content": "dopady UV-B záření na rostliny a živočichy"
+    },
+    {
+      "label": "3.",
+      "content": "Radiační a energetická bilance (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "sluneční záření, formy a složky"
+    },
+    {
+      "label": "b.",
+      "content": "krátkovlnná, dlouhovlnná bilance"
+    },
+    {
+      "label": "c.",
+      "content": "dopady sluneční energie na rostliny a živočichy"
+    },
+    {
+      "label": "d.",
+      "content": "toky energie, energetická bilance aktivního povrchu"
+    },
+    {
+      "label": "e.",
+      "content": "skleníkový efekt, globální změna"
+    },
+    {
+      "label": "4.",
+      "content": "Meteorologické prvky (dotace 8/4)"
+    },
+    {
+      "label": "a.",
+      "content": "teplota vzduchu"
+    },
+    {
+      "label": "b.",
+      "content": "vlhkost vzduchu"
+    },
+    {
+      "label": "c.",
+      "content": "evapotranspirace"
+    },
+    {
+      "label": "d.",
+      "content": "hydrometeory, oblaka"
+    },
+    {
+      "label": "e.",
+      "content": "problematika sucha a jeho dopady na zemědělství"
+    },
+    {
+      "label": "f.",
+      "content": "bioklimatologický význam meteorologických prvků"
+    },
+    {
+      "label": "5.",
+      "content": "Cirkulace atmosféry (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "primární, sekundární a terciální cirkulace atmosféry"
+    },
+    {
+      "label": "b.",
+      "content": "vzduchové hmoty"
+    },
+    {
+      "label": "c.",
+      "content": "tlak vzduchu a vítr"
+    },
+    {
+      "label": "d.",
+      "content": "tlakové útvary"
+    },
+    {
+      "label": "e.",
+      "content": "bioklimatologický dopad cirkulace vzduchu"
+    },
+    {
+      "label": "6.",
+      "content": "Synoptická meteorologie (dotace 3/1)"
+    },
+    {
+      "label": "a.",
+      "content": "cyklóna a anticyklóna"
+    },
+    {
+      "label": "b.",
+      "content": "atmosférické fronty"
+    },
+    {
+      "label": "c.",
+      "content": "typy předpovědi počasí"
+    },
+    {
+      "label": "d.",
+      "content": "využití meteo-předpovědí v zemědělské praxi"
+    },
+    {
+      "label": "7.",
+      "content": "Klimatologie (dotace 3/2)"
+    },
+    {
+      "label": "a.",
+      "content": "klima světa"
+    },
+    {
+      "label": "b.",
+      "content": "klima Evropy"
+    },
+    {
+      "label": "c.",
+      "content": "klima ČR"
+    },
+    {
+      "label": "d.",
+      "content": "Atlas podnebí Česka"
+    },
+    {
+      "label": "8.",
+      "content": "Agrometeorologické aplikace (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "v závlahách"
+    },
+    {
+      "label": "b.",
+      "content": "v ochraně roslin"
+    },
+    {
+      "label": "c.",
+      "content": "v prognóze výsledků"
+    },
+    {
+      "label": "d.",
+      "content": "v oblasti dopadů sucha"
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, LS 2022/2023, ZS 2022/2023, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Bioklimatologie"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Bioclimatology"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Lenka Bartošová, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav agrosystémů a bioklimatologie (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Lenka Bartošová, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Marcela Hlaváčová, Ph.D. (cvičící)Ing. Matěj Orság, Ph.D. (cvičící)prof. Ing. Zdeněk Žalud, Ph.D. (přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí13.00-14.50Q19L. BartošováPřednáškaKaždý týden36Středa15.00-16.50A47L. BartošováCvičeníKaždý týden20Středa17.00-18.50A47L. BartošováCvičeníKaždý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Získat znalosti v oblasti vazeb atmosféra-půda-rostlina s důrazem na klimatický systém, jednotlivé meteorologické prvky a procesy se zaměřením na jejich bioklimatologický význam. Pochopit význam počasí a podnebí pro procesy růstu a vývoje polních plodin na úrovni rostliny a agrosystému. Během studia získá student dovednosti zvládnutím metod měření meteorologických prvků a vyhodnocování meteorologických a agrometeorologických pozorování."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Klimatický systém (dotace 2/1) a.Faktory prostředíb.Síť meteorologických stanicc.počasí, podnebíd.radarová měření a jejich využití v zemědělství2.Fyzika atmosféry (dotace 2/1) a.vzduchb.složky vzduchu a jejich význam pro rostlinyc.stratifikace atmosféryd.ozonosférae.dopady UV-B záření na rostliny a živočichy3.Radiační a energetická bilance (dotace 4/2) a.sluneční záření, formy a složkyb.krátkovlnná, dlouhovlnná bilancec.dopady sluneční energie na rostliny a živočichyd.toky energie, energetická bilance aktivního povrchue.skleníkový efekt, globální změna4.Meteorologické prvky (dotace 8/4) a.teplota vzduchub.vlhkost vzduchuc.evapotranspiraced.hydrometeory, oblakae.problematika sucha a jeho dopady na zemědělstvíf.bioklimatologický význam meteorologických prvků5.Cirkulace atmosféry (dotace 4/2) a.primární, sekundární a terciální cirkulace atmosféryb.vzduchové hmotyc.tlak vzduchu a vítrd.tlakové útvarye.bioklimatologický dopad cirkulace vzduchu6.Synoptická meteorologie (dotace 3/1) a.cyklóna a anticyklónab.atmosférické frontyc.typy předpovědi počasíd.využití meteo-předpovědí v zemědělské praxi7.Klimatologie (dotace 3/2) a.klima světab.klima Evropyc.klima ČRd.Atlas podnebí Česka8.Agrometeorologické aplikace (dotace 2/1) a.v závlaháchb.v ochraně roslinc.v prognóze výsledkůd.v oblasti dopadů sucha"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Faktory prostředíb.Síť meteorologických stanicc.počasí, podnebíd.radarová měření a jejich využití v zemědělství"
+    },
+    {
+      "label": "[section] Klimatický systém",
+      "content": "a.Faktory prostředíb.Síť meteorologických stanicc.počasí, podnebíd.radarová měření a jejich využití v zemědělství"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.vzduchb.složky vzduchu a jejich význam pro rostlinyc.stratifikace atmosféryd.ozonosférae.dopady UV-B záření na rostliny a živočichy"
+    },
+    {
+      "label": "[section] Fyzika atmosféry",
+      "content": "a.vzduchb.složky vzduchu a jejich význam pro rostlinyc.stratifikace atmosféryd.ozonosférae.dopady UV-B záření na rostliny a živočichy"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.sluneční záření, formy a složkyb.krátkovlnná, dlouhovlnná bilancec.dopady sluneční energie na rostliny a živočichyd.toky energie, energetická bilance aktivního povrchue.skleníkový efekt, globální změna"
+    },
+    {
+      "label": "[section] Radiační a energetická bilance",
+      "content": "a.sluneční záření, formy a složkyb.krátkovlnná, dlouhovlnná bilancec.dopady sluneční energie na rostliny a živočichyd.toky energie, energetická bilance aktivního povrchue.skleníkový efekt, globální změna"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.teplota vzduchub.vlhkost vzduchuc.evapotranspiraced.hydrometeory, oblakae.problematika sucha a jeho dopady na zemědělstvíf.bioklimatologický význam meteorologických prvků"
+    },
+    {
+      "label": "[section] Meteorologické prvky",
+      "content": "a.teplota vzduchub.vlhkost vzduchuc.evapotranspiraced.hydrometeory, oblakae.problematika sucha a jeho dopady na zemědělstvíf.bioklimatologický význam meteorologických prvků"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.primární, sekundární a terciální cirkulace atmosféryb.vzduchové hmotyc.tlak vzduchu a vítrd.tlakové útvarye.bioklimatologický dopad cirkulace vzduchu"
+    },
+    {
+      "label": "[section] Cirkulace atmosféry",
+      "content": "a.primární, sekundární a terciální cirkulace atmosféryb.vzduchové hmotyc.tlak vzduchu a vítrd.tlakové útvarye.bioklimatologický dopad cirkulace vzduchu"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.cyklóna a anticyklónab.atmosférické frontyc.typy předpovědi počasíd.využití meteo-předpovědí v zemědělské praxi"
+    },
+    {
+      "label": "[section] Synoptická meteorologie",
+      "content": "a.cyklóna a anticyklónab.atmosférické frontyc.typy předpovědi počasíd.využití meteo-předpovědí v zemědělské praxi"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.klima světab.klima Evropyc.klima ČRd.Atlas podnebí Česka"
+    },
+    {
+      "label": "[section] Klimatologie",
+      "content": "a.klima světab.klima Evropyc.klima ČRd.Atlas podnebí Česka"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.v závlaháchb.v ochraně roslinc.v prognóze výsledkůd.v oblasti dopadů sucha"
+    },
+    {
+      "label": "[section] Agrometeorologické aplikace",
+      "content": "a.v závlaháchb.v ochraně roslinc.v prognóze výsledkůd.v oblasti dopadů sucha"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška24 hcvičení12 hkonzultace6 hpříprava na zkoušku40 hpříprava na průběžné hodnocení16 hpříprava na průběžný test4 hzpracování protokolů10 hCelkem112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "zápočet a ústní zkouška Student obdrží na posledním semináři po odevzdání seminárních protokolů zápočet, který je podmínkou k absolvování zkoušky. Ta je ústní, a to formou 30-40 minutového pohovoru, student obdrží 6 otázek a pro složení zkoušky je nutná 100 % odpověď u tří z nich a prokázání minimální znalosti (alespoň 25 %) ze zbývajících tří."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:ŽALUD, Zdeněk. 2015. Bioklimatologie. Praha: Mendelova univerzita v Brně, 168 s. ISBN 978-80-7509-189-5.Doporučená:TOLASZ, Radim a kol. 2007. Atlas podnebí Česka = Climate atlas of Czechia. 1. vyd. Praha: Český hydrometeorologický ústav ;, 255 s. ISBN 978-80-86690-26-1.SVOBODA, Jan; ŽALUD, Zdeněk. 1997. Bioklimatologie: (návody do cvičení). 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 75 s. ISBN 80-7157-255-1.ŽALUD, Zdeněk a kol. 2009. Změna klimatu a české zemědělství - dopady a adaptace. 10. vyd. Brno: Folia Mendelovy zemědělské a lesnické univerzity v Brně, 154 s. 2. ISBN 978-80-7375-369-6.HÁJKOVÁ, Lenka; VOŽENÍLEK, Vít; TOLASZ, Radim; KOHUT, Mojmír; MOŽNÝ, Martin; NEKOVÁŘ, JIří; NOVÁK, Martin; REITSCHLAGER, Jan David; STŘÍŽ, Martin; VÁVRA, Aleš; VONDRÁKOVÁ, Alena. 2012. Atlas fenologických poměrů Česka. 1. vyd. Praha: Olomouc: ČHMÚ, Univerzita Palackého v Olomouci, ISBN 978-80-86690-98-8."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "ŽALUD, Zdeněk. 2015. Bioklimatologie. Praha: Mendelova univerzita v Brně, 168 s. ISBN 978-80-7509-189-5."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "TOLASZ, Radim a kol. 2007. Atlas podnebí Česka = Climate atlas of Czechia. 1. vyd. Praha: Český hydrometeorologický ústav ;, 255 s. ISBN 978-80-86690-26-1.SVOBODA, Jan; ŽALUD, Zdeněk. 1997. Bioklimatologie: (návody do cvičení). 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 75 s. ISBN 80-7157-255-1.ŽALUD, Zdeněk a kol. 2009. Změna klimatu a české zemědělství - dopady a adaptace. 10. vyd. Brno: Folia Mendelovy zemědělské a lesnické univerzity v Brně, 154 s. 2. ISBN 978-80-7375-369-6.HÁJKOVÁ, Lenka; VOŽENÍLEK, Vít; TOLASZ, Radim; KOHUT, Mojmír; MOŽNÝ, Martin; NEKOVÁŘ, JIří; NOVÁK, Martin; REITSCHLAGER, Jan David; STŘÍŽ, Martin; VÁVRA, Aleš; VONDRÁKOVÁ, Alena. 2012. Atlas fenologických poměrů Česka. 1. vyd. Praha: Olomouc: ČHMÚ, Univerzita Palackého v Olomouci, ISBN 978-80-86690-98-8."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Specializace SBAE Agroekologie, prezenční forma, počáteční období ZS 2024/2025Specializace SBVAES Voda v agroekosystému, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "BIOKL"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Bioklimatologie"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Bioclimatology"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Lenka Bartošová, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Agrosystems and Bioclimatology (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Lenka Bartošová, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Marcela Hlaváčová, Ph.D. (instructor)Ing. Matěj Orság, Ph.D. (instructor)prof. Ing. Zdeněk Žalud, Ph.D. (examiner, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Meteorological observations and measurements (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Past and present of meteorology, climatology and bioclimatology"
+    },
+    {
+      "label": "b.",
+      "content": "Czech Hydrometeorological Institute, clasification of meteorological stations"
+    },
+    {
+      "label": "c.",
+      "content": "clasification of meteorological satellite observations, the possibility of using remote sensing in agriculture"
+    },
+    {
+      "label": "d.",
+      "content": "weather radar, upper air measurements"
+    },
+    {
+      "label": "2.",
+      "content": "Atmosphere (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Stratification and atmospheric composition"
+    },
+    {
+      "label": "b.",
+      "content": "Ozon layer and UV-B radiation"
+    },
+    {
+      "label": "3.",
+      "content": "Radiation and energy balance on crop canopy level (allowance 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "radiation and its distribution, biological significance"
+    },
+    {
+      "label": "b.",
+      "content": "radiation balance"
+    },
+    {
+      "label": "c.",
+      "content": "energy balance"
+    },
+    {
+      "label": "d.",
+      "content": "climate change impacts on plants growth and development"
+    },
+    {
+      "label": "e.",
+      "content": "case study of climate change impacts on winter wheat ans spring barley"
+    },
+    {
+      "label": "4.",
+      "content": "Temperature and plants (allowance 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Temperature - basic features"
+    },
+    {
+      "label": "b.",
+      "content": "Temperature gradients"
+    },
+    {
+      "label": "c.",
+      "content": "Temperature sums"
+    },
+    {
+      "label": "d.",
+      "content": "Temperature and plants growth and development, temperature limits"
+    },
+    {
+      "label": "e.",
+      "content": "Soil temperature"
+    },
+    {
+      "label": "5.",
+      "content": "Water cycle (allowance 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "air moisture"
+    },
+    {
+      "label": "b.",
+      "content": "evapotransiration, real, reference and potential"
+    },
+    {
+      "label": "c.",
+      "content": "clouds, cloudniss and precipitation"
+    },
+    {
+      "label": "6.",
+      "content": "Synoptic meteorology (allowance 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "pressure and wind, circulation of the atmosphere"
+    },
+    {
+      "label": "b.",
+      "content": "airmass, cyclogenesis,"
+    },
+    {
+      "label": "c.",
+      "content": "weather forecast"
+    },
+    {
+      "label": "7.",
+      "content": "Climatology and phenology (allowance 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "climate factors and categories"
+    },
+    {
+      "label": "b.",
+      "content": "world and European climate"
+    },
+    {
+      "label": "c.",
+      "content": "climate of the Czech Republic"
+    },
+    {
+      "label": "d.",
+      "content": "climatological and phenological studies"
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, SS 2022/2023, WS 2022/2023, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Bioklimatologie"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Bioclimatology"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Lenka Bartošová, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Agrosystems and Bioclimatology (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Lenka Bartošová, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Marcela Hlaváčová, Ph.D. (instructor)Ing. Matěj Orság, Ph.D. (instructor)prof. Ing. Zdeněk Žalud, Ph.D. (examiner, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday13.00-14.50Q19L. BartošováLectureEvery week36Wednesday15.00-16.50A47L. BartošováSeminarEvery week20Wednesday17.00-18.50A47L. BartošováSeminarEvery week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "To educate students in methods of measurement and evaluation of the meteorological and agrometeorological observations and also in methods of an agroclimatological evaluation of the environment including the agrometeorological zonation. Students will be taught to apply acquired knowledge of the subject into growing technologies and will learn basic principles of utilization of meteorological knowledge in agriculture."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Meteorological observations and measurements (allowance 2/1) a.Past and present of meteorology, climatology and bioclimatologyb.Czech Hydrometeorological Institute, clasification of meteorological stationsc.clasification of meteorological satellite observations, the possibility of using remote sensing in agricultured.weather radar, upper air measurements2.Atmosphere (allowance 2/1) a.Stratification and atmospheric compositionb.Ozon layer and UV-B radiation3.Radiation and energy balance on crop canopy level (allowance 4/2) a.radiation and its distribution, biological significanceb.radiation balancec.energy balanced.climate change impacts on plants growth and developmente.case study of climate change impacts on winter wheat ans spring barley4.Temperature and plants (allowance 4/2) a.Temperature - basic featuresb.Temperature gradientsc.Temperature sumsd.Temperature and plants growth and development, temperature limitse.Soil temperature5.Water cycle (allowance 4/2) a.air moistureb.evapotransiration, real, reference and potentialc.clouds, cloudniss and precipitation6.Synoptic meteorology (allowance 4/2) a.pressure and wind, circulation of the atmosphereb.airmass, cyclogenesis,c.weather forecast7.Climatology and phenology (allowance 4/2) a.climate factors and categoriesb.world and European climatec.climate of the Czech Republicd.climatological and phenological studies"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Past and present of meteorology, climatology and bioclimatologyb.Czech Hydrometeorological Institute, clasification of meteorological stationsc.clasification of meteorological satellite observations, the possibility of using remote sensing in agricultured.weather radar, upper air measurements"
+    },
+    {
+      "label": "[section] Meteorological observations and measurements",
+      "content": "a.Past and present of meteorology, climatology and bioclimatologyb.Czech Hydrometeorological Institute, clasification of meteorological stationsc.clasification of meteorological satellite observations, the possibility of using remote sensing in agricultured.weather radar, upper air measurements"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Stratification and atmospheric compositionb.Ozon layer and UV-B radiation"
+    },
+    {
+      "label": "[section] Atmosphere",
+      "content": "a.Stratification and atmospheric compositionb.Ozon layer and UV-B radiation"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.radiation and its distribution, biological significanceb.radiation balancec.energy balanced.climate change impacts on plants growth and developmente.case study of climate change impacts on winter wheat ans spring barley"
+    },
+    {
+      "label": "[section] Radiation and energy balance on crop canopy level",
+      "content": "a.radiation and its distribution, biological significanceb.radiation balancec.energy balanced.climate change impacts on plants growth and developmente.case study of climate change impacts on winter wheat ans spring barley"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Temperature - basic featuresb.Temperature gradientsc.Temperature sumsd.Temperature and plants growth and development, temperature limitse.Soil temperature"
+    },
+    {
+      "label": "[section] Temperature and plants",
+      "content": "a.Temperature - basic featuresb.Temperature gradientsc.Temperature sumsd.Temperature and plants growth and development, temperature limitse.Soil temperature"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.air moistureb.evapotransiration, real, reference and potentialc.clouds, cloudniss and precipitation"
+    },
+    {
+      "label": "[section] Water cycle",
+      "content": "a.air moistureb.evapotransiration, real, reference and potentialc.clouds, cloudniss and precipitation"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.pressure and wind, circulation of the atmosphereb.airmass, cyclogenesis,c.weather forecast"
+    },
+    {
+      "label": "[section] Synoptic meteorology",
+      "content": "a.pressure and wind, circulation of the atmosphereb.airmass, cyclogenesis,c.weather forecast"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.climate factors and categoriesb.world and European climatec.climate of the Czech Republicd.climatological and phenological studies"
+    },
+    {
+      "label": "[section] Climatology and phenology",
+      "content": "a.climate factors and categoriesb.world and European climatec.climate of the Czech Republicd.climatological and phenological studies"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture24 hpractice12 hconsultation6 hpreparation for exam40 hpreparation for regular assessment16 hpreparation for regular testing4 helaboration of reports10 hTotal112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "oral exam Students will receive the final credit after seminars passing and submission of protocols, which is a condition for passing exams. This is oral, in the form of 30-40 minute interview. Student will receive 6 questions and for successful exam is required 100% response in three of them and demonstrate minimal knowledge (at least 25%) of the remaining three."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:ŽALUD, Zdeněk. 2015. Bioklimatologie. Praha: Mendelova univerzita v Brně, 168 p. ISBN 978-80-7509-189-5.Recommended:TOLASZ, Radim et al. 2007. Atlas podnebí Česka = Climate atlas of Czechia. 1st ed. Praha: Český hydrometeorologický ústav ;, 255 p. ISBN 978-80-86690-26-1.SVOBODA, Jan; ŽALUD, Zdeněk. 1997. Bioklimatologie: (návody do cvičení). 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 75 p. ISBN 80-7157-255-1.ŽALUD, Zdeněk et al. 2009. Změna klimatu a české zemědělství - dopady a adaptace. 10th ed. Brno: Folia Mendelovy zemědělské a lesnické univerzity v Brně, 154 p. 2. ISBN 978-80-7375-369-6.HÁJKOVÁ, Lenka; VOŽENÍLEK, Vít; TOLASZ, Radim; KOHUT, Mojmír; MOŽNÝ, Martin; NEKOVÁŘ, JIří; NOVÁK, Martin; REITSCHLAGER, Jan David; STŘÍŽ, Martin; VÁVRA, Aleš; VONDRÁKOVÁ, Alena. 2012. Atlas fenologických poměrů Česka. 1st ed. Praha: Olomouc: ČHMÚ, Univerzita Palackého v Olomouci, ISBN 978-80-86690-98-8."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "ŽALUD, Zdeněk. 2015. Bioklimatologie. Praha: Mendelova univerzita v Brně, 168 p. ISBN 978-80-7509-189-5."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "TOLASZ, Radim et al. 2007. Atlas podnebí Česka = Climate atlas of Czechia. 1st ed. Praha: Český hydrometeorologický ústav ;, 255 p. ISBN 978-80-86690-26-1.SVOBODA, Jan; ŽALUD, Zdeněk. 1997. Bioklimatologie: (návody do cvičení). 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 75 p. ISBN 80-7157-255-1.ŽALUD, Zdeněk et al. 2009. Změna klimatu a české zemědělství - dopady a adaptace. 10th ed. Brno: Folia Mendelovy zemědělské a lesnické univerzity v Brně, 154 p. 2. ISBN 978-80-7375-369-6.HÁJKOVÁ, Lenka; VOŽENÍLEK, Vít; TOLASZ, Radim; KOHUT, Mojmír; MOŽNÝ, Martin; NEKOVÁŘ, JIří; NOVÁK, Martin; REITSCHLAGER, Jan David; STŘÍŽ, Martin; VÁVRA, Aleš; VONDRÁKOVÁ, Alena. 2012. Atlas fenologických poměrů Česka. 1st ed. Praha: Olomouc: ČHMÚ, Univerzita Palackého v Olomouci, ISBN 978-80-86690-98-8."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Track SBAE Agroecology, full-time form, initial period WS 2024/2025Track SBVAES Water in Agroecosystem, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:18:20",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

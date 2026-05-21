@@ -1,5 +1,15 @@
 {
   "courseCode": "EXO",
+  "name": "Extenzivní ovocnictví",
+  "nameCs": null,
+  "nameEn": null,
+  "predmetId": "147699",
+  "facultyId": 60,
+  "aliases": [
+    "EXOV",
+    "EXOVO"
+  ],
+  "teachers": [],
   "stats": [
     {
       "semesterName": "ZS 2023/2024 - ZF",
@@ -119,31 +129,6 @@
       ]
     },
     {
-      "semesterName": "ZS 2020/2021 - LDF",
-      "semesterId": "588",
-      "year": 2020,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123887;lang=cz",
-      "totalPass": 10,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 5,
-            "C": 2,
-            "D": 2,
-            "E": 1,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 10,
-          "fail": 0
-        }
-      ]
-    },
-    {
       "semesterName": "ZS 2020/2021 - ZF",
       "semesterId": "590",
       "year": 2020,
@@ -181,7 +166,32 @@
           "fail": 0
         }
       ]
+    },
+    {
+      "semesterName": "ZS 2020/2021 - LDF",
+      "semesterId": "588",
+      "year": 2020,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123887;lang=cz",
+      "totalPass": 10,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 5,
+            "C": 2,
+            "D": 2,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 10,
+          "fail": 0
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-03-07T08:18:27.589Z"
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
 }

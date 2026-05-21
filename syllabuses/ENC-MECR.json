@@ -1,0 +1,801 @@
+{
+  "courseCode": "ENC-MECR",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENC-MECR"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Modely ekonomických časových řad"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Economic Time Series Models"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Luboš Střelec, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav statistiky a operačního výzkumu (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Luboš Střelec, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do analýzy časových řad (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Vymezení časové řady"
+    },
+    {
+      "label": "b.",
+      "content": "Základní vlastnosti časových řad"
+    },
+    {
+      "label": "c.",
+      "content": "Specifické vlastnosti ekonomických časových řad"
+    },
+    {
+      "label": "d.",
+      "content": "Grafická reprezentace ekonomických časových řad"
+    },
+    {
+      "label": "2.",
+      "content": "Lineární modely jednorozměrných stacionárních časových řad (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Lineární proces"
+    },
+    {
+      "label": "b.",
+      "content": "Autoregresní procesy"
+    },
+    {
+      "label": "c.",
+      "content": "Procesy klouzavých průměrů"
+    },
+    {
+      "label": "d.",
+      "content": "Smíšené procesy"
+    },
+    {
+      "label": "3.",
+      "content": "Lineární modely jednorozměrných nestacionárních časových řad (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Proces náhodné procházky"
+    },
+    {
+      "label": "b.",
+      "content": "ARIMA procesy"
+    },
+    {
+      "label": "c.",
+      "content": "Výstavba jednorozměrných časových řad"
+    },
+    {
+      "label": "4.",
+      "content": "Lineární modely sezónních časových řad (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Sezónní autoregresní procesy"
+    },
+    {
+      "label": "b.",
+      "content": "Sezónní procesy klouzavých průměrů"
+    },
+    {
+      "label": "c.",
+      "content": "Smíšené sezónní a nesezónní procesy"
+    },
+    {
+      "label": "d.",
+      "content": "Modely sezónních integrovaných časových řad"
+    },
+    {
+      "label": "5.",
+      "content": "Modely volatility (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Lineární modely volatility"
+    },
+    {
+      "label": "b.",
+      "content": "Nelineární modely volatility"
+    },
+    {
+      "label": "c.",
+      "content": "Výstavba modelů volatility"
+    },
+    {
+      "label": "6.",
+      "content": "Lineární modely vícerozměrných stacionárních časových řad (dotace 4/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Vícerozměrný lineární proces"
+    },
+    {
+      "label": "b.",
+      "content": "Vektorové autoregresní procesy"
+    },
+    {
+      "label": "c.",
+      "content": "Vektorové procesy klouzavých průměrů"
+    },
+    {
+      "label": "d.",
+      "content": "Smíšené vektorové procesy"
+    },
+    {
+      "label": "e.",
+      "content": "Kauzalita v časových řadách"
+    },
+    {
+      "label": "f.",
+      "content": "Grangerova kauzalita"
+    },
+    {
+      "label": "g.",
+      "content": "Impuls-Response analýza"
+    },
+    {
+      "label": "h.",
+      "content": "Výstavba lineárních modelů vícerozměrných stacionárních časových řad"
+    },
+    {
+      "label": "7.",
+      "content": "Lineární modely vícerozměrných nestacionárních časových řad (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Kointegrované procesy"
+    },
+    {
+      "label": "b.",
+      "content": "Modely korekce chyb"
+    },
+    {
+      "label": "c.",
+      "content": "Výstavba modelů korekce chyb"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "40 %"
+    },
+    {
+      "label": "Prezentace nebo obhajoba",
+      "content": "10 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "50 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Modely ekonomických časových řad"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Economic Time Series Models"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Luboš Střelec, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav statistiky a operačního výzkumu (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Luboš Střelec, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý8.00-8.50Q36L. StřelecPřednáškaKaždý týden24Úterý9.00-10.50Q36L. StřelecCvičeníKaždý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Studenti získají teoretické a praktické vědomosti a znalosti z oblasti pokročilé analýzy ekonomických jednorozměrných i vícerozměrných časových řad. Předpokládáme, že nabyté znalosti a dovednosti budou studenty využity mj. při zpracování diplomových prací."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do analýzy časových řad (dotace 1/2) a.Vymezení časové řadyb.Základní vlastnosti časových řadc.Specifické vlastnosti ekonomických časových řadd.Grafická reprezentace ekonomických časových řad2.Lineární modely jednorozměrných stacionárních časových řad (dotace 2/4) a.Lineární procesb.Autoregresní procesyc.Procesy klouzavých průměrůd.Smíšené procesy3.Lineární modely jednorozměrných nestacionárních časových řad (dotace 2/4) a.Proces náhodné procházkyb.ARIMA procesyc.Výstavba jednorozměrných časových řad4.Lineární modely sezónních časových řad (dotace 1/2) a.Sezónní autoregresní procesyb.Sezónní procesy klouzavých průměrůc.Smíšené sezónní a nesezónní procesyd.Modely sezónních integrovaných časových řad5.Modely volatility (dotace 2/4) a.Lineární modely volatilityb.Nelineární modely volatilityc.Výstavba modelů volatility6.Lineární modely vícerozměrných stacionárních časových řad (dotace 4/8) a.Vícerozměrný lineární procesb.Vektorové autoregresní procesyc.Vektorové procesy klouzavých průměrůd.Smíšené vektorové procesye.Kauzalita v časových řadáchf.Grangerova kauzalitag.Impuls-Response analýzah.Výstavba lineárních modelů vícerozměrných stacionárních časových řad7.Lineární modely vícerozměrných nestacionárních časových řad (dotace 2/4) a.Kointegrované procesyb.Modely korekce chybc.Výstavba modelů korekce chyb"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Vymezení časové řadyb.Základní vlastnosti časových řadc.Specifické vlastnosti ekonomických časových řadd.Grafická reprezentace ekonomických časových řad"
+    },
+    {
+      "label": "[section] Úvod do analýzy časových řad",
+      "content": "a.Vymezení časové řadyb.Základní vlastnosti časových řadc.Specifické vlastnosti ekonomických časových řadd.Grafická reprezentace ekonomických časových řad"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Lineární procesb.Autoregresní procesyc.Procesy klouzavých průměrůd.Smíšené procesy"
+    },
+    {
+      "label": "[section] Lineární modely jednorozměrných stacionárních časových řad",
+      "content": "a.Lineární procesb.Autoregresní procesyc.Procesy klouzavých průměrůd.Smíšené procesy"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Proces náhodné procházkyb.ARIMA procesyc.Výstavba jednorozměrných časových řad"
+    },
+    {
+      "label": "[section] Lineární modely jednorozměrných nestacionárních časových řad",
+      "content": "a.Proces náhodné procházkyb.ARIMA procesyc.Výstavba jednorozměrných časových řad"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Sezónní autoregresní procesyb.Sezónní procesy klouzavých průměrůc.Smíšené sezónní a nesezónní procesyd.Modely sezónních integrovaných časových řad"
+    },
+    {
+      "label": "[section] Lineární modely sezónních časových řad",
+      "content": "a.Sezónní autoregresní procesyb.Sezónní procesy klouzavých průměrůc.Smíšené sezónní a nesezónní procesyd.Modely sezónních integrovaných časových řad"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Lineární modely volatilityb.Nelineární modely volatilityc.Výstavba modelů volatility"
+    },
+    {
+      "label": "[section] Modely volatility",
+      "content": "a.Lineární modely volatilityb.Nelineární modely volatilityc.Výstavba modelů volatility"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Vícerozměrný lineární procesb.Vektorové autoregresní procesyc.Vektorové procesy klouzavých průměrůd.Smíšené vektorové procesye.Kauzalita v časových řadáchf.Grangerova kauzalitag.Impuls-Response analýzah.Výstavba lineárních modelů vícerozměrných stacionárních časových řad"
+    },
+    {
+      "label": "[section] Lineární modely vícerozměrných stacionárních časových řad",
+      "content": "a.Vícerozměrný lineární procesb.Vektorové autoregresní procesyc.Vektorové procesy klouzavých průměrůd.Smíšené vektorové procesye.Kauzalita v časových řadáchf.Grangerova kauzalitag.Impuls-Response analýzah.Výstavba lineárních modelů vícerozměrných stacionárních časových řad"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Kointegrované procesyb.Modely korekce chybc.Výstavba modelů korekce chyb"
+    },
+    {
+      "label": "[section] Lineární modely vícerozměrných nestacionárních časových řad",
+      "content": "a.Kointegrované procesyb.Modely korekce chybc.Výstavba modelů korekce chyb"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení28 hpříprava na zkoušku56 hpříprava prezentace6 hzpracování seminární práce36 hprůběžná příprava na cvičení28 hCelkem168 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Pro úspěšné absolvování předmětu je nutné splnění obou následujících dílčích podmínek: 1. Zpracovaný, v řádném termínu odevzdaný, odprezentovaný a úspěšně obhájený individuální semestrální projekt – pro úspěšné absolvování této dílčí podmínky je nutné získat minimálně 60 % možných bodů. 2. Úspěšně absolvovaná závěrečná písemná zkouška zahrnující teoretickou a praktickou část – pro úspěšné absolvování závěrečné písemné zkoušky je nutné získat minimálně 60 % možných bodů. Student, který nesplnil některou z výše uvedených dílčích podmínek předmětu, je z předmětu hodnocen známkou \"nevyhověl (F)\". Dílčí podmínka semestrálního projektu představuje průběžnou kontrolu studijních povinností. Výsledek průběžné kontroly studijních povinností je po úspěšně absolvované závěrečné písemné zkoušce zohledněn při ukončení předmětu. Výsledné hodnocení předmětu je tak dáno součtem získaných bodů ze semestrálního projektu a závěrečné písemné zkoušky, a to následovně: [90 – 100] bodů = A [83 – 90) bodů = B [75 – 83) bodů = C [68 – 75) bodů = D [60 – 68) bodů = E [0 – 60) bodů = F Jakékoli opisování, zaznamenávání nebo vynášení průběžných testů či zkouškových písemek, používání nedovolených pomůcek, mobilních telefonů či jiných komunikačních zařízení nebo jiné narušování objektivity zkoušky či průběžných testů bude považováno za nesplnění podmínek ukončení předmětu a za hrubé porušení studijních předpisů. Následkem toho uzavře vyučující předmět v UIS hodnocením \"nevyhověl (F)\", případně se studentem zahájí disciplinární řízení."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumVypracování semestrální práce40 %Prezentace nebo obhajoba10 %Absolvování závěrečného testu50 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:ARLT, Josef; ARLTOVÁ, Markéta. 2009. Ekonomické časové řady. 1. vyd. Praha: Professional Publishing, 290 s. ISBN 978-80-86946-85-6.Doporučená:BOX, G. E. P. – JENKINS, G. M. – REINSEL, G. C. – LJUNG, G. M. Time Series Analysis: Forecasting and Control. 5. vyd. Wiley, 2015. 712 s. ISBN 978-1-118-67502-1.BROCKWELL, P. J. – DAVIS, R. A. Introduction to Time Series and Forecasting. 3. vyd. Springer, 2016. 425 s. ISBN 978-3-319-29854-2.KIRCHGÄSSNER, G. – WOLTERS, J. – HASSLER, U. Introduction to Modern Time Series Analysis. 2. vyd. Springer, 2013. 320 s. ISBN 978-3-642-33436-8.SHUMWAY, R. H., STOFFER, D. S. Time Series Analysis and Its Application, With R Examples. 4. vyd. Springer, 2017. 562 s. ISBN 978-3-319-52452-8.TSAY, R. S. Analysis of financial time series. 3. vyd. Wiley, 2010. 677 s. ISBN 978-0-470-41435-4.TSAY, R. S. Multivariate Time Series Analysis: With R and Financial Applications. 1. vyd. Wiley, 2013. 520 s. ISBN 978-1-118-61790-8."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "ARLT, Josef; ARLTOVÁ, Markéta. 2009. Ekonomické časové řady. 1. vyd. Praha: Professional Publishing, 290 s. ISBN 978-80-86946-85-6."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "BOX, G. E. P. – JENKINS, G. M. – REINSEL, G. C. – LJUNG, G. M. Time Series Analysis: Forecasting and Control. 5. vyd. Wiley, 2015. 712 s. ISBN 978-1-118-67502-1.BROCKWELL, P. J. – DAVIS, R. A. Introduction to Time Series and Forecasting. 3. vyd. Springer, 2016. 425 s. ISBN 978-3-319-29854-2.KIRCHGÄSSNER, G. – WOLTERS, J. – HASSLER, U. Introduction to Modern Time Series Analysis. 2. vyd. Springer, 2013. 320 s. ISBN 978-3-642-33436-8.SHUMWAY, R. H., STOFFER, D. S. Time Series Analysis and Its Application, With R Examples. 4. vyd. Springer, 2017. 562 s. ISBN 978-3-319-52452-8.TSAY, R. S. Analysis of financial time series. 3. vyd. Wiley, 2010. 677 s. ISBN 978-0-470-41435-4.TSAY, R. S. Multivariate Time Series Analysis: With R and Financial Applications. 1. vyd. Wiley, 2013. 520 s. ISBN 978-1-118-61790-8."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-EMOS Ekonomické modelování a aplikovaná statistika, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENC-MECR"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Modely ekonomických časových řad"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Economic Time Series Models"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course cannot be studied during the mobility abroad."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Luboš Střelec, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Statistics and Operation Analysis (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Luboš Střelec, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to time series analysis (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Definition of time series"
+    },
+    {
+      "label": "b.",
+      "content": "Basic properties of time series"
+    },
+    {
+      "label": "c.",
+      "content": "Specific properties of economic time series"
+    },
+    {
+      "label": "d.",
+      "content": "Graphical representation of economic time series"
+    },
+    {
+      "label": "2.",
+      "content": "Linear models of univariate stationary time series (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Linear process"
+    },
+    {
+      "label": "b.",
+      "content": "Autoregressive processes"
+    },
+    {
+      "label": "c.",
+      "content": "Moving Average processes"
+    },
+    {
+      "label": "d.",
+      "content": "Autoregressive Moving Average processes"
+    },
+    {
+      "label": "3.",
+      "content": "Univariate time series models (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Random walk process"
+    },
+    {
+      "label": "b.",
+      "content": "ARIMA processes"
+    },
+    {
+      "label": "c.",
+      "content": "Construction of univariate time series"
+    },
+    {
+      "label": "4.",
+      "content": "Univariate seasonal time series models (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Seasonal Autoregressive processes"
+    },
+    {
+      "label": "b.",
+      "content": "Seasonal Moving Average processes"
+    },
+    {
+      "label": "c.",
+      "content": "Seasonal Autoregressive Moving Average processes"
+    },
+    {
+      "label": "d.",
+      "content": "Seasonal integrated time series models"
+    },
+    {
+      "label": "5.",
+      "content": "Volatility models (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Linear volatily models"
+    },
+    {
+      "label": "b.",
+      "content": "Nonlinear volatility models"
+    },
+    {
+      "label": "c.",
+      "content": "Construction of volatility models"
+    },
+    {
+      "label": "6.",
+      "content": "Linear models of multivariate stationary time series (allowance 4/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Multivariate linear process"
+    },
+    {
+      "label": "b.",
+      "content": "Vector Autoregressive processes"
+    },
+    {
+      "label": "c.",
+      "content": "Vector Moving Average processes"
+    },
+    {
+      "label": "d.",
+      "content": "Vector Autoregressive Moving Average processes"
+    },
+    {
+      "label": "e.",
+      "content": "Causality in time series"
+    },
+    {
+      "label": "f.",
+      "content": "Granger causality"
+    },
+    {
+      "label": "g.",
+      "content": "Impuls-Response analysis"
+    },
+    {
+      "label": "h.",
+      "content": "Construction of multivariate stationary time series"
+    },
+    {
+      "label": "7.",
+      "content": "Multivariate time series models (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Cointegration"
+    },
+    {
+      "label": "b.",
+      "content": "Error Correction models"
+    },
+    {
+      "label": "c.",
+      "content": "Construction of Error Correction models"
+    },
+    {
+      "label": "Term paper",
+      "content": "40 %"
+    },
+    {
+      "label": "Presentation or defence",
+      "content": "10 %"
+    },
+    {
+      "label": "Final test",
+      "content": "50 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Modely ekonomických časových řad"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Economic Time Series Models"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course cannot be studied during the mobility abroad."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Luboš Střelec, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Statistics and Operation Analysis (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Luboš Střelec, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday8.00-8.50Q36L. StřelecLectureEvery week24Tuesday9.00-10.50Q36L. StřelecSeminarEvery week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Obtaining theoretical knowledge and practical experience with construction of advanced models of univariate and multivariate time series. Knowledge and skills learned in this course are expected to be used during work on student diploma thesis."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to time series analysis (allowance 1/2) a.Definition of time seriesb.Basic properties of time seriesc.Specific properties of economic time seriesd.Graphical representation of economic time series2.Linear models of univariate stationary time series (allowance 2/4) a.Linear processb.Autoregressive processesc.Moving Average processesd.Autoregressive Moving Average processes3.Univariate time series models (allowance 2/4) a.Random walk processb.ARIMA processesc.Construction of univariate time series4.Univariate seasonal time series models (allowance 1/2) a.Seasonal Autoregressive processesb.Seasonal Moving Average processesc.Seasonal Autoregressive Moving Average processesd.Seasonal integrated time series models5.Volatility models (allowance 2/4) a.Linear volatily modelsb.Nonlinear volatility modelsc.Construction of volatility models6.Linear models of multivariate stationary time series (allowance 4/8) a.Multivariate linear processb.Vector Autoregressive processesc.Vector Moving Average processesd.Vector Autoregressive Moving Average processese.Causality in time seriesf.Granger causalityg.Impuls-Response analysish.Construction of multivariate stationary time series7.Multivariate time series models (allowance 2/4) a.Cointegrationb.Error Correction modelsc.Construction of Error Correction models"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Definition of time seriesb.Basic properties of time seriesc.Specific properties of economic time seriesd.Graphical representation of economic time series"
+    },
+    {
+      "label": "[section] Introduction to time series analysis",
+      "content": "a.Definition of time seriesb.Basic properties of time seriesc.Specific properties of economic time seriesd.Graphical representation of economic time series"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Linear processb.Autoregressive processesc.Moving Average processesd.Autoregressive Moving Average processes"
+    },
+    {
+      "label": "[section] Linear models of univariate stationary time series",
+      "content": "a.Linear processb.Autoregressive processesc.Moving Average processesd.Autoregressive Moving Average processes"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Random walk processb.ARIMA processesc.Construction of univariate time series"
+    },
+    {
+      "label": "[section] Univariate time series models",
+      "content": "a.Random walk processb.ARIMA processesc.Construction of univariate time series"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Seasonal Autoregressive processesb.Seasonal Moving Average processesc.Seasonal Autoregressive Moving Average processesd.Seasonal integrated time series models"
+    },
+    {
+      "label": "[section] Univariate seasonal time series models",
+      "content": "a.Seasonal Autoregressive processesb.Seasonal Moving Average processesc.Seasonal Autoregressive Moving Average processesd.Seasonal integrated time series models"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Linear volatily modelsb.Nonlinear volatility modelsc.Construction of volatility models"
+    },
+    {
+      "label": "[section] Volatility models",
+      "content": "a.Linear volatily modelsb.Nonlinear volatility modelsc.Construction of volatility models"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Multivariate linear processb.Vector Autoregressive processesc.Vector Moving Average processesd.Vector Autoregressive Moving Average processese.Causality in time seriesf.Granger causalityg.Impuls-Response analysish.Construction of multivariate stationary time series"
+    },
+    {
+      "label": "[section] Linear models of multivariate stationary time series",
+      "content": "a.Multivariate linear processb.Vector Autoregressive processesc.Vector Moving Average processesd.Vector Autoregressive Moving Average processese.Causality in time seriesf.Granger causalityg.Impuls-Response analysish.Construction of multivariate stationary time series"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Cointegrationb.Error Correction modelsc.Construction of Error Correction models"
+    },
+    {
+      "label": "[section] Multivariate time series models",
+      "content": "a.Cointegrationb.Error Correction modelsc.Construction of Error Correction models"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice28 hpreparation for exam56 hpreparation of presentation6 hwriting of seminar paper36 hcontinuous preparation for seminars28 hTotal168 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "To successfully complete the course, it is necessary to meet all of the following partial conditions: 1. Individual semester project prepared, submitted, presented and successfully defended in due time – for the successful completion of this partial condition is required to obtain at least 60% of possible points. 2. The course is completed by a written examination covering the theoretical and practical part – for the successful completion of the final written exam is required to obtain at least 60% of possible points. A student who has not met any of the above partial conditions of the course is evaluated with the mark \"failed (F)\". The first partial condition represents the continuous monitoring of study obligations. The result of continuous monitoring of study obligations is after successful completion of the final written exam taken into account in completing the course. The final evaluation of the course is given by the sum of points obtained from the mid-term tests, semester project and final written exam, as follows: [90 – 100] points = A [83 – 90) points = B [75 – 83) points = C [68 – 75) points = D [60 – 68) points = E [0 – 60) points = F Any copying, recording or excerpt of tests and written works, the use of illicit devices as well as means of communication or other impairment of objectivity in the verification of knowledge will be considered gross violation of the study regulations. As a result, the course is closed in the UIS by the mark \"failed (F)\". Further, teacher can initiate disciplinary proceedings, which may result in termination of studies."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTerm paper40 %Presentation or defence10 %Final test50 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:ARLT, Josef; ARLTOVÁ, Markéta. 2009. Ekonomické časové řady. 1st ed. Praha: Professional Publishing, 290 p. ISBN 978-80-86946-85-6.Recommended:BOX, G. E. P. – JENKINS, G. M. – REINSEL, G. C. – LJUNG, G. M. Time Series Analysis: Forecasting and Control. 5. vyd. Wiley, 2015. 712 s. ISBN 978-1-118-67502-1.BROCKWELL, P. J. – DAVIS, R. A. Introduction to Time Series and Forecasting. 3. vyd. Springer, 2016. 425 s. ISBN 978-3-319-29854-2.KIRCHGÄSSNER, G. – WOLTERS, J. – HASSLER, U. Introduction to Modern Time Series Analysis. 2. vyd. Springer, 2013. 320 s. ISBN 978-3-642-33436-8.SHUMWAY, R. H., STOFFER, D. S. Time Series Analysis and Its Application, With R Examples. 4. vyd. Springer, 2017. 562 s. ISBN 978-3-319-52452-8.TSAY, R. S. Analysis of financial time series. 3. vyd. Wiley, 2010. 677 s. ISBN 978-0-470-41435-4.TSAY, R. S. Multivariate Time Series Analysis: With R and Financial Applications. 1. vyd. Wiley, 2013. 520 s. ISBN 978-1-118-61790-8."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "ARLT, Josef; ARLTOVÁ, Markéta. 2009. Ekonomické časové řady. 1st ed. Praha: Professional Publishing, 290 p. ISBN 978-80-86946-85-6."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "BOX, G. E. P. – JENKINS, G. M. – REINSEL, G. C. – LJUNG, G. M. Time Series Analysis: Forecasting and Control. 5. vyd. Wiley, 2015. 712 s. ISBN 978-1-118-67502-1.BROCKWELL, P. J. – DAVIS, R. A. Introduction to Time Series and Forecasting. 3. vyd. Springer, 2016. 425 s. ISBN 978-3-319-29854-2.KIRCHGÄSSNER, G. – WOLTERS, J. – HASSLER, U. Introduction to Modern Time Series Analysis. 2. vyd. Springer, 2013. 320 s. ISBN 978-3-642-33436-8.SHUMWAY, R. H., STOFFER, D. S. Time Series Analysis and Its Application, With R Examples. 4. vyd. Springer, 2017. 562 s. ISBN 978-3-319-52452-8.TSAY, R. S. Analysis of financial time series. 3. vyd. Wiley, 2010. 677 s. ISBN 978-0-470-41435-4.TSAY, R. S. Multivariate Time Series Analysis: With R and Financial Applications. 1. vyd. Wiley, 2013. 520 s. ISBN 978-1-118-61790-8."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-EMOS Economic modelling and applied statistics, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:57:52",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

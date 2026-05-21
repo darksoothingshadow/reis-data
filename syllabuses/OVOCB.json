@@ -1,0 +1,985 @@
+{
+  "courseCode": "OVOCB",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "OVOCB"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Ovocnictví (bc.)"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Fruit growing"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 28/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět lze absolvovat během zahraniční cesty nebo ho adekvátně nahradit. Předmět je ukončen písemnou zkouškou."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Tomáš Nečas, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav ovocnictví (ZF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Zahradnická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jonáš Fiala (cvičící)Ing. Tomáš Kiss, Ph.D. (cvičící, přednášející)Ing. Peter Morvay (cvičící)Ing. Tomáš Nečas, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Eliška Zezulová (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Botanika I a Bioklimatologie a AKR19"
+    },
+    {
+      "label": "1.",
+      "content": "Historické aspekty pěstování ovocných druhů (dotace 4/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Historie pěstování ovocných druhů ve světě a na území ČR."
+    },
+    {
+      "label": "b.",
+      "content": "Vznik a domestikace ovocných druhů."
+    },
+    {
+      "label": "c.",
+      "content": "Genová centra."
+    },
+    {
+      "label": "2.",
+      "content": "Ovocné druhy mírného pásma - rozdělení (dotace 0/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Rozdělení druhů do skupin podle všeobecných hledisek."
+    },
+    {
+      "label": "b.",
+      "content": "Významné biologické vlastnosti hlavních druhů z hlediska pěstitelského využití a ve šlechtění."
+    },
+    {
+      "label": "3.",
+      "content": "Význam ovoce a ovocného stromu pro člověka (dotace 4/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam ovocných plodů ve výživě člověka. Ovoce jako potravina."
+    },
+    {
+      "label": "b.",
+      "content": "Biochemické složení ovocných plodů a nutriční hodnota."
+    },
+    {
+      "label": "c.",
+      "content": "Význam ovocného stromu pro člověka. Ovocné výsadby jako ekologický, mikroklimatický, estetický a krajinotvorný prvek."
+    },
+    {
+      "label": "d.",
+      "content": "Pěstování ovoce ve světě."
+    },
+    {
+      "label": "4.",
+      "content": "Ekologické podmínky pro pěstování ovocných druhů (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Rozdělení ekologických činitelů."
+    },
+    {
+      "label": "b.",
+      "content": "Nejvýznamnější ekologičtí činitelé a rozbor jejich vlivu na ovocné dřeviny."
+    },
+    {
+      "label": "c.",
+      "content": "Faktory podnební, půdní a zeměpisní. Možnosti ovlivnění ekologických činitelů."
+    },
+    {
+      "label": "5.",
+      "content": "Rajonizace ovocných druhů (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Rajonizace druhová - obecná charakteristika ovocnářských oblastí (zóny vhodnosti)."
+    },
+    {
+      "label": "b.",
+      "content": "Specifická charakteristika pěstitelských oblastí z hlediska vhodnosti pro jednotlivé ovocné druhy."
+    },
+    {
+      "label": "c.",
+      "content": "Kritické a smrtící minusové teploty pro ovocné dřeviny a možnosti zmírnění účinku mrazů. Preventivní a následná opatření."
+    },
+    {
+      "label": "6.",
+      "content": "Kořenová soustava ovocných dřevin (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Morfologická a anatomická charakteristika kořenové soustavy ovocných dřevin."
+    },
+    {
+      "label": "b.",
+      "content": "Specifické vlastnosti (zvláštnosti) nasávací zóny kořenové soustavy ovocných dřevin"
+    },
+    {
+      "label": "7.",
+      "content": "Nadzemní soustava ovocných dřevin (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Funkce os ovocných dřevin a dynamika jejich růstu. Specifické vlastnosti nadzemních os jako orgánů."
+    },
+    {
+      "label": "b.",
+      "content": "Orgány nadzemní soustavy ovocných dřevin, jejich charakteristika, umístění a funkce"
+    },
+    {
+      "label": "c.",
+      "content": "Zákonitosti vytváření nadzemní soustavy ovocných dřevin Charakteristika a praktické využití poznatků."
+    },
+    {
+      "label": "8.",
+      "content": "Životní cyklus ovocných dřevin (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Velký životní cyklus a věková období. Návaznosti na potřebné agrotechnické úkony."
+    },
+    {
+      "label": "b.",
+      "content": "Juvenilní, adultní, sterilní a fertilní fáze."
+    },
+    {
+      "label": "c.",
+      "content": "Malý životní cyklus a jeho fenofáze."
+    },
+    {
+      "label": "9.",
+      "content": "Zakládání květních pupenů, dormance a problematika afinity u ovocných dřevin, možnosti ovlivnění těchto procesů (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Iniciace a diferenciace pupenů. Hlavní etapy, charakteristika a trvání u ovocných druhů."
+    },
+    {
+      "label": "b.",
+      "content": "Dormance ovocných dřevin, druhová a odrůdová specifika a zjišťování termínu ukončení dormance."
+    },
+    {
+      "label": "c.",
+      "content": "Afinita (kompatibilita) mezi podnoží a roubem. Hlavní podmínky úspěšného srůstu."
+    },
+    {
+      "label": "10.",
+      "content": "Opylování a oplozování u ovocných dřevin (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Opylovací poměry u ovocných dřevin."
+    },
+    {
+      "label": "b.",
+      "content": "Specifické zvláštnosti opylování a oplozování u jabloní."
+    },
+    {
+      "label": "c.",
+      "content": "Problematika cizosprašnosti a stupně samosprašnosti."
+    },
+    {
+      "label": "11.",
+      "content": "Řez ovocných dřevin (dotace 0/14)"
+    },
+    {
+      "label": "a.",
+      "content": "Základy řezu ovocných dřevin"
+    },
+    {
+      "label": "b.",
+      "content": "Řez jádrovin"
+    },
+    {
+      "label": "c.",
+      "content": "Řez peckovin"
+    },
+    {
+      "label": "d.",
+      "content": "Řez ostatních ovocných druhů"
+    },
+    {
+      "label": "12.",
+      "content": "Hlavní pěstitelské systémy ovocných druhů - rozdělení (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Pěstování jádrovin"
+    },
+    {
+      "label": "b.",
+      "content": "Pěstování peckovin"
+    },
+    {
+      "label": "c.",
+      "content": "Pěstování drobného ovoce"
+    },
+    {
+      "label": "d.",
+      "content": "Ostatní druhy - pěstování"
+    },
+    {
+      "label": "13.",
+      "content": "Základy množení ovocných dřevin (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Generativní množení"
+    },
+    {
+      "label": "b.",
+      "content": "Vegetativní množení - přímé"
+    },
+    {
+      "label": "c.",
+      "content": "Vegetativní množení - nepřímé"
+    },
+    {
+      "label": "d.",
+      "content": "Dopěstování výpěstků ve školce"
+    },
+    {
+      "label": "14.",
+      "content": "Periodicita plodnosti a regulace plodnosti (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Periodicita plodnosti, její příčiny a možnosti jejího zmírnění. Index alternace."
+    },
+    {
+      "label": "b.",
+      "content": "Specifické problémy střídavé plodnosti u jabloní, slivoní a meruněk."
+    },
+    {
+      "label": "c.",
+      "content": "Násada plodů a možnosti její regulace."
+    },
+    {
+      "label": "15.",
+      "content": "Pomologie ovocných druhů - základní rozdělení (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Pomologické třídění jádrovin a hlavní odrůdy"
+    },
+    {
+      "label": "b.",
+      "content": "Pomologické třídění peckovin a hlavní odrůdy"
+    },
+    {
+      "label": "c.",
+      "content": "Pomologické třídění drobného ovoce a hlavní odrůdy"
+    },
+    {
+      "label": "d.",
+      "content": "Pomologické třídění ostatních druhů a hlavní odrůdy"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, ZS 2024/2025, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Lednice"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Ovocnictví (bc.)"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Fruit growing"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 28/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 28/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět lze absolvovat během zahraniční cesty nebo ho adekvátně nahradit. Předmět je ukončen písemnou zkouškou."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Tomáš Nečas, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav ovocnictví (ZF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Zahradnická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jonáš Fiala (cvičící)Ing. Tomáš Kiss, Ph.D. (cvičící, přednášející)Ing. Peter Morvay (cvičící)Ing. Tomáš Nečas, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Eliška Zezulová (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Botanika I a Bioklimatologie a AKR19"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaÚterý9.00-10.50ZFAC1 (Led)T. NečasPřednáškaKaždý týden51Úterý12.00-14.50ZFAB2 (Led)E. Zezulová, J. Fiala, T. Kiss, P. MorvayCvičeníKaždý týden18Čtvrtek10.00-12.50ZFAB2 (Led)B-ZIZE. Zezulová, J. Fiala, T. Kiss, P. MorvayCvičeníKaždý týden20Čtvrtek13.00-15.50ZFAB2 (Led)B-ZIZ E. Zezulová, J. Fiala, T. Kiss, P. MorvayCvičeníKaždý týden20Sobota14.00-19.50ZFAB1 (Led)T. Nečas, T. Kiss, E. ZezulováPřednáškaNepravidelně42"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je, aby si posluchači osvojili nejdůležitější poznatky ze základů ovocnictví na nichž je postavena výuka pěstitelských technologií. Posluchači získají poznatky o požadavcích jednotlivých ovocných druhů na přírodní podmínky, o rajonizaci a správném postupu při výběru vhodné lokality pro sady. Poznání zákonitostí růstu a plodnosti ovocných dřevin a jejich morfologických a anatomických zvláštností umožní posluchačům volit zdůvodněně nejvhodnější postupy při přípravě sadby, při realizaci výsadeb, hnojení, závlaze, řezu a formování korun a při dalších agrotechnických opatřeních. Posluchači dále získají přehled o pěstitelských vlastnostech podnoží jako významného faktoru školkařské výroby a pěstování jednotlivých druhů a odrůd na trvalém stanovišti."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Historické aspekty pěstování ovocných druhů (dotace 4/0) a.Historie pěstování ovocných druhů ve světě a na území ČR.b.Vznik a domestikace ovocných druhů.c.Genová centra.2.Ovocné druhy mírného pásma - rozdělení (dotace 0/6) a.Rozdělení druhů do skupin podle všeobecných hledisek.b.Významné biologické vlastnosti hlavních druhů z hlediska pěstitelského využití a ve šlechtění.3.Význam ovoce a ovocného stromu pro člověka (dotace 4/0) a.Význam ovocných plodů ve výživě člověka. Ovoce jako potravina.b.Biochemické složení ovocných plodů a nutriční hodnota.c.Význam ovocného stromu pro člověka. Ovocné výsadby jako ekologický, mikroklimatický, estetický a krajinotvorný prvek.d.Pěstování ovoce ve světě.4.Ekologické podmínky pro pěstování ovocných druhů (dotace 2/0) a.Rozdělení ekologických činitelů.b.Nejvýznamnější ekologičtí činitelé a rozbor jejich vlivu na ovocné dřeviny.c.Faktory podnební, půdní a zeměpisní. Možnosti ovlivnění ekologických činitelů.5.Rajonizace ovocných druhů (dotace 2/0) a.Rajonizace druhová - obecná charakteristika ovocnářských oblastí (zóny vhodnosti).b.Specifická charakteristika pěstitelských oblastí z hlediska vhodnosti pro jednotlivé ovocné druhy.c.Kritické a smrtící minusové teploty pro ovocné dřeviny a možnosti zmírnění účinku mrazů. Preventivní a následná opatření.6.Kořenová soustava ovocných dřevin (dotace 0/4) a.Morfologická a anatomická charakteristika kořenové soustavy ovocných dřevin.b.Specifické vlastnosti (zvláštnosti) nasávací zóny kořenové soustavy ovocných dřevin7.Nadzemní soustava ovocných dřevin (dotace 0/4) a.Funkce os ovocných dřevin a dynamika jejich růstu. Specifické vlastnosti nadzemních os jako orgánů.b.Orgány nadzemní soustavy ovocných dřevin, jejich charakteristika, umístění a funkcec.Zákonitosti vytváření nadzemní soustavy ovocných dřevin Charakteristika a praktické využití poznatků.8.Životní cyklus ovocných dřevin (dotace 2/0) a.Velký životní cyklus a věková období. Návaznosti na potřebné agrotechnické úkony.b.Juvenilní, adultní, sterilní a fertilní fáze.c.Malý životní cyklus a jeho fenofáze.9.Zakládání květních pupenů, dormance a problematika afinity u ovocných dřevin, možnosti ovlivnění těchto procesů (dotace 0/4) a.Iniciace a diferenciace pupenů. Hlavní etapy, charakteristika a trvání u ovocných druhů.b.Dormance ovocných dřevin, druhová a odrůdová specifika a zjišťování termínu ukončení dormance.c.Afinita (kompatibilita) mezi podnoží a roubem. Hlavní podmínky úspěšného srůstu.10.Opylování a oplozování u ovocných dřevin (dotace 0/4) a.Opylovací poměry u ovocných dřevin.b.Specifické zvláštnosti opylování a oplozování u jabloní.c.Problematika cizosprašnosti a stupně samosprašnosti.11.Řez ovocných dřevin (dotace 0/14) a.Základy řezu ovocných dřevinb.Řez jádrovinc.Řez peckovind.Řez ostatních ovocných druhů12.Hlavní pěstitelské systémy ovocných druhů - rozdělení (dotace 2/0) a.Pěstování jádrovinb.Pěstování peckovinc.Pěstování drobného ovoced.Ostatní druhy - pěstování13.Základy množení ovocných dřevin (dotace 2/0) a.Generativní množeníb.Vegetativní množení - příméc.Vegetativní množení - nepříméd.Dopěstování výpěstků ve školce14.Periodicita plodnosti a regulace plodnosti (dotace 2/0) a.Periodicita plodnosti, její příčiny a možnosti jejího zmírnění. Index alternace.b.Specifické problémy střídavé plodnosti u jabloní, slivoní a meruněk.c.Násada plodů a možnosti její regulace.15.Pomologie ovocných druhů - základní rozdělení (dotace 2/0) a.Pomologické třídění jádrovin a hlavní odrůdyb.Pomologické třídění peckovin a hlavní odrůdyc.Pomologické třídění drobného ovoce a hlavní odrůdyd.Pomologické třídění ostatních druhů a hlavní odrůdy"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Historie pěstování ovocných druhů ve světě a na území ČR.b.Vznik a domestikace ovocných druhů.c.Genová centra."
+    },
+    {
+      "label": "[section] Historické aspekty pěstování ovocných druhů",
+      "content": "a.Historie pěstování ovocných druhů ve světě a na území ČR.b.Vznik a domestikace ovocných druhů.c.Genová centra."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Rozdělení druhů do skupin podle všeobecných hledisek.b.Významné biologické vlastnosti hlavních druhů z hlediska pěstitelského využití a ve šlechtění."
+    },
+    {
+      "label": "[section] Ovocné druhy mírného pásma - rozdělení",
+      "content": "a.Rozdělení druhů do skupin podle všeobecných hledisek.b.Významné biologické vlastnosti hlavních druhů z hlediska pěstitelského využití a ve šlechtění."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Význam ovocných plodů ve výživě člověka. Ovoce jako potravina.b.Biochemické složení ovocných plodů a nutriční hodnota.c.Význam ovocného stromu pro člověka. Ovocné výsadby jako ekologický, mikroklimatický, estetický a krajinotvorný prvek.d.Pěstování ovoce ve světě."
+    },
+    {
+      "label": "[section] Význam ovoce a ovocného stromu pro člověka",
+      "content": "a.Význam ovocných plodů ve výživě člověka. Ovoce jako potravina.b.Biochemické složení ovocných plodů a nutriční hodnota.c.Význam ovocného stromu pro člověka. Ovocné výsadby jako ekologický, mikroklimatický, estetický a krajinotvorný prvek.d.Pěstování ovoce ve světě."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Rozdělení ekologických činitelů.b.Nejvýznamnější ekologičtí činitelé a rozbor jejich vlivu na ovocné dřeviny.c.Faktory podnební, půdní a zeměpisní. Možnosti ovlivnění ekologických činitelů."
+    },
+    {
+      "label": "[section] Ekologické podmínky pro pěstování ovocných druhů",
+      "content": "a.Rozdělení ekologických činitelů.b.Nejvýznamnější ekologičtí činitelé a rozbor jejich vlivu na ovocné dřeviny.c.Faktory podnební, půdní a zeměpisní. Možnosti ovlivnění ekologických činitelů."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Rajonizace druhová - obecná charakteristika ovocnářských oblastí (zóny vhodnosti).b.Specifická charakteristika pěstitelských oblastí z hlediska vhodnosti pro jednotlivé ovocné druhy.c.Kritické a smrtící minusové teploty pro ovocné dřeviny a možnosti zmírnění účinku mrazů. Preventivní a následná opatření."
+    },
+    {
+      "label": "[section] Rajonizace ovocných druhů",
+      "content": "a.Rajonizace druhová - obecná charakteristika ovocnářských oblastí (zóny vhodnosti).b.Specifická charakteristika pěstitelských oblastí z hlediska vhodnosti pro jednotlivé ovocné druhy.c.Kritické a smrtící minusové teploty pro ovocné dřeviny a možnosti zmírnění účinku mrazů. Preventivní a následná opatření."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Morfologická a anatomická charakteristika kořenové soustavy ovocných dřevin.b.Specifické vlastnosti (zvláštnosti) nasávací zóny kořenové soustavy ovocných dřevin"
+    },
+    {
+      "label": "[section] Kořenová soustava ovocných dřevin",
+      "content": "a.Morfologická a anatomická charakteristika kořenové soustavy ovocných dřevin.b.Specifické vlastnosti (zvláštnosti) nasávací zóny kořenové soustavy ovocných dřevin"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Funkce os ovocných dřevin a dynamika jejich růstu. Specifické vlastnosti nadzemních os jako orgánů.b.Orgány nadzemní soustavy ovocných dřevin, jejich charakteristika, umístění a funkcec.Zákonitosti vytváření nadzemní soustavy ovocných dřevin Charakteristika a praktické využití poznatků."
+    },
+    {
+      "label": "[section] Nadzemní soustava ovocných dřevin",
+      "content": "a.Funkce os ovocných dřevin a dynamika jejich růstu. Specifické vlastnosti nadzemních os jako orgánů.b.Orgány nadzemní soustavy ovocných dřevin, jejich charakteristika, umístění a funkcec.Zákonitosti vytváření nadzemní soustavy ovocných dřevin Charakteristika a praktické využití poznatků."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Velký životní cyklus a věková období. Návaznosti na potřebné agrotechnické úkony.b.Juvenilní, adultní, sterilní a fertilní fáze.c.Malý životní cyklus a jeho fenofáze."
+    },
+    {
+      "label": "[section] Životní cyklus ovocných dřevin",
+      "content": "a.Velký životní cyklus a věková období. Návaznosti na potřebné agrotechnické úkony.b.Juvenilní, adultní, sterilní a fertilní fáze.c.Malý životní cyklus a jeho fenofáze."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Iniciace a diferenciace pupenů. Hlavní etapy, charakteristika a trvání u ovocných druhů.b.Dormance ovocných dřevin, druhová a odrůdová specifika a zjišťování termínu ukončení dormance.c.Afinita (kompatibilita) mezi podnoží a roubem. Hlavní podmínky úspěšného srůstu."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Opylovací poměry u ovocných dřevin.b.Specifické zvláštnosti opylování a oplozování u jabloní.c.Problematika cizosprašnosti a stupně samosprašnosti."
+    },
+    {
+      "label": "[section] Opylování a oplozování u ovocných dřevin",
+      "content": "a.Opylovací poměry u ovocných dřevin.b.Specifické zvláštnosti opylování a oplozování u jabloní.c.Problematika cizosprašnosti a stupně samosprašnosti."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Základy řezu ovocných dřevinb.Řez jádrovinc.Řez peckovind.Řez ostatních ovocných druhů"
+    },
+    {
+      "label": "[section] Řez ovocných dřevin",
+      "content": "a.Základy řezu ovocných dřevinb.Řez jádrovinc.Řez peckovind.Řez ostatních ovocných druhů"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Pěstování jádrovinb.Pěstování peckovinc.Pěstování drobného ovoced.Ostatní druhy - pěstování"
+    },
+    {
+      "label": "[section] Hlavní pěstitelské systémy ovocných druhů - rozdělení",
+      "content": "a.Pěstování jádrovinb.Pěstování peckovinc.Pěstování drobného ovoced.Ostatní druhy - pěstování"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Generativní množeníb.Vegetativní množení - příméc.Vegetativní množení - nepříméd.Dopěstování výpěstků ve školce"
+    },
+    {
+      "label": "[section] Základy množení ovocných dřevin",
+      "content": "a.Generativní množeníb.Vegetativní množení - příméc.Vegetativní množení - nepříméd.Dopěstování výpěstků ve školce"
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Periodicita plodnosti, její příčiny a možnosti jejího zmírnění. Index alternace.b.Specifické problémy střídavé plodnosti u jabloní, slivoní a meruněk.c.Násada plodů a možnosti její regulace."
+    },
+    {
+      "label": "[section] Periodicita plodnosti a regulace plodnosti",
+      "content": "a.Periodicita plodnosti, její příčiny a možnosti jejího zmírnění. Index alternace.b.Specifické problémy střídavé plodnosti u jabloní, slivoní a meruněk.c.Násada plodů a možnosti její regulace."
+    },
+    {
+      "label": "[section] 15.",
+      "content": "a.Pomologické třídění jádrovin a hlavní odrůdyb.Pomologické třídění peckovin a hlavní odrůdyc.Pomologické třídění drobného ovoce a hlavní odrůdyd.Pomologické třídění ostatních druhů a hlavní odrůdy"
+    },
+    {
+      "label": "[section] Pomologie ovocných druhů - základní rozdělení",
+      "content": "a.Pomologické třídění jádrovin a hlavní odrůdyb.Pomologické třídění peckovin a hlavní odrůdyc.Pomologické třídění drobného ovoce a hlavní odrůdyd.Pomologické třídění ostatních druhů a hlavní odrůdy"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h28 hcvičení17 h17 hpráce v terénu15 h15 hkonzultace8 h8 hpříprava na zkoušku55 h55 hpříprava na průběžné hodnocení8 h8 hpříprava na průběžný test20 h20 hpříprava prezentace8 h8 hzpracování protokolů9 h9 hCelkem168 h168 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Předmět je ukončen testem ze cvičení a písemnou zkouškou. Klade se důraz na samostatné a logické myšlení s využitím nabytých konkrétních poznatků. Požaduje se schopnost samostatné aplikace nabytých teoretických a praktických vědomostí s aktualizací podle současných poznatků ze studia odborné literatury a odborných časopisů a ze zkušeností nabytých při zahraničních stážích a praxích. Podmínkou pro získání zápočtu je poznávací zkouška z vegetativních částí a plodných útvarů ovocných dřevin v dormantním stavu."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumVypracování semestrální práce10 %10 %Absolvování průběžného testu (testů)10 %10 %Absolvování závěrečného testu80 %80 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:Kol. 2001. Ovocnictví. 2. vyd. Praha: Květ, 383 s. ISBN 80-85362-43-0.IVIČIČ, Ladislav a kol. 1987. Ovocnictví. 1. vyd. Praha: Státní zemědělské nakladatelství, 475 s. Rostlinná výroba.NEČAS, Tomáš; GÖTTINGEROVÁ, Martina; ONDRÁŠEK, Ivo; NÁMĚSTEK, Jan; WOLF, Jan; KISS, Tomáš; LAŇAR, Luděk; MÉSZÁROS , Martin; NEČASOVÁ, Jana; LETOCHA, Tomáš. 2019. INOVACE OVOCNICKÉHO ŠKOLKAŘSTVÍ moderní postupy rozmnožování a dopěstování. 1. vyd. Brno: Ediční středisko Mendelovy univerzity v Brně, 154 s. ISBN 978-80-7509-636-4.NEČAS, Tomáš; NÁMĚSTEK, Jan; LAŇAR, Luděk; ONDRÁŠEK, Ivo; MÉSZÁROS, Martin; KOSINA, Josef. 2016. Metody řízkování podnoží vybraných ovocných druhů: certifikovaná metodika. 1. vyd. Holovousy: Výzkumný a šlechtitelský ústav ovocnářský Holovousy s.r.o., 65 s. Certifikovaná metodika. ISBN 978-80-87030-52-3.NEČAS, Tomáš; BALÍK, Josef; WOLF, Jan; GOLIÁŠ, Jan; LÁČÍK, Jakub; ŠILLEROVÁ, Jana; KISS, Tomáš; ONDRÁŠEK, Ivo; HORÁK, Miroslav; KOŽÍŠKOVÁ, Jarmila; NĚMCOVÁ, Anna; ŠNURKOVIČ, Petr; HÍC, Pavel; PAVELKOVÁ, Petra; NEČASOVÁ, Jana; CAO, Yufen. 2018. ASIJSKÉ HRUŠNĚ V PODMÍNKÁCH ČESKÉ REPUBLIKY pěstování, pomologie, skladování a choroby. 1. vyd. Brno: Ediční středisko Mendelovy univerzity, 184 s. ISBN 978-80-7509-557-2.JANICK, Jules; PAULL, Robert E. 2008. The encyclopedia of fruit & nuts. Wallingford [u.a.: CABI, 954 s. ISBN 978-0-85199-638-7.JANICK, Jules; PAULL, Robert E. 2008. The encyclopedia of fruit & nuts. Wallingford, U.K. ISBN 0851996388, 9780851996387. http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=booktext&NEWS=N&DF=bookdb&AN=01436770/1st_Edition&XPATH=/PG(0).BOČEK, Stanislav. 2015. Extenzivní ovocnictví. Brno: Mendelova univerzita v Brně, 335 s. ISBN 978-80-7509-275-5.VACHŮN, Zdeněk. 1996. Ovocnictví: podnože ovocných dřevin. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 65 s. ISBN 80-7157-217-9.VACHŮN, Zdeněk. 1999. Ovocnictví: pěstování meruněk. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita, 130 s. ISBN 80-7157-393-0.BADENES, María Luisa. 2012. Fruit breeding. New York: Springer, 875 s. Handbook of plant breeding ;. ISBN 978-1-4419-0762-2.BADENES, María Luisa. Fruit breeding. ISBN 9781441907639. http://site.ebrary.com/lib/mendelu/Doc?id=10524726."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "Kol. 2001. Ovocnictví. 2. vyd. Praha: Květ, 383 s. ISBN 80-85362-43-0.IVIČIČ, Ladislav a kol. 1987. Ovocnictví. 1. vyd. Praha: Státní zemědělské nakladatelství, 475 s. Rostlinná výroba.NEČAS, Tomáš; GÖTTINGEROVÁ, Martina; ONDRÁŠEK, Ivo; NÁMĚSTEK, Jan; WOLF, Jan; KISS, Tomáš; LAŇAR, Luděk; MÉSZÁROS , Martin; NEČASOVÁ, Jana; LETOCHA, Tomáš. 2019. INOVACE OVOCNICKÉHO ŠKOLKAŘSTVÍ moderní postupy rozmnožování a dopěstování. 1. vyd. Brno: Ediční středisko Mendelovy univerzity v Brně, 154 s. ISBN 978-80-7509-636-4.NEČAS, Tomáš; NÁMĚSTEK, Jan; LAŇAR, Luděk; ONDRÁŠEK, Ivo; MÉSZÁROS, Martin; KOSINA, Josef. 2016. Metody řízkování podnoží vybraných ovocných druhů: certifikovaná metodika. 1. vyd. Holovousy: Výzkumný a šlechtitelský ústav ovocnářský Holovousy s.r.o., 65 s. Certifikovaná metodika. ISBN 978-80-87030-52-3.NEČAS, Tomáš; BALÍK, Josef; WOLF, Jan; GOLIÁŠ, Jan; LÁČÍK, Jakub; ŠILLEROVÁ, Jana; KISS, Tomáš; ONDRÁŠEK, Ivo; HORÁK, Miroslav; KOŽÍŠKOVÁ, Jarmila; NĚMCOVÁ, Anna; ŠNURKOVIČ, Petr; HÍC, Pavel; PAVELKOVÁ, Petra; NEČASOVÁ, Jana; CAO, Yufen. 2018. ASIJSKÉ HRUŠNĚ V PODMÍNKÁCH ČESKÉ REPUBLIKY pěstování, pomologie, skladování a choroby. 1. vyd. Brno: Ediční středisko Mendelovy univerzity, 184 s. ISBN 978-80-7509-557-2.JANICK, Jules; PAULL, Robert E. 2008. The encyclopedia of fruit & nuts. Wallingford [u.a.: CABI, 954 s. ISBN 978-0-85199-638-7.JANICK, Jules; PAULL, Robert E. 2008. The encyclopedia of fruit & nuts. Wallingford, U.K. ISBN 0851996388, 9780851996387. http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=booktext&NEWS=N&DF=bookdb&AN=01436770/1st_Edition&XPATH=/PG(0).BOČEK, Stanislav. 2015. Extenzivní ovocnictví. Brno: Mendelova univerzita v Brně, 335 s. ISBN 978-80-7509-275-5.VACHŮN, Zdeněk. 1996. Ovocnictví: podnože ovocných dřevin. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 65 s. ISBN 80-7157-217-9.VACHŮN, Zdeněk. 1999. Ovocnictví: pěstování meruněk. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita, 130 s. ISBN 80-7157-393-0.BADENES, María Luisa. 2012. Fruit breeding. New York: Springer, 875 s. Handbook of plant breeding ;. ISBN 978-1-4419-0762-2.BADENES, María Luisa. Fruit breeding. ISBN 9781441907639. http://site.ebrary.com/lib/mendelu/Doc?id=10524726."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-ZIZ Zahradnické inženýrství, prezenční forma, počáteční období ZS 2023/2024Program B-ZIZ Zahradnické inženýrství, kombinovaná forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Lednice"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "OVOCB"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Ovocnictví (bc.)"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Fruit growing"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/3 (hours of lectures per week / hours of seminars per week)part-time, 28/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The subject can be completed during a trip abroad or adequately replaced. The course ends with written test exam."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Tomáš Nečas, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Fruit Science (FH)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Horticulture"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jonáš Fiala (instructor)Ing. Tomáš Kiss, Ph.D. (instructor, lecturer)Ing. Peter Morvay (instructor)Ing. Tomáš Nečas, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Eliška Zezulová (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "General Botany I and Bioclimatology and AKR19"
+    },
+    {
+      "label": "1.",
+      "content": "History of fruit species growing in the Czech Republic (allowance 4/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Origin and domestication of fruit species."
+    },
+    {
+      "label": "b.",
+      "content": "Gene centers."
+    },
+    {
+      "label": "2.",
+      "content": "Fruit species of temperate zone (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Dividing of species into groups according to general aspects."
+    },
+    {
+      "label": "b.",
+      "content": "Important biological characteristics of main species in terms of planting utilization and in breeding."
+    },
+    {
+      "label": "3.",
+      "content": "Importance of fruit and fruit tree for human (allowance 4/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Importance of fruits in human nutrition. Fruit as a food."
+    },
+    {
+      "label": "b.",
+      "content": "Biochemical composition of fruits and nutrition value."
+    },
+    {
+      "label": "c.",
+      "content": "Importance of fruit tree for human. Fruit plantations as an ecological, microclimatical, aesthetic and landscape element."
+    },
+    {
+      "label": "d.",
+      "content": "Growing fruits in the World."
+    },
+    {
+      "label": "4.",
+      "content": "Ecological conditions for growing fruit species (allowance 4/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Dividing of ecological factors."
+    },
+    {
+      "label": "b.",
+      "content": "The most important ecological factors and analysis of their influence on fruit trees."
+    },
+    {
+      "label": "c.",
+      "content": "Climatic, soil and geographical factors. Possibilities of ecological factors affection."
+    },
+    {
+      "label": "5.",
+      "content": "Regionalisation of fruit species (allowance 4/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Species regionalisation"
+    },
+    {
+      "label": "b.",
+      "content": "General characteristics of Grow-fruit locations (sufficient zones)"
+    },
+    {
+      "label": "c.",
+      "content": "Specific characteristics of production locations in terms of suitability for individual fruit species"
+    },
+    {
+      "label": "6.",
+      "content": "Root-system of fruit trees (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Morphologic and anatomical characteristics of root-system of fruit trees."
+    },
+    {
+      "label": "b.",
+      "content": "Specific characteristics of suction zone in root-system of fruit trees."
+    },
+    {
+      "label": "c.",
+      "content": "Utilization of knowledges in root-system in practises."
+    },
+    {
+      "label": "7.",
+      "content": "Aboveground system of fruit trees (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Axes fiction of fruit trees and dynamics of their grow. Specific characteristics of the axes and organs."
+    },
+    {
+      "label": "b.",
+      "content": "Organs in overground system of fruit trees, their characteristics, location and function."
+    },
+    {
+      "label": "c.",
+      "content": "Patterns of generating system fruit trees. Characterization and practical utilization of knowledges."
+    },
+    {
+      "label": "8.",
+      "content": "Life cycle of fruit trees (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Large life cycle and ages. Relating on necessery agro-tech acts."
+    },
+    {
+      "label": "b.",
+      "content": "Juvenile, adult, sterile and fertile phases."
+    },
+    {
+      "label": "c.",
+      "content": "Small life cycle and its phenophases."
+    },
+    {
+      "label": "9.",
+      "content": "Formation of flower buds, dormancy and problems affinity of fruit trees, possibility of influence these processes (allowance 0/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Initiation and differentiation of buds. The main phases, characteristics and duration in fruit species."
+    },
+    {
+      "label": "b.",
+      "content": "Dormancy of fruit trees, species and varietal specifics and detection of break dormancy."
+    },
+    {
+      "label": "c.",
+      "content": "Graft compatibility between rootstock and graft. The main conditions of successful growth."
+    },
+    {
+      "label": "10.",
+      "content": "Pollination and fertilization in fruit trees (allowance 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Pollination conditions in fruit trees."
+    },
+    {
+      "label": "b.",
+      "content": "Specific rarities of pollination and fertilization in apples."
+    },
+    {
+      "label": "c.",
+      "content": "Specific rarities of pollination and fertilization in other fruit species and varieties. Utilization of knowledges in selection of varieties and their dislocation in plantation."
+    },
+    {
+      "label": "11.",
+      "content": "Periodicity of fertility and its regulation (allowance 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Periodicity of fertility, its causes and possibilities of its reduction.Index of alternations."
+    },
+    {
+      "label": "b.",
+      "content": "Specific problems of biennal fertility in apples, plums and apricots."
+    },
+    {
+      "label": "c.",
+      "content": "Fruit set and possibilities of its regulation."
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, WS 2024/2025, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Lednice"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Ovocnictví (bc.)"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Fruit growing"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/3 (hours of lectures per week / hours of seminars per week)part-time, 28/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/3 (hours of lectures per week / hours of seminars per week)part-time, 28/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The subject can be completed during a trip abroad or adequately replaced. The course ends with written test exam."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Tomáš Nečas, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Fruit Science (FH)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Horticulture"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jonáš Fiala (instructor)Ing. Tomáš Kiss, Ph.D. (instructor, lecturer)Ing. Peter Morvay (instructor)Ing. Tomáš Nečas, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Eliška Zezulová (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: General Botany I and Bioclimatology and AKR19"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityTuesday9.00-10.50ZFAC1 (Led)T. NečasLectureEvery week51Tuesday12.00-14.50ZFAB2 (Led)E. Zezulová, J. Fiala, T. Kiss, P. MorvaySeminarEvery week18Thursday10.00-12.50ZFAB2 (Led)B-ZIZE. Zezulová, J. Fiala, T. Kiss, P. MorvaySeminarEvery week20Thursday13.00-15.50ZFAB2 (Led)B-ZIZ E. Zezulová, J. Fiala, T. Kiss, P. MorvaySeminarEvery week20Saturday14.00-19.50ZFAB1 (Led)T. Nečas, T. Kiss, E. ZezulováLectureOccasionally42"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of subject is aquire the most important knowledges in fundamental Fruit Growing on which is study of grow-technology built. Students will obtain knowledges in requirements of individual fruit species on natural conditions, regionalisation and correct plan of selection suitable side. Knowledge of growth patterns and fertility of fruit trees and their morphological and anatomical particularities will allow students to choose with reasons the best orders in preparation of plantation, fertilization, irrigation, prunning and crowns shaping and other agro-technical management. Students will also obtain a fill in grow-characteristics of rootstocks as a important factor in production of nursey and growing individual species and varieties in permanent habitat."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.History of fruit species growing in the Czech Republic (allowance 4/0) a.Origin and domestication of fruit species.b.Gene centers.2.Fruit species of temperate zone (allowance 4/4) a.Dividing of species into groups according to general aspects.b.Important biological characteristics of main species in terms of planting utilization and in breeding.3.Importance of fruit and fruit tree for human (allowance 4/0) a.Importance of fruits in human nutrition. Fruit as a food.b.Biochemical composition of fruits and nutrition value.c.Importance of fruit tree for human. Fruit plantations as an ecological, microclimatical, aesthetic and landscape element.d.Growing fruits in the World.4.Ecological conditions for growing fruit species (allowance 4/0) a.Dividing of ecological factors.b.The most important ecological factors and analysis of their influence on fruit trees.c.Climatic, soil and geographical factors. Possibilities of ecological factors affection.5.Regionalisation of fruit species (allowance 4/0) a.Species regionalisationb.General characteristics of Grow-fruit locations (sufficient zones)c.Specific characteristics of production locations in terms of suitability for individual fruit species6.Root-system of fruit trees (allowance 2/0) a.Morphologic and anatomical characteristics of root-system of fruit trees.b.Specific characteristics of suction zone in root-system of fruit trees.c.Utilization of knowledges in root-system in practises.7.Aboveground system of fruit trees (allowance 2/4) a.Axes fiction of fruit trees and dynamics of their grow. Specific characteristics of the axes and organs.b.Organs in overground system of fruit trees, their characteristics, location and function.c.Patterns of generating system fruit trees. Characterization and practical utilization of knowledges.8.Life cycle of fruit trees (allowance 2/0) a.Large life cycle and ages. Relating on necessery agro-tech acts.b.Juvenile, adult, sterile and fertile phases.c.Small life cycle and its phenophases.9.Formation of flower buds, dormancy and problems affinity of fruit trees, possibility of influence these processes (allowance 0/6) a.Initiation and differentiation of buds. The main phases, characteristics and duration in fruit species.b.Dormancy of fruit trees, species and varietal specifics and detection of break dormancy.c.Graft compatibility between rootstock and graft. The main conditions of successful growth.10.Pollination and fertilization in fruit trees (allowance 2/3) a.Pollination conditions in fruit trees.b.Specific rarities of pollination and fertilization in apples.c.Specific rarities of pollination and fertilization in other fruit species and varieties. Utilization of knowledges in selection of varieties and their dislocation in plantation.11.Periodicity of fertility and its regulation (allowance 2/3) a.Periodicity of fertility, its causes and possibilities of its reduction.Index of alternations.b.Specific problems of biennal fertility in apples, plums and apricots.c.Fruit set and possibilities of its regulation."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Origin and domestication of fruit species.b.Gene centers."
+    },
+    {
+      "label": "[section] History of fruit species growing in the Czech Republic",
+      "content": "a.Origin and domestication of fruit species.b.Gene centers."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Dividing of species into groups according to general aspects.b.Important biological characteristics of main species in terms of planting utilization and in breeding."
+    },
+    {
+      "label": "[section] Fruit species of temperate zone",
+      "content": "a.Dividing of species into groups according to general aspects.b.Important biological characteristics of main species in terms of planting utilization and in breeding."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Importance of fruits in human nutrition. Fruit as a food.b.Biochemical composition of fruits and nutrition value.c.Importance of fruit tree for human. Fruit plantations as an ecological, microclimatical, aesthetic and landscape element.d.Growing fruits in the World."
+    },
+    {
+      "label": "[section] Importance of fruit and fruit tree for human",
+      "content": "a.Importance of fruits in human nutrition. Fruit as a food.b.Biochemical composition of fruits and nutrition value.c.Importance of fruit tree for human. Fruit plantations as an ecological, microclimatical, aesthetic and landscape element.d.Growing fruits in the World."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Dividing of ecological factors.b.The most important ecological factors and analysis of their influence on fruit trees.c.Climatic, soil and geographical factors. Possibilities of ecological factors affection."
+    },
+    {
+      "label": "[section] Ecological conditions for growing fruit species",
+      "content": "a.Dividing of ecological factors.b.The most important ecological factors and analysis of their influence on fruit trees.c.Climatic, soil and geographical factors. Possibilities of ecological factors affection."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Species regionalisationb.General characteristics of Grow-fruit locations (sufficient zones)c.Specific characteristics of production locations in terms of suitability for individual fruit species"
+    },
+    {
+      "label": "[section] Regionalisation of fruit species",
+      "content": "a.Species regionalisationb.General characteristics of Grow-fruit locations (sufficient zones)c.Specific characteristics of production locations in terms of suitability for individual fruit species"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Morphologic and anatomical characteristics of root-system of fruit trees.b.Specific characteristics of suction zone in root-system of fruit trees.c.Utilization of knowledges in root-system in practises."
+    },
+    {
+      "label": "[section] Root-system of fruit trees",
+      "content": "a.Morphologic and anatomical characteristics of root-system of fruit trees.b.Specific characteristics of suction zone in root-system of fruit trees.c.Utilization of knowledges in root-system in practises."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Axes fiction of fruit trees and dynamics of their grow. Specific characteristics of the axes and organs.b.Organs in overground system of fruit trees, their characteristics, location and function.c.Patterns of generating system fruit trees. Characterization and practical utilization of knowledges."
+    },
+    {
+      "label": "[section] Aboveground system of fruit trees",
+      "content": "a.Axes fiction of fruit trees and dynamics of their grow. Specific characteristics of the axes and organs.b.Organs in overground system of fruit trees, their characteristics, location and function.c.Patterns of generating system fruit trees. Characterization and practical utilization of knowledges."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Large life cycle and ages. Relating on necessery agro-tech acts.b.Juvenile, adult, sterile and fertile phases.c.Small life cycle and its phenophases."
+    },
+    {
+      "label": "[section] Life cycle of fruit trees",
+      "content": "a.Large life cycle and ages. Relating on necessery agro-tech acts.b.Juvenile, adult, sterile and fertile phases.c.Small life cycle and its phenophases."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Initiation and differentiation of buds. The main phases, characteristics and duration in fruit species.b.Dormancy of fruit trees, species and varietal specifics and detection of break dormancy.c.Graft compatibility between rootstock and graft. The main conditions of successful growth."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Pollination conditions in fruit trees.b.Specific rarities of pollination and fertilization in apples.c.Specific rarities of pollination and fertilization in other fruit species and varieties. Utilization of knowledges in selection of varieties and their dislocation in plantation."
+    },
+    {
+      "label": "[section] Pollination and fertilization in fruit trees",
+      "content": "a.Pollination conditions in fruit trees.b.Specific rarities of pollination and fertilization in apples.c.Specific rarities of pollination and fertilization in other fruit species and varieties. Utilization of knowledges in selection of varieties and their dislocation in plantation."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Periodicity of fertility, its causes and possibilities of its reduction.Index of alternations.b.Specific problems of biennal fertility in apples, plums and apricots.c.Fruit set and possibilities of its regulation."
+    },
+    {
+      "label": "[section] Periodicity of fertility and its regulation",
+      "content": "a.Periodicity of fertility, its causes and possibilities of its reduction.Index of alternations.b.Specific problems of biennal fertility in apples, plums and apricots.c.Fruit set and possibilities of its regulation."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h28 hpractice17 h17 hfield work15 h15 hconsultation8 h8 hpreparation for exam55 h55 hpreparation for regular assessment8 h8 hpreparation for regular testing20 h20 hpreparation of presentation8 h8 helaboration of reports9 h9 hTotal168 h168 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "The course ends with exercise test and a written test exam. There is putting the accent on logical selfthinking by using acquired particular knowledges. There is requirement on ability self-application acquired theoretical and practical knowledges with actual finding updating of studium specialized literature and journals and of knowledges acquired in student interships and practices from abroad. There is prerequisite for obtaining credit, students have cognitive exam of vegetative and fertile organs in fruit trees in dormancy stage."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTerm paper10 %10 %Mid-term test(s)10 %10 %Final test80 %80 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:Col. 2001. Ovocnictví. 2nd ed. Praha: Květ, 383 p. ISBN 80-85362-43-0.IVIČIČ, Ladislav et al. 1987. Ovocnictví. 1st ed. Praha: Státní zemědělské nakladatelství, 475 p. Rostlinná výroba.NEČAS, Tomáš; GÖTTINGEROVÁ, Martina; ONDRÁŠEK, Ivo; NÁMĚSTEK, Jan; WOLF, Jan; KISS, Tomáš; LAŇAR, Luděk; MÉSZÁROS , Martin; NEČASOVÁ, Jana; LETOCHA, Tomáš. 2019. INOVACE OVOCNICKÉHO ŠKOLKAŘSTVÍ moderní postupy rozmnožování a dopěstování. 1st ed. Brno: Ediční středisko Mendelovy univerzity v Brně, 154 p. ISBN 978-80-7509-636-4.NEČAS, Tomáš; NÁMĚSTEK, Jan; LAŇAR, Luděk; ONDRÁŠEK, Ivo; MÉSZÁROS, Martin; KOSINA, Josef. 2016. Metody řízkování podnoží vybraných ovocných druhů: certifikovaná metodika. 1st ed. Holovousy: Výzkumný a šlechtitelský ústav ovocnářský Holovousy s.r.o., 65 p. Certifikovaná metodika. ISBN 978-80-87030-52-3.NEČAS, Tomáš; BALÍK, Josef; WOLF, Jan; GOLIÁŠ, Jan; LÁČÍK, Jakub; ŠILLEROVÁ, Jana; KISS, Tomáš; ONDRÁŠEK, Ivo; HORÁK, Miroslav; KOŽÍŠKOVÁ, Jarmila; NĚMCOVÁ, Anna; ŠNURKOVIČ, Petr; HÍC, Pavel; PAVELKOVÁ, Petra; NEČASOVÁ, Jana; CAO, Yufen. 2018. ASIJSKÉ HRUŠNĚ V PODMÍNKÁCH ČESKÉ REPUBLIKY pěstování, pomologie, skladování a choroby. 1st ed. Brno: Ediční středisko Mendelovy univerzity, 184 p. ISBN 978-80-7509-557-2.JANICK, Jules; PAULL, Robert E. 2008. The encyclopedia of fruit & nuts. Wallingford [u.a.: CABI, 954 p. ISBN 978-0-85199-638-7.JANICK, Jules; PAULL, Robert E. 2008. The encyclopedia of fruit & nuts. Wallingford, U.K. ISBN 0851996388, 9780851996387. http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=booktext&NEWS=N&DF=bookdb&AN=01436770/1st_Edition&XPATH=/PG(0).BOČEK, Stanislav. 2015. Extenzivní ovocnictví. Brno: Mendelova univerzita v Brně, 335 p. ISBN 978-80-7509-275-5.VACHŮN, Zdeněk. 1996. Ovocnictví: podnože ovocných dřevin. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 65 p. ISBN 80-7157-217-9.VACHŮN, Zdeněk. 1999. Ovocnictví: pěstování meruněk. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita, 130 p. ISBN 80-7157-393-0.BADENES, María Luisa. 2012. Fruit breeding. New York: Springer, 875 p. Handbook of plant breeding ;. ISBN 978-1-4419-0762-2.BADENES, María Luisa. Fruit breeding. ISBN 9781441907639. http://site.ebrary.com/lib/mendelu/Doc?id=10524726."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "Col. 2001. Ovocnictví. 2nd ed. Praha: Květ, 383 p. ISBN 80-85362-43-0.IVIČIČ, Ladislav et al. 1987. Ovocnictví. 1st ed. Praha: Státní zemědělské nakladatelství, 475 p. Rostlinná výroba.NEČAS, Tomáš; GÖTTINGEROVÁ, Martina; ONDRÁŠEK, Ivo; NÁMĚSTEK, Jan; WOLF, Jan; KISS, Tomáš; LAŇAR, Luděk; MÉSZÁROS , Martin; NEČASOVÁ, Jana; LETOCHA, Tomáš. 2019. INOVACE OVOCNICKÉHO ŠKOLKAŘSTVÍ moderní postupy rozmnožování a dopěstování. 1st ed. Brno: Ediční středisko Mendelovy univerzity v Brně, 154 p. ISBN 978-80-7509-636-4.NEČAS, Tomáš; NÁMĚSTEK, Jan; LAŇAR, Luděk; ONDRÁŠEK, Ivo; MÉSZÁROS, Martin; KOSINA, Josef. 2016. Metody řízkování podnoží vybraných ovocných druhů: certifikovaná metodika. 1st ed. Holovousy: Výzkumný a šlechtitelský ústav ovocnářský Holovousy s.r.o., 65 p. Certifikovaná metodika. ISBN 978-80-87030-52-3.NEČAS, Tomáš; BALÍK, Josef; WOLF, Jan; GOLIÁŠ, Jan; LÁČÍK, Jakub; ŠILLEROVÁ, Jana; KISS, Tomáš; ONDRÁŠEK, Ivo; HORÁK, Miroslav; KOŽÍŠKOVÁ, Jarmila; NĚMCOVÁ, Anna; ŠNURKOVIČ, Petr; HÍC, Pavel; PAVELKOVÁ, Petra; NEČASOVÁ, Jana; CAO, Yufen. 2018. ASIJSKÉ HRUŠNĚ V PODMÍNKÁCH ČESKÉ REPUBLIKY pěstování, pomologie, skladování a choroby. 1st ed. Brno: Ediční středisko Mendelovy univerzity, 184 p. ISBN 978-80-7509-557-2.JANICK, Jules; PAULL, Robert E. 2008. The encyclopedia of fruit & nuts. Wallingford [u.a.: CABI, 954 p. ISBN 978-0-85199-638-7.JANICK, Jules; PAULL, Robert E. 2008. The encyclopedia of fruit & nuts. Wallingford, U.K. ISBN 0851996388, 9780851996387. http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=booktext&NEWS=N&DF=bookdb&AN=01436770/1st_Edition&XPATH=/PG(0).BOČEK, Stanislav. 2015. Extenzivní ovocnictví. Brno: Mendelova univerzita v Brně, 335 p. ISBN 978-80-7509-275-5.VACHŮN, Zdeněk. 1996. Ovocnictví: podnože ovocných dřevin. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 65 p. ISBN 80-7157-217-9.VACHŮN, Zdeněk. 1999. Ovocnictví: pěstování meruněk. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita, 130 p. ISBN 80-7157-393-0.BADENES, María Luisa. 2012. Fruit breeding. New York: Springer, 875 p. Handbook of plant breeding ;. ISBN 978-1-4419-0762-2.BADENES, María Luisa. Fruit breeding. ISBN 9781441907639. http://site.ebrary.com/lib/mendelu/Doc?id=10524726."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-HEN Horticulture engineering, full-time form, initial period WS 2023/2024Programme B-HEN Horticulture engineering, part-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Lednice"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:42:02",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

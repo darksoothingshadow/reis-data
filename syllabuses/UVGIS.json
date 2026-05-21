@@ -1,0 +1,969 @@
+{
+  "courseCode": "UVGIS",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "UVGIS"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Úvod do GIS"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Introduction Into GIS"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zápočet (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 10/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Možnost studia předmětu během zahraniční mobility."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Jozef Sedláček, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav plánování krajiny (ZF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Zahradnická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Zuzana Fialová, Ph.D. (cvičící, přednášející, tutor, zkoušející)Ing. Jozef Sedláček, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "AKR19"
+    },
+    {
+      "label": "1.",
+      "content": "Seznámí s prostředím GIS v programu QGIS (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Reprezentace geografických dat, zobrazení prvků reálného světa"
+    },
+    {
+      "label": "b.",
+      "content": "Složky geografických dat, geometrický popis, atributy, chování"
+    },
+    {
+      "label": "c.",
+      "content": "Práce s WMS, vymezení zájmového území, tvorba mapy"
+    },
+    {
+      "label": "2.",
+      "content": "Práce s vektorovými data a zobrazování (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Uživatelské rozhraní, vrstvy"
+    },
+    {
+      "label": "b.",
+      "content": "Pohyb v mapě, prostorové záložky"
+    },
+    {
+      "label": "c.",
+      "content": "Výběr a filtrování dat"
+    },
+    {
+      "label": "d.",
+      "content": "Soubor vrstvy"
+    },
+    {
+      "label": "3.",
+      "content": "Nástroje pro digitalizaci vlastních dat a vytvoření vlastní databáze. Úvod do geoprocessingu. (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Editace vektorové vrstvy."
+    },
+    {
+      "label": "b.",
+      "content": "Nástroje Clip, Union, Intersect"
+    },
+    {
+      "label": "4.",
+      "content": "Rastrová data a georeferencování (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Georeferencování"
+    },
+    {
+      "label": "b.",
+      "content": "Nastavení symbolů u rastrových dat"
+    },
+    {
+      "label": "c.",
+      "content": "Vytvoření mapy hypsometrie"
+    },
+    {
+      "label": "5.",
+      "content": "Práce s daty katastrální mapy, seznámení se s pojmy. (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Stažení a zobrazení katastrální mapy"
+    },
+    {
+      "label": "b.",
+      "content": "Druh pozemku a Využití pozemku"
+    },
+    {
+      "label": "c.",
+      "content": "Příprava dat pro studii"
+    },
+    {
+      "label": "6.",
+      "content": "Specifické postupy – příprava a návrh databáze pro zpracování aktuálních typů vegetace, potenciálních typů vegetace (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Návrh databáze pro zpracování aktuálních typů vegetace"
+    },
+    {
+      "label": "b.",
+      "content": "Návrh databáze pro zpracování potenciálních typů vegetace"
+    },
+    {
+      "label": "7.",
+      "content": "Specifické postupy – příprava a návrh databáze pro zpracování pasportu zeleně. (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Návrh databáze"
+    },
+    {
+      "label": "b.",
+      "content": "Návrh popisků"
+    },
+    {
+      "label": "c.",
+      "content": "Návrh znaků"
+    },
+    {
+      "label": "8.",
+      "content": "Práce s mračny bodů, interpolace povrchů, digitáoní model reliéfu, digitální model povrch (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Transormace mračen bodů na terén, povrch"
+    },
+    {
+      "label": "b.",
+      "content": "Zobrazení ve 3D"
+    },
+    {
+      "label": "c.",
+      "content": "Filtrování mračen bodů"
+    },
+    {
+      "label": "d.",
+      "content": "Interpolace na terén"
+    },
+    {
+      "label": "e.",
+      "content": "Práce s terénem - dotazování, řezy"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, LS 2025/2026, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Úvod do GIS"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Introduction Into GIS"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zápočet (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 10/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zápočet (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 10/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Možnost studia předmětu během zahraniční mobility."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Jozef Sedláček, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav plánování krajiny (ZF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Zahradnická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Zuzana Fialová, Ph.D. (cvičící, přednášející, tutor, zkoušející)Ing. Jozef Sedláček, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: AKR19"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkVyučujícíAkceČetnostKapacitaPátek9.00-10.50A418B-KA2Z. Fialová, J. SedláčekCvičeníKaždý týden21Pátek11.00-12.50A418B-KA2Z. Fialová, J. SedláčekCvičeníKaždý týden21Pátek13.00-14.50A418B-RSZ Z. Fialová, J. SedláčekCvičeníKaždý týden19Pátek13.00-17.50ZFC13 (Led)J. SedláčekPřednáškaNepravidelně24"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je seznámit studenty se základními principy práce s prostorovými daty v prostředí GIS, které jsou aplikovatelné v jakémkoliv GIS softwaru. Dalším cílem je poskytnout konkrétní postupy související s profesí krajinářské architektury, realizací a managementem zeleně. Třetím cílem je vytvořit vědomostní bázi a technickou oporu pro navazující předměty, které vycházejí z dovedností práce v GIS."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Seznámí s prostředím GIS v programu QGIS (dotace 0/2) a.Reprezentace geografických dat, zobrazení prvků reálného světab.Složky geografických dat, geometrický popis, atributy, chováníc.Práce s WMS, vymezení zájmového území, tvorba mapy2.Práce s vektorovými data a zobrazování (dotace 0/2) a.Uživatelské rozhraní, vrstvyb.Pohyb v mapě, prostorové záložkyc.Výběr a filtrování datd.Soubor vrstvy3.Nástroje pro digitalizaci vlastních dat a vytvoření vlastní databáze. Úvod do geoprocessingu. (dotace 0/2) a.Editace vektorové vrstvy.b.Nástroje Clip, Union, Intersect4.Rastrová data a georeferencování (dotace 0/2) a.Georeferencováníb.Nastavení symbolů u rastrových datc.Vytvoření mapy hypsometrie5.Práce s daty katastrální mapy, seznámení se s pojmy. (dotace 0/4) a.Stažení a zobrazení katastrální mapyb.Druh pozemku a Využití pozemkuc.Příprava dat pro studii6.Specifické postupy – příprava a návrh databáze pro zpracování aktuálních typů vegetace, potenciálních typů vegetace (dotace 0/4) a.Návrh databáze pro zpracování aktuálních typů vegetaceb.Návrh databáze pro zpracování potenciálních typů vegetace7.Specifické postupy – příprava a návrh databáze pro zpracování pasportu zeleně. (dotace 0/4) a.Návrh databázeb.Návrh popiskůc.Návrh znaků8.Práce s mračny bodů, interpolace povrchů, digitáoní model reliéfu, digitální model povrch (dotace 0/4) a.Transormace mračen bodů na terén, povrchb.Zobrazení ve 3Dc.Filtrování mračen bodůd.Interpolace na teréne.Práce s terénem - dotazování, řezy"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Reprezentace geografických dat, zobrazení prvků reálného světab.Složky geografických dat, geometrický popis, atributy, chováníc.Práce s WMS, vymezení zájmového území, tvorba mapy"
+    },
+    {
+      "label": "[section] Seznámí s prostředím GIS v programu QGIS",
+      "content": "a.Reprezentace geografických dat, zobrazení prvků reálného světab.Složky geografických dat, geometrický popis, atributy, chováníc.Práce s WMS, vymezení zájmového území, tvorba mapy"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Uživatelské rozhraní, vrstvyb.Pohyb v mapě, prostorové záložkyc.Výběr a filtrování datd.Soubor vrstvy"
+    },
+    {
+      "label": "[section] Práce s vektorovými data a zobrazování",
+      "content": "a.Uživatelské rozhraní, vrstvyb.Pohyb v mapě, prostorové záložkyc.Výběr a filtrování datd.Soubor vrstvy"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Editace vektorové vrstvy.b.Nástroje Clip, Union, Intersect"
+    },
+    {
+      "label": "[section] Nástroje pro digitalizaci vlastních dat a vytvoření vlastní databáze. Úvod do geoprocessingu.",
+      "content": "a.Editace vektorové vrstvy.b.Nástroje Clip, Union, Intersect"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Georeferencováníb.Nastavení symbolů u rastrových datc.Vytvoření mapy hypsometrie"
+    },
+    {
+      "label": "[section] Rastrová data a georeferencování",
+      "content": "a.Georeferencováníb.Nastavení symbolů u rastrových datc.Vytvoření mapy hypsometrie"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Stažení a zobrazení katastrální mapyb.Druh pozemku a Využití pozemkuc.Příprava dat pro studii"
+    },
+    {
+      "label": "[section] Práce s daty katastrální mapy, seznámení se s pojmy.",
+      "content": "a.Stažení a zobrazení katastrální mapyb.Druh pozemku a Využití pozemkuc.Příprava dat pro studii"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Návrh databáze pro zpracování aktuálních typů vegetaceb.Návrh databáze pro zpracování potenciálních typů vegetace"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Návrh databázeb.Návrh popiskůc.Návrh znaků"
+    },
+    {
+      "label": "[section] Specifické postupy – příprava a návrh databáze pro zpracování pasportu zeleně.",
+      "content": "a.Návrh databázeb.Návrh popiskůc.Návrh znaků"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Transormace mračen bodů na terén, povrchb.Zobrazení ve 3Dc.Filtrování mračen bodůd.Interpolace na teréne.Práce s terénem - dotazování, řezy"
+    },
+    {
+      "label": "[section] Práce s mračny bodů, interpolace povrchů, digitáoní model reliéfu, digitální model povrch",
+      "content": "a.Transormace mračen bodů na terén, povrchb.Zobrazení ve 3Dc.Filtrování mračen bodůd.Interpolace na teréne.Práce s terénem - dotazování, řezy"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška0 h10 hcvičení24 h0 hkonzultace24 h40 hpříprava na zkoušku40 h40 hzpracování seminární práce24 h22 hCelkem112 h112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Prezenční - Zápočet - Příprava seminární práce. Vybrané modelovém území včetně analýzy, tvorby grafického výstupu a exportu projektu do tisku. Seminární práce hodnocena min. 5 z celkového počtu 10 bodů. Povinná účast na cvičeních - 80 % Kombinovaná - Zápočet - Příprava seminární práce. Vybrané modelovém území včetně analýzy, tvorby grafického výstupu a exportu projektu do tisku. Seminární práce hodnocena min. 5 z celkového počtu 10 bodů. Povinná účast na přednáškách - 66 %"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumCelkem0 %0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:MENKE, Kurt. 2016. Discover QGIS: The workbook for the award winning GeoAcademy Curriculum. Chugiak, AK: Locate Press, ISBN 978-0-9894217-6-8.WALDHEIM, Charles. 2016. Cartographic grounds: projecting the landscape imaginary. New York: Princeton Architectural Press, 266 s. ISBN 9781616893293.TOMLIN, C. Dana. 2013. GIS and cartographic modeling. Redlands, California: Esri Press, 182 s. ISBN 978-1-58948-309-5."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "MENKE, Kurt. 2016. Discover QGIS: The workbook for the award winning GeoAcademy Curriculum. Chugiak, AK: Locate Press, ISBN 978-0-9894217-6-8.WALDHEIM, Charles. 2016. Cartographic grounds: projecting the landscape imaginary. New York: Princeton Architectural Press, 266 s. ISBN 9781616893293.TOMLIN, C. Dana. 2013. GIS and cartographic modeling. Redlands, California: Esri Press, 182 s. ISBN 978-1-58948-309-5."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "UVGIS"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Úvod do GIS"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Introduction Into GIS"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Pass credit (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 0/2 (hours of lectures per week / hours of seminars per week)part-time, 10/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course can be taken while participating in a study-abroad programme."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Jozef Sedláček, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Landscape Planning (FH)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Horticulture"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Zuzana Fialová, Ph.D. (examiner, instructor, lecturer, tutor)Ing. Jozef Sedláček, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "AKR19"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to GIS concepts (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "What is GIS/GIT - people, data, hardware, software, methods"
+    },
+    {
+      "label": "b.",
+      "content": "GIS functionality for capturing, storing, querying, analyzing and displaying data"
+    },
+    {
+      "label": "c.",
+      "content": "Output options - paper map, image, document, Internet"
+    },
+    {
+      "label": "d.",
+      "content": "Organizing of geographic data"
+    },
+    {
+      "label": "e.",
+      "content": "Representation of geographic data - representation of a real world, small and large scale maps"
+    },
+    {
+      "label": "f.",
+      "content": "Components of geographic data - geometric description, attributes, behaviour"
+    },
+    {
+      "label": "g.",
+      "content": "Use of spatial relationships - topology"
+    },
+    {
+      "label": "h.",
+      "content": "What is ArcGIS?"
+    },
+    {
+      "label": "i.",
+      "content": "Applications ArcMap, ArcCatalog, ArcToolbox, Desktop Administrator, Help"
+    },
+    {
+      "label": "2.",
+      "content": "Displaying data (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "User Interface - the display mode data view/layout view, layers, data frames and map documents"
+    },
+    {
+      "label": "b.",
+      "content": "Manage Table of contents - change the drawing order of layers, renaming the data frames and layers, remove layers, table display or source"
+    },
+    {
+      "label": "c.",
+      "content": "Moving around the map - spatial bookmarks, Zoom Tool, magnifier, viewer, and overview windows"
+    },
+    {
+      "label": "d.",
+      "content": "Symbology in ArcMap application - set of symbols for plotting data according to attribute values or the same symbol for all"
+    },
+    {
+      "label": "e.",
+      "content": "Displaying of qualitative and quantitative values - elements, categories, quantities, graphs"
+    },
+    {
+      "label": "f.",
+      "content": "Definition of a subset of data for display"
+    },
+    {
+      "label": "g.",
+      "content": "Set of layers"
+    },
+    {
+      "label": "h.",
+      "content": "Change the data source for a layer"
+    },
+    {
+      "label": "3.",
+      "content": "Coordinate Systems (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Working with Coordinate Systems - Cartographic projections, coordinate systems in Czech Repuplic, storing and displaying information about the coordinate system, change the coordinate system"
+    },
+    {
+      "label": "4.",
+      "content": "Querying the database (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Identification"
+    },
+    {
+      "label": "b.",
+      "content": "Search"
+    },
+    {
+      "label": "c.",
+      "content": "Measurement"
+    },
+    {
+      "label": "d.",
+      "content": "Selection - an interactive selection, selection based on attributes, by location, according to graphics"
+    },
+    {
+      "label": "5.",
+      "content": "Working with spatial data (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Representation of reality by means of geographic elements - vector and raster data, geometry, attributes and rules of behavior data"
+    },
+    {
+      "label": "b.",
+      "content": "Feature class - point, line and surface class"
+    },
+    {
+      "label": "c.",
+      "content": "Linking the geometric and attribute components of geographic data - the unique identifier of the element"
+    },
+    {
+      "label": "d.",
+      "content": "The formats of geographic data"
+    },
+    {
+      "label": "e.",
+      "content": "ESRI shapefile formats, ESRI coverage, CAD"
+    },
+    {
+      "label": "f.",
+      "content": "Data table"
+    },
+    {
+      "label": "g.",
+      "content": "Raster data - GRID, TIFF, BMP, SID, JPEG, ERDAS"
+    },
+    {
+      "label": "h.",
+      "content": "ArcCatalog applications - three views of the data card content, create thumbnails, preview cards, card metadata, ArcCatalog choices, connecting directories, add a new file type, access the Internet"
+    },
+    {
+      "label": "6.",
+      "content": "Working with layers and maps (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Setting up symbols for the quantitative attribute values - point, line and surface elements vs. spatially continuous data"
+    },
+    {
+      "label": "b.",
+      "content": "Selection of classification methods, the number of classes and their interval"
+    },
+    {
+      "label": "c.",
+      "content": "Using advanced rendering - mask, cropped shape"
+    },
+    {
+      "label": "7.",
+      "content": "Georeferencing and transformation vector and raster (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Georeferencing and vector transformation"
+    },
+    {
+      "label": "b.",
+      "content": "Georeferencing and raster transformation"
+    },
+    {
+      "label": "c.",
+      "content": "Aggregation of spatial data"
+    },
+    {
+      "label": "8.",
+      "content": "Editing Data - Part A - editing geometric component data (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Editable data formats"
+    },
+    {
+      "label": "b.",
+      "content": "Toolbar Editor - Edit control, management of the editing, selection of features for editing"
+    },
+    {
+      "label": "c.",
+      "content": "Simple editing operations - shift, rotation and others, tolerance of unwanted displacement"
+    },
+    {
+      "label": "d.",
+      "content": "Working with sketches - the creation or modification of elements"
+    },
+    {
+      "label": "e.",
+      "content": "Snapping - snapping a layer or a sketch"
+    },
+    {
+      "label": "f.",
+      "content": "Editing tasks - create a new element to extend / shorten the elements, mirror elements, modify elements, change the shape of the element, divided by a line of polygon features, auto-complete polygon, intersection and distance, arc, tracing the line"
+    },
+    {
+      "label": "g.",
+      "content": "Context menu sketch - sketch modification, assignment length, direction, diversion, entry angle, depending on other elements, the end of the sketch"
+    },
+    {
+      "label": "9.",
+      "content": "Editing Data - Part B - Editing attributes (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Editing attributes of selected elements"
+    },
+    {
+      "label": "b.",
+      "content": "Editing Data in the table"
+    },
+    {
+      "label": "c.",
+      "content": "Changes in the structure of the table - add fields, delete fields, create a new class of components, data sets"
+    },
+    {
+      "label": "d.",
+      "content": "Create a new class of elements"
+    },
+    {
+      "label": "10.",
+      "content": "Working with Tables (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Tables - basic properties of the table, tabular data field types"
+    },
+    {
+      "label": "b.",
+      "content": "Working with Tables"
+    },
+    {
+      "label": "c.",
+      "content": "Supported formats tables"
+    },
+    {
+      "label": "d.",
+      "content": "Graphs and reports"
+    },
+    {
+      "label": "11.",
+      "content": "Creating labels and annotation (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Labels vs. annotation"
+    },
+    {
+      "label": "b.",
+      "content": "The basic rules - the relationship label-element priority labels, weight labels, packaging labels area, the visibility of labels"
+    },
+    {
+      "label": "c.",
+      "content": "Switching Label Layer"
+    },
+    {
+      "label": "d.",
+      "content": "Change the look of labels"
+    },
+    {
+      "label": "e.",
+      "content": "Change location setting labels"
+    },
+    {
+      "label": "f.",
+      "content": "Different set captions - how to describe some elements of different type"
+    },
+    {
+      "label": "g.",
+      "content": "Creating and editing annotations"
+    },
+    {
+      "label": "12.",
+      "content": "Data Presentation (allowance 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Draft maps - factors influencing graphic design, communication via maps"
+    },
+    {
+      "label": "b.",
+      "content": "Map types - general vs. coverages"
+    },
+    {
+      "label": "c.",
+      "content": "Creating maps in ArcMap application - view drawing, data frames, paper map"
+    },
+    {
+      "label": "d.",
+      "content": "Page Setup"
+    },
+    {
+      "label": "e.",
+      "content": "Inserting map elements - the North Star, scale, legend, text, grid network, or indicative"
+    },
+    {
+      "label": "f.",
+      "content": "Drawing tools - Grid, Ruler"
+    },
+    {
+      "label": "g.",
+      "content": "Grid"
+    },
+    {
+      "label": "h.",
+      "content": "Map templates - template ArcMap, creating custom templates"
+    },
+    {
+      "label": "i.",
+      "content": "Print and export maps"
+    },
+    {
+      "label": "13.",
+      "content": "Individual work (allowance 0/2)"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, SS 2025/2026, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Úvod do GIS"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Introduction Into GIS"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Pass credit (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)part-time, 10/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Pass credit (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)part-time, 10/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course can be taken while participating in a study-abroad programme."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Jozef Sedláček, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Landscape Planning (FH)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Horticulture"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Zuzana Fialová, Ph.D. (examiner, instructor, lecturer, tutor)Ing. Jozef Sedláček, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: AKR19"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyTeacherEntryFrequencyCapacityFriday9.00-10.50A418B-KA2Z. Fialová, J. SedláčekSeminarEvery week21Friday11.00-12.50A418B-KA2Z. Fialová, J. SedláčekSeminarEvery week21Friday13.00-17.50ZFC13 (Led)J. SedláčekLectureOccasionally24Friday13.00-14.50A418B-RSZ Z. Fialová, J. SedláčekSeminarEvery week19"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to introduce students to the fundamental principles of working with spatial data in a GIS environment, applicable to any GIS software. A further goal is to provide specific procedures relevant to the profession of landscape architecture, as well as the implementation and management of green spaces. The third goal is to establish a knowledge base and technical support for subsequent courses that build upon GIS skills."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to GIS concepts (allowance 0/2) a.What is GIS/GIT - people, data, hardware, software, methodsb.GIS functionality for capturing, storing, querying, analyzing and displaying datac.Output options - paper map, image, document, Internetd.Organizing of geographic datae.Representation of geographic data - representation of a real world, small and large scale mapsf.Components of geographic data - geometric description, attributes, behaviourg.Use of spatial relationships - topologyh.What is ArcGIS?i.Applications ArcMap, ArcCatalog, ArcToolbox, Desktop Administrator, Help2.Displaying data (allowance 0/2) a.User Interface - the display mode data view/layout view, layers, data frames and map documentsb.Manage Table of contents - change the drawing order of layers, renaming the data frames and layers, remove layers, table display or sourcec.Moving around the map - spatial bookmarks, Zoom Tool, magnifier, viewer, and overview windowsd.Symbology in ArcMap application - set of symbols for plotting data according to attribute values or the same symbol for alle.Displaying of qualitative and quantitative values - elements, categories, quantities, graphsf.Definition of a subset of data for displayg.Set of layersh.Change the data source for a layer3.Coordinate Systems (allowance 0/2) a.Working with Coordinate Systems - Cartographic projections, coordinate systems in Czech Repuplic, storing and displaying information about the coordinate system, change the coordinate system4.Querying the database (allowance 0/2) a.Identificationb.Searchc.Measurementd.Selection - an interactive selection, selection based on attributes, by location, according to graphics5.Working with spatial data (allowance 0/2) a.Representation of reality by means of geographic elements - vector and raster data, geometry, attributes and rules of behavior datab.Feature class - point, line and surface classc.Linking the geometric and attribute components of geographic data - the unique identifier of the elementd.The formats of geographic datae.ESRI shapefile formats, ESRI coverage, CADf.Data tableg.Raster data - GRID, TIFF, BMP, SID, JPEG, ERDASh.ArcCatalog applications - three views of the data card content, create thumbnails, preview cards, card metadata, ArcCatalog choices, connecting directories, add a new file type, access the Internet6.Working with layers and maps (allowance 0/2) a.Setting up symbols for the quantitative attribute values - point, line and surface elements vs. spatially continuous datab.Selection of classification methods, the number of classes and their intervalc.Using advanced rendering - mask, cropped shape7.Georeferencing and transformation vector and raster (allowance 0/2) a.Georeferencing and vector transformationb.Georeferencing and raster transformationc.Aggregation of spatial data8.Editing Data - Part A - editing geometric component data (allowance 0/2) a.Editable data formatsb.Toolbar Editor - Edit control, management of the editing, selection of features for editingc.Simple editing operations - shift, rotation and others, tolerance of unwanted displacementd.Working with sketches - the creation or modification of elementse.Snapping - snapping a layer or a sketchf.Editing tasks - create a new element to extend / shorten the elements, mirror elements, modify elements, change the shape of the element, divided by a line of polygon features, auto-complete polygon, intersection and distance, arc, tracing the lineg.Context menu sketch - sketch modification, assignment length, direction, diversion, entry angle, depending on other elements, the end of the sketch9.Editing Data - Part B - Editing attributes (allowance 0/2) a.Editing attributes of selected elementsb.Editing Data in the tablec.Changes in the structure of the table - add fields, delete fields, create a new class of components, data setsd.Create a new class of elements10.Working with Tables (allowance 0/2) a.Tables - basic properties of the table, tabular data field typesb.Working with Tablesc.Supported formats tablesd.Graphs and reports11.Creating labels and annotation (allowance 0/2) a.Labels vs. annotationb.The basic rules - the relationship label-element priority labels, weight labels, packaging labels area, the visibility of labelsc.Switching Label Layerd.Change the look of labelse.Change location setting labelsf.Different set captions - how to describe some elements of different typeg.Creating and editing annotations12.Data Presentation (allowance 0/4) a.Draft maps - factors influencing graphic design, communication via mapsb.Map types - general vs. coveragesc.Creating maps in ArcMap application - view drawing, data frames, paper mapd.Page Setupe.Inserting map elements - the North Star, scale, legend, text, grid network, or indicativef.Drawing tools - Grid, Rulerg.Gridh.Map templates - template ArcMap, creating custom templatesi.Print and export maps13.Individual work (allowance 0/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.What is GIS/GIT - people, data, hardware, software, methodsb.GIS functionality for capturing, storing, querying, analyzing and displaying datac.Output options - paper map, image, document, Internetd.Organizing of geographic datae.Representation of geographic data - representation of a real world, small and large scale mapsf.Components of geographic data - geometric description, attributes, behaviourg.Use of spatial relationships - topologyh.What is ArcGIS?i.Applications ArcMap, ArcCatalog, ArcToolbox, Desktop Administrator, Help"
+    },
+    {
+      "label": "[section] Introduction to GIS concepts",
+      "content": "a.What is GIS/GIT - people, data, hardware, software, methodsb.GIS functionality for capturing, storing, querying, analyzing and displaying datac.Output options - paper map, image, document, Internetd.Organizing of geographic datae.Representation of geographic data - representation of a real world, small and large scale mapsf.Components of geographic data - geometric description, attributes, behaviourg.Use of spatial relationships - topologyh.What is ArcGIS?i.Applications ArcMap, ArcCatalog, ArcToolbox, Desktop Administrator, Help"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.User Interface - the display mode data view/layout view, layers, data frames and map documentsb.Manage Table of contents - change the drawing order of layers, renaming the data frames and layers, remove layers, table display or sourcec.Moving around the map - spatial bookmarks, Zoom Tool, magnifier, viewer, and overview windowsd.Symbology in ArcMap application - set of symbols for plotting data according to attribute values or the same symbol for alle.Displaying of qualitative and quantitative values - elements, categories, quantities, graphsf.Definition of a subset of data for displayg.Set of layersh.Change the data source for a layer"
+    },
+    {
+      "label": "[section] Displaying data",
+      "content": "a.User Interface - the display mode data view/layout view, layers, data frames and map documentsb.Manage Table of contents - change the drawing order of layers, renaming the data frames and layers, remove layers, table display or sourcec.Moving around the map - spatial bookmarks, Zoom Tool, magnifier, viewer, and overview windowsd.Symbology in ArcMap application - set of symbols for plotting data according to attribute values or the same symbol for alle.Displaying of qualitative and quantitative values - elements, categories, quantities, graphsf.Definition of a subset of data for displayg.Set of layersh.Change the data source for a layer"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Working with Coordinate Systems - Cartographic projections, coordinate systems in Czech Repuplic, storing and displaying information about the coordinate system, change the coordinate system"
+    },
+    {
+      "label": "[section] Coordinate Systems",
+      "content": "a.Working with Coordinate Systems - Cartographic projections, coordinate systems in Czech Repuplic, storing and displaying information about the coordinate system, change the coordinate system"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Identificationb.Searchc.Measurementd.Selection - an interactive selection, selection based on attributes, by location, according to graphics"
+    },
+    {
+      "label": "[section] Querying the database",
+      "content": "a.Identificationb.Searchc.Measurementd.Selection - an interactive selection, selection based on attributes, by location, according to graphics"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Representation of reality by means of geographic elements - vector and raster data, geometry, attributes and rules of behavior datab.Feature class - point, line and surface classc.Linking the geometric and attribute components of geographic data - the unique identifier of the elementd.The formats of geographic datae.ESRI shapefile formats, ESRI coverage, CADf.Data tableg.Raster data - GRID, TIFF, BMP, SID, JPEG, ERDASh.ArcCatalog applications - three views of the data card content, create thumbnails, preview cards, card metadata, ArcCatalog choices, connecting directories, add a new file type, access the Internet"
+    },
+    {
+      "label": "[section] Working with spatial data",
+      "content": "a.Representation of reality by means of geographic elements - vector and raster data, geometry, attributes and rules of behavior datab.Feature class - point, line and surface classc.Linking the geometric and attribute components of geographic data - the unique identifier of the elementd.The formats of geographic datae.ESRI shapefile formats, ESRI coverage, CADf.Data tableg.Raster data - GRID, TIFF, BMP, SID, JPEG, ERDASh.ArcCatalog applications - three views of the data card content, create thumbnails, preview cards, card metadata, ArcCatalog choices, connecting directories, add a new file type, access the Internet"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Setting up symbols for the quantitative attribute values - point, line and surface elements vs. spatially continuous datab.Selection of classification methods, the number of classes and their intervalc.Using advanced rendering - mask, cropped shape"
+    },
+    {
+      "label": "[section] Working with layers and maps",
+      "content": "a.Setting up symbols for the quantitative attribute values - point, line and surface elements vs. spatially continuous datab.Selection of classification methods, the number of classes and their intervalc.Using advanced rendering - mask, cropped shape"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Georeferencing and vector transformationb.Georeferencing and raster transformationc.Aggregation of spatial data"
+    },
+    {
+      "label": "[section] Georeferencing and transformation vector and raster",
+      "content": "a.Georeferencing and vector transformationb.Georeferencing and raster transformationc.Aggregation of spatial data"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Editable data formatsb.Toolbar Editor - Edit control, management of the editing, selection of features for editingc.Simple editing operations - shift, rotation and others, tolerance of unwanted displacementd.Working with sketches - the creation or modification of elementse.Snapping - snapping a layer or a sketchf.Editing tasks - create a new element to extend / shorten the elements, mirror elements, modify elements, change the shape of the element, divided by a line of polygon features, auto-complete polygon, intersection and distance, arc, tracing the lineg.Context menu sketch - sketch modification, assignment length, direction, diversion, entry angle, depending on other elements, the end of the sketch"
+    },
+    {
+      "label": "[section] Editing Data - Part A - editing geometric component data",
+      "content": "a.Editable data formatsb.Toolbar Editor - Edit control, management of the editing, selection of features for editingc.Simple editing operations - shift, rotation and others, tolerance of unwanted displacementd.Working with sketches - the creation or modification of elementse.Snapping - snapping a layer or a sketchf.Editing tasks - create a new element to extend / shorten the elements, mirror elements, modify elements, change the shape of the element, divided by a line of polygon features, auto-complete polygon, intersection and distance, arc, tracing the lineg.Context menu sketch - sketch modification, assignment length, direction, diversion, entry angle, depending on other elements, the end of the sketch"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Editing attributes of selected elementsb.Editing Data in the tablec.Changes in the structure of the table - add fields, delete fields, create a new class of components, data setsd.Create a new class of elements"
+    },
+    {
+      "label": "[section] Editing Data - Part B - Editing attributes",
+      "content": "a.Editing attributes of selected elementsb.Editing Data in the tablec.Changes in the structure of the table - add fields, delete fields, create a new class of components, data setsd.Create a new class of elements"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Tables - basic properties of the table, tabular data field typesb.Working with Tablesc.Supported formats tablesd.Graphs and reports"
+    },
+    {
+      "label": "[section] Working with Tables",
+      "content": "a.Tables - basic properties of the table, tabular data field typesb.Working with Tablesc.Supported formats tablesd.Graphs and reports"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Labels vs. annotationb.The basic rules - the relationship label-element priority labels, weight labels, packaging labels area, the visibility of labelsc.Switching Label Layerd.Change the look of labelse.Change location setting labelsf.Different set captions - how to describe some elements of different typeg.Creating and editing annotations"
+    },
+    {
+      "label": "[section] Creating labels and annotation",
+      "content": "a.Labels vs. annotationb.The basic rules - the relationship label-element priority labels, weight labels, packaging labels area, the visibility of labelsc.Switching Label Layerd.Change the look of labelse.Change location setting labelsf.Different set captions - how to describe some elements of different typeg.Creating and editing annotations"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Draft maps - factors influencing graphic design, communication via mapsb.Map types - general vs. coveragesc.Creating maps in ArcMap application - view drawing, data frames, paper mapd.Page Setupe.Inserting map elements - the North Star, scale, legend, text, grid network, or indicativef.Drawing tools - Grid, Rulerg.Gridh.Map templates - template ArcMap, creating custom templatesi.Print and export maps"
+    },
+    {
+      "label": "[section] Data Presentation",
+      "content": "a.Draft maps - factors influencing graphic design, communication via mapsb.Map types - general vs. coveragesc.Creating maps in ArcMap application - view drawing, data frames, paper mapd.Page Setupe.Inserting map elements - the North Star, scale, legend, text, grid network, or indicativef.Drawing tools - Grid, Rulerg.Gridh.Map templates - template ArcMap, creating custom templatesi.Print and export maps"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture0 h10 hpractice24 h0 hconsultation24 h40 hpreparation for exam40 h40 hwriting of seminar paper24 h22 hTotal112 h112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Full-time - Completing the course - Preparing of seminar work. Selected model area including analysis, graphic layout, exporting and printing. Seminar work evaluated min. 5 out of a total 10 points. Obligatory attendance - 80 % Part-time - Completing the course - Preparing of seminar work. Selected model area including analysis, graphic layout, exporting and printing. Seminar work evaluated min. 5 out of a total 10 points. Obligatory attendance - 66 %"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTotal0 %0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:MENKE, Kurt. 2016. Discover QGIS: The workbook for the award winning GeoAcademy Curriculum. Chugiak, AK: Locate Press, ISBN 978-0-9894217-6-8.WALDHEIM, Charles. 2016. Cartographic grounds: projecting the landscape imaginary. New York: Princeton Architectural Press, 266 p. ISBN 9781616893293.TOMLIN, C. Dana. 2013. GIS and cartographic modeling. Redlands, California: Esri Press, 182 p. ISBN 978-1-58948-309-5."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "MENKE, Kurt. 2016. Discover QGIS: The workbook for the award winning GeoAcademy Curriculum. Chugiak, AK: Locate Press, ISBN 978-0-9894217-6-8.WALDHEIM, Charles. 2016. Cartographic grounds: projecting the landscape imaginary. New York: Princeton Architectural Press, 266 p. ISBN 9781616893293.TOMLIN, C. Dana. 2013. GIS and cartographic modeling. Redlands, California: Esri Press, 182 p. ISBN 978-1-58948-309-5."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:31:09",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

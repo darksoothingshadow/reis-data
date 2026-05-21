@@ -1,0 +1,877 @@
+{
+  "courseCode": "EBC-AP",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-AP"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Architektura počítačů"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Computer Architecture"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět je možné studovat i během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. RNDr. Tomáš Pitner, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Petr Jedlička, Ph.D. (tutor)prof. Ing. Cyril Klimeš, CSc. (cvičící, přednášející, tutor, zkoušející)prof. RNDr. Tomáš Pitner, Ph.D. (garant, přednášející, tutor, zkoušející)Ing. Jiří Třináctý (cvičící, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "1. týden (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "PŘEDNÁŠKA: Motivace (cíl předmětu), organizace výuky a podmínky ukončení, smysl a cíl semestrální práce, požadavky na semestrální práci (obsahové, formální), pravidla typografie a citování zdrojů. Úvod do architektury počítačů, historie."
+    },
+    {
+      "label": "b.",
+      "content": "CVIČENÍ: Seznámení s platformou Arduino, digitální vstupy a výstupy."
+    },
+    {
+      "label": "2.",
+      "content": "2. týden (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "PŘEDNÁŠKA: Teorie architektury počítačů. Struktura počítače, historický vývoj výpočetní techniky. (Přednášející: prof. Klimeš)"
+    },
+    {
+      "label": "3.",
+      "content": "3. týden (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "PŘEDNÁŠKA: Elektronické principy digitálních počítačů, spínací prvky, Booleova algebra. Kombinační logické obvody."
+    },
+    {
+      "label": "b.",
+      "content": "CVIČENÍ: Arduino – sériová komunikace a čtení analogových hodnot."
+    },
+    {
+      "label": "4.",
+      "content": "4. týden (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "PŘEDNÁŠKA: Sekvenční logické obvody (klopné obvody, čítače)."
+    },
+    {
+      "label": "5.",
+      "content": "5. týden (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "PŘEDNÁŠKA: Procesory (vnitřní architektura, instrukce a instrukční cyklus, registry, cache)."
+    },
+    {
+      "label": "b.",
+      "content": "CVIČENÍ: Logické obvody."
+    },
+    {
+      "label": "6.",
+      "content": "6. týden (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "PŘEDNÁŠKA: Programování na úrovni procesoru, assembler. (Přednášející prof. Klimeš)"
+    },
+    {
+      "label": "7.",
+      "content": "7. týden (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "PŘEDNÁŠKA: Paměti, funkce, principy, technologické realizace. Vnitřní paměti (varianty ROM, SRAM/DRAM, cache). Paměťová média (pevná, výměnná). Technologie ukládání a archivace dat."
+    },
+    {
+      "label": "b.",
+      "content": "CVIČENÍ: Arduino – tranzistor jako spínač, sestavení prvků AND a OR z tranzistorů."
+    },
+    {
+      "label": "8.",
+      "content": "8. týden (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "PŘEDNÁŠKA: Pokročilé architektury počítačů. (Přednášející prof. Klimeš)"
+    },
+    {
+      "label": "9.",
+      "content": "9. týden (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "PŘEDNÁŠKA: Sběrnice. Rozhraní periferních zařízení."
+    },
+    {
+      "label": "b.",
+      "content": "CVIČENÍ: Arduino – přerušení a asynchronní obsluha událostí."
+    },
+    {
+      "label": "10.",
+      "content": "10. týden (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "PŘEDNÁŠKA: Grafické adaptéry, zobrazovací jednotky, GPGPU."
+    },
+    {
+      "label": "11.",
+      "content": "11. týden (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "PŘEDNÁŠKA: Vnější zařízení počítače (periferie)."
+    },
+    {
+      "label": "b.",
+      "content": "CVIČENÍ: Arduino – měření množství světla a vzdálenosti, detekce pohybu, zvukový výstup."
+    },
+    {
+      "label": "12.",
+      "content": "12. týden (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "PŘEDNÁŠKA: Počítače a kontroléry pro řízení technologických procesů."
+    },
+    {
+      "label": "13.",
+      "content": "13. týden (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "PŘEDNÁŠKA: Souhrn problematiky. Opakování."
+    },
+    {
+      "label": "b.",
+      "content": "CVIČENÍ: Arduino – ovládání servomotoru."
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022, LS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Architektura počítačů"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Computer Architecture"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat i během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. RNDr. Tomáš Pitner, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Petr Jedlička, Ph.D. (tutor)prof. Ing. Cyril Klimeš, CSc. (cvičící, přednášející, tutor, zkoušející)prof. RNDr. Tomáš Pitner, Ph.D. (garant, přednášející, tutor, zkoušející)Ing. Jiří Třináctý (cvičící, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkSkupinaVyučujícíAkceČetnostKapacitaPondělí9.00-10.50Q02B-AIIB-OI 1123 T. Pitner, C. KlimešPřednáškaKaždý týden200Pondělí11.00-12.50Q26B-OI 1233 J. TřináctýCvičeníSudý týden23Pondělí11.00-12.50Q26B-OI 1236 J. TřináctýCvičeníLichý týden23Pondělí13.00-14.50Q26B-OI 1232 J. TřináctýCvičeníLichý týden22Pondělí13.00-14.50Q26B-OI 1235 J. TřináctýCvičeníSudý týden22Pondělí15.00-16.50Q26B-OI 1234 J. TřináctýCvičeníSudý týden22Pondělí15.00-16.50Q26B-AII 1232 J. TřináctýCvičeníLichý týden22Úterý9.00-10.50Q09B-OI 1237 J. TřináctýCvičeníLichý týden22Úterý11.00-12.50Q09B-OI 1231 J. TřináctýCvičeníLichý týden23Úterý11.00-12.50Q09B-AII 1231 J. TřináctýCvičeníSudý týden22Sobota9.00-12.50Q16B-AIIB-AII1 51 C. KlimešPřednáškaNepravidelně50"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět seznamuje studenty s historií a především současným stavem počítačové architektury na různých úrovních abstrakce. Student bude schopen se orientovat v dynamicky se rozvíjející architektuře počítačových systémů a dovede pro řešení konkrétního problému vybrat optimální hardwarovou konfiguraci."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.1. týden (dotace 2/1) a.PŘEDNÁŠKA: Motivace (cíl předmětu), organizace výuky a podmínky ukončení, smysl a cíl semestrální práce, požadavky na semestrální práci (obsahové, formální), pravidla typografie a citování zdrojů. Úvod do architektury počítačů, historie.b.CVIČENÍ: Seznámení s platformou Arduino, digitální vstupy a výstupy.2.2. týden (dotace 2/1) a.PŘEDNÁŠKA: Teorie architektury počítačů. Struktura počítače, historický vývoj výpočetní techniky. (Přednášející: prof. Klimeš)b.CVIČENÍ: Seznámení s platformou Arduino, digitální vstupy a výstupy.3.3. týden (dotace 2/1) a.PŘEDNÁŠKA: Elektronické principy digitálních počítačů, spínací prvky, Booleova algebra. Kombinační logické obvody.b.CVIČENÍ: Arduino – sériová komunikace a čtení analogových hodnot.4.4. týden (dotace 2/1) a.PŘEDNÁŠKA: Sekvenční logické obvody (klopné obvody, čítače).b.CVIČENÍ: Arduino – sériová komunikace a čtení analogových hodnot.5.5. týden (dotace 2/1) a.PŘEDNÁŠKA: Procesory (vnitřní architektura, instrukce a instrukční cyklus, registry, cache).b.CVIČENÍ: Logické obvody.6.6. týden (dotace 2/1) a.PŘEDNÁŠKA: Programování na úrovni procesoru, assembler. (Přednášející prof. Klimeš)b.CVIČENÍ: Logické obvody.7.7. týden (dotace 2/1) a.PŘEDNÁŠKA: Paměti, funkce, principy, technologické realizace. Vnitřní paměti (varianty ROM, SRAM/DRAM, cache). Paměťová média (pevná, výměnná). Technologie ukládání a archivace dat.b.CVIČENÍ: Arduino – tranzistor jako spínač, sestavení prvků AND a OR z tranzistorů.8.8. týden (dotace 2/1) a.PŘEDNÁŠKA: Pokročilé architektury počítačů. (Přednášející prof. Klimeš)b.CVIČENÍ: Arduino – tranzistor jako spínač, sestavení prvků AND a OR z tranzistorů.9.9. týden (dotace 2/1) a.PŘEDNÁŠKA: Sběrnice. Rozhraní periferních zařízení.b.CVIČENÍ: Arduino – přerušení a asynchronní obsluha událostí.10.10. týden (dotace 2/1) a.PŘEDNÁŠKA: Grafické adaptéry, zobrazovací jednotky, GPGPU.b.CVIČENÍ: Arduino – přerušení a asynchronní obsluha událostí.11.11. týden (dotace 2/1) a.PŘEDNÁŠKA: Vnější zařízení počítače (periferie).b.CVIČENÍ: Arduino – měření množství světla a vzdálenosti, detekce pohybu, zvukový výstup.12.12. týden (dotace 2/1) a.PŘEDNÁŠKA: Počítače a kontroléry pro řízení technologických procesů.b.CVIČENÍ: Arduino – měření množství světla a vzdálenosti, detekce pohybu, zvukový výstup.13.13. týden (dotace 2/1) a.PŘEDNÁŠKA: Souhrn problematiky. Opakování.b.CVIČENÍ: Arduino – ovládání servomotoru."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.PŘEDNÁŠKA: Motivace (cíl předmětu), organizace výuky a podmínky ukončení, smysl a cíl semestrální práce, požadavky na semestrální práci (obsahové, formální), pravidla typografie a citování zdrojů. Úvod do architektury počítačů, historie.b.CVIČENÍ: Seznámení s platformou Arduino, digitální vstupy a výstupy."
+    },
+    {
+      "label": "[section] 1. týden",
+      "content": "a.PŘEDNÁŠKA: Motivace (cíl předmětu), organizace výuky a podmínky ukončení, smysl a cíl semestrální práce, požadavky na semestrální práci (obsahové, formální), pravidla typografie a citování zdrojů. Úvod do architektury počítačů, historie.b.CVIČENÍ: Seznámení s platformou Arduino, digitální vstupy a výstupy."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.PŘEDNÁŠKA: Teorie architektury počítačů. Struktura počítače, historický vývoj výpočetní techniky. (Přednášející: prof. Klimeš)b.CVIČENÍ: Seznámení s platformou Arduino, digitální vstupy a výstupy."
+    },
+    {
+      "label": "[section] 2. týden",
+      "content": "a.PŘEDNÁŠKA: Teorie architektury počítačů. Struktura počítače, historický vývoj výpočetní techniky. (Přednášející: prof. Klimeš)b.CVIČENÍ: Seznámení s platformou Arduino, digitální vstupy a výstupy."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.PŘEDNÁŠKA: Elektronické principy digitálních počítačů, spínací prvky, Booleova algebra. Kombinační logické obvody.b.CVIČENÍ: Arduino – sériová komunikace a čtení analogových hodnot."
+    },
+    {
+      "label": "[section] 3. týden",
+      "content": "a.PŘEDNÁŠKA: Elektronické principy digitálních počítačů, spínací prvky, Booleova algebra. Kombinační logické obvody.b.CVIČENÍ: Arduino – sériová komunikace a čtení analogových hodnot."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.PŘEDNÁŠKA: Sekvenční logické obvody (klopné obvody, čítače).b.CVIČENÍ: Arduino – sériová komunikace a čtení analogových hodnot."
+    },
+    {
+      "label": "[section] 4. týden",
+      "content": "a.PŘEDNÁŠKA: Sekvenční logické obvody (klopné obvody, čítače).b.CVIČENÍ: Arduino – sériová komunikace a čtení analogových hodnot."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.PŘEDNÁŠKA: Procesory (vnitřní architektura, instrukce a instrukční cyklus, registry, cache).b.CVIČENÍ: Logické obvody."
+    },
+    {
+      "label": "[section] 5. týden",
+      "content": "a.PŘEDNÁŠKA: Procesory (vnitřní architektura, instrukce a instrukční cyklus, registry, cache).b.CVIČENÍ: Logické obvody."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.PŘEDNÁŠKA: Programování na úrovni procesoru, assembler. (Přednášející prof. Klimeš)b.CVIČENÍ: Logické obvody."
+    },
+    {
+      "label": "[section] 6. týden",
+      "content": "a.PŘEDNÁŠKA: Programování na úrovni procesoru, assembler. (Přednášející prof. Klimeš)b.CVIČENÍ: Logické obvody."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.PŘEDNÁŠKA: Paměti, funkce, principy, technologické realizace. Vnitřní paměti (varianty ROM, SRAM/DRAM, cache). Paměťová média (pevná, výměnná). Technologie ukládání a archivace dat.b.CVIČENÍ: Arduino – tranzistor jako spínač, sestavení prvků AND a OR z tranzistorů."
+    },
+    {
+      "label": "[section] 7. týden",
+      "content": "a.PŘEDNÁŠKA: Paměti, funkce, principy, technologické realizace. Vnitřní paměti (varianty ROM, SRAM/DRAM, cache). Paměťová média (pevná, výměnná). Technologie ukládání a archivace dat.b.CVIČENÍ: Arduino – tranzistor jako spínač, sestavení prvků AND a OR z tranzistorů."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.PŘEDNÁŠKA: Pokročilé architektury počítačů. (Přednášející prof. Klimeš)b.CVIČENÍ: Arduino – tranzistor jako spínač, sestavení prvků AND a OR z tranzistorů."
+    },
+    {
+      "label": "[section] 8. týden",
+      "content": "a.PŘEDNÁŠKA: Pokročilé architektury počítačů. (Přednášející prof. Klimeš)b.CVIČENÍ: Arduino – tranzistor jako spínač, sestavení prvků AND a OR z tranzistorů."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.PŘEDNÁŠKA: Sběrnice. Rozhraní periferních zařízení.b.CVIČENÍ: Arduino – přerušení a asynchronní obsluha událostí."
+    },
+    {
+      "label": "[section] 9. týden",
+      "content": "a.PŘEDNÁŠKA: Sběrnice. Rozhraní periferních zařízení.b.CVIČENÍ: Arduino – přerušení a asynchronní obsluha událostí."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.PŘEDNÁŠKA: Grafické adaptéry, zobrazovací jednotky, GPGPU.b.CVIČENÍ: Arduino – přerušení a asynchronní obsluha událostí."
+    },
+    {
+      "label": "[section] 10. týden",
+      "content": "a.PŘEDNÁŠKA: Grafické adaptéry, zobrazovací jednotky, GPGPU.b.CVIČENÍ: Arduino – přerušení a asynchronní obsluha událostí."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.PŘEDNÁŠKA: Vnější zařízení počítače (periferie).b.CVIČENÍ: Arduino – měření množství světla a vzdálenosti, detekce pohybu, zvukový výstup."
+    },
+    {
+      "label": "[section] 11. týden",
+      "content": "a.PŘEDNÁŠKA: Vnější zařízení počítače (periferie).b.CVIČENÍ: Arduino – měření množství světla a vzdálenosti, detekce pohybu, zvukový výstup."
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.PŘEDNÁŠKA: Počítače a kontroléry pro řízení technologických procesů.b.CVIČENÍ: Arduino – měření množství světla a vzdálenosti, detekce pohybu, zvukový výstup."
+    },
+    {
+      "label": "[section] 12. týden",
+      "content": "a.PŘEDNÁŠKA: Počítače a kontroléry pro řízení technologických procesů.b.CVIČENÍ: Arduino – měření množství světla a vzdálenosti, detekce pohybu, zvukový výstup."
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.PŘEDNÁŠKA: Souhrn problematiky. Opakování.b.CVIČENÍ: Arduino – ovládání servomotoru."
+    },
+    {
+      "label": "[section] 13. týden",
+      "content": "a.PŘEDNÁŠKA: Souhrn problematiky. Opakování.b.CVIČENÍ: Arduino – ovládání servomotoru."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení14 h0 hkonzultace0 h10 hpříprava na zkoušku48 h48 hpříprava na průběžné hodnocení30 h30 hpříprava na průběžný test20 h20 hzpracování protokolů0 h16 hCelkem140 h140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "U prezenční formy studia je vyžadována aktivní účast na cvičeních (min. 6 bodů, max. 10 bodů), vypracování průběžných testů (min. 6 bodů, max. 10 bodů) a splnění písemného znalostního testu (min. 48 bodů, max 80 bodů). V součtu je ke složení zkoušky třeba získat v součtu alespoň 60 bodů ze 100. U kombinované formy studia je vyžadováno vypracování a odevzdání tří korespondenčních úkolů (min. 12 bodů, max. 20 bodů) a splnění písemného znalostního testu (min. 48 bodů, max 80 bodů). V součtu je ke složení zkoušky třeba získat v součtu alespoň 60 bodů ze 100."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích10 %0 %Absolvování průběžného testu (testů)10 %0 %Hodnocené průběžné úkoly0 %20 %Absolvování závěrečného testu80 %80 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:JEDLIČKA, Petr. 2019. Architektura počítačů. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-650-0.Doporučená:PRINCETON UNIVERSITY. 2018. Computer Architecture . https://www.coursera.org/learn/comparch.Georgia Institute of Technology, High Performance Computer Architecture. E-learningový kurz zdarma [online]. URL: https://eu.udacity.com/course/high-performance-computer-architecture--ud007.Massachusetts Institute of Technology, Computation Structures - Part 1: Digital Circuits. E-learningový kurz zdarma [online]. URL: https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0.Massachusetts Institute of Technology, Computation Structures - Part 2: Computer Architecture. E-learningový kurz zdarma [online]. URL: https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x.Massachusetts Institute of Technology, Computation Structures - Part 3: Computer Organization. E-learningový kurz zdarma [online]. URL: https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0.oXy Online s. r. o. Svět hardware [online]. © 1998-2019. URL: http://www.svethardware.cz. ISSN 1213-0818."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "JEDLIČKA, Petr. 2019. Architektura počítačů. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-650-0."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "PRINCETON UNIVERSITY. 2018. Computer Architecture . https://www.coursera.org/learn/comparch.Georgia Institute of Technology, High Performance Computer Architecture. E-learningový kurz zdarma [online]. URL: https://eu.udacity.com/course/high-performance-computer-architecture--ud007.Massachusetts Institute of Technology, Computation Structures - Part 1: Digital Circuits. E-learningový kurz zdarma [online]. URL: https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0.Massachusetts Institute of Technology, Computation Structures - Part 2: Computer Architecture. E-learningový kurz zdarma [online]. URL: https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x.Massachusetts Institute of Technology, Computation Structures - Part 3: Computer Organization. E-learningový kurz zdarma [online]. URL: https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0.oXy Online s. r. o. Svět hardware [online]. © 1998-2019. URL: http://www.svethardware.cz. ISSN 1213-0818."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-AII Administrace IS/ICT, prezenční forma, počáteční období ZS 2025/2026Program B-OI Otevřená informatika, prezenční forma, počáteční období ZS 2025/2026Program B-AII Administrace IS/ICT, kombinovaná forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-AP"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Architektura počítačů"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Computer Architecture"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course can also be studied during a study stay abroad."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. RNDr. Tomáš Pitner, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Petr Jedlička, Ph.D. (tutor)prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, tutor)prof. RNDr. Tomáš Pitner, Ph.D. (examiner, lecturer, supervisor, tutor)Ing. Jiří Třináctý (examiner, instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "1ST WEEK (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "LECTURE: Motivation (aims of the course), organization of teaching and conditions of course completion, meaning and aim of semestral work, requirements for semestral work (content, formal), rules of typography and citing sources."
+    },
+    {
+      "label": "b.",
+      "content": "SEMINAR: Introduction to Arduino IDE and Wiring language (library)."
+    },
+    {
+      "label": "2.",
+      "content": "2ND WEEK (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "LECTURE: Computer structure, historical development of computer technology (generation of computers, principles of J. von Neumann)."
+    },
+    {
+      "label": "b.",
+      "content": "SEMINAR: Basic structures of Wiring language."
+    },
+    {
+      "label": "3.",
+      "content": "3RD WEEK (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "LECTURE: Logic circuits."
+    },
+    {
+      "label": "b.",
+      "content": "SEMINAR: Advanced Wiring structures."
+    },
+    {
+      "label": "4.",
+      "content": "4TH WEEK (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "LECTURE: Processors – structure, instruction, instruction cycle, registers, performance measurement."
+    },
+    {
+      "label": "b.",
+      "content": "SEMINAR: Library and user-defined Wiring functions."
+    },
+    {
+      "label": "5.",
+      "content": "5TH WEEK (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "LECTURE: Techniques to increase computing power, parallelize calculations."
+    },
+    {
+      "label": "b.",
+      "content": "SEMINAR: Arduino – serial communications and cycles."
+    },
+    {
+      "label": "6.",
+      "content": "6TH WEEK (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "LECTURE: Current processors of servers, personal computers and portable devices (Intel, AMD, IBM, ARM,…), expected development."
+    },
+    {
+      "label": "b.",
+      "content": "SEMINAR: Arduino – graphic output."
+    },
+    {
+      "label": "7.",
+      "content": "7TH WEEK (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "LECTURE: Principles of wired data transmission."
+    },
+    {
+      "label": "b.",
+      "content": "SEMINAR: Arduino - work with memory (FLASH, SRAM, EEPROM)."
+    },
+    {
+      "label": "8.",
+      "content": "8TH WEEK (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "LECTURE: Principles of wireless data transmission."
+    },
+    {
+      "label": "b.",
+      "content": "SEMINAR: Arduino – communications and peripherals."
+    },
+    {
+      "label": "9.",
+      "content": "9TH WEEK (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "LECTURE: Current bus and computer interfaces, motherboards, chipsets."
+    },
+    {
+      "label": "b.",
+      "content": "SEMINAR: Arduino – voltage measurement."
+    },
+    {
+      "label": "10.",
+      "content": "10TH WEEK (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "LECTURE: Memory – computer memory hierarchy, types and technologies of memories, qualitative and quantitative parameters of memories."
+    },
+    {
+      "label": "b.",
+      "content": "SEMINAR: Logic circuits (software simulations)."
+    },
+    {
+      "label": "11.",
+      "content": "11TH WEEK (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "LECTURE: Computer input devices."
+    },
+    {
+      "label": "b.",
+      "content": "SEMINAR: Personal computer hardware."
+    },
+    {
+      "label": "12.",
+      "content": "12TH WEEK (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "LECTURE: Computer output devices."
+    },
+    {
+      "label": "b.",
+      "content": "SEMINAR: Defense of semestral work."
+    },
+    {
+      "label": "13.",
+      "content": "13TH WEEK (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "LECTURE: Graphic adapters, display units, GPGPU."
+    },
+    {
+      "label": "14.",
+      "content": "14TH WEEK (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "LECTURE: Mainframe hardware, data center and supercomputer hardware."
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022, SS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Architektura počítačů"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Computer Architecture"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course can also be studied during a study stay abroad."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. RNDr. Tomáš Pitner, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Petr Jedlička, Ph.D. (tutor)prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, tutor)prof. RNDr. Tomáš Pitner, Ph.D. (examiner, lecturer, supervisor, tutor)Ing. Jiří Třináctý (examiner, instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyGroupTeacherEntryFrequencyCapacityMonday9.00-10.50Q02B-AIIB-OI 1123 T. Pitner, C. KlimešLectureEvery week200Monday11.00-12.50Q26B-OI 1236 J. TřináctýSeminarOdd week23Monday11.00-12.50Q26B-OI 1233 J. TřináctýSeminarEven week23Monday13.00-14.50Q26B-OI 1235 J. TřináctýSeminarEven week22Monday13.00-14.50Q26B-OI 1232 J. TřináctýSeminarOdd week22Monday15.00-16.50Q26B-AII 1232 J. TřináctýSeminarOdd week22Monday15.00-16.50Q26B-OI 1234 J. TřináctýSeminarEven week22Tuesday9.00-10.50Q09B-OI 1237 J. TřináctýSeminarOdd week22Tuesday11.00-12.50Q09B-AII 1231 J. TřináctýSeminarEven week22Tuesday11.00-12.50Q09B-OI 1231 J. TřináctýSeminarOdd week23Saturday9.00-12.50Q16B-AIIB-AII1 51 C. KlimešLectureOccasionally50"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "This course introduces students to the history and, above all, the current state of computer architecture at various levels of abstraction. Student will be able to orientate in dynamically developing architecture of computer systems and is able to choose optimal hardware configuration for solving specific problem."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.1ST WEEK (allowance 2/2) a.LECTURE: Motivation (aims of the course), organization of teaching and conditions of course completion, meaning and aim of semestral work, requirements for semestral work (content, formal), rules of typography and citing sources.b.SEMINAR: Introduction to Arduino IDE and Wiring language (library).2.2ND WEEK (allowance 2/2) a.LECTURE: Computer structure, historical development of computer technology (generation of computers, principles of J. von Neumann).b.SEMINAR: Basic structures of Wiring language.3.3RD WEEK (allowance 2/2) a.LECTURE: Logic circuits.b.SEMINAR: Advanced Wiring structures.4.4TH WEEK (allowance 2/2) a.LECTURE: Processors – structure, instruction, instruction cycle, registers, performance measurement.b.SEMINAR: Library and user-defined Wiring functions.5.5TH WEEK (allowance 2/2) a.LECTURE: Techniques to increase computing power, parallelize calculations.b.SEMINAR: Arduino – serial communications and cycles.6.6TH WEEK (allowance 2/2) a.LECTURE: Current processors of servers, personal computers and portable devices (Intel, AMD, IBM, ARM,…), expected development.b.SEMINAR: Arduino – graphic output.7.7TH WEEK (allowance 2/2) a.LECTURE: Principles of wired data transmission.b.SEMINAR: Arduino - work with memory (FLASH, SRAM, EEPROM).8.8TH WEEK (allowance 2/2) a.LECTURE: Principles of wireless data transmission.b.SEMINAR: Arduino – communications and peripherals.9.9TH WEEK (allowance 2/2) a.LECTURE: Current bus and computer interfaces, motherboards, chipsets.b.SEMINAR: Arduino – voltage measurement.10.10TH WEEK (allowance 2/2) a.LECTURE: Memory – computer memory hierarchy, types and technologies of memories, qualitative and quantitative parameters of memories.b.SEMINAR: Logic circuits (software simulations).11.11TH WEEK (allowance 2/2) a.LECTURE: Computer input devices.b.SEMINAR: Personal computer hardware.12.12TH WEEK (allowance 2/2) a.LECTURE: Computer output devices.b.SEMINAR: Defense of semestral work.13.13TH WEEK (allowance 2/2) a.LECTURE: Graphic adapters, display units, GPGPU.b.SEMINAR: Defense of semestral work.14.14TH WEEK (allowance 2/2) a.LECTURE: Mainframe hardware, data center and supercomputer hardware.b.SEMINAR: Defense of semestral work."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.LECTURE: Motivation (aims of the course), organization of teaching and conditions of course completion, meaning and aim of semestral work, requirements for semestral work (content, formal), rules of typography and citing sources.b.SEMINAR: Introduction to Arduino IDE and Wiring language (library)."
+    },
+    {
+      "label": "[section] 1ST WEEK",
+      "content": "a.LECTURE: Motivation (aims of the course), organization of teaching and conditions of course completion, meaning and aim of semestral work, requirements for semestral work (content, formal), rules of typography and citing sources.b.SEMINAR: Introduction to Arduino IDE and Wiring language (library)."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.LECTURE: Computer structure, historical development of computer technology (generation of computers, principles of J. von Neumann).b.SEMINAR: Basic structures of Wiring language."
+    },
+    {
+      "label": "[section] 2ND WEEK",
+      "content": "a.LECTURE: Computer structure, historical development of computer technology (generation of computers, principles of J. von Neumann).b.SEMINAR: Basic structures of Wiring language."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.LECTURE: Logic circuits.b.SEMINAR: Advanced Wiring structures."
+    },
+    {
+      "label": "[section] 3RD WEEK",
+      "content": "a.LECTURE: Logic circuits.b.SEMINAR: Advanced Wiring structures."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.LECTURE: Processors – structure, instruction, instruction cycle, registers, performance measurement.b.SEMINAR: Library and user-defined Wiring functions."
+    },
+    {
+      "label": "[section] 4TH WEEK",
+      "content": "a.LECTURE: Processors – structure, instruction, instruction cycle, registers, performance measurement.b.SEMINAR: Library and user-defined Wiring functions."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.LECTURE: Techniques to increase computing power, parallelize calculations.b.SEMINAR: Arduino – serial communications and cycles."
+    },
+    {
+      "label": "[section] 5TH WEEK",
+      "content": "a.LECTURE: Techniques to increase computing power, parallelize calculations.b.SEMINAR: Arduino – serial communications and cycles."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.LECTURE: Current processors of servers, personal computers and portable devices (Intel, AMD, IBM, ARM,…), expected development.b.SEMINAR: Arduino – graphic output."
+    },
+    {
+      "label": "[section] 6TH WEEK",
+      "content": "a.LECTURE: Current processors of servers, personal computers and portable devices (Intel, AMD, IBM, ARM,…), expected development.b.SEMINAR: Arduino – graphic output."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.LECTURE: Principles of wired data transmission.b.SEMINAR: Arduino - work with memory (FLASH, SRAM, EEPROM)."
+    },
+    {
+      "label": "[section] 7TH WEEK",
+      "content": "a.LECTURE: Principles of wired data transmission.b.SEMINAR: Arduino - work with memory (FLASH, SRAM, EEPROM)."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.LECTURE: Principles of wireless data transmission.b.SEMINAR: Arduino – communications and peripherals."
+    },
+    {
+      "label": "[section] 8TH WEEK",
+      "content": "a.LECTURE: Principles of wireless data transmission.b.SEMINAR: Arduino – communications and peripherals."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.LECTURE: Current bus and computer interfaces, motherboards, chipsets.b.SEMINAR: Arduino – voltage measurement."
+    },
+    {
+      "label": "[section] 9TH WEEK",
+      "content": "a.LECTURE: Current bus and computer interfaces, motherboards, chipsets.b.SEMINAR: Arduino – voltage measurement."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.LECTURE: Memory – computer memory hierarchy, types and technologies of memories, qualitative and quantitative parameters of memories.b.SEMINAR: Logic circuits (software simulations)."
+    },
+    {
+      "label": "[section] 10TH WEEK",
+      "content": "a.LECTURE: Memory – computer memory hierarchy, types and technologies of memories, qualitative and quantitative parameters of memories.b.SEMINAR: Logic circuits (software simulations)."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.LECTURE: Computer input devices.b.SEMINAR: Personal computer hardware."
+    },
+    {
+      "label": "[section] 11TH WEEK",
+      "content": "a.LECTURE: Computer input devices.b.SEMINAR: Personal computer hardware."
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.LECTURE: Computer output devices.b.SEMINAR: Defense of semestral work."
+    },
+    {
+      "label": "[section] 12TH WEEK",
+      "content": "a.LECTURE: Computer output devices.b.SEMINAR: Defense of semestral work."
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.LECTURE: Graphic adapters, display units, GPGPU.b.SEMINAR: Defense of semestral work."
+    },
+    {
+      "label": "[section] 13TH WEEK",
+      "content": "a.LECTURE: Graphic adapters, display units, GPGPU.b.SEMINAR: Defense of semestral work."
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.LECTURE: Mainframe hardware, data center and supercomputer hardware.b.SEMINAR: Defense of semestral work."
+    },
+    {
+      "label": "[section] 14TH WEEK",
+      "content": "a.LECTURE: Mainframe hardware, data center and supercomputer hardware.b.SEMINAR: Defense of semestral work."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice14 h0 hconsultation0 h10 hpreparation for exam48 h48 hpreparation for regular assessment30 h30 hpreparation for regular testing20 h20 helaboration of reports0 h16 hTotal140 h140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "For the full-time form of study, active participation in seminars (min. 6 points, max. 10 points), completion of continuous tests (min. 6 points, max. 10 points) and completion of a written knowledge test (min. 48 points, max. 80 points) are required. In total, to pass the exam, it is necessary to obtain a total of at least 60 points out of 100. For the combined form of study, it is required to prepare and submit three correspondence assignments (min. 12 points, max. 20 points) and completion of a written knowledge test (min. 48 points, max. 80 points). In total, to pass the exam, it is necessary to obtain a total of at least 60 points out of 100."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation10 %0 %Mid-term test(s)10 %0 %Marked assignments0 %20 %Final test80 %80 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:JEDLIČKA, Petr. 2019. Architektura počítačů. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-650-0.Recommended:PRINCETON UNIVERSITY. 2018. Computer Architecture . https://www.coursera.org/learn/comparch.Georgia Institute of Technology, High Performance Computer Architecture. E-learningový kurz zdarma [online]. URL: https://eu.udacity.com/course/high-performance-computer-architecture--ud007.Massachusetts Institute of Technology, Computation Structures - Part 1: Digital Circuits. E-learningový kurz zdarma [online]. URL: https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0.Massachusetts Institute of Technology, Computation Structures - Part 2: Computer Architecture. E-learningový kurz zdarma [online]. URL: https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x.Massachusetts Institute of Technology, Computation Structures - Part 3: Computer Organization. E-learningový kurz zdarma [online]. URL: https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0.oXy Online s. r. o. Svět hardware [online]. © 1998-2019. URL: http://www.svethardware.cz. ISSN 1213-0818."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "JEDLIČKA, Petr. 2019. Architektura počítačů. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-650-0."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "PRINCETON UNIVERSITY. 2018. Computer Architecture . https://www.coursera.org/learn/comparch.Georgia Institute of Technology, High Performance Computer Architecture. E-learningový kurz zdarma [online]. URL: https://eu.udacity.com/course/high-performance-computer-architecture--ud007.Massachusetts Institute of Technology, Computation Structures - Part 1: Digital Circuits. E-learningový kurz zdarma [online]. URL: https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0.Massachusetts Institute of Technology, Computation Structures - Part 2: Computer Architecture. E-learningový kurz zdarma [online]. URL: https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x.Massachusetts Institute of Technology, Computation Structures - Part 3: Computer Organization. E-learningový kurz zdarma [online]. URL: https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0.oXy Online s. r. o. Svět hardware [online]. © 1998-2019. URL: http://www.svethardware.cz. ISSN 1213-0818."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-AII Administration IS/ICT, full-time form, initial period WS 2025/2026Programme B-OI Open Informatics, full-time form, initial period WS 2025/2026Programme B-AII Administration IS/ICT, part-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:38:12",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

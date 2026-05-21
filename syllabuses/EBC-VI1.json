@@ -1,0 +1,617 @@
+{
+  "courseCode": "EBC-VI1",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-VI1"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Vývoj aplikací pro iOS 1"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Application Development for iOS"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět je možné studovat při zahraničním výjezdu. Je nutné kontaktovat vyučujícího pro nastavení termínů písemných zkoušek a režimu studia."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. David Procházka, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. David Procházka, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška a Základy objektového návrhu"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do jazyka Swift (dotace 4/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Třídy, atributy, metody, konstruktory, destruktory"
+    },
+    {
+      "label": "b.",
+      "content": "Vazby a dědičnost, generika"
+    },
+    {
+      "label": "c.",
+      "content": "Zpracování chyb"
+    },
+    {
+      "label": "2.",
+      "content": "Architektura iOS aplikací (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Návrh a implementace uživatelského rozhraní"
+    },
+    {
+      "label": "b.",
+      "content": "Přizpůsobení uživatelského rozhraní pro různá zařízení"
+    },
+    {
+      "label": "c.",
+      "content": "Propojení uživatelského rozhraní s aplikační logikou"
+    },
+    {
+      "label": "3.",
+      "content": "Perzistence dat (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Objektově relační mapování dat"
+    },
+    {
+      "label": "b.",
+      "content": "Dotazy nad daty v databázi a propojení s uživatelským rozhraním"
+    },
+    {
+      "label": "4.",
+      "content": "Často používané frameworky (dotace 4/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Mapy a lokalizace zařízení"
+    },
+    {
+      "label": "b.",
+      "content": "Práce s kamerou a multimédii"
+    },
+    {
+      "label": "5.",
+      "content": "Paralelismus a síťová komunikace (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Práce s vlákny a procesy, zpracování dat mimo hlavní vlákno aplikace"
+    },
+    {
+      "label": "b.",
+      "content": "Síťová komunikace, komunikace prostřednictvím API, konverze dat"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "40 %"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "10 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "50 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Vývoj aplikací pro iOS 1"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Application Development for iOS"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat při zahraničním výjezdu. Je nutné kontaktovat vyučujícího pro nastavení termínů písemných zkoušek a režimu studia."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. David Procházka, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. David Procházka, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a Základy objektového návrhu"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaÚterý13.00-14.50Q16B-OID. ProcházkaPřednáškaLichý týden80Středa11.00-12.50Q12B-OID. ProcházkaCvičeníKaždý týden19Středa13.00-14.50Q12B-OID. ProcházkaCvičeníKaždý týden19Středa15.00-16.50Q12B-OID. ProcházkaCvičeníKaždý týden19"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Student se seznámí se základy programovacího jazyka Swift a operačního systému macOS. Naučí se vytvářet mobilní aplikace pro platformu iOS. Při výuce se seznámí s vývojovým nástrojem XCode a dalšími vývojovými nástroji firmy Apple. Student také získá základní přehled o vhodném designu aplikací pro iOS."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do jazyka Swift (dotace 4/8) a.Třídy, atributy, metody, konstruktory, destruktoryb.Vazby a dědičnost, generikac.Zpracování chyb2.Architektura iOS aplikací (dotace 2/4) a.Návrh a implementace uživatelského rozhraníb.Přizpůsobení uživatelského rozhraní pro různá zařízeníc.Propojení uživatelského rozhraní s aplikační logikou3.Perzistence dat (dotace 2/4) a.Objektově relační mapování datb.Dotazy nad daty v databázi a propojení s uživatelským rozhraním4.Často používané frameworky (dotace 4/8) a.Mapy a lokalizace zařízeníb.Práce s kamerou a multimédii5.Paralelismus a síťová komunikace (dotace 2/4) a.Práce s vlákny a procesy, zpracování dat mimo hlavní vlákno aplikaceb.Síťová komunikace, komunikace prostřednictvím API, konverze dat"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Třídy, atributy, metody, konstruktory, destruktoryb.Vazby a dědičnost, generikac.Zpracování chyb"
+    },
+    {
+      "label": "[section] Úvod do jazyka Swift",
+      "content": "a.Třídy, atributy, metody, konstruktory, destruktoryb.Vazby a dědičnost, generikac.Zpracování chyb"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Návrh a implementace uživatelského rozhraníb.Přizpůsobení uživatelského rozhraní pro různá zařízeníc.Propojení uživatelského rozhraní s aplikační logikou"
+    },
+    {
+      "label": "[section] Architektura iOS aplikací",
+      "content": "a.Návrh a implementace uživatelského rozhraníb.Přizpůsobení uživatelského rozhraní pro různá zařízeníc.Propojení uživatelského rozhraní s aplikační logikou"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Objektově relační mapování datb.Dotazy nad daty v databázi a propojení s uživatelským rozhraním"
+    },
+    {
+      "label": "[section] Perzistence dat",
+      "content": "a.Objektově relační mapování datb.Dotazy nad daty v databázi a propojení s uživatelským rozhraním"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Mapy a lokalizace zařízeníb.Práce s kamerou a multimédii"
+    },
+    {
+      "label": "[section] Často používané frameworky",
+      "content": "a.Mapy a lokalizace zařízeníb.Práce s kamerou a multimédii"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Práce s vlákny a procesy, zpracování dat mimo hlavní vlákno aplikaceb.Síťová komunikace, komunikace prostřednictvím API, konverze dat"
+    },
+    {
+      "label": "[section] Paralelismus a síťová komunikace",
+      "content": "a.Práce s vlákny a procesy, zpracování dat mimo hlavní vlákno aplikaceb.Síťová komunikace, komunikace prostřednictvím API, konverze dat"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení28 hpříprava na zkoušku28 hpříprava na průběžné hodnocení14 hzpracování projektů56 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "V průběhu semestru může student získat až 100 bodů za různé aktivity. Pokud student získá 60 bodů a více máte hodnocení E, 68 bodů a více D, 75 bodů a více C, 83 bodů a více B a 90 bodů a více A. 10 bodů lze získat za průběžný test z jazyka Swift, 40 bodů za projekt a 50 bodů lze získat za semestrální zkoušku. Semestrální zkouška je praktická, jedná se o implementaci jednoduché funkční mobilní aplikace a lze při ní používat libovolné zdroje (knihy, Internet aj.). Při písemných pracech je zakázáno jakoukoliv formou komunikovat s jinými lidmi, využívat umělou inteligenci, nebo jakkoliv jinak sdílet zadání písemných prací nebo jejich částí. Na test jazyka Swift a obhajobu práce je jeden řádný termín."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumVypracování semestrální práce40 %Absolvování průběžného testu (testů)10 %Absolvování závěrečného testu50 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:TAM, Audrey; BAGBIE, Caroline. 2021. SwiftUI Apprentice (First Edition). USA: Razeware LLC, 726 s.GALLOWAY, Matt; GALLAGHER, Alexis. 2021. Swift Apprentice (Sixth Edition). USA: Razerware LLC, 528 s.WENDERLICH, Ray. 2021. Ray Wenderlich Online Tutorials. http://htts://raywenderlich.com.Doporučená:STRAWN, Jay. 2021. Design Patterns by Tutorials (Third Edition): Learning Design Patterns in Swift. USA: Razerware LLC, 392 s.MORROW, Saul; MOREY, Matthew. 2021. Core Data by Tutorials (Eighth Edition). USA: Razerware LLC, 328 s."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "TAM, Audrey; BAGBIE, Caroline. 2021. SwiftUI Apprentice (First Edition). USA: Razeware LLC, 726 s.GALLOWAY, Matt; GALLAGHER, Alexis. 2021. Swift Apprentice (Sixth Edition). USA: Razerware LLC, 528 s.WENDERLICH, Ray. 2021. Ray Wenderlich Online Tutorials. http://htts://raywenderlich.com."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "STRAWN, Jay. 2021. Design Patterns by Tutorials (Third Edition): Learning Design Patterns in Swift. USA: Razerware LLC, 392 s.MORROW, Saul; MOREY, Matthew. 2021. Core Data by Tutorials (Eighth Edition). USA: Razerware LLC, 328 s."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Zaměření ZBOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-VI1"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Vývoj aplikací pro iOS 1"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Application Development for iOS"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course can be studied by mobility students abroad. It is necessary to contact the teacher to set up the dates of written exams and study mode."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. David Procházka, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. David Procházka, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam and Basics of Object Oriented Design"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to Swift (allowance 4/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Classes, attributes, methods, constructors, destructors"
+    },
+    {
+      "label": "b.",
+      "content": "Relationships, inheritance, generics"
+    },
+    {
+      "label": "c.",
+      "content": "Error handling"
+    },
+    {
+      "label": "2.",
+      "content": "iOS Application Architecture (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "User interface design and implementation"
+    },
+    {
+      "label": "b.",
+      "content": "Customizing the user interface for different devices"
+    },
+    {
+      "label": "c.",
+      "content": "Linking the user interface to the application logic"
+    },
+    {
+      "label": "3.",
+      "content": "Data persistence (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Object relational data mapping"
+    },
+    {
+      "label": "b.",
+      "content": "Querying the data in the database and linking it to the user interface"
+    },
+    {
+      "label": "4.",
+      "content": "Frequently used frameworks (allowance 4/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Maps and device localization"
+    },
+    {
+      "label": "b.",
+      "content": "Working with camera and multimedia"
+    },
+    {
+      "label": "5.",
+      "content": "Parallelism and network communication (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Working with threads and processes, processing data outside the main application thread"
+    },
+    {
+      "label": "b.",
+      "content": "Network communication, API communication, data conversion"
+    },
+    {
+      "label": "Term paper",
+      "content": "40 %"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "10 %"
+    },
+    {
+      "label": "Final test",
+      "content": "50 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Vývoj aplikací pro iOS 1"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Application Development for iOS"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course can be studied by mobility students abroad. It is necessary to contact the teacher to set up the dates of written exams and study mode."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. David Procházka, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. David Procházka, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam and Basics of Object Oriented Design"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityTuesday13.00-14.50Q16B-OID. ProcházkaLectureOdd week80Wednesday11.00-12.50Q12B-OID. ProcházkaSeminarEvery week19Wednesday13.00-14.50Q12B-OID. ProcházkaSeminarEvery week19Wednesday15.00-16.50Q12B-OID. ProcházkaSeminarEvery week19"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The students will learn the basics of the Swift programming language and the macOS operating system. They will learn how to create mobile applications for the iOS platform. Thy will focus on XCode development tool and other Apple development tools. The students will also gain a basic understanding of appropriate iOS app design."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to Swift (allowance 4/8) a.Classes, attributes, methods, constructors, destructorsb.Relationships, inheritance, genericsc.Error handling2.iOS Application Architecture (allowance 2/4) a.User interface design and implementationb.Customizing the user interface for different devicesc.Linking the user interface to the application logic3.Data persistence (allowance 2/4) a.Object relational data mappingb.Querying the data in the database and linking it to the user interface4.Frequently used frameworks (allowance 4/8) a.Maps and device localizationb.Working with camera and multimedia5.Parallelism and network communication (allowance 2/4) a.Working with threads and processes, processing data outside the main application threadb.Network communication, API communication, data conversion"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Classes, attributes, methods, constructors, destructorsb.Relationships, inheritance, genericsc.Error handling"
+    },
+    {
+      "label": "[section] Introduction to Swift",
+      "content": "a.Classes, attributes, methods, constructors, destructorsb.Relationships, inheritance, genericsc.Error handling"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.User interface design and implementationb.Customizing the user interface for different devicesc.Linking the user interface to the application logic"
+    },
+    {
+      "label": "[section] iOS Application Architecture",
+      "content": "a.User interface design and implementationb.Customizing the user interface for different devicesc.Linking the user interface to the application logic"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Object relational data mappingb.Querying the data in the database and linking it to the user interface"
+    },
+    {
+      "label": "[section] Data persistence",
+      "content": "a.Object relational data mappingb.Querying the data in the database and linking it to the user interface"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Maps and device localizationb.Working with camera and multimedia"
+    },
+    {
+      "label": "[section] Frequently used frameworks",
+      "content": "a.Maps and device localizationb.Working with camera and multimedia"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Working with threads and processes, processing data outside the main application threadb.Network communication, API communication, data conversion"
+    },
+    {
+      "label": "[section] Parallelism and network communication",
+      "content": "a.Working with threads and processes, processing data outside the main application threadb.Network communication, API communication, data conversion"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice28 hpreparation for exam28 hpreparation for regular assessment14 helaboration and execution of projects56 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Students can earn up to 100 points for various activities during the semester. If a student earns 60 points or more you have a grade of E, for 68 points or more D, for 75 points or more C, for 83 points or more B, and for 90 points or more is grade A. 10 points can be earned for a Swift test, 40 points can be earned for a project, and 50 points can be earned for an exam. The exams are practical, involves the implementation of a functional application, and can use any resources (books, Internet, etc.). It is prohibited to communicate in any form with other people, using artificial intelligence, or otherwise share the assignment or its parts during the tests and exams. There is one regular term for the Swift test and project defence."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTerm paper40 %Mid-term test(s)10 %Final test50 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:TAM, Audrey; BAGBIE, Caroline. 2021. SwiftUI Apprentice (First Edition). USA: Razeware LLC, 726 p.GALLOWAY, Matt; GALLAGHER, Alexis. 2021. Swift Apprentice (Sixth Edition). USA: Razerware LLC, 528 p.WENDERLICH, Ray. 2021. Ray Wenderlich Online Tutorials. http://htts://raywenderlich.com.Recommended:STRAWN, Jay. 2021. Design Patterns by Tutorials (Third Edition): Learning Design Patterns in Swift. USA: Razerware LLC, 392 p.MORROW, Saul; MOREY, Matthew. 2021. Core Data by Tutorials (Eighth Edition). USA: Razerware LLC, 328 p."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "TAM, Audrey; BAGBIE, Caroline. 2021. SwiftUI Apprentice (First Edition). USA: Razeware LLC, 726 p.GALLOWAY, Matt; GALLAGHER, Alexis. 2021. Swift Apprentice (Sixth Edition). USA: Razerware LLC, 528 p.WENDERLICH, Ray. 2021. Ray Wenderlich Online Tutorials. http://htts://raywenderlich.com."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "STRAWN, Jay. 2021. Design Patterns by Tutorials (Third Edition): Learning Design Patterns in Swift. USA: Razerware LLC, 392 p.MORROW, Saul; MOREY, Matthew. 2021. Core Data by Tutorials (Eighth Edition). USA: Razerware LLC, 328 p."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Scope ZBOI Scope for Open Informatics, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:46:35",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

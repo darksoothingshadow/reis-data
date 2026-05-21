@@ -1,0 +1,501 @@
+{
+  "courseCode": "ENC-ADP",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENC-ADP"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Analýza dat a modelování v Pythonu"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Data Analysis in Python"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zápočet (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 0/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Ing. Mgr. Jitka Janová, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav statistiky a operačního výzkumu (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "prof. Ing. Mgr. Jitka Janová, Ph.D. (garant)Ing. Richard Kovárník (cvičící)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do jazyka Python pro analýzu dat (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Seznámení s Pythonem a prostředím Google Colab"
+    },
+    {
+      "label": "b.",
+      "content": "Základní syntaxe: proměnné, datové typy, operátory"
+    },
+    {
+      "label": "c.",
+      "content": "Podmínky a cykly v Pythonu"
+    },
+    {
+      "label": "d.",
+      "content": "Funkce v Pythonu"
+    },
+    {
+      "label": "2.",
+      "content": "Úvod do knihovny Numpy pro práci s vektory, maticemi a vícerozměrnými poli (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Vytváření polí, indexace, slicing"
+    },
+    {
+      "label": "b.",
+      "content": "Operace s maticemi"
+    },
+    {
+      "label": "c.",
+      "content": "Statistické funkce a výpočty"
+    },
+    {
+      "label": "3.",
+      "content": "Úvod do knihovny Pandas pro manipulaci s daty (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Načítání dat z různých formátů (csv, xlsx, json)"
+    },
+    {
+      "label": "b.",
+      "content": "Manipulace a filtrování dat"
+    },
+    {
+      "label": "c.",
+      "content": "Práce s chybějícími hodnotami"
+    },
+    {
+      "label": "d.",
+      "content": "Statistické funkce"
+    },
+    {
+      "label": "4.",
+      "content": "Úvod do knihovny Matplotlib pro vizualizaci dat (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Základy tvorby grafů a vizualizace dat"
+    },
+    {
+      "label": "b.",
+      "content": "Práce s různými typy grafů"
+    },
+    {
+      "label": "c.",
+      "content": "Export grafů do různých formátů"
+    },
+    {
+      "label": "5.",
+      "content": "Řešení regresní úlohy prostřednictvím knihovny scikit-learn (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Příprava dat"
+    },
+    {
+      "label": "b.",
+      "content": "Tvorba modelu"
+    },
+    {
+      "label": "c.",
+      "content": "Hodnocení modelu"
+    },
+    {
+      "label": "6.",
+      "content": "Řešení klasifikační úlohy prostřednictvím knihovny scikit-learn (dotace 0/2)"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "30 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "70 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Analýza dat a modelování v Pythonu"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Data Analysis in Python"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zápočet (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zápočet (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Ing. Mgr. Jitka Janová, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav statistiky a operačního výzkumu (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: prof. Ing. Mgr. Jitka Janová, Ph.D. (garant)Ing. Richard Kovárník (cvičící)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí9.00-10.50Q36R. KovárníkCvičeníLichý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Studenti získají základní znalost programovacího jazyka Python, naučí se používat populární knihovny a nástroje pro analýzu dat jako je Numpy, Pandas, Matplotlib a scikit-learn a budou schopni zpracovat a vyhodnocovat různé typy dat. Získané dovednosti si studenti osvojí při týmovém projektu."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do jazyka Python pro analýzu dat (dotace 0/2) a.Seznámení s Pythonem a prostředím Google Colabb.Základní syntaxe: proměnné, datové typy, operátoryc.Podmínky a cykly v Pythonud.Funkce v Pythonu2.Úvod do knihovny Numpy pro práci s vektory, maticemi a vícerozměrnými poli (dotace 0/2) a.Vytváření polí, indexace, slicingb.Operace s maticemic.Statistické funkce a výpočty3.Úvod do knihovny Pandas pro manipulaci s daty (dotace 0/2) a.Načítání dat z různých formátů (csv, xlsx, json)b.Manipulace a filtrování datc.Práce s chybějícími hodnotamid.Statistické funkce4.Úvod do knihovny Matplotlib pro vizualizaci dat (dotace 0/2) a.Základy tvorby grafů a vizualizace datb.Práce s různými typy grafůc.Export grafů do různých formátů5.Řešení regresní úlohy prostřednictvím knihovny scikit-learn (dotace 0/2) a.Příprava datb.Tvorba modeluc.Hodnocení modelu6.Řešení klasifikační úlohy prostřednictvím knihovny scikit-learn (dotace 0/2) a.Příprava datb.Tvorba modeluc.Hodnocení modelu"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Seznámení s Pythonem a prostředím Google Colabb.Základní syntaxe: proměnné, datové typy, operátoryc.Podmínky a cykly v Pythonud.Funkce v Pythonu"
+    },
+    {
+      "label": "[section] Úvod do jazyka Python pro analýzu dat",
+      "content": "a.Seznámení s Pythonem a prostředím Google Colabb.Základní syntaxe: proměnné, datové typy, operátoryc.Podmínky a cykly v Pythonud.Funkce v Pythonu"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Vytváření polí, indexace, slicingb.Operace s maticemic.Statistické funkce a výpočty"
+    },
+    {
+      "label": "[section] Úvod do knihovny Numpy pro práci s vektory, maticemi a vícerozměrnými poli",
+      "content": "a.Vytváření polí, indexace, slicingb.Operace s maticemic.Statistické funkce a výpočty"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Načítání dat z různých formátů (csv, xlsx, json)b.Manipulace a filtrování datc.Práce s chybějícími hodnotamid.Statistické funkce"
+    },
+    {
+      "label": "[section] Úvod do knihovny Pandas pro manipulaci s daty",
+      "content": "a.Načítání dat z různých formátů (csv, xlsx, json)b.Manipulace a filtrování datc.Práce s chybějícími hodnotamid.Statistické funkce"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Základy tvorby grafů a vizualizace datb.Práce s různými typy grafůc.Export grafů do různých formátů"
+    },
+    {
+      "label": "[section] Úvod do knihovny Matplotlib pro vizualizaci dat",
+      "content": "a.Základy tvorby grafů a vizualizace datb.Práce s různými typy grafůc.Export grafů do různých formátů"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Příprava datb.Tvorba modeluc.Hodnocení modelu"
+    },
+    {
+      "label": "[section] Řešení regresní úlohy prostřednictvím knihovny scikit-learn",
+      "content": "a.Příprava datb.Tvorba modeluc.Hodnocení modelu"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Příprava datb.Tvorba modeluc.Hodnocení modelu"
+    },
+    {
+      "label": "[section] Řešení klasifikační úlohy prostřednictvím knihovny scikit-learn",
+      "content": "a.Příprava datb.Tvorba modeluc.Hodnocení modelu"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumcvičení14 hzpracování projektů6 hCelkem20 h"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích30 %Vypracování semestrální práce70 %Celkem100 %"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-EMOS Ekonomické modelování a aplikovaná statistika, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENC-ADP"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Analýza dat a modelování v Pythonu"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Data Analysis in Python"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Pass credit (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 0/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Ing. Mgr. Jitka Janová, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Statistics and Operation Analysis (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "prof. Ing. Mgr. Jitka Janová, Ph.D. (supervisor)Ing. Richard Kovárník (instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "30 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "70 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Analýza dat a modelování v Pythonu"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Data Analysis in Python"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Pass credit (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Pass credit (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: -- item not defined --"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Ing. Mgr. Jitka Janová, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Statistics and Operation Analysis (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. Ing. Mgr. Jitka Janová, Ph.D. (supervisor)Ing. Richard Kovárník (instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday9.00-10.50Q36R. KovárníkSeminarOdd week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "The content of the course has not been saved in this language version."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancepractice14 helaboration and execution of projects6 hTotal20 h"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation30 %Term paper70 %Total100 %"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-EMOS Economic modelling and applied statistics, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:54:51",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

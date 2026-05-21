@@ -1,0 +1,961 @@
+{
+  "courseCode": "ZEBOT",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ZEBOT"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Zemědělská botanika"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Agricultural Botany"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Osobní konzultace přes MS-teams."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Jan Winkler, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav biologie rostlin (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jan Winkler, Ph.D. (cvičící, garant, přednášející, zkoušející)Mgr. Magda Zdražílková, Ph.D. (cvičící)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Systém živých organismů a domestikace rostlin (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Taxonomie, botanické názvosloví, systematické kategorie"
+    },
+    {
+      "label": "b.",
+      "content": "Vývoj a přehled systémů živých organismů"
+    },
+    {
+      "label": "c.",
+      "content": "Domestikace rostlin, domestikační centra"
+    },
+    {
+      "label": "d.",
+      "content": "Zemědělské kategorie rostlin"
+    },
+    {
+      "label": "2.",
+      "content": "Základní charakteristika a zemědělsky významní zástupci (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Říše Excavata, Rhizaria, Chromalveolata, Amoebozoa, Opisthokonta"
+    },
+    {
+      "label": "b.",
+      "content": "Houby: houby spájivé, vřeckovýtrusé, stopkovýtrusé, lišejníky"
+    },
+    {
+      "label": "c.",
+      "content": "Zemědělsky významní zástupci, organismy využívaní v kvasných procesech, původci chorob"
+    },
+    {
+      "label": "3.",
+      "content": "Základní charakteristika a zemědělsky významní zástupci říše Plante (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Systém říše rostlin"
+    },
+    {
+      "label": "b.",
+      "content": "Řasy, mechorosty (mechy); kapraďorosty (přesličky), jehličnany"
+    },
+    {
+      "label": "c.",
+      "content": "Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele."
+    },
+    {
+      "label": "4.",
+      "content": "Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Magnoliopsida (nižší dvouděložné)"
+    },
+    {
+      "label": "b.",
+      "content": "Čeleď: Myristicaceae, Piperaceae, Lauraceae"
+    },
+    {
+      "label": "5.",
+      "content": "Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Rosopsida (vyšší dvouděložné)"
+    },
+    {
+      "label": "b.",
+      "content": "Čeleď: Ranunculaceae, Papaveraceae, Fumariaceae"
+    },
+    {
+      "label": "6.",
+      "content": "Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Rosopsida (vyšší dvouděložné) – Caryophyllidová větev"
+    },
+    {
+      "label": "b.",
+      "content": "Čeleď: Caryophyllaceae, Amaranthaceae, Polygonaceae, Portulaceae, Cactaceae"
+    },
+    {
+      "label": "7.",
+      "content": "Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Rosopsida (vyšší dvouděložné) – Rosidová větev"
+    },
+    {
+      "label": "b.",
+      "content": "Čeleď: Betulaceae, Cannabaceae, Corylaceae, Cucurbitaceae, Fagaceae, Oxalidaceae, Rosaceae, Salicaceae, Urticaceae, Vitaceae"
+    },
+    {
+      "label": "8.",
+      "content": "Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin (dotace 2/2)"
+    },
+    {
+      "label": "b.",
+      "content": "Čeleď: Brassicaceae, Euphorbiaceae, Fabaceae, Geraniaceae, Hypericaceae, Linaceae, Malvaceae, Rutaceae, Sterculiaceae, Violaceae"
+    },
+    {
+      "label": "9.",
+      "content": "Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Rosopsida (vyšší dvouděložné) – Asteridová větev"
+    },
+    {
+      "label": "b.",
+      "content": "Čeleď: Boraginaceae, Ericaceae, Gentianaceae, Lamiaceae, Orobanchaceae, Plantaginaceae, Primulaceae, Rubiaceae, Scrophulariaceae, Theaceae"
+    },
+    {
+      "label": "10.",
+      "content": "Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin (dotace 2/2)"
+    },
+    {
+      "label": "b.",
+      "content": "Čeleď: Apiaceae, Asteraceae, Campanulaceae, Convolvulaceae, Solanaceae"
+    },
+    {
+      "label": "11.",
+      "content": "Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Liliopsida (jednoděložné)"
+    },
+    {
+      "label": "b.",
+      "content": "Čeleď: Alliaceae, Asparagaceae, Colchicaceae, Hyacinthaceae, Iridaceae, Liliaceae, Orchidaceae"
+    },
+    {
+      "label": "12.",
+      "content": "Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin (dotace 2/2)"
+    },
+    {
+      "label": "b.",
+      "content": "Čeleď: Arecaceae, Bromeliaceae, Cyperaceae, Juncaceae, Musaceae"
+    },
+    {
+      "label": "13.",
+      "content": "Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin (dotace 2/2)"
+    },
+    {
+      "label": "b.",
+      "content": "Čeleď: Poaceae"
+    },
+    {
+      "label": "14.",
+      "content": "Terénní cvičení – praktické ukázky a identifikace vybraných druhů rostlin (dotace 0/4)"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "5 %"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "20 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "30 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "40 %"
+    },
+    {
+      "label": "Zvláštní podmínky a podrobnosti",
+      "content": "5 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021, 1998/1999 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Zemědělská botanika"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Agricultural Botany"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Osobní konzultace přes MS-teams."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Jan Winkler, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav biologie rostlin (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jan Winkler, Ph.D. (cvičící, garant, přednášející, zkoušející)Mgr. Magda Zdražílková, Ph.D. (cvičící)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí9.00-10.50C51M. ZdražílkováCvičeníKaždý týden20Pondělí13.00-14.50C51M. ZdražílkováCvičeníKaždý týden20Úterý17.00-18.50M2.11J. WinklerPřednáškaKaždý týden50"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je seznámit studenty se základy systematické botaniky, a to s taxonomií a se systémem živých organismů. Hlavní pozornost bude věnována charakterizaci hospodářsky významných čeledí rostlin a jejich zástupcům. Pozornost bude věnována determinačním znakům u vybraných druhů rostlin a jejich charakteristice. Studenti budou podrobně seznámeni s přehledem plodin, které jsou pěstovány u nás a ve světě. Dále budou seznámeni s druhy, které považujeme za polní plevele, jedovaté druhy a druhy významně ovlivňující zemědělskou činnost."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Systém živých organismů a domestikace rostlin (dotace 2/1) a.Taxonomie, botanické názvosloví, systematické kategorieb.Vývoj a přehled systémů živých organismůc.Domestikace rostlin, domestikační centrad.Zemědělské kategorie rostlin2.Základní charakteristika a zemědělsky významní zástupci (dotace 2/3) a.Říše Excavata, Rhizaria, Chromalveolata, Amoebozoa, Opisthokontab.Houby: houby spájivé, vřeckovýtrusé, stopkovýtrusé, lišejníkyc.Zemědělsky významní zástupci, organismy využívaní v kvasných procesech, původci chorob3.Základní charakteristika a zemědělsky významní zástupci říše Plante (dotace 2/2) a.Systém říše rostlinb.Řasy, mechorosty (mechy); kapraďorosty (přesličky), jehličnanyc.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele.4.Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin (dotace 2/2) a.Magnoliopsida (nižší dvouděložné)b.Čeleď: Myristicaceae, Piperaceae, Lauraceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele.5.Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin (dotace 2/2) a.Rosopsida (vyšší dvouděložné)b.Čeleď: Ranunculaceae, Papaveraceae, Fumariaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele.6.Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin (dotace 2/2) a.Rosopsida (vyšší dvouděložné) – Caryophyllidová větevb.Čeleď: Caryophyllaceae, Amaranthaceae, Polygonaceae, Portulaceae, Cactaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele7.Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin (dotace 2/2) a.Rosopsida (vyšší dvouděložné) – Rosidová větevb.Čeleď: Betulaceae, Cannabaceae, Corylaceae, Cucurbitaceae, Fagaceae, Oxalidaceae, Rosaceae, Salicaceae, Urticaceae, Vitaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele8.Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin (dotace 2/2) a.Rosopsida (vyšší dvouděložné) – Rosidová větevb.Čeleď: Brassicaceae, Euphorbiaceae, Fabaceae, Geraniaceae, Hypericaceae, Linaceae, Malvaceae, Rutaceae, Sterculiaceae, Violaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele9.Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin (dotace 2/2) a.Rosopsida (vyšší dvouděložné) – Asteridová větevb.Čeleď: Boraginaceae, Ericaceae, Gentianaceae, Lamiaceae, Orobanchaceae, Plantaginaceae, Primulaceae, Rubiaceae, Scrophulariaceae, Theaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele10.Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin (dotace 2/2) a.Rosopsida (vyšší dvouděložné) – Asteridová větevb.Čeleď: Apiaceae, Asteraceae, Campanulaceae, Convolvulaceae, Solanaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele11.Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin (dotace 2/2) a.Liliopsida (jednoděložné)b.Čeleď: Alliaceae, Asparagaceae, Colchicaceae, Hyacinthaceae, Iridaceae, Liliaceae, Orchidaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele12.Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin (dotace 2/2) a.Liliopsida (jednoděložné)b.Čeleď: Arecaceae, Bromeliaceae, Cyperaceae, Juncaceae, Musaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele13.Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin (dotace 2/2) a.Liliopsida (jednoděložné)b.Čeleď: Poaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele14.Terénní cvičení – praktické ukázky a identifikace vybraných druhů rostlin (dotace 0/4)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Taxonomie, botanické názvosloví, systematické kategorieb.Vývoj a přehled systémů živých organismůc.Domestikace rostlin, domestikační centrad.Zemědělské kategorie rostlin"
+    },
+    {
+      "label": "[section] Systém živých organismů a domestikace rostlin",
+      "content": "a.Taxonomie, botanické názvosloví, systematické kategorieb.Vývoj a přehled systémů živých organismůc.Domestikace rostlin, domestikační centrad.Zemědělské kategorie rostlin"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Říše Excavata, Rhizaria, Chromalveolata, Amoebozoa, Opisthokontab.Houby: houby spájivé, vřeckovýtrusé, stopkovýtrusé, lišejníkyc.Zemědělsky významní zástupci, organismy využívaní v kvasných procesech, původci chorob"
+    },
+    {
+      "label": "[section] Základní charakteristika a zemědělsky významní zástupci",
+      "content": "a.Říše Excavata, Rhizaria, Chromalveolata, Amoebozoa, Opisthokontab.Houby: houby spájivé, vřeckovýtrusé, stopkovýtrusé, lišejníkyc.Zemědělsky významní zástupci, organismy využívaní v kvasných procesech, původci chorob"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Systém říše rostlinb.Řasy, mechorosty (mechy); kapraďorosty (přesličky), jehličnanyc.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele."
+    },
+    {
+      "label": "[section] Základní charakteristika a zemědělsky významní zástupci říše Plante",
+      "content": "a.Systém říše rostlinb.Řasy, mechorosty (mechy); kapraďorosty (přesličky), jehličnanyc.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Magnoliopsida (nižší dvouděložné)b.Čeleď: Myristicaceae, Piperaceae, Lauraceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele."
+    },
+    {
+      "label": "[section] Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin",
+      "content": "a.Magnoliopsida (nižší dvouděložné)b.Čeleď: Myristicaceae, Piperaceae, Lauraceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Rosopsida (vyšší dvouděložné)b.Čeleď: Ranunculaceae, Papaveraceae, Fumariaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele."
+    },
+    {
+      "label": "[section] Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin",
+      "content": "a.Rosopsida (vyšší dvouděložné)b.Čeleď: Ranunculaceae, Papaveraceae, Fumariaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Rosopsida (vyšší dvouděložné) – Caryophyllidová větevb.Čeleď: Caryophyllaceae, Amaranthaceae, Polygonaceae, Portulaceae, Cactaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele"
+    },
+    {
+      "label": "[section] Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin",
+      "content": "a.Rosopsida (vyšší dvouděložné) – Caryophyllidová větevb.Čeleď: Caryophyllaceae, Amaranthaceae, Polygonaceae, Portulaceae, Cactaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Rosopsida (vyšší dvouděložné) – Rosidová větevb.Čeleď: Betulaceae, Cannabaceae, Corylaceae, Cucurbitaceae, Fagaceae, Oxalidaceae, Rosaceae, Salicaceae, Urticaceae, Vitaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele"
+    },
+    {
+      "label": "[section] Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin",
+      "content": "a.Rosopsida (vyšší dvouděložné) – Rosidová větevb.Čeleď: Betulaceae, Cannabaceae, Corylaceae, Cucurbitaceae, Fagaceae, Oxalidaceae, Rosaceae, Salicaceae, Urticaceae, Vitaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Rosopsida (vyšší dvouděložné) – Rosidová větevb.Čeleď: Brassicaceae, Euphorbiaceae, Fabaceae, Geraniaceae, Hypericaceae, Linaceae, Malvaceae, Rutaceae, Sterculiaceae, Violaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Rosopsida (vyšší dvouděložné) – Asteridová větevb.Čeleď: Boraginaceae, Ericaceae, Gentianaceae, Lamiaceae, Orobanchaceae, Plantaginaceae, Primulaceae, Rubiaceae, Scrophulariaceae, Theaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele"
+    },
+    {
+      "label": "[section] Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin",
+      "content": "a.Rosopsida (vyšší dvouděložné) – Asteridová větevb.Čeleď: Boraginaceae, Ericaceae, Gentianaceae, Lamiaceae, Orobanchaceae, Plantaginaceae, Primulaceae, Rubiaceae, Scrophulariaceae, Theaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Rosopsida (vyšší dvouděložné) – Asteridová větevb.Čeleď: Apiaceae, Asteraceae, Campanulaceae, Convolvulaceae, Solanaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Liliopsida (jednoděložné)b.Čeleď: Alliaceae, Asparagaceae, Colchicaceae, Hyacinthaceae, Iridaceae, Liliaceae, Orchidaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele"
+    },
+    {
+      "label": "[section] Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin",
+      "content": "a.Liliopsida (jednoděložné)b.Čeleď: Alliaceae, Asparagaceae, Colchicaceae, Hyacinthaceae, Iridaceae, Liliaceae, Orchidaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Liliopsida (jednoděložné)b.Čeleď: Arecaceae, Bromeliaceae, Cyperaceae, Juncaceae, Musaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele"
+    },
+    {
+      "label": "[section] Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin",
+      "content": "a.Liliopsida (jednoděložné)b.Čeleď: Arecaceae, Bromeliaceae, Cyperaceae, Juncaceae, Musaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Liliopsida (jednoděložné)b.Čeleď: Poaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele"
+    },
+    {
+      "label": "[section] Základní charakteristika a zemědělsky významní zástupci krytosemenných rostlin",
+      "content": "a.Liliopsida (jednoděložné)b.Čeleď: Poaceaec.Zemědělsky významní zástupci, plodiny, léčivé rostliny, plevele"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška24 hcvičení24 hpráce v terénu10 hkonzultace5 hpříprava na zkoušku42 hpříprava na průběžný test20 hzpracování protokolů15 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Předmět je ukončen zápočtem a zkouškou. Splnění zápočtu představuje splnění minimální docházky na cvičení, odevzdání protokolů a splnění úspěšnosti v průběžném hodnocení (test z poznávání rostlinných druhů). Zkouška se skládá z písemné části a ústní části. Písemnou část představuje test, který je bodovaný. Pro postoupení k ústní části je nutné získat v testu nejméně 66% maximálně možného počtu bodů. Ústní část se skládá ze tří otázek, které odpovídají tématům sylabu. Úspěšné absolvování předpokládá alespoň 50% znalost každé z daných otázek."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích5 %Absolvování průběžného testu (testů)20 %Absolvování závěrečného testu30 %Absolvování závěrečné ústní zkoušky40 %Zvláštní podmínky a podrobnosti5 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:NOVÁK, Jan; SKALICKÝ, Milan. 2009. Botanika: cytologie, histologie, organologie a systematika. 2. vyd. Praha: Powerprint, 336 s. ISBN 978-80-904011-5-0.ŘEPKA, Radomír; KOBLÍŽEK, Jaroslav. 2007. Systematická botanika. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 210 s. ISBN 978-80-7375-024-4.KAPLAN, Zdeněk; DANIHELKA, Jiří; CHRTEK, Jindřich; KIRSCHNER, Jan; KUBÁT, Zdeněk; ŠTECH, Milan; ŠTĚPÁNEK, Jan. 2019. Klíč ke Květeně České republiky. Praha: Academia, 1168 s. ISBN 978-80-200-2660-6.Doporučená:HEJNÝ, S. 1988. Květena České republiky 1-5. Academia .CHYTRÝ, Milan; DANIHELKA, Jiří; PYŠEK, Petr. 2017. Flora and vegetation of the Czech Republic. Cham: Springer, 466 s. Plant and vegetation. ISBN 978-3-319-63180-6.CHYTRÝ, Milan; DANIHELKA, Jiří; KAPLAN, Zdeněk. 2023. PLADIAS: Databáze české flóry a vegetace. https://pladias.cz/.."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "NOVÁK, Jan; SKALICKÝ, Milan. 2009. Botanika: cytologie, histologie, organologie a systematika. 2. vyd. Praha: Powerprint, 336 s. ISBN 978-80-904011-5-0.ŘEPKA, Radomír; KOBLÍŽEK, Jaroslav. 2007. Systematická botanika. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 210 s. ISBN 978-80-7375-024-4.KAPLAN, Zdeněk; DANIHELKA, Jiří; CHRTEK, Jindřich; KIRSCHNER, Jan; KUBÁT, Zdeněk; ŠTECH, Milan; ŠTĚPÁNEK, Jan. 2019. Klíč ke Květeně České republiky. Praha: Academia, 1168 s. ISBN 978-80-200-2660-6."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "HEJNÝ, S. 1988. Květena České republiky 1-5. Academia .CHYTRÝ, Milan; DANIHELKA, Jiří; PYŠEK, Petr. 2017. Flora and vegetation of the Czech Republic. Cham: Springer, 466 s. Plant and vegetation. ISBN 978-3-319-63180-6.CHYTRÝ, Milan; DANIHELKA, Jiří; KAPLAN, Zdeněk. 2023. PLADIAS: Databáze české flóry a vegetace. https://pladias.cz/.."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Specializace SBZI Zemědělské inženýrství, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ZEBOT"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Zemědělská botanika"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Agricultural Botany"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "Personal consultation for MS-teams."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Jan Winkler, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Plant Biology (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jan Winkler, Ph.D. (examiner, instructor, lecturer, supervisor)Mgr. Magda Zdražílková, Ph.D. (instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "System of living organisms and domestication of plants (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Taxonomy, Botanical nomenclature, Systematic categories"
+    },
+    {
+      "label": "b.",
+      "content": "History of botany"
+    },
+    {
+      "label": "c.",
+      "content": "Characteristics and current classification of living organisms"
+    },
+    {
+      "label": "d.",
+      "content": "Process of domestication of plants; Domestication centers"
+    },
+    {
+      "label": "e.",
+      "content": "Agriculture categories of plants"
+    },
+    {
+      "label": "2.",
+      "content": "Fungi and related organisms (allowance 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Excavata, Rhizaria, Chromalveolata, Amoebozoa, Opisthokonta"
+    },
+    {
+      "label": "b.",
+      "content": "Funfi, Chytridiomycota, Zygomycota, Ascomycota, Basidiomycota, Lichens"
+    },
+    {
+      "label": "c.",
+      "content": "Essential species for agriculture, organisms used in fermentation processes, pathogens"
+    },
+    {
+      "label": "3.",
+      "content": "Algae and Embryophytes (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Main characteristics of plants"
+    },
+    {
+      "label": "b.",
+      "content": "Algae, Bryophytes, Ferns, Horsetails, Gymnosperms"
+    },
+    {
+      "label": "c.",
+      "content": "Essential species for agriculture, species producing usable substances, weeds"
+    },
+    {
+      "label": "4.",
+      "content": "Basal Angiosperms and Magnoliids (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Main characteristics of Angiosperms, dicotyledonous plants"
+    },
+    {
+      "label": "b.",
+      "content": "Families: Myristicaceae, Piperaceae, Lauraceae"
+    },
+    {
+      "label": "c.",
+      "content": "Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "5.",
+      "content": "Basal Eudicots (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Main characteristics of basal Eudicots"
+    },
+    {
+      "label": "b.",
+      "content": "Families: Ranunculaceae, Papaveraceae, Fumariaceae"
+    },
+    {
+      "label": "6.",
+      "content": "Eudicots: Caryophyllales (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Main characteristics of Caryophyllalaes"
+    },
+    {
+      "label": "b.",
+      "content": "Families: Caryophyllaceae, Amaranthaceae, Polygonaceae, Portulaceae, Cactaceae"
+    },
+    {
+      "label": "7.",
+      "content": "Rosids I. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Main characteristics of Rosid clade"
+    },
+    {
+      "label": "b.",
+      "content": "Families: Betulaceae, Cannabaceae, Corylaceae, Cucurbitaceae, Fagaceae, Oxalidaceae, Rosaceae, Salicaceae, Urticaceae, Vitaceae"
+    },
+    {
+      "label": "8.",
+      "content": "Rosids II. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Families: Brassicaceae, Euphorbiaceae, Fabaceae, Geraniaceae, Hypericaceae, Linaceae, Malvaceae, Rutaceae, Sterculiaceae, Violaceae"
+    },
+    {
+      "label": "b.",
+      "content": "Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "9.",
+      "content": "Asterids I. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Main characteristics of Asterid clade"
+    },
+    {
+      "label": "b.",
+      "content": "Families: Boraginaceae, Ericaceae, Gentianaceae, Lamiaceae, Orobanchaceae, Plantaginaceae, Primulaceae, Rubiaceae, Scrophulariaceae, Theaceae"
+    },
+    {
+      "label": "10.",
+      "content": "Asterids II. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Families: Apiaceae, Asteraceae, Campanulaceae, Convolvulaceae, Solanaceae"
+    },
+    {
+      "label": "11.",
+      "content": "Monocotyledonous plants I. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Main characteristics of monocotyledonous plants"
+    },
+    {
+      "label": "b.",
+      "content": "Families: Alliaceae, Asparagaceae, Colchicaceae, Hyacinthaceae, Iridaceae, Liliaceae, Orchidaceae"
+    },
+    {
+      "label": "12.",
+      "content": "Monocotyledonous plants II. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Families: Arecaceae, Bromeliaceae, Cyperaceae, Juncaceae, Musaceae"
+    },
+    {
+      "label": "13.",
+      "content": "Monocotyledonous plants III. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Families: Poaceae"
+    },
+    {
+      "label": "14.",
+      "content": "Field botany course – practical training (allowance 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Identification of plant species"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "5 %"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "20 %"
+    },
+    {
+      "label": "Final test",
+      "content": "30 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "40 %"
+    },
+    {
+      "label": "Special requirements and details",
+      "content": "5 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021, 1998/1999 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Zemědělská botanika"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Agricultural Botany"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: Personal consultation for MS-teams."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Jan Winkler, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Plant Biology (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jan Winkler, Ph.D. (examiner, instructor, lecturer, supervisor)Mgr. Magda Zdražílková, Ph.D. (instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday9.00-10.50C51M. ZdražílkováSeminarEvery week20Monday13.00-14.50C51M. ZdražílkováSeminarEvery week20Tuesday17.00-18.50M2.11J. WinklerLectureEvery week50"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Scope of the course is broad, essentially covering all aspects of plant and fungal taxonomy. After short introduction into the history and methods of botanical research, particular organismal groups will be systematically demonstrated during lectures and practices. Main characteristics and practical use of the organisms will be taught within lectures, whereas determination skills will be taught within practices. Plants, fungi and organisms from related taxonomical groups with high value for agriculture will be prefered. Main crops of the world, especially European, as well as main weeds, poisonous or medicinal plants will be present."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.System of living organisms and domestication of plants (allowance 2/1) a.Taxonomy, Botanical nomenclature, Systematic categoriesb.History of botanyc.Characteristics and current classification of living organismsd.Process of domestication of plants; Domestication centerse.Agriculture categories of plants2.Fungi and related organisms (allowance 2/3) a.Excavata, Rhizaria, Chromalveolata, Amoebozoa, Opisthokontab.Funfi, Chytridiomycota, Zygomycota, Ascomycota, Basidiomycota, Lichensc.Essential species for agriculture, organisms used in fermentation processes, pathogens3.Algae and Embryophytes (allowance 2/2) a.Main characteristics of plantsb.Algae, Bryophytes, Ferns, Horsetails, Gymnospermsc.Essential species for agriculture, species producing usable substances, weeds4.Basal Angiosperms and Magnoliids (allowance 2/2) a.Main characteristics of Angiosperms, dicotyledonous plantsb.Families: Myristicaceae, Piperaceae, Lauraceaec.Essential species for agriculture, crops, medicinal plants, weeds5.Basal Eudicots (allowance 2/2) a.Main characteristics of basal Eudicotsb.Families: Ranunculaceae, Papaveraceae, Fumariaceaec.Essential species for agriculture, crops, medicinal plants, weeds6.Eudicots: Caryophyllales (allowance 2/2) a.Main characteristics of Caryophyllalaesb.Families: Caryophyllaceae, Amaranthaceae, Polygonaceae, Portulaceae, Cactaceaec.Essential species for agriculture, crops, medicinal plants, weeds7.Rosids I. (allowance 2/2) a.Main characteristics of Rosid cladeb.Families: Betulaceae, Cannabaceae, Corylaceae, Cucurbitaceae, Fagaceae, Oxalidaceae, Rosaceae, Salicaceae, Urticaceae, Vitaceaec.Essential species for agriculture, crops, medicinal plants, weeds8.Rosids II. (allowance 2/2) a.Families: Brassicaceae, Euphorbiaceae, Fabaceae, Geraniaceae, Hypericaceae, Linaceae, Malvaceae, Rutaceae, Sterculiaceae, Violaceaeb.Essential species for agriculture, crops, medicinal plants, weeds9.Asterids I. (allowance 2/2) a.Main characteristics of Asterid cladeb.Families: Boraginaceae, Ericaceae, Gentianaceae, Lamiaceae, Orobanchaceae, Plantaginaceae, Primulaceae, Rubiaceae, Scrophulariaceae, Theaceaec.Essential species for agriculture, crops, medicinal plants, weeds10.Asterids II. (allowance 2/2) a.Families: Apiaceae, Asteraceae, Campanulaceae, Convolvulaceae, Solanaceaeb.Essential species for agriculture, crops, medicinal plants, weeds11.Monocotyledonous plants I. (allowance 2/2) a.Main characteristics of monocotyledonous plantsb.Families: Alliaceae, Asparagaceae, Colchicaceae, Hyacinthaceae, Iridaceae, Liliaceae, Orchidaceaec.Essential species for agriculture, crops, medicinal plants, weeds12.Monocotyledonous plants II. (allowance 2/2) a.Families: Arecaceae, Bromeliaceae, Cyperaceae, Juncaceae, Musaceaeb.Essential species for agriculture, crops, medicinal plants, weeds13.Monocotyledonous plants III. (allowance 2/2) a.Families: Poaceaeb.Essential species for agriculture, crops, medicinal plants, weeds14.Field botany course – practical training (allowance 0/4) a.Identification of plant species"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Taxonomy, Botanical nomenclature, Systematic categoriesb.History of botanyc.Characteristics and current classification of living organismsd.Process of domestication of plants; Domestication centerse.Agriculture categories of plants"
+    },
+    {
+      "label": "[section] System of living organisms and domestication of plants",
+      "content": "a.Taxonomy, Botanical nomenclature, Systematic categoriesb.History of botanyc.Characteristics and current classification of living organismsd.Process of domestication of plants; Domestication centerse.Agriculture categories of plants"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Excavata, Rhizaria, Chromalveolata, Amoebozoa, Opisthokontab.Funfi, Chytridiomycota, Zygomycota, Ascomycota, Basidiomycota, Lichensc.Essential species for agriculture, organisms used in fermentation processes, pathogens"
+    },
+    {
+      "label": "[section] Fungi and related organisms",
+      "content": "a.Excavata, Rhizaria, Chromalveolata, Amoebozoa, Opisthokontab.Funfi, Chytridiomycota, Zygomycota, Ascomycota, Basidiomycota, Lichensc.Essential species for agriculture, organisms used in fermentation processes, pathogens"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Main characteristics of plantsb.Algae, Bryophytes, Ferns, Horsetails, Gymnospermsc.Essential species for agriculture, species producing usable substances, weeds"
+    },
+    {
+      "label": "[section] Algae and Embryophytes",
+      "content": "a.Main characteristics of plantsb.Algae, Bryophytes, Ferns, Horsetails, Gymnospermsc.Essential species for agriculture, species producing usable substances, weeds"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Main characteristics of Angiosperms, dicotyledonous plantsb.Families: Myristicaceae, Piperaceae, Lauraceaec.Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "[section] Basal Angiosperms and Magnoliids",
+      "content": "a.Main characteristics of Angiosperms, dicotyledonous plantsb.Families: Myristicaceae, Piperaceae, Lauraceaec.Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Main characteristics of basal Eudicotsb.Families: Ranunculaceae, Papaveraceae, Fumariaceaec.Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "[section] Basal Eudicots",
+      "content": "a.Main characteristics of basal Eudicotsb.Families: Ranunculaceae, Papaveraceae, Fumariaceaec.Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Main characteristics of Caryophyllalaesb.Families: Caryophyllaceae, Amaranthaceae, Polygonaceae, Portulaceae, Cactaceaec.Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "[section] Eudicots: Caryophyllales",
+      "content": "a.Main characteristics of Caryophyllalaesb.Families: Caryophyllaceae, Amaranthaceae, Polygonaceae, Portulaceae, Cactaceaec.Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Main characteristics of Rosid cladeb.Families: Betulaceae, Cannabaceae, Corylaceae, Cucurbitaceae, Fagaceae, Oxalidaceae, Rosaceae, Salicaceae, Urticaceae, Vitaceaec.Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "[section] Rosids I.",
+      "content": "a.Main characteristics of Rosid cladeb.Families: Betulaceae, Cannabaceae, Corylaceae, Cucurbitaceae, Fagaceae, Oxalidaceae, Rosaceae, Salicaceae, Urticaceae, Vitaceaec.Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Families: Brassicaceae, Euphorbiaceae, Fabaceae, Geraniaceae, Hypericaceae, Linaceae, Malvaceae, Rutaceae, Sterculiaceae, Violaceaeb.Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "[section] Rosids II.",
+      "content": "a.Families: Brassicaceae, Euphorbiaceae, Fabaceae, Geraniaceae, Hypericaceae, Linaceae, Malvaceae, Rutaceae, Sterculiaceae, Violaceaeb.Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Main characteristics of Asterid cladeb.Families: Boraginaceae, Ericaceae, Gentianaceae, Lamiaceae, Orobanchaceae, Plantaginaceae, Primulaceae, Rubiaceae, Scrophulariaceae, Theaceaec.Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "[section] Asterids I.",
+      "content": "a.Main characteristics of Asterid cladeb.Families: Boraginaceae, Ericaceae, Gentianaceae, Lamiaceae, Orobanchaceae, Plantaginaceae, Primulaceae, Rubiaceae, Scrophulariaceae, Theaceaec.Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Families: Apiaceae, Asteraceae, Campanulaceae, Convolvulaceae, Solanaceaeb.Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "[section] Asterids II.",
+      "content": "a.Families: Apiaceae, Asteraceae, Campanulaceae, Convolvulaceae, Solanaceaeb.Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Main characteristics of monocotyledonous plantsb.Families: Alliaceae, Asparagaceae, Colchicaceae, Hyacinthaceae, Iridaceae, Liliaceae, Orchidaceaec.Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "[section] Monocotyledonous plants I.",
+      "content": "a.Main characteristics of monocotyledonous plantsb.Families: Alliaceae, Asparagaceae, Colchicaceae, Hyacinthaceae, Iridaceae, Liliaceae, Orchidaceaec.Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Families: Arecaceae, Bromeliaceae, Cyperaceae, Juncaceae, Musaceaeb.Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "[section] Monocotyledonous plants II.",
+      "content": "a.Families: Arecaceae, Bromeliaceae, Cyperaceae, Juncaceae, Musaceaeb.Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Families: Poaceaeb.Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "[section] Monocotyledonous plants III.",
+      "content": "a.Families: Poaceaeb.Essential species for agriculture, crops, medicinal plants, weeds"
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Identification of plant species"
+    },
+    {
+      "label": "[section] Field botany course – practical training",
+      "content": "a.Identification of plant species"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture24 hpractice24 hfield work10 hconsultation5 hpreparation for exam42 hpreparation for regular testing20 helaboration of reports15 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "The course is finished after completion of both, minor preliminary exam and final main exam. The minor preliminary exam is completed during last week of the scheduled lectures and practices proving three requirements: 1) attendance at the practices, 2) submission of protocols from practices and 3) determination of plant species important in agriculture. Final main exam consists of a written part and an oral part. The written part is successfully passed in the case of obtaining at least 66% of the maximum. The oral part directly follows the written part and consists of three questions that correspond to the topics of the syllabus. Successful completion assumes at least 50% knowledge of each of the questions."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation5 %Mid-term test(s)20 %Final test30 %Final oral exam40 %Special requirements and details5 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:NOVÁK, Jan; SKALICKÝ, Milan. 2009. Botanika: cytologie, histologie, organologie a systematika. 2nd ed. Praha: Powerprint, 336 p. ISBN 978-80-904011-5-0.ŘEPKA, Radomír; KOBLÍŽEK, Jaroslav. 2007. Systematická botanika. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 210 p. ISBN 978-80-7375-024-4.KAPLAN, Zdeněk; DANIHELKA, Jiří; CHRTEK, Jindřich; KIRSCHNER, Jan; KUBÁT, Zdeněk; ŠTECH, Milan; ŠTĚPÁNEK, Jan. 2019. Klíč ke Květeně České republiky. Praha: Academia, 1168 p. ISBN 978-80-200-2660-6.Recommended:HEJNÝ, S. 1988. Květena České republiky 1-5. Academia .CHYTRÝ, Milan; DANIHELKA, Jiří; PYŠEK, Petr. 2017. Flora and vegetation of the Czech Republic. Cham: Springer, 466 p. Plant and vegetation. ISBN 978-3-319-63180-6.CHYTRÝ, Milan; DANIHELKA, Jiří; KAPLAN, Zdeněk. 2023. PLADIAS: Databáze české flóry a vegetace. https://pladias.cz/.."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "NOVÁK, Jan; SKALICKÝ, Milan. 2009. Botanika: cytologie, histologie, organologie a systematika. 2nd ed. Praha: Powerprint, 336 p. ISBN 978-80-904011-5-0.ŘEPKA, Radomír; KOBLÍŽEK, Jaroslav. 2007. Systematická botanika. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 210 p. ISBN 978-80-7375-024-4.KAPLAN, Zdeněk; DANIHELKA, Jiří; CHRTEK, Jindřich; KIRSCHNER, Jan; KUBÁT, Zdeněk; ŠTECH, Milan; ŠTĚPÁNEK, Jan. 2019. Klíč ke Květeně České republiky. Praha: Academia, 1168 p. ISBN 978-80-200-2660-6."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "HEJNÝ, S. 1988. Květena České republiky 1-5. Academia .CHYTRÝ, Milan; DANIHELKA, Jiří; PYŠEK, Petr. 2017. Flora and vegetation of the Czech Republic. Cham: Springer, 466 p. Plant and vegetation. ISBN 978-3-319-63180-6.CHYTRÝ, Milan; DANIHELKA, Jiří; KAPLAN, Zdeněk. 2023. PLADIAS: Databáze české flóry a vegetace. https://pladias.cz/.."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Track SBZI General Agriculture, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:42:44",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

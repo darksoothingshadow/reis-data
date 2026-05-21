@@ -1,0 +1,989 @@
+{
+  "courseCode": "PMOV",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "PMOV"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Příslušenství motorových vozidel"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Vehicle Equipment and Accesories"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Jiří Čupera, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav techniky a automobilové dopravy (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Jiří Čupera, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Motorová vozidla II nebo nyní Motorová vozidla II nebo Vozidlové motory"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní pojmy z elektrotechniky"
+    },
+    {
+      "label": "b.",
+      "content": "Veličiny elektrické povahy ve vztahu k měřicím a regulačním členům vozidla"
+    },
+    {
+      "label": "c.",
+      "content": "Analogové a digitální zpracování signálů"
+    },
+    {
+      "label": "2.",
+      "content": "Elektrická výzbroj vozidla (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Elektroinstalace"
+    },
+    {
+      "label": "b.",
+      "content": "Akumulátory"
+    },
+    {
+      "label": "c.",
+      "content": "Zdroje elektrického proudu -- dynama, alternátory"
+    },
+    {
+      "label": "d.",
+      "content": "Regulátory"
+    },
+    {
+      "label": "e.",
+      "content": "Spouštěče"
+    },
+    {
+      "label": "3.",
+      "content": "Snímače a akční členy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Senzory vozidel"
+    },
+    {
+      "label": "b.",
+      "content": "Informace a její přenos ve vozidle"
+    },
+    {
+      "label": "c.",
+      "content": "Sběrnicové systémy CAN-BUS, LIN"
+    },
+    {
+      "label": "4.",
+      "content": "Systémy přípravy směsi a zapalování zážehových motorů (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Zapalování"
+    },
+    {
+      "label": "b.",
+      "content": "Systémy řízení nepřímého vstřikování"
+    },
+    {
+      "label": "c.",
+      "content": "Přímé vstřikování, systémy řízeného vrstvení směsi"
+    },
+    {
+      "label": "5.",
+      "content": "Systémy vstřikování vznětových motorů (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Systémy EDC"
+    },
+    {
+      "label": "b.",
+      "content": "Common-Rail I,II, III, IV"
+    },
+    {
+      "label": "c.",
+      "content": "Sdružené vstřikovací systémy"
+    },
+    {
+      "label": "6.",
+      "content": "Zařízení ke snížení škodlivin v exhalacích (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Konvenční katalytické systémy"
+    },
+    {
+      "label": "b.",
+      "content": "Selektivní katalytické systémy"
+    },
+    {
+      "label": "c.",
+      "content": "Redukce částic vznětových motorů"
+    },
+    {
+      "label": "7.",
+      "content": "Systémy brzdové soustavy (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Protiblokovací systémy ABS, EBS"
+    },
+    {
+      "label": "b.",
+      "content": "Protiprokluzové systémy ASR, TCS, MSR aj."
+    },
+    {
+      "label": "c.",
+      "content": "Systémy rozdělení brzdné síly EBD, EBV"
+    },
+    {
+      "label": "d.",
+      "content": "Brzdové asistenty"
+    },
+    {
+      "label": "e.",
+      "content": "Systémy jízdní stability ESP, DSC"
+    },
+    {
+      "label": "f.",
+      "content": "Elektronická uzávěrka diferenciálu EDS"
+    },
+    {
+      "label": "g.",
+      "content": "Elektronická regulace pohonu 4x4"
+    },
+    {
+      "label": "8.",
+      "content": "Odpružení vozidla (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Elektronicky řízené odpružení, hydraulické, pneumatické"
+    },
+    {
+      "label": "b.",
+      "content": "Regulace světlé výšky vozu"
+    },
+    {
+      "label": "9.",
+      "content": "Řízení vozidel (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Elektrohydraulické posilovače řízení"
+    },
+    {
+      "label": "b.",
+      "content": "Systémy Steer by wire"
+    },
+    {
+      "label": "c.",
+      "content": "Navigační systémy"
+    },
+    {
+      "label": "10.",
+      "content": "Komfortní systémy, zabezpečení (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Klimatizace"
+    },
+    {
+      "label": "b.",
+      "content": "Regulace rychlosti jízdy"
+    },
+    {
+      "label": "c.",
+      "content": "Imobilizéry, zabezpečovací zařízení, vyhledávání vozidel"
+    },
+    {
+      "label": "d.",
+      "content": "Sledování tlaku v pneumatikách"
+    },
+    {
+      "label": "11.",
+      "content": "Bezpečnostní zařízení vozidel (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Aktivní bezpečnostní prvky"
+    },
+    {
+      "label": "b.",
+      "content": "Pasivní bezpečnostní prvky, airbagy"
+    },
+    {
+      "label": "12.",
+      "content": "Osvětlení vozidel (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Standardní systémy osvětlení"
+    },
+    {
+      "label": "b.",
+      "content": "Systémy adaptivního osvětlení"
+    },
+    {
+      "label": "c.",
+      "content": "Pixelové světlomety"
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "ŽDÁNSKÝ, Bronislav. 2005. Automobily. 4. vyd. Brno: Avid, 305 s.",
+      "content": "ŽDÁNSKÝ, Bronislav. 2005. Automobily. 4. vyd. Brno: Avid, 305 s."
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, ZS 2021/2022, ZS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Příslušenství motorových vozidel"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Vehicle Equipment and Accesories"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Jiří Čupera, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav techniky a automobilové dopravy (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Jiří Čupera, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Motorová vozidla II nebo nyní Motorová vozidla II nebo Vozidlové motory"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaStředa9.00-10.50R204J. ČuperaPřednáškaKaždý týden30Středa11.00-12.50R204J. ČuperaCvičeníKaždý týden30"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět seznamuje studenty se stavbou jednotlivých funkčních skupin motorových vozidel. Pozornost je zaměřena na získání znalostí obecných principů činnosti jednotlivých mechanizmů, jejich regulace a aplikace ve vozidlech."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod (dotace 2/2) a.Základní pojmy z elektrotechnikyb.Veličiny elektrické povahy ve vztahu k měřicím a regulačním členům vozidlac.Analogové a digitální zpracování signálů2.Elektrická výzbroj vozidla (dotace 2/2) a.Elektroinstalaceb.Akumulátoryc.Zdroje elektrického proudu -- dynama, alternátoryd.Regulátorye.Spouštěče3.Snímače a akční členy (dotace 2/2) a.Senzory vozidelb.Informace a její přenos ve vozidlec.Sběrnicové systémy CAN-BUS, LIN4.Systémy přípravy směsi a zapalování zážehových motorů (dotace 2/4) a.Zapalováníb.Systémy řízení nepřímého vstřikováníc.Přímé vstřikování, systémy řízeného vrstvení směsi5.Systémy vstřikování vznětových motorů (dotace 2/4) a.Systémy EDCb.Common-Rail I,II, III, IVc.Sdružené vstřikovací systémy6.Zařízení ke snížení škodlivin v exhalacích (dotace 2/4) a.Konvenční katalytické systémyb.Selektivní katalytické systémyc.Redukce částic vznětových motorů7.Systémy brzdové soustavy (dotace 2/4) a.Protiblokovací systémy ABS, EBSb.Protiprokluzové systémy ASR, TCS, MSR aj.c.Systémy rozdělení brzdné síly EBD, EBVd.Brzdové asistentye.Systémy jízdní stability ESP, DSCf.Elektronická uzávěrka diferenciálu EDSg.Elektronická regulace pohonu 4x48.Odpružení vozidla (dotace 2/2) a.Elektronicky řízené odpružení, hydraulické, pneumatickéb.Regulace světlé výšky vozu9.Řízení vozidel (dotace 2/2) a.Elektrohydraulické posilovače řízeníb.Systémy Steer by wirec.Navigační systémy10.Komfortní systémy, zabezpečení (dotace 2/2) a.Klimatizaceb.Regulace rychlosti jízdyc.Imobilizéry, zabezpečovací zařízení, vyhledávání vozideld.Sledování tlaku v pneumatikách11.Bezpečnostní zařízení vozidel (dotace 2/2) a.Aktivní bezpečnostní prvkyb.Pasivní bezpečnostní prvky, airbagy12.Osvětlení vozidel (dotace 2/2) a.Standardní systémy osvětleníb.Systémy adaptivního osvětleníc.Pixelové světlomety"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Základní pojmy z elektrotechnikyb.Veličiny elektrické povahy ve vztahu k měřicím a regulačním členům vozidlac.Analogové a digitální zpracování signálů"
+    },
+    {
+      "label": "[section] Úvod",
+      "content": "a.Základní pojmy z elektrotechnikyb.Veličiny elektrické povahy ve vztahu k měřicím a regulačním členům vozidlac.Analogové a digitální zpracování signálů"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Elektroinstalaceb.Akumulátoryc.Zdroje elektrického proudu -- dynama, alternátoryd.Regulátorye.Spouštěče"
+    },
+    {
+      "label": "[section] Elektrická výzbroj vozidla",
+      "content": "a.Elektroinstalaceb.Akumulátoryc.Zdroje elektrického proudu -- dynama, alternátoryd.Regulátorye.Spouštěče"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Senzory vozidelb.Informace a její přenos ve vozidlec.Sběrnicové systémy CAN-BUS, LIN"
+    },
+    {
+      "label": "[section] Snímače a akční členy",
+      "content": "a.Senzory vozidelb.Informace a její přenos ve vozidlec.Sběrnicové systémy CAN-BUS, LIN"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Zapalováníb.Systémy řízení nepřímého vstřikováníc.Přímé vstřikování, systémy řízeného vrstvení směsi"
+    },
+    {
+      "label": "[section] Systémy přípravy směsi a zapalování zážehových motorů",
+      "content": "a.Zapalováníb.Systémy řízení nepřímého vstřikováníc.Přímé vstřikování, systémy řízeného vrstvení směsi"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Systémy EDCb.Common-Rail I,II, III, IVc.Sdružené vstřikovací systémy"
+    },
+    {
+      "label": "[section] Systémy vstřikování vznětových motorů",
+      "content": "a.Systémy EDCb.Common-Rail I,II, III, IVc.Sdružené vstřikovací systémy"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Konvenční katalytické systémyb.Selektivní katalytické systémyc.Redukce částic vznětových motorů"
+    },
+    {
+      "label": "[section] Zařízení ke snížení škodlivin v exhalacích",
+      "content": "a.Konvenční katalytické systémyb.Selektivní katalytické systémyc.Redukce částic vznětových motorů"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Protiblokovací systémy ABS, EBSb.Protiprokluzové systémy ASR, TCS, MSR aj.c.Systémy rozdělení brzdné síly EBD, EBVd.Brzdové asistentye.Systémy jízdní stability ESP, DSCf.Elektronická uzávěrka diferenciálu EDSg.Elektronická regulace pohonu 4x4"
+    },
+    {
+      "label": "[section] Systémy brzdové soustavy",
+      "content": "a.Protiblokovací systémy ABS, EBSb.Protiprokluzové systémy ASR, TCS, MSR aj.c.Systémy rozdělení brzdné síly EBD, EBVd.Brzdové asistentye.Systémy jízdní stability ESP, DSCf.Elektronická uzávěrka diferenciálu EDSg.Elektronická regulace pohonu 4x4"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Elektronicky řízené odpružení, hydraulické, pneumatickéb.Regulace světlé výšky vozu"
+    },
+    {
+      "label": "[section] Odpružení vozidla",
+      "content": "a.Elektronicky řízené odpružení, hydraulické, pneumatickéb.Regulace světlé výšky vozu"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Elektrohydraulické posilovače řízeníb.Systémy Steer by wirec.Navigační systémy"
+    },
+    {
+      "label": "[section] Řízení vozidel",
+      "content": "a.Elektrohydraulické posilovače řízeníb.Systémy Steer by wirec.Navigační systémy"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Klimatizaceb.Regulace rychlosti jízdyc.Imobilizéry, zabezpečovací zařízení, vyhledávání vozideld.Sledování tlaku v pneumatikách"
+    },
+    {
+      "label": "[section] Komfortní systémy, zabezpečení",
+      "content": "a.Klimatizaceb.Regulace rychlosti jízdyc.Imobilizéry, zabezpečovací zařízení, vyhledávání vozideld.Sledování tlaku v pneumatikách"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Aktivní bezpečnostní prvkyb.Pasivní bezpečnostní prvky, airbagy"
+    },
+    {
+      "label": "[section] Bezpečnostní zařízení vozidel",
+      "content": "a.Aktivní bezpečnostní prvkyb.Pasivní bezpečnostní prvky, airbagy"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Standardní systémy osvětleníb.Systémy adaptivního osvětleníc.Pixelové světlomety"
+    },
+    {
+      "label": "[section] Osvětlení vozidel",
+      "content": "a.Standardní systémy osvětleníb.Systémy adaptivního osvětleníc.Pixelové světlomety"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška24 hcvičení24 hlaboratorní práce8 hpříprava na zkoušku30 hpříprava na průběžné hodnocení24 hpříprava na průběžný test12 hzpracování protokolů18 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Student musí pro získání zápočtu splnit účast na cvičeních, kde jsou psány krátké testy (5 testů, každý test za 10 bodů), účast je nutná z 80% s počtem bodů z testu minimálně 35. Zkouška probíhá písemně a ústně. V písemné části odpovídá student na 18 otázek z celého rozsahu přednášených témat. Pro splnění je nutné správně odpovědět na 70% otázek. Dále zkouška probíhá ústní formou výběrem tématu."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:ŽDÁNSKÝ, Bronislav. 2005. Automobily. 4. vyd. Brno: Avid, 305 s.Doporučená:JAN, Zdeněk; ŽĎÁNSKÝ, Bronislav; ČUPERA, Jiří. 2008. Automobily I Podvozky. 1. vyd. Brno: Avid spol. s r.o. Brno, 228 s. ISBN 978-80-87143-03-2.JAN, Zdeněk; ŽĎÁNSKÝ, Bronislav; ČUPERA, Jiří. 2008. Automobily II Převody. 1. vyd. Brno: Avid spol. s r.o., 144 s. ISBN 978-80-87143-04-9.Kol. Understanding automotive electronics. 6. vyd. Amsterdam: Newnes, 470 s. ISBN 0-7506-7599-3.RŮŽIČKA, Antonín. 1999. Zapalování: řízení zážehového motoru. 1. vyd. Praha: Robert Bosch, 44 s. ISBN 80-902585-5-7.ŠTĚRBA, Pavel; ČUPERA, Jiří. 2010. Autoelektronika. 1. vyd. Brno: Computer Press, a.s., 280 s. ISBN 978-80-251-2414-7.VLK, František. 2000. Dynamika motorových vozidel: jízdní odpory, hnací charakteristika, brzdění, odpružení, řiditelnost, ovladatelnost, stabilita. 1. vyd. Brno: Nakladatelství a vydavatelství VLK, 434 s. ISBN 80-238-5273-6.VLK, František. 2000. Karosérie motorových vozidel: ergonomika, biomechanika, pasivní bezpečnost, kolize, struktura, materiály. 1. vyd. Brno: Nakladatelství a vydavatelství VLK, 243 s. ISBN 80-238-5277-9. Převodová ústrojí motorových vozidel: spojky, převodovky, rozvodovky, diferenciály, hnací hřídele, klouby. 2000. 1. vyd. Brno: Nakladatelství a vydavatelství Vlk, 312 s. ISBN 80-238-5275-2."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "ŽDÁNSKÝ, Bronislav. 2005. Automobily. 4. vyd. Brno: Avid, 305 s."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "JAN, Zdeněk; ŽĎÁNSKÝ, Bronislav; ČUPERA, Jiří. 2008. Automobily I Podvozky. 1. vyd. Brno: Avid spol. s r.o. Brno, 228 s. ISBN 978-80-87143-03-2.JAN, Zdeněk; ŽĎÁNSKÝ, Bronislav; ČUPERA, Jiří. 2008. Automobily II Převody. 1. vyd. Brno: Avid spol. s r.o., 144 s. ISBN 978-80-87143-04-9.Kol. Understanding automotive electronics. 6. vyd. Amsterdam: Newnes, 470 s. ISBN 0-7506-7599-3.RŮŽIČKA, Antonín. 1999. Zapalování: řízení zážehového motoru. 1. vyd. Praha: Robert Bosch, 44 s. ISBN 80-902585-5-7.ŠTĚRBA, Pavel; ČUPERA, Jiří. 2010. Autoelektronika. 1. vyd. Brno: Computer Press, a.s., 280 s. ISBN 978-80-251-2414-7.VLK, František. 2000. Dynamika motorových vozidel: jízdní odpory, hnací charakteristika, brzdění, odpružení, řiditelnost, ovladatelnost, stabilita. 1. vyd. Brno: Nakladatelství a vydavatelství VLK, 434 s. ISBN 80-238-5273-6.VLK, František. 2000. Karosérie motorových vozidel: ergonomika, biomechanika, pasivní bezpečnost, kolize, struktura, materiály. 1. vyd. Brno: Nakladatelství a vydavatelství VLK, 243 s. ISBN 80-238-5277-9. Převodová ústrojí motorových vozidel: spojky, převodovky, rozvodovky, diferenciály, hnací hřídele, klouby. 2000. 1. vyd. Brno: Nakladatelství a vydavatelství Vlk, 312 s. ISBN 80-238-5275-2."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-PTE Provoz techniky, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "PMOV"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Příslušenství motorových vozidel"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Vehicle Equipment and Accesories"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Jiří Čupera, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Technology and Automobile Transport (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Jiří Čupera, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Motor Vehicles II or now Motor Vehicles II or Vehicular Engines"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Fundamentals of vehicle's electronics"
+    },
+    {
+      "label": "b.",
+      "content": "Electric quantities in relation to electronic regulation systems in vehicles"
+    },
+    {
+      "label": "c.",
+      "content": "Analog and digital signals"
+    },
+    {
+      "label": "2.",
+      "content": "Electrical equipment of vehicles (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Wiring"
+    },
+    {
+      "label": "b.",
+      "content": "Batteries"
+    },
+    {
+      "label": "c.",
+      "content": "Electrical power sources - alternators"
+    },
+    {
+      "label": "d.",
+      "content": "Regulation of power sources"
+    },
+    {
+      "label": "e.",
+      "content": "Starters"
+    },
+    {
+      "label": "3.",
+      "content": "Sensors and actuators (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Principles of sensors"
+    },
+    {
+      "label": "b.",
+      "content": "Information and transformation functions"
+    },
+    {
+      "label": "c.",
+      "content": "On-board networks - CAN-BUS, LIN, MOST, FlexRay"
+    },
+    {
+      "label": "4.",
+      "content": "Fuel mixture systems, ignition (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Ignition"
+    },
+    {
+      "label": "b.",
+      "content": "In-direct injection"
+    },
+    {
+      "label": "c.",
+      "content": "Direct injection of gasoline"
+    },
+    {
+      "label": "5.",
+      "content": "Diesel injection systems (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "EDC"
+    },
+    {
+      "label": "b.",
+      "content": "Common Rail injection"
+    },
+    {
+      "label": "c.",
+      "content": "United injection system"
+    },
+    {
+      "label": "6.",
+      "content": "Brake systems (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Anti-skid brake systems, distribution of braking forces"
+    },
+    {
+      "label": "b.",
+      "content": "Traction control systems"
+    },
+    {
+      "label": "c.",
+      "content": "Brake assists"
+    },
+    {
+      "label": "d.",
+      "content": "Vehicle stability programmes"
+    },
+    {
+      "label": "e.",
+      "content": "Electronic differential, regulation of AWD"
+    },
+    {
+      "label": "7.",
+      "content": "System of emission reduction (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Catalytic converters"
+    },
+    {
+      "label": "b.",
+      "content": "Selective catalytic reduction"
+    },
+    {
+      "label": "c.",
+      "content": "Diesel Particle filters"
+    },
+    {
+      "label": "8.",
+      "content": "Suspension (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Electronic regulation of suspension"
+    },
+    {
+      "label": "9.",
+      "content": "Steering (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Electro-hydraulic steering"
+    },
+    {
+      "label": "b.",
+      "content": "Steer by wire"
+    },
+    {
+      "label": "c.",
+      "content": "Navigation"
+    },
+    {
+      "label": "10.",
+      "content": "Comfort systems (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Air conditioning"
+    },
+    {
+      "label": "b.",
+      "content": "Cruise control"
+    },
+    {
+      "label": "c.",
+      "content": "Immo, anti-theft devices"
+    },
+    {
+      "label": "d.",
+      "content": "Tire pressure monitoring"
+    },
+    {
+      "label": "11.",
+      "content": "Safety (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Active safety"
+    },
+    {
+      "label": "b.",
+      "content": "Passive safety"
+    },
+    {
+      "label": "12.",
+      "content": "Lighting (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Conventional systems of lighting"
+    },
+    {
+      "label": "b.",
+      "content": "Adaptive lighting"
+    },
+    {
+      "label": "c.",
+      "content": "Pixel lamps"
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "ŽDÁNSKÝ, Bronislav. 2005. Automobily. 4th ed. Brno: Avid, 305 p.",
+      "content": "ŽDÁNSKÝ, Bronislav. 2005. Automobily. 4th ed. Brno: Avid, 305 p."
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, WS 2021/2022, WS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Příslušenství motorových vozidel"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Vehicle Equipment and Accesories"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Jiří Čupera, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Technology and Automobile Transport (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Jiří Čupera, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Motor Vehicles II or now Motor Vehicles II or Vehicular Engines"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityWednesday9.00-10.50R204J. ČuperaLectureEvery week30Wednesday11.00-12.50R204J. ČuperaSeminarEvery week30"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The subject brings basic knowledge about vehicle parts and systems design. It is focused on getting ability to understand vehicle's systems and their priciples built in various types of on-road vehicles."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction (allowance 2/2) a.Fundamentals of vehicle's electronicsb.Electric quantities in relation to electronic regulation systems in vehiclesc.Analog and digital signals2.Electrical equipment of vehicles (allowance 2/2) a.Wiringb.Batteriesc.Electrical power sources - alternatorsd.Regulation of power sourcese.Starters3.Sensors and actuators (allowance 2/2) a.Principles of sensorsb.Information and transformation functionsc.On-board networks - CAN-BUS, LIN, MOST, FlexRay4.Fuel mixture systems, ignition (allowance 2/4) a.Ignitionb.In-direct injectionc.Direct injection of gasoline5.Diesel injection systems (allowance 2/4) a.EDCb.Common Rail injectionc.United injection system6.Brake systems (allowance 2/4) a.Anti-skid brake systems, distribution of braking forcesb.Traction control systemsc.Brake assistsd.Vehicle stability programmese.Electronic differential, regulation of AWD7.System of emission reduction (allowance 2/4) a.Catalytic convertersb.Selective catalytic reductionc.Diesel Particle filters8.Suspension (allowance 2/2) a.Electronic regulation of suspension9.Steering (allowance 2/2) a.Electro-hydraulic steeringb.Steer by wirec.Navigation10.Comfort systems (allowance 2/2) a.Air conditioningb.Cruise controlc.Immo, anti-theft devicesd.Tire pressure monitoring11.Safety (allowance 2/2) a.Active safetyb.Passive safety12.Lighting (allowance 2/2) a.Conventional systems of lightingb.Adaptive lightingc.Pixel lamps"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Fundamentals of vehicle's electronicsb.Electric quantities in relation to electronic regulation systems in vehiclesc.Analog and digital signals"
+    },
+    {
+      "label": "[section] Introduction",
+      "content": "a.Fundamentals of vehicle's electronicsb.Electric quantities in relation to electronic regulation systems in vehiclesc.Analog and digital signals"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Wiringb.Batteriesc.Electrical power sources - alternatorsd.Regulation of power sourcese.Starters"
+    },
+    {
+      "label": "[section] Electrical equipment of vehicles",
+      "content": "a.Wiringb.Batteriesc.Electrical power sources - alternatorsd.Regulation of power sourcese.Starters"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Principles of sensorsb.Information and transformation functionsc.On-board networks - CAN-BUS, LIN, MOST, FlexRay"
+    },
+    {
+      "label": "[section] Sensors and actuators",
+      "content": "a.Principles of sensorsb.Information and transformation functionsc.On-board networks - CAN-BUS, LIN, MOST, FlexRay"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Ignitionb.In-direct injectionc.Direct injection of gasoline"
+    },
+    {
+      "label": "[section] Fuel mixture systems, ignition",
+      "content": "a.Ignitionb.In-direct injectionc.Direct injection of gasoline"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.EDCb.Common Rail injectionc.United injection system"
+    },
+    {
+      "label": "[section] Diesel injection systems",
+      "content": "a.EDCb.Common Rail injectionc.United injection system"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Anti-skid brake systems, distribution of braking forcesb.Traction control systemsc.Brake assistsd.Vehicle stability programmese.Electronic differential, regulation of AWD"
+    },
+    {
+      "label": "[section] Brake systems",
+      "content": "a.Anti-skid brake systems, distribution of braking forcesb.Traction control systemsc.Brake assistsd.Vehicle stability programmese.Electronic differential, regulation of AWD"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Catalytic convertersb.Selective catalytic reductionc.Diesel Particle filters"
+    },
+    {
+      "label": "[section] System of emission reduction",
+      "content": "a.Catalytic convertersb.Selective catalytic reductionc.Diesel Particle filters"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Electronic regulation of suspension"
+    },
+    {
+      "label": "[section] Suspension",
+      "content": "a.Electronic regulation of suspension"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Electro-hydraulic steeringb.Steer by wirec.Navigation"
+    },
+    {
+      "label": "[section] Steering",
+      "content": "a.Electro-hydraulic steeringb.Steer by wirec.Navigation"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Air conditioningb.Cruise controlc.Immo, anti-theft devicesd.Tire pressure monitoring"
+    },
+    {
+      "label": "[section] Comfort systems",
+      "content": "a.Air conditioningb.Cruise controlc.Immo, anti-theft devicesd.Tire pressure monitoring"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Active safetyb.Passive safety"
+    },
+    {
+      "label": "[section] Safety",
+      "content": "a.Active safetyb.Passive safety"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Conventional systems of lightingb.Adaptive lightingc.Pixel lamps"
+    },
+    {
+      "label": "[section] Lighting",
+      "content": "a.Conventional systems of lightingb.Adaptive lightingc.Pixel lamps"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture24 hpractice24 hlaboratory work8 hpreparation for exam30 hpreparation for regular assessment24 hpreparation for regular testing12 helaboration of reports18 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Students must meet some prerequisites for obtaining credit - participation in seminars, where are written short tests (5 tests, each test for 10 points), participation is required of 80 % and the number of points obtained from the tests must cross at least 35. The exam is in written and oral form. In the written test is needed to answer at the 18 questions from presented topics. Student must correctly answer at least 70% questions. Further examination is an oral form by selecting the topic."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:ŽDÁNSKÝ, Bronislav. 2005. Automobily. 4th ed. Brno: Avid, 305 p.Recommended:JAN, Zdeněk; ŽĎÁNSKÝ, Bronislav; ČUPERA, Jiří. 2008. Automobily I Podvozky. 1st ed. Brno: Avid spol. s r.o. Brno, 228 p. ISBN 978-80-87143-03-2.JAN, Zdeněk; ŽĎÁNSKÝ, Bronislav; ČUPERA, Jiří. 2008. Automobily II Převody. 1st ed. Brno: Avid spol. s r.o., 144 p. ISBN 978-80-87143-04-9.Col. Understanding automotive electronics. 6th ed. Amsterdam: Newnes, 470 p. ISBN 0-7506-7599-3.RŮŽIČKA, Antonín. 1999. Zapalování: řízení zážehového motoru. 1st ed. Praha: Robert Bosch, 44 p. ISBN 80-902585-5-7.ŠTĚRBA, Pavel; ČUPERA, Jiří. 2010. Autoelektronika. 1st ed. Brno: Computer Press, a.s., 280 p. ISBN 978-80-251-2414-7.VLK, František. 2000. Dynamika motorových vozidel: jízdní odpory, hnací charakteristika, brzdění, odpružení, řiditelnost, ovladatelnost, stabilita. 1st ed. Brno: Nakladatelství a vydavatelství VLK, 434 p. ISBN 80-238-5273-6.VLK, František. 2000. Karosérie motorových vozidel: ergonomika, biomechanika, pasivní bezpečnost, kolize, struktura, materiály. 1st ed. Brno: Nakladatelství a vydavatelství VLK, 243 p. ISBN 80-238-5277-9. Převodová ústrojí motorových vozidel: spojky, převodovky, rozvodovky, diferenciály, hnací hřídele, klouby. 2000. 1st ed. Brno: Nakladatelství a vydavatelství Vlk, 312 p. ISBN 80-238-5275-2."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "ŽDÁNSKÝ, Bronislav. 2005. Automobily. 4th ed. Brno: Avid, 305 p."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "JAN, Zdeněk; ŽĎÁNSKÝ, Bronislav; ČUPERA, Jiří. 2008. Automobily I Podvozky. 1st ed. Brno: Avid spol. s r.o. Brno, 228 p. ISBN 978-80-87143-03-2.JAN, Zdeněk; ŽĎÁNSKÝ, Bronislav; ČUPERA, Jiří. 2008. Automobily II Převody. 1st ed. Brno: Avid spol. s r.o., 144 p. ISBN 978-80-87143-04-9.Col. Understanding automotive electronics. 6th ed. Amsterdam: Newnes, 470 p. ISBN 0-7506-7599-3.RŮŽIČKA, Antonín. 1999. Zapalování: řízení zážehového motoru. 1st ed. Praha: Robert Bosch, 44 p. ISBN 80-902585-5-7.ŠTĚRBA, Pavel; ČUPERA, Jiří. 2010. Autoelektronika. 1st ed. Brno: Computer Press, a.s., 280 p. ISBN 978-80-251-2414-7.VLK, František. 2000. Dynamika motorových vozidel: jízdní odpory, hnací charakteristika, brzdění, odpružení, řiditelnost, ovladatelnost, stabilita. 1st ed. Brno: Nakladatelství a vydavatelství VLK, 434 p. ISBN 80-238-5273-6.VLK, František. 2000. Karosérie motorových vozidel: ergonomika, biomechanika, pasivní bezpečnost, kolize, struktura, materiály. 1st ed. Brno: Nakladatelství a vydavatelství VLK, 243 p. ISBN 80-238-5277-9. Převodová ústrojí motorových vozidel: spojky, převodovky, rozvodovky, diferenciály, hnací hřídele, klouby. 2000. 1st ed. Brno: Nakladatelství a vydavatelství Vlk, 312 p. ISBN 80-238-5275-2."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-PTE Agricultural Machinery, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:47:47",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

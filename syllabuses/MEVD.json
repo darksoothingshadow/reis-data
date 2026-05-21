@@ -1,0 +1,785 @@
+{
+  "courseCode": "MEVD",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "MEVD"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Mechanické vlastnosti dřeva"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Mechanical Properties of Wood"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Studium předmětu je možné během zahraniční mobility po individuální domluvě s garantem předmětu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Martin Brabec, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Martin Brabec, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)prof. Dr. Ing. Petr Horáček (přednášející, tutor, zkoušející)Ing. Patrik Nop (cvičící, tutor)Ing. Jan Zlámal (cvičící, tutor)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Stavba dřeva a ne Státní bakalářská zkouška a ne Mechanické vlastnosti dřeva a ne Mechanické vlastnosti dřeva"
+    },
+    {
+      "label": "1.",
+      "content": "Přednáška č. 1:Základní koncept a pojmy – pevnost, pružnost, viskozita, plasticita, houževnatost, tuhost, poddajnost, stabilita (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Cvičení č. 1:Úvodní cvičení - plán, cíl, organizace, podmínky zápočtu azkoušky, školení BOZP, základy zpracování dat"
+    },
+    {
+      "label": "2.",
+      "content": "Přednáška č. 2:Zátěžové stavy – vnitřní a vnější síly, základní druhy namáhání - osové a momentové (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Cvičení č. 2:Osové namáhání (Tlak) – Vliv vlhkosti a teploty"
+    },
+    {
+      "label": "3.",
+      "content": "Přednáška č. 3:Chování dřeva při jednotlivých zátěžových stavech (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Cvičení č. 3:Osové namáhání (Smyk) – Vliv hustoty"
+    },
+    {
+      "label": "4.",
+      "content": "Přednáška č. 4:Materiálové charakteristiky (konstanty úměrnosti) (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Cvičení č. 4:Osové namáhání (Tlak) – Koeficient příčné deformace (Poissonovo číslo)"
+    },
+    {
+      "label": "5.",
+      "content": "Přednáška č. 5:Vliv různých faktorů na mechanické vlastnosti dřeva (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Cvičení č. 5:Osové namáhání (Tah) - Vliv geometrických a materiálových nehomogenit"
+    },
+    {
+      "label": "6.",
+      "content": "Přednáška č. 6:Stav napjatosti a deformovatelnosti tělesa v 1D, 2D a 3D prostoru při osovém zatížení (koncept napětí a deformace) + Transformace mezi souřadnými systémy v 1D, 2D a 3D prostoru (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Cvičení č. 6:Osové namáhání (Tlak) – Vliv orientace vláken"
+    },
+    {
+      "label": "7.",
+      "content": "Přednáška č. 7:Vztah napětí-deformace při osovém zatížení (Hookeův zákon pro osové zatížení v 1D, 2D a 3D prostoru) (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Cvičení č. 7:Osové namáhání – Střih, Štípatelnost, Odpor proti vytažení hřebíku a vrutu, Tvrdost"
+    },
+    {
+      "label": "8.",
+      "content": "Přednáška č. 8:Stav napjatosti a deformovatelnosti tělesa v 1D, 2D a 3D prostoru při momentovém zatížení (koncept napětí a deformace) + Transformace mezi souřadnými systémy v 1D, 2D a 3D prostoru (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Cvičení č. 8:Momentové namáhání (Ohyb 1D) – Vliv rychlosti zatěžování"
+    },
+    {
+      "label": "9.",
+      "content": "Přednáška č. 9:Vztah napětí-deformace při momentovém zatížení (Hookeův zákon pro momentové zatížení v 1D, 2D a 3D prostoru) (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Cvičení č. 9:Momentové namáhání (Ohyb 1D) – Vliv okrajových podmínek"
+    },
+    {
+      "label": "10.",
+      "content": "Přednáška č. 10:Reologické chování dřeva při osovém a momentovém zatížení v 1D a 2D prostoru (tečení a relaxace nosníků a desek) (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Cvičení č. 10:Momentové namáhání (Ohyb 1D) – Vliv velikosti zkušebního tělesa"
+    },
+    {
+      "label": "11.",
+      "content": "Přednáška č. 11:Dynamické chování dřeva při momentovém zatížení v 1D a 2D prostoru (kmitání nosníků a desek) (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Cvičení č. 11:Momentové namáhání (Ohyb 1D) – Kmitání"
+    },
+    {
+      "label": "12.",
+      "content": "Přednáška č. 12:Laminární teorie vrstvených materiálů na bázi dřeva (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Cvičení č. 12:Osové namáhání (Tah, Tlak, Smyk) – Numerická simulace v softwaru FlexPDE"
+    },
+    {
+      "label": "13.",
+      "content": "Přednáška č. 13:Aplikace teorie ve výpočtu příkladů, numerická simulace rozložení napětí a deformace v rámci těles (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Cvičení č. 13:Momentové namáhání (Ohyb) – Numerická simulace v softwaru FlexPDE"
+    },
+    {
+      "label": "14.",
+      "content": "Přednáška č. 14:Aplikace teorie ve výpočtu příkladů, numerická simulace rozložení napětí a deformace v rámci těles (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Cvičení č. 14:Zápočtový test"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "47 %"
+    },
+    {
+      "label": "Prezentace nebo obhajoba",
+      "content": "2 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "51 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, LS 2025/2026, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Mechanické vlastnosti dřeva"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Mechanical Properties of Wood"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Studium předmětu je možné během zahraniční mobility po individuální domluvě s garantem předmětu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Martin Brabec, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Martin Brabec, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)prof. Dr. Ing. Petr Horáček (přednášející, tutor, zkoušející)Ing. Patrik Nop (cvičící, tutor)Ing. Jan Zlámal (cvičící, tutor)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Stavba dřeva a ne Státní bakalářská zkouška a ne Mechanické vlastnosti dřeva a ne Mechanické vlastnosti dřeva"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPoznámkaStředa7.00-8.50B02M. Brabec, P. HoráčekPřednáškaKaždý týden97spol. s MVLDStředa16.00-17.50ucebna_utechov (Sob)M. Brabec, P. Nop, J. ZlámalCvičeníKaždý týden26výuka probíhá v Útěchově, naplánovat si 1 hodinu před a po výuce na cestuČtvrtek16.00-17.50ucebna_utechov (Sob)M. Brabec, P. Nop, J. ZlámalCvičeníKaždý týden26výuka probíhá v Útěchově, naplánovat si 1 hodinu před a po výuce na cestu"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Znalost vlastností dřeva a materiálů na bázi dřeva jako nezbytného předpokladu pro racionální volbu technologií zpracování a použití dřeva pro konstrukční účely ve stavebnictví, nábytkářství a tvorbě obyvaného prostředí. Osvojení si základů materiálového inzenýrství - poznání vztahů mezi chemickým složením, anatomickou stavbou a vlastnostmi dřeva. Aplikace strukturální analýzy na přírodní nehomogenní anizotropní polymer - dřevo. Předmět je zaměřen na popsání vztahu mezi chemickým slozením, anatomickou stavbou a odezvou dřeva na silové působení. Student se v průběhu výuky (1) teoreticky seznamuje s obecným stavem napjatosti a deformovatelnosti tělesa obecným znění Hookeova zákona v závislosti na dimenzi řešeného problému, lomovou mechanikou, reologickými vlastnostmi a chováním vrstvených materiálů. (2) v praktické části předmětu si poznatky ověřuje při experimentálním stanovování materiálových konstant a popisu napěťového a deformačního chování dřeva při základních způsobech zatězování. Pokročilou kapitolou je matematicko-fyzikální popis mechanického chování dřeva na mikroskopické úrovni. Současné poznatky o chemické a anatomické stavbě dřeva se využijí při definování vlivu faktorů prostředí na mechanické vlastnosti dřeva. Výsledkem je schopnost posouzení příčin porusení materiálu a návrh materiálová optimalizace, včetně designu konstrukčních prvků. Aplikováno je materiálové inzenýrství pro praxi v dřevařském průmyslu."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Přednáška č. 1:Základní koncept a pojmy – pevnost, pružnost, viskozita, plasticita, houževnatost, tuhost, poddajnost, stabilita (dotace 2/2) a.Cvičení č. 1:Úvodní cvičení - plán, cíl, organizace, podmínky zápočtu azkoušky, školení BOZP, základy zpracování dat2.Přednáška č. 2:Zátěžové stavy – vnitřní a vnější síly, základní druhy namáhání - osové a momentové (dotace 2/2) a.Cvičení č. 2:Osové namáhání (Tlak) – Vliv vlhkosti a teploty3.Přednáška č. 3:Chování dřeva při jednotlivých zátěžových stavech (dotace 2/2) a.Cvičení č. 3:Osové namáhání (Smyk) – Vliv hustoty4.Přednáška č. 4:Materiálové charakteristiky (konstanty úměrnosti) (dotace 2/2) a.Cvičení č. 4:Osové namáhání (Tlak) – Koeficient příčné deformace (Poissonovo číslo)5.Přednáška č. 5:Vliv různých faktorů na mechanické vlastnosti dřeva (dotace 2/2) a.Cvičení č. 5:Osové namáhání (Tah) - Vliv geometrických a materiálových nehomogenit6.Přednáška č. 6:Stav napjatosti a deformovatelnosti tělesa v 1D, 2D a 3D prostoru při osovém zatížení (koncept napětí a deformace) + Transformace mezi souřadnými systémy v 1D, 2D a 3D prostoru (dotace 2/2) a.Cvičení č. 6:Osové namáhání (Tlak) – Vliv orientace vláken7.Přednáška č. 7:Vztah napětí-deformace při osovém zatížení (Hookeův zákon pro osové zatížení v 1D, 2D a 3D prostoru) (dotace 2/2) a.Cvičení č. 7:Osové namáhání – Střih, Štípatelnost, Odpor proti vytažení hřebíku a vrutu, Tvrdost8.Přednáška č. 8:Stav napjatosti a deformovatelnosti tělesa v 1D, 2D a 3D prostoru při momentovém zatížení (koncept napětí a deformace) + Transformace mezi souřadnými systémy v 1D, 2D a 3D prostoru (dotace 2/2) a.Cvičení č. 8:Momentové namáhání (Ohyb 1D) – Vliv rychlosti zatěžování9.Přednáška č. 9:Vztah napětí-deformace při momentovém zatížení (Hookeův zákon pro momentové zatížení v 1D, 2D a 3D prostoru) (dotace 2/2) a.Cvičení č. 9:Momentové namáhání (Ohyb 1D) – Vliv okrajových podmínek10.Přednáška č. 10:Reologické chování dřeva při osovém a momentovém zatížení v 1D a 2D prostoru (tečení a relaxace nosníků a desek) (dotace 2/2) a.Cvičení č. 10:Momentové namáhání (Ohyb 1D) – Vliv velikosti zkušebního tělesa11.Přednáška č. 11:Dynamické chování dřeva při momentovém zatížení v 1D a 2D prostoru (kmitání nosníků a desek) (dotace 2/2) a.Cvičení č. 11:Momentové namáhání (Ohyb 1D) – Kmitání12.Přednáška č. 12:Laminární teorie vrstvených materiálů na bázi dřeva (dotace 2/2) a.Cvičení č. 12:Osové namáhání (Tah, Tlak, Smyk) – Numerická simulace v softwaru FlexPDE13.Přednáška č. 13:Aplikace teorie ve výpočtu příkladů, numerická simulace rozložení napětí a deformace v rámci těles (dotace 2/2) a.Cvičení č. 13:Momentové namáhání (Ohyb) – Numerická simulace v softwaru FlexPDE14.Přednáška č. 14:Aplikace teorie ve výpočtu příkladů, numerická simulace rozložení napětí a deformace v rámci těles (dotace 2/2) a.Cvičení č. 14:Zápočtový test"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Cvičení č. 1:Úvodní cvičení - plán, cíl, organizace, podmínky zápočtu azkoušky, školení BOZP, základy zpracování dat"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Cvičení č. 2:Osové namáhání (Tlak) – Vliv vlhkosti a teploty"
+    },
+    {
+      "label": "[section] Přednáška č. 2:Zátěžové stavy – vnitřní a vnější síly, základní druhy namáhání - osové a momentové",
+      "content": "a.Cvičení č. 2:Osové namáhání (Tlak) – Vliv vlhkosti a teploty"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Cvičení č. 3:Osové namáhání (Smyk) – Vliv hustoty"
+    },
+    {
+      "label": "[section] Přednáška č. 3:Chování dřeva při jednotlivých zátěžových stavech",
+      "content": "a.Cvičení č. 3:Osové namáhání (Smyk) – Vliv hustoty"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Cvičení č. 4:Osové namáhání (Tlak) – Koeficient příčné deformace (Poissonovo číslo)"
+    },
+    {
+      "label": "[section] Přednáška č. 4:Materiálové charakteristiky (konstanty úměrnosti)",
+      "content": "a.Cvičení č. 4:Osové namáhání (Tlak) – Koeficient příčné deformace (Poissonovo číslo)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Cvičení č. 5:Osové namáhání (Tah) - Vliv geometrických a materiálových nehomogenit"
+    },
+    {
+      "label": "[section] Přednáška č. 5:Vliv různých faktorů na mechanické vlastnosti dřeva",
+      "content": "a.Cvičení č. 5:Osové namáhání (Tah) - Vliv geometrických a materiálových nehomogenit"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Cvičení č. 6:Osové namáhání (Tlak) – Vliv orientace vláken"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Cvičení č. 7:Osové namáhání – Střih, Štípatelnost, Odpor proti vytažení hřebíku a vrutu, Tvrdost"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Cvičení č. 8:Momentové namáhání (Ohyb 1D) – Vliv rychlosti zatěžování"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Cvičení č. 9:Momentové namáhání (Ohyb 1D) – Vliv okrajových podmínek"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Cvičení č. 10:Momentové namáhání (Ohyb 1D) – Vliv velikosti zkušebního tělesa"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Cvičení č. 11:Momentové namáhání (Ohyb 1D) – Kmitání"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Cvičení č. 12:Osové namáhání (Tah, Tlak, Smyk) – Numerická simulace v softwaru FlexPDE"
+    },
+    {
+      "label": "[section] Přednáška č. 12:Laminární teorie vrstvených materiálů na bázi dřeva",
+      "content": "a.Cvičení č. 12:Osové namáhání (Tah, Tlak, Smyk) – Numerická simulace v softwaru FlexPDE"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Cvičení č. 13:Momentové namáhání (Ohyb) – Numerická simulace v softwaru FlexPDE"
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Cvičení č. 14:Zápočtový test"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení6 hlaboratorní práce22 hveřejná prezentace (ústní)2 hpříprava na zkoušku60 hpříprava prezentace10 hzpracování protokolů55 hCelkem183 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zápočet 1) Účast na cvičeních – neomluvená absence je důvodem k neudělení zápočtu – více než 2 omluvené absence jsou důvodem k neudělení zápočtu – v případě omluvené i neomluvené absence student musí zpracovat protokol a prezentovat výsledky 2) Protokoly – protokol musí být odevzdán a za prezentaci výsledků je nutné získat alespoň 0.5 bodu – odevzdání protokolu po termínu (a)nebo neprezentování výsledků znamená 0 bodů a neumožňuje získání zápočtu 3) Zápočtový test – test je zaměřený na ověření znalostí získaných během cvičení – elektronický test v rámci UIS – z testu je nutné získat alespoň 60 % z maximálního počtu bodů – test je složen z otázek s výběrem správné odpovědi, dále spojovacích, seřazovacích a doplňovacích otázek, kdy se doplní slovo, případně výsledek jednoduchého příkladu – na výpočet zápočtového příkladu stačí kalkulačka (ne telefon nebo tablet) Zkouška – vysvětlení teorie na typové úloze s důrazem na porozumění vztahů mezi materiálovými charakteristikami dřeva a různými faktory – zkouška probíhá kontaktně – zkušební okruhy z teorie budou s předstihem zveřejněny – vytištěné protokoly je možné použít u zkoušky – konkrétní podoba zkoušky bude upřesněna zkoušejícím"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích47 %Prezentace nebo obhajoba2 %Absolvování závěrečné ústní zkoušky51 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:POŽGAJ, Alexander; CHOVANEC, Dušan; KURJATKO, Stanislav; BABIAK, Marián. 1993. Štruktúra a vlastnosti dreva. 1. vyd. Bratislava: Príroda, 485 s. ISBN 80-07-00600-1.GANDELOVÁ, Libuše; ŠLEZINGEROVÁ, Jarmila; HORÁČEK, Petr. 2002. Nauka o dřevě. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 176 s. ISBN 978-80-7157-577-12008.HORÁČEK, Petr. 2008. Fyzikální a mechanické vlastnosti dřeva I. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 124 s. ISBN 978-80-7375-169-2.CÔTÉ, WA; KOLLMANN, F. 1968. Principles of wood science and technology: I Solid wood. Berlin: Springer, 592 s. ISBN 978-3-642-87930-2.Doporučená:JAYNE, B A; BODIG, J. 1993. Mechanics of Wood and Wood Composites. Malabar: Krieger Publish.Comp., 712 s. ISBN 0-89464-777-6.ROSS, R J. 2010. Wood handbook : wood as an engineering material. Madison, WI: U.S. Dept. of Agriculture, Forest Service, Forest Products Laboratory, 509 s.TSOUMIS, G. 1993. Science and technology of wood: structure, properties, utilization. New York: Van Nostrand Reinhold, 494 s. ISBN 0-442-23985-8.HEARMON, R.F.S. 1965. Úvod do teorie pružnosti anizotropních látek. Praha: SNTL, 139 s."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "POŽGAJ, Alexander; CHOVANEC, Dušan; KURJATKO, Stanislav; BABIAK, Marián. 1993. Štruktúra a vlastnosti dreva. 1. vyd. Bratislava: Príroda, 485 s. ISBN 80-07-00600-1.GANDELOVÁ, Libuše; ŠLEZINGEROVÁ, Jarmila; HORÁČEK, Petr. 2002. Nauka o dřevě. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 176 s. ISBN 978-80-7157-577-12008.HORÁČEK, Petr. 2008. Fyzikální a mechanické vlastnosti dřeva I. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 124 s. ISBN 978-80-7375-169-2.CÔTÉ, WA; KOLLMANN, F. 1968. Principles of wood science and technology: I Solid wood. Berlin: Springer, 592 s. ISBN 978-3-642-87930-2."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "JAYNE, B A; BODIG, J. 1993. Mechanics of Wood and Wood Composites. Malabar: Krieger Publish.Comp., 712 s. ISBN 0-89464-777-6.ROSS, R J. 2010. Wood handbook : wood as an engineering material. Madison, WI: U.S. Dept. of Agriculture, Forest Service, Forest Products Laboratory, 509 s.TSOUMIS, G. 1993. Science and technology of wood: structure, properties, utilization. New York: Van Nostrand Reinhold, 494 s. ISBN 0-442-23985-8.HEARMON, R.F.S. 1965. Úvod do teorie pružnosti anizotropních látek. Praha: SNTL, 139 s."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Specializace B-TVN-VYR Výroba nábytku, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "MEVD"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Mechanické vlastnosti dřeva"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Mechanical Properties of Wood"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The study of the subject is possible during foreign mobility after individual agreement with the subject guarantor."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Martin Brabec, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Martin Brabec, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)prof. Dr. Ing. Petr Horáček (examiner, lecturer, tutor)Ing. Patrik Nop (instructor, tutor)Ing. Jan Zlámal (instructor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Wood Anatomy and not State Bachelor Examination and not Mechanical Properties of Wood and not Mechanical Properties of Wood"
+    },
+    {
+      "label": "1.",
+      "content": "Lecture No. 1:The basic concept and terminology - strength, elasticity, viscosity, plasticity, toughness, stiffness, compliance, stability (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Seminar No. 1:Introductory seminar - plan, goal, organization, pre-exam credit and final exam conditions, health and safety training, the basics of data processing"
+    },
+    {
+      "label": "2.",
+      "content": "Lecture No. 2:Loading modes - internal and external forces, basic loading modes - axial and moment ones (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Seminar No. 2:Axial loading (Compression) - Effect of moisture content and temperature"
+    },
+    {
+      "label": "3.",
+      "content": "Lecture No. 3:The behaviour of wood subjected to individual loading modes (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Seminar No. 3:Axial loading (Shear) - Effect of density"
+    },
+    {
+      "label": "4.",
+      "content": "Lecture No. 4:The effect of different factors on the mechanical properties of wood (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Seminar No. 4:Axial loading (Compression) - Poisson's ratio"
+    },
+    {
+      "label": "5.",
+      "content": "Lecture No. 5:Stress state of body in 1D, 2D and 3D space (stress concept) (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Seminar No. 5:Axial loading (Compression) - Effect of fibre angle"
+    },
+    {
+      "label": "6.",
+      "content": "Lecture No. 6:Strain state of body in 1D, 2D and 3D space (strain concept) (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Seminar No. 6:Axial + Moment loading (Tension, Compression, Shear, Bending) - Numerical simulation in the software FlexPDE"
+    },
+    {
+      "label": "7.",
+      "content": "Lecture No. 7:Material characteristics (proportionality constants) (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Seminar No. 7:Axial loading (Tension) - Effect of geometric and material inhomogeneities"
+    },
+    {
+      "label": "8.",
+      "content": "Lecture No. 8:Stress-strain relationship for axial loading (Hooke's law for axial loading in 1D, 2D and 3D space) (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Seminar No. 8:Moment loading (Bending 1D) - Effect of loading rate"
+    },
+    {
+      "label": "9.",
+      "content": "Lecture No. 9:Stress-strain relationship for moment loading (Hooke's law for moment loading in 1D, 2D and 3D space) (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Seminar No. 9:Moment loading (Bending 1D) - Effect of boundary conditions"
+    },
+    {
+      "label": "10.",
+      "content": "Lecture No. 10:Transformation between coordinate systems in 1D, 2D and 3D space (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Seminar No. 10:Moment loading (Bending 1D) - Effect of specimens' size"
+    },
+    {
+      "label": "11.",
+      "content": "Lecture No. 11:Dynamic behaviour of wood for moment loading in 1D and 2D space (vibration of beams nad plates) (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Seminar No. 11:Moment loading (Bending 1D) - Vibration"
+    },
+    {
+      "label": "12.",
+      "content": "Lecture No. 12:Rheological behaviour of wood for axial and moment loading in 1D and 2D space (creep and relaxation of beams and plates) (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Seminar No. 12:Axial loading - Shear in RT plane, Cleavibility, Nail and screw drawing resistance, Hardness"
+    },
+    {
+      "label": "13.",
+      "content": "Lecture No. 13:Laminar theory of layered wood-based materials (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Seminar No. 13:Students' presentation on selected topic"
+    },
+    {
+      "label": "14.",
+      "content": "Lecture No. 14:An application of theory within the example calculation, numerical simulation of stress and strain distribution within the bodies (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Seminar No. 14:Students' presentation on selected topic"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "47 %"
+    },
+    {
+      "label": "Presentation or defence",
+      "content": "2 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "51 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, SS 2025/2026, WS 2024/2025, WS 2023/2024, WS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Mechanické vlastnosti dřeva"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Mechanical Properties of Wood"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The study of the subject is possible during foreign mobility after individual agreement with the subject guarantor."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Martin Brabec, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Martin Brabec, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)prof. Dr. Ing. Petr Horáček (examiner, lecturer, tutor)Ing. Patrik Nop (instructor, tutor)Ing. Jan Zlámal (instructor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Wood Anatomy and not State Bachelor Examination and not Mechanical Properties of Wood and not Mechanical Properties of Wood"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityNoteWednesday7.00-8.50B02M. Brabec, P. HoráčekLectureEvery week97spol. s MVLDWednesday16.00-17.50ucebna_utechov (Sob)M. Brabec, P. Nop, J. ZlámalSeminarEvery week26výuka probíhá v Útěchově, naplánovat si 1 hodinu před a po výuce na cestuThursday16.00-17.50ucebna_utechov (Sob)M. Brabec, P. Nop, J. ZlámalSeminarEvery week26výuka probíhá v Útěchově, naplánovat si 1 hodinu před a po výuce na cestu"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Knowledge of the properties of wood and wood-based materials as a prerequisite for the rational choice of processing technology and use of wood for structural applications in construction, furniture making and inhabited environments. Mastering the fundamentals of materials engineering - understanding the relationship between chemical composition and anatomical structure and properties of wood. Application of structural analysis on natural non-homogenous anisotropic polymer - wood. The course focuses on description of relationships among chemical composition, anatomical structure and response of wood to loading. Student will be provided: 1) theoretical description and analysis of general stress and strain state - general Hooke's law related to the dimensions of a problem, introduction to a fracture mechanics, rheological properties of wood and mechanics of layered systems; 2) in practical lectures, students will evaluate gained theoretical concepts by a set of measurement of material properties that describe stress and strain behavior of wood when loaded by fundamental modes of loading. Advanced chapter is mathematical and physical evaluation of behavior of wood on microscopic scale within which students can use contemporary knowledge of chemical and anatomical structure of wood to learn an influence of boundary conditions on mechanical properties of wood on macroscopic scale. After passing the course, students will be able to evaluate a reason of material failure and design the optimal parameters of structural wooden members (structural design). The course also applies principles of material science on practical issues in wood-processing industry."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Lecture No. 1:The basic concept and terminology - strength, elasticity, viscosity, plasticity, toughness, stiffness, compliance, stability (allowance 2/2) a.Seminar No. 1:Introductory seminar - plan, goal, organization, pre-exam credit and final exam conditions, health and safety training, the basics of data processing2.Lecture No. 2:Loading modes - internal and external forces, basic loading modes - axial and moment ones (allowance 2/2) a.Seminar No. 2:Axial loading (Compression) - Effect of moisture content and temperature3.Lecture No. 3:The behaviour of wood subjected to individual loading modes (allowance 2/2) a.Seminar No. 3:Axial loading (Shear) - Effect of density4.Lecture No. 4:The effect of different factors on the mechanical properties of wood (allowance 2/2) a.Seminar No. 4:Axial loading (Compression) - Poisson's ratio5.Lecture No. 5:Stress state of body in 1D, 2D and 3D space (stress concept) (allowance 2/2) a.Seminar No. 5:Axial loading (Compression) - Effect of fibre angle6.Lecture No. 6:Strain state of body in 1D, 2D and 3D space (strain concept) (allowance 2/2) a.Seminar No. 6:Axial + Moment loading (Tension, Compression, Shear, Bending) - Numerical simulation in the software FlexPDE7.Lecture No. 7:Material characteristics (proportionality constants) (allowance 2/2) a.Seminar No. 7:Axial loading (Tension) - Effect of geometric and material inhomogeneities8.Lecture No. 8:Stress-strain relationship for axial loading (Hooke's law for axial loading in 1D, 2D and 3D space) (allowance 2/2) a.Seminar No. 8:Moment loading (Bending 1D) - Effect of loading rate9.Lecture No. 9:Stress-strain relationship for moment loading (Hooke's law for moment loading in 1D, 2D and 3D space) (allowance 2/2) a.Seminar No. 9:Moment loading (Bending 1D) - Effect of boundary conditions10.Lecture No. 10:Transformation between coordinate systems in 1D, 2D and 3D space (allowance 2/2) a.Seminar No. 10:Moment loading (Bending 1D) - Effect of specimens' size11.Lecture No. 11:Dynamic behaviour of wood for moment loading in 1D and 2D space (vibration of beams nad plates) (allowance 2/2) a.Seminar No. 11:Moment loading (Bending 1D) - Vibration12.Lecture No. 12:Rheological behaviour of wood for axial and moment loading in 1D and 2D space (creep and relaxation of beams and plates) (allowance 2/2) a.Seminar No. 12:Axial loading - Shear in RT plane, Cleavibility, Nail and screw drawing resistance, Hardness13.Lecture No. 13:Laminar theory of layered wood-based materials (allowance 2/2) a.Seminar No. 13:Students' presentation on selected topic14.Lecture No. 14:An application of theory within the example calculation, numerical simulation of stress and strain distribution within the bodies (allowance 2/2) a.Seminar No. 14:Students' presentation on selected topic"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Seminar No. 1:Introductory seminar - plan, goal, organization, pre-exam credit and final exam conditions, health and safety training, the basics of data processing"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Seminar No. 2:Axial loading (Compression) - Effect of moisture content and temperature"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Seminar No. 3:Axial loading (Shear) - Effect of density"
+    },
+    {
+      "label": "[section] Lecture No. 3:The behaviour of wood subjected to individual loading modes",
+      "content": "a.Seminar No. 3:Axial loading (Shear) - Effect of density"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Seminar No. 4:Axial loading (Compression) - Poisson's ratio"
+    },
+    {
+      "label": "[section] Lecture No. 4:The effect of different factors on the mechanical properties of wood",
+      "content": "a.Seminar No. 4:Axial loading (Compression) - Poisson's ratio"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Seminar No. 5:Axial loading (Compression) - Effect of fibre angle"
+    },
+    {
+      "label": "[section] Lecture No. 5:Stress state of body in 1D, 2D and 3D space (stress concept)",
+      "content": "a.Seminar No. 5:Axial loading (Compression) - Effect of fibre angle"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Seminar No. 6:Axial + Moment loading (Tension, Compression, Shear, Bending) - Numerical simulation in the software FlexPDE"
+    },
+    {
+      "label": "[section] Lecture No. 6:Strain state of body in 1D, 2D and 3D space (strain concept)",
+      "content": "a.Seminar No. 6:Axial + Moment loading (Tension, Compression, Shear, Bending) - Numerical simulation in the software FlexPDE"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Seminar No. 7:Axial loading (Tension) - Effect of geometric and material inhomogeneities"
+    },
+    {
+      "label": "[section] Lecture No. 7:Material characteristics (proportionality constants)",
+      "content": "a.Seminar No. 7:Axial loading (Tension) - Effect of geometric and material inhomogeneities"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Seminar No. 8:Moment loading (Bending 1D) - Effect of loading rate"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Seminar No. 9:Moment loading (Bending 1D) - Effect of boundary conditions"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Seminar No. 10:Moment loading (Bending 1D) - Effect of specimens' size"
+    },
+    {
+      "label": "[section] Lecture No. 10:Transformation between coordinate systems in 1D, 2D and 3D space",
+      "content": "a.Seminar No. 10:Moment loading (Bending 1D) - Effect of specimens' size"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Seminar No. 11:Moment loading (Bending 1D) - Vibration"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Seminar No. 12:Axial loading - Shear in RT plane, Cleavibility, Nail and screw drawing resistance, Hardness"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Seminar No. 13:Students' presentation on selected topic"
+    },
+    {
+      "label": "[section] Lecture No. 13:Laminar theory of layered wood-based materials",
+      "content": "a.Seminar No. 13:Students' presentation on selected topic"
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Seminar No. 14:Students' presentation on selected topic"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice6 hlaboratory work22 hpublic presentation (oral)2 hpreparation for exam60 hpreparation of presentation10 helaboration of reports55 hTotal183 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Pre-exam credit 1) Presence on seminars - an unexcused absence is the reason for non-obtaining credit - more than two excused absences is the reason for non-obtaining credit - in the case of excused and also unexcused absence the student has to process the report and present the results 2) Reports - the report has to be submitted and it is necessary to obtain at least 0.5 points from presentation - submission of report after deadline and(or) no presentation of results is evaluated by 0 points and does not allow to obtain a credit 3) Test - test is focused on a verification of knowledge obtained during the seminars - electronic test within the UIS - it is necessary to obtain at least 60 % from maximum points - test consists of questions with chossing of correct answer, further linking, sorting and fill-in questions, when a correct word, event. a result of simple example - for the calculation of example a calculator is enough Final exam - clarification of theory on a case study with an emphasis on the understanding of relationships between the material characteristics of wood and various factors - final exam takes place in person - the final exam topics from theory will be published in advance - it is possible to use the printed reports during the final exam - a specific form of exam will be specified by a examinator"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation47 %Presentation or defence2 %Final oral exam51 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:POŽGAJ, Alexander; CHOVANEC, Dušan; KURJATKO, Stanislav; BABIAK, Marián. 1993. Štruktúra a vlastnosti dreva. 1st ed. Bratislava: Príroda, 485 p. ISBN 80-07-00600-1.GANDELOVÁ, Libuše; ŠLEZINGEROVÁ, Jarmila; HORÁČEK, Petr. 2002. Nauka o dřevě. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 176 p. ISBN 978-80-7157-577-12008.HORÁČEK, Petr. 2008. Fyzikální a mechanické vlastnosti dřeva I. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 124 p. ISBN 978-80-7375-169-2.CÔTÉ, WA; KOLLMANN, F. 1968. Principles of wood science and technology: I Solid wood. Berlin: Springer, 592 p. ISBN 978-3-642-87930-2.Recommended:JAYNE, B A; BODIG, J. 1993. Mechanics of Wood and Wood Composites. Malabar: Krieger Publish.Comp., 712 p. ISBN 0-89464-777-6.ROSS, R J. 2010. Wood handbook : wood as an engineering material. Madison, WI: U.S. Dept. of Agriculture, Forest Service, Forest Products Laboratory, 509 p.TSOUMIS, G. 1993. Science and technology of wood: structure, properties, utilization. New York: Van Nostrand Reinhold, 494 p. ISBN 0-442-23985-8.HEARMON, R.F.S. 1965. Úvod do teorie pružnosti anizotropních látek. Praha: SNTL, 139 p."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "POŽGAJ, Alexander; CHOVANEC, Dušan; KURJATKO, Stanislav; BABIAK, Marián. 1993. Štruktúra a vlastnosti dreva. 1st ed. Bratislava: Príroda, 485 p. ISBN 80-07-00600-1.GANDELOVÁ, Libuše; ŠLEZINGEROVÁ, Jarmila; HORÁČEK, Petr. 2002. Nauka o dřevě. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 176 p. ISBN 978-80-7157-577-12008.HORÁČEK, Petr. 2008. Fyzikální a mechanické vlastnosti dřeva I. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 124 p. ISBN 978-80-7375-169-2.CÔTÉ, WA; KOLLMANN, F. 1968. Principles of wood science and technology: I Solid wood. Berlin: Springer, 592 p. ISBN 978-3-642-87930-2."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "JAYNE, B A; BODIG, J. 1993. Mechanics of Wood and Wood Composites. Malabar: Krieger Publish.Comp., 712 p. ISBN 0-89464-777-6.ROSS, R J. 2010. Wood handbook : wood as an engineering material. Madison, WI: U.S. Dept. of Agriculture, Forest Service, Forest Products Laboratory, 509 p.TSOUMIS, G. 1993. Science and technology of wood: structure, properties, utilization. New York: Van Nostrand Reinhold, 494 p. ISBN 0-442-23985-8.HEARMON, R.F.S. 1965. Úvod do teorie pružnosti anizotropních látek. Praha: SNTL, 139 p."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Track B-TVN-FPD Furniture Production, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:28:53",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

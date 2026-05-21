@@ -1,0 +1,673 @@
+{
+  "courseCode": "EBC-SUIS",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-SUIS"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Správa a údržba IS"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Administration and Maintenance of IS"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Oldřich Trenz, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Ivana Rábová, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Oldřich Trenz, Ph.D. (garant)Mgr. David Vašíček (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Základní pojmy a definice (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Informační systém, informační technologie, IT služba"
+    },
+    {
+      "label": "b.",
+      "content": "Principy, trendy, strategie nasazení"
+    },
+    {
+      "label": "2.",
+      "content": "Architektura IS/ICT (dotace 6/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam architektury pro implementaci a administrativu IS/ICT"
+    },
+    {
+      "label": "b.",
+      "content": "Přístupy k prezentaci architektury IS"
+    },
+    {
+      "label": "c.",
+      "content": "Komponentová architektura IS a SOA (servisně orientovaná architektura)"
+    },
+    {
+      "label": "d.",
+      "content": "Architektura webových aplikací MVC"
+    },
+    {
+      "label": "3.",
+      "content": "Notace UML pro modelování IS a notace BPMN pro modelování podnikových procesů (dotace 2/8)"
+    },
+    {
+      "label": "4.",
+      "content": "Vývojový cyklus IS (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Životní cyklus vývoje IS - etapy"
+    },
+    {
+      "label": "b.",
+      "content": "Rigorózní a agilní metodiky vývoje IS, metodické rámce (SCRUM, RUP, COBIT a TOGAF)"
+    },
+    {
+      "label": "c.",
+      "content": "Provoz, údržba a rozvoj IS"
+    },
+    {
+      "label": "d.",
+      "content": "Řízení provozu IS"
+    },
+    {
+      "label": "5.",
+      "content": "Úvod do DevOps a kontejnerizace (dotace 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Principy DevOps – spolupráce vývoje a provozu, CI/CD, GitOps přístup"
+    },
+    {
+      "label": "b.",
+      "content": "GitLab jako nástroj pro verzování, správu kódu a automatizaci procesů"
+    },
+    {
+      "label": "c.",
+      "content": "Kontejnerizace – rozdíl oproti virtualizaci, koncept image a registru"
+    },
+    {
+      "label": "d.",
+      "content": "Základy práce s kontejnery (Docker, Podman)"
+    },
+    {
+      "label": "e.",
+      "content": "Praktické ukázky sestavení a nasazení jednoduché aplikace s využitím GitLab CI"
+    },
+    {
+      "label": "6.",
+      "content": "Orchestrace a správa aplikací (dotace 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Potřeba orchestrace – škálování, dostupnost, správa více služeb"
+    },
+    {
+      "label": "b.",
+      "content": "Architektura Kubernetes – uzly, pod, služba, ingress, persistentní úložiště"
+    },
+    {
+      "label": "c.",
+      "content": "Základní objekty Kubernetes – Deployment, Service, ConfigMap, Secret"
+    },
+    {
+      "label": "d.",
+      "content": "Nasazení aplikace v Kubernetes s využitím GitLab CI/CD pipeline (praktické cvičení – jednoduchá vícevrstvá aplikace)"
+    },
+    {
+      "label": "e.",
+      "content": "Správa a údržba aplikací – rolling updates, readiness/liveness probes, logy a monitoring"
+    },
+    {
+      "label": "f.",
+      "content": "Pokročilejší GitOps přístup – propojení GitLabu s nástroji pro správu aplikací"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Správa a údržba IS"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Administration and Maintenance of IS"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Oldřich Trenz, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Ivana Rábová, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Oldřich Trenz, Ph.D. (garant)Mgr. David Vašíček (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaÚterý13.00-14.50Q15B-AIII. Rábová, D. VašíčekPřednáškaKaždý týden40Úterý15.00-16.50Q06B-AIII. Rábová, D. VašíčekCvičeníKaždý týden20Úterý17.00-18.50Q06B-AIII. Rábová, D. VašíčekCvičeníKaždý týden20Sobota9.00-12.50Q06B-AIII. Rábová, D. VašíčekPřednáškaNepravidelně20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je získat znalosti a celkový přehled o vazbě informatiky na globální strategii podniku a znalosti související se základními principy podnikových informačních systémů ERP. Studenti se seznámí s přístupy k tvorbě architektury informačních systémů (IS), s etapami životního cyklu a metodikami vývoje IS. Důraz bude kladen na poslední etapy životního cyklu a to na správu, provoz a údržbu IS. Studenti si osvojí nejen metodiky a notace objektového přístupu k vývoji softwarových aplikací, ale seznámí se s nejnovějšími technologiemi pro řízení a provoz informačních systémů včetně technologií cloudových. Budou vysvětleny základy tvorby aplikací pro cloudová řešení se zaměřením na nasazení, správu a údržbu těchto aplikací. Součástí přednášek je rovněž bezpečnostní politika včetně příkladů z praxe."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Základní pojmy a definice (dotace 2/2) a.Informační systém, informační technologie, IT službab.Principy, trendy, strategie nasazení2.Architektura IS/ICT (dotace 6/2) a.Význam architektury pro implementaci a administrativu IS/ICTb.Přístupy k prezentaci architektury ISc.Komponentová architektura IS a SOA (servisně orientovaná architektura)d.Architektura webových aplikací MVC3.Notace UML pro modelování IS a notace BPMN pro modelování podnikových procesů (dotace 2/8)4.Vývojový cyklus IS (dotace 4/2) a.Životní cyklus vývoje IS - etapyb.Rigorózní a agilní metodiky vývoje IS, metodické rámce (SCRUM, RUP, COBIT a TOGAF)c.Provoz, údržba a rozvoj ISd.Řízení provozu IS5.Úvod do DevOps a kontejnerizace (dotace 6/6) a.Principy DevOps – spolupráce vývoje a provozu, CI/CD, GitOps přístupb.GitLab jako nástroj pro verzování, správu kódu a automatizaci procesůc.Kontejnerizace – rozdíl oproti virtualizaci, koncept image a registrud.Základy práce s kontejnery (Docker, Podman)e.Praktické ukázky sestavení a nasazení jednoduché aplikace s využitím GitLab CI6.Orchestrace a správa aplikací (dotace 8/8) a.Potřeba orchestrace – škálování, dostupnost, správa více služebb.Architektura Kubernetes – uzly, pod, služba, ingress, persistentní úložištěc.Základní objekty Kubernetes – Deployment, Service, ConfigMap, Secretd.Nasazení aplikace v Kubernetes s využitím GitLab CI/CD pipeline (praktické cvičení – jednoduchá vícevrstvá aplikace)e.Správa a údržba aplikací – rolling updates, readiness/liveness probes, logy a monitoringf.Pokročilejší GitOps přístup – propojení GitLabu s nástroji pro správu aplikací"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Informační systém, informační technologie, IT službab.Principy, trendy, strategie nasazení"
+    },
+    {
+      "label": "[section] Základní pojmy a definice",
+      "content": "a.Informační systém, informační technologie, IT službab.Principy, trendy, strategie nasazení"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Význam architektury pro implementaci a administrativu IS/ICTb.Přístupy k prezentaci architektury ISc.Komponentová architektura IS a SOA (servisně orientovaná architektura)d.Architektura webových aplikací MVC"
+    },
+    {
+      "label": "[section] Architektura IS/ICT",
+      "content": "a.Význam architektury pro implementaci a administrativu IS/ICTb.Přístupy k prezentaci architektury ISc.Komponentová architektura IS a SOA (servisně orientovaná architektura)d.Architektura webových aplikací MVC"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Vývojový cyklus IS (dotace 4/2)"
+    },
+    {
+      "label": "[section] Notace UML pro modelování IS a notace BPMN pro modelování podnikových procesů",
+      "content": "4.Vývojový cyklus IS (dotace 4/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Životní cyklus vývoje IS - etapyb.Rigorózní a agilní metodiky vývoje IS, metodické rámce (SCRUM, RUP, COBIT a TOGAF)c.Provoz, údržba a rozvoj ISd.Řízení provozu IS"
+    },
+    {
+      "label": "[section] Vývojový cyklus IS",
+      "content": "a.Životní cyklus vývoje IS - etapyb.Rigorózní a agilní metodiky vývoje IS, metodické rámce (SCRUM, RUP, COBIT a TOGAF)c.Provoz, údržba a rozvoj ISd.Řízení provozu IS"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Principy DevOps – spolupráce vývoje a provozu, CI/CD, GitOps přístupb.GitLab jako nástroj pro verzování, správu kódu a automatizaci procesůc.Kontejnerizace – rozdíl oproti virtualizaci, koncept image a registrud.Základy práce s kontejnery (Docker, Podman)e.Praktické ukázky sestavení a nasazení jednoduché aplikace s využitím GitLab CI"
+    },
+    {
+      "label": "[section] Úvod do DevOps a kontejnerizace",
+      "content": "a.Principy DevOps – spolupráce vývoje a provozu, CI/CD, GitOps přístupb.GitLab jako nástroj pro verzování, správu kódu a automatizaci procesůc.Kontejnerizace – rozdíl oproti virtualizaci, koncept image a registrud.Základy práce s kontejnery (Docker, Podman)e.Praktické ukázky sestavení a nasazení jednoduché aplikace s využitím GitLab CI"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Potřeba orchestrace – škálování, dostupnost, správa více služebb.Architektura Kubernetes – uzly, pod, služba, ingress, persistentní úložištěc.Základní objekty Kubernetes – Deployment, Service, ConfigMap, Secretd.Nasazení aplikace v Kubernetes s využitím GitLab CI/CD pipeline (praktické cvičení – jednoduchá vícevrstvá aplikace)e.Správa a údržba aplikací – rolling updates, readiness/liveness probes, logy a monitoringf.Pokročilejší GitOps přístup – propojení GitLabu s nástroji pro správu aplikací"
+    },
+    {
+      "label": "[section] Orchestrace a správa aplikací",
+      "content": "a.Potřeba orchestrace – škálování, dostupnost, správa více služebb.Architektura Kubernetes – uzly, pod, služba, ingress, persistentní úložištěc.Základní objekty Kubernetes – Deployment, Service, ConfigMap, Secretd.Nasazení aplikace v Kubernetes s využitím GitLab CI/CD pipeline (praktické cvičení – jednoduchá vícevrstvá aplikace)e.Správa a údržba aplikací – rolling updates, readiness/liveness probes, logy a monitoringf.Pokročilejší GitOps přístup – propojení GitLabu s nástroji pro správu aplikací"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení28 h0 hseminář0 h40 hkonzultace0 h23 hprojektová práce15 h15 hveřejná prezentace (ústní)3 h0 hpříprava na zkoušku42 h42 hpříprava na průběžné hodnocení10 h0 hpříprava na průběžný test5 h0 hpříprava prezentace5 h0 hzpracování projektů32 h32 hCelkem168 h168 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "V rámci udělení zápočtu je potřeba vypracovat a obhájit projekt nasazení a údržby informačního systému. Součástí projektu bude návrh a vytvoření katalogu služeb pro cloudové nasazení. Analýza bude obsahovat procesní model zpracovaný notací BPMN, popisující procesy spojené s nasazením, údržbou a rozvojem systému. V průběhu semestru budou studenti řešit různé situace a incidenty, které budou řešit pomocí navrženého BPMN modelu a analyzovat jejich úspěšnost, vše s podporou CASE nástroje Enterprise Architect. Projekt zpracují dvojice a odevzdají jeho písemnou podobu do odevzdávárny a v rámci cvičení projekt odprezentují. Závěrečná písemná zkouška obsahuje 8 teoretických a 2 praktické otázky, ke splnění minima je potřeba získat 35 bodů z celkových 60 bodů. V případě nejasného výsledku je možné doplnit ještě ústní zkoušku."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích5 %5 %Vypracování semestrální práce30 %30 %Prezentace nebo obhajoba5 %5 %Absolvování závěrečného testu60 %60 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:GÁLA, Libor; POUR, Jan; ŠEDIVÁ, Zuzana. 2015. Podniková informatika: počítačové aplikace v podnikové a mezipodnikové praxi. 3. vyd. Praha: Grada Publishing, 240 s. Management v informační společnosti. ISBN 978-80-247-5457-4.KANISOVÁ, Hana; MÜLLER, Miroslav. 2006. UML srozumitelně. 2. vyd. Brno: Computer Press, 176 s. ISBN 80-251-1083-4.VELTE, Anthony T.; VELTE, Toby J.; ELSENPETER, Robert C. 2011. Cloud Computing: praktický průvodce. 1. vyd. Brno: Computer Press, 344 s. ISBN 978-80-251-3333-0.RÁBOVÁ, Ivana; KOLOMAZNÍK, Jan. 2019. Správa a údržba IS. Brno: Mendelova univerzita v Brně, 236 s. ISBN 978-80-7509-637-1.Doporučená:KLIMEŠ, Cyril. 2011. Provozujte IT jinak: agilní a štíhlý provoz, podpora a údržba informačních systémů a IT služeb. 1. vyd. Praha: Grada, 288 s. Průvodce. ISBN 978-80-247-4137-6.BUCHALCEVOVÁ, Alena; STANOVSKÁ, Iva. 2013. Příklady modelů analýzy a návrhu aplikace v UML. Praha: Oeconomica, 197 s. ISBN 978-80-245-1922-7.RHOTON, John; HAUKIOJA, Risto. 2013. Cloud computing architected. S.l.: Recursive Press, 363 s. ISBN 978-0-9563556-1-4.ARLOW, Jim; NEUSTADT, Ila. 2007. UML 2 a unifikovaný proces vývoje aplikací. Praha: Computer Press, 568 s.SOMMERVILLE, Ian. 2016. Software Engineering - 10th Edition. England: Pearson Global Edition, 810 s. ISBN 978-1-292-09613-1."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "GÁLA, Libor; POUR, Jan; ŠEDIVÁ, Zuzana. 2015. Podniková informatika: počítačové aplikace v podnikové a mezipodnikové praxi. 3. vyd. Praha: Grada Publishing, 240 s. Management v informační společnosti. ISBN 978-80-247-5457-4.KANISOVÁ, Hana; MÜLLER, Miroslav. 2006. UML srozumitelně. 2. vyd. Brno: Computer Press, 176 s. ISBN 80-251-1083-4.VELTE, Anthony T.; VELTE, Toby J.; ELSENPETER, Robert C. 2011. Cloud Computing: praktický průvodce. 1. vyd. Brno: Computer Press, 344 s. ISBN 978-80-251-3333-0.RÁBOVÁ, Ivana; KOLOMAZNÍK, Jan. 2019. Správa a údržba IS. Brno: Mendelova univerzita v Brně, 236 s. ISBN 978-80-7509-637-1."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "KLIMEŠ, Cyril. 2011. Provozujte IT jinak: agilní a štíhlý provoz, podpora a údržba informačních systémů a IT služeb. 1. vyd. Praha: Grada, 288 s. Průvodce. ISBN 978-80-247-4137-6.BUCHALCEVOVÁ, Alena; STANOVSKÁ, Iva. 2013. Příklady modelů analýzy a návrhu aplikace v UML. Praha: Oeconomica, 197 s. ISBN 978-80-245-1922-7.RHOTON, John; HAUKIOJA, Risto. 2013. Cloud computing architected. S.l.: Recursive Press, 363 s. ISBN 978-0-9563556-1-4.ARLOW, Jim; NEUSTADT, Ila. 2007. UML 2 a unifikovaný proces vývoje aplikací. Praha: Computer Press, 568 s.SOMMERVILLE, Ian. 2016. Software Engineering - 10th Edition. England: Pearson Global Edition, 810 s. ISBN 978-1-292-09613-1."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-AII Administrace IS/ICT, prezenční forma, počáteční období ZS 2024/2025Program B-AII Administrace IS/ICT, kombinovaná forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-SUIS"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Správa a údržba IS"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Administration and Maintenance of IS"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course cannot be studied during foreign mobility."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Oldřich Trenz, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Ivana Rábová, Ph.D. (examiner, instructor, lecturer)doc. Ing. Oldřich Trenz, Ph.D. (supervisor)Mgr. David Vašíček (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Basic terms and definitions (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Information system, information technology, IT service"
+    },
+    {
+      "label": "b.",
+      "content": "Principles, trends, deployment strategies"
+    },
+    {
+      "label": "2.",
+      "content": "IS/ICT architecture (allowance 6/2)"
+    },
+    {
+      "label": "a.",
+      "content": "The importance of architecture for the implementation and administration of IS / ICT"
+    },
+    {
+      "label": "b.",
+      "content": "Approaches to the presentation of IS architecture"
+    },
+    {
+      "label": "c.",
+      "content": "Component architecture and SOA (service oriented architecture)"
+    },
+    {
+      "label": "d.",
+      "content": "Architecture of Web Application and MVC"
+    },
+    {
+      "label": "3.",
+      "content": "UML notation for IS modeling and BPMN notation for business process modeling (allowance 2/8)"
+    },
+    {
+      "label": "4.",
+      "content": "IS development cycle (allowance 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Life cycle development of IS - stages"
+    },
+    {
+      "label": "b.",
+      "content": "Rigorous and agile methodologies of IS development, methodological frameworks (SCRUM, RUP)"
+    },
+    {
+      "label": "c.",
+      "content": "Operation, Maintenance, and Development of IS"
+    },
+    {
+      "label": "5.",
+      "content": "Introduction to DevOps and Containerization (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "DevOps Principles – Development and Operations Collaboration, CI/CD, GitOps Approach"
+    },
+    {
+      "label": "b.",
+      "content": "GitLab as a Tool for Versioning, Code Management, and Process Automation"
+    },
+    {
+      "label": "c.",
+      "content": "Containerization – Difference from Virtualization, Concept of Image and Registry"
+    },
+    {
+      "label": "d.",
+      "content": "Basics of Working with Containers (Docker, Podman)"
+    },
+    {
+      "label": "e.",
+      "content": "Practical Examples of Building and Deploying a Simple Application Using GitLab C"
+    },
+    {
+      "label": "6.",
+      "content": "Orchestration and Application Management d. move table row in direction of arrow move table row in direction of arrow Deploying an Application in Kubernetes Using GitLab CI/CD Pipeline (Practical Exercise – Simple Multi-Tier Application)f. move table row in direction of arrow A More Advanced GitOps Approach – Connecting GitLab with Application Management Tools (allowance 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Orchestration Need – Scaling, Availability, Multi-Service Management"
+    },
+    {
+      "label": "b.",
+      "content": "Orchestration Need – Scaling, Availability, Multi-Service Management"
+    },
+    {
+      "label": "c.",
+      "content": "Kubernetes Architecture – Nodes, Pod, Service, Ingress, Persistent Storage"
+    },
+    {
+      "label": "d.",
+      "content": "Kubernetes Basic Objects – Deployment, Service, ConfigMap, Secret"
+    },
+    {
+      "label": "e.",
+      "content": "Application Management and Maintenance – Rolling Updates, Readiness/Liveness Probes, Logs, and Monitoring"
+    },
+    {
+      "label": "f.",
+      "content": "Advanced GitOps Approach – Connecting GitLab with Application Management Tools"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Správa a údržba IS"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Administration and Maintenance of IS"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course cannot be studied during foreign mobility."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Oldřich Trenz, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Ivana Rábová, Ph.D. (examiner, instructor, lecturer)doc. Ing. Oldřich Trenz, Ph.D. (supervisor)Mgr. David Vašíček (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityTuesday13.00-14.50Q15B-AIII. Rábová, D. VašíčekLectureEvery week40Tuesday15.00-16.50Q06B-AIII. Rábová, D. VašíčekSeminarEvery week20Tuesday17.00-18.50Q06B-AIII. Rábová, D. VašíčekSeminarEvery week20Saturday9.00-12.50Q06B-AIII. Rábová, D. VašíčekLectureOccasionally20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to acquire knowledge and general overview of the binding of informatics on the company's global strategy and knowledge related to basic principles of business information systems ERP. Students will deepthe knowledge of the IS architecture and life cycle IS and methodologies of IS development. The focus will be on the last stages of the lifecycle and on the administration, operation and maintenance of IS. Students will learn not only the methodology and notation of object approach to software application development, but they get acquainted with the latest technologies for the management and operation of information systems including cloud technologies, namely the basics of creating applications for cloud solutions that focus on deploying, reporting, and maintaining these applications. The lectures also include security policy, including practical examples."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Basic terms and definitions (allowance 2/2) a.Information system, information technology, IT serviceb.Principles, trends, deployment strategies2.IS/ICT architecture (allowance 6/2) a.The importance of architecture for the implementation and administration of IS / ICTb.Approaches to the presentation of IS architecturec.Component architecture and SOA (service oriented architecture)d.Architecture of Web Application and MVC3.UML notation for IS modeling and BPMN notation for business process modeling (allowance 2/8)4.IS development cycle (allowance 4/2) a.Life cycle development of IS - stagesb.Rigorous and agile methodologies of IS development, methodological frameworks (SCRUM, RUP)c.Operation, Maintenance, and Development of IS5.Introduction to DevOps and Containerization (allowance 6/6) a.DevOps Principles – Development and Operations Collaboration, CI/CD, GitOps Approachb.GitLab as a Tool for Versioning, Code Management, and Process Automationc.Containerization – Difference from Virtualization, Concept of Image and Registryd.Basics of Working with Containers (Docker, Podman)e.Practical Examples of Building and Deploying a Simple Application Using GitLab C6.Orchestration and Application Management d. move table row in direction of arrow move table row in direction of arrow Deploying an Application in Kubernetes Using GitLab CI/CD Pipeline (Practical Exercise – Simple Multi-Tier Application)f. move table row in direction of arrow A More Advanced GitOps Approach – Connecting GitLab with Application Management Tools (allowance 8/8) a.Orchestration Need – Scaling, Availability, Multi-Service Managementb.Orchestration Need – Scaling, Availability, Multi-Service Managementc.Kubernetes Architecture – Nodes, Pod, Service, Ingress, Persistent Storaged.Kubernetes Basic Objects – Deployment, Service, ConfigMap, Secrete.Application Management and Maintenance – Rolling Updates, Readiness/Liveness Probes, Logs, and Monitoringf.Advanced GitOps Approach – Connecting GitLab with Application Management Tools"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Information system, information technology, IT serviceb.Principles, trends, deployment strategies"
+    },
+    {
+      "label": "[section] Basic terms and definitions",
+      "content": "a.Information system, information technology, IT serviceb.Principles, trends, deployment strategies"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.The importance of architecture for the implementation and administration of IS / ICTb.Approaches to the presentation of IS architecturec.Component architecture and SOA (service oriented architecture)d.Architecture of Web Application and MVC"
+    },
+    {
+      "label": "[section] IS/ICT architecture",
+      "content": "a.The importance of architecture for the implementation and administration of IS / ICTb.Approaches to the presentation of IS architecturec.Component architecture and SOA (service oriented architecture)d.Architecture of Web Application and MVC"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.IS development cycle (allowance 4/2)"
+    },
+    {
+      "label": "[section] UML notation for IS modeling and BPMN notation for business process modeling",
+      "content": "4.IS development cycle (allowance 4/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Life cycle development of IS - stagesb.Rigorous and agile methodologies of IS development, methodological frameworks (SCRUM, RUP)c.Operation, Maintenance, and Development of IS"
+    },
+    {
+      "label": "[section] IS development cycle",
+      "content": "a.Life cycle development of IS - stagesb.Rigorous and agile methodologies of IS development, methodological frameworks (SCRUM, RUP)c.Operation, Maintenance, and Development of IS"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.DevOps Principles – Development and Operations Collaboration, CI/CD, GitOps Approachb.GitLab as a Tool for Versioning, Code Management, and Process Automationc.Containerization – Difference from Virtualization, Concept of Image and Registryd.Basics of Working with Containers (Docker, Podman)e.Practical Examples of Building and Deploying a Simple Application Using GitLab C"
+    },
+    {
+      "label": "[section] Introduction to DevOps and Containerization",
+      "content": "a.DevOps Principles – Development and Operations Collaboration, CI/CD, GitOps Approachb.GitLab as a Tool for Versioning, Code Management, and Process Automationc.Containerization – Difference from Virtualization, Concept of Image and Registryd.Basics of Working with Containers (Docker, Podman)e.Practical Examples of Building and Deploying a Simple Application Using GitLab C"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Orchestration Need – Scaling, Availability, Multi-Service Managementb.Orchestration Need – Scaling, Availability, Multi-Service Managementc.Kubernetes Architecture – Nodes, Pod, Service, Ingress, Persistent Storaged.Kubernetes Basic Objects – Deployment, Service, ConfigMap, Secrete.Application Management and Maintenance – Rolling Updates, Readiness/Liveness Probes, Logs, and Monitoringf.Advanced GitOps Approach – Connecting GitLab with Application Management Tools"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice28 h0 hseminar0 h40 hconsultation0 h23 hproject work15 h15 hpublic presentation (oral)3 h0 hpreparation for exam42 h42 hpreparation for regular assessment10 h0 hpreparation for regular testing5 h0 hpreparation of presentation5 h0 helaboration and execution of projects32 h32 hTotal168 h168 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "As part of the credit, it is necessary to develop and defend the project of deployment and maintenance of the information system. The project will include the design and creation of a catalog of services for cloud deployment. The analysis will include a process model processed by BPMN notation, describing the processes associated with the deployment, maintenance and development of the system. During the semester, students will deal with various situations and incidents, which they will solve using the proposed BPMN model and analyze their success, all with the support of CASE Enterprise Architect. The project will be prepared by the couple and they will submit its written form to the delivery room and present the project as part of the exercise. Final written exam contains 8 theoretical and 2 practical questions, to meet the minimum it is necessary to get 35 points from the total 60 points. If the result is unclear, an oral exam may be added."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation5 %5 %Term paper30 %30 %Presentation or defence5 %5 %Final test60 %60 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:GÁLA, Libor; POUR, Jan; ŠEDIVÁ, Zuzana. 2015. Podniková informatika: počítačové aplikace v podnikové a mezipodnikové praxi. 3rd ed. Praha: Grada Publishing, 240 p. Management v informační společnosti. ISBN 978-80-247-5457-4.KANISOVÁ, Hana; MÜLLER, Miroslav. 2006. UML srozumitelně. 2nd ed. Brno: Computer Press, 176 p. ISBN 80-251-1083-4.VELTE, Anthony T.; VELTE, Toby J.; ELSENPETER, Robert C. 2011. Cloud Computing: praktický průvodce. 1st ed. Brno: Computer Press, 344 p. ISBN 978-80-251-3333-0.RÁBOVÁ, Ivana; KOLOMAZNÍK, Jan. 2019. Správa a údržba IS. Brno: Mendelova univerzita v Brně, 236 p. ISBN 978-80-7509-637-1.Recommended:KLIMEŠ, Cyril. 2011. Provozujte IT jinak: agilní a štíhlý provoz, podpora a údržba informačních systémů a IT služeb. 1st ed. Praha: Grada, 288 p. Průvodce. ISBN 978-80-247-4137-6.BUCHALCEVOVÁ, Alena; STANOVSKÁ, Iva. 2013. Příklady modelů analýzy a návrhu aplikace v UML. Praha: Oeconomica, 197 p. ISBN 978-80-245-1922-7.RHOTON, John; HAUKIOJA, Risto. 2013. Cloud computing architected. S.l.: Recursive Press, 363 p. ISBN 978-0-9563556-1-4.ARLOW, Jim; NEUSTADT, Ila. 2007. UML 2 a unifikovaný proces vývoje aplikací. Praha: Computer Press, 568 p.SOMMERVILLE, Ian. 2016. Software Engineering - 10th Edition. England: Pearson Global Edition, 810 p. ISBN 978-1-292-09613-1."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "GÁLA, Libor; POUR, Jan; ŠEDIVÁ, Zuzana. 2015. Podniková informatika: počítačové aplikace v podnikové a mezipodnikové praxi. 3rd ed. Praha: Grada Publishing, 240 p. Management v informační společnosti. ISBN 978-80-247-5457-4.KANISOVÁ, Hana; MÜLLER, Miroslav. 2006. UML srozumitelně. 2nd ed. Brno: Computer Press, 176 p. ISBN 80-251-1083-4.VELTE, Anthony T.; VELTE, Toby J.; ELSENPETER, Robert C. 2011. Cloud Computing: praktický průvodce. 1st ed. Brno: Computer Press, 344 p. ISBN 978-80-251-3333-0.RÁBOVÁ, Ivana; KOLOMAZNÍK, Jan. 2019. Správa a údržba IS. Brno: Mendelova univerzita v Brně, 236 p. ISBN 978-80-7509-637-1."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "KLIMEŠ, Cyril. 2011. Provozujte IT jinak: agilní a štíhlý provoz, podpora a údržba informačních systémů a IT služeb. 1st ed. Praha: Grada, 288 p. Průvodce. ISBN 978-80-247-4137-6.BUCHALCEVOVÁ, Alena; STANOVSKÁ, Iva. 2013. Příklady modelů analýzy a návrhu aplikace v UML. Praha: Oeconomica, 197 p. ISBN 978-80-245-1922-7.RHOTON, John; HAUKIOJA, Risto. 2013. Cloud computing architected. S.l.: Recursive Press, 363 p. ISBN 978-0-9563556-1-4.ARLOW, Jim; NEUSTADT, Ila. 2007. UML 2 a unifikovaný proces vývoje aplikací. Praha: Computer Press, 568 p.SOMMERVILLE, Ian. 2016. Software Engineering - 10th Edition. England: Pearson Global Edition, 810 p. ISBN 978-1-292-09613-1."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-AII Administration IS/ICT, full-time form, initial period WS 2024/2025Programme B-AII Administration IS/ICT, part-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:45:30",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

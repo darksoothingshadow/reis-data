@@ -1,0 +1,761 @@
+{
+  "courseCode": "EBC-VA1",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-VA1"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Vývoj aplikací pro Android 1"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Application Development for Android"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět nelze studovat studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Jaromír Landa, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jaromír Landa, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška a Základy objektového návrhu"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do jazyka Kotlin (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Třídy, proměnné, objekty, dědičnost"
+    },
+    {
+      "label": "b.",
+      "content": "Null safety"
+    },
+    {
+      "label": "c.",
+      "content": "Cykly, if, when,…"
+    },
+    {
+      "label": "d.",
+      "content": "Změny oproti Javě"
+    },
+    {
+      "label": "2.",
+      "content": "Architektura Android aplikací (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Android – historie, verze, architektura."
+    },
+    {
+      "label": "b.",
+      "content": "Android studio – vývojové prostředí, spuštění a ladění aplikace, emulátor"
+    },
+    {
+      "label": "c.",
+      "content": "Material Design"
+    },
+    {
+      "label": "3.",
+      "content": "Uživatelské rozhraní (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Aktivita jako základ aplikace, životní cyklus"
+    },
+    {
+      "label": "b.",
+      "content": "Komunikace mezi aktivitami (využití třídy Intent)"
+    },
+    {
+      "label": "c.",
+      "content": "Třída View"
+    },
+    {
+      "label": "d.",
+      "content": "Jetpack Compose"
+    },
+    {
+      "label": "e.",
+      "content": "Navigation component"
+    },
+    {
+      "label": "f.",
+      "content": "Tvorba seznamů"
+    },
+    {
+      "label": "g.",
+      "content": "Tvorba vlastních designových prvků"
+    },
+    {
+      "label": "h.",
+      "content": "Styly"
+    },
+    {
+      "label": "4.",
+      "content": "Persistence dat (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Uložení v průběhu běhu programu – proměnné typu static"
+    },
+    {
+      "label": "b.",
+      "content": "Využití třídy DataStore pro uložení dat"
+    },
+    {
+      "label": "c.",
+      "content": "SQLite databáze – tvorba, dotazy, onCreate, onUpgrade"
+    },
+    {
+      "label": "d.",
+      "content": "Použití knihovny Room pro uložení dat"
+    },
+    {
+      "label": "5.",
+      "content": "Práce s mapou (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Inicializace mapy pomocí API klíče"
+    },
+    {
+      "label": "b.",
+      "content": "Práce s virtuální kamerou mapy"
+    },
+    {
+      "label": "c.",
+      "content": "Přidávání objektů do mapy (body, linie, polygony)"
+    },
+    {
+      "label": "6.",
+      "content": "Pokročilá tvorba aplikace (dotace 4/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Efektivní načítání obrázků"
+    },
+    {
+      "label": "b.",
+      "content": "Práce na pozadí (Coroutines)"
+    },
+    {
+      "label": "c.",
+      "content": "Lokalizace do různých jazyků"
+    },
+    {
+      "label": "d.",
+      "content": "Nasazení aplikace do obchodu Google Play"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "10 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "50 %"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "10 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "30 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Vývoj aplikací pro Android 1"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Application Development for Android"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět nelze studovat studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Jaromír Landa, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jaromír Landa, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a Základy objektového návrhu"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaÚterý13.00-14.50Q16B-OIJ. LandaPřednáškaSudý týden80Čtvrtek9.00-10.50Q12B-OIJ. LandaCvičeníKaždý týden19Čtvrtek11.00-12.50Q12B-OIJ. LandaCvičeníKaždý týden19Čtvrtek13.00-14.50Q12B-OIJ. LandaCvičeníKaždý týden19"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět je zaměřen na seznámení studenta s vývojem mobilních aplikací pro operační systém Android. Na začátku je student seznámen s teoretickými základy vývoje aplikací pro OS Android, od architektury OS, až po základní konstrukce jazyka Kotlin. Následně se pak student naučí vytvářet obrazovky, ukládat data, tvořit seznamy nebo nasadit aplikaci do obchodu Google Play."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do jazyka Kotlin (dotace 2/4) a.Třídy, proměnné, objekty, dědičnostb.Null safetyc.Cykly, if, when,…d.Změny oproti Javě2.Architektura Android aplikací (dotace 2/2) a.Android – historie, verze, architektura.b.Android studio – vývojové prostředí, spuštění a ladění aplikace, emulátorc.Material Design3.Uživatelské rozhraní (dotace 2/6) a.Aktivita jako základ aplikace, životní cyklusb.Komunikace mezi aktivitami (využití třídy Intent)c.Třída Viewd.Jetpack Composee.Navigation componentf.Tvorba seznamůg.Tvorba vlastních designových prvkůh.Styly4.Persistence dat (dotace 2/4) a.Uložení v průběhu běhu programu – proměnné typu staticb.Využití třídy DataStore pro uložení datc.SQLite databáze – tvorba, dotazy, onCreate, onUpgraded.Použití knihovny Room pro uložení dat5.Práce s mapou (dotace 0/2) a.Inicializace mapy pomocí API klíčeb.Práce s virtuální kamerou mapyc.Přidávání objektů do mapy (body, linie, polygony)6.Pokročilá tvorba aplikace (dotace 4/8) a.Efektivní načítání obrázkůb.Práce na pozadí (Coroutines)c.Lokalizace do různých jazykůd.Nasazení aplikace do obchodu Google Play"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Třídy, proměnné, objekty, dědičnostb.Null safetyc.Cykly, if, when,…d.Změny oproti Javě"
+    },
+    {
+      "label": "[section] Úvod do jazyka Kotlin",
+      "content": "a.Třídy, proměnné, objekty, dědičnostb.Null safetyc.Cykly, if, when,…d.Změny oproti Javě"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Android – historie, verze, architektura.b.Android studio – vývojové prostředí, spuštění a ladění aplikace, emulátorc.Material Design"
+    },
+    {
+      "label": "[section] Architektura Android aplikací",
+      "content": "a.Android – historie, verze, architektura.b.Android studio – vývojové prostředí, spuštění a ladění aplikace, emulátorc.Material Design"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Aktivita jako základ aplikace, životní cyklusb.Komunikace mezi aktivitami (využití třídy Intent)c.Třída Viewd.Jetpack Composee.Navigation componentf.Tvorba seznamůg.Tvorba vlastních designových prvkůh.Styly"
+    },
+    {
+      "label": "[section] Uživatelské rozhraní",
+      "content": "a.Aktivita jako základ aplikace, životní cyklusb.Komunikace mezi aktivitami (využití třídy Intent)c.Třída Viewd.Jetpack Composee.Navigation componentf.Tvorba seznamůg.Tvorba vlastních designových prvkůh.Styly"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Uložení v průběhu běhu programu – proměnné typu staticb.Využití třídy DataStore pro uložení datc.SQLite databáze – tvorba, dotazy, onCreate, onUpgraded.Použití knihovny Room pro uložení dat"
+    },
+    {
+      "label": "[section] Persistence dat",
+      "content": "a.Uložení v průběhu běhu programu – proměnné typu staticb.Využití třídy DataStore pro uložení datc.SQLite databáze – tvorba, dotazy, onCreate, onUpgraded.Použití knihovny Room pro uložení dat"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Inicializace mapy pomocí API klíčeb.Práce s virtuální kamerou mapyc.Přidávání objektů do mapy (body, linie, polygony)"
+    },
+    {
+      "label": "[section] Práce s mapou",
+      "content": "a.Inicializace mapy pomocí API klíčeb.Práce s virtuální kamerou mapyc.Přidávání objektů do mapy (body, linie, polygony)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Efektivní načítání obrázkůb.Práce na pozadí (Coroutines)c.Lokalizace do různých jazykůd.Nasazení aplikace do obchodu Google Play"
+    },
+    {
+      "label": "[section] Pokročilá tvorba aplikace",
+      "content": "a.Efektivní načítání obrázkůb.Práce na pozadí (Coroutines)c.Lokalizace do různých jazykůd.Nasazení aplikace do obchodu Google Play"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška12 hcvičení24 hpříprava na zkoušku20 hpříprava na průběžný test10 hzpracování projektů74 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "V průběhu semestru může student získat až 100 bodů za různé aktivity. Pro získání známky E je nezbytné získat alespoň 60 bodů. 20 bodů lze získat za průběžné testy z vytváření aplikací a samostatné úkoly, 50 bodů za projekt a 30 bodů lze získat za semestrální zkoušku. V rámci projektů studenti vytvoří vlastní mobilní aplikaci pro operační systém Android. Pro úspěšné získání zkoušky je nutné, aby student získal z projektu minimálně 25 bodů, ze zkoušky minimálně 15 bodů a minimálně 10 bodů z průběžných úkolů a testů. Semestrální zkouška je praktická, jedná se o implementaci jednoduché funkční mobilní aplikace a lze při ní používat libovolné zdroje (knihy, Internet aj.). Při testu a zkoušce je zakázáno jakoukoliv formou komunikovat s jinými lidmi. Škála hodnocení: méně než 60 bodů F, 60 bodů a více E, 68 bodů a více D, 75 bodů a více C, 83 bodů a více B a 90 bodů a více A."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích10 %Vypracování semestrální práce50 %Absolvování průběžného testu (testů)10 %Absolvování závěrečného testu30 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:TUTORIAL TEAM, Raywenderlich; SULLIVAN, Alex. 2019. Reactive Programming with Kotlin. USA: Razeware LLC, 446 s. ISBN 978-1-94-287879-7.RAYWENDERLICHCOM, Team; BAYLISS, Darryl; BLANKENSHIP, Tom. 2019. Android Apprentice: Beginning Android Development with Kotlin. Virginia: Razeware, 689 s. ISBN 978-1-94-287877-3.Doporučená:Kolektiv autorů Build anything on Android [online]. Dostupné z: https://developer.android.com/Kolektiv autorů: Kotlin. [online]. Dostupné z: https://kotlinlang.org/"
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "TUTORIAL TEAM, Raywenderlich; SULLIVAN, Alex. 2019. Reactive Programming with Kotlin. USA: Razeware LLC, 446 s. ISBN 978-1-94-287879-7.RAYWENDERLICHCOM, Team; BAYLISS, Darryl; BLANKENSHIP, Tom. 2019. Android Apprentice: Beginning Android Development with Kotlin. Virginia: Razeware, 689 s. ISBN 978-1-94-287877-3."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "Kolektiv autorů Build anything on Android [online]. Dostupné z: https://developer.android.com/Kolektiv autorů: Kotlin. [online]. Dostupné z: https://kotlinlang.org/"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Zaměření ZBOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-VA1"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Vývoj aplikací pro Android 1"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Application Development for Android"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The subject cannot be attended during foreign trip."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Jaromír Landa, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jaromír Landa, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam and Basics of Object Oriented Design"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to the Kotlin language (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Classes, variables, objects, inheritance"
+    },
+    {
+      "label": "b.",
+      "content": "Null safety"
+    },
+    {
+      "label": "c.",
+      "content": "Cycles, if, when,…"
+    },
+    {
+      "label": "d.",
+      "content": "Changes from Java"
+    },
+    {
+      "label": "2.",
+      "content": "Android application architecture (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Android - history, version, architecture."
+    },
+    {
+      "label": "b.",
+      "content": "Android studio - development environment, application launching and debugging, emulator"
+    },
+    {
+      "label": "c.",
+      "content": "Material Design"
+    },
+    {
+      "label": "3.",
+      "content": "User interface (allowance 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Activity as a basis for application, life cycle"
+    },
+    {
+      "label": "b.",
+      "content": "Communication between activities (using the Intent class)"
+    },
+    {
+      "label": "c.",
+      "content": "View class"
+    },
+    {
+      "label": "d.",
+      "content": "Fragments"
+    },
+    {
+      "label": "e.",
+      "content": "Navigation component"
+    },
+    {
+      "label": "f.",
+      "content": "Lists"
+    },
+    {
+      "label": "g.",
+      "content": "Creating your own design elements"
+    },
+    {
+      "label": "h.",
+      "content": "Styles"
+    },
+    {
+      "label": "4.",
+      "content": "Data persistence (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Save during program run - companion object"
+    },
+    {
+      "label": "b.",
+      "content": "Use of the DataStore class to store data"
+    },
+    {
+      "label": "c.",
+      "content": "SQLite database - creation, queries, onCreate, onUpgrade"
+    },
+    {
+      "label": "d.",
+      "content": "Použití knihovny Room pro uložení dat"
+    },
+    {
+      "label": "5.",
+      "content": "Working with the map (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Map initialization using API key"
+    },
+    {
+      "label": "b.",
+      "content": "Working with a virtual map camera"
+    },
+    {
+      "label": "c.",
+      "content": "Adding objects to the map (points, lines, polygons)"
+    },
+    {
+      "label": "6.",
+      "content": "Advanced application creation (allowance 4/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Efficient image loading"
+    },
+    {
+      "label": "b.",
+      "content": "Background work (Coroutines)"
+    },
+    {
+      "label": "c.",
+      "content": "Localization"
+    },
+    {
+      "label": "d.",
+      "content": "Deploying the app to the Google Play store"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "10 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "50 %"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "10 %"
+    },
+    {
+      "label": "Final test",
+      "content": "30 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Vývoj aplikací pro Android 1"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Application Development for Android"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The subject cannot be attended during foreign trip."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Jaromír Landa, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jaromír Landa, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam and Basics of Object Oriented Design"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityTuesday13.00-14.50Q16B-OIJ. LandaLectureEven week80Thursday9.00-10.50Q12B-OIJ. LandaSeminarEvery week19Thursday11.00-12.50Q12B-OIJ. LandaSeminarEvery week19Thursday13.00-14.50Q12B-OIJ. LandaSeminarEvery week19"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The course is aimed at acquainting students with the development of mobile applications for the Android operating system. At the beginning, the student is acquainted with the theoretical foundations of application development for the Android OS, from the OS architecture to the basic construction of the Kotlin language. Subsequently, the student will learn to create activities, save data, create lists or deploy an application to the Google Play store."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to the Kotlin language (allowance 2/4) a.Classes, variables, objects, inheritanceb.Null safetyc.Cycles, if, when,…d.Changes from Java2.Android application architecture (allowance 2/2) a.Android - history, version, architecture.b.Android studio - development environment, application launching and debugging, emulatorc.Material Design3.User interface (allowance 2/6) a.Activity as a basis for application, life cycleb.Communication between activities (using the Intent class)c.View classd.Fragmentse.Navigation componentf.Listsg.Creating your own design elementsh.Styles4.Data persistence (allowance 2/4) a.Save during program run - companion objectb.Use of the DataStore class to store datac.SQLite database - creation, queries, onCreate, onUpgraded.Použití knihovny Room pro uložení dat5.Working with the map (allowance 0/2) a.Map initialization using API keyb.Working with a virtual map camerac.Adding objects to the map (points, lines, polygons)6.Advanced application creation (allowance 4/8) a.Efficient image loadingb.Background work (Coroutines)c.Localizationd.Deploying the app to the Google Play store"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Classes, variables, objects, inheritanceb.Null safetyc.Cycles, if, when,…d.Changes from Java"
+    },
+    {
+      "label": "[section] Introduction to the Kotlin language",
+      "content": "a.Classes, variables, objects, inheritanceb.Null safetyc.Cycles, if, when,…d.Changes from Java"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Android - history, version, architecture.b.Android studio - development environment, application launching and debugging, emulatorc.Material Design"
+    },
+    {
+      "label": "[section] Android application architecture",
+      "content": "a.Android - history, version, architecture.b.Android studio - development environment, application launching and debugging, emulatorc.Material Design"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Activity as a basis for application, life cycleb.Communication between activities (using the Intent class)c.View classd.Fragmentse.Navigation componentf.Listsg.Creating your own design elementsh.Styles"
+    },
+    {
+      "label": "[section] User interface",
+      "content": "a.Activity as a basis for application, life cycleb.Communication between activities (using the Intent class)c.View classd.Fragmentse.Navigation componentf.Listsg.Creating your own design elementsh.Styles"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Save during program run - companion objectb.Use of the DataStore class to store datac.SQLite database - creation, queries, onCreate, onUpgraded.Použití knihovny Room pro uložení dat"
+    },
+    {
+      "label": "[section] Data persistence",
+      "content": "a.Save during program run - companion objectb.Use of the DataStore class to store datac.SQLite database - creation, queries, onCreate, onUpgraded.Použití knihovny Room pro uložení dat"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Map initialization using API keyb.Working with a virtual map camerac.Adding objects to the map (points, lines, polygons)"
+    },
+    {
+      "label": "[section] Working with the map",
+      "content": "a.Map initialization using API keyb.Working with a virtual map camerac.Adding objects to the map (points, lines, polygons)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Efficient image loadingb.Background work (Coroutines)c.Localizationd.Deploying the app to the Google Play store"
+    },
+    {
+      "label": "[section] Advanced application creation",
+      "content": "a.Efficient image loadingb.Background work (Coroutines)c.Localizationd.Deploying the app to the Google Play store"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture12 hpractice24 hpreparation for exam20 hpreparation for regular testing10 helaboration and execution of projects74 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "During the semester, the student can get up to 100 points for various activities. To obtain the grade E, it is necessary to obtain at least 60 points. 20 points can be obtained for continuous tests of creating applications and individual tasks, 50 points for a project and 30 points can be obtained for a final exam. As a project, students will create their own mobile application for the Android operating system. To successfully pass the exam, it is necessary for the student to obtain at least 25 points from the project, at least 15 points from the exam and at least 10 points from continuous tests of creating applications and individual tasks. The semester exam is practical, it is an implementation of a simple functional mobile application and students can use any resources (books, Internet, etc.). It is forbidden to communicate with other students in any form during the test and exam. Points for grade: less than 60 points F, 60 points and more E, 68 points and more D, 75 points and more C, 83 points and more B a 90 points and more A."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation10 %Term paper50 %Mid-term test(s)10 %Final test30 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:TUTORIAL TEAM, Raywenderlich; SULLIVAN, Alex. 2019. Reactive Programming with Kotlin. USA: Razeware LLC, 446 p. ISBN 978-1-94-287879-7.RAYWENDERLICHCOM, Team; BAYLISS, Darryl; BLANKENSHIP, Tom. 2019. Android Apprentice: Beginning Android Development with Kotlin. Virginia: Razeware, 689 p. ISBN 978-1-94-287877-3.Recommended:Kolektiv autorů Build anything on Android [online]. Dostupné z: https://developer.android.com/Kolektiv autorů: Kotlin. [online]. Dostupné z: https://kotlinlang.org/"
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "TUTORIAL TEAM, Raywenderlich; SULLIVAN, Alex. 2019. Reactive Programming with Kotlin. USA: Razeware LLC, 446 p. ISBN 978-1-94-287879-7.RAYWENDERLICHCOM, Team; BAYLISS, Darryl; BLANKENSHIP, Tom. 2019. Android Apprentice: Beginning Android Development with Kotlin. Virginia: Razeware, 689 p. ISBN 978-1-94-287877-3."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "Kolektiv autorů Build anything on Android [online]. Dostupné z: https://developer.android.com/Kolektiv autorů: Kotlin. [online]. Dostupné z: https://kotlinlang.org/"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Scope ZBOI Scope for Open Informatics, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:46:21",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

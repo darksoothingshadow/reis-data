@@ -1,0 +1,901 @@
+{
+  "courseCode": "GEN",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "GEN"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Genetika obecná"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Genetics"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. RNDr. Aleš Knoll, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav morfologie, fyziologie a genetiky zvířat (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "prof. RNDr. Aleš Knoll, Ph.D. (cvičící, garant, přednášející, zkoušející)prof. Ing. Tomáš Urban, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Tomáš Vyhnánek, Ph.D. (cvičící, přednášející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Genetika a její význam (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "J. G. Mendel - genetika - aplikace"
+    },
+    {
+      "label": "b.",
+      "content": "Watson a Crick - objev molekuly DNA - aplikace"
+    },
+    {
+      "label": "c.",
+      "content": "sekvenování genomů (genomika)"
+    },
+    {
+      "label": "d.",
+      "content": "význam studia genetiky v biotechnologiích"
+    },
+    {
+      "label": "e.",
+      "content": "význam pohlavního rozmnožování: meióza - brána do genetiky"
+    },
+    {
+      "label": "2.",
+      "content": "Geny a jejich funkce (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "DNA - nositelka dědičnosti"
+    },
+    {
+      "label": "b.",
+      "content": "replikace a rekombinace (dědičnost)"
+    },
+    {
+      "label": "c.",
+      "content": "anatomie a funkce genu"
+    },
+    {
+      "label": "d.",
+      "content": "projev genu ve fenotypu (exprese)"
+    },
+    {
+      "label": "3.",
+      "content": "Proměnlivost, rozmanitost a jedinečnost genetické informace (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "podstata proměnlivosti na úrovni fenotypu"
+    },
+    {
+      "label": "b.",
+      "content": "mutace, polymorfizmus"
+    },
+    {
+      "label": "c.",
+      "content": "molekulárně genetické markery"
+    },
+    {
+      "label": "4.",
+      "content": "Formy dědičnosti v klasické genetice (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "gen - alela"
+    },
+    {
+      "label": "b.",
+      "content": "principy Mendelových pravidel dědičnosti, vzory dědičnosti"
+    },
+    {
+      "label": "c.",
+      "content": "rozšíření Mendelových pravidel: komplexnost vztahů genotyp-fenotyp"
+    },
+    {
+      "label": "5.",
+      "content": "Interakce mezi alelami a geny (dotace 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Chromozomové základy dědičnosti (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "chromozom - gen -- alela, cytogenetika"
+    },
+    {
+      "label": "b.",
+      "content": "chromozomová teorie dědičnosti, změny v počtu a struktuře chromozomů"
+    },
+    {
+      "label": "7.",
+      "content": "Vazba genů (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "vazbová skupina, genetická vzdálenost"
+    },
+    {
+      "label": "b.",
+      "content": "rekombinace a mapování genů na chromozomech"
+    },
+    {
+      "label": "8.",
+      "content": "Genetická determinace pohlaví (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "pohlavní chromozomy a typy determinace pohlaví"
+    },
+    {
+      "label": "b.",
+      "content": "kompenzace dávky genů na X"
+    },
+    {
+      "label": "9.",
+      "content": "Genetická analýza variability v populacích (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "hodnocení genetické variability v populacích - frekvence alel a genotypů"
+    },
+    {
+      "label": "b.",
+      "content": "Hardyho-Weinbergova genetická rovnováha"
+    },
+    {
+      "label": "c.",
+      "content": "genetický zisk vs. generační interval"
+    },
+    {
+      "label": "10.",
+      "content": "Dědičnost kvantitativních znaků (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "charakterizace kvantitativních (komplexních) znaků"
+    },
+    {
+      "label": "b.",
+      "content": "kvalitativní vs. kvantitativní znaky (monogenní vs. polygenní) - rozklad fenotypové variance a heritabilita"
+    },
+    {
+      "label": "11.",
+      "content": "Základy genetiky zdraví (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "genetika a onemocnění člověka"
+    },
+    {
+      "label": "b.",
+      "content": "genetické aspekty rakoviny"
+    },
+    {
+      "label": "c.",
+      "content": "genetika patogenů - infekčních onemocnění (chřipka, HIV)"
+    },
+    {
+      "label": "12.",
+      "content": "Evoluční genetika (dotace 2/2)"
+    },
+    {
+      "label": "13.",
+      "content": "Prezentace nadstandardní činnosti studentů (dotace 4/4)"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "100 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021, LS 2019/2020 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Genetika obecná"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Genetics"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. RNDr. Aleš Knoll, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav morfologie, fyziologie a genetiky zvířat (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: prof. RNDr. Aleš Knoll, Ph.D. (cvičící, garant, přednášející, zkoušející)prof. Ing. Tomáš Urban, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Tomáš Vyhnánek, Ph.D. (cvičící, přednášející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí11.00-12.50A31A. Knoll, T. Urban, T. VyhnánekPřednáškaKaždý týden60Čtvrtek13.00-14.50A32aA. Knoll, T. Urban, T. VyhnánekCvičeníKaždý týden25Čtvrtek15.00-16.50A32aA. Knoll, T. Urban, T. VyhnánekCvičeníKaždý týden25"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "1) Dosáhnout osvojení základních poznatků a pochopení principů a procesů genetiky, genetické variability a funkcí genů, 2) získat znalosti a dovednosti základních metod genetického výzkumu a jejich aplikací, 3) získat intelektuální dovednosti podporující implementaci moderní genetiky a genomiky do inovací biotechnologických postupů 4)podpořit rozvoj samostatné tvůrčí práce."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Genetika a její význam (dotace 2/2) a.J. G. Mendel - genetika - aplikaceb.Watson a Crick - objev molekuly DNA - aplikacec.sekvenování genomů (genomika)d.význam studia genetiky v biotechnologiíche.význam pohlavního rozmnožování: meióza - brána do genetiky2.Geny a jejich funkce (dotace 2/2) a.DNA - nositelka dědičnostib.replikace a rekombinace (dědičnost)c.anatomie a funkce genud.projev genu ve fenotypu (exprese)3.Proměnlivost, rozmanitost a jedinečnost genetické informace (dotace 2/2) a.podstata proměnlivosti na úrovni fenotypub.mutace, polymorfizmusc.molekulárně genetické markery4.Formy dědičnosti v klasické genetice (dotace 2/2) a.gen - alelab.principy Mendelových pravidel dědičnosti, vzory dědičnostic.rozšíření Mendelových pravidel: komplexnost vztahů genotyp-fenotyp5.Interakce mezi alelami a geny (dotace 2/2)6.Chromozomové základy dědičnosti (dotace 2/2) a.chromozom - gen -- alela, cytogenetikab.chromozomová teorie dědičnosti, změny v počtu a struktuře chromozomů7.Vazba genů (dotace 2/2) a.vazbová skupina, genetická vzdálenostb.rekombinace a mapování genů na chromozomech8.Genetická determinace pohlaví (dotace 2/2) a.pohlavní chromozomy a typy determinace pohlavíb.kompenzace dávky genů na X9.Genetická analýza variability v populacích (dotace 2/2) a.hodnocení genetické variability v populacích - frekvence alel a genotypůb.Hardyho-Weinbergova genetická rovnováhac.genetický zisk vs. generační interval10.Dědičnost kvantitativních znaků (dotace 2/2) a.charakterizace kvantitativních (komplexních) znakůb.kvalitativní vs. kvantitativní znaky (monogenní vs. polygenní) - rozklad fenotypové variance a heritabilita11.Základy genetiky zdraví (dotace 2/2) a.genetika a onemocnění člověkab.genetické aspekty rakovinyc.genetika patogenů - infekčních onemocnění (chřipka, HIV)12.Evoluční genetika (dotace 2/2)13.Prezentace nadstandardní činnosti studentů (dotace 4/4)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.J. G. Mendel - genetika - aplikaceb.Watson a Crick - objev molekuly DNA - aplikacec.sekvenování genomů (genomika)d.význam studia genetiky v biotechnologiíche.význam pohlavního rozmnožování: meióza - brána do genetiky"
+    },
+    {
+      "label": "[section] Genetika a její význam",
+      "content": "a.J. G. Mendel - genetika - aplikaceb.Watson a Crick - objev molekuly DNA - aplikacec.sekvenování genomů (genomika)d.význam studia genetiky v biotechnologiíche.význam pohlavního rozmnožování: meióza - brána do genetiky"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.DNA - nositelka dědičnostib.replikace a rekombinace (dědičnost)c.anatomie a funkce genud.projev genu ve fenotypu (exprese)"
+    },
+    {
+      "label": "[section] Geny a jejich funkce",
+      "content": "a.DNA - nositelka dědičnostib.replikace a rekombinace (dědičnost)c.anatomie a funkce genud.projev genu ve fenotypu (exprese)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.podstata proměnlivosti na úrovni fenotypub.mutace, polymorfizmusc.molekulárně genetické markery"
+    },
+    {
+      "label": "[section] Proměnlivost, rozmanitost a jedinečnost genetické informace",
+      "content": "a.podstata proměnlivosti na úrovni fenotypub.mutace, polymorfizmusc.molekulárně genetické markery"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.gen - alelab.principy Mendelových pravidel dědičnosti, vzory dědičnostic.rozšíření Mendelových pravidel: komplexnost vztahů genotyp-fenotyp"
+    },
+    {
+      "label": "[section] Formy dědičnosti v klasické genetice",
+      "content": "a.gen - alelab.principy Mendelových pravidel dědičnosti, vzory dědičnostic.rozšíření Mendelových pravidel: komplexnost vztahů genotyp-fenotyp"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Chromozomové základy dědičnosti (dotace 2/2)"
+    },
+    {
+      "label": "[section] Interakce mezi alelami a geny",
+      "content": "6.Chromozomové základy dědičnosti (dotace 2/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.chromozom - gen -- alela, cytogenetikab.chromozomová teorie dědičnosti, změny v počtu a struktuře chromozomů"
+    },
+    {
+      "label": "[section] Chromozomové základy dědičnosti",
+      "content": "a.chromozom - gen -- alela, cytogenetikab.chromozomová teorie dědičnosti, změny v počtu a struktuře chromozomů"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.vazbová skupina, genetická vzdálenostb.rekombinace a mapování genů na chromozomech"
+    },
+    {
+      "label": "[section] Vazba genů",
+      "content": "a.vazbová skupina, genetická vzdálenostb.rekombinace a mapování genů na chromozomech"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.pohlavní chromozomy a typy determinace pohlavíb.kompenzace dávky genů na X"
+    },
+    {
+      "label": "[section] Genetická determinace pohlaví",
+      "content": "a.pohlavní chromozomy a typy determinace pohlavíb.kompenzace dávky genů na X"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.hodnocení genetické variability v populacích - frekvence alel a genotypůb.Hardyho-Weinbergova genetická rovnováhac.genetický zisk vs. generační interval"
+    },
+    {
+      "label": "[section] Genetická analýza variability v populacích",
+      "content": "a.hodnocení genetické variability v populacích - frekvence alel a genotypůb.Hardyho-Weinbergova genetická rovnováhac.genetický zisk vs. generační interval"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.charakterizace kvantitativních (komplexních) znakůb.kvalitativní vs. kvantitativní znaky (monogenní vs. polygenní) - rozklad fenotypové variance a heritabilita"
+    },
+    {
+      "label": "[section] Dědičnost kvantitativních znaků",
+      "content": "a.charakterizace kvantitativních (komplexních) znakůb.kvalitativní vs. kvantitativní znaky (monogenní vs. polygenní) - rozklad fenotypové variance a heritabilita"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.genetika a onemocnění člověkab.genetické aspekty rakovinyc.genetika patogenů - infekčních onemocnění (chřipka, HIV)"
+    },
+    {
+      "label": "[section] Základy genetiky zdraví",
+      "content": "a.genetika a onemocnění člověkab.genetické aspekty rakovinyc.genetika patogenů - infekčních onemocnění (chřipka, HIV)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Prezentace nadstandardní činnosti studentů (dotace 4/4)"
+    },
+    {
+      "label": "[section] Evoluční genetika",
+      "content": "13.Prezentace nadstandardní činnosti studentů (dotace 4/4)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku40 hpříprava na průběžné hodnocení12 hzpracování seminární práce32 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Docházka cvičení minimálně 80 %. Zápočet: minimální počet bodů 30 e-learningový test (3b), teoretický test průběžný (12b), seminární práce (10b), zápočtový test (příklady, 25b) Zkouška: minimální počet bodů 30 1) písemná část ověří teoretické znalosti a schopnost řešit praktické příklady z genetiky (24 bodů) 2) ústní část ověří schopnost interpretace a diskuze na probíraná témata (26 bodů)"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAbsolvování závěrečné ústní zkoušky100 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:KUCIEL, Jiří; URBAN, Tomáš. 2023. Principy genetiky. Brno: Mendelova univerzita v Brně, 200 s. ISBN 978-80-7509-385-1.SNUSTAD, D. Peter; SIMMONS, Michael J.; MATALOVÁ, Anna; RELICHOVÁ, Jiřina; DOŠKAŘ, Jiří. 2017. Genetika. Brno: Masarykova univerzita, 844 s. ISBN 978-80-210-8613-5.URBAN, Tomáš a kol. 2001. Genetika : (návody do cvičení). 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 104 s. ISBN 978-80-7157-497-2.URBAN, Tomáš; VYHNÁNEK, Tomáš. 2006. Virtuální svět genetiky 1 - základní principy genetiky. http://user.mendelu.cz/urban/vsg1/.URBAN, Tomáš. 2007. Virtuální svět genetiky 2 - principy molekulární genetiky. http://user.mendelu.cz/urban/vsg2/.Doporučená:KUCIEL, Jiří; URBAN, Tomáš. 2012. G. Mendel, jeho hybridizační objevy a jejich význam. 2. vyd. Brno: Mendelova univerzita v Brně, 120 s. ISBN 978-80-7375-272-9."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "KUCIEL, Jiří; URBAN, Tomáš. 2023. Principy genetiky. Brno: Mendelova univerzita v Brně, 200 s. ISBN 978-80-7509-385-1.SNUSTAD, D. Peter; SIMMONS, Michael J.; MATALOVÁ, Anna; RELICHOVÁ, Jiřina; DOŠKAŘ, Jiří. 2017. Genetika. Brno: Masarykova univerzita, 844 s. ISBN 978-80-210-8613-5.URBAN, Tomáš a kol. 2001. Genetika : (návody do cvičení). 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 104 s. ISBN 978-80-7157-497-2.URBAN, Tomáš; VYHNÁNEK, Tomáš. 2006. Virtuální svět genetiky 1 - základní principy genetiky. http://user.mendelu.cz/urban/vsg1/.URBAN, Tomáš. 2007. Virtuální svět genetiky 2 - principy molekulární genetiky. http://user.mendelu.cz/urban/vsg2/."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "KUCIEL, Jiří; URBAN, Tomáš. 2012. G. Mendel, jeho hybridizační objevy a jejich význam. 2. vyd. Brno: Mendelova univerzita v Brně, 120 s. ISBN 978-80-7375-272-9."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-MBI Molekulární biologie a biotechnologie, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "GEN"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Genetika obecná"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Genetics"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. RNDr. Aleš Knoll, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Morphology, Physiology and Animal Genetics (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "prof. RNDr. Aleš Knoll, Ph.D. (examiner, instructor, lecturer, supervisor)prof. Ing. Tomáš Urban, Ph.D. (examiner, instructor, lecturer)doc. Ing. Tomáš Vyhnánek, Ph.D. (instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Genetics and its significance (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Watson & Crick - Discovery of DNA - Applications"
+    },
+    {
+      "label": "b.",
+      "content": "genomic sequencing (genomics)"
+    },
+    {
+      "label": "c.",
+      "content": "studying genetics in biotechnologysignificance of sexual reproduction: meiosis - the gateway to genetics"
+    },
+    {
+      "label": "2.",
+      "content": "Genes and their functions (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "DNA - carrier of heredity"
+    },
+    {
+      "label": "b.",
+      "content": "replication and recombination (inheritance)"
+    },
+    {
+      "label": "c.",
+      "content": "gene structure and function"
+    },
+    {
+      "label": "d.",
+      "content": "gene expression into phenotype (expression)"
+    },
+    {
+      "label": "3.",
+      "content": "Variability, diversity and uniqueness of genetic information (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "the nature of variability at phenotype level"
+    },
+    {
+      "label": "b.",
+      "content": "mutations, polymorphism"
+    },
+    {
+      "label": "c.",
+      "content": "molecular genetic markers"
+    },
+    {
+      "label": "4.",
+      "content": "Form of inheritance in classical genetics (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "gene - allele"
+    },
+    {
+      "label": "b.",
+      "content": "principles of Mendel's inheritance rules, patterns of inheritance"
+    },
+    {
+      "label": "c.",
+      "content": "extension of Mendel's rules: complexity of genotype-phenotype relationships"
+    },
+    {
+      "label": "5.",
+      "content": "Interaction between genes and alleles (allowance 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Chromosomal basis of heredity (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "chromosome - gene - allele, cytogenetics"
+    },
+    {
+      "label": "b.",
+      "content": "chromosome theory of inheritance, changes in the number and structure of chromosomes"
+    },
+    {
+      "label": "7.",
+      "content": "Gene linkage (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "linkage group, genetic distance"
+    },
+    {
+      "label": "b.",
+      "content": "recombination and gene mapping on chromosomes"
+    },
+    {
+      "label": "8.",
+      "content": "Genetic mechanisms of sex determination (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "sex chromosomes and types of sex determination"
+    },
+    {
+      "label": "b.",
+      "content": "gene dosage compensation for X"
+    },
+    {
+      "label": "9.",
+      "content": "Genetic analysis of variability in populations (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "evaluation of genetic variability in populations - frequency of alleles and genotypes"
+    },
+    {
+      "label": "b.",
+      "content": "Hardy-Weinberg's genetic equilibrium"
+    },
+    {
+      "label": "10.",
+      "content": "Inheritance of quantitative traits (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "characterization of quantitative (complex) traits"
+    },
+    {
+      "label": "b.",
+      "content": "qualitative vs. quantitative features (monogenic vs. polygenic) - decomposition of phenotypic variance and heritability"
+    },
+    {
+      "label": "11.",
+      "content": "Principles of health genetics (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "genetics and human disease"
+    },
+    {
+      "label": "b.",
+      "content": "genetic aspects of cancer"
+    },
+    {
+      "label": "c.",
+      "content": "genetics of pathogens - infectious diseases (influenza, HIV)"
+    },
+    {
+      "label": "12.",
+      "content": "Evolutionary genetics (allowance 2/2)"
+    },
+    {
+      "label": "13.",
+      "content": "Seminar works - presentation of students (allowance 4/4)"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "100 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021, SS 2019/2020 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Genetika obecná"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Genetics"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. RNDr. Aleš Knoll, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Morphology, Physiology and Animal Genetics (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. RNDr. Aleš Knoll, Ph.D. (examiner, instructor, lecturer, supervisor)prof. Ing. Tomáš Urban, Ph.D. (examiner, instructor, lecturer)doc. Ing. Tomáš Vyhnánek, Ph.D. (instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday11.00-12.50A31A. Knoll, T. Urban, T. VyhnánekLectureEvery week60Thursday13.00-14.50A32aA. Knoll, T. Urban, T. VyhnánekSeminarEvery week25Thursday15.00-16.50A32aA. Knoll, T. Urban, T. VyhnánekSeminarEvery week25"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "1) To achieve mastery of basic knowledge and understanding of the principles and processes of genetics, genetic variability and gene function 2) To acquire the knowledge and skills of basic methods of genetic research and its applications 3) To gain intellectual skills to support the implementation of modern genetics and genomics innovation in biotechnological processes 4) To support the development of individual creative work."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Genetics and its significance (allowance 2/2) a.Watson & Crick - Discovery of DNA - Applicationsb.genomic sequencing (genomics)c.studying genetics in biotechnologysignificance of sexual reproduction: meiosis - the gateway to genetics2.Genes and their functions (allowance 2/2) a.DNA - carrier of heredityb.replication and recombination (inheritance)c.gene structure and functiond.gene expression into phenotype (expression)3.Variability, diversity and uniqueness of genetic information (allowance 2/2) a.the nature of variability at phenotype levelb.mutations, polymorphismc.molecular genetic markers4.Form of inheritance in classical genetics (allowance 2/2) a.gene - alleleb.principles of Mendel's inheritance rules, patterns of inheritancec.extension of Mendel's rules: complexity of genotype-phenotype relationships5.Interaction between genes and alleles (allowance 2/2)6.Chromosomal basis of heredity (allowance 2/2) a.chromosome - gene - allele, cytogeneticsb.chromosome theory of inheritance, changes in the number and structure of chromosomes7.Gene linkage (allowance 2/2) a.linkage group, genetic distanceb.recombination and gene mapping on chromosomes8.Genetic mechanisms of sex determination (allowance 2/2) a.sex chromosomes and types of sex determinationb.gene dosage compensation for X9.Genetic analysis of variability in populations (allowance 2/2) a.evaluation of genetic variability in populations - frequency of alleles and genotypesb.Hardy-Weinberg's genetic equilibrium10.Inheritance of quantitative traits (allowance 2/2) a.characterization of quantitative (complex) traitsb.qualitative vs. quantitative features (monogenic vs. polygenic) - decomposition of phenotypic variance and heritability11.Principles of health genetics (allowance 2/2) a.genetics and human diseaseb.genetic aspects of cancerc.genetics of pathogens - infectious diseases (influenza, HIV)12.Evolutionary genetics (allowance 2/2)13.Seminar works - presentation of students (allowance 4/4)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Watson & Crick - Discovery of DNA - Applicationsb.genomic sequencing (genomics)c.studying genetics in biotechnologysignificance of sexual reproduction: meiosis - the gateway to genetics"
+    },
+    {
+      "label": "[section] Genetics and its significance",
+      "content": "a.Watson & Crick - Discovery of DNA - Applicationsb.genomic sequencing (genomics)c.studying genetics in biotechnologysignificance of sexual reproduction: meiosis - the gateway to genetics"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.DNA - carrier of heredityb.replication and recombination (inheritance)c.gene structure and functiond.gene expression into phenotype (expression)"
+    },
+    {
+      "label": "[section] Genes and their functions",
+      "content": "a.DNA - carrier of heredityb.replication and recombination (inheritance)c.gene structure and functiond.gene expression into phenotype (expression)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.the nature of variability at phenotype levelb.mutations, polymorphismc.molecular genetic markers"
+    },
+    {
+      "label": "[section] Variability, diversity and uniqueness of genetic information",
+      "content": "a.the nature of variability at phenotype levelb.mutations, polymorphismc.molecular genetic markers"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.gene - alleleb.principles of Mendel's inheritance rules, patterns of inheritancec.extension of Mendel's rules: complexity of genotype-phenotype relationships"
+    },
+    {
+      "label": "[section] Form of inheritance in classical genetics",
+      "content": "a.gene - alleleb.principles of Mendel's inheritance rules, patterns of inheritancec.extension of Mendel's rules: complexity of genotype-phenotype relationships"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Chromosomal basis of heredity (allowance 2/2)"
+    },
+    {
+      "label": "[section] Interaction between genes and alleles",
+      "content": "6.Chromosomal basis of heredity (allowance 2/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.chromosome - gene - allele, cytogeneticsb.chromosome theory of inheritance, changes in the number and structure of chromosomes"
+    },
+    {
+      "label": "[section] Chromosomal basis of heredity",
+      "content": "a.chromosome - gene - allele, cytogeneticsb.chromosome theory of inheritance, changes in the number and structure of chromosomes"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.linkage group, genetic distanceb.recombination and gene mapping on chromosomes"
+    },
+    {
+      "label": "[section] Gene linkage",
+      "content": "a.linkage group, genetic distanceb.recombination and gene mapping on chromosomes"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.sex chromosomes and types of sex determinationb.gene dosage compensation for X"
+    },
+    {
+      "label": "[section] Genetic mechanisms of sex determination",
+      "content": "a.sex chromosomes and types of sex determinationb.gene dosage compensation for X"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.evaluation of genetic variability in populations - frequency of alleles and genotypesb.Hardy-Weinberg's genetic equilibrium"
+    },
+    {
+      "label": "[section] Genetic analysis of variability in populations",
+      "content": "a.evaluation of genetic variability in populations - frequency of alleles and genotypesb.Hardy-Weinberg's genetic equilibrium"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.characterization of quantitative (complex) traitsb.qualitative vs. quantitative features (monogenic vs. polygenic) - decomposition of phenotypic variance and heritability"
+    },
+    {
+      "label": "[section] Inheritance of quantitative traits",
+      "content": "a.characterization of quantitative (complex) traitsb.qualitative vs. quantitative features (monogenic vs. polygenic) - decomposition of phenotypic variance and heritability"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.genetics and human diseaseb.genetic aspects of cancerc.genetics of pathogens - infectious diseases (influenza, HIV)"
+    },
+    {
+      "label": "[section] Principles of health genetics",
+      "content": "a.genetics and human diseaseb.genetic aspects of cancerc.genetics of pathogens - infectious diseases (influenza, HIV)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Seminar works - presentation of students (allowance 4/4)"
+    },
+    {
+      "label": "[section] Evolutionary genetics",
+      "content": "13.Seminar works - presentation of students (allowance 4/4)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam40 hpreparation for regular assessment12 hwriting of seminar paper32 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Attendance minim. 80 %. Credit: minimum 30 points (60%) e-Learning Test (3 points), test (12 points), seminar work defense (10 points), final test (examples, 25 points). Examination: minimum 30 points (60%) 1) in writing, verifyingt the theoretical knowledge and the ability to solve practical examples from genetics (24 points) 2) oral, verifying the ability of interpretation and verbal discussion on the topic (26 points)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceFinal oral exam100 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:KUCIEL, Jiří; URBAN, Tomáš. 2023. Principy genetiky. Brno: Mendelova univerzita v Brně, 200 p. ISBN 978-80-7509-385-1.SNUSTAD, D. Peter; SIMMONS, Michael J.; MATALOVÁ, Anna; RELICHOVÁ, Jiřina; DOŠKAŘ, Jiří. 2017. Genetika. Brno: Masarykova univerzita, 844 p. ISBN 978-80-210-8613-5.URBAN, Tomáš et al. 2001. Genetika : (návody do cvičení). 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 104 p. ISBN 978-80-7157-497-2.URBAN, Tomáš; VYHNÁNEK, Tomáš. 2006. Virtuální svět genetiky 1 - základní principy genetiky. http://user.mendelu.cz/urban/vsg1/.URBAN, Tomáš. 2007. Virtuální svět genetiky 2 - principy molekulární genetiky. http://user.mendelu.cz/urban/vsg2/.Recommended:KUCIEL, Jiří; URBAN, Tomáš. 2012. G. Mendel, jeho hybridizační objevy a jejich význam. 2nd ed. Brno: Mendelova univerzita v Brně, 120 p. ISBN 978-80-7375-272-9."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "KUCIEL, Jiří; URBAN, Tomáš. 2023. Principy genetiky. Brno: Mendelova univerzita v Brně, 200 p. ISBN 978-80-7509-385-1.SNUSTAD, D. Peter; SIMMONS, Michael J.; MATALOVÁ, Anna; RELICHOVÁ, Jiřina; DOŠKAŘ, Jiří. 2017. Genetika. Brno: Masarykova univerzita, 844 p. ISBN 978-80-210-8613-5.URBAN, Tomáš et al. 2001. Genetika : (návody do cvičení). 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 104 p. ISBN 978-80-7157-497-2.URBAN, Tomáš; VYHNÁNEK, Tomáš. 2006. Virtuální svět genetiky 1 - základní principy genetiky. http://user.mendelu.cz/urban/vsg1/.URBAN, Tomáš. 2007. Virtuální svět genetiky 2 - principy molekulární genetiky. http://user.mendelu.cz/urban/vsg2/."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "KUCIEL, Jiří; URBAN, Tomáš. 2012. G. Mendel, jeho hybridizační objevy a jejich význam. 2nd ed. Brno: Mendelova univerzita v Brně, 120 p. ISBN 978-80-7375-272-9."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-MBI Molecular Biology and Biotechnology, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:12:06",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

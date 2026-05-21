@@ -1,0 +1,981 @@
+{
+  "courseCode": "EGDIV",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EGDIV"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Evoluce a genetická diverzita"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Evolution and genetic diversity"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Pavel Hanáček, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav biologie rostlin (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Pavel Hanáček, Ph.D. (cvičící, garant, přednášející, zkoušející)doc. Ing. Tomáš Vyhnánek, Ph.D. (cvičící, přednášející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Evoluce, genetická diverzita a variabilita, úvod (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam genetické diverzity a variability živých organismů"
+    },
+    {
+      "label": "b.",
+      "content": "Genetická diverzita, základní terminologie"
+    },
+    {
+      "label": "c.",
+      "content": "Míra genetické variability"
+    },
+    {
+      "label": "2.",
+      "content": "Floristické říše a zoogeografické oblasti světa (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Floristické říše a zoogeografické oblasti světa - rozdělení a základní charakteristika"
+    },
+    {
+      "label": "b.",
+      "content": "Světová centra genetické diverzity plodin, genové zdroje hospodářských zvířat"
+    },
+    {
+      "label": "3.",
+      "content": "Centra genetické diverzity, posouzení a ochrana biodiverzity (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Genové rezervy (gene-pool)"
+    },
+    {
+      "label": "b.",
+      "content": "Ochrana biodiverzity in situ a ex situ"
+    },
+    {
+      "label": "4.",
+      "content": "Genetika přirozených populací (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Evoluce ve velkých populacích"
+    },
+    {
+      "label": "b.",
+      "content": "Faktory kontrolující evoluci populací"
+    },
+    {
+      "label": "c.",
+      "content": "Výběr (selekce)"
+    },
+    {
+      "label": "5.",
+      "content": "Genetická eroze, zavlečené a invazivní druhy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Nepůvodní druhy a invazivní druhy"
+    },
+    {
+      "label": "b.",
+      "content": "Homogenizace flóry a fauny vlivem člověka"
+    },
+    {
+      "label": "c.",
+      "content": "Hybridizace a extinkce"
+    },
+    {
+      "label": "6.",
+      "content": "Konzervační genetika a reintrodukce (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Volba míst vhodných pro reintrodukci"
+    },
+    {
+      "label": "b.",
+      "content": "Volba genotypů reintrodukovaných jedinců"
+    },
+    {
+      "label": "c.",
+      "content": "Mezinárodní reintrodukční programy"
+    },
+    {
+      "label": "7.",
+      "content": "Domestikace rostlin, domestikační syndrom (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam domestikace rostlin"
+    },
+    {
+      "label": "b.",
+      "content": "Adaptace rostlin na pěstování v kultuře"
+    },
+    {
+      "label": "8.",
+      "content": "Domestikace živočichů, synantropie (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam domestikace živočichů"
+    },
+    {
+      "label": "b.",
+      "content": "Adaptace živočichů na zajetí"
+    },
+    {
+      "label": "9.",
+      "content": "Genetické markery, klasifikace (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní pojmy a rozdělení"
+    },
+    {
+      "label": "b.",
+      "content": "genetické markery - rozdělení a použití"
+    },
+    {
+      "label": "10.",
+      "content": "Molekulární markery a jejich využití ve studiu genetické diverzity (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "DNA markery - význam při studiu genetické diverzity"
+    },
+    {
+      "label": "b.",
+      "content": "DNA fingerprinting"
+    },
+    {
+      "label": "11.",
+      "content": "Sekvenování DNA, zpracování a analýza sekvenčních dat (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Často sekvenované oblasti nDNA, mtDNA a cpDNA"
+    },
+    {
+      "label": "b.",
+      "content": "Variabilita a evoluce DNA sekvencí"
+    },
+    {
+      "label": "12.",
+      "content": "Molekulární taxonomie a fylogenetika (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Definice druhu"
+    },
+    {
+      "label": "b.",
+      "content": "Vznik druhů"
+    },
+    {
+      "label": "13.",
+      "content": "Bioinformatika při studiu genetické diverzity (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Funkce sekvenčních dat"
+    },
+    {
+      "label": "b.",
+      "content": "Anotace genomických a biologických dat"
+    },
+    {
+      "label": "14.",
+      "content": "Mezinárodní aspekty ochrany genetické diverzity (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Mezinárodní a národní legislativa"
+    },
+    {
+      "label": "b.",
+      "content": "Organizace zabývající se ochranou životního prostředí"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "30 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "70 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Evoluce a genetická diverzita"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Evolution and genetic diversity"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Pavel Hanáček, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav biologie rostlin (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Pavel Hanáček, Ph.D. (cvičící, garant, přednášející, zkoušející)doc. Ing. Tomáš Vyhnánek, Ph.D. (cvičící, přednášející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí9.00-10.50M2.11P. HanáčekPřednáškaKaždý týden50Úterý9.00-10.50C52P. Hanáček, T. VyhnánekCvičeníKaždý týden17Úterý11.00-12.50C52P. Hanáček, T. VyhnánekCvičeníKaždý týden17"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Seznámit studenty s významem a hlavními metodami studia genetické diverzity a evoluce u rostlin a živočichů, především pomocí molekulárně biologických přístupů. Cílem je získání souboru teoretických a zejména praktických znalostí (formou praktických laboratorních úloh) v oblasti studia a hodnocení biodiverzity a genetické variability volně žijících živočichů a planě rostoucích rostlin stejně jako druhů zemědělsky významných."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Evoluce, genetická diverzita a variabilita, úvod (dotace 2/0) a.Význam genetické diverzity a variability živých organismůb.Genetická diverzita, základní terminologiec.Míra genetické variability2.Floristické říše a zoogeografické oblasti světa (dotace 2/0) a.Floristické říše a zoogeografické oblasti světa - rozdělení a základní charakteristikab.Světová centra genetické diverzity plodin, genové zdroje hospodářských zvířat3.Centra genetické diverzity, posouzení a ochrana biodiverzity (dotace 2/2) a.Genové rezervy (gene-pool)b.Ochrana biodiverzity in situ a ex situ4.Genetika přirozených populací (dotace 2/2) a.Evoluce ve velkých populacíchb.Faktory kontrolující evoluci populacíc.Výběr (selekce)5.Genetická eroze, zavlečené a invazivní druhy (dotace 2/2) a.Nepůvodní druhy a invazivní druhyb.Homogenizace flóry a fauny vlivem člověkac.Hybridizace a extinkce6.Konzervační genetika a reintrodukce (dotace 2/2) a.Volba míst vhodných pro reintrodukcib.Volba genotypů reintrodukovaných jedincůc.Mezinárodní reintrodukční programy7.Domestikace rostlin, domestikační syndrom (dotace 2/2) a.Význam domestikace rostlinb.Adaptace rostlin na pěstování v kultuře8.Domestikace živočichů, synantropie (dotace 2/2) a.Význam domestikace živočichůb.Adaptace živočichů na zajetí9.Genetické markery, klasifikace (dotace 2/2) a.Základní pojmy a rozděleníb.genetické markery - rozdělení a použití10.Molekulární markery a jejich využití ve studiu genetické diverzity (dotace 2/4) a.DNA markery - význam při studiu genetické diverzityb.DNA fingerprinting11.Sekvenování DNA, zpracování a analýza sekvenčních dat (dotace 2/2) a.Často sekvenované oblasti nDNA, mtDNA a cpDNAb.Variabilita a evoluce DNA sekvencí12.Molekulární taxonomie a fylogenetika (dotace 2/2) a.Definice druhub.Vznik druhů13.Bioinformatika při studiu genetické diverzity (dotace 2/4) a.Funkce sekvenčních datb.Anotace genomických a biologických dat14.Mezinárodní aspekty ochrany genetické diverzity (dotace 2/2) a.Mezinárodní a národní legislativab.Organizace zabývající se ochranou životního prostředí"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Význam genetické diverzity a variability živých organismůb.Genetická diverzita, základní terminologiec.Míra genetické variability"
+    },
+    {
+      "label": "[section] Evoluce, genetická diverzita a variabilita, úvod",
+      "content": "a.Význam genetické diverzity a variability živých organismůb.Genetická diverzita, základní terminologiec.Míra genetické variability"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Floristické říše a zoogeografické oblasti světa - rozdělení a základní charakteristikab.Světová centra genetické diverzity plodin, genové zdroje hospodářských zvířat"
+    },
+    {
+      "label": "[section] Floristické říše a zoogeografické oblasti světa",
+      "content": "a.Floristické říše a zoogeografické oblasti světa - rozdělení a základní charakteristikab.Světová centra genetické diverzity plodin, genové zdroje hospodářských zvířat"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Genové rezervy (gene-pool)b.Ochrana biodiverzity in situ a ex situ"
+    },
+    {
+      "label": "[section] Centra genetické diverzity, posouzení a ochrana biodiverzity",
+      "content": "a.Genové rezervy (gene-pool)b.Ochrana biodiverzity in situ a ex situ"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Evoluce ve velkých populacíchb.Faktory kontrolující evoluci populacíc.Výběr (selekce)"
+    },
+    {
+      "label": "[section] Genetika přirozených populací",
+      "content": "a.Evoluce ve velkých populacíchb.Faktory kontrolující evoluci populacíc.Výběr (selekce)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Nepůvodní druhy a invazivní druhyb.Homogenizace flóry a fauny vlivem člověkac.Hybridizace a extinkce"
+    },
+    {
+      "label": "[section] Genetická eroze, zavlečené a invazivní druhy",
+      "content": "a.Nepůvodní druhy a invazivní druhyb.Homogenizace flóry a fauny vlivem člověkac.Hybridizace a extinkce"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Volba míst vhodných pro reintrodukcib.Volba genotypů reintrodukovaných jedincůc.Mezinárodní reintrodukční programy"
+    },
+    {
+      "label": "[section] Konzervační genetika a reintrodukce",
+      "content": "a.Volba míst vhodných pro reintrodukcib.Volba genotypů reintrodukovaných jedincůc.Mezinárodní reintrodukční programy"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Význam domestikace rostlinb.Adaptace rostlin na pěstování v kultuře"
+    },
+    {
+      "label": "[section] Domestikace rostlin, domestikační syndrom",
+      "content": "a.Význam domestikace rostlinb.Adaptace rostlin na pěstování v kultuře"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Význam domestikace živočichůb.Adaptace živočichů na zajetí"
+    },
+    {
+      "label": "[section] Domestikace živočichů, synantropie",
+      "content": "a.Význam domestikace živočichůb.Adaptace živočichů na zajetí"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Základní pojmy a rozděleníb.genetické markery - rozdělení a použití"
+    },
+    {
+      "label": "[section] Genetické markery, klasifikace",
+      "content": "a.Základní pojmy a rozděleníb.genetické markery - rozdělení a použití"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.DNA markery - význam při studiu genetické diverzityb.DNA fingerprinting"
+    },
+    {
+      "label": "[section] Molekulární markery a jejich využití ve studiu genetické diverzity",
+      "content": "a.DNA markery - význam při studiu genetické diverzityb.DNA fingerprinting"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Často sekvenované oblasti nDNA, mtDNA a cpDNAb.Variabilita a evoluce DNA sekvencí"
+    },
+    {
+      "label": "[section] Sekvenování DNA, zpracování a analýza sekvenčních dat",
+      "content": "a.Často sekvenované oblasti nDNA, mtDNA a cpDNAb.Variabilita a evoluce DNA sekvencí"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Definice druhub.Vznik druhů"
+    },
+    {
+      "label": "[section] Molekulární taxonomie a fylogenetika",
+      "content": "a.Definice druhub.Vznik druhů"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Funkce sekvenčních datb.Anotace genomických a biologických dat"
+    },
+    {
+      "label": "[section] Bioinformatika při studiu genetické diverzity",
+      "content": "a.Funkce sekvenčních datb.Anotace genomických a biologických dat"
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Mezinárodní a národní legislativab.Organizace zabývající se ochranou životního prostředí"
+    },
+    {
+      "label": "[section] Mezinárodní aspekty ochrany genetické diverzity",
+      "content": "a.Mezinárodní a národní legislativab.Organizace zabývající se ochranou životního prostředí"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška24 hcvičení24 hpříprava na zkoušku92 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Předmět je zakončen ústní zkouškou (30 min). Minimum pro absolvování zkoušky je 60% znalostí z přednášek a cvičení. Pro ukončení předmětu je nutné odevzdání pěti protokolů z laboratorních cvičení (3., 5., 7., 9. a 11. týden). Účast na praktických cvičeních je povinná."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích30 %Absolvování závěrečné ústní zkoušky70 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:FLEGR, Jaroslav. 2007. Úvod do evoluční biologie. 1. vyd. Praha: Academia, 544 s. ISBN 978-80-200-1539-6.FLEGR, Jaroslav. 2009. Evoluční biologie. 2. vyd. Praha: Academia, 569 s. ISBN 978-80-200-1767-3.Doporučená:CHLOUPEK, Oldřich. 2008. Genetická diverzita, šlechtění a semenářství. 3. vyd. Praha: Academia, 307 s. ISBN 978-80-200-1566-2."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "FLEGR, Jaroslav. 2007. Úvod do evoluční biologie. 1. vyd. Praha: Academia, 544 s. ISBN 978-80-200-1539-6.FLEGR, Jaroslav. 2009. Evoluční biologie. 2. vyd. Praha: Academia, 569 s. ISBN 978-80-200-1767-3."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "CHLOUPEK, Oldřich. 2008. Genetická diverzita, šlechtění a semenářství. 3. vyd. Praha: Academia, 307 s. ISBN 978-80-200-1566-2."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-MBI Molekulární biologie a biotechnologie, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EGDIV"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Evoluce a genetická diverzita"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Evolution and genetic diversity"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Pavel Hanáček, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Plant Biology (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Pavel Hanáček, Ph.D. (examiner, instructor, lecturer, supervisor)doc. Ing. Tomáš Vyhnánek, Ph.D. (instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Evolution, Genetic Diversity and Variability, Introduction (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Importance of genetic diversity and variability of living organisms"
+    },
+    {
+      "label": "b.",
+      "content": "Genetic diversity, basic terminology"
+    },
+    {
+      "label": "c.",
+      "content": "A measure of genetic variability"
+    },
+    {
+      "label": "2.",
+      "content": "Floristic kingdoms and zoogeographic regions of the world (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Floristic kingdoms and zoogeographic regions of the world - division and basic characteristics"
+    },
+    {
+      "label": "b.",
+      "content": "World Centers for Crop Genetic Diversity, Livestock Genetic Resources"
+    },
+    {
+      "label": "3.",
+      "content": "Centers of genetic diversity, assessment and protection of biodiversity (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Gene reserves (gene-pool)"
+    },
+    {
+      "label": "b.",
+      "content": "Conservation of biodiversity in situ and ex situ"
+    },
+    {
+      "label": "4.",
+      "content": "Genetics of natural populations (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Evolution in large populations"
+    },
+    {
+      "label": "b.",
+      "content": "Factors controlling the evolution of populationsselection (selection)"
+    },
+    {
+      "label": "5.",
+      "content": "Genetic erosion, introduced and invasive species (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Non-native species and invasive species"
+    },
+    {
+      "label": "b.",
+      "content": "Human-induced homogenization of flora and fauna"
+    },
+    {
+      "label": "c.",
+      "content": "Hybridization and Extinction"
+    },
+    {
+      "label": "6.",
+      "content": "Conservation genetics and reintroduction (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Selection of sites suitable for reintroduction"
+    },
+    {
+      "label": "b.",
+      "content": "Choice of genotypes of reintroduced individuals"
+    },
+    {
+      "label": "c.",
+      "content": "International reintroduction programs"
+    },
+    {
+      "label": "7.",
+      "content": "Domestication of plants, domestication syndrome (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Importance of plant domestication"
+    },
+    {
+      "label": "b.",
+      "content": "Adaptation of plants for growing in culture"
+    },
+    {
+      "label": "8.",
+      "content": "Domestication of animals, synanthropy (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Importance of animal domestication"
+    },
+    {
+      "label": "b.",
+      "content": "Adaptation of animals to captivity"
+    },
+    {
+      "label": "9.",
+      "content": "Genetic markers, classification (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic concepts and divisions"
+    },
+    {
+      "label": "b.",
+      "content": "Genetic markers - division and use"
+    },
+    {
+      "label": "10.",
+      "content": "Molecular markers and their use in the study of genetic diversity (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "DNA markers - importance in the study of genetic diversity"
+    },
+    {
+      "label": "b.",
+      "content": "DNA fingerprinting"
+    },
+    {
+      "label": "11.",
+      "content": "DNA sequencing, processing and analysis of sequence data (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Frequently sequenced regions of nDNA, mtDNA, and cpDNA"
+    },
+    {
+      "label": "b.",
+      "content": "Variability and evolution of DNA sequences"
+    },
+    {
+      "label": "12.",
+      "content": "Molecular taxonomy and phylogenetics (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Definition of species"
+    },
+    {
+      "label": "b.",
+      "content": "Origin of species"
+    },
+    {
+      "label": "13.",
+      "content": "Bioinformatics in the study of genetic diversity (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Sequential data function"
+    },
+    {
+      "label": "b.",
+      "content": "Annotation of genomic and biological data"
+    },
+    {
+      "label": "14.",
+      "content": "International aspects of the protection of genetic (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "International and national legislation"
+    },
+    {
+      "label": "b.",
+      "content": "Organization dealing with environmental protection"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "30 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "70 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Evoluce a genetická diverzita"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Evolution and genetic diversity"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Pavel Hanáček, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Plant Biology (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Pavel Hanáček, Ph.D. (examiner, instructor, lecturer, supervisor)doc. Ing. Tomáš Vyhnánek, Ph.D. (instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday9.00-10.50M2.11P. HanáčekLectureEvery week50Tuesday9.00-10.50C52P. Hanáček, T. VyhnánekSeminarEvery week17Tuesday11.00-12.50C52P. Hanáček, T. VyhnánekSeminarEvery week17"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "To explain to students the importance and main methods of studying genetic diversity and evolution in plants and animals, primarily using molecular biological approaches. The goal is to acquire a set of theoretical and especially practical knowledge (in the form of practical laboratory tasks) in the field of studying and evaluating the biodiversity and genetic variability of wild animals and wild plants as well as agriculturally important species."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Evolution, Genetic Diversity and Variability, Introduction (allowance 2/0) a.Importance of genetic diversity and variability of living organismsb.Genetic diversity, basic terminologyc.A measure of genetic variability2.Floristic kingdoms and zoogeographic regions of the world (allowance 2/0) a.Floristic kingdoms and zoogeographic regions of the world - division and basic characteristicsb.World Centers for Crop Genetic Diversity, Livestock Genetic Resources3.Centers of genetic diversity, assessment and protection of biodiversity (allowance 2/2) a.Gene reserves (gene-pool)b.Conservation of biodiversity in situ and ex situ4.Genetics of natural populations (allowance 2/2) a.Evolution in large populationsb.Factors controlling the evolution of populationsselection (selection)5.Genetic erosion, introduced and invasive species (allowance 2/2) a.Non-native species and invasive speciesb.Human-induced homogenization of flora and faunac.Hybridization and Extinction6.Conservation genetics and reintroduction (allowance 2/2) a.Selection of sites suitable for reintroductionb.Choice of genotypes of reintroduced individualsc.International reintroduction programs7.Domestication of plants, domestication syndrome (allowance 2/2) a.Importance of plant domesticationb.Adaptation of plants for growing in culture8.Domestication of animals, synanthropy (allowance 2/2) a.Importance of animal domesticationb.Adaptation of animals to captivity9.Genetic markers, classification (allowance 2/2) a.Basic concepts and divisionsb.Genetic markers - division and use10.Molecular markers and their use in the study of genetic diversity (allowance 2/4) a.DNA markers - importance in the study of genetic diversityb.DNA fingerprinting11.DNA sequencing, processing and analysis of sequence data (allowance 2/2) a.Frequently sequenced regions of nDNA, mtDNA, and cpDNAb.Variability and evolution of DNA sequences12.Molecular taxonomy and phylogenetics (allowance 2/2) a.Definition of speciesb.Origin of species13.Bioinformatics in the study of genetic diversity (allowance 2/4) a.Sequential data functionb.Annotation of genomic and biological data14.International aspects of the protection of genetic (allowance 2/2) a.International and national legislationb.Organization dealing with environmental protection"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Importance of genetic diversity and variability of living organismsb.Genetic diversity, basic terminologyc.A measure of genetic variability"
+    },
+    {
+      "label": "[section] Evolution, Genetic Diversity and Variability, Introduction",
+      "content": "a.Importance of genetic diversity and variability of living organismsb.Genetic diversity, basic terminologyc.A measure of genetic variability"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Floristic kingdoms and zoogeographic regions of the world - division and basic characteristicsb.World Centers for Crop Genetic Diversity, Livestock Genetic Resources"
+    },
+    {
+      "label": "[section] Floristic kingdoms and zoogeographic regions of the world",
+      "content": "a.Floristic kingdoms and zoogeographic regions of the world - division and basic characteristicsb.World Centers for Crop Genetic Diversity, Livestock Genetic Resources"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Gene reserves (gene-pool)b.Conservation of biodiversity in situ and ex situ"
+    },
+    {
+      "label": "[section] Centers of genetic diversity, assessment and protection of biodiversity",
+      "content": "a.Gene reserves (gene-pool)b.Conservation of biodiversity in situ and ex situ"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Evolution in large populationsb.Factors controlling the evolution of populationsselection (selection)"
+    },
+    {
+      "label": "[section] Genetics of natural populations",
+      "content": "a.Evolution in large populationsb.Factors controlling the evolution of populationsselection (selection)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Non-native species and invasive speciesb.Human-induced homogenization of flora and faunac.Hybridization and Extinction"
+    },
+    {
+      "label": "[section] Genetic erosion, introduced and invasive species",
+      "content": "a.Non-native species and invasive speciesb.Human-induced homogenization of flora and faunac.Hybridization and Extinction"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Selection of sites suitable for reintroductionb.Choice of genotypes of reintroduced individualsc.International reintroduction programs"
+    },
+    {
+      "label": "[section] Conservation genetics and reintroduction",
+      "content": "a.Selection of sites suitable for reintroductionb.Choice of genotypes of reintroduced individualsc.International reintroduction programs"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Importance of plant domesticationb.Adaptation of plants for growing in culture"
+    },
+    {
+      "label": "[section] Domestication of plants, domestication syndrome",
+      "content": "a.Importance of plant domesticationb.Adaptation of plants for growing in culture"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Importance of animal domesticationb.Adaptation of animals to captivity"
+    },
+    {
+      "label": "[section] Domestication of animals, synanthropy",
+      "content": "a.Importance of animal domesticationb.Adaptation of animals to captivity"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Basic concepts and divisionsb.Genetic markers - division and use"
+    },
+    {
+      "label": "[section] Genetic markers, classification",
+      "content": "a.Basic concepts and divisionsb.Genetic markers - division and use"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.DNA markers - importance in the study of genetic diversityb.DNA fingerprinting"
+    },
+    {
+      "label": "[section] Molecular markers and their use in the study of genetic diversity",
+      "content": "a.DNA markers - importance in the study of genetic diversityb.DNA fingerprinting"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Frequently sequenced regions of nDNA, mtDNA, and cpDNAb.Variability and evolution of DNA sequences"
+    },
+    {
+      "label": "[section] DNA sequencing, processing and analysis of sequence data",
+      "content": "a.Frequently sequenced regions of nDNA, mtDNA, and cpDNAb.Variability and evolution of DNA sequences"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Definition of speciesb.Origin of species"
+    },
+    {
+      "label": "[section] Molecular taxonomy and phylogenetics",
+      "content": "a.Definition of speciesb.Origin of species"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Sequential data functionb.Annotation of genomic and biological data"
+    },
+    {
+      "label": "[section] Bioinformatics in the study of genetic diversity",
+      "content": "a.Sequential data functionb.Annotation of genomic and biological data"
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.International and national legislationb.Organization dealing with environmental protection"
+    },
+    {
+      "label": "[section] International aspects of the protection of genetic",
+      "content": "a.International and national legislationb.Organization dealing with environmental protection"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture24 hpractice24 hpreparation for exam92 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "The course ends with an oral exam (30 min). The minimum for passing the exam is 60% of knowledge from lectures and exercises. To complete the subject, it is necessary to submit five protocols from laboratory exercises (weeks 3, 5, 7, 9 and 11). Participation in practical exercises is mandatory."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation30 %Final oral exam70 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:FLEGR, Jaroslav. 2007. Úvod do evoluční biologie. 1st ed. Praha: Academia, 544 p. ISBN 978-80-200-1539-6.FLEGR, Jaroslav. 2009. Evoluční biologie. 2nd ed. Praha: Academia, 569 p. ISBN 978-80-200-1767-3.Recommended:CHLOUPEK, Oldřich. 2008. Genetická diverzita, šlechtění a semenářství. 3rd ed. Praha: Academia, 307 p. ISBN 978-80-200-1566-2."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "FLEGR, Jaroslav. 2007. Úvod do evoluční biologie. 1st ed. Praha: Academia, 544 p. ISBN 978-80-200-1539-6.FLEGR, Jaroslav. 2009. Evoluční biologie. 2nd ed. Praha: Academia, 569 p. ISBN 978-80-200-1767-3."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "CHLOUPEK, Oldřich. 2008. Genetická diverzita, šlechtění a semenářství. 3rd ed. Praha: Academia, 307 p. ISBN 978-80-200-1566-2."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-MBI Molecular Biology and Biotechnology, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:47:57",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

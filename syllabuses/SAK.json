@@ -1,0 +1,601 @@
+{
+  "courseCode": "SAK",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "SAK"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Statická analýza konstrukcí"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Static Analysis of Structures"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2/2 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Václav Sebera, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Michal Bošanský, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Václav Sebera, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Idealizace konstrukce a výpočtové modely (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Idealizace konstrukce"
+    },
+    {
+      "label": "b.",
+      "content": "Výpočtové modely"
+    },
+    {
+      "label": "2.",
+      "content": "Obecná deformační metoda, metoda konečných prvků a programové systémy (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Maticová forma obecné deformační metody"
+    },
+    {
+      "label": "b.",
+      "content": "Základy metody konečných prvků"
+    },
+    {
+      "label": "c.",
+      "content": "Programové systémy založené na MKP"
+    },
+    {
+      "label": "d.",
+      "content": "Moduly pro dimenzování dřevěných konstrukcí"
+    },
+    {
+      "label": "3.",
+      "content": "Modelování zatížení a prutové konstrukce (dotace 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Modelování zatížení v lokálním a globálním systému"
+    },
+    {
+      "label": "b.",
+      "content": "Modelování rovinné prutové konstrukce"
+    },
+    {
+      "label": "c.",
+      "content": "Modelování prostorové prutové konstrukce"
+    },
+    {
+      "label": "4.",
+      "content": "Posouzení příhradových vazníků a obloukových nosníků (dotace 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Posouzení příhradových vazníků"
+    },
+    {
+      "label": "b.",
+      "content": "Posouzení obloukových nosníků"
+    },
+    {
+      "label": "c.",
+      "content": "Spoje dřevěných konstrukcí"
+    },
+    {
+      "label": "5.",
+      "content": "Výpočet plošných konstrukcí (dotace 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Modelování plošných konstrukcí"
+    },
+    {
+      "label": "b.",
+      "content": "Posouzení plošných konstrukcí"
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2023/2024, ZS 2022/2023, ZS 2021/2022, ZS 2020/2021, ZS 2019/2020, ZS 2018/2019 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Statická analýza konstrukcí"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Static Analysis of Structures"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2/2 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2/2 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Václav Sebera, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Michal Bošanský, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Václav Sebera, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je seznámit posluchače se statickou analýzou konstrukcí. Učební látka obsahuje jednak obecnou teoretickou část, která bude zameřena na idealizaci konstrukcí, na maticovou formu obecné deformační metody a na metodu konečných prvků, jednak část věnovanou statickým výpočtům, která bude zahrnovat získání znalostí o programových systémech pro statiku stavebních konstrukcí."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Idealizace konstrukce a výpočtové modely (dotace 1/1) a.Idealizace konstrukceb.Výpočtové modely2.Obecná deformační metoda, metoda konečných prvků a programové systémy (dotace 4/4) a.Maticová forma obecné deformační metodyb.Základy metody konečných prvkůc.Programové systémy založené na MKPd.Moduly pro dimenzování dřevěných konstrukcí3.Modelování zatížení a prutové konstrukce (dotace 3/3) a.Modelování zatížení v lokálním a globálním systémub.Modelování rovinné prutové konstrukcec.Modelování prostorové prutové konstrukce4.Posouzení příhradových vazníků a obloukových nosníků (dotace 3/3) a.Posouzení příhradových vazníkůb.Posouzení obloukových nosníkůc.Spoje dřevěných konstrukcí5.Výpočet plošných konstrukcí (dotace 3/3) a.Modelování plošných konstrukcíb.Posouzení plošných konstrukcí"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Idealizace konstrukceb.Výpočtové modely"
+    },
+    {
+      "label": "[section] Idealizace konstrukce a výpočtové modely",
+      "content": "a.Idealizace konstrukceb.Výpočtové modely"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Maticová forma obecné deformační metodyb.Základy metody konečných prvkůc.Programové systémy založené na MKPd.Moduly pro dimenzování dřevěných konstrukcí"
+    },
+    {
+      "label": "[section] Obecná deformační metoda, metoda konečných prvků a programové systémy",
+      "content": "a.Maticová forma obecné deformační metodyb.Základy metody konečných prvkůc.Programové systémy založené na MKPd.Moduly pro dimenzování dřevěných konstrukcí"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Modelování zatížení v lokálním a globálním systémub.Modelování rovinné prutové konstrukcec.Modelování prostorové prutové konstrukce"
+    },
+    {
+      "label": "[section] Modelování zatížení a prutové  konstrukce",
+      "content": "a.Modelování zatížení v lokálním a globálním systémub.Modelování rovinné prutové konstrukcec.Modelování prostorové prutové konstrukce"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Posouzení příhradových vazníkůb.Posouzení obloukových nosníkůc.Spoje dřevěných konstrukcí"
+    },
+    {
+      "label": "[section] Posouzení příhradových vazníků a obloukových nosníků",
+      "content": "a.Posouzení příhradových vazníkůb.Posouzení obloukových nosníkůc.Spoje dřevěných konstrukcí"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Modelování plošných konstrukcíb.Posouzení plošných konstrukcí"
+    },
+    {
+      "label": "[section] Výpočet plošných konstrukcí",
+      "content": "a.Modelování plošných konstrukcíb.Posouzení plošných konstrukcí"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku42 hzpracování seminární práce42 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Podmínkou zápočtu bude předložení statických výpočtů z jednotlivých témat. Ukončení předmětu písemnou zkouškou (délka cca 1 h, max. počet bodů: 30, min. 16)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní: Finite element analysis: theory and application with ANSYS. 3. vyd. Upper Saddle River, N.J.: Pearson Prentice Hall, 861 s. ISBN 978-0-13-241651-1.KUKLÍK, Petr. 2005. Dřevěné konstrukce. 1. vyd. Praha: Pro Českou komoru autorizovaných inženýrů a techniků činných ve výstavbě (ČKAIT) vydalo Informační centrum ČKAIT, 171 s. Technická knižnice. ISBN 80-86769-72-0. Finite element simulations with ANSYS workbench 14: [theory, applications, case studies]. 2012. Mission, Kan.: Schroff Development Corp., 602 s. ISBN 978-1-58503-725-4.KUKLÍKOVÁ, Anna; KUKLÍK, Petr. 2010. Navrhování dřevěných konstrukcí. Příručka k ČSN EN 1995-1. Praha: Informační centrum ČKAIT, 140 s. ISBN 978-80-87093-88-7. The finite element method and applications in engineering using ANSYS. New York: Springer, 686 s. ISBN 0-387-28289-0.BLASS, Hans Joachim a kol. 2008. Navrhování, výpočet a posuzování dřevěných stavebních konstrukcí: obecná pravidla a pravidla pro pozemní stavby : komentář k ČSN 73 1702:2007 : modifikovaný překlad vysvětlivek k německé normě DIN 1052:2004. 1. vyd. Praha: Pro Českou komoru autorizovaných inženýrů a techniků činných ve výstavbě (ČKAIT) vydalo Informační centrum ČKAIT, 227 s. Řada C - Technická knižnice autorizovaného inženýra a technika. ISBN 978-80-87093-73-3."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "Finite element analysis: theory and application with ANSYS. 3. vyd. Upper Saddle River, N.J.: Pearson Prentice Hall, 861 s. ISBN 978-0-13-241651-1.KUKLÍK, Petr. 2005. Dřevěné konstrukce. 1. vyd. Praha: Pro Českou komoru autorizovaných inženýrů a techniků činných ve výstavbě (ČKAIT) vydalo Informační centrum ČKAIT, 171 s. Technická knižnice. ISBN 80-86769-72-0. Finite element simulations with ANSYS workbench 14: [theory, applications, case studies]. 2012. Mission, Kan.: Schroff Development Corp., 602 s. ISBN 978-1-58503-725-4.KUKLÍKOVÁ, Anna; KUKLÍK, Petr. 2010. Navrhování dřevěných konstrukcí. Příručka k ČSN EN 1995-1. Praha: Informační centrum ČKAIT, 140 s. ISBN 978-80-87093-88-7. The finite element method and applications in engineering using ANSYS. New York: Springer, 686 s. ISBN 0-387-28289-0.BLASS, Hans Joachim a kol. 2008. Navrhování, výpočet a posuzování dřevěných stavebních konstrukcí: obecná pravidla a pravidla pro pozemní stavby : komentář k ČSN 73 1702:2007 : modifikovaný překlad vysvětlivek k německé normě DIN 1052:2004. 1. vyd. Praha: Pro Českou komoru autorizovaných inženýrů a techniků činných ve výstavbě (ČKAIT) vydalo Informační centrum ČKAIT, 227 s. Řada C - Technická knižnice autorizovaného inženýra a technika. ISBN 978-80-87093-73-3."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-SNBD Stavby na bázi dřeva, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "SAK"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Statická analýza konstrukcí"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Static Analysis of Structures"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2/2 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Václav Sebera, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Michal Bošanský, Ph.D. (examiner, instructor, lecturer)doc. Ing. Václav Sebera, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "State Bachelor Examination"
+    },
+    {
+      "label": "1.",
+      "content": "Idealization of structures and structural analysis models (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Idealization of structures"
+    },
+    {
+      "label": "b.",
+      "content": "Structural analysis models"
+    },
+    {
+      "label": "2.",
+      "content": "Matrix stiffness method, finite element method and structural analysis software (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Matrix stiffness method"
+    },
+    {
+      "label": "b.",
+      "content": "Priciples of the finite element method"
+    },
+    {
+      "label": "c.",
+      "content": "Structural analysis software"
+    },
+    {
+      "label": "d.",
+      "content": "Modules for design of timber structures"
+    },
+    {
+      "label": "3.",
+      "content": "Load modeling and bar structure modeling (allowance 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Load modeling in LCS a GCS"
+    },
+    {
+      "label": "b.",
+      "content": "Modeling planar bar structure"
+    },
+    {
+      "label": "c.",
+      "content": "Modeling spatial bar structure"
+    },
+    {
+      "label": "4.",
+      "content": "Assessment of truss and curved wooden constructions (allowance 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Assessment of truss timber constructions"
+    },
+    {
+      "label": "b.",
+      "content": "Assessment of curved timber beams"
+    },
+    {
+      "label": "c.",
+      "content": "Joint assessment of timber structures"
+    },
+    {
+      "label": "5.",
+      "content": "Analysis of planar structures (allowance 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Modeling of planar structures"
+    },
+    {
+      "label": "b.",
+      "content": "Assessment of planar structures"
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2023/2024, WS 2022/2023, WS 2021/2022, WS 2020/2021, WS 2019/2020, WS 2018/2019 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Statická analýza konstrukcí"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Static Analysis of Structures"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2/2 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2/2 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Václav Sebera, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Michal Bošanský, Ph.D. (examiner, instructor, lecturer)doc. Ing. Václav Sebera, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: State Bachelor Examination"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Aim of the course is to familiarize students with the static analysis of structures. Teaching material includes a general theoretical part, which will focus on the idealization of structures, on the matrix stiffness method and the finite element method, and also part, which focus on software systems for the structural analysis."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Idealization of structures and structural analysis models (allowance 1/1) a.Idealization of structuresb.Structural analysis models2.Matrix stiffness method, finite element method and structural analysis software (allowance 4/4) a.Matrix stiffness methodb.Priciples of the finite element methodc.Structural analysis softwared.Modules for design of timber structures3.Load modeling and bar structure modeling (allowance 3/3) a.Load modeling in LCS a GCSb.Modeling planar bar structurec.Modeling spatial bar structure4.Assessment of truss and curved wooden constructions (allowance 3/3) a.Assessment of truss timber constructionsb.Assessment of curved timber beamsc.Joint assessment of timber structures5.Analysis of planar structures (allowance 3/3) a.Modeling of planar structuresb.Assessment of planar structures"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Idealization of structuresb.Structural analysis models"
+    },
+    {
+      "label": "[section] Idealization of structures and structural analysis models",
+      "content": "a.Idealization of structuresb.Structural analysis models"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Matrix stiffness methodb.Priciples of the finite element methodc.Structural analysis softwared.Modules for design of timber structures"
+    },
+    {
+      "label": "[section] Matrix stiffness method, finite element method and structural analysis software",
+      "content": "a.Matrix stiffness methodb.Priciples of the finite element methodc.Structural analysis softwared.Modules for design of timber structures"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Load modeling in LCS a GCSb.Modeling planar bar structurec.Modeling spatial bar structure"
+    },
+    {
+      "label": "[section] Load modeling and bar structure modeling",
+      "content": "a.Load modeling in LCS a GCSb.Modeling planar bar structurec.Modeling spatial bar structure"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Assessment of truss timber constructionsb.Assessment of curved timber beamsc.Joint assessment of timber structures"
+    },
+    {
+      "label": "[section] Assessment of truss and curved wooden constructions",
+      "content": "a.Assessment of truss timber constructionsb.Assessment of curved timber beamsc.Joint assessment of timber structures"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Modeling of planar structuresb.Assessment of planar structures"
+    },
+    {
+      "label": "[section] Analysis of planar structures",
+      "content": "a.Modeling of planar structuresb.Assessment of planar structures"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam42 hwriting of seminar paper42 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Credit condition will submit calculations of the various topics. Completion of course: written exam (lenght approx. 1 h, max. points 30, min. 16)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic: Finite element analysis: theory and application with ANSYS. 3rd ed. Upper Saddle River, N.J.: Pearson Prentice Hall, 861 p. ISBN 978-0-13-241651-1.KUKLÍK, Petr. 2005. Dřevěné konstrukce. 1st ed. Praha: Pro Českou komoru autorizovaných inženýrů a techniků činných ve výstavbě (ČKAIT) vydalo Informační centrum ČKAIT, 171 p. Technická knižnice. ISBN 80-86769-72-0. Finite element simulations with ANSYS workbench 14: [theory, applications, case studies]. 2012. Mission, Kan.: Schroff Development Corp., 602 p. ISBN 978-1-58503-725-4.KUKLÍKOVÁ, Anna; KUKLÍK, Petr. 2010. Navrhování dřevěných konstrukcí. Příručka k ČSN EN 1995-1. Praha: Informační centrum ČKAIT, 140 p. ISBN 978-80-87093-88-7. The finite element method and applications in engineering using ANSYS. New York: Springer, 686 p. ISBN 0-387-28289-0.BLASS, Hans Joachim et al. 2008. Navrhování, výpočet a posuzování dřevěných stavebních konstrukcí: obecná pravidla a pravidla pro pozemní stavby : komentář k ČSN 73 1702:2007 : modifikovaný překlad vysvětlivek k německé normě DIN 1052:2004. 1st ed. Praha: Pro Českou komoru autorizovaných inženýrů a techniků činných ve výstavbě (ČKAIT) vydalo Informační centrum ČKAIT, 227 p. Řada C - Technická knižnice autorizovaného inženýra a technika. ISBN 978-80-87093-73-3."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "Finite element analysis: theory and application with ANSYS. 3rd ed. Upper Saddle River, N.J.: Pearson Prentice Hall, 861 p. ISBN 978-0-13-241651-1.KUKLÍK, Petr. 2005. Dřevěné konstrukce. 1st ed. Praha: Pro Českou komoru autorizovaných inženýrů a techniků činných ve výstavbě (ČKAIT) vydalo Informační centrum ČKAIT, 171 p. Technická knižnice. ISBN 80-86769-72-0. Finite element simulations with ANSYS workbench 14: [theory, applications, case studies]. 2012. Mission, Kan.: Schroff Development Corp., 602 p. ISBN 978-1-58503-725-4.KUKLÍKOVÁ, Anna; KUKLÍK, Petr. 2010. Navrhování dřevěných konstrukcí. Příručka k ČSN EN 1995-1. Praha: Informační centrum ČKAIT, 140 p. ISBN 978-80-87093-88-7. The finite element method and applications in engineering using ANSYS. New York: Springer, 686 p. ISBN 0-387-28289-0.BLASS, Hans Joachim et al. 2008. Navrhování, výpočet a posuzování dřevěných stavebních konstrukcí: obecná pravidla a pravidla pro pozemní stavby : komentář k ČSN 73 1702:2007 : modifikovaný překlad vysvětlivek k německé normě DIN 1052:2004. 1st ed. Praha: Pro Českou komoru autorizovaných inženýrů a techniků činných ve výstavbě (ČKAIT) vydalo Informační centrum ČKAIT, 227 p. Řada C - Technická knižnice autorizovaného inženýra a technika. ISBN 978-80-87093-73-3."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-SNBD Timber Structures and Wood Building Construction, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:10:10",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

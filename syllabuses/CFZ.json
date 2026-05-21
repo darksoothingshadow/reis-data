@@ -1,0 +1,965 @@
+{
+  "courseCode": "CFZ",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "CFZ"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Chemie fyzikální"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Physical Chemistry"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. David Hynek, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav chemie a biochemie (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. David Hynek, Ph.D. (garant, přednášející, zkoušející)Mgr. Jiří Vlček, Ph.D. (cvičící, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Základní pojmy fyzikální chemie (dotace 2/0)"
+    },
+    {
+      "label": "2.",
+      "content": "Skupenské stavy (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Plyny: stavová rovnice ideálního a reálného plynu."
+    },
+    {
+      "label": "b.",
+      "content": "Kapaliny: tlak páry, povrchové napětí, úhel smáčení, viskozita."
+    },
+    {
+      "label": "c.",
+      "content": "Pevné látky: klasifikace, krystalická a amorfní struktura, isomorfie, polymorfie."
+    },
+    {
+      "label": "3.",
+      "content": "Základy termodynamiky (dotace 3/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní pojmy. Energie, teplo, práce."
+    },
+    {
+      "label": "b.",
+      "content": "I. věta termodynamická, enthalpie. Termochemie. Kalorimetrie."
+    },
+    {
+      "label": "c.",
+      "content": "II. věta termodynamická, entropie, samovolné procesy."
+    },
+    {
+      "label": "d.",
+      "content": "Helmholtzova a Gibssova funkce. Chemický potenciál. Třetí věta termodynamická. Termodynamika a živé systémy."
+    },
+    {
+      "label": "4.",
+      "content": "Fázové rovnováhy (dotace 3/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Obecné podmínky podmínky rovnováhy. Gibbsův zákon fází."
+    },
+    {
+      "label": "b.",
+      "content": "Jednosložkové soustavy. Clapeyronova a Clausius-Clapeyronova rovnice."
+    },
+    {
+      "label": "c.",
+      "content": "Dvousložkové soustavy. Směšovací funkce. Ideální a reálný roztok. Fugacita a aktivita. Raoultův a Henryho zákon."
+    },
+    {
+      "label": "d.",
+      "content": "Koligativní vlastnosti roztoků a jejich biologický význam."
+    },
+    {
+      "label": "e.",
+      "content": "Třísložkové soustavy."
+    },
+    {
+      "label": "f.",
+      "content": "Rozdělovací rovnováha."
+    },
+    {
+      "label": "g.",
+      "content": "Rovnováha na fázovém rozhraní."
+    },
+    {
+      "label": "5.",
+      "content": "Chemická rovnováha (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Rovnovážná konstanta, rozsah reakce a stupeň přeměny."
+    },
+    {
+      "label": "b.",
+      "content": "Podmínky rovnováhy a její ovlivnění vnějšího vlivy."
+    },
+    {
+      "label": "6.",
+      "content": "Roztoky elektrolytů (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Elektrolytická disociace. Aktivita a aktivitní koeficient.Teorie silných elektrolytů. Teorie slabých elektrolytů. Součin rozpustnosti."
+    },
+    {
+      "label": "b.",
+      "content": "Acidobasické rovnováhy vybraných systémů."
+    },
+    {
+      "label": "c.",
+      "content": "Elektrolytická vodivost, konduktometrie."
+    },
+    {
+      "label": "7.",
+      "content": "Elektrochemická rovnováha heterogenního systému (dotace 4/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Elektrody a elektrochemické články. Nernstova a Nernst -Petersova rovnice."
+    },
+    {
+      "label": "b.",
+      "content": "Klasifikace elektrod."
+    },
+    {
+      "label": "c.",
+      "content": "Biologické redoxní systémy."
+    },
+    {
+      "label": "d.",
+      "content": "Elektrodová polarizace, přepětí."
+    },
+    {
+      "label": "e.",
+      "content": "Faradayovy zákony, elektrolýza."
+    },
+    {
+      "label": "f.",
+      "content": "Elektrochemické metody."
+    },
+    {
+      "label": "8.",
+      "content": "Kinetika chemických reakcí (dotace 4/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Rychlost chemické reakce. Celkový a dílčí řád reakce."
+    },
+    {
+      "label": "b.",
+      "content": "Typy chemických reakcí."
+    },
+    {
+      "label": "c.",
+      "content": "Kinetika základních chemických reakcí."
+    },
+    {
+      "label": "d.",
+      "content": "Teorie reakční rychlosti."
+    },
+    {
+      "label": "e.",
+      "content": "Závislost rychlostní konstanty na teplotě."
+    },
+    {
+      "label": "f.",
+      "content": "Reakční koordináta."
+    },
+    {
+      "label": "g.",
+      "content": "Kinetika složitějších chemických reakcí."
+    },
+    {
+      "label": "9.",
+      "content": "Koloidní soustavy (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Typy a charakteristika disperzních soustav."
+    },
+    {
+      "label": "b.",
+      "content": "Elektrokinetické jevy."
+    },
+    {
+      "label": "10.",
+      "content": "Molekulární transport (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Difúze."
+    },
+    {
+      "label": "b.",
+      "content": "Typy a vlastnosti membrán."
+    },
+    {
+      "label": "c.",
+      "content": "Membránové techniky."
+    },
+    {
+      "label": "11.",
+      "content": "Fyzikální vlastnosti látek (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Elektrické, magnetické a optické vlastnosti."
+    },
+    {
+      "label": "b.",
+      "content": "Metody studia látek."
+    },
+    {
+      "label": "12.",
+      "content": "Praktická laboratorní cvičení (dotace 0/28)"
+    },
+    {
+      "label": "a.",
+      "content": "Elektrochemické metody: potenciometrie, konduktometrie."
+    },
+    {
+      "label": "b.",
+      "content": "Absorpční spektrofotometrie: absopční spektra látek, závislost spektra acidobasického indikátoru na pH."
+    },
+    {
+      "label": "c.",
+      "content": "Nespektroskoopické optické metody: polarimetrie a refraktometrie."
+    },
+    {
+      "label": "d.",
+      "content": "Fyzikální vlastnosti kapalin: viskozita a povrchové napětí."
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022, LS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Chemie fyzikální"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Physical Chemistry"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. David Hynek, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav chemie a biochemie (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. David Hynek, Ph.D. (garant, přednášející, zkoušející)Mgr. Jiří Vlček, Ph.D. (cvičící, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí7.00-8.50D03J. VlčekCvičeníKaždý týden18Pondělí13.00-14.50D04D. HynekPřednáškaKaždý týden18"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět poskytuje studentům základní znalosti fyzikální chemie. Cílem výuky je dosáhnout, aby student získal poznatky o struktuře a vlastnostech látek a fyzikálně chemických procesech v chemických a biologických soustavách. Praktické cvičení je zaměřené na aplikaci fyzikálně chemických metod."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Základní pojmy fyzikální chemie (dotace 2/0)2.Skupenské stavy (dotace 2/0) a.Plyny: stavová rovnice ideálního a reálného plynu.b.Kapaliny: tlak páry, povrchové napětí, úhel smáčení, viskozita.c.Pevné látky: klasifikace, krystalická a amorfní struktura, isomorfie, polymorfie.3.Základy termodynamiky (dotace 3/0) a.Základní pojmy. Energie, teplo, práce.b.I. věta termodynamická, enthalpie. Termochemie. Kalorimetrie.c.II. věta termodynamická, entropie, samovolné procesy.d.Helmholtzova a Gibssova funkce. Chemický potenciál. Třetí věta termodynamická. Termodynamika a živé systémy.4.Fázové rovnováhy (dotace 3/0) a.Obecné podmínky podmínky rovnováhy. Gibbsův zákon fází.b.Jednosložkové soustavy. Clapeyronova a Clausius-Clapeyronova rovnice.c.Dvousložkové soustavy. Směšovací funkce. Ideální a reálný roztok. Fugacita a aktivita. Raoultův a Henryho zákon.d.Koligativní vlastnosti roztoků a jejich biologický význam.e.Třísložkové soustavy.f.Rozdělovací rovnováha.g.Rovnováha na fázovém rozhraní.5.Chemická rovnováha (dotace 2/0) a.Rovnovážná konstanta, rozsah reakce a stupeň přeměny.b.Podmínky rovnováhy a její ovlivnění vnějšího vlivy.6.Roztoky elektrolytů (dotace 2/0) a.Elektrolytická disociace. Aktivita a aktivitní koeficient.Teorie silných elektrolytů. Teorie slabých elektrolytů. Součin rozpustnosti.b.Acidobasické rovnováhy vybraných systémů.c.Elektrolytická vodivost, konduktometrie.7.Elektrochemická rovnováha heterogenního systému (dotace 4/0) a.Elektrody a elektrochemické články. Nernstova a Nernst -Petersova rovnice.b.Klasifikace elektrod.c.Biologické redoxní systémy.d.Elektrodová polarizace, přepětí.e.Faradayovy zákony, elektrolýza.f.Elektrochemické metody.8.Kinetika chemických reakcí (dotace 4/0) a.Rychlost chemické reakce. Celkový a dílčí řád reakce.b.Typy chemických reakcí.c.Kinetika základních chemických reakcí.d.Teorie reakční rychlosti.e.Závislost rychlostní konstanty na teplotě.f.Reakční koordináta.g.Kinetika složitějších chemických reakcí.9.Koloidní soustavy (dotace 2/0) a.Typy a charakteristika disperzních soustav.b.Elektrokinetické jevy.10.Molekulární transport (dotace 2/0) a.Difúze.b.Typy a vlastnosti membrán.c.Membránové techniky.11.Fyzikální vlastnosti látek (dotace 2/0) a.Elektrické, magnetické a optické vlastnosti.b.Metody studia látek.12.Praktická laboratorní cvičení (dotace 0/28) a.Elektrochemické metody: potenciometrie, konduktometrie.b.Absorpční spektrofotometrie: absopční spektra látek, závislost spektra acidobasického indikátoru na pH.c.Nespektroskoopické optické metody: polarimetrie a refraktometrie.d.Fyzikální vlastnosti kapalin: viskozita a povrchové napětí."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Skupenské stavy (dotace 2/0)"
+    },
+    {
+      "label": "[section] Základní pojmy fyzikální chemie",
+      "content": "2.Skupenské stavy (dotace 2/0)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Plyny: stavová rovnice ideálního a reálného plynu.b.Kapaliny: tlak páry, povrchové napětí, úhel smáčení, viskozita.c.Pevné látky: klasifikace, krystalická a amorfní struktura, isomorfie, polymorfie."
+    },
+    {
+      "label": "[section] Skupenské stavy",
+      "content": "a.Plyny: stavová rovnice ideálního a reálného plynu.b.Kapaliny: tlak páry, povrchové napětí, úhel smáčení, viskozita.c.Pevné látky: klasifikace, krystalická a amorfní struktura, isomorfie, polymorfie."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Základní pojmy. Energie, teplo, práce.b.I. věta termodynamická, enthalpie. Termochemie. Kalorimetrie.c.II. věta termodynamická, entropie, samovolné procesy.d.Helmholtzova a Gibssova funkce. Chemický potenciál. Třetí věta termodynamická. Termodynamika a živé systémy."
+    },
+    {
+      "label": "[section] Základy termodynamiky",
+      "content": "a.Základní pojmy. Energie, teplo, práce.b.I. věta termodynamická, enthalpie. Termochemie. Kalorimetrie.c.II. věta termodynamická, entropie, samovolné procesy.d.Helmholtzova a Gibssova funkce. Chemický potenciál. Třetí věta termodynamická. Termodynamika a živé systémy."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Obecné podmínky podmínky rovnováhy. Gibbsův zákon fází.b.Jednosložkové soustavy. Clapeyronova a Clausius-Clapeyronova rovnice.c.Dvousložkové soustavy. Směšovací funkce. Ideální a reálný roztok. Fugacita a aktivita. Raoultův a Henryho zákon.d.Koligativní vlastnosti roztoků a jejich biologický význam.e.Třísložkové soustavy.f.Rozdělovací rovnováha.g.Rovnováha na fázovém rozhraní."
+    },
+    {
+      "label": "[section] Fázové rovnováhy",
+      "content": "a.Obecné podmínky podmínky rovnováhy. Gibbsův zákon fází.b.Jednosložkové soustavy. Clapeyronova a Clausius-Clapeyronova rovnice.c.Dvousložkové soustavy. Směšovací funkce. Ideální a reálný roztok. Fugacita a aktivita. Raoultův a Henryho zákon.d.Koligativní vlastnosti roztoků a jejich biologický význam.e.Třísložkové soustavy.f.Rozdělovací rovnováha.g.Rovnováha na fázovém rozhraní."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Rovnovážná konstanta, rozsah reakce a stupeň přeměny.b.Podmínky rovnováhy a její ovlivnění vnějšího vlivy."
+    },
+    {
+      "label": "[section] Chemická rovnováha",
+      "content": "a.Rovnovážná konstanta, rozsah reakce a stupeň přeměny.b.Podmínky rovnováhy a její ovlivnění vnějšího vlivy."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Elektrolytická disociace. Aktivita a aktivitní koeficient.Teorie silných elektrolytů. Teorie slabých elektrolytů. Součin rozpustnosti.b.Acidobasické rovnováhy vybraných systémů.c.Elektrolytická vodivost, konduktometrie."
+    },
+    {
+      "label": "[section] Roztoky elektrolytů",
+      "content": "a.Elektrolytická disociace. Aktivita a aktivitní koeficient.Teorie silných elektrolytů. Teorie slabých elektrolytů. Součin rozpustnosti.b.Acidobasické rovnováhy vybraných systémů.c.Elektrolytická vodivost, konduktometrie."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Elektrody a elektrochemické články. Nernstova a Nernst -Petersova rovnice.b.Klasifikace elektrod.c.Biologické redoxní systémy.d.Elektrodová polarizace, přepětí.e.Faradayovy zákony, elektrolýza.f.Elektrochemické metody."
+    },
+    {
+      "label": "[section] Elektrochemická rovnováha heterogenního systému",
+      "content": "a.Elektrody a elektrochemické články. Nernstova a Nernst -Petersova rovnice.b.Klasifikace elektrod.c.Biologické redoxní systémy.d.Elektrodová polarizace, přepětí.e.Faradayovy zákony, elektrolýza.f.Elektrochemické metody."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Rychlost chemické reakce. Celkový a dílčí řád reakce.b.Typy chemických reakcí.c.Kinetika základních chemických reakcí.d.Teorie reakční rychlosti.e.Závislost rychlostní konstanty na teplotě.f.Reakční koordináta.g.Kinetika složitějších chemických reakcí."
+    },
+    {
+      "label": "[section] Kinetika chemických reakcí",
+      "content": "a.Rychlost chemické reakce. Celkový a dílčí řád reakce.b.Typy chemických reakcí.c.Kinetika základních chemických reakcí.d.Teorie reakční rychlosti.e.Závislost rychlostní konstanty na teplotě.f.Reakční koordináta.g.Kinetika složitějších chemických reakcí."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Typy a charakteristika disperzních soustav.b.Elektrokinetické jevy."
+    },
+    {
+      "label": "[section] Koloidní soustavy",
+      "content": "a.Typy a charakteristika disperzních soustav.b.Elektrokinetické jevy."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Difúze.b.Typy a vlastnosti membrán.c.Membránové techniky."
+    },
+    {
+      "label": "[section] Molekulární transport",
+      "content": "a.Difúze.b.Typy a vlastnosti membrán.c.Membránové techniky."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Elektrické, magnetické a optické vlastnosti.b.Metody studia látek."
+    },
+    {
+      "label": "[section] Fyzikální vlastnosti látek",
+      "content": "a.Elektrické, magnetické a optické vlastnosti.b.Metody studia látek."
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Elektrochemické metody: potenciometrie, konduktometrie.b.Absorpční spektrofotometrie: absopční spektra látek, závislost spektra acidobasického indikátoru na pH.c.Nespektroskoopické optické metody: polarimetrie a refraktometrie.d.Fyzikální vlastnosti kapalin: viskozita a povrchové napětí."
+    },
+    {
+      "label": "[section] Praktická laboratorní cvičení",
+      "content": "a.Elektrochemické metody: potenciometrie, konduktometrie.b.Absorpční spektrofotometrie: absopční spektra látek, závislost spektra acidobasického indikátoru na pH.c.Nespektroskoopické optické metody: polarimetrie a refraktometrie.d.Fyzikální vlastnosti kapalin: viskozita a povrchové napětí."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku56 hpříprava na průběžný test14 hzpracování protokolů14 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Podmínkou je získání zápočtu z praktického laboratorního cvičení (nutná účast na všech cvičeních + odevzdání protokolů + dosažení předepsaného počtu bodů v průběžných testech). Zkouška je písemná (15 otázek, 60 min., 60%)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní: Fyzikální chemie. 1981. 2. vyd. Praha: Státní nakladatelství technické literatury, 974 s.BRDIČKA, R.; KALOUSEK, M.; SCHÜTZ, A. Úvod do fyzikální chemie..VODRÁŽKA, Zdeněk. 1982. Fyzikální chemie pro biologické vědy. 1. vyd. Praha: Academia, 565 s."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "Fyzikální chemie. 1981. 2. vyd. Praha: Státní nakladatelství technické literatury, 974 s.BRDIČKA, R.; KALOUSEK, M.; SCHÜTZ, A. Úvod do fyzikální chemie..VODRÁŽKA, Zdeněk. 1982. Fyzikální chemie pro biologické vědy. 1. vyd. Praha: Academia, 565 s."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Specializace SNJBP Jakost a bezpečnost potravin, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "CFZ"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Chemie fyzikální"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Physical Chemistry"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. David Hynek, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Chemistry and Biochemistry (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. David Hynek, Ph.D. (examiner, lecturer, supervisor)Mgr. Jiří Vlček, Ph.D. (examiner, instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Basic concepts of physical chemistry (allowance 2/0)"
+    },
+    {
+      "label": "2.",
+      "content": "Latent conditions (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Gases: equation of state of ideal and real gas."
+    },
+    {
+      "label": "b.",
+      "content": "Liquids: vapor pressure, surface tension, contact angle, viscosity."
+    },
+    {
+      "label": "c.",
+      "content": "Solids: classification, crystalline and amorphous structure, isomorfie, polymorphism."
+    },
+    {
+      "label": "3.",
+      "content": "Fundamentals of thermodynamics (allowance 3/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic concepts. Energy, heat, work."
+    },
+    {
+      "label": "b.",
+      "content": "First law of thermodynamics, enthalpy. Thermochemistry. Calorimetry."
+    },
+    {
+      "label": "c.",
+      "content": "II. law of thermodynamics, entropy, spontaneous processes."
+    },
+    {
+      "label": "d.",
+      "content": "Helmholtz Gibssova and function. Chemical potential. The third law of thermodynamics. Thermodynamics and living systems."
+    },
+    {
+      "label": "4.",
+      "content": "Phase equilibria (allowance 3/0)"
+    },
+    {
+      "label": "a.",
+      "content": "General conditions of equilibrium conditions. Gibbs phase rule."
+    },
+    {
+      "label": "b.",
+      "content": "One-component systems. Clapeyron and Clausius-Clapeyron equation."
+    },
+    {
+      "label": "c.",
+      "content": "Two-component system. Mixing function. Ideal and real solutions. Fugacity and activity. Raoult's and Henry law."
+    },
+    {
+      "label": "d.",
+      "content": "Colligative properties of the solution and its biological significance."
+    },
+    {
+      "label": "e.",
+      "content": "Three-component system."
+    },
+    {
+      "label": "f.",
+      "content": "Distribution balance."
+    },
+    {
+      "label": "g.",
+      "content": "Balance at the interface."
+    },
+    {
+      "label": "5.",
+      "content": "Chemical equilibrium (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "The equilibrium constant, the extent of reaction and degree of transformation."
+    },
+    {
+      "label": "b.",
+      "content": "Conditions for balance and be influenced by its outward influences."
+    },
+    {
+      "label": "6.",
+      "content": "Electrolyte solutions (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Electrolytic dissociation. Activity and activity koeficient.Teorie strong electrolyte. The theory of weak electrolyte."
+    },
+    {
+      "label": "b.",
+      "content": "Acid-base balance of the selected system."
+    },
+    {
+      "label": "c.",
+      "content": "Electrolytic conductivity, conductometry."
+    },
+    {
+      "label": "7.",
+      "content": "Electrochemical equilibrium of heterogeneous systems (allowance 4/0)"
+    },
+    {
+      "label": "a.",
+      "content": "The speed of chemical reactions. Total and partial responses like."
+    },
+    {
+      "label": "b.",
+      "content": "Types of chemical reactions."
+    },
+    {
+      "label": "c.",
+      "content": "Kinetics of elementary chemical reactions."
+    },
+    {
+      "label": "d.",
+      "content": "Theory of reaction velocities."
+    },
+    {
+      "label": "e.",
+      "content": "Dependence of rate constant on temperature."
+    },
+    {
+      "label": "f.",
+      "content": "Reaction coordinate."
+    },
+    {
+      "label": "g.",
+      "content": "More complex kinetics of chemical reactions."
+    },
+    {
+      "label": "8.",
+      "content": "Colloidal Systems (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Types and characteristics of disperse systems."
+    },
+    {
+      "label": "b.",
+      "content": "Electrokinetic phenomena."
+    },
+    {
+      "label": "9.",
+      "content": "Molecular transport (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Diffusion."
+    },
+    {
+      "label": "b.",
+      "content": "Types and properties of membranes."
+    },
+    {
+      "label": "c.",
+      "content": "Membrane technology."
+    },
+    {
+      "label": "10.",
+      "content": "Physical properties of materials (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Electrical, magnetic and optical properties."
+    },
+    {
+      "label": "b.",
+      "content": "Methods of study materials."
+    },
+    {
+      "label": "11.",
+      "content": "Practical laboratory exercises (allowance 0/28)"
+    },
+    {
+      "label": "a.",
+      "content": "Electrochemical methods: potentiometry, conductometry."
+    },
+    {
+      "label": "b.",
+      "content": "Absorption spectrophotometry: absorption spectrum of substances, the dependence of the spectrum acidobasického pH indicator."
+    },
+    {
+      "label": "c.",
+      "content": "Polarimetry and refractometry."
+    },
+    {
+      "label": "d.",
+      "content": "Physical properties of liquids: viscosity and surface tension."
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022, SS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Chemie fyzikální"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Physical Chemistry"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. David Hynek, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Chemistry and Biochemistry (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. David Hynek, Ph.D. (examiner, lecturer, supervisor)Mgr. Jiří Vlček, Ph.D. (examiner, instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday7.00-8.50D03J. VlčekSeminarEvery week18Monday13.00-14.50D04D. HynekLectureEvery week18"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "This course provides students with basic knowledge of physical chemistry. The aim is to achieve education for the student to obtain knowledge about the structure and properties of substances and physico-chemical processes in chemical and biological systems. Practical training is focused on the application of physicochemical methods."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Basic concepts of physical chemistry (allowance 2/0)2.Latent conditions (allowance 2/0) a.Gases: equation of state of ideal and real gas.b.Liquids: vapor pressure, surface tension, contact angle, viscosity.c.Solids: classification, crystalline and amorphous structure, isomorfie, polymorphism.3.Fundamentals of thermodynamics (allowance 3/0) a.Basic concepts. Energy, heat, work.b.First law of thermodynamics, enthalpy. Thermochemistry. Calorimetry.c.II. law of thermodynamics, entropy, spontaneous processes.d.Helmholtz Gibssova and function. Chemical potential. The third law of thermodynamics. Thermodynamics and living systems.4.Phase equilibria (allowance 3/0) a.General conditions of equilibrium conditions. Gibbs phase rule.b.One-component systems. Clapeyron and Clausius-Clapeyron equation.c.Two-component system. Mixing function. Ideal and real solutions. Fugacity and activity. Raoult's and Henry law.d.Colligative properties of the solution and its biological significance.e.Three-component system.f.Distribution balance.g.Balance at the interface.5.Chemical equilibrium (allowance 2/0) a.The equilibrium constant, the extent of reaction and degree of transformation.b.Conditions for balance and be influenced by its outward influences.6.Electrolyte solutions (allowance 2/0) a.Electrolytic dissociation. Activity and activity koeficient.Teorie strong electrolyte. The theory of weak electrolyte.b.Acid-base balance of the selected system.c.Electrolytic conductivity, conductometry.7.Electrochemical equilibrium of heterogeneous systems (allowance 4/0) a.The speed of chemical reactions. Total and partial responses like.b.Types of chemical reactions.c.Kinetics of elementary chemical reactions.d.Theory of reaction velocities.e.Dependence of rate constant on temperature.f.Reaction coordinate.g.More complex kinetics of chemical reactions.8.Colloidal Systems (allowance 2/0) a.Types and characteristics of disperse systems.b.Electrokinetic phenomena.9.Molecular transport (allowance 2/0) a.Diffusion.b.Types and properties of membranes.c.Membrane technology.10.Physical properties of materials (allowance 2/0) a.Electrical, magnetic and optical properties.b.Methods of study materials.11.Practical laboratory exercises (allowance 0/28) a.Electrochemical methods: potentiometry, conductometry.b.Absorption spectrophotometry: absorption spectrum of substances, the dependence of the spectrum acidobasického pH indicator.c.Polarimetry and refractometry.d.Physical properties of liquids: viscosity and surface tension."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Latent conditions (allowance 2/0)"
+    },
+    {
+      "label": "[section] Basic concepts of physical chemistry",
+      "content": "2.Latent conditions (allowance 2/0)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Gases: equation of state of ideal and real gas.b.Liquids: vapor pressure, surface tension, contact angle, viscosity.c.Solids: classification, crystalline and amorphous structure, isomorfie, polymorphism."
+    },
+    {
+      "label": "[section] Latent conditions",
+      "content": "a.Gases: equation of state of ideal and real gas.b.Liquids: vapor pressure, surface tension, contact angle, viscosity.c.Solids: classification, crystalline and amorphous structure, isomorfie, polymorphism."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Basic concepts. Energy, heat, work.b.First law of thermodynamics, enthalpy. Thermochemistry. Calorimetry.c.II. law of thermodynamics, entropy, spontaneous processes.d.Helmholtz Gibssova and function. Chemical potential. The third law of thermodynamics. Thermodynamics and living systems."
+    },
+    {
+      "label": "[section] Fundamentals of thermodynamics",
+      "content": "a.Basic concepts. Energy, heat, work.b.First law of thermodynamics, enthalpy. Thermochemistry. Calorimetry.c.II. law of thermodynamics, entropy, spontaneous processes.d.Helmholtz Gibssova and function. Chemical potential. The third law of thermodynamics. Thermodynamics and living systems."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.General conditions of equilibrium conditions. Gibbs phase rule.b.One-component systems. Clapeyron and Clausius-Clapeyron equation.c.Two-component system. Mixing function. Ideal and real solutions. Fugacity and activity. Raoult's and Henry law.d.Colligative properties of the solution and its biological significance.e.Three-component system.f.Distribution balance.g.Balance at the interface."
+    },
+    {
+      "label": "[section] Phase equilibria",
+      "content": "a.General conditions of equilibrium conditions. Gibbs phase rule.b.One-component systems. Clapeyron and Clausius-Clapeyron equation.c.Two-component system. Mixing function. Ideal and real solutions. Fugacity and activity. Raoult's and Henry law.d.Colligative properties of the solution and its biological significance.e.Three-component system.f.Distribution balance.g.Balance at the interface."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.The equilibrium constant, the extent of reaction and degree of transformation.b.Conditions for balance and be influenced by its outward influences."
+    },
+    {
+      "label": "[section] Chemical equilibrium",
+      "content": "a.The equilibrium constant, the extent of reaction and degree of transformation.b.Conditions for balance and be influenced by its outward influences."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Electrolytic dissociation. Activity and activity koeficient.Teorie strong electrolyte. The theory of weak electrolyte.b.Acid-base balance of the selected system.c.Electrolytic conductivity, conductometry."
+    },
+    {
+      "label": "[section] Electrolyte solutions",
+      "content": "a.Electrolytic dissociation. Activity and activity koeficient.Teorie strong electrolyte. The theory of weak electrolyte.b.Acid-base balance of the selected system.c.Electrolytic conductivity, conductometry."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.The speed of chemical reactions. Total and partial responses like.b.Types of chemical reactions.c.Kinetics of elementary chemical reactions.d.Theory of reaction velocities.e.Dependence of rate constant on temperature.f.Reaction coordinate.g.More complex kinetics of chemical reactions."
+    },
+    {
+      "label": "[section] Electrochemical equilibrium of heterogeneous systems",
+      "content": "a.The speed of chemical reactions. Total and partial responses like.b.Types of chemical reactions.c.Kinetics of elementary chemical reactions.d.Theory of reaction velocities.e.Dependence of rate constant on temperature.f.Reaction coordinate.g.More complex kinetics of chemical reactions."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Types and characteristics of disperse systems.b.Electrokinetic phenomena."
+    },
+    {
+      "label": "[section] Colloidal Systems",
+      "content": "a.Types and characteristics of disperse systems.b.Electrokinetic phenomena."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Diffusion.b.Types and properties of membranes.c.Membrane technology."
+    },
+    {
+      "label": "[section] Molecular transport",
+      "content": "a.Diffusion.b.Types and properties of membranes.c.Membrane technology."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Electrical, magnetic and optical properties.b.Methods of study materials."
+    },
+    {
+      "label": "[section] Physical properties of materials",
+      "content": "a.Electrical, magnetic and optical properties.b.Methods of study materials."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Electrochemical methods: potentiometry, conductometry.b.Absorption spectrophotometry: absorption spectrum of substances, the dependence of the spectrum acidobasického pH indicator.c.Polarimetry and refractometry.d.Physical properties of liquids: viscosity and surface tension."
+    },
+    {
+      "label": "[section] Practical laboratory exercises",
+      "content": "a.Electrochemical methods: potentiometry, conductometry.b.Absorption spectrophotometry: absorption spectrum of substances, the dependence of the spectrum acidobasického pH indicator.c.Polarimetry and refractometry.d.Physical properties of liquids: viscosity and surface tension."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam56 hpreparation for regular testing14 helaboration of reports14 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "The condition is to obtain credit from a practical laboratory exercises (must participate in all the exercises + protocols + submission to the prescribed number of points in the continuous tests - 60%). A written exam (15 questions, 60 min.)is passed when 60% of points is achieved."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic: Fyzikální chemie. 1981. 2nd ed. Praha: Státní nakladatelství technické literatury, 974 p.BRDIČKA, R.; KALOUSEK, M.; SCHÜTZ, A. Úvod do fyzikální chemie..VODRÁŽKA, Zdeněk. 1982. Fyzikální chemie pro biologické vědy. 1st ed. Praha: Academia, 565 p."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "Fyzikální chemie. 1981. 2nd ed. Praha: Státní nakladatelství technické literatury, 974 p.BRDIČKA, R.; KALOUSEK, M.; SCHÜTZ, A. Úvod do fyzikální chemie..VODRÁŽKA, Zdeněk. 1982. Fyzikální chemie pro biologické vědy. 1st ed. Praha: Academia, 565 p."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Track SNJBP Food Quality and Safety, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:23:16",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

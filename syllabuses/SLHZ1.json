@@ -1,0 +1,805 @@
+{
+  "courseCode": "SLHZ1",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "SLHZ1"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Šlechtitelské programy hospodářských zvířat"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Breeding Programmes of Farm Animals"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (7 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský; magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "ne"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština, angličtina"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Radek Filipčík, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav chovu a šlechtění zvířat (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Radek Filipčík, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Zdeněk Hadaš, Ph.D. (cvičící)Ing. Tomáš Kopec, Ph.D. (cvičící, přednášející, zkoušející)prof. Dr. Ing. Jan Kuchtík (cvičící, přednášející)prof. Ing. Martina Lichovníková, Ph.D., MBA (cvičící, přednášející)prof. Ing. Ladislav Máchal, DrSc. (přednášející, zkoušející)doc. Ing. Pavel Nevrkla, Ph.D. (cvičící, přednášející)Ing. Eva Sobotková, Ph.D. (cvičící, přednášející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Chov skotu nebo Státní bakalářská zkouška nebo Chov prasat"
+    },
+    {
+      "label": "1.",
+      "content": "Šlechtění hospodářských zvířat (dotace 1/0)"
+    },
+    {
+      "label": "a.",
+      "content": "legislativní úprava šlechtění hospodářských zvířat v ČR"
+    },
+    {
+      "label": "b.",
+      "content": "organizace šlechtění hospodářských zvířat"
+    },
+    {
+      "label": "c.",
+      "content": "svazy chovatelů"
+    },
+    {
+      "label": "2.",
+      "content": "Selekce (dotace 0/1)"
+    },
+    {
+      "label": "a.",
+      "content": "metody selekce"
+    },
+    {
+      "label": "b.",
+      "content": "selekční indexy"
+    },
+    {
+      "label": "c.",
+      "content": "selekční efekt, selekční limity"
+    },
+    {
+      "label": "3.",
+      "content": "Principy odhadu plemenné hodnoty (dotace 1/0)"
+    },
+    {
+      "label": "a.",
+      "content": "BLUP"
+    },
+    {
+      "label": "b.",
+      "content": "ANIMAL MODEL"
+    },
+    {
+      "label": "c.",
+      "content": "TEST-DAY MODEL"
+    },
+    {
+      "label": "4.",
+      "content": "Metody plemenitby (dotace 0/1)"
+    },
+    {
+      "label": "a.",
+      "content": "čistokrevná plemenitba"
+    },
+    {
+      "label": "b.",
+      "content": "příbuzenská plemenitba"
+    },
+    {
+      "label": "c.",
+      "content": "hybridizace"
+    },
+    {
+      "label": "5.",
+      "content": "Šlechtění skotu (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "kontrola užitkovosti"
+    },
+    {
+      "label": "6.",
+      "content": "Šlechtitelské programy v chovu českého strakatého skotu (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "šlechtitelský cíl"
+    },
+    {
+      "label": "b.",
+      "content": "plemenná kniha"
+    },
+    {
+      "label": "c.",
+      "content": "testační připařování, výběr zvířat, selekční kritéria"
+    },
+    {
+      "label": "7.",
+      "content": "Šlechtitelské programy v chovu holštýnského skotu (dotace 1/1)"
+    },
+    {
+      "label": "8.",
+      "content": "Šlechtitelské programy v chovu krav BTPM (dotace 1/1)"
+    },
+    {
+      "label": "9.",
+      "content": "Šlechtitelské programy v chovu ovcí a koz (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "šlechtitelský cíl, selekční kritéria v chovu ovcí a koz se zaměřením na produkci mléka"
+    },
+    {
+      "label": "b.",
+      "content": "šlechtitelský cíl, selekční kritéria v chovu ovcí a koz se zaměřením na produkci masa"
+    },
+    {
+      "label": "10.",
+      "content": "Šlechtitelské programy v chovu prasat (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "šlechtitelský cíl v chovu prasat v ČR"
+    },
+    {
+      "label": "b.",
+      "content": "otcovská a mateřská plemena prasat"
+    },
+    {
+      "label": "c.",
+      "content": "hybridizační program v chovu prasat"
+    },
+    {
+      "label": "d.",
+      "content": "testační připařování, výběr zvířat, selekční kritéria"
+    },
+    {
+      "label": "11.",
+      "content": "Šlechtění koní (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "organizace šlechtění koní v ČR a EU"
+    },
+    {
+      "label": "b.",
+      "content": "šlechtitelské programy v chovu starokladrubského koně a čekého teplokrevníka"
+    },
+    {
+      "label": "12.",
+      "content": "Šlechtitelské programy v chovu drůbeže (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "kontrola užitkovosti u drůbeže"
+    },
+    {
+      "label": "b.",
+      "content": "selekční kriteria v chovu nosného a masného typu drůbeže"
+    },
+    {
+      "label": "c.",
+      "content": "hybridizační programy"
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021, LS 2019/2020 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Šlechtitelské programy hospodářských zvířat"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Breeding Programmes of Farm Animals"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (7 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (7 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský; magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: ne"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština, angličtina"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Radek Filipčík, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav chovu a šlechtění zvířat (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Radek Filipčík, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Zdeněk Hadaš, Ph.D. (cvičící)Ing. Tomáš Kopec, Ph.D. (cvičící, přednášející, zkoušející)prof. Dr. Ing. Jan Kuchtík (cvičící, přednášející)prof. Ing. Martina Lichovníková, Ph.D., MBA (cvičící, přednášející)prof. Ing. Ladislav Máchal, DrSc. (přednášející, zkoušející)doc. Ing. Pavel Nevrkla, Ph.D. (cvičící, přednášející)Ing. Eva Sobotková, Ph.D. (cvičící, přednášející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Chov skotu nebo Státní bakalářská zkouška nebo Chov prasat"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaÚterý15.00-16.50A31R. Filipčík, T. Kopec, J. Kuchtík, L. Máchal, P. Nevrkla, E. SobotkováPřednáškaKaždý týden60Středa9.00-10.50A24N-GAET. Kopec, R. Filipčík, Z. Hadaš, J. Kuchtík, M. Lichovníková, E. SobotkováCvičeníKaždý týden20Středa9.00-10.50A44T. Kopec, R. Filipčík, Z. Hadaš, J. Kuchtík, M. Lichovníková, E. SobotkováCvičeníKaždý týden20Středa11.00-12.50A44T. Kopec, R. Filipčík, Z. Hadaš, J. Kuchtík, M. Lichovníková, E. SobotkováCvičeníKaždý týden20Středa11.00-12.50A24N-GAET. Kopec, R. Filipčík, J. Kuchtík, M. Lichovníková, P. Nevrkla, E. SobotkováPřednáškaKaždý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Seznámit studenty se základy tvorby a realizace šlechtitelských programů u hlavních druhů hospodářských zvířat. Předmět je koncipován se zaměřením na selekční programy v chovu skotu, ovcí a koz, selekční a hybridizační programy v chovu drůbeže a prasat. U prezentovaných selekčních programů jsou vypracovány a mezi sebou konfrontovány metody provádění kontroly užitkovosti, tvorby a využití selekčních indexů a odhadů plemenné hodnoty u jednotlivých druhů hospodářských zvířat, se zaměřením na konkrétní selekční programy jednotlivých šlechtitelů. V rámci použití Animal modelu jsou definovány a vyhodnoceny jednotlivé vlivy prostředí na výsledný fenotypový projev. Uváděné hybridizační programy především v chovu drůbeže a prasat se zaměřují na nejpoužívanější metody hybridizace s vyústěním do programů využívaných jak v České republice, tak ve státech EU, USA a Kanady."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Šlechtění hospodářských zvířat (dotace 1/0) a.legislativní úprava šlechtění hospodářských zvířat v ČRb.organizace šlechtění hospodářských zvířatc.svazy chovatelů2.Selekce (dotace 0/1) a.metody selekceb.selekční indexyc.selekční efekt, selekční limity3.Principy odhadu plemenné hodnoty (dotace 1/0) a.BLUPb.ANIMAL MODELc.TEST-DAY MODEL4.Metody plemenitby (dotace 0/1) a.čistokrevná plemenitbab.příbuzenská plemenitbac.hybridizace5.Šlechtění skotu (dotace 1/1) a.kontrola užitkovosti6.Šlechtitelské programy v chovu českého strakatého skotu (dotace 1/1) a.šlechtitelský cílb.plemenná knihac.testační připařování, výběr zvířat, selekční kritéria7.Šlechtitelské programy v chovu holštýnského skotu (dotace 1/1) a.šlechtitelský cílb.plemenná knihac.testační připařování, výběr zvířat, selekční kritéria8.Šlechtitelské programy v chovu krav BTPM (dotace 1/1) a.šlechtitelský cílb.plemenná knihac.testační připařování, výběr zvířat, selekční kritéria9.Šlechtitelské programy v chovu ovcí a koz (dotace 1/1) a.šlechtitelský cíl, selekční kritéria v chovu ovcí a koz se zaměřením na produkci mlékab.šlechtitelský cíl, selekční kritéria v chovu ovcí a koz se zaměřením na produkci masa10.Šlechtitelské programy v chovu prasat (dotace 2/2) a.šlechtitelský cíl v chovu prasat v ČRb.otcovská a mateřská plemena prasatc.hybridizační program v chovu prasatd.testační připařování, výběr zvířat, selekční kritéria11.Šlechtění koní (dotace 1/1) a.organizace šlechtění koní v ČR a EUb.šlechtitelské programy v chovu starokladrubského koně a čekého teplokrevníka12.Šlechtitelské programy v chovu drůbeže (dotace 2/2) a.kontrola užitkovosti u drůbežeb.selekční kriteria v chovu nosného a masného typu drůbežec.hybridizační programy"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.legislativní úprava šlechtění hospodářských zvířat v ČRb.organizace šlechtění hospodářských zvířatc.svazy chovatelů"
+    },
+    {
+      "label": "[section] Šlechtění hospodářských zvířat",
+      "content": "a.legislativní úprava šlechtění hospodářských zvířat v ČRb.organizace šlechtění hospodářských zvířatc.svazy chovatelů"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.metody selekceb.selekční indexyc.selekční efekt, selekční limity"
+    },
+    {
+      "label": "[section] Selekce",
+      "content": "a.metody selekceb.selekční indexyc.selekční efekt, selekční limity"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.BLUPb.ANIMAL MODELc.TEST-DAY MODEL"
+    },
+    {
+      "label": "[section] Principy odhadu plemenné hodnoty",
+      "content": "a.BLUPb.ANIMAL MODELc.TEST-DAY MODEL"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.čistokrevná plemenitbab.příbuzenská plemenitbac.hybridizace"
+    },
+    {
+      "label": "[section] Metody plemenitby",
+      "content": "a.čistokrevná plemenitbab.příbuzenská plemenitbac.hybridizace"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.kontrola užitkovosti"
+    },
+    {
+      "label": "[section] Šlechtění skotu",
+      "content": "a.kontrola užitkovosti"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.šlechtitelský cílb.plemenná knihac.testační připařování, výběr zvířat, selekční kritéria"
+    },
+    {
+      "label": "[section] Šlechtitelské programy v chovu českého strakatého skotu",
+      "content": "a.šlechtitelský cílb.plemenná knihac.testační připařování, výběr zvířat, selekční kritéria"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.šlechtitelský cílb.plemenná knihac.testační připařování, výběr zvířat, selekční kritéria"
+    },
+    {
+      "label": "[section] Šlechtitelské programy v chovu holštýnského skotu",
+      "content": "a.šlechtitelský cílb.plemenná knihac.testační připařování, výběr zvířat, selekční kritéria"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.šlechtitelský cílb.plemenná knihac.testační připařování, výběr zvířat, selekční kritéria"
+    },
+    {
+      "label": "[section] Šlechtitelské programy v chovu krav BTPM",
+      "content": "a.šlechtitelský cílb.plemenná knihac.testační připařování, výběr zvířat, selekční kritéria"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.šlechtitelský cíl, selekční kritéria v chovu ovcí a koz se zaměřením na produkci mlékab.šlechtitelský cíl, selekční kritéria v chovu ovcí a koz se zaměřením na produkci masa"
+    },
+    {
+      "label": "[section] Šlechtitelské programy v chovu ovcí a koz",
+      "content": "a.šlechtitelský cíl, selekční kritéria v chovu ovcí a koz se zaměřením na produkci mlékab.šlechtitelský cíl, selekční kritéria v chovu ovcí a koz se zaměřením na produkci masa"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.šlechtitelský cíl v chovu prasat v ČRb.otcovská a mateřská plemena prasatc.hybridizační program v chovu prasatd.testační připařování, výběr zvířat, selekční kritéria"
+    },
+    {
+      "label": "[section] Šlechtitelské programy v chovu prasat",
+      "content": "a.šlechtitelský cíl v chovu prasat v ČRb.otcovská a mateřská plemena prasatc.hybridizační program v chovu prasatd.testační připařování, výběr zvířat, selekční kritéria"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.organizace šlechtění koní v ČR a EUb.šlechtitelské programy v chovu starokladrubského koně a čekého teplokrevníka"
+    },
+    {
+      "label": "[section] Šlechtění koní",
+      "content": "a.organizace šlechtění koní v ČR a EUb.šlechtitelské programy v chovu starokladrubského koně a čekého teplokrevníka"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.kontrola užitkovosti u drůbežeb.selekční kriteria v chovu nosného a masného typu drůbežec.hybridizační programy"
+    },
+    {
+      "label": "[section] Šlechtitelské programy v chovu drůbeže",
+      "content": "a.kontrola užitkovosti u drůbežeb.selekční kriteria v chovu nosného a masného typu drůbežec.hybridizační programy"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška24 hcvičení12 hpráce v terénu12 hodborná exkurze40 hkonzultace10 hpříprava na zkoušku50 hpříprava na průběžné hodnocení20 hCelkem168 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "K získání zápočtu je nutná minimální 80 % účast na cvičení, úspěšné splnění dvou testů v průběhu semestru (min. 70% správných odpovědí). Předmět je zakončen písemnou (40 % celkové úspěšnosti) a ústní zkouškou (30% z celkové úspěšnosti)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:JAKUBEC, Václav; BEZDÍČEK, Jiří; LOUDA, František. 2010. Selekce - inbríding - hybridizace. 1. vyd. Rapotín: Agrovýzkum Rapotín s.r.o. , 382 s. ISBN 978-80-87144-22-0.KUČERA, Josef; DVOŘÁK, Josef; CHLÁDEK, Gustav. 2004. Šlechtění českého strakatého skotu. Svaz chovatelů českého strakatého skotu, 91 s.JAKUBEC, Václav. 2001. Šlechtění ovcí. Výzkumný ústav chovu skotu Rapotín, 152 s.PŘIBYL, Josef. 1997. Šlechtění skotu a jeho vliv na jednotlivé chovy. MZe Praha, 36 s.Doporučená:JAKUBEC, Václav; ŘÍHA, Jan; GOLDA, Josef. 1998. Šlechtění masných plemen skotu. Výzkumný ústav chovu skotu Rapotín, 177 s.MÁCHAL, Ladislav. 1999. Možnosti využití lipémie a glykémie krevní plazmy slepic a kohoutů ve šlechtění a reprodukci výchozích linií snáškových hybridů. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 54 s. ISBN 80-7157-348-5."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "JAKUBEC, Václav; BEZDÍČEK, Jiří; LOUDA, František. 2010. Selekce - inbríding - hybridizace. 1. vyd. Rapotín: Agrovýzkum Rapotín s.r.o. , 382 s. ISBN 978-80-87144-22-0.KUČERA, Josef; DVOŘÁK, Josef; CHLÁDEK, Gustav. 2004. Šlechtění českého strakatého skotu. Svaz chovatelů českého strakatého skotu, 91 s.JAKUBEC, Václav. 2001. Šlechtění ovcí. Výzkumný ústav chovu skotu Rapotín, 152 s.PŘIBYL, Josef. 1997. Šlechtění skotu a jeho vliv na jednotlivé chovy. MZe Praha, 36 s."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "JAKUBEC, Václav; ŘÍHA, Jan; GOLDA, Josef. 1998. Šlechtění masných plemen skotu. Výzkumný ústav chovu skotu Rapotín, 177 s.MÁCHAL, Ladislav. 1999. Možnosti využití lipémie a glykémie krevní plazmy slepic a kohoutů ve šlechtění a reprodukci výchozích linií snáškových hybridů. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 54 s. ISBN 80-7157-348-5."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-ZOT Zootechnika, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "SLHZ1"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Šlechtitelské programy hospodářských zvířat"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Breeding Programmes of Farm Animals"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (7 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master; master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "no"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech, English"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Radek Filipčík, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Animal Breeding (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Radek Filipčík, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Zdeněk Hadaš, Ph.D. (instructor)Ing. Tomáš Kopec, Ph.D. (examiner, instructor, lecturer)prof. Dr. Ing. Jan Kuchtík (instructor, lecturer)prof. Ing. Martina Lichovníková, Ph.D., MBA (instructor, lecturer)prof. Ing. Ladislav Máchal, DrSc. (examiner, lecturer)doc. Ing. Pavel Nevrkla, Ph.D. (instructor, lecturer)Ing. Eva Sobotková, Ph.D. (instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Cattle Husbandry or Bachelor State Examination or Pig Husbandry"
+    },
+    {
+      "label": "1.",
+      "content": "Breeding of farm animals (allowance 1/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Legislation concerning livestock breeding in the CR"
+    },
+    {
+      "label": "b.",
+      "content": "Organisation of breeding of farm animals"
+    },
+    {
+      "label": "c.",
+      "content": "Breeders associations"
+    },
+    {
+      "label": "2.",
+      "content": "Principles of breeding value estimation (allowance 1/0)"
+    },
+    {
+      "label": "a.",
+      "content": "BLUP"
+    },
+    {
+      "label": "b.",
+      "content": "ANIMAL MODEL"
+    },
+    {
+      "label": "c.",
+      "content": "TEST DAY MODEL"
+    },
+    {
+      "label": "3.",
+      "content": "Selection and Breeding methods (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Methods of selection, selection indexes, selection effect, selection limits"
+    },
+    {
+      "label": "b.",
+      "content": "Pure breeding, inbreeding, hybridization"
+    },
+    {
+      "label": "4.",
+      "content": "Breeding of cattle (allowance 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Breeding of Czech Fleckvieh"
+    },
+    {
+      "label": "b.",
+      "content": "Breeding of Holstein"
+    },
+    {
+      "label": "c.",
+      "content": "Breeding of Beef cattle"
+    },
+    {
+      "label": "5.",
+      "content": "Breeding of small ruminants (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Breeding of sheep"
+    },
+    {
+      "label": "b.",
+      "content": "Breeding of goat"
+    },
+    {
+      "label": "6.",
+      "content": "Breeding of pig (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Hybridization program"
+    },
+    {
+      "label": "b.",
+      "content": "Paternal and maternal pig breeds"
+    },
+    {
+      "label": "7.",
+      "content": "Breeding of horse (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Organisation of horse breeding in the CR and EU"
+    },
+    {
+      "label": "b.",
+      "content": "Breeding programmes of Old Kladruby and Czech Warmblood horse breeds"
+    },
+    {
+      "label": "8.",
+      "content": "Breeding of poultry (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Poultry performance testing"
+    },
+    {
+      "label": "b.",
+      "content": "Selection criteria in flocks of egg and broiler producing poultry type"
+    },
+    {
+      "label": "c.",
+      "content": "Hybridisation programmes"
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021, SS 2019/2020 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Šlechtitelské programy hospodářských zvířat"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Breeding Programmes of Farm Animals"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (7 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (7 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master; master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: no"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech, English"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Radek Filipčík, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Animal Breeding (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Radek Filipčík, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Zdeněk Hadaš, Ph.D. (instructor)Ing. Tomáš Kopec, Ph.D. (examiner, instructor, lecturer)prof. Dr. Ing. Jan Kuchtík (instructor, lecturer)prof. Ing. Martina Lichovníková, Ph.D., MBA (instructor, lecturer)prof. Ing. Ladislav Máchal, DrSc. (examiner, lecturer)doc. Ing. Pavel Nevrkla, Ph.D. (instructor, lecturer)Ing. Eva Sobotková, Ph.D. (instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Cattle Husbandry or Bachelor State Examination or Pig Husbandry"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityTuesday15.00-16.50A31R. Filipčík, T. Kopec, J. Kuchtík, L. Máchal, P. Nevrkla, E. SobotkováLectureEvery week60Wednesday9.00-10.50A44T. Kopec, R. Filipčík, Z. Hadaš, J. Kuchtík, M. Lichovníková, E. SobotkováSeminarEvery week20Wednesday9.00-10.50A24N-GAET. Kopec, R. Filipčík, Z. Hadaš, J. Kuchtík, M. Lichovníková, E. SobotkováSeminarEvery week20Wednesday11.00-12.50A24N-GAET. Kopec, R. Filipčík, J. Kuchtík, M. Lichovníková, P. Nevrkla, E. SobotkováLectureEvery week20Wednesday11.00-12.50A44T. Kopec, R. Filipčík, Z. Hadaš, J. Kuchtík, M. Lichovníková, E. SobotkováSeminarEvery week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "In this course the students will learn about principles of formulation and implementation of breeding programmes in the most important branches of animal industry. Main attention is paid above all to selection and hybridization programmes in cattle, sheep, goat, pig and poultry breeding. As far as the selection programmes are concerned, students will learn about methods of performance testing and application of selection indexes and estimations of the breeding value. Attention will be paid also to selection programmes of individual breeders. When estimating the breeding value of individual species, the programme ANIMAL MODEL defines and evaluates effects of individual environmental factors on the manifestation of animal phenotype. Finally, they will also learn about hybridization programmes used not only in the Czech Republic but also in EU, USA and Canada."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Breeding of farm animals (allowance 1/0) a.Legislation concerning livestock breeding in the CRb.Organisation of breeding of farm animalsc.Breeders associations2.Principles of breeding value estimation (allowance 1/0) a.BLUPb.ANIMAL MODELc.TEST DAY MODEL3.Selection and Breeding methods (allowance 0/2) a.Methods of selection, selection indexes, selection effect, selection limitsb.Pure breeding, inbreeding, hybridization4.Breeding of cattle (allowance 3/3) a.Breeding of Czech Fleckviehb.Breeding of Holsteinc.Breeding of Beef cattle5.Breeding of small ruminants (allowance 1/1) a.Breeding of sheepb.Breeding of goat6.Breeding of pig (allowance 2/2) a.Hybridization programb.Paternal and maternal pig breeds7.Breeding of horse (allowance 1/1) a.Organisation of horse breeding in the CR and EUb.Breeding programmes of Old Kladruby and Czech Warmblood horse breeds8.Breeding of poultry (allowance 2/2) a.Poultry performance testingb.Selection criteria in flocks of egg and broiler producing poultry typec.Hybridisation programmes"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Legislation concerning livestock breeding in the CRb.Organisation of breeding of farm animalsc.Breeders associations"
+    },
+    {
+      "label": "[section] Breeding of farm animals",
+      "content": "a.Legislation concerning livestock breeding in the CRb.Organisation of breeding of farm animalsc.Breeders associations"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.BLUPb.ANIMAL MODELc.TEST DAY MODEL"
+    },
+    {
+      "label": "[section] Principles of breeding value estimation",
+      "content": "a.BLUPb.ANIMAL MODELc.TEST DAY MODEL"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Methods of selection, selection indexes, selection effect, selection limitsb.Pure breeding, inbreeding, hybridization"
+    },
+    {
+      "label": "[section] Selection and Breeding methods",
+      "content": "a.Methods of selection, selection indexes, selection effect, selection limitsb.Pure breeding, inbreeding, hybridization"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Breeding of Czech Fleckviehb.Breeding of Holsteinc.Breeding of Beef cattle"
+    },
+    {
+      "label": "[section] Breeding of cattle",
+      "content": "a.Breeding of Czech Fleckviehb.Breeding of Holsteinc.Breeding of Beef cattle"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Breeding of sheepb.Breeding of goat"
+    },
+    {
+      "label": "[section] Breeding of small ruminants",
+      "content": "a.Breeding of sheepb.Breeding of goat"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Hybridization programb.Paternal and maternal pig breeds"
+    },
+    {
+      "label": "[section] Breeding of pig",
+      "content": "a.Hybridization programb.Paternal and maternal pig breeds"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Organisation of horse breeding in the CR and EUb.Breeding programmes of Old Kladruby and Czech Warmblood horse breeds"
+    },
+    {
+      "label": "[section] Breeding of horse",
+      "content": "a.Organisation of horse breeding in the CR and EUb.Breeding programmes of Old Kladruby and Czech Warmblood horse breeds"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Poultry performance testingb.Selection criteria in flocks of egg and broiler producing poultry typec.Hybridisation programmes"
+    },
+    {
+      "label": "[section] Breeding of poultry",
+      "content": "a.Poultry performance testingb.Selection criteria in flocks of egg and broiler producing poultry typec.Hybridisation programmes"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture24 hpractice12 hfield work12 hprofessional educational excursion40 hconsultation10 hpreparation for exam50 hpreparation for regular assessment20 hTotal168 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "For Credit you have to receive minimal 80 % participation on exercising, correct writing 2 tests during exercising (min. 70 % points). Examination from subject is written (40 % of the total mark) and oral (30 % of the total mark)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:JAKUBEC, Václav; BEZDÍČEK, Jiří; LOUDA, František. 2010. Selekce - inbríding - hybridizace. 1st ed. Rapotín: Agrovýzkum Rapotín s.r.o. , 382 p. ISBN 978-80-87144-22-0.KUČERA, Josef; DVOŘÁK, Josef; CHLÁDEK, Gustav. 2004. Šlechtění českého strakatého skotu. Svaz chovatelů českého strakatého skotu, 91 p.JAKUBEC, Václav. 2001. Šlechtění ovcí. Výzkumný ústav chovu skotu Rapotín, 152 p.PŘIBYL, Josef. 1997. Šlechtění skotu a jeho vliv na jednotlivé chovy. MZe Praha, 36 p.Recommended:JAKUBEC, Václav; ŘÍHA, Jan; GOLDA, Josef. 1998. Šlechtění masných plemen skotu. Výzkumný ústav chovu skotu Rapotín, 177 p.MÁCHAL, Ladislav. 1999. Možnosti využití lipémie a glykémie krevní plazmy slepic a kohoutů ve šlechtění a reprodukci výchozích linií snáškových hybridů. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 54 p. ISBN 80-7157-348-5."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "JAKUBEC, Václav; BEZDÍČEK, Jiří; LOUDA, František. 2010. Selekce - inbríding - hybridizace. 1st ed. Rapotín: Agrovýzkum Rapotín s.r.o. , 382 p. ISBN 978-80-87144-22-0.KUČERA, Josef; DVOŘÁK, Josef; CHLÁDEK, Gustav. 2004. Šlechtění českého strakatého skotu. Svaz chovatelů českého strakatého skotu, 91 p.JAKUBEC, Václav. 2001. Šlechtění ovcí. Výzkumný ústav chovu skotu Rapotín, 152 p.PŘIBYL, Josef. 1997. Šlechtění skotu a jeho vliv na jednotlivé chovy. MZe Praha, 36 p."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "JAKUBEC, Václav; ŘÍHA, Jan; GOLDA, Josef. 1998. Šlechtění masných plemen skotu. Výzkumný ústav chovu skotu Rapotín, 177 p.MÁCHAL, Ladislav. 1999. Možnosti využití lipémie a glykémie krevní plazmy slepic a kohoutů ve šlechtění a reprodukci výchozích linií snáškových hybridů. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 54 p. ISBN 80-7157-348-5."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-ZOT Animal Breeding, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:13:41",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

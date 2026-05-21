@@ -1,0 +1,841 @@
+{
+  "courseCode": "NPDK",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "NPDK"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Navrhování dřevěných prvků a konstrukcí"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Design of Wooden Elements and Structures"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 14/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský; magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Václav Sebera, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Michal Bošanský, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Václav Sebera, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Zuzana Sochorová, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška a (Aplikovaná matematika nebo Aplikovaná matematika nebo nyní Aplikovaná matematika)"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod problematiky dřevěných nosných konstrukcí (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "základní typy rovinných a prostorových konstrukcí z pohledu historického vývoje až po současné aplikace,"
+    },
+    {
+      "label": "b.",
+      "content": "statická funkce, prostorová tuhost a systém přenosu zatížení,"
+    },
+    {
+      "label": "c.",
+      "content": "příklady aplikace jednotlivých systémů a konstrukcí."
+    },
+    {
+      "label": "2.",
+      "content": "Zatížení stavebných konstrukcí (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "druhy zatížení a jejich modelování,"
+    },
+    {
+      "label": "b.",
+      "content": "příklady výpočtu a kombinace zatížení."
+    },
+    {
+      "label": "3.",
+      "content": "Základní rovinné prutové soustavy a jejich řešení (dotace 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "základní typy staticky určitých soustav,"
+    },
+    {
+      "label": "b.",
+      "content": "výpočet vnitřních sil u prostého nosníku,"
+    },
+    {
+      "label": "c.",
+      "content": "výpočet vnitřních sil u nosníku s převislým koncem,"
+    },
+    {
+      "label": "d.",
+      "content": "výpočet vnitřních sil u konzoly,"
+    },
+    {
+      "label": "e.",
+      "content": "výpočet vnitřních sil u Gerberového nosníku,"
+    },
+    {
+      "label": "f.",
+      "content": "statická funkce a metody výpočtu pro plnostěnné a příhradové nosníky."
+    },
+    {
+      "label": "4.",
+      "content": "Pokročilé prutové soustavy a jejich řešení (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "základní typy staticky neurčitých soustav (spojité nosníky, rámy, oblouky)jejich statická funkce a metody výpočtu,"
+    },
+    {
+      "label": "b.",
+      "content": "princip silové a deformační metody pro řešení staticky neurčitých konstrukcí,"
+    },
+    {
+      "label": "c.",
+      "content": "příklad výpočtu staticky neurčité rámové konstrukce a oblouku."
+    },
+    {
+      "label": "5.",
+      "content": "Navrhovaní a posuzování konstrukci ze dřeva podle teorie mezních stavu podle Eurokódu a ČSN 73 1702 (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "pevnostní charakteristiky dřeva a jejich výpočet,"
+    },
+    {
+      "label": "b.",
+      "content": "prvek namáhaný tahem a tlakem,"
+    },
+    {
+      "label": "c.",
+      "content": "prvek namáhaný ohybem,"
+    },
+    {
+      "label": "d.",
+      "content": "kombinace namáhaní."
+    },
+    {
+      "label": "6.",
+      "content": "Příklady navrhovaní a posuzování konstrukci ze dřeva (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "výpočet a návrh průřezu prostého nosníku,"
+    },
+    {
+      "label": "b.",
+      "content": "výpočet a návrh příhradového nosníku,"
+    },
+    {
+      "label": "c.",
+      "content": "výpočet a návrh hambálkového krovu."
+    },
+    {
+      "label": "7.",
+      "content": "Spoje a únosnost spojovacích prvků (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "typy spojů,"
+    },
+    {
+      "label": "b.",
+      "content": "příklady výpočtu únosnosti některých typů."
+    },
+    {
+      "label": "8.",
+      "content": "Speciální případy konstrukcí (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "analýza přímého prutu proměnlivého průřezu,"
+    },
+    {
+      "label": "b.",
+      "content": "způsob uložení vnějších vazeb rovinného zakřivení prostého nosníku."
+    },
+    {
+      "label": "9.",
+      "content": "Základní konstrukční detaily (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "detaily spojů a uložení."
+    },
+    {
+      "label": "10.",
+      "content": "Prostorové konstrukce (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "typy a skladba prostorových konstrukcí,"
+    },
+    {
+      "label": "b.",
+      "content": "plnostěnné konstrukce,"
+    },
+    {
+      "label": "c.",
+      "content": "skořepiny a lomenice,"
+    },
+    {
+      "label": "d.",
+      "content": "prutové prostorové konstrukce."
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021, LS 2019/2020 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Navrhování dřevěných prvků a konstrukcí"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Design of Wooden Elements and Structures"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 14/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 14/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský; magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Václav Sebera, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Michal Bošanský, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Václav Sebera, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Zuzana Sochorová, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška a (Aplikovaná matematika nebo Aplikovaná matematika nebo nyní Aplikovaná matematika)"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je seznámit studenty se základními typy dřevěných nosných konstrukcí a možnostmi jejich použití v praxi. V rámci předmětu jsou obsaženy základní informace o statické funkci základných typů konstrukcí, jejich chování a navrhovaní."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod problematiky dřevěných nosných konstrukcí (dotace 2/0) a.základní typy rovinných a prostorových konstrukcí z pohledu historického vývoje až po současné aplikace,b.statická funkce, prostorová tuhost a systém přenosu zatížení,c.příklady aplikace jednotlivých systémů a konstrukcí.2.Zatížení stavebných konstrukcí (dotace 2/2) a.druhy zatížení a jejich modelování,b.příklady výpočtu a kombinace zatížení.3.Základní rovinné prutové soustavy a jejich řešení (dotace 8/8) a.základní typy staticky určitých soustav,b.výpočet vnitřních sil u prostého nosníku,c.výpočet vnitřních sil u nosníku s převislým koncem,d.výpočet vnitřních sil u konzoly,e.výpočet vnitřních sil u Gerberového nosníku,f.statická funkce a metody výpočtu pro plnostěnné a příhradové nosníky.4.Pokročilé prutové soustavy a jejich řešení (dotace 4/4) a.základní typy staticky neurčitých soustav (spojité nosníky, rámy, oblouky)jejich statická funkce a metody výpočtu,b.princip silové a deformační metody pro řešení staticky neurčitých konstrukcí,c.příklad výpočtu staticky neurčité rámové konstrukce a oblouku.5.Navrhovaní a posuzování konstrukci ze dřeva podle teorie mezních stavu podle Eurokódu a ČSN 73 1702 (dotace 2/4) a.pevnostní charakteristiky dřeva a jejich výpočet,b.prvek namáhaný tahem a tlakem,c.prvek namáhaný ohybem,d.kombinace namáhaní.6.Příklady navrhovaní a posuzování konstrukci ze dřeva (dotace 2/2) a.výpočet a návrh průřezu prostého nosníku,b.výpočet a návrh příhradového nosníku,c.výpočet a návrh hambálkového krovu.7.Spoje a únosnost spojovacích prvků (dotace 2/4) a.typy spojů,b.příklady výpočtu únosnosti některých typů.8.Speciální případy konstrukcí (dotace 2/0) a.analýza přímého prutu proměnlivého průřezu,b.způsob uložení vnějších vazeb rovinného zakřivení prostého nosníku.9.Základní konstrukční detaily (dotace 2/4) a.detaily spojů a uložení.10.Prostorové konstrukce (dotace 2/0) a.typy a skladba prostorových konstrukcí,b.plnostěnné konstrukce,c.skořepiny a lomenice,d.prutové prostorové konstrukce."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.základní typy rovinných a prostorových konstrukcí z pohledu historického vývoje až po současné aplikace,b.statická funkce, prostorová tuhost a systém přenosu zatížení,c.příklady aplikace jednotlivých systémů a konstrukcí."
+    },
+    {
+      "label": "[section] Úvod problematiky dřevěných nosných konstrukcí",
+      "content": "a.základní typy rovinných a prostorových konstrukcí z pohledu historického vývoje až po současné aplikace,b.statická funkce, prostorová tuhost a systém přenosu zatížení,c.příklady aplikace jednotlivých systémů a konstrukcí."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.druhy zatížení a jejich modelování,b.příklady výpočtu a kombinace zatížení."
+    },
+    {
+      "label": "[section] Zatížení stavebných konstrukcí",
+      "content": "a.druhy zatížení a jejich modelování,b.příklady výpočtu a kombinace zatížení."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.základní typy staticky určitých soustav,b.výpočet vnitřních sil u prostého nosníku,c.výpočet vnitřních sil u nosníku s převislým koncem,d.výpočet vnitřních sil u konzoly,e.výpočet vnitřních sil u Gerberového nosníku,f.statická funkce a metody výpočtu pro plnostěnné a příhradové nosníky."
+    },
+    {
+      "label": "[section] Základní rovinné prutové soustavy a jejich řešení",
+      "content": "a.základní typy staticky určitých soustav,b.výpočet vnitřních sil u prostého nosníku,c.výpočet vnitřních sil u nosníku s převislým koncem,d.výpočet vnitřních sil u konzoly,e.výpočet vnitřních sil u Gerberového nosníku,f.statická funkce a metody výpočtu pro plnostěnné a příhradové nosníky."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.základní typy staticky neurčitých soustav (spojité nosníky, rámy, oblouky)jejich statická funkce a metody výpočtu,b.princip silové a deformační metody pro řešení staticky neurčitých konstrukcí,c.příklad výpočtu staticky neurčité rámové konstrukce a oblouku."
+    },
+    {
+      "label": "[section] Pokročilé prutové soustavy a jejich řešení",
+      "content": "a.základní typy staticky neurčitých soustav (spojité nosníky, rámy, oblouky)jejich statická funkce a metody výpočtu,b.princip silové a deformační metody pro řešení staticky neurčitých konstrukcí,c.příklad výpočtu staticky neurčité rámové konstrukce a oblouku."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.pevnostní charakteristiky dřeva a jejich výpočet,b.prvek namáhaný tahem a tlakem,c.prvek namáhaný ohybem,d.kombinace namáhaní."
+    },
+    {
+      "label": "[section] Navrhovaní a posuzování konstrukci ze dřeva podle teorie mezních stavu podle Eurokódu a ČSN 73 1702",
+      "content": "a.pevnostní charakteristiky dřeva a jejich výpočet,b.prvek namáhaný tahem a tlakem,c.prvek namáhaný ohybem,d.kombinace namáhaní."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.výpočet a návrh průřezu prostého nosníku,b.výpočet a návrh příhradového nosníku,c.výpočet a návrh hambálkového krovu."
+    },
+    {
+      "label": "[section] Příklady navrhovaní a posuzování konstrukci ze dřeva",
+      "content": "a.výpočet a návrh průřezu prostého nosníku,b.výpočet a návrh příhradového nosníku,c.výpočet a návrh hambálkového krovu."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.typy spojů,b.příklady výpočtu únosnosti některých typů."
+    },
+    {
+      "label": "[section] Spoje a únosnost spojovacích prvků",
+      "content": "a.typy spojů,b.příklady výpočtu únosnosti některých typů."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.analýza přímého prutu proměnlivého průřezu,b.způsob uložení vnějších vazeb rovinného zakřivení prostého nosníku."
+    },
+    {
+      "label": "[section] Speciální případy konstrukcí",
+      "content": "a.analýza přímého prutu proměnlivého průřezu,b.způsob uložení vnějších vazeb rovinného zakřivení prostého nosníku."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.detaily spojů a uložení."
+    },
+    {
+      "label": "[section] Základní konstrukční detaily",
+      "content": "a.detaily spojů a uložení."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.typy a skladba prostorových konstrukcí,b.plnostěnné konstrukce,c.skořepiny a lomenice,d.prutové prostorové konstrukce."
+    },
+    {
+      "label": "[section] Prostorové konstrukce",
+      "content": "a.typy a skladba prostorových konstrukcí,b.plnostěnné konstrukce,c.skořepiny a lomenice,d.prutové prostorové konstrukce."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h0 hcvičení28 h0 hCelkem56 h0 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "zápočet, zkouška"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumCelkem0 %0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:KADLČÁK, Jaroslav; KYTÝR, Jiří. 2010. Statika stavebních konstrukcí. 3. vyd. V Brně: VUTIUM, 349 s. ISBN 978-80-214-3419-6.KUKLÍKOVÁ, Anna; KUKLÍK, Petr. 2010. Navrhování dřevěných konstrukcí. Příručka k ČSN EN 1995-1. 1. Praha: IC ČKAIT, 140 s. ISBN 978-80-87093-88-7. Dřevěné konstrukce podle Eurokódu 5. 2004. 1. vyd. Praha: Informační centrum ČKAIT, 401 s. ISBN 80-86769-13-5.HAVÍŘOVÁ, Zdeňka. 2003. Technická mechanika I.: základy statiky, pružnost a pevnost. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 105 s. ISBN 80-7157-667-0.HAVÍŘOVÁ, Zdeňka. 2006. Technická mechanika : cvičení. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 88 s. ISBN 80-7157-940-8."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "KADLČÁK, Jaroslav; KYTÝR, Jiří. 2010. Statika stavebních konstrukcí. 3. vyd. V Brně: VUTIUM, 349 s. ISBN 978-80-214-3419-6.KUKLÍKOVÁ, Anna; KUKLÍK, Petr. 2010. Navrhování dřevěných konstrukcí. Příručka k ČSN EN 1995-1. 1. Praha: IC ČKAIT, 140 s. ISBN 978-80-87093-88-7. Dřevěné konstrukce podle Eurokódu 5. 2004. 1. vyd. Praha: Informační centrum ČKAIT, 401 s. ISBN 80-86769-13-5.HAVÍŘOVÁ, Zdeňka. 2003. Technická mechanika I.: základy statiky, pružnost a pevnost. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 105 s. ISBN 80-7157-667-0.HAVÍŘOVÁ, Zdeňka. 2006. Technická mechanika : cvičení. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 88 s. ISBN 80-7157-940-8."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-TMZD Technologie a management zpracování dřeva, kombinovaná forma, počáteční období ZS 2024/2025Program N-TMZD Technologie a management zpracování dřeva, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "NPDK"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Navrhování dřevěných prvků a konstrukcí"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Design of Wooden Elements and Structures"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 14/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master; master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Václav Sebera, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Michal Bošanský, Ph.D. (examiner, instructor, lecturer)doc. Ing. Václav Sebera, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Zuzana Sochorová, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "State Bachelor Examination and (Applied Mathematics or Applied Mathematics or now Applied Mathematics)"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to timber load-bearing structures (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "basic types of planar and spatial structures from the past up to present,"
+    },
+    {
+      "label": "b.",
+      "content": "static function, spatial stiffness and load transfer system,"
+    },
+    {
+      "label": "c.",
+      "content": "examples of application systems and structures."
+    },
+    {
+      "label": "2.",
+      "content": "Load of building structures (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "types of loads and their modeling,"
+    },
+    {
+      "label": "b.",
+      "content": "examples of calculation and load combinations."
+    },
+    {
+      "label": "3.",
+      "content": "Basic planar bar systems and their solutions (allowance 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "basic types of statically determinate systems,"
+    },
+    {
+      "label": "b.",
+      "content": "simple beam,"
+    },
+    {
+      "label": "c.",
+      "content": "beam with overhanging parts,"
+    },
+    {
+      "label": "d.",
+      "content": "console,"
+    },
+    {
+      "label": "e.",
+      "content": "Gerber's beam,"
+    },
+    {
+      "label": "f.",
+      "content": "solid elements and truss girder."
+    },
+    {
+      "label": "4.",
+      "content": "Advanced bar systems and their solutions (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "basic types of statically indeterminate systems (continuous beams, frames, arches) their static function and calculation methods,"
+    },
+    {
+      "label": "b.",
+      "content": "principle of force and deformation methods for solving statically indeterminate structures,"
+    },
+    {
+      "label": "c.",
+      "content": "example of calculation of statically indeterminate structure."
+    },
+    {
+      "label": "5.",
+      "content": "Design and assessment of timber structures according to Eurocode and national standard ČSN 73 1702 (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "wood characteristics and their calculation,"
+    },
+    {
+      "label": "b.",
+      "content": "tensile and compressive stress on element,"
+    },
+    {
+      "label": "c.",
+      "content": "simple bending, shear,"
+    },
+    {
+      "label": "d.",
+      "content": "combination of stresses."
+    },
+    {
+      "label": "6.",
+      "content": "Examples of design and assessment of timber structures (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "calculation and design of cross-section of simple beam,"
+    },
+    {
+      "label": "b.",
+      "content": "calculation and design of truss,"
+    },
+    {
+      "label": "c.",
+      "content": "calculation and design of the roof truss."
+    },
+    {
+      "label": "7.",
+      "content": "Joints and load-bearing capacity of fasteners (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "types of joints,"
+    },
+    {
+      "label": "b.",
+      "content": "examples of calculation of bearing capacity of some types."
+    },
+    {
+      "label": "8.",
+      "content": "Special cases of structures (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "analysis of straight bar of variable cross-section,"
+    },
+    {
+      "label": "b.",
+      "content": "methods of anchoring planar and curvature beams."
+    },
+    {
+      "label": "9.",
+      "content": "Basic details (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Details of joints and anchoring."
+    },
+    {
+      "label": "10.",
+      "content": "Spatial constructions (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "types and composition of spatial structures,"
+    },
+    {
+      "label": "b.",
+      "content": "solid-walled structures,"
+    },
+    {
+      "label": "c.",
+      "content": "shells and flares,"
+    },
+    {
+      "label": "d.",
+      "content": "bar spatial structures."
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021, SS 2019/2020 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Navrhování dřevěných prvků a konstrukcí"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Design of Wooden Elements and Structures"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 14/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 14/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master; master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Václav Sebera, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Michal Bošanský, Ph.D. (examiner, instructor, lecturer)doc. Ing. Václav Sebera, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Zuzana Sochorová, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: State Bachelor Examination and (Applied Mathematics or Applied Mathematics or now Applied Mathematics)"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The course brings an overview about basic types of timber load-bearing structures and their use in practice. Lectures contains basic information about static function of basic types of wooden structures, their behavior and design."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to timber load-bearing structures (allowance 2/0) a.basic types of planar and spatial structures from the past up to present,b.static function, spatial stiffness and load transfer system,c.examples of application systems and structures.2.Load of building structures (allowance 2/2) a.types of loads and their modeling,b.examples of calculation and load combinations.3.Basic planar bar systems and their solutions (allowance 8/8) a.basic types of statically determinate systems,b.simple beam,c.beam with overhanging parts,d.console,e.Gerber's beam,f.solid elements and truss girder.4.Advanced bar systems and their solutions (allowance 4/4) a.basic types of statically indeterminate systems (continuous beams, frames, arches) their static function and calculation methods,b.principle of force and deformation methods for solving statically indeterminate structures,c.example of calculation of statically indeterminate structure.5.Design and assessment of timber structures according to Eurocode and national standard ČSN 73 1702 (allowance 2/4) a.wood characteristics and their calculation,b.tensile and compressive stress on element,c.simple bending, shear,d.combination of stresses.6.Examples of design and assessment of timber structures (allowance 2/2) a.calculation and design of cross-section of simple beam,b.calculation and design of truss,c.calculation and design of the roof truss.7.Joints and load-bearing capacity of fasteners (allowance 2/4) a.types of joints,b.examples of calculation of bearing capacity of some types.8.Special cases of structures (allowance 2/0) a.analysis of straight bar of variable cross-section,b.methods of anchoring planar and curvature beams.9.Basic details (allowance 2/4) a.Details of joints and anchoring.10.Spatial constructions (allowance 2/0) a.types and composition of spatial structures,b.solid-walled structures,c.shells and flares,d.bar spatial structures."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.basic types of planar and spatial structures from the past up to present,b.static function, spatial stiffness and load transfer system,c.examples of application systems and structures."
+    },
+    {
+      "label": "[section] Introduction to timber load-bearing structures",
+      "content": "a.basic types of planar and spatial structures from the past up to present,b.static function, spatial stiffness and load transfer system,c.examples of application systems and structures."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.types of loads and their modeling,b.examples of calculation and load combinations."
+    },
+    {
+      "label": "[section] Load of building structures",
+      "content": "a.types of loads and their modeling,b.examples of calculation and load combinations."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.basic types of statically determinate systems,b.simple beam,c.beam with overhanging parts,d.console,e.Gerber's beam,f.solid elements and truss girder."
+    },
+    {
+      "label": "[section] Basic planar bar systems and their solutions",
+      "content": "a.basic types of statically determinate systems,b.simple beam,c.beam with overhanging parts,d.console,e.Gerber's beam,f.solid elements and truss girder."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.basic types of statically indeterminate systems (continuous beams, frames, arches) their static function and calculation methods,b.principle of force and deformation methods for solving statically indeterminate structures,c.example of calculation of statically indeterminate structure."
+    },
+    {
+      "label": "[section] Advanced bar systems and their solutions",
+      "content": "a.basic types of statically indeterminate systems (continuous beams, frames, arches) their static function and calculation methods,b.principle of force and deformation methods for solving statically indeterminate structures,c.example of calculation of statically indeterminate structure."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.wood characteristics and their calculation,b.tensile and compressive stress on element,c.simple bending, shear,d.combination of stresses."
+    },
+    {
+      "label": "[section] Design and assessment of timber structures according to Eurocode and national standard ČSN 73 1702",
+      "content": "a.wood characteristics and their calculation,b.tensile and compressive stress on element,c.simple bending, shear,d.combination of stresses."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.calculation and design of cross-section of simple beam,b.calculation and design of truss,c.calculation and design of the roof truss."
+    },
+    {
+      "label": "[section] Examples of design and assessment of timber structures",
+      "content": "a.calculation and design of cross-section of simple beam,b.calculation and design of truss,c.calculation and design of the roof truss."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.types of joints,b.examples of calculation of bearing capacity of some types."
+    },
+    {
+      "label": "[section] Joints and load-bearing capacity of fasteners",
+      "content": "a.types of joints,b.examples of calculation of bearing capacity of some types."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.analysis of straight bar of variable cross-section,b.methods of anchoring planar and curvature beams."
+    },
+    {
+      "label": "[section] Special cases of structures",
+      "content": "a.analysis of straight bar of variable cross-section,b.methods of anchoring planar and curvature beams."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Details of joints and anchoring."
+    },
+    {
+      "label": "[section] Basic details",
+      "content": "a.Details of joints and anchoring."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.types and composition of spatial structures,b.solid-walled structures,c.shells and flares,d.bar spatial structures."
+    },
+    {
+      "label": "[section] Spatial constructions",
+      "content": "a.types and composition of spatial structures,b.solid-walled structures,c.shells and flares,d.bar spatial structures."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h0 hpractice28 h0 hTotal56 h0 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "credit, exam"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTotal0 %0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:KADLČÁK, Jaroslav; KYTÝR, Jiří. 2010. Statika stavebních konstrukcí. 3rd ed. V Brně: VUTIUM, 349 p. ISBN 978-80-214-3419-6.KUKLÍKOVÁ, Anna; KUKLÍK, Petr. 2010. Navrhování dřevěných konstrukcí. Příručka k ČSN EN 1995-1. 1. Praha: IC ČKAIT, 140 p. ISBN 978-80-87093-88-7. Dřevěné konstrukce podle Eurokódu 5. 2004. 1st ed. Praha: Informační centrum ČKAIT, 401 p. ISBN 80-86769-13-5.HAVÍŘOVÁ, Zdeňka. 2003. Technická mechanika I.: základy statiky, pružnost a pevnost. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 105 p. ISBN 80-7157-667-0.HAVÍŘOVÁ, Zdeňka. 2006. Technická mechanika : cvičení. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 88 p. ISBN 80-7157-940-8."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "KADLČÁK, Jaroslav; KYTÝR, Jiří. 2010. Statika stavebních konstrukcí. 3rd ed. V Brně: VUTIUM, 349 p. ISBN 978-80-214-3419-6.KUKLÍKOVÁ, Anna; KUKLÍK, Petr. 2010. Navrhování dřevěných konstrukcí. Příručka k ČSN EN 1995-1. 1. Praha: IC ČKAIT, 140 p. ISBN 978-80-87093-88-7. Dřevěné konstrukce podle Eurokódu 5. 2004. 1st ed. Praha: Informační centrum ČKAIT, 401 p. ISBN 80-86769-13-5.HAVÍŘOVÁ, Zdeňka. 2003. Technická mechanika I.: základy statiky, pružnost a pevnost. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 105 p. ISBN 80-7157-667-0.HAVÍŘOVÁ, Zdeňka. 2006. Technická mechanika : cvičení. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 88 p. ISBN 80-7157-940-8."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-TMZD Technology and Management in Wood Processing, part-time form, initial period WS 2024/2025Programme C-TMZD Technology and Management in Wood Processing, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:35:33",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

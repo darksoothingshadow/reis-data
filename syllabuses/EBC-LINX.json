@@ -1,0 +1,757 @@
+{
+  "courseCode": "EBC-LINX",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-LINX"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Operační systém Linux"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Linux Operating System"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "prof. Ing. Cyril Klimeš, CSc. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Ludmila Kunderová (cvičící, přednášející, tutor, zkoušející)Ing. Jiří Passinger (cvičící, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška a Architektura operačních systémů"
+    },
+    {
+      "label": "1.",
+      "content": "Automatizace deploymentu (dotace 3/0)"
+    },
+    {
+      "label": "2.",
+      "content": "Automatizace patchů, update management (dotace 3/0)"
+    },
+    {
+      "label": "3.",
+      "content": "Monitoring (dotace 4/0)"
+    },
+    {
+      "label": "4.",
+      "content": "Scripting (dotace 4/0)"
+    },
+    {
+      "label": "5.",
+      "content": "Úvod do příkazového řádku (dotace 0/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Správa fyzického úložiště (dotace 0/2)"
+    },
+    {
+      "label": "7.",
+      "content": "Informace o instalaci a konfiguraci softwarových komponent a služeb (dotace 0/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Vytváření připojení k síti a přístupu k bráně firewall, Monitorování a řízení procesů (dotace 0/2)"
+    },
+    {
+      "label": "9.",
+      "content": "Správa a zabezpečení souborů, Správa uživatelů a skupin, Přístup k souborovým systémům Linuxu (dotace 0/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Instalace a používání virtualizovaných systémů (dotace 0/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Kontrola souborů systémových protokolů a žurnálu, Správa souborových systémů a logických svazků (dotace 0/2)"
+    },
+    {
+      "label": "12.",
+      "content": "Správa naplánovaných úloh, Přístup k síťovým souborovým systémům (dotace 0/2)"
+    },
+    {
+      "label": "13.",
+      "content": "Správa SELinux a firewallu (dotace 0/2)"
+    },
+    {
+      "label": "14.",
+      "content": "Správa síťových serverů s mezipamětí (dotace 0/22)"
+    },
+    {
+      "label": "a.",
+      "content": "Domain Name Service (DNS)"
+    },
+    {
+      "label": "b.",
+      "content": "MariaDB"
+    },
+    {
+      "label": "c.",
+      "content": "Apache HTTPD"
+    },
+    {
+      "label": "d.",
+      "content": "Postfix SMTP"
+    },
+    {
+      "label": "e.",
+      "content": "sdílení síťových souborů s Network File System (NFS) a Server Message Block (SMB)"
+    },
+    {
+      "label": "f.",
+      "content": "iniciátory a cíle iSCSI"
+    },
+    {
+      "label": "15.",
+      "content": "Pokročilé konfigurace sítí a firewallů a použití skriptů Bash shell, které pomáhají automatizovat, konfigurovat a odstraňovat problémy se systémem (dotace 0/2)"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Operační systém Linux"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Linux Operating System"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: prof. Ing. Cyril Klimeš, CSc. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Ludmila Kunderová (cvičící, přednášející, tutor, zkoušející)Ing. Jiří Passinger (cvičící, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a Architektura operačních systémů"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaStředa9.00-9.50Q47B-AIIL. Kunderová, J. PassingerPřednáškaKaždý týden25Středa10.00-12.50Q47B-AIIL. Kunderová, J. PassingerCvičeníKaždý týden25Pátek9.00-12.50Q47B-AIIL. Kunderová, J. PassingerPřednáškaNepravidelně20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je seznámit studenty se zásadami a pravidly uplatňovanými ve správě serverů a koncových stanic založených na platformě Linux."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Automatizace deploymentu (dotace 3/0)2.Automatizace patchů, update management (dotace 3/0)3.Monitoring (dotace 4/0)4.Scripting (dotace 4/0)5.Úvod do příkazového řádku (dotace 0/2)6.Správa fyzického úložiště (dotace 0/2)7.Informace o instalaci a konfiguraci softwarových komponent a služeb (dotace 0/2)8.Vytváření připojení k síti a přístupu k bráně firewall, Monitorování a řízení procesů (dotace 0/2)9.Správa a zabezpečení souborů, Správa uživatelů a skupin, Přístup k souborovým systémům Linuxu (dotace 0/2)10.Instalace a používání virtualizovaných systémů (dotace 0/2)11.Kontrola souborů systémových protokolů a žurnálu, Správa souborových systémů a logických svazků (dotace 0/2)12.Správa naplánovaných úloh, Přístup k síťovým souborovým systémům (dotace 0/2)13.Správa SELinux a firewallu (dotace 0/2)14.Správa síťových serverů s mezipamětí (dotace 0/22) a.Domain Name Service (DNS)b.MariaDBc.Apache HTTPDd.Postfix SMTPe.sdílení síťových souborů s Network File System (NFS) a Server Message Block (SMB)f.iniciátory a cíle iSCSI15.Pokročilé konfigurace sítí a firewallů a použití skriptů Bash shell, které pomáhají automatizovat, konfigurovat a odstraňovat problémy se systémem (dotace 0/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Automatizace patchů, update management (dotace 3/0)"
+    },
+    {
+      "label": "[section] Automatizace deploymentu",
+      "content": "2.Automatizace patchů, update management (dotace 3/0)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Monitoring (dotace 4/0)"
+    },
+    {
+      "label": "[section] Automatizace patchů, update management",
+      "content": "3.Monitoring (dotace 4/0)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Scripting (dotace 4/0)"
+    },
+    {
+      "label": "[section] Monitoring",
+      "content": "4.Scripting (dotace 4/0)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Úvod do příkazového řádku (dotace 0/2)"
+    },
+    {
+      "label": "[section] Scripting",
+      "content": "5.Úvod do příkazového řádku (dotace 0/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Správa fyzického úložiště (dotace 0/2)"
+    },
+    {
+      "label": "[section] Úvod do příkazového řádku",
+      "content": "6.Správa fyzického úložiště (dotace 0/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Informace o instalaci a konfiguraci softwarových komponent a služeb (dotace 0/2)"
+    },
+    {
+      "label": "[section] Správa fyzického úložiště",
+      "content": "7.Informace o instalaci a konfiguraci softwarových komponent a služeb (dotace 0/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Vytváření připojení k síti a přístupu k bráně firewall, Monitorování a řízení procesů (dotace 0/2)"
+    },
+    {
+      "label": "[section] Informace o instalaci a konfiguraci softwarových komponent a služeb",
+      "content": "8.Vytváření připojení k síti a přístupu k bráně firewall, Monitorování a řízení procesů (dotace 0/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Správa a zabezpečení souborů, Správa uživatelů a skupin, Přístup k souborovým systémům Linuxu (dotace 0/2)"
+    },
+    {
+      "label": "[section] Vytváření připojení k síti a přístupu k bráně firewall, Monitorování a řízení procesů",
+      "content": "9.Správa a zabezpečení souborů, Správa uživatelů a skupin, Přístup k souborovým systémům Linuxu (dotace 0/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Instalace a používání virtualizovaných systémů (dotace 0/2)"
+    },
+    {
+      "label": "[section] Správa a zabezpečení souborů, Správa uživatelů a skupin, Přístup k souborovým systémům Linuxu",
+      "content": "10.Instalace a používání virtualizovaných systémů (dotace 0/2)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Kontrola souborů systémových protokolů a žurnálu, Správa souborových systémů a logických svazků (dotace 0/2)"
+    },
+    {
+      "label": "[section] Instalace a používání virtualizovaných systémů",
+      "content": "11.Kontrola souborů systémových protokolů a žurnálu, Správa souborových systémů a logických svazků (dotace 0/2)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Správa naplánovaných úloh, Přístup k síťovým souborovým systémům (dotace 0/2)"
+    },
+    {
+      "label": "[section] Kontrola souborů systémových protokolů a žurnálu, Správa souborových systémů a logických svazků",
+      "content": "12.Správa naplánovaných úloh, Přístup k síťovým souborovým systémům (dotace 0/2)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Správa SELinux a firewallu (dotace 0/2)"
+    },
+    {
+      "label": "[section] Správa naplánovaných úloh, Přístup k síťovým souborovým systémům",
+      "content": "13.Správa SELinux a firewallu (dotace 0/2)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "14.Správa síťových serverů s mezipamětí (dotace 0/22)"
+    },
+    {
+      "label": "[section] Správa SELinux a firewallu",
+      "content": "14.Správa síťových serverů s mezipamětí (dotace 0/22)"
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Domain Name Service (DNS)b.MariaDBc.Apache HTTPDd.Postfix SMTPe.sdílení síťových souborů s Network File System (NFS) a Server Message Block (SMB)f.iniciátory a cíle iSCSI"
+    },
+    {
+      "label": "[section] Správa síťových serverů s mezipamětí",
+      "content": "a.Domain Name Service (DNS)b.MariaDBc.Apache HTTPDd.Postfix SMTPe.sdílení síťových souborů s Network File System (NFS) a Server Message Block (SMB)f.iniciátory a cíle iSCSI"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška14 h16 hcvičení42 h0 hkonzultace0 h40 hpříprava na zkoušku42 h42 hpříprava na průběžné hodnocení42 h42 hCelkem140 h140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Praktická a teoretická zkouška, každá část za maximálně 50 bodů, nezbytné je získat z každé části alespoň 25 bodů. Známka: A (alespoň 90 bodů), B (83 bodů), C (75 bodů), D (68 bodů), E (60 bodů)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumVypracování semestrální práce30 %40 %Absolvování průběžného testu (testů)20 %0 %Absolvování závěrečného testu20 %20 %Absolvování závěrečné ústní zkoušky30 %40 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:BARTOŠ, Jiří. 2018. Operační systém Linux. Brno: Mendelova univerzita v Brně, 50 s. ISBN 978-80-7509-592-3. Materiály Red Hat ACADEMY. 2019. [jiný]. Linux v kostce. 1999. 1. vyd. Praha: Computer Press, 560 s. ISBN 80-7226-227-0.Doporučená:HEIN, Trent R; SNYDER, Garth; NEMETH, Evi. 2017. UNIX and Linux System Administration Handbook (5th Edition). USA: Addison-Wesley Professional, 1232 s. ISBN 978-0-1342-7755-4.NEGUS, Christopher. 2015. Linux Bible 9th Edition. Indianapolis, USA: Wiley, 912 s. ISBN 978-1-118-99987-5."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "BARTOŠ, Jiří. 2018. Operační systém Linux. Brno: Mendelova univerzita v Brně, 50 s. ISBN 978-80-7509-592-3. Materiály Red Hat ACADEMY. 2019. [jiný]. Linux v kostce. 1999. 1. vyd. Praha: Computer Press, 560 s. ISBN 80-7226-227-0."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "HEIN, Trent R; SNYDER, Garth; NEMETH, Evi. 2017. UNIX and Linux System Administration Handbook (5th Edition). USA: Addison-Wesley Professional, 1232 s. ISBN 978-0-1342-7755-4.NEGUS, Christopher. 2015. Linux Bible 9th Edition. Indianapolis, USA: Wiley, 912 s. ISBN 978-1-118-99987-5."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-AII Administrace IS/ICT, kombinovaná forma, počáteční období ZS 2024/2025Program B-AII Administrace IS/ICT, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-LINX"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Operační systém Linux"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Linux Operating System"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course cannot be studied during abroad internship."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, supervisor, tutor)Ing. Ludmila Kunderová (examiner, instructor, lecturer, tutor)Ing. Jiří Passinger (examiner, instructor, lecturer, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam and Operating Systems Architecture"
+    },
+    {
+      "label": "1.",
+      "content": "Deployment automation (allowance 3/0)"
+    },
+    {
+      "label": "2.",
+      "content": "Automation of patches and update management (allowance 3/0)"
+    },
+    {
+      "label": "3.",
+      "content": "Monitoring (allowance 4/0)"
+    },
+    {
+      "label": "4.",
+      "content": "Scripting (allowance 4/0)"
+    },
+    {
+      "label": "5.",
+      "content": "Introduction to command line interface (allowance 0/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Management of physical disk space (allowance 0/2)"
+    },
+    {
+      "label": "7.",
+      "content": "Information about installation and configuration of software components and services (allowance 0/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Creation of network connection and access to firewall gateway. Monitoring and control of processes (allowance 0/2)"
+    },
+    {
+      "label": "9.",
+      "content": "Management and securing of files. User and group management. Access to Linux files subsystems (allowance 0/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Installation and using of virtualized systems (allowance 0/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Control of system protocol files and journal. Management of filesystems and logical volumes (allowance 0/2)"
+    },
+    {
+      "label": "12.",
+      "content": "Management of scheduled tasks. Access to network filesystems (allowance 0/2)"
+    },
+    {
+      "label": "13.",
+      "content": "SELinux and firewall management (allowance 0/2)"
+    },
+    {
+      "label": "14.",
+      "content": "Management of networks servers with cache (allowance 0/22)"
+    },
+    {
+      "label": "a.",
+      "content": "Domain Name Service (DNS)"
+    },
+    {
+      "label": "b.",
+      "content": "MariaDB"
+    },
+    {
+      "label": "c.",
+      "content": "Apache HTTPD"
+    },
+    {
+      "label": "d.",
+      "content": "Postfix SMTP"
+    },
+    {
+      "label": "e.",
+      "content": "Network files sharing with Network Files System (NFS) and Server Message Block (SMB). iSCSI initiators and targets"
+    },
+    {
+      "label": "15.",
+      "content": "Advanced configuration of networks and firewalls. Using of Bash shell scripts for automation, configuration and removing problems with system (allowance 0/2)"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Operační systém Linux"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Linux Operating System"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course cannot be studied during abroad internship."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, supervisor, tutor)Ing. Ludmila Kunderová (examiner, instructor, lecturer, tutor)Ing. Jiří Passinger (examiner, instructor, lecturer, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam and Operating Systems Architecture"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityWednesday9.00-9.50Q47B-AIIL. Kunderová, J. PassingerLectureEvery week25Wednesday10.00-12.50Q47B-AIIL. Kunderová, J. PassingerSeminarEvery week25Friday9.00-12.50Q47B-AIIL. Kunderová, J. PassingerLectureOccasionally20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Course's aim is to acquaint students with principles and rules used for managing servers and end stations on Linux platform."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Deployment automation (allowance 3/0)2.Automation of patches and update management (allowance 3/0)3.Monitoring (allowance 4/0)4.Scripting (allowance 4/0)5.Introduction to command line interface (allowance 0/2)6.Management of physical disk space (allowance 0/2)7.Information about installation and configuration of software components and services (allowance 0/2)8.Creation of network connection and access to firewall gateway. Monitoring and control of processes (allowance 0/2)9.Management and securing of files. User and group management. Access to Linux files subsystems (allowance 0/2)10.Installation and using of virtualized systems (allowance 0/2)11.Control of system protocol files and journal. Management of filesystems and logical volumes (allowance 0/2)12.Management of scheduled tasks. Access to network filesystems (allowance 0/2)13.SELinux and firewall management (allowance 0/2)14.Management of networks servers with cache (allowance 0/22) a.Domain Name Service (DNS)b.MariaDBc.Apache HTTPDd.Postfix SMTPe.Network files sharing with Network Files System (NFS) and Server Message Block (SMB). iSCSI initiators and targets15.Advanced configuration of networks and firewalls. Using of Bash shell scripts for automation, configuration and removing problems with system (allowance 0/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Automation of patches and update management (allowance 3/0)"
+    },
+    {
+      "label": "[section] Deployment automation",
+      "content": "2.Automation of patches and update management (allowance 3/0)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Monitoring (allowance 4/0)"
+    },
+    {
+      "label": "[section] Automation of patches and update management",
+      "content": "3.Monitoring (allowance 4/0)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Scripting (allowance 4/0)"
+    },
+    {
+      "label": "[section] Monitoring",
+      "content": "4.Scripting (allowance 4/0)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Introduction to command line interface (allowance 0/2)"
+    },
+    {
+      "label": "[section] Scripting",
+      "content": "5.Introduction to command line interface (allowance 0/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Management of physical disk space (allowance 0/2)"
+    },
+    {
+      "label": "[section] Introduction to command line interface",
+      "content": "6.Management of physical disk space (allowance 0/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Information about installation and configuration of software components and services (allowance 0/2)"
+    },
+    {
+      "label": "[section] Management of physical disk space",
+      "content": "7.Information about installation and configuration of software components and services (allowance 0/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Creation of network connection and access to firewall gateway. Monitoring and control of processes (allowance 0/2)"
+    },
+    {
+      "label": "[section] Information about installation and configuration of software components and services",
+      "content": "8.Creation of network connection and access to firewall gateway. Monitoring and control of processes (allowance 0/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Management and securing of files. User and group management. Access to Linux files subsystems (allowance 0/2)"
+    },
+    {
+      "label": "[section] Creation of network connection and access to firewall gateway. Monitoring and control of processes",
+      "content": "9.Management and securing of files. User and group management. Access to Linux files subsystems (allowance 0/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Installation and using of virtualized systems (allowance 0/2)"
+    },
+    {
+      "label": "[section] Management and securing of files. User and group management. Access to Linux files subsystems",
+      "content": "10.Installation and using of virtualized systems (allowance 0/2)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Control of system protocol files and journal. Management of filesystems and logical volumes (allowance 0/2)"
+    },
+    {
+      "label": "[section] Installation and using of virtualized systems",
+      "content": "11.Control of system protocol files and journal. Management of filesystems and logical volumes (allowance 0/2)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Management of scheduled tasks. Access to network filesystems (allowance 0/2)"
+    },
+    {
+      "label": "[section] Control of system protocol files and journal. Management of filesystems and logical volumes",
+      "content": "12.Management of scheduled tasks. Access to network filesystems (allowance 0/2)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.SELinux and firewall management (allowance 0/2)"
+    },
+    {
+      "label": "[section] Management of scheduled tasks. Access to network filesystems",
+      "content": "13.SELinux and firewall management (allowance 0/2)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "14.Management of networks servers with cache (allowance 0/22)"
+    },
+    {
+      "label": "[section] SELinux and firewall management",
+      "content": "14.Management of networks servers with cache (allowance 0/22)"
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Domain Name Service (DNS)b.MariaDBc.Apache HTTPDd.Postfix SMTPe.Network files sharing with Network Files System (NFS) and Server Message Block (SMB). iSCSI initiators and targets"
+    },
+    {
+      "label": "[section] Management of networks servers with cache",
+      "content": "a.Domain Name Service (DNS)b.MariaDBc.Apache HTTPDd.Postfix SMTPe.Network files sharing with Network Files System (NFS) and Server Message Block (SMB). iSCSI initiators and targets"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture14 h16 hpractice42 h0 hconsultation0 h40 hpreparation for exam42 h42 hpreparation for regular assessment42 h42 hTotal140 h140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Practical and theoretical exam, from each part student has to get at least 25 points, maximum is 50 points from each part. Evaluation: A (at least 90 points), B (83 points), C (75 points), D (68 points), E (60 points)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTerm paper30 %40 %Mid-term test(s)20 %0 %Final test20 %20 %Final oral exam30 %40 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:BARTOŠ, Jiří. 2018. Operační systém Linux. Brno: Mendelova univerzita v Brně, 50 p. ISBN 978-80-7509-592-3. Materiály Red Hat ACADEMY. 2019. [other]. Linux v kostce. 1999. 1st ed. Praha: Computer Press, 560 p. ISBN 80-7226-227-0.Recommended:HEIN, Trent R; SNYDER, Garth; NEMETH, Evi. 2017. UNIX and Linux System Administration Handbook (5th Edition). USA: Addison-Wesley Professional, 1232 p. ISBN 978-0-1342-7755-4.NEGUS, Christopher. 2015. Linux Bible 9th Edition. Indianapolis, USA: Wiley, 912 p. ISBN 978-1-118-99987-5."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "BARTOŠ, Jiří. 2018. Operační systém Linux. Brno: Mendelova univerzita v Brně, 50 p. ISBN 978-80-7509-592-3. Materiály Red Hat ACADEMY. 2019. [other]. Linux v kostce. 1999. 1st ed. Praha: Computer Press, 560 p. ISBN 80-7226-227-0."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "HEIN, Trent R; SNYDER, Garth; NEMETH, Evi. 2017. UNIX and Linux System Administration Handbook (5th Edition). USA: Addison-Wesley Professional, 1232 p. ISBN 978-0-1342-7755-4.NEGUS, Christopher. 2015. Linux Bible 9th Edition. Indianapolis, USA: Wiley, 912 p. ISBN 978-1-118-99987-5."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-AII Administration IS/ICT, part-time form, initial period WS 2024/2025Programme B-AII Administration IS/ICT, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:41:08",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

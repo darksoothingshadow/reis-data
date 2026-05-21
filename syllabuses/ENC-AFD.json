@@ -1,0 +1,717 @@
+{
+  "courseCode": "ENC-AFD",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENC-AFD"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Analýza finančních dat"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Financial Data Analysis"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský; magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Studenti budou mít k dispozici rozsáhlé podpůrné materiály jak prostřednictvím UIS, tak i na platbormě Moodle. Pokud to alokace místností dovolí, bude výuka dostupná prostřednictvím aplikace MS Teams."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. RNDr. Jan Hanousek, CSc., DSc."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav financí a účetnictví (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "prof. RNDr. Jan Hanousek, CSc., DSc. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Zdroje finančních dat, předzpracování dat, transformace dat, zobrazní a ekonomická interpretace transformace dat, specifika finančních dat (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Principy definice teoretického modelu (přechod k aplikacím), typy finančních dat, specifika zpracování, zdroje finančních dat."
+    },
+    {
+      "label": "b.",
+      "content": "Průzkumová analýza dat, popisné statistiky, odlehlá pozorování, použití, grafické prezentace a interpretace."
+    },
+    {
+      "label": "c.",
+      "content": "Stručný úvod do programových prostředků (Stata, R a, ...), zázemí kurzu, Grafy, popisné statistiky, čtení, orientace v počítačových výstupech, první interpretace modelů."
+    },
+    {
+      "label": "2.",
+      "content": "Specifikace modelu: Příprava a volba proměnných, spojování souborů, funkční závislosti, frekvence dat a jejich propojování. (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Specifikace modelu: Volba proměnných, funkční závislosti, frekvence dat a propojování dat. Aplikace: korupční prostředí a finanční výkonnost podniků."
+    },
+    {
+      "label": "b.",
+      "content": "Specifikace modelů, vytváření proměnných, spojování dat pomocí identifikátorů a klastrů. BEEPS data a obecné spojování průzkumů a finančních dat"
+    },
+    {
+      "label": "3.",
+      "content": "Základní techniky práce s časovou a průřezovou složkou ve finačních datech (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Rozvíjení modelů, dynamika v modelu, v závislosti na časovém charakteru proměnných. Aplikace: FDI a následné investice."
+    },
+    {
+      "label": "b.",
+      "content": "Finační aplikace: Výběr proměnných, specifikace, prezentace návrhů empirických strategií, identifikace pomocí změny a šoku, Aplikace: Firmy s ruským a anglickým jménem o anexi Krymu"
+    },
+    {
+      "label": "4.",
+      "content": "Časová složka ve finačních datech: Korelace versus kauzalita, konvergence k optimálnímu dluhu, falešné časové regresní vazby a jejich identifikace. Predikce finančních časových řad (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Vybrané problémy finančních časových řad, korelace vs. kauzalita, autokorelace. Aplikace M&A a konvergence k optimálnímu dluhu"
+    },
+    {
+      "label": "b.",
+      "content": "Stacionarita, falešné regrese, vazba měnové zásoby a akciových kurzů, identifikace hospodářského cyklu"
+    },
+    {
+      "label": "5.",
+      "content": "Využití behaviorálních faktorů při analýze finačních dat. Dynamika, kointegrace, VAR, Lead-lag finační modely, vzájemná interakce (dotace 1/3)"
+    },
+    {
+      "label": "b.",
+      "content": "Identifikace vlivu nástrojů hospodářské politiky, Aplikace VAR a IRF při identifikaci vlivu ekonomicko-politické nejistoty,"
+    },
+    {
+      "label": "6.",
+      "content": "Vybrané problémy průřezových a panelových finančních časových řad, identifikace, špatná specifikace, vychýlení, korelace vs. kauzalita, spojování a klastry uvnitř dat. Práce s obchodními daty (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Vybrané problémy průřezových a panelových finančních časových řad, identifikace, špatná specifikace, vychýlení, korelace vs. kauzalita"
+    },
+    {
+      "label": "b.",
+      "content": "Práce s velkými daty, spojování dat, rozdílný pohled průřezových a panelových dat (vychýlení modelu). Aplikace použití obchodních dat, ruské sankce"
+    },
+    {
+      "label": "7.",
+      "content": "Předzpracování velkých dat z finančních výkazů firem a finančních institucí, Vybrané problémy průřezových a panelových finančních časových řad, identifikace, špatná specifikace, vychýlení (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Aplikace časových řad vs. aplikace panelových a průřezových dat, časová a časově neměnná složka modelu. Aplikace\" Investice a vlastnictví firem"
+    },
+    {
+      "label": "b.",
+      "content": "Regresní analýzy panelových dat, modely s fixními a náhodnými efekty, interakce proměnných (jednoduchá prahová analýza), aplikace dluh v obchodních skupinách"
+    },
+    {
+      "label": "8.",
+      "content": "Finanční analýza podniku s využitím panelových dat (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Problém endogenity v panelových a průřezových datech, použití instrumentů, Aplikace AI (bots) a ovlivňování akceptace finančních výsledků"
+    },
+    {
+      "label": "b.",
+      "content": "Testy specifikací, využití instrumentů, v časových řadách a panelech. Ukázky a replikace z finanční oblasti"
+    },
+    {
+      "label": "9.",
+      "content": "Modelování kauzality v panelových datech, využití rozdílů v rozdílech, RCT (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Modelování kauzality v panelových datech, využití rozdílů v rozdílech, RCT, aplikace: Sportovní sázky a house money effekt"
+    },
+    {
+      "label": "b.",
+      "content": "Rozvijeni rozdílu v rozdílech, fananční analýza event studies. Využití rozdílů v rozdílech, RCT. Jak to dělat"
+    },
+    {
+      "label": "10.",
+      "content": "Stavové, counting a tranzitorní finanční modely. Data management, identifikace odlehlých a vlivných pozorování. Aplikace: Firemní bankroty (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Pokročilý data management, matched samples, využití kontrolního výběru. Apl. Vývoj finančních problémů firem"
+    },
+    {
+      "label": "b.",
+      "content": "Data cleaning, popis dat, struktura reportingu a analýzy"
+    },
+    {
+      "label": "11.",
+      "content": "Robustnost a senzitivita ve finačních modelech. Vlastnické struktury, obchodní skupiny versus osamocené firmy, dynamika dluhu (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Zásady analýzy, standardní postupy, práce s odlehlými pozorováními, reporting"
+    },
+    {
+      "label": "b.",
+      "content": "Robustní testy specifikací, analýza senzitivity s využitím významu záměnných finančních proměnných"
+    },
+    {
+      "label": "12.",
+      "content": "Porovnání a kombinace finačních modelů: panelová data a systém časových řad, systém rovnic (GMM), instrumentální proměnné binární modely, counting modely, ATET a rozdíly v rozdílech. Jejich kombinace ve finačních aplikacích (dotace 1/3)"
+    },
+    {
+      "label": "13.",
+      "content": "Přehled kurzu, základní opakování. Využití různých frekvencí a agregací dat ve finanční analýze (dotace 0/0)"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "45 %"
+    },
+    {
+      "label": "Prezentace nebo obhajoba",
+      "content": "25 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "30 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Analýza finančních dat"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Financial Data Analysis"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský; magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Studenti budou mít k dispozici rozsáhlé podpůrné materiály jak prostřednictvím UIS, tak i na platbormě Moodle. Pokud to alokace místností dovolí, bude výuka dostupná prostřednictvím aplikace MS Teams."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. RNDr. Jan Hanousek, CSc., DSc."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav financí a účetnictví (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: prof. RNDr. Jan Hanousek, CSc., DSc. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí15.00-15.50Q24J. HanousekPřednáškaKaždý týden24Pondělí16.00-18.50Q24J. HanousekCvičeníKaždý týden24"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Kurz nabízí studentům aplikaci stávajících teoretických znalostí finančních disciplín při analýzách na reálných (velkých) datech. Studenti získají schopnosti zpracovávat reálná data, využít ekonometrické metody a následně interpretovat výsledky analýz. Absolventi se uplatní na pozici samostatného analytika či odborného konzultanta poradenských společností a jako samostatný analytik ve finančním sektoru. Získané dovednosti studenti navíc využijí při zpracování empirických analýz ve svých závěrečných pracech."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Zdroje finančních dat, předzpracování dat, transformace dat, zobrazní a ekonomická interpretace transformace dat, specifika finančních dat (dotace 1/3) a.Principy definice teoretického modelu (přechod k aplikacím), typy finančních dat, specifika zpracování, zdroje finančních dat.b.Průzkumová analýza dat, popisné statistiky, odlehlá pozorování, použití, grafické prezentace a interpretace.c.Stručný úvod do programových prostředků (Stata, R a, ...), zázemí kurzu, Grafy, popisné statistiky, čtení, orientace v počítačových výstupech, první interpretace modelů.2.Specifikace modelu: Příprava a volba proměnných, spojování souborů, funkční závislosti, frekvence dat a jejich propojování. (dotace 1/3) a.Specifikace modelu: Volba proměnných, funkční závislosti, frekvence dat a propojování dat. Aplikace: korupční prostředí a finanční výkonnost podniků.b.Specifikace modelů, vytváření proměnných, spojování dat pomocí identifikátorů a klastrů. BEEPS data a obecné spojování průzkumů a finančních dat3.Základní techniky práce s časovou a průřezovou složkou ve finačních datech (dotace 1/3) a.Rozvíjení modelů, dynamika v modelu, v závislosti na časovém charakteru proměnných. Aplikace: FDI a následné investice.b.Finační aplikace: Výběr proměnných, specifikace, prezentace návrhů empirických strategií, identifikace pomocí změny a šoku, Aplikace: Firmy s ruským a anglickým jménem o anexi Krymu4.Časová složka ve finačních datech: Korelace versus kauzalita, konvergence k optimálnímu dluhu, falešné časové regresní vazby a jejich identifikace. Predikce finančních časových řad (dotace 1/3) a.Vybrané problémy finančních časových řad, korelace vs. kauzalita, autokorelace. Aplikace M&A a konvergence k optimálnímu dluhub.Stacionarita, falešné regrese, vazba měnové zásoby a akciových kurzů, identifikace hospodářského cyklu5.Využití behaviorálních faktorů při analýze finačních dat. Dynamika, kointegrace, VAR, Lead-lag finační modely, vzájemná interakce (dotace 1/3) a.Vybrané problémy finančních časových řad, Dynamika, kointegrace, VAR, Lead-lag finační modelyb.Identifikace vlivu nástrojů hospodářské politiky, Aplikace VAR a IRF při identifikaci vlivu ekonomicko-politické nejistoty,6.Vybrané problémy průřezových a panelových finančních časových řad, identifikace, špatná specifikace, vychýlení, korelace vs. kauzalita, spojování a klastry uvnitř dat. Práce s obchodními daty (dotace 1/3) a.Vybrané problémy průřezových a panelových finančních časových řad, identifikace, špatná specifikace, vychýlení, korelace vs. kauzalitab.Práce s velkými daty, spojování dat, rozdílný pohled průřezových a panelových dat (vychýlení modelu). Aplikace použití obchodních dat, ruské sankce7.Předzpracování velkých dat z finančních výkazů firem a finančních institucí, Vybrané problémy průřezových a panelových finančních časových řad, identifikace, špatná specifikace, vychýlení (dotace 1/3) a.Aplikace časových řad vs. aplikace panelových a průřezových dat, časová a časově neměnná složka modelu. Aplikace\" Investice a vlastnictví firemb.Regresní analýzy panelových dat, modely s fixními a náhodnými efekty, interakce proměnných (jednoduchá prahová analýza), aplikace dluh v obchodních skupinách8.Finanční analýza podniku s využitím panelových dat (dotace 1/3) a.Problém endogenity v panelových a průřezových datech, použití instrumentů, Aplikace AI (bots) a ovlivňování akceptace finančních výsledkůb.Testy specifikací, využití instrumentů, v časových řadách a panelech. Ukázky a replikace z finanční oblasti9.Modelování kauzality v panelových datech, využití rozdílů v rozdílech, RCT (dotace 1/3) a.Modelování kauzality v panelových datech, využití rozdílů v rozdílech, RCT, aplikace: Sportovní sázky a house money effektb.Rozvijeni rozdílu v rozdílech, fananční analýza event studies. Využití rozdílů v rozdílech, RCT. Jak to dělat10.Stavové, counting a tranzitorní finanční modely. Data management, identifikace odlehlých a vlivných pozorování. Aplikace: Firemní bankroty (dotace 1/3) a.Pokročilý data management, matched samples, využití kontrolního výběru. Apl. Vývoj finančních problémů firemb.Data cleaning, popis dat, struktura reportingu a analýzy11.Robustnost a senzitivita ve finačních modelech. Vlastnické struktury, obchodní skupiny versus osamocené firmy, dynamika dluhu (dotace 1/3) a.Zásady analýzy, standardní postupy, práce s odlehlými pozorováními, reportingb.Robustní testy specifikací, analýza senzitivity s využitím významu záměnných finančních proměnných12.Porovnání a kombinace finačních modelů: panelová data a systém časových řad, systém rovnic (GMM), instrumentální proměnné binární modely, counting modely, ATET a rozdíly v rozdílech. Jejich kombinace ve finačních aplikacích (dotace 1/3)13.Přehled kurzu, základní opakování. Využití různých frekvencí a agregací dat ve finanční analýze (dotace 0/0)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Principy definice teoretického modelu (přechod k aplikacím), typy finančních dat, specifika zpracování, zdroje finančních dat.b.Průzkumová analýza dat, popisné statistiky, odlehlá pozorování, použití, grafické prezentace a interpretace.c.Stručný úvod do programových prostředků (Stata, R a, ...), zázemí kurzu, Grafy, popisné statistiky, čtení, orientace v počítačových výstupech, první interpretace modelů."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Specifikace modelu: Volba proměnných, funkční závislosti, frekvence dat a propojování dat. Aplikace: korupční prostředí a finanční výkonnost podniků.b.Specifikace modelů, vytváření proměnných, spojování dat pomocí identifikátorů a klastrů. BEEPS data a obecné spojování průzkumů a finančních dat"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Rozvíjení modelů, dynamika v modelu, v závislosti na časovém charakteru proměnných. Aplikace: FDI a následné investice.b.Finační aplikace: Výběr proměnných, specifikace, prezentace návrhů empirických strategií, identifikace pomocí změny a šoku, Aplikace: Firmy s ruským a anglickým jménem o anexi Krymu"
+    },
+    {
+      "label": "[section] Základní techniky práce s časovou a průřezovou složkou ve finačních datech",
+      "content": "a.Rozvíjení modelů, dynamika v modelu, v závislosti na časovém charakteru proměnných. Aplikace: FDI a následné investice.b.Finační aplikace: Výběr proměnných, specifikace, prezentace návrhů empirických strategií, identifikace pomocí změny a šoku, Aplikace: Firmy s ruským a anglickým jménem o anexi Krymu"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Vybrané problémy finančních časových řad, korelace vs. kauzalita, autokorelace. Aplikace M&A a konvergence k optimálnímu dluhub.Stacionarita, falešné regrese, vazba měnové zásoby a akciových kurzů, identifikace hospodářského cyklu"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Vybrané problémy finančních časových řad, Dynamika, kointegrace, VAR, Lead-lag finační modelyb.Identifikace vlivu nástrojů hospodářské politiky, Aplikace VAR a IRF při identifikaci vlivu ekonomicko-politické nejistoty,"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Vybrané problémy průřezových a panelových finančních časových řad, identifikace, špatná specifikace, vychýlení, korelace vs. kauzalitab.Práce s velkými daty, spojování dat, rozdílný pohled průřezových a panelových dat (vychýlení modelu). Aplikace použití obchodních dat, ruské sankce"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Aplikace časových řad vs. aplikace panelových a průřezových dat, časová a časově neměnná složka modelu. Aplikace\" Investice a vlastnictví firemb.Regresní analýzy panelových dat, modely s fixními a náhodnými efekty, interakce proměnných (jednoduchá prahová analýza), aplikace dluh v obchodních skupinách"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Problém endogenity v panelových a průřezových datech, použití instrumentů, Aplikace AI (bots) a ovlivňování akceptace finančních výsledkůb.Testy specifikací, využití instrumentů, v časových řadách a panelech. Ukázky a replikace z finanční oblasti"
+    },
+    {
+      "label": "[section] Finanční analýza podniku s využitím panelových dat",
+      "content": "a.Problém endogenity v panelových a průřezových datech, použití instrumentů, Aplikace AI (bots) a ovlivňování akceptace finančních výsledkůb.Testy specifikací, využití instrumentů, v časových řadách a panelech. Ukázky a replikace z finanční oblasti"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Modelování kauzality v panelových datech, využití rozdílů v rozdílech, RCT, aplikace: Sportovní sázky a house money effektb.Rozvijeni rozdílu v rozdílech, fananční analýza event studies. Využití rozdílů v rozdílech, RCT. Jak to dělat"
+    },
+    {
+      "label": "[section] Modelování kauzality v panelových datech, využití rozdílů v rozdílech, RCT",
+      "content": "a.Modelování kauzality v panelových datech, využití rozdílů v rozdílech, RCT, aplikace: Sportovní sázky a house money effektb.Rozvijeni rozdílu v rozdílech, fananční analýza event studies. Využití rozdílů v rozdílech, RCT. Jak to dělat"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Pokročilý data management, matched samples, využití kontrolního výběru. Apl. Vývoj finančních problémů firemb.Data cleaning, popis dat, struktura reportingu a analýzy"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Zásady analýzy, standardní postupy, práce s odlehlými pozorováními, reportingb.Robustní testy specifikací, analýza senzitivity s využitím významu záměnných finančních proměnných"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Přehled kurzu, základní opakování. Využití různých frekvencí a agregací dat ve finanční analýze (dotace 0/0)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška12 hcvičení36 hkonzultace12 hprojektová práce20 hworkshop20 hpříprava na zkoušku40 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Ústní zkouška ověřující znalosti studenta práce s reálnými daty."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumVypracování semestrální práce45 %Prezentace nebo obhajoba25 %Absolvování závěrečné ústní zkoušky30 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:CAMERON, Adrian Colin; TRIVEDI, Pravin K. 2005. Microeconometrics : methods and applications. Cambridge: Cambridge University Press, 1034 s. ISBN 0-521-84805-9.CAMERON, Adrian Colin; TRIVEDI, P. K. Microeconometrics using Stata. College Station, Tex.: Stata Press, 706 s. ISBN 978-1-59718-073-3. Financial econometrics using Stata. 272 s. ISBN 9781597182140."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "CAMERON, Adrian Colin; TRIVEDI, Pravin K. 2005. Microeconometrics : methods and applications. Cambridge: Cambridge University Press, 1034 s. ISBN 0-521-84805-9.CAMERON, Adrian Colin; TRIVEDI, P. K. Microeconometrics using Stata. College Station, Tex.: Stata Press, 706 s. ISBN 978-1-59718-073-3. Financial econometrics using Stata. 272 s. ISBN 9781597182140."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-F Finance, prezenční forma, počáteční období LS 2023/2024Program N-F Finance, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENC-AFD"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Analýza finančních dat"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Financial Data Analysis"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master; master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "Students will have access to extensive support materials through UIS and the Moodle platform. If room allocation allows, teaching will be available via MS Teams."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. RNDr. Jan Hanousek, CSc., DSc."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Finance and Accounting (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "prof. RNDr. Jan Hanousek, CSc., DSc. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Data sources, data pre-processing and processing, data transformation and its intepretation, interest rate specifics (allowance 1/3)"
+    },
+    {
+      "label": "2.",
+      "content": "Identification of capital markets characteristics, graphical analyses, efficient market hypothesis testing, arbitrage identification (allowance 1/3)"
+    },
+    {
+      "label": "3.",
+      "content": "Basic techniques of prediction (allowance 1/3)"
+    },
+    {
+      "label": "4.",
+      "content": "Identification and impact of capital market volatility, capital markets prediction employing conditional volatility (allowance 1/3)"
+    },
+    {
+      "label": "5.",
+      "content": "Employing behavioural factors in financial market analyses (allowance 1/3)"
+    },
+    {
+      "label": "6.",
+      "content": "Uncertainty in using fat data (allowance 1/3)"
+    },
+    {
+      "label": "7.",
+      "content": "Pre-processing and processing big data from companies and financial institutions (allowance 1/3)"
+    },
+    {
+      "label": "8.",
+      "content": "Financial analysis of the company employing big data (allowance 1/3)"
+    },
+    {
+      "label": "9.",
+      "content": "Financial analysis of banks employing big data (allowance 1/3)"
+    },
+    {
+      "label": "10.",
+      "content": "Economic policy impact modelling (allowance 1/3)"
+    },
+    {
+      "label": "11.",
+      "content": "Disequilibrium identification and analysis (allowance 0/0)"
+    },
+    {
+      "label": "12.",
+      "content": "Meta-analysis in financial economics (allowance 0/0)"
+    },
+    {
+      "label": "Term paper",
+      "content": "45 %"
+    },
+    {
+      "label": "Presentation or defence",
+      "content": "25 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "30 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Analýza finančních dat"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Financial Data Analysis"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master; master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: Students will have access to extensive support materials through UIS and the Moodle platform. If room allocation allows, teaching will be available via MS Teams."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. RNDr. Jan Hanousek, CSc., DSc."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Finance and Accounting (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. RNDr. Jan Hanousek, CSc., DSc. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday15.00-15.50Q24J. HanousekLectureEvery week24Monday16.00-18.50Q24J. HanousekSeminarEvery week24"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The course interacts theoretical background with the empirical analyses of various (large) datasets. Students receive skills to process actual data, employ econometrics methods, and interpret the results of empirical analyses. The graduates will be highly skilled financial analysts or consultants of advisory and consultancy companies or financial market analysts. The skills are also very useful for the students who plan to employ empirical analyses in their theses."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Data sources, data pre-processing and processing, data transformation and its intepretation, interest rate specifics (allowance 1/3)2.Identification of capital markets characteristics, graphical analyses, efficient market hypothesis testing, arbitrage identification (allowance 1/3)3.Basic techniques of prediction (allowance 1/3)4.Identification and impact of capital market volatility, capital markets prediction employing conditional volatility (allowance 1/3)5.Employing behavioural factors in financial market analyses (allowance 1/3)6.Uncertainty in using fat data (allowance 1/3)7.Pre-processing and processing big data from companies and financial institutions (allowance 1/3)8.Financial analysis of the company employing big data (allowance 1/3)9.Financial analysis of banks employing big data (allowance 1/3)10.Economic policy impact modelling (allowance 1/3)11.Disequilibrium identification and analysis (allowance 0/0)12.Meta-analysis in financial economics (allowance 0/0)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Identification of capital markets characteristics, graphical analyses, efficient market hypothesis testing, arbitrage identification (allowance 1/3)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Basic techniques of prediction (allowance 1/3)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Identification and impact of capital market volatility, capital markets prediction employing conditional volatility (allowance 1/3)"
+    },
+    {
+      "label": "[section] Basic techniques of prediction",
+      "content": "4.Identification and impact of capital market volatility, capital markets prediction employing conditional volatility (allowance 1/3)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Employing behavioural factors in financial market analyses (allowance 1/3)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Uncertainty in using fat data (allowance 1/3)"
+    },
+    {
+      "label": "[section] Employing behavioural factors in financial market analyses",
+      "content": "6.Uncertainty in using fat data (allowance 1/3)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Pre-processing and processing big data from companies and financial institutions (allowance 1/3)"
+    },
+    {
+      "label": "[section] Uncertainty in using fat data",
+      "content": "7.Pre-processing and processing big data from companies and financial institutions (allowance 1/3)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Financial analysis of the company employing big data (allowance 1/3)"
+    },
+    {
+      "label": "[section] Pre-processing and processing big data from companies and financial institutions",
+      "content": "8.Financial analysis of the company employing big data (allowance 1/3)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Financial analysis of banks employing big data (allowance 1/3)"
+    },
+    {
+      "label": "[section] Financial analysis of the company employing big data",
+      "content": "9.Financial analysis of banks employing big data (allowance 1/3)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Economic policy impact modelling (allowance 1/3)"
+    },
+    {
+      "label": "[section] Financial analysis of banks employing big data",
+      "content": "10.Economic policy impact modelling (allowance 1/3)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Disequilibrium identification and analysis (allowance 0/0)"
+    },
+    {
+      "label": "[section] Economic policy impact modelling",
+      "content": "11.Disequilibrium identification and analysis (allowance 0/0)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Meta-analysis in financial economics (allowance 0/0)"
+    },
+    {
+      "label": "[section] Disequilibrium identification and analysis",
+      "content": "12.Meta-analysis in financial economics (allowance 0/0)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture12 hpractice36 hconsultation12 hproject work20 hworkshop20 hpreparation for exam40 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Oral exam verifying knowledge to analyze actual data."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTerm paper45 %Presentation or defence25 %Final oral exam30 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:CAMERON, Adrian Colin; TRIVEDI, Pravin K. 2005. Microeconometrics : methods and applications. Cambridge: Cambridge University Press, 1034 p. ISBN 0-521-84805-9.CAMERON, Adrian Colin; TRIVEDI, P. K. Microeconometrics using Stata. College Station, Tex.: Stata Press, 706 p. ISBN 978-1-59718-073-3. Financial econometrics using Stata. 272 p. ISBN 9781597182140."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "CAMERON, Adrian Colin; TRIVEDI, Pravin K. 2005. Microeconometrics : methods and applications. Cambridge: Cambridge University Press, 1034 p. ISBN 0-521-84805-9.CAMERON, Adrian Colin; TRIVEDI, P. K. Microeconometrics using Stata. College Station, Tex.: Stata Press, 706 p. ISBN 978-1-59718-073-3. Financial econometrics using Stata. 272 p. ISBN 9781597182140."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-F Finance, full-time form, initial period SS 2023/2024Programme C-F Finance, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:54:55",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

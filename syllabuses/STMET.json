@@ -1,0 +1,949 @@
+{
+  "courseCode": "STMET",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "STMET"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Statistika"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Statistics"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "konzultační"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Studium předmětu je možné během zahraniční mobility po individuální domluvě s garantem předmětu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Zdeněk Adamec, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav hospodářské úpravy lesů a aplikované geoinformatiky (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Zdeněk Adamec, Ph.D. (cvičící, garant, přednášející, zkoušející)doc. Ing. Karel Drápela, CSc. (cvičící, přednášející, zkoušející)Ing. Kristýna Šleglová, Ph.D. (cvičící)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do předmětu – základní pojmy: statistický soubor, diskrétní a spojitá veličina, postup statistické zpracování dat (dotace 2/0)"
+    },
+    {
+      "label": "2.",
+      "content": "Statistická pravděpodobnost – distribuční a frekvenční funkce, rozdělení veličin (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Základy teorie pravděpodobnosti"
+    },
+    {
+      "label": "b.",
+      "content": "Frekvenční a distribuční funkce"
+    },
+    {
+      "label": "c.",
+      "content": "Teoretická rozdělení diskretních náhodných veličin"
+    },
+    {
+      "label": "d.",
+      "content": "Teoretická rozdělení spojitých náhodných veličin"
+    },
+    {
+      "label": "3.",
+      "content": "Popisná statistika – statistické charakteristiky polohy, variability a tvaru (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Charakteristiky polohy"
+    },
+    {
+      "label": "b.",
+      "content": "Charakteristiky variability"
+    },
+    {
+      "label": "c.",
+      "content": "Charakteristiky tvaru"
+    },
+    {
+      "label": "4.",
+      "content": "Průzkumová analýza dat – grafické a numerické metody: histogramy, krabicové grafy, QQ grafy, testy normality, testy nezávislosti (dotace 0/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Bodové a intervalové odhady parametrů základního souboru – odhady momentové, kvantilové a odhady s využitím transformace dat (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Podstata a význam odhadů"
+    },
+    {
+      "label": "b.",
+      "content": "Bodové odhady"
+    },
+    {
+      "label": "c.",
+      "content": "Intervalové odhady"
+    },
+    {
+      "label": "d.",
+      "content": "odhady s pomocí transformace"
+    },
+    {
+      "label": "6.",
+      "content": "Plánování experimentů (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "design experimentu"
+    },
+    {
+      "label": "b.",
+      "content": "typy výběrů"
+    },
+    {
+      "label": "c.",
+      "content": "kritéria výběrových experimentů (velikost výběru, intenzita výběru, efektivita výběru)"
+    },
+    {
+      "label": "7.",
+      "content": "Statistické testy (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "formulace hypotéz"
+    },
+    {
+      "label": "b.",
+      "content": "typy testů"
+    },
+    {
+      "label": "c.",
+      "content": "vyhodnocení testů"
+    },
+    {
+      "label": "d.",
+      "content": "chyby testů"
+    },
+    {
+      "label": "8.",
+      "content": "Analýza rozptylu - ANOVA (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "princip analýzy"
+    },
+    {
+      "label": "b.",
+      "content": "typy analýzy"
+    },
+    {
+      "label": "c.",
+      "content": "numerické a grafické vyhodnocení analýzy"
+    },
+    {
+      "label": "d.",
+      "content": "post hoc testy mnohonásobného porovnání"
+    },
+    {
+      "label": "9.",
+      "content": "Korelační analýza (dotace 3/2)"
+    },
+    {
+      "label": "a.",
+      "content": "vícerozměrný statistický soubor"
+    },
+    {
+      "label": "b.",
+      "content": "závislost veličin"
+    },
+    {
+      "label": "c.",
+      "content": "typy závislostí"
+    },
+    {
+      "label": "d.",
+      "content": "míry závislosti"
+    },
+    {
+      "label": "e.",
+      "content": "statistická významnost závislosti"
+    },
+    {
+      "label": "10.",
+      "content": "Lineární regrese (dotace 3/2)"
+    },
+    {
+      "label": "a.",
+      "content": "lineární regresní analýza"
+    },
+    {
+      "label": "b.",
+      "content": "typy lineárních regresních modelů"
+    },
+    {
+      "label": "c.",
+      "content": "odhady parametrů modelu"
+    },
+    {
+      "label": "d.",
+      "content": "hodnocení kvality lineárních modelů"
+    },
+    {
+      "label": "11.",
+      "content": "Nelineární regrese (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "nelineární regresní analýza"
+    },
+    {
+      "label": "b.",
+      "content": "typy nelineárních regresních modelů"
+    },
+    {
+      "label": "d.",
+      "content": "hodnocení kvality nelineárních modelů"
+    },
+    {
+      "label": "12.",
+      "content": "Zobecněná lineární regrese (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "typy zobecněných lineárních modelů"
+    },
+    {
+      "label": "b.",
+      "content": "transformační spojovací funkce"
+    },
+    {
+      "label": "d.",
+      "content": "hodnocení kvality zobecněných lineárních modelů"
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024, ZS 2023/2024, LS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Statistika"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Statistics"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: konzultační"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Studium předmětu je možné během zahraniční mobility po individuální domluvě s garantem předmětu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Zdeněk Adamec, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav hospodářské úpravy lesů a aplikované geoinformatiky (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Zdeněk Adamec, Ph.D. (cvičící, garant, přednášející, zkoušející)doc. Ing. Karel Drápela, CSc. (cvičící, přednášející, zkoušející)Ing. Kristýna Šleglová, Ph.D. (cvičící)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět Statistika se zaměřuje na teoretické a praktické základy matematicko-statistického zpracování datových soborů. Cílem je nejen samotné statistické zpracování dat, ale také nastavení adekvátního designu plánovaného experimentu, potřebné velikosti datové sady a především správná interpretace dosažených výsledků (numerických i grafických) v různých časových a prostorových úrovních v běžně dostupných softwarech na zpracování dat. Získané znalosti studenti využijí nejen při běžném zpracování dat v ostatních předmětech v rámci studia (např. semestrální práce), ale také při zpracování dat v rámci závěrečné práce."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do předmětu – základní pojmy: statistický soubor, diskrétní a spojitá veličina, postup statistické zpracování dat (dotace 2/0)2.Statistická pravděpodobnost – distribuční a frekvenční funkce, rozdělení veličin (dotace 2/0) a.Základy teorie pravděpodobnostib.Frekvenční a distribuční funkcec.Teoretická rozdělení diskretních náhodných veličind.Teoretická rozdělení spojitých náhodných veličin3.Popisná statistika – statistické charakteristiky polohy, variability a tvaru (dotace 2/4) a.Charakteristiky polohyb.Charakteristiky variabilityc.Charakteristiky tvaru4.Průzkumová analýza dat – grafické a numerické metody: histogramy, krabicové grafy, QQ grafy, testy normality, testy nezávislosti (dotace 0/2)5.Bodové a intervalové odhady parametrů základního souboru – odhady momentové, kvantilové a odhady s využitím transformace dat (dotace 2/4) a.Podstata a význam odhadůb.Bodové odhadyc.Intervalové odhadyd.odhady s pomocí transformace6.Plánování experimentů (dotace 2/2) a.design experimentub.typy výběrůc.kritéria výběrových experimentů (velikost výběru, intenzita výběru, efektivita výběru)7.Statistické testy (dotace 4/4) a.formulace hypotézb.typy testůc.vyhodnocení testůd.chyby testů8.Analýza rozptylu - ANOVA (dotace 4/4) a.princip analýzyb.typy analýzyc.numerické a grafické vyhodnocení analýzyd.post hoc testy mnohonásobného porovnání9.Korelační analýza (dotace 3/2) a.vícerozměrný statistický souborb.závislost veličinc.typy závislostíd.míry závislostie.statistická významnost závislosti10.Lineární regrese (dotace 3/2) a.lineární regresní analýzab.typy lineárních regresních modelůc.odhady parametrů modelud.hodnocení kvality lineárních modelů11.Nelineární regrese (dotace 2/2) a.nelineární regresní analýzab.typy nelineárních regresních modelůc.odhady parametrů modelud.hodnocení kvality nelineárních modelů12.Zobecněná lineární regrese (dotace 2/2) a.typy zobecněných lineárních modelůb.transformační spojovací funkcec.odhady parametrů modelud.hodnocení kvality zobecněných lineárních modelů"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Statistická pravděpodobnost – distribuční a frekvenční funkce, rozdělení veličin (dotace 2/0)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Základy teorie pravděpodobnostib.Frekvenční a distribuční funkcec.Teoretická rozdělení diskretních náhodných veličind.Teoretická rozdělení spojitých náhodných veličin"
+    },
+    {
+      "label": "[section] Statistická pravděpodobnost – distribuční a frekvenční funkce, rozdělení veličin",
+      "content": "a.Základy teorie pravděpodobnostib.Frekvenční a distribuční funkcec.Teoretická rozdělení diskretních náhodných veličind.Teoretická rozdělení spojitých náhodných veličin"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Charakteristiky polohyb.Charakteristiky variabilityc.Charakteristiky tvaru"
+    },
+    {
+      "label": "[section] Popisná statistika – statistické charakteristiky polohy, variability a tvaru",
+      "content": "a.Charakteristiky polohyb.Charakteristiky variabilityc.Charakteristiky tvaru"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Bodové a intervalové odhady parametrů základního souboru – odhady momentové, kvantilové a odhady s využitím transformace dat (dotace 2/4)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Podstata a význam odhadůb.Bodové odhadyc.Intervalové odhadyd.odhady s pomocí transformace"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.design experimentub.typy výběrůc.kritéria výběrových experimentů (velikost výběru, intenzita výběru, efektivita výběru)"
+    },
+    {
+      "label": "[section] Plánování experimentů",
+      "content": "a.design experimentub.typy výběrůc.kritéria výběrových experimentů (velikost výběru, intenzita výběru, efektivita výběru)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.formulace hypotézb.typy testůc.vyhodnocení testůd.chyby testů"
+    },
+    {
+      "label": "[section] Statistické testy",
+      "content": "a.formulace hypotézb.typy testůc.vyhodnocení testůd.chyby testů"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.princip analýzyb.typy analýzyc.numerické a grafické vyhodnocení analýzyd.post hoc testy mnohonásobného porovnání"
+    },
+    {
+      "label": "[section] Analýza rozptylu - ANOVA",
+      "content": "a.princip analýzyb.typy analýzyc.numerické a grafické vyhodnocení analýzyd.post hoc testy mnohonásobného porovnání"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.vícerozměrný statistický souborb.závislost veličinc.typy závislostíd.míry závislostie.statistická významnost závislosti"
+    },
+    {
+      "label": "[section] Korelační analýza",
+      "content": "a.vícerozměrný statistický souborb.závislost veličinc.typy závislostíd.míry závislostie.statistická významnost závislosti"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.lineární regresní analýzab.typy lineárních regresních modelůc.odhady parametrů modelud.hodnocení kvality lineárních modelů"
+    },
+    {
+      "label": "[section] Lineární regrese",
+      "content": "a.lineární regresní analýzab.typy lineárních regresních modelůc.odhady parametrů modelud.hodnocení kvality lineárních modelů"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.nelineární regresní analýzab.typy nelineárních regresních modelůc.odhady parametrů modelud.hodnocení kvality nelineárních modelů"
+    },
+    {
+      "label": "[section] Nelineární regrese",
+      "content": "a.nelineární regresní analýzab.typy nelineárních regresních modelůc.odhady parametrů modelud.hodnocení kvality nelineárních modelů"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.typy zobecněných lineárních modelůb.transformační spojovací funkcec.odhady parametrů modelud.hodnocení kvality zobecněných lineárních modelů"
+    },
+    {
+      "label": "[section] Zobecněná lineární regrese",
+      "content": "a.typy zobecněných lineárních modelůb.transformační spojovací funkcec.odhady parametrů modelud.hodnocení kvality zobecněných lineárních modelů"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku28 hpříprava na průběžný test28 hCelkem112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "zápočet (úspěšné složení dvou elektronických testů - 1. popisná statistika, IS, testy, 2. ANOVA, regrese, korelace(na každém nutno získat nejméně 8 b. z 15 ) zkouška - písemná bodovaná (znalosti z rozsahu přednášek a cvičení, vybrané kapitoly z doporučené literatury, nejméně 12 b. ze 30, 5 otevřených otázek bodovaných 0-6 b.) v případě flexibilní výuky online zkouška ústní."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:DRÁPELA, Karel; ZACH, Jan. 1999. Statistické metody I: (pro obory lesního dřevařského a krajinného inženýrství). 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita, 135 s. ISBN 80-7157-416-3.DRÁPELA, Karel. 2000. Statistické metody II: (pro obory lesního, dřevařského a krajinného inženýrství). 1. vyd. V Brně: Mendelova zemědělská a lesnická univerzita, 144 s. ISBN 80-7157-474-0.SCHEER, Ľubomír. 2014. Biometria. 2. vyd. Zvolen: Technická univerzita vo Zvolene, 309 s. ISBN 978-80-228-2682-2.LEPŠ, Jan; ŠMILAUER, Petr. 2016. Biostatistika. 1. vyd. České Budějovice: Nakladatelství Jihočeské univerzity v Českých Budějovicích, 438 s. Episteme. Natura. ISBN 978-80-7394-587-9.CHATTERJEE, Samprit; HADI, Ali S. 2012. Regression analysis by example. 5. vyd. Hoboken: John Wiley & Sons, 393 s. Wiley series in probability and statistics. ISBN 978-0-470-90584-5.Doporučená:FABRIKA, Marek; PRETZSCH, Hans. 2011. Analýza a modelovanie lesných ekosystémov. Zvolen: Technická univerzita vo Zvolene, 599 s. ISBN 978-80-228-2181-0.MELOUN, Milan; MILITKÝ, Jiří. 2012. Kompendium statistického zpracování dat. 3. vyd. Praha: Karolinum, 982 s. ISBN 978-80-246-2196-8. Sampling strategies for natural resources and the environment. Boca Raton: Chapman & Hall/CRC, 474 s. ISBN 978-1-58488-370-8."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "DRÁPELA, Karel; ZACH, Jan. 1999. Statistické metody I: (pro obory lesního dřevařského a krajinného inženýrství). 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita, 135 s. ISBN 80-7157-416-3.DRÁPELA, Karel. 2000. Statistické metody II: (pro obory lesního, dřevařského a krajinného inženýrství). 1. vyd. V Brně: Mendelova zemědělská a lesnická univerzita, 144 s. ISBN 80-7157-474-0.SCHEER, Ľubomír. 2014. Biometria. 2. vyd. Zvolen: Technická univerzita vo Zvolene, 309 s. ISBN 978-80-228-2682-2.LEPŠ, Jan; ŠMILAUER, Petr. 2016. Biostatistika. 1. vyd. České Budějovice: Nakladatelství Jihočeské univerzity v Českých Budějovicích, 438 s. Episteme. Natura. ISBN 978-80-7394-587-9.CHATTERJEE, Samprit; HADI, Ali S. 2012. Regression analysis by example. 5. vyd. Hoboken: John Wiley & Sons, 393 s. Wiley series in probability and statistics. ISBN 978-0-470-90584-5."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "FABRIKA, Marek; PRETZSCH, Hans. 2011. Analýza a modelovanie lesných ekosystémov. Zvolen: Technická univerzita vo Zvolene, 599 s. ISBN 978-80-228-2181-0.MELOUN, Milan; MILITKÝ, Jiří. 2012. Kompendium statistického zpracování dat. 3. vyd. Praha: Karolinum, 982 s. ISBN 978-80-246-2196-8. Sampling strategies for natural resources and the environment. Boca Raton: Chapman & Hall/CRC, 474 s. ISBN 978-1-58488-370-8."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "STMET"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Statistika"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Statistics"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "consulting"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The study of the subject is possible during foreign mobility after individual agreement with the subject guarantor."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Zdeněk Adamec, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Forest Management and Applied Geoinformatics (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Zdeněk Adamec, Ph.D. (examiner, instructor, lecturer, supervisor)doc. Ing. Karel Drápela, CSc. (examiner, instructor, lecturer)Ing. Kristýna Šleglová, Ph.D. (instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not State Bachelor Examination"
+    },
+    {
+      "label": "1.",
+      "content": "Data analysis - introduction: basic terms, population and sample, discrete and continous variable steps of data analysis (allowance 2/0)"
+    },
+    {
+      "label": "2.",
+      "content": "Statistical probability (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "basics of probability"
+    },
+    {
+      "label": "b.",
+      "content": "density and cumulative density functions"
+    },
+    {
+      "label": "c.",
+      "content": "distribution of discrete variables"
+    },
+    {
+      "label": "d.",
+      "content": "distribution of continous variables"
+    },
+    {
+      "label": "3.",
+      "content": "Basic characteristics (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "characteristics of the data position"
+    },
+    {
+      "label": "b.",
+      "content": "characteristics of the data variability"
+    },
+    {
+      "label": "c.",
+      "content": "characteristics of the data shape"
+    },
+    {
+      "label": "4.",
+      "content": "Exploratory data analysis - graphical and numerical methods: histogram, boxplot, QQ plot normality test, indenpendence test (allowance 0/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Parameters estimation (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "importance of parameters estimations"
+    },
+    {
+      "label": "b.",
+      "content": "point estimates"
+    },
+    {
+      "label": "c.",
+      "content": "interval estimates"
+    },
+    {
+      "label": "d.",
+      "content": "estimation via data transformation"
+    },
+    {
+      "label": "6.",
+      "content": "Planning of the experiment (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "design of the experiment"
+    },
+    {
+      "label": "b.",
+      "content": "types of samples"
+    },
+    {
+      "label": "c.",
+      "content": "criteria of the samples (sample size, sample intensity and efficiency)"
+    },
+    {
+      "label": "7.",
+      "content": "Tests of statistical hypothesis (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "formulation of the hypothesis"
+    },
+    {
+      "label": "b.",
+      "content": "types of the tests"
+    },
+    {
+      "label": "c.",
+      "content": "evaluation of the tests"
+    },
+    {
+      "label": "d.",
+      "content": "tests erros"
+    },
+    {
+      "label": "8.",
+      "content": "Analysis of variance - ANOVA (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "principle of the analysis"
+    },
+    {
+      "label": "b.",
+      "content": "types of the analysis"
+    },
+    {
+      "label": "c.",
+      "content": "numerical and graphical evaluation of the analysis"
+    },
+    {
+      "label": "d.",
+      "content": "post hoc multiple comparison tests"
+    },
+    {
+      "label": "9.",
+      "content": "Correlation analysis (allowance 3/2)"
+    },
+    {
+      "label": "a.",
+      "content": "multivariate variable"
+    },
+    {
+      "label": "b.",
+      "content": "dependence of the variables"
+    },
+    {
+      "label": "c.",
+      "content": "type of depedences"
+    },
+    {
+      "label": "d.",
+      "content": "degree of dependence"
+    },
+    {
+      "label": "e.",
+      "content": "statistical evaluation of the dependence"
+    },
+    {
+      "label": "10.",
+      "content": "Linear regression (allowance 3/2)"
+    },
+    {
+      "label": "a.",
+      "content": "linear regression analysis"
+    },
+    {
+      "label": "b.",
+      "content": "types of linear regression models"
+    },
+    {
+      "label": "c.",
+      "content": "estimation of linear model parameters"
+    },
+    {
+      "label": "d.",
+      "content": "evaluation of linear regression models"
+    },
+    {
+      "label": "11.",
+      "content": "Nonlinear regression (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "nonlinear regression analysis"
+    },
+    {
+      "label": "b.",
+      "content": "types of nonlinear regression models"
+    },
+    {
+      "label": "c.",
+      "content": "estimation of nonlinear model parameters"
+    },
+    {
+      "label": "d.",
+      "content": "evaluation of nonlinear regression models"
+    },
+    {
+      "label": "12.",
+      "content": "Generalized linear regression (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "types of generalized linear regression models"
+    },
+    {
+      "label": "b.",
+      "content": "transformation and link function"
+    },
+    {
+      "label": "c.",
+      "content": "estimation of generalized linear model parameters"
+    },
+    {
+      "label": "d.",
+      "content": "evaluation of generalized linear regression models"
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024, WS 2023/2024, SS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Statistika"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Statistics"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: consulting"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The study of the subject is possible during foreign mobility after individual agreement with the subject guarantor."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Zdeněk Adamec, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Forest Management and Applied Geoinformatics (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Zdeněk Adamec, Ph.D. (examiner, instructor, lecturer, supervisor)doc. Ing. Karel Drápela, CSc. (examiner, instructor, lecturer)Ing. Kristýna Šleglová, Ph.D. (instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not State Bachelor Examination"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Focus on the theoretical and practical bases of mathematical and statistical data processing. The goal is not only the statistical processing of the data itself, but also the setting of an adequate design of the planned experiment, the necessary sample size of the dataset and, above all, the correct interpretation of the achieved results (numerical and graphical) at different temporal and spatial levels in commonly available data processing software. The students will use the acquired knowledge not only in the normal processing of data in other subjects within the study, but also in the data processing in the diploma thesis."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Data analysis - introduction: basic terms, population and sample, discrete and continous variable steps of data analysis (allowance 2/0)2.Statistical probability (allowance 2/0) a.basics of probabilityb.density and cumulative density functionsc.distribution of discrete variablesd.distribution of continous variables3.Basic characteristics (allowance 2/4) a.characteristics of the data positionb.characteristics of the data variabilityc.characteristics of the data shape4.Exploratory data analysis - graphical and numerical methods: histogram, boxplot, QQ plot normality test, indenpendence test (allowance 0/2)5.Parameters estimation (allowance 2/4) a.importance of parameters estimationsb.point estimatesc.interval estimatesd.estimation via data transformation6.Planning of the experiment (allowance 2/2) a.design of the experimentb.types of samplesc.criteria of the samples (sample size, sample intensity and efficiency)7.Tests of statistical hypothesis (allowance 4/4) a.formulation of the hypothesisb.types of the testsc.evaluation of the testsd.tests erros8.Analysis of variance - ANOVA (allowance 4/4) a.principle of the analysisb.types of the analysisc.numerical and graphical evaluation of the analysisd.post hoc multiple comparison tests9.Correlation analysis (allowance 3/2) a.multivariate variableb.dependence of the variablesc.type of depedencesd.degree of dependencee.statistical evaluation of the dependence10.Linear regression (allowance 3/2) a.linear regression analysisb.types of linear regression modelsc.estimation of linear model parametersd.evaluation of linear regression models11.Nonlinear regression (allowance 2/2) a.nonlinear regression analysisb.types of nonlinear regression modelsc.estimation of nonlinear model parametersd.evaluation of nonlinear regression models12.Generalized linear regression (allowance 2/2) a.types of generalized linear regression modelsb.transformation and link functionc.estimation of generalized linear model parametersd.evaluation of generalized linear regression models"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Statistical probability (allowance 2/0)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.basics of probabilityb.density and cumulative density functionsc.distribution of discrete variablesd.distribution of continous variables"
+    },
+    {
+      "label": "[section] Statistical probability",
+      "content": "a.basics of probabilityb.density and cumulative density functionsc.distribution of discrete variablesd.distribution of continous variables"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.characteristics of the data positionb.characteristics of the data variabilityc.characteristics of the data shape"
+    },
+    {
+      "label": "[section] Basic characteristics",
+      "content": "a.characteristics of the data positionb.characteristics of the data variabilityc.characteristics of the data shape"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Parameters estimation (allowance 2/4)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.importance of parameters estimationsb.point estimatesc.interval estimatesd.estimation via data transformation"
+    },
+    {
+      "label": "[section] Parameters estimation",
+      "content": "a.importance of parameters estimationsb.point estimatesc.interval estimatesd.estimation via data transformation"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.design of the experimentb.types of samplesc.criteria of the samples (sample size, sample intensity and efficiency)"
+    },
+    {
+      "label": "[section] Planning of the experiment",
+      "content": "a.design of the experimentb.types of samplesc.criteria of the samples (sample size, sample intensity and efficiency)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.formulation of the hypothesisb.types of the testsc.evaluation of the testsd.tests erros"
+    },
+    {
+      "label": "[section] Tests of statistical hypothesis",
+      "content": "a.formulation of the hypothesisb.types of the testsc.evaluation of the testsd.tests erros"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.principle of the analysisb.types of the analysisc.numerical and graphical evaluation of the analysisd.post hoc multiple comparison tests"
+    },
+    {
+      "label": "[section] Analysis of variance - ANOVA",
+      "content": "a.principle of the analysisb.types of the analysisc.numerical and graphical evaluation of the analysisd.post hoc multiple comparison tests"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.multivariate variableb.dependence of the variablesc.type of depedencesd.degree of dependencee.statistical evaluation of the dependence"
+    },
+    {
+      "label": "[section] Correlation analysis",
+      "content": "a.multivariate variableb.dependence of the variablesc.type of depedencesd.degree of dependencee.statistical evaluation of the dependence"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.linear regression analysisb.types of linear regression modelsc.estimation of linear model parametersd.evaluation of linear regression models"
+    },
+    {
+      "label": "[section] Linear regression",
+      "content": "a.linear regression analysisb.types of linear regression modelsc.estimation of linear model parametersd.evaluation of linear regression models"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.nonlinear regression analysisb.types of nonlinear regression modelsc.estimation of nonlinear model parametersd.evaluation of nonlinear regression models"
+    },
+    {
+      "label": "[section] Nonlinear regression",
+      "content": "a.nonlinear regression analysisb.types of nonlinear regression modelsc.estimation of nonlinear model parametersd.evaluation of nonlinear regression models"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.types of generalized linear regression modelsb.transformation and link functionc.estimation of generalized linear model parametersd.evaluation of generalized linear regression models"
+    },
+    {
+      "label": "[section] Generalized linear regression",
+      "content": "a.types of generalized linear regression modelsb.transformation and link functionc.estimation of generalized linear model parametersd.evaluation of generalized linear regression models"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam28 hpreparation for regular testing28 hTotal112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "credit - 2 computer tests during semester - 1. descriptive statistics, CI, tests, 2. ANOVA, regression, corelation, necessary at least 8 points from 15 in each test) exam - written evaluated by points (scope of knowlege from lectures and labs and other selected parts from recommended literature, at least 12 p. from 30 possible, 5 questions graded by 0-6 points)) in the case of online type of study - online oral exam"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:DRÁPELA, Karel; ZACH, Jan. 1999. Statistické metody I: (pro obory lesního dřevařského a krajinného inženýrství). 1st ed. Brno: Mendelova zemědělská a lesnická univerzita, 135 p. ISBN 80-7157-416-3.DRÁPELA, Karel. 2000. Statistické metody II: (pro obory lesního, dřevařského a krajinného inženýrství). 1st ed. V Brně: Mendelova zemědělská a lesnická univerzita, 144 p. ISBN 80-7157-474-0.SCHEER, Ľubomír. 2014. Biometria. 2nd ed. Zvolen: Technická univerzita vo Zvolene, 309 p. ISBN 978-80-228-2682-2.LEPŠ, Jan; ŠMILAUER, Petr. 2016. Biostatistika. 1st ed. České Budějovice: Nakladatelství Jihočeské univerzity v Českých Budějovicích, 438 p. Episteme. Natura. ISBN 978-80-7394-587-9.CHATTERJEE, Samprit; HADI, Ali S. 2012. Regression analysis by example. 5th ed. Hoboken: John Wiley & Sons, 393 p. Wiley series in probability and statistics. ISBN 978-0-470-90584-5.Recommended:FABRIKA, Marek; PRETZSCH, Hans. 2011. Analýza a modelovanie lesných ekosystémov. Zvolen: Technická univerzita vo Zvolene, 599 p. ISBN 978-80-228-2181-0.MELOUN, Milan; MILITKÝ, Jiří. 2012. Kompendium statistického zpracování dat. 3rd ed. Praha: Karolinum, 982 p. ISBN 978-80-246-2196-8. Sampling strategies for natural resources and the environment. Boca Raton: Chapman & Hall/CRC, 474 p. ISBN 978-1-58488-370-8."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "DRÁPELA, Karel; ZACH, Jan. 1999. Statistické metody I: (pro obory lesního dřevařského a krajinného inženýrství). 1st ed. Brno: Mendelova zemědělská a lesnická univerzita, 135 p. ISBN 80-7157-416-3.DRÁPELA, Karel. 2000. Statistické metody II: (pro obory lesního, dřevařského a krajinného inženýrství). 1st ed. V Brně: Mendelova zemědělská a lesnická univerzita, 144 p. ISBN 80-7157-474-0.SCHEER, Ľubomír. 2014. Biometria. 2nd ed. Zvolen: Technická univerzita vo Zvolene, 309 p. ISBN 978-80-228-2682-2.LEPŠ, Jan; ŠMILAUER, Petr. 2016. Biostatistika. 1st ed. České Budějovice: Nakladatelství Jihočeské univerzity v Českých Budějovicích, 438 p. Episteme. Natura. ISBN 978-80-7394-587-9.CHATTERJEE, Samprit; HADI, Ali S. 2012. Regression analysis by example. 5th ed. Hoboken: John Wiley & Sons, 393 p. Wiley series in probability and statistics. ISBN 978-0-470-90584-5."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "FABRIKA, Marek; PRETZSCH, Hans. 2011. Analýza a modelovanie lesných ekosystémov. Zvolen: Technická univerzita vo Zvolene, 599 p. ISBN 978-80-228-2181-0.MELOUN, Milan; MILITKÝ, Jiří. 2012. Kompendium statistického zpracování dat. 3rd ed. Praha: Karolinum, 982 p. ISBN 978-80-246-2196-8. Sampling strategies for natural resources and the environment. Boca Raton: Chapman & Hall/CRC, 474 p. ISBN 978-1-58488-370-8."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:18:16",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

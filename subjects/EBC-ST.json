@@ -1,5 +1,22 @@
 {
   "courseCode": "EBC-ST",
+  "name": "Statistika",
+  "nameCs": "Statistika",
+  "nameEn": "Statistics",
+  "predmetId": "160301",
+  "facultyId": 2,
+  "aliases": [
+    "STAT",
+    "STMET",
+    "STSK"
+  ],
+  "teachers": [
+    "Ing. Martin Baťka",
+    "Ing. Terézia Vančová, Ph.D.",
+    "doc. Ing. Luboš Střelec, Ph.D.",
+    "doc. Ing. Václav Adamec, Ph.D.",
+    "doc. Mgr. Veronika Blašková, Ph.D."
+  ],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - PEF",
@@ -8,7 +25,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=801;predmet=160301;lang=cz",
       "totalPass": 158,
-      "totalFail": 98,
+      "totalFail": 96,
       "terms": [
         {
           "term": "1. opravný",
@@ -18,11 +35,11 @@
             "C": 9,
             "D": 17,
             "E": 30,
-            "F": 56,
+            "F": 54,
             "FN": 0
           },
           "pass": 57,
-          "fail": 56
+          "fail": 54
         },
         {
           "term": "2. opravný",
@@ -32,11 +49,11 @@
             "C": 0,
             "D": 11,
             "E": 22,
-            "F": 20,
+            "F": 18,
             "FN": 0
           },
           "pass": 35,
-          "fail": 20
+          "fail": 18
         },
         {
           "term": "Všechny termíny",
@@ -46,11 +63,11 @@
             "C": 19,
             "D": 47,
             "E": 86,
-            "F": 22,
+            "F": 20,
             "FN": 76
           },
           "pass": 158,
-          "fail": 98
+          "fail": 96
         },
         {
           "term": "Řádný termín",
@@ -60,11 +77,11 @@
             "C": 10,
             "D": 19,
             "E": 34,
-            "F": 112,
+            "F": 110,
             "FN": 78
           },
           "pass": 66,
-          "fail": 190
+          "fail": 188
         }
       ]
     },
@@ -672,5 +689,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-03-07T08:18:27.318Z"
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
 }

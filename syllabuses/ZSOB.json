@@ -1,0 +1,761 @@
+{
+  "courseCode": "ZSOB",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ZSOB"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Půdní biologie a biochemie (v AJ)"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Soil Biology and Biochemistry"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/1/1 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský; magisterský; magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Student si samostudiem doplní znalosti z prezentací a zaslaného odborného textu. Vypracování semestrální práce je součástí studia, téma bude zadáno na začátku semestru. Na konci semestru bude studentovi umožněn vstup do laboratoře a pod odborným vedením provést laboratorní analýzy pro semestrální práci, pokud přijímající instituce laboratorní cvičení nemá v náplni předmětu. Ověření znalostí bude formou písemného nebo online testu a ústní zkouškou na konci semestru."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "angličtina"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Valerie Vranová, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav geologie a pedologie (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Rahul Datta, Ph.D. (cvičící, přednášející, zkoušející)Ing. Aleš Kučera, Ph.D. (cvičící, přednášející, zkoušející)Ing. Jiří Volánek, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Valerie Vranová, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška nebo studentem studijního programu Z-EXC Zahraniční studenti - krátkodobé studijní pobyty LDF nebo studentem studijního programu Z-EXC Zahraniční studenti - krátkodobé studijní pobyty FRRMS"
+    },
+    {
+      "label": "1.",
+      "content": "Co je to půdní biologie. (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Které vědní disciplíny se podílejí na formaci půdní biologie."
+    },
+    {
+      "label": "b.",
+      "content": "Půda jako prostředí pro organismy, faktory ovlivňující výskyt organismů v půdě."
+    },
+    {
+      "label": "2.",
+      "content": "Viry, sinice, baktérie a aktinomycety v půdě. (dotace 2/1)"
+    },
+    {
+      "label": "3.",
+      "content": "Houby, řasy a prvoci v půdě. (dotace 2/1)"
+    },
+    {
+      "label": "4.",
+      "content": "Půdní fauna, potravní řetězce a interakce mezi půdními organismy (neutralismus, protokooperace, competice, komenzalismus, amenzalismus, parasitismus a predace. (dotace 2/1)"
+    },
+    {
+      "label": "5.",
+      "content": "Mikroorganismy a prostředí. (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Mikroorganismy jiných terestrických prostředí."
+    },
+    {
+      "label": "b.",
+      "content": "Mikroorganismy na povrchu rostlin."
+    },
+    {
+      "label": "c.",
+      "content": "Mikroorganismy kolonizující horniny."
+    },
+    {
+      "label": "d.",
+      "content": "přesun řádku tabulky ve směru šipky Společenstva mikroorganismů v hloubkách pod půdním povrchem."
+    },
+    {
+      "label": "e.",
+      "content": "Mikroorganismy extrémních prostředí."
+    },
+    {
+      "label": "6.",
+      "content": "Rozklad uhlíkatých látek v půdě (celulóza, hemicelulózy, lignin atd.) - úloha rozdílných skupin organismů. (dotace 2/1)"
+    },
+    {
+      "label": "7.",
+      "content": "Úloha organismů v transformaci jednotlivých elementů (např. N, P, S, Fe). (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Amonifikace, nitrifikace, denitrifikace, N2-fixace."
+    },
+    {
+      "label": "b.",
+      "content": "Transformace fosforu."
+    },
+    {
+      "label": "c.",
+      "content": "Transformace síry."
+    },
+    {
+      "label": "8.",
+      "content": "Půdní enzymy. (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Lokalizace půdních enzymů: endoenzymy, ektoenzymy, biontické a abiontické enzymy."
+    },
+    {
+      "label": "b.",
+      "content": "Využití poznatků o půdních enzymech, metody studia aktivity půdních enzymů."
+    },
+    {
+      "label": "9.",
+      "content": "Půdní organismy ve znečištěných půdách, využití různých organismů v dekontaminaci půd, indikátory znečištěných půd. (dotace 2/1)"
+    },
+    {
+      "label": "10.",
+      "content": "Metody studia v půdní biologii. (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Rozdílné testy biologické aktivity půdy, jejich využití a diskuse na dané téma."
+    },
+    {
+      "label": "11.",
+      "content": "Úloha mikroorganismů ve vývoji biosféry. (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Jednotlivé procesy, geologické pozadí."
+    },
+    {
+      "label": "b.",
+      "content": "Život jakožto hnací síla evoluce živého světa."
+    },
+    {
+      "label": "c.",
+      "content": "Využití poznatků z půdní biologie."
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2020/2021, LS 2019/2020, LS 2018/2019, LS 2017/2018 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Půdní biologie a biochemie (v AJ)"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Soil Biology and Biochemistry"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1/1 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1/1 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský; magisterský; magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Student si samostudiem doplní znalosti z prezentací a zaslaného odborného textu. Vypracování semestrální práce je součástí studia, téma bude zadáno na začátku semestru. Na konci semestru bude studentovi umožněn vstup do laboratoře a pod odborným vedením provést laboratorní analýzy pro semestrální práci, pokud přijímající instituce laboratorní cvičení nemá v náplni předmětu. Ověření znalostí bude formou písemného nebo online testu a ústní zkouškou na konci semestru."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: angličtina"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Valerie Vranová, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav geologie a pedologie (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Rahul Datta, Ph.D. (cvičící, přednášející, zkoušející)Ing. Aleš Kučera, Ph.D. (cvičící, přednášející, zkoušející)Ing. Jiří Volánek, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Valerie Vranová, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška nebo studentem studijního programu Z-EXC Zahraniční studenti - krátkodobé studijní pobyty LDF nebo studentem studijního programu Z-EXC Zahraniční studenti - krátkodobé studijní pobyty FRRMS"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem tohoto předmětu je praktické seznámení studentů na magisterském stupni vzdělávání jednak se základy současného stupně poznání v půdní biologii z vědeckého hlediska a jednak praktická znalost základních přístupů k charakteristice biologické aktivity půdy. Součástí tohoto předmětu je též praktická činnost v půdně biologické/půdně biochemické laboratoři na dodaných půdních vzorcích."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Co je to půdní biologie. (dotace 2/1) a.Které vědní disciplíny se podílejí na formaci půdní biologie.b.Půda jako prostředí pro organismy, faktory ovlivňující výskyt organismů v půdě.2.Viry, sinice, baktérie a aktinomycety v půdě. (dotace 2/1)3.Houby, řasy a prvoci v půdě. (dotace 2/1)4.Půdní fauna, potravní řetězce a interakce mezi půdními organismy (neutralismus, protokooperace, competice, komenzalismus, amenzalismus, parasitismus a predace. (dotace 2/1)5.Mikroorganismy a prostředí. (dotace 2/1) a.Mikroorganismy jiných terestrických prostředí.b.Mikroorganismy na povrchu rostlin.c.Mikroorganismy kolonizující horniny.d.přesun řádku tabulky ve směru šipky Společenstva mikroorganismů v hloubkách pod půdním povrchem.e.Mikroorganismy extrémních prostředí.6.Rozklad uhlíkatých látek v půdě (celulóza, hemicelulózy, lignin atd.) - úloha rozdílných skupin organismů. (dotace 2/1)7.Úloha organismů v transformaci jednotlivých elementů (např. N, P, S, Fe). (dotace 2/1) a.Amonifikace, nitrifikace, denitrifikace, N2-fixace.b.Transformace fosforu.c.Transformace síry.8.Půdní enzymy. (dotace 2/1) a.Lokalizace půdních enzymů: endoenzymy, ektoenzymy, biontické a abiontické enzymy.b.Využití poznatků o půdních enzymech, metody studia aktivity půdních enzymů.9.Půdní organismy ve znečištěných půdách, využití různých organismů v dekontaminaci půd, indikátory znečištěných půd. (dotace 2/1)10.Metody studia v půdní biologii. (dotace 2/1) a.Rozdílné testy biologické aktivity půdy, jejich využití a diskuse na dané téma.11.Úloha mikroorganismů ve vývoji biosféry. (dotace 2/1) a.Jednotlivé procesy, geologické pozadí.b.Život jakožto hnací síla evoluce živého světa.c.Využití poznatků z půdní biologie."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Které vědní disciplíny se podílejí na formaci půdní biologie.b.Půda jako prostředí pro organismy, faktory ovlivňující výskyt organismů v půdě."
+    },
+    {
+      "label": "[section] Co je to půdní biologie.",
+      "content": "a.Které vědní disciplíny se podílejí na formaci půdní biologie.b.Půda jako prostředí pro organismy, faktory ovlivňující výskyt organismů v půdě."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Houby, řasy a prvoci v půdě. (dotace 2/1)"
+    },
+    {
+      "label": "[section] Viry, sinice, baktérie a aktinomycety v půdě.",
+      "content": "3.Houby, řasy a prvoci v půdě. (dotace 2/1)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Půdní fauna, potravní řetězce a interakce mezi půdními organismy (neutralismus, protokooperace, competice, komenzalismus, amenzalismus, parasitismus a predace. (dotace 2/1)"
+    },
+    {
+      "label": "[section] Houby, řasy a prvoci v půdě.",
+      "content": "4.Půdní fauna, potravní řetězce a interakce mezi půdními organismy (neutralismus, protokooperace, competice, komenzalismus, amenzalismus, parasitismus a predace. (dotace 2/1)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Mikroorganismy a prostředí. (dotace 2/1)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Mikroorganismy jiných terestrických prostředí.b.Mikroorganismy na povrchu rostlin.c.Mikroorganismy kolonizující horniny.d.přesun řádku tabulky ve směru šipky Společenstva mikroorganismů v hloubkách pod půdním povrchem.e.Mikroorganismy extrémních prostředí."
+    },
+    {
+      "label": "[section] Mikroorganismy a prostředí.",
+      "content": "a.Mikroorganismy jiných terestrických prostředí.b.Mikroorganismy na povrchu rostlin.c.Mikroorganismy kolonizující horniny.d.přesun řádku tabulky ve směru šipky Společenstva mikroorganismů v hloubkách pod půdním povrchem.e.Mikroorganismy extrémních prostředí."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Úloha organismů v transformaci jednotlivých elementů (např. N, P, S, Fe). (dotace 2/1)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Amonifikace, nitrifikace, denitrifikace, N2-fixace.b.Transformace fosforu.c.Transformace síry."
+    },
+    {
+      "label": "[section] Úloha organismů v transformaci jednotlivých elementů (např. N, P, S, Fe).",
+      "content": "a.Amonifikace, nitrifikace, denitrifikace, N2-fixace.b.Transformace fosforu.c.Transformace síry."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Lokalizace půdních enzymů: endoenzymy, ektoenzymy, biontické a abiontické enzymy.b.Využití poznatků o půdních enzymech, metody studia aktivity půdních enzymů."
+    },
+    {
+      "label": "[section] Půdní enzymy.",
+      "content": "a.Lokalizace půdních enzymů: endoenzymy, ektoenzymy, biontické a abiontické enzymy.b.Využití poznatků o půdních enzymech, metody studia aktivity půdních enzymů."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Metody studia v půdní biologii. (dotace 2/1)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Rozdílné testy biologické aktivity půdy, jejich využití a diskuse na dané téma."
+    },
+    {
+      "label": "[section] Metody studia v půdní biologii.",
+      "content": "a.Rozdílné testy biologické aktivity půdy, jejich využití a diskuse na dané téma."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Jednotlivé procesy, geologické pozadí.b.Život jakožto hnací síla evoluce živého světa.c.Využití poznatků z půdní biologie."
+    },
+    {
+      "label": "[section] Úloha mikroorganismů ve vývoji biosféry.",
+      "content": "a.Jednotlivé procesy, geologické pozadí.b.Život jakožto hnací síla evoluce živého světa.c.Využití poznatků z půdní biologie."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení14 hlaboratorní práce10 hodborná exkurze8 hveřejná prezentace (ústní)6 hpříprava na zkoušku28 hpříprava na průběžné hodnocení8 hpříprava prezentace10 hCelkem112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zkouška, která je složena z části ústní a části písemné. V písemné části je pozornost soustředěna na znalosti především z povinné literatury,kdy studenti musí prokázat minimálné 60 % požadovaných znalostí. V části ústní je student testován i přímo z aplikace znalostí o výpočtech získaných na jednotkových vzorcích a to pro přepočet na lesnicky využitelné plošné údaje (student musí prokázat minimálně 60 % požadovaných znalostí)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní: The biology of soil: a community and ecosystem approach. 2005. New York: Oxford University Press, 242 s. ISBN 0-19-852503-6.FORMÁNEK, Pavel; VRANOVÁ, Valerie. 2004. Soil biology. 89 s.GOBAT, Jean-Michel. The living soil: fundamentals of soil science and soil biology. Enfield: Science Publishers, 602 s. ISBN 1-57808-212-9. Introduction to soil microbiology. 1977. 2. vyd. New York: John Wiley & Sons, 467 s. ISBN 0-471-02179-2."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "The biology of soil: a community and ecosystem approach. 2005. New York: Oxford University Press, 242 s. ISBN 0-19-852503-6.FORMÁNEK, Pavel; VRANOVÁ, Valerie. 2004. Soil biology. 89 s.GOBAT, Jean-Michel. The living soil: fundamentals of soil science and soil biology. Enfield: Science Publishers, 602 s. ISBN 1-57808-212-9. Introduction to soil microbiology. 1977. 2. vyd. New York: John Wiley & Sons, 467 s. ISBN 0-471-02179-2."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ZSOB"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Půdní biologie a biochemie (v AJ)"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Soil Biology and Biochemistry"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/1/1 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor; master; master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "Through self-study, the student will get his knowledge from the presentations and the sent study text. The essay is part of the student's study assignment, the topic will be given to the student at the beginning of the semester. At the end of the semester, the student will be allowed to enter the laboratory and perform laboratory analyzes for the semester work under professional guidance, if the receiving institution does not have a course with the laboratory exercise. Knowledge verification will be in the form of a written or online test and oral exam at the end of the semester."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "English"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Valerie Vranová, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Geology and Pedology (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Rahul Datta, Ph.D. (examiner, instructor, lecturer)Ing. Aleš Kučera, Ph.D. (examiner, instructor, lecturer)Ing. Jiří Volánek, Ph.D. (examiner, instructor, lecturer)doc. Ing. Valerie Vranová, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "State Bachelor Examination or student of study programme Z-EXC Foreign students - exchange programs or student of study programme Z-EXC Foreign students - exchange programs FRDIS"
+    },
+    {
+      "label": "1.",
+      "content": "Definition of soil biology. (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Soil biology and related disciplines."
+    },
+    {
+      "label": "b.",
+      "content": "Soil as an environment for organisms, factors affecting occurence of organisms in soil."
+    },
+    {
+      "label": "2.",
+      "content": "Viruses, cyanobacteria, bacteria and actinomycetes in soil. (allowance 2/1)"
+    },
+    {
+      "label": "3.",
+      "content": "Fungi, algea and protozoa in soil. (allowance 2/1)"
+    },
+    {
+      "label": "4.",
+      "content": "Soil fauna, food webs and interactions between soil organisms (neutralism, protocooperation, competition, comenzalism, amenzalism, parazitism and predation). (allowance 2/1)"
+    },
+    {
+      "label": "5.",
+      "content": "Microorganism and an enviroment. (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Microorganisms of other terrestrial environments."
+    },
+    {
+      "label": "b.",
+      "content": "Microorganisms on surfaces of plants."
+    },
+    {
+      "label": "c.",
+      "content": "Rock-inhabiting microorganisms."
+    },
+    {
+      "label": "d.",
+      "content": "Deep, subsurface communities of microorganisms."
+    },
+    {
+      "label": "e.",
+      "content": "Microorganisms of extreme environments."
+    },
+    {
+      "label": "f.",
+      "content": "Termophilic algea, fungi, cyanobacteria and bacteria; microbial communities of extremely acidic, alcaline and highly saline environments."
+    },
+    {
+      "label": "6.",
+      "content": "Plant root exudates. (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Role of root exudates in plant nutrition."
+    },
+    {
+      "label": "b.",
+      "content": "Microbiology of the rhizosphere."
+    },
+    {
+      "label": "7.",
+      "content": "Decomposition of carbonacous compounds in soil (cellulose, hemicelluloses, lignin, etc) - a role of different groups of organisms. (allowance 2/1)"
+    },
+    {
+      "label": "8.",
+      "content": "Role of organisms in transformation of nitrogen-containing compounds, transformation of other elements. (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Ammonification, nitrification, N-fixation, denitrification."
+    },
+    {
+      "label": "b.",
+      "content": "Biological transformation of phosphorus."
+    },
+    {
+      "label": "c.",
+      "content": "Biological transformation of sulphur."
+    },
+    {
+      "label": "9.",
+      "content": "Soil enzymes. (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Soil enzymes location: endoenzymes, exoenzymes, biontic, abiontic; regulation of their synthesis and activity."
+    },
+    {
+      "label": "b.",
+      "content": "Use of knowledges about soil enzymes."
+    },
+    {
+      "label": "c.",
+      "content": "Methods for analysis of activities of soil enzymes."
+    },
+    {
+      "label": "10.",
+      "content": "Soil organisms in polluted soils, use of different organisms in decontamination of polluted soils, indicators of polluted soils. (allowance 2/1)"
+    },
+    {
+      "label": "11.",
+      "content": "Methods of study in soil biology. (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Different tests of soil biological activity, their use and discussion on this topic."
+    },
+    {
+      "label": "12.",
+      "content": "The role of microorganisms in the biosphere development. (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Particular processes, the geological background."
+    },
+    {
+      "label": "b.",
+      "content": "Life as a power in an evolution of the living world."
+    },
+    {
+      "label": "c.",
+      "content": "Use of knowledges from soil biology."
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2020/2021, SS 2019/2020, SS 2018/2019, SS 2017/2018 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Půdní biologie a biochemie (v AJ)"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Soil Biology and Biochemistry"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1/1 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1/1 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor; master; master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: Through self-study, the student will get his knowledge from the presentations and the sent study text. The essay is part of the student's study assignment, the topic will be given to the student at the beginning of the semester. At the end of the semester, the student will be allowed to enter the laboratory and perform laboratory analyzes for the semester work under professional guidance, if the receiving institution does not have a course with the laboratory exercise. Knowledge verification will be in the form of a written or online test and oral exam at the end of the semester."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: English"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Valerie Vranová, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Geology and Pedology (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Rahul Datta, Ph.D. (examiner, instructor, lecturer)Ing. Aleš Kučera, Ph.D. (examiner, instructor, lecturer)Ing. Jiří Volánek, Ph.D. (examiner, instructor, lecturer)doc. Ing. Valerie Vranová, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: State Bachelor Examination or student of study programme Z-EXC Foreign students - exchange programs or student of study programme Z-EXC Foreign students - exchange programs FRDIS"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The course is designed for both getting students familiar with the current level of soil biological knowledge and routine approaches for a site evaluation from the viewpoint of its soil biological activity. Students themselfs will be working with the soil samples in soil biological/soil biochemical laboratory."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Definition of soil biology. (allowance 2/1) a.Soil biology and related disciplines.b.Soil as an environment for organisms, factors affecting occurence of organisms in soil.2.Viruses, cyanobacteria, bacteria and actinomycetes in soil. (allowance 2/1)3.Fungi, algea and protozoa in soil. (allowance 2/1)4.Soil fauna, food webs and interactions between soil organisms (neutralism, protocooperation, competition, comenzalism, amenzalism, parazitism and predation). (allowance 2/1)5.Microorganism and an enviroment. (allowance 2/1) a.Microorganisms of other terrestrial environments.b.Microorganisms on surfaces of plants.c.Rock-inhabiting microorganisms.d.Deep, subsurface communities of microorganisms.e.Microorganisms of extreme environments.f.Termophilic algea, fungi, cyanobacteria and bacteria; microbial communities of extremely acidic, alcaline and highly saline environments.6.Plant root exudates. (allowance 2/1) a.Role of root exudates in plant nutrition.b.Microbiology of the rhizosphere.7.Decomposition of carbonacous compounds in soil (cellulose, hemicelluloses, lignin, etc) - a role of different groups of organisms. (allowance 2/1)8.Role of organisms in transformation of nitrogen-containing compounds, transformation of other elements. (allowance 2/1) a.Ammonification, nitrification, N-fixation, denitrification.b.Biological transformation of phosphorus.c.Biological transformation of sulphur.9.Soil enzymes. (allowance 2/1) a.Soil enzymes location: endoenzymes, exoenzymes, biontic, abiontic; regulation of their synthesis and activity.b.Use of knowledges about soil enzymes.c.Methods for analysis of activities of soil enzymes.10.Soil organisms in polluted soils, use of different organisms in decontamination of polluted soils, indicators of polluted soils. (allowance 2/1)11.Methods of study in soil biology. (allowance 2/1) a.Different tests of soil biological activity, their use and discussion on this topic.12.The role of microorganisms in the biosphere development. (allowance 2/1) a.Particular processes, the geological background.b.Life as a power in an evolution of the living world.c.Use of knowledges from soil biology."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Soil biology and related disciplines.b.Soil as an environment for organisms, factors affecting occurence of organisms in soil."
+    },
+    {
+      "label": "[section] Definition of soil biology.",
+      "content": "a.Soil biology and related disciplines.b.Soil as an environment for organisms, factors affecting occurence of organisms in soil."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Fungi, algea and protozoa in soil. (allowance 2/1)"
+    },
+    {
+      "label": "[section] Viruses, cyanobacteria, bacteria and actinomycetes in soil.",
+      "content": "3.Fungi, algea and protozoa in soil. (allowance 2/1)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Soil fauna, food webs and interactions between soil organisms (neutralism, protocooperation, competition, comenzalism, amenzalism, parazitism and predation). (allowance 2/1)"
+    },
+    {
+      "label": "[section] Fungi, algea and protozoa in soil.",
+      "content": "4.Soil fauna, food webs and interactions between soil organisms (neutralism, protocooperation, competition, comenzalism, amenzalism, parazitism and predation). (allowance 2/1)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Microorganism and an enviroment. (allowance 2/1)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Microorganisms of other terrestrial environments.b.Microorganisms on surfaces of plants.c.Rock-inhabiting microorganisms.d.Deep, subsurface communities of microorganisms.e.Microorganisms of extreme environments.f.Termophilic algea, fungi, cyanobacteria and bacteria; microbial communities of extremely acidic, alcaline and highly saline environments."
+    },
+    {
+      "label": "[section] Microorganism and an enviroment.",
+      "content": "a.Microorganisms of other terrestrial environments.b.Microorganisms on surfaces of plants.c.Rock-inhabiting microorganisms.d.Deep, subsurface communities of microorganisms.e.Microorganisms of extreme environments.f.Termophilic algea, fungi, cyanobacteria and bacteria; microbial communities of extremely acidic, alcaline and highly saline environments."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Role of root exudates in plant nutrition.b.Microbiology of the rhizosphere."
+    },
+    {
+      "label": "[section] Plant root exudates.",
+      "content": "a.Role of root exudates in plant nutrition.b.Microbiology of the rhizosphere."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Role of organisms in transformation of nitrogen-containing compounds, transformation of other elements. (allowance 2/1)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Ammonification, nitrification, N-fixation, denitrification.b.Biological transformation of phosphorus.c.Biological transformation of sulphur."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Soil enzymes location: endoenzymes, exoenzymes, biontic, abiontic; regulation of their synthesis and activity.b.Use of knowledges about soil enzymes.c.Methods for analysis of activities of soil enzymes."
+    },
+    {
+      "label": "[section] Soil enzymes.",
+      "content": "a.Soil enzymes location: endoenzymes, exoenzymes, biontic, abiontic; regulation of their synthesis and activity.b.Use of knowledges about soil enzymes.c.Methods for analysis of activities of soil enzymes."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Methods of study in soil biology. (allowance 2/1)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Different tests of soil biological activity, their use and discussion on this topic."
+    },
+    {
+      "label": "[section] Methods of study in soil biology.",
+      "content": "a.Different tests of soil biological activity, their use and discussion on this topic."
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Particular processes, the geological background.b.Life as a power in an evolution of the living world.c.Use of knowledges from soil biology."
+    },
+    {
+      "label": "[section] The role of microorganisms in the biosphere development.",
+      "content": "a.Particular processes, the geological background.b.Life as a power in an evolution of the living world.c.Use of knowledges from soil biology."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice14 hlaboratory work10 hprofessional educational excursion8 hpublic presentation (oral)6 hpreparation for exam28 hpreparation for regular assessment8 hpreparation of presentation10 hTotal112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "The exam which is composed of oral and written forms. In written form, student is tested from knowledge based on the literature sources and has to approve minimally 60 % of required knowledge. In oral form the student is tested from mathematical aplications started from the evaluation of unique samples aimed in recalculation for area uniques routinuly used in forest management (student has to approve minimally 60 % of required knowledge)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic: The biology of soil: a community and ecosystem approach. 2005. New York: Oxford University Press, 242 p. ISBN 0-19-852503-6.FORMÁNEK, Pavel; VRANOVÁ, Valerie. 2004. Soil biology. 89 p.GOBAT, Jean-Michel. The living soil: fundamentals of soil science and soil biology. Enfield: Science Publishers, 602 p. ISBN 1-57808-212-9. Introduction to soil microbiology. 1977. 2nd ed. New York: John Wiley & Sons, 467 p. ISBN 0-471-02179-2."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "The biology of soil: a community and ecosystem approach. 2005. New York: Oxford University Press, 242 p. ISBN 0-19-852503-6.FORMÁNEK, Pavel; VRANOVÁ, Valerie. 2004. Soil biology. 89 p.GOBAT, Jean-Michel. The living soil: fundamentals of soil science and soil biology. Enfield: Science Publishers, 602 p. ISBN 1-57808-212-9. Introduction to soil microbiology. 1977. 2nd ed. New York: John Wiley & Sons, 467 p. ISBN 0-471-02179-2."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:49:07",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

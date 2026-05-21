@@ -1,0 +1,741 @@
+{
+  "courseCode": "NPKD",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "NPKD"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Nosné prvky a konstrukce ze dřeva"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Supporting Elements and Construction of Wood"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Václav Sebera, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Michal Bošanský, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Václav Sebera, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Motivace, model konstrukce, zatížení, tvar konstrukce a její působení. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Návrh konstrukce a statický model konstrukce"
+    },
+    {
+      "label": "2.",
+      "content": "Navrhování podle norem (obecné zásady, seznam Eurokódů, rozdělení zatížení dle EK, kombinace zatížení) (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Zatížení jednotlivých prvků konstrukce (zatěžovací šířka, prutové prvky plošné prvky)"
+    },
+    {
+      "label": "3.",
+      "content": "Materiálové vlastnosti - Rostlé dřevo, Lepené lamelové dřevo, deskové konstrukční prvky na bázi dřeva. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Vlhkostní třídy, Charakteristické pevnosti materiálu. Návrhové pevnosti materiálu."
+    },
+    {
+      "label": "4.",
+      "content": "Druhy zatížení dle EK (stálá zatížení, proměnná zatížení, mimořádná zatížení)- (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Zatížení sněhem."
+    },
+    {
+      "label": "b.",
+      "content": "Zatížení větrem - střešní konstrukce."
+    },
+    {
+      "label": "c.",
+      "content": "Zatížení větrem - svíslé konstrukce."
+    },
+    {
+      "label": "5.",
+      "content": "Proměnná zatížení (sněhem, větrem). (dotace 2/0)"
+    },
+    {
+      "label": "6.",
+      "content": "Mezní stavy dle EK. Mezní stav únosnosti a mezní stav použitelnosti. (dotace 2/0)"
+    },
+    {
+      "label": "7.",
+      "content": "Kombinace zatížení dle EK. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Kombinace zatížení - stálé zatížení + zatížení sněhem + zatížení větřem."
+    },
+    {
+      "label": "8.",
+      "content": "Základy navrhovaní dřevěných konstrukcí - Osové namáhání - Tah / Tlak (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Návrh prutových prvků - Tah / Tlak"
+    },
+    {
+      "label": "9.",
+      "content": "Základy navrhovaní dřevěných konstrukcí - Namáhání pod úhlem na osu prvku - Smyk / Ohyb (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Návrh prutových prvků - Smyk / Ohyb"
+    },
+    {
+      "label": "10.",
+      "content": "Navrhování podle norem – prutové prvky - prvky střešní konstrukce (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Navrhování podle norem – prutové prvky - Návrh krokve, kleštiny, vazního trámu"
+    },
+    {
+      "label": "11.",
+      "content": "Navrhování podle norem – prutové prvky - prvky stropní konstrukce, svislé nosné prvky (vzpěř) (dotace 2/2)"
+    },
+    {
+      "label": "12.",
+      "content": "Úvod do navrhování spojů dřevěných konstrukcí podle Eurokódu. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Návrh hřebíkového spoje."
+    },
+    {
+      "label": "13.",
+      "content": "Ukázky příkladů spojů dřevěných konstrukcí podle Eurokódu. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Návrh svorníkového spoje."
+    },
+    {
+      "label": "14.",
+      "content": "Základy navrhovaní plošných dřevěných konstrukcí. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Rezerva, opakování, informace ke zkoušce."
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "30 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "35 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "30 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "5 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, LS 2025/2026, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Nosné prvky a konstrukce ze dřeva"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Supporting Elements and Construction of Wood"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Václav Sebera, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Michal Bošanský, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Václav Sebera, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkVyučujícíAkceČetnostKapacitaÚterý9.00-10.50T27N-SNBD 112M. BošanskýPřednáškaKaždý týden32Úterý11.00-12.50T28N-SNBD 112M. BošanskýCvičeníKaždý týden20Úterý13.00-14.50T28N-SNBD 112M. BošanskýCvičeníKaždý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Rozšíření a doplnění znalostí v oblasti návrhu a posouzení základních typů dřevěných konstrukcí pozemních staveb (střešní konstrukce, vaznicové konstrukce krovu, hambálkové soustavy bez mezistropu, vodorovné konstrukce stropu, svislé konstrukce apod.) v návaznosti na znalosti získané v předmětu NDK. Tvorba a realizace statitckého návrhu individuálních nosných prvků konstrukcí objektu. Legislativa - znalost potřebných zákonů, norem a vyhlášek."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Motivace, model konstrukce, zatížení, tvar konstrukce a její působení. (dotace 2/2) a.Návrh konstrukce a statický model konstrukce2.Navrhování podle norem (obecné zásady, seznam Eurokódů, rozdělení zatížení dle EK, kombinace zatížení) (dotace 2/2) a.Zatížení jednotlivých prvků konstrukce (zatěžovací šířka, prutové prvky plošné prvky)3.Materiálové vlastnosti - Rostlé dřevo, Lepené lamelové dřevo, deskové konstrukční prvky na bázi dřeva. (dotace 2/2) a.Vlhkostní třídy, Charakteristické pevnosti materiálu. Návrhové pevnosti materiálu.4.Druhy zatížení dle EK (stálá zatížení, proměnná zatížení, mimořádná zatížení)- (dotace 2/6) a.Zatížení sněhem.b.Zatížení větrem - střešní konstrukce.c.Zatížení větrem - svíslé konstrukce.5.Proměnná zatížení (sněhem, větrem). (dotace 2/0)6.Mezní stavy dle EK. Mezní stav únosnosti a mezní stav použitelnosti. (dotace 2/0)7.Kombinace zatížení dle EK. (dotace 2/2) a.Kombinace zatížení - stálé zatížení + zatížení sněhem + zatížení větřem.8.Základy navrhovaní dřevěných konstrukcí - Osové namáhání - Tah / Tlak (dotace 2/2) a.Návrh prutových prvků - Tah / Tlak9.Základy navrhovaní dřevěných konstrukcí - Namáhání pod úhlem na osu prvku - Smyk / Ohyb (dotace 2/2) a.Návrh prutových prvků - Smyk / Ohyb10.Navrhování podle norem – prutové prvky - prvky střešní konstrukce (dotace 2/2) a.Navrhování podle norem – prutové prvky - Návrh krokve, kleštiny, vazního trámu11.Navrhování podle norem – prutové prvky - prvky stropní konstrukce, svislé nosné prvky (vzpěř) (dotace 2/2) a.Navrhování podle norem – prutové prvky - návrh stropního trámu, sloupu (tlak, tlak se ztrátou stability, tlak + ohyb)12.Úvod do navrhování spojů dřevěných konstrukcí podle Eurokódu. (dotace 2/2) a.Návrh hřebíkového spoje.13.Ukázky příkladů spojů dřevěných konstrukcí podle Eurokódu. (dotace 2/2) a.Návrh svorníkového spoje.14.Základy navrhovaní plošných dřevěných konstrukcí. (dotace 2/2) a.Rezerva, opakování, informace ke zkoušce."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Návrh konstrukce a statický model konstrukce"
+    },
+    {
+      "label": "[section] Motivace, model konstrukce, zatížení, tvar konstrukce a její působení.",
+      "content": "a.Návrh konstrukce a statický model konstrukce"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Zatížení jednotlivých prvků konstrukce (zatěžovací šířka, prutové prvky plošné prvky)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Vlhkostní třídy, Charakteristické pevnosti materiálu. Návrhové pevnosti materiálu."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Zatížení sněhem.b.Zatížení větrem - střešní konstrukce.c.Zatížení větrem - svíslé konstrukce."
+    },
+    {
+      "label": "[section] Druhy zatížení dle EK (stálá zatížení, proměnná zatížení, mimořádná zatížení)-",
+      "content": "a.Zatížení sněhem.b.Zatížení větrem - střešní konstrukce.c.Zatížení větrem - svíslé konstrukce."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Mezní stavy dle EK. Mezní stav únosnosti a mezní stav použitelnosti. (dotace 2/0)"
+    },
+    {
+      "label": "[section] Proměnná zatížení (sněhem, větrem).",
+      "content": "6.Mezní stavy dle EK. Mezní stav únosnosti a mezní stav použitelnosti. (dotace 2/0)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Kombinace zatížení dle EK. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Mezní stavy dle EK. Mezní stav únosnosti a mezní stav použitelnosti.",
+      "content": "7.Kombinace zatížení dle EK. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Kombinace zatížení - stálé zatížení + zatížení sněhem + zatížení větřem."
+    },
+    {
+      "label": "[section] Kombinace zatížení dle EK.",
+      "content": "a.Kombinace zatížení - stálé zatížení + zatížení sněhem + zatížení větřem."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Návrh prutových prvků - Tah / Tlak"
+    },
+    {
+      "label": "[section] Základy navrhovaní dřevěných konstrukcí - Osové namáhání - Tah / Tlak",
+      "content": "a.Návrh prutových prvků - Tah / Tlak"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Návrh prutových prvků - Smyk / Ohyb"
+    },
+    {
+      "label": "[section] Základy navrhovaní dřevěných konstrukcí - Namáhání pod úhlem na osu prvku - Smyk / Ohyb",
+      "content": "a.Návrh prutových prvků - Smyk / Ohyb"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Navrhování podle norem – prutové prvky - Návrh krokve, kleštiny, vazního trámu"
+    },
+    {
+      "label": "[section] Navrhování podle norem – prutové prvky - prvky střešní konstrukce",
+      "content": "a.Navrhování podle norem – prutové prvky - Návrh krokve, kleštiny, vazního trámu"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Navrhování podle norem – prutové prvky - návrh stropního trámu, sloupu (tlak, tlak se ztrátou stability, tlak + ohyb)"
+    },
+    {
+      "label": "[section] Navrhování podle norem – prutové prvky - prvky stropní konstrukce, svislé nosné prvky (vzpěř)",
+      "content": "a.Navrhování podle norem – prutové prvky - návrh stropního trámu, sloupu (tlak, tlak se ztrátou stability, tlak + ohyb)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Návrh hřebíkového spoje."
+    },
+    {
+      "label": "[section] Úvod do navrhování spojů dřevěných konstrukcí podle Eurokódu.",
+      "content": "a.Návrh hřebíkového spoje."
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Návrh svorníkového spoje."
+    },
+    {
+      "label": "[section] Ukázky příkladů spojů dřevěných konstrukcí podle Eurokódu.",
+      "content": "a.Návrh svorníkového spoje."
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Rezerva, opakování, informace ke zkoušce."
+    },
+    {
+      "label": "[section] Základy navrhovaní plošných dřevěných konstrukcí.",
+      "content": "a.Rezerva, opakování, informace ke zkoušce."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hkonzultace15 hpříprava na zkoušku35 hpříprava na průběžné hodnocení10 hzpracování seminární práce25 hCelkem141 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Semestrální práce - Návrh zadané dřevěné konstrukce - Část statického výpočtu projektu obytné budovy - Výpočet zatížení od vlastní tíhy a skladby konstrukcí – kontrola 4. týden výuky - Výpočet zatížení – užitné / sníh / vítr – kontrola 7. týden výuky - Návrh vybraných prvků (Krokev, kleština, vaznice, stropní trám, překlady, sloupy) Zápočet - podmínkou udělení zápočtu je vypracování zadané semestrální práce a účast na cvičeních (80%) Zkouška je písemná. Doba trvání zkoušky je 90 minut. Hodnocení předmětu výborně 100 % - 90 % velmi dobře 89 % - 75 % dobře 74 % - 60 % nevyhověl 59 % a méně"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích30 %Vypracování semestrální práce35 %Absolvování závěrečného testu30 %Absolvování závěrečné ústní zkoušky5 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:KUKLÍKOVÁ, Anna; KUKLÍK, Petr. 2010. Navrhování dřevěných konstrukcí. Příručka k ČSN EN 1995-1. Praha: Informační centrum ČKAIT, 140 s. ISBN 978-80-87093-88-7.BLASS, Hans Joachim a kol. 2008. Navrhování, výpočet a posuzování dřevěných stavebních konstrukcí: obecná pravidla a pravidla pro pozemní stavby : komentář k ČSN 73 1702:2007 : modifikovaný překlad vysvětlivek k německé normě DIN 1052:2004. 1. vyd. Praha: Pro Českou komoru autorizovaných inženýrů a techniků činných ve výstavbě (ČKAIT) vydalo Informační centrum ČKAIT, 227 s. Řada C - Technická knižnice autorizovaného inženýra a technika. ISBN 978-80-87093-73-3.HOLICKÝ, Milan; MARKOVÁ, Jana; SÝKORA, Miroslav. 2010. Zatížení stavebních konstrukcí: příručka k ČSN EN 1991. 1. vyd. Praha: Pro Ministerstvo pro místní rozvoj a Českou komoru autorizovaných inženýrů a techniků činných ve výstavbě (ČKAIT) vydalo Informační centrum ČKAIT, 131 s. Technická knižnice. ISBN 978-80-87093-89-4.STRAKA, Bohumil a kol. 2013. Konstrukce šikmých střech. 1. vyd. Praha: Grada, 230 s. Stavitel. ISBN 978-80-247-4205-2.BEINHAUER, Peter. 2008. Systémy štandardných detailov: konštrukčné detaily pre stavebné zámery s popisom částí stavebných konštrukcií a cenami. Bratislava: Eurostav, 367 s. ISBN 978-80-89228-11-9.GODONOU, Patrice. 2022. Design of timber structures - Structural aspects of timber construction, Volume 1. Stockholm: Swedish Wood, ISBN 978-91-985212-5-2.KOŽELOUH, Bohumil. 1998. Dřevěné konstrukce podle Eurokódu 5 : Navrhování a konstrukční materiály. Step 1. Zlín: KODR, 462 s. ISBN 80-238-2620-4.KUKLÍK, Petr. 2005. Dřevěné konstrukce. 1. vyd. Praha: Česká technika - nakladatelství ČVUT, 188 s. ISBN 80-01-03310-4.KUKLÍKOVÁ, Anna. 2003. Dřevěné konstrukce 10: pravidla pro navrhování a řešené příklady. Praha: Vydavatelství ČVUT, 147 s. ISBN 80-01-02847-X.Doporučená:JELÍNEK, Lubomír. 2008. Tesařské konstrukce. 2. vyd. Praha: Pro Českou komoru autorizovaných inženýrů a techniků činných ve výstavbě (ČKAIT) vydalo Informační centrum ČKAIT, 236 s. Technická knižnice. ISBN 978-80-87093-74-0. Dřevěné konstrukce podle Eurokódu 5. 2004. 1. vyd. Praha: Informační centrum ČKAIT, 401 s. ISBN 80-86769-13-5.KADLČÁK, Jaroslav; KYTÝR, Jiří. 2010. Statika stavebních konstrukcí. 3. vyd. V Brně: VUTIUM, 349 s. ISBN 978-80-214-3419-6."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "KUKLÍKOVÁ, Anna; KUKLÍK, Petr. 2010. Navrhování dřevěných konstrukcí. Příručka k ČSN EN 1995-1. Praha: Informační centrum ČKAIT, 140 s. ISBN 978-80-87093-88-7.BLASS, Hans Joachim a kol. 2008. Navrhování, výpočet a posuzování dřevěných stavebních konstrukcí: obecná pravidla a pravidla pro pozemní stavby : komentář k ČSN 73 1702:2007 : modifikovaný překlad vysvětlivek k německé normě DIN 1052:2004. 1. vyd. Praha: Pro Českou komoru autorizovaných inženýrů a techniků činných ve výstavbě (ČKAIT) vydalo Informační centrum ČKAIT, 227 s. Řada C - Technická knižnice autorizovaného inženýra a technika. ISBN 978-80-87093-73-3.HOLICKÝ, Milan; MARKOVÁ, Jana; SÝKORA, Miroslav. 2010. Zatížení stavebních konstrukcí: příručka k ČSN EN 1991. 1. vyd. Praha: Pro Ministerstvo pro místní rozvoj a Českou komoru autorizovaných inženýrů a techniků činných ve výstavbě (ČKAIT) vydalo Informační centrum ČKAIT, 131 s. Technická knižnice. ISBN 978-80-87093-89-4.STRAKA, Bohumil a kol. 2013. Konstrukce šikmých střech. 1. vyd. Praha: Grada, 230 s. Stavitel. ISBN 978-80-247-4205-2.BEINHAUER, Peter. 2008. Systémy štandardných detailov: konštrukčné detaily pre stavebné zámery s popisom částí stavebných konštrukcií a cenami. Bratislava: Eurostav, 367 s. ISBN 978-80-89228-11-9.GODONOU, Patrice. 2022. Design of timber structures - Structural aspects of timber construction, Volume 1. Stockholm: Swedish Wood, ISBN 978-91-985212-5-2.KOŽELOUH, Bohumil. 1998. Dřevěné konstrukce podle Eurokódu 5 : Navrhování a konstrukční materiály. Step 1. Zlín: KODR, 462 s. ISBN 80-238-2620-4.KUKLÍK, Petr. 2005. Dřevěné konstrukce. 1. vyd. Praha: Česká technika - nakladatelství ČVUT, 188 s. ISBN 80-01-03310-4.KUKLÍKOVÁ, Anna. 2003. Dřevěné konstrukce 10: pravidla pro navrhování a řešené příklady. Praha: Vydavatelství ČVUT, 147 s. ISBN 80-01-02847-X."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "JELÍNEK, Lubomír. 2008. Tesařské konstrukce. 2. vyd. Praha: Pro Českou komoru autorizovaných inženýrů a techniků činných ve výstavbě (ČKAIT) vydalo Informační centrum ČKAIT, 236 s. Technická knižnice. ISBN 978-80-87093-74-0. Dřevěné konstrukce podle Eurokódu 5. 2004. 1. vyd. Praha: Informační centrum ČKAIT, 401 s. ISBN 80-86769-13-5.KADLČÁK, Jaroslav; KYTÝR, Jiří. 2010. Statika stavebních konstrukcí. 3. vyd. V Brně: VUTIUM, 349 s. ISBN 978-80-214-3419-6."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-SNBD Stavby na bázi dřeva, prezenční forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "NPKD"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Nosné prvky a konstrukce ze dřeva"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Supporting Elements and Construction of Wood"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Václav Sebera, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Michal Bošanský, Ph.D. (examiner, instructor, lecturer)doc. Ing. Václav Sebera, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "State Bachelor Examination"
+    },
+    {
+      "label": "1.",
+      "content": "Wooden plane and spatial structures - basic types, layout of load-bearing elements, carrying loads. (allowance 2/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Beams and trusses, frames, arches - types, the basic structural features, the shape of the center and methods of placing external bonds of curved planar beam. (allowance 2/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Anchoring of structures, placing of beams, the settlement of internal joints, replacement of carpentry joints. (allowance 2/0)"
+    },
+    {
+      "label": "4.",
+      "content": "Application of force method for solving statically determinate and indeterminate plane structures - plane frames, plane arcs. Use of shape symmetry. Influence of support relaxation, the influence of temperature change. (allowance 2/4)"
+    },
+    {
+      "label": "5.",
+      "content": "The spatial structure of structures with planar cross bonds. Division and the choice of a roof by span, loading and force transfer. (allowance 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Wooden spatial structures - types and composition, web-plate spatial structures, shell and folded plate, rod spatial structures. (allowance 2/2)"
+    },
+    {
+      "label": "7.",
+      "content": "Halls. Spatial rigidity, bracing and reinforcement systems. (allowance 2/1)"
+    },
+    {
+      "label": "8.",
+      "content": "Analysis of a straight bar with variable cross section. (allowance 2/1)"
+    },
+    {
+      "label": "9.",
+      "content": "Spatial stress of statically determinate beams - beams, space-loaded rod, beam loaded transversely in two planes, balcony beam, spatially folded rod. (allowance 2/6)"
+    },
+    {
+      "label": "10.",
+      "content": "Design and assessment of the basic types of wood structures (ceiling and wall construction, roofing, etc.) (allowance 3/7)"
+    },
+    {
+      "label": "11.",
+      "content": "Overview of the procedure of necessary activities from business plan to the approval and subsequent use, disposal of construction, valid legislation. Project documentation. Approximate valuation according to standard classification of buildings. (allowance 2/0)"
+    },
+    {
+      "label": "12.",
+      "content": "Methods and procedures for creating optimal production process, mutual links of procedures. Architectural and technological preparation of construction, manufactural and site build-up processes (allowance 2/1)"
+    },
+    {
+      "label": "13.",
+      "content": "Scheduling - time and duration, technological standards, schedules. Financial planning - surveying total cost, budget summary, the use of software. (allowance 2/0)"
+    },
+    {
+      "label": "14.",
+      "content": "Coordination, completion, quality and safety of construction works. (allowance 1/0)"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "30 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "35 %"
+    },
+    {
+      "label": "Final test",
+      "content": "30 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "5 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, SS 2025/2026, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Nosné prvky a konstrukce ze dřeva"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Supporting Elements and Construction of Wood"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Václav Sebera, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Michal Bošanský, Ph.D. (examiner, instructor, lecturer)doc. Ing. Václav Sebera, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: State Bachelor Examination"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyTeacherEntryFrequencyCapacityTuesday9.00-10.50T27N-SNBD 112M. BošanskýLectureEvery week32Tuesday11.00-12.50T28N-SNBD 112M. BošanskýSeminarEvery week20Tuesday13.00-14.50T28N-SNBD 112M. BošanskýSeminarEvery week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "We are expanding and supplementing knowledge in the field of design and assessment of basic types of wooden constructions of land buildings (roof construction, truss purlin construction, truss system without intermediate ceiling, horizontal ceiling construction, vertical construction, etc.) in connection with the knowledge acquired in the NDK course. Creation and implementation of the static design of individual load-bearing elements of the structure of the building. Legislation - knowledge of the necessary laws, standards and decrees."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Wooden plane and spatial structures - basic types, layout of load-bearing elements, carrying loads. (allowance 2/2)2.Beams and trusses, frames, arches - types, the basic structural features, the shape of the center and methods of placing external bonds of curved planar beam. (allowance 2/2)3.Anchoring of structures, placing of beams, the settlement of internal joints, replacement of carpentry joints. (allowance 2/0)4.Application of force method for solving statically determinate and indeterminate plane structures - plane frames, plane arcs. Use of shape symmetry. Influence of support relaxation, the influence of temperature change. (allowance 2/4)5.The spatial structure of structures with planar cross bonds. Division and the choice of a roof by span, loading and force transfer. (allowance 2/2)6.Wooden spatial structures - types and composition, web-plate spatial structures, shell and folded plate, rod spatial structures. (allowance 2/2)7.Halls. Spatial rigidity, bracing and reinforcement systems. (allowance 2/1)8.Analysis of a straight bar with variable cross section. (allowance 2/1)9.Spatial stress of statically determinate beams - beams, space-loaded rod, beam loaded transversely in two planes, balcony beam, spatially folded rod. (allowance 2/6)10.Design and assessment of the basic types of wood structures (ceiling and wall construction, roofing, etc.) (allowance 3/7)11.Overview of the procedure of necessary activities from business plan to the approval and subsequent use, disposal of construction, valid legislation. Project documentation. Approximate valuation according to standard classification of buildings. (allowance 2/0)12.Methods and procedures for creating optimal production process, mutual links of procedures. Architectural and technological preparation of construction, manufactural and site build-up processes (allowance 2/1)13.Scheduling - time and duration, technological standards, schedules. Financial planning - surveying total cost, budget summary, the use of software. (allowance 2/0)14.Coordination, completion, quality and safety of construction works. (allowance 1/0)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Beams and trusses, frames, arches - types, the basic structural features, the shape of the center and methods of placing external bonds of curved planar beam. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Wooden plane and spatial structures - basic types, layout of load-bearing elements, carrying loads.",
+      "content": "2.Beams and trusses, frames, arches - types, the basic structural features, the shape of the center and methods of placing external bonds of curved planar beam. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Anchoring of structures, placing of beams, the settlement of internal joints, replacement of carpentry joints. (allowance 2/0)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Application of force method for solving statically determinate and indeterminate plane structures - plane frames, plane arcs. Use of shape symmetry. Influence of support relaxation, the influence of temperature change. (allowance 2/4)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.The spatial structure of structures with planar cross bonds. Division and the choice of a roof by span, loading and force transfer. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Wooden spatial structures - types and composition, web-plate spatial structures, shell and folded plate, rod spatial structures. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Halls. Spatial rigidity, bracing and reinforcement systems. (allowance 2/1)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Analysis of a straight bar with variable cross section. (allowance 2/1)"
+    },
+    {
+      "label": "[section] Halls. Spatial rigidity, bracing and reinforcement systems.",
+      "content": "8.Analysis of a straight bar with variable cross section. (allowance 2/1)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Spatial stress of statically determinate beams - beams, space-loaded rod, beam loaded transversely in two planes, balcony beam, spatially folded rod. (allowance 2/6)"
+    },
+    {
+      "label": "[section] Analysis of a straight bar with variable cross section.",
+      "content": "9.Spatial stress of statically determinate beams - beams, space-loaded rod, beam loaded transversely in two planes, balcony beam, spatially folded rod. (allowance 2/6)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Design and assessment of the basic types of wood structures (ceiling and wall construction, roofing, etc.) (allowance 3/7)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Overview of the procedure of necessary activities from business plan to the approval and subsequent use, disposal of construction, valid legislation. Project documentation. Approximate valuation according to standard classification of buildings. (allowance 2/0)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Methods and procedures for creating optimal production process, mutual links of procedures. Architectural and technological preparation of construction, manufactural and site build-up processes (allowance 2/1)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Scheduling - time and duration, technological standards, schedules. Financial planning - surveying total cost, budget summary, the use of software. (allowance 2/0)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "14.Coordination, completion, quality and safety of construction works. (allowance 1/0)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hconsultation15 hpreparation for exam35 hpreparation for regular assessment10 hwriting of seminar paper25 hTotal141 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Semester project - Design of assigned wooden structure - Part of the static calculation of a residential building project - Load calculation from self-weight and composition of constructions - check 4th week of teaching- Load calculation – useful / snow/wind – check 7th week of teaching - Design of selected elements (Rafter, clamp, purlin, ceiling beam, lintels, columns) Credit - the condition for granting credit is the completion of the assigned term paper and participation in exercises (80%) The exam is written. The duration of the exam is 90 minutes. Subject evaluation Excellent 100% - 90% very good 89% - 75% Good 74% - 60% failed 59% and below"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation30 %Term paper35 %Final test30 %Final oral exam5 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:KUKLÍKOVÁ, Anna; KUKLÍK, Petr. 2010. Navrhování dřevěných konstrukcí. Příručka k ČSN EN 1995-1. Praha: Informační centrum ČKAIT, 140 p. ISBN 978-80-87093-88-7.BLASS, Hans Joachim et al. 2008. Navrhování, výpočet a posuzování dřevěných stavebních konstrukcí: obecná pravidla a pravidla pro pozemní stavby : komentář k ČSN 73 1702:2007 : modifikovaný překlad vysvětlivek k německé normě DIN 1052:2004. 1st ed. Praha: Pro Českou komoru autorizovaných inženýrů a techniků činných ve výstavbě (ČKAIT) vydalo Informační centrum ČKAIT, 227 p. Řada C - Technická knižnice autorizovaného inženýra a technika. ISBN 978-80-87093-73-3.HOLICKÝ, Milan; MARKOVÁ, Jana; SÝKORA, Miroslav. 2010. Zatížení stavebních konstrukcí: příručka k ČSN EN 1991. 1st ed. Praha: Pro Ministerstvo pro místní rozvoj a Českou komoru autorizovaných inženýrů a techniků činných ve výstavbě (ČKAIT) vydalo Informační centrum ČKAIT, 131 p. Technická knižnice. ISBN 978-80-87093-89-4.STRAKA, Bohumil et al. 2013. Konstrukce šikmých střech. 1st ed. Praha: Grada, 230 p. Stavitel. ISBN 978-80-247-4205-2.BEINHAUER, Peter. 2008. Systémy štandardných detailov: konštrukčné detaily pre stavebné zámery s popisom částí stavebných konštrukcií a cenami. Bratislava: Eurostav, 367 p. ISBN 978-80-89228-11-9.GODONOU, Patrice. 2022. Design of timber structures - Structural aspects of timber construction, Volume 1. Stockholm: Swedish Wood, ISBN 978-91-985212-5-2.KOŽELOUH, Bohumil. 1998. Dřevěné konstrukce podle Eurokódu 5 : Navrhování a konstrukční materiály. Step 1. Zlín: KODR, 462 p. ISBN 80-238-2620-4.KUKLÍK, Petr. 2005. Dřevěné konstrukce. 1st ed. Praha: Česká technika - nakladatelství ČVUT, 188 p. ISBN 80-01-03310-4.KUKLÍKOVÁ, Anna. 2003. Dřevěné konstrukce 10: pravidla pro navrhování a řešené příklady. Praha: Vydavatelství ČVUT, 147 p. ISBN 80-01-02847-X.Recommended:JELÍNEK, Lubomír. 2008. Tesařské konstrukce. 2nd ed. Praha: Pro Českou komoru autorizovaných inženýrů a techniků činných ve výstavbě (ČKAIT) vydalo Informační centrum ČKAIT, 236 p. Technická knižnice. ISBN 978-80-87093-74-0. Dřevěné konstrukce podle Eurokódu 5. 2004. 1st ed. Praha: Informační centrum ČKAIT, 401 p. ISBN 80-86769-13-5.KADLČÁK, Jaroslav; KYTÝR, Jiří. 2010. Statika stavebních konstrukcí. 3rd ed. V Brně: VUTIUM, 349 p. ISBN 978-80-214-3419-6."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "KUKLÍKOVÁ, Anna; KUKLÍK, Petr. 2010. Navrhování dřevěných konstrukcí. Příručka k ČSN EN 1995-1. Praha: Informační centrum ČKAIT, 140 p. ISBN 978-80-87093-88-7.BLASS, Hans Joachim et al. 2008. Navrhování, výpočet a posuzování dřevěných stavebních konstrukcí: obecná pravidla a pravidla pro pozemní stavby : komentář k ČSN 73 1702:2007 : modifikovaný překlad vysvětlivek k německé normě DIN 1052:2004. 1st ed. Praha: Pro Českou komoru autorizovaných inženýrů a techniků činných ve výstavbě (ČKAIT) vydalo Informační centrum ČKAIT, 227 p. Řada C - Technická knižnice autorizovaného inženýra a technika. ISBN 978-80-87093-73-3.HOLICKÝ, Milan; MARKOVÁ, Jana; SÝKORA, Miroslav. 2010. Zatížení stavebních konstrukcí: příručka k ČSN EN 1991. 1st ed. Praha: Pro Ministerstvo pro místní rozvoj a Českou komoru autorizovaných inženýrů a techniků činných ve výstavbě (ČKAIT) vydalo Informační centrum ČKAIT, 131 p. Technická knižnice. ISBN 978-80-87093-89-4.STRAKA, Bohumil et al. 2013. Konstrukce šikmých střech. 1st ed. Praha: Grada, 230 p. Stavitel. ISBN 978-80-247-4205-2.BEINHAUER, Peter. 2008. Systémy štandardných detailov: konštrukčné detaily pre stavebné zámery s popisom částí stavebných konštrukcií a cenami. Bratislava: Eurostav, 367 p. ISBN 978-80-89228-11-9.GODONOU, Patrice. 2022. Design of timber structures - Structural aspects of timber construction, Volume 1. Stockholm: Swedish Wood, ISBN 978-91-985212-5-2.KOŽELOUH, Bohumil. 1998. Dřevěné konstrukce podle Eurokódu 5 : Navrhování a konstrukční materiály. Step 1. Zlín: KODR, 462 p. ISBN 80-238-2620-4.KUKLÍK, Petr. 2005. Dřevěné konstrukce. 1st ed. Praha: Česká technika - nakladatelství ČVUT, 188 p. ISBN 80-01-03310-4.KUKLÍKOVÁ, Anna. 2003. Dřevěné konstrukce 10: pravidla pro navrhování a řešené příklady. Praha: Vydavatelství ČVUT, 147 p. ISBN 80-01-02847-X."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "JELÍNEK, Lubomír. 2008. Tesařské konstrukce. 2nd ed. Praha: Pro Českou komoru autorizovaných inženýrů a techniků činných ve výstavbě (ČKAIT) vydalo Informační centrum ČKAIT, 236 p. Technická knižnice. ISBN 978-80-87093-74-0. Dřevěné konstrukce podle Eurokódu 5. 2004. 1st ed. Praha: Informační centrum ČKAIT, 401 p. ISBN 80-86769-13-5.KADLČÁK, Jaroslav; KYTÝR, Jiří. 2010. Statika stavebních konstrukcí. 3rd ed. V Brně: VUTIUM, 349 p. ISBN 978-80-214-3419-6."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-SNBD Timber Structures and Wood Building Construction, full-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:35:39",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

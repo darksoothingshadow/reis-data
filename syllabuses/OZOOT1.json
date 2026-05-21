@@ -1,0 +1,797 @@
+{
+  "courseCode": "OZOOT1",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "OZOOT1"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Obecná zootechnika 1"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "General Animal Breeding 1"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "ne"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Radek Filipčík, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav chovu a šlechtění zvířat (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Radek Filipčík, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Libor Sládek, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Význam živočišné výroby (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Definice předmětu a jeho zařazení do systému biologických disciplin. Současný stav, vývoj a perspektivy chovu hospodářských zvířat a živočišné výroby."
+    },
+    {
+      "label": "b.",
+      "content": "Význam a stav organického propojení rostlinné a živočišné výroby."
+    },
+    {
+      "label": "c.",
+      "content": "Bioenergetika a vztah chovu hospodářských zvířat a životního prostředí."
+    },
+    {
+      "label": "2.",
+      "content": "Proces vzniku - vytváření plemen a užitkových typů hospodářských zvířat (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Fylogenie a domestikace hospodářských zvířat, proces zdomácnění zvířat, vliv přírodních a sociálních podmínek na domestikaci, změny způsobené domestikací v chovu zvířat."
+    },
+    {
+      "label": "b.",
+      "content": "Taxonomie hospodářsky významných zvířat -- užitkový typ, plemeno a nižší taxonomické jednotky, jejich definice a využití. Rozdělení plemen podle stupně prošlechtění, původu a užitkového zaměření."
+    },
+    {
+      "label": "c.",
+      "content": "Chovný cíl a plemenný standard, zootechnická terminologie. Genové rezervy."
+    },
+    {
+      "label": "3.",
+      "content": "Zootechnické hodnocení morfologických znaků hospodářských zvířat (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Zootechnická topografie významných druhů zvířat."
+    },
+    {
+      "label": "b.",
+      "content": "Exteriér a interiér zvířat. Definice a význam hodnocení exteriéru zvířat při tvorbě užitkových typů."
+    },
+    {
+      "label": "c.",
+      "content": "Všeobecné požadavky na exteriér zvířat jednotlivých druhů, plemen a užitkových typů."
+    },
+    {
+      "label": "4.",
+      "content": "Biologické základy fyziologických vlastností hospodářských zvířat (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam fyziologických vlastností pro užitkové zaměření zvířat. Konstituce zvířat - její definice a význam, habitus, komplexe a temperament a základní konstituční typy. Nové pohledy na hodnocení konstituce."
+    },
+    {
+      "label": "b.",
+      "content": "Konstituce jako selekční vlastnost. Kondice zvířat - význam a hodnocení."
+    },
+    {
+      "label": "c.",
+      "content": "Ranost a dlouhověkost ve vztahu k zootechnickým zásadám chovu, význam a vztah k užitkovým znakům zvířat."
+    },
+    {
+      "label": "5.",
+      "content": "Biologické základy plodnosti zvířat a produkce mléka (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Plodnost jako užitková vlastnost, základní postupy a metody hodnocení plodnosti, technika plemenitby, biotechnologické metody používané v reprodukci využitelné ve šlechtění zvířat."
+    },
+    {
+      "label": "b.",
+      "content": "Produkce mléka - složení a význam mleziva a mléka, regulace tvorby mléka a hodnocení produkce (laktační křivka a její persistence)."
+    },
+    {
+      "label": "c.",
+      "content": "Základy produkce a hodnocení kvality vajec."
+    },
+    {
+      "label": "6.",
+      "content": "Biologické zákonitosti růstu zvířat (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Definice růstu a vývinu. Změny v průběhu ontogeneze zvířat. Vlivy ovlivňující růst zvířat."
+    },
+    {
+      "label": "b.",
+      "content": "Metody hodnocení růstu zvířat."
+    },
+    {
+      "label": "c.",
+      "content": "Růstová alometrie."
+    },
+    {
+      "label": "7.",
+      "content": "Biologické základy produkce masa (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Předpoklady užitkových typů a zvířat pro masnou užitkovost (savci a drůbež)."
+    },
+    {
+      "label": "b.",
+      "content": "Hodnocení výkrmnosti, stupně vykrmenosti, jatečné zralosti a jatečné hodnoty jatečná výtěžnost a výtěžnostní poměry v jatečně upraveném těle)."
+    },
+    {
+      "label": "c.",
+      "content": "Metody hodnocení kvality jatečných těl a jakosti masa."
+    },
+    {
+      "label": "8.",
+      "content": "Základy etiky chovu a welfare (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Vztah zvířat a člověka. Adaptace, adaptabilita zvířat a habituace."
+    },
+    {
+      "label": "b.",
+      "content": "Stres a působnost stresorů. Předcházení stresovým situacím.Využití etologických studií pro tvorbu životního prostředí - welfare a manipulace se zvířaty."
+    },
+    {
+      "label": "c.",
+      "content": "Mezinárodní úmluvy, deklarace a legislativa v ochraně zvířat."
+    },
+    {
+      "label": "9.",
+      "content": "Obecné principy šlechtění hospodářských zvířat (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Definice šlechtění zvířat, jeho význam a rozdělení. Principy kontroly užitkovosti. Chovná hodnota zvířat a populace - plemenná hodnota. Principy odhadu plemenné hodnoty zvířat."
+    },
+    {
+      "label": "b.",
+      "content": "Testování čistokrevných a hybridních populací."
+    },
+    {
+      "label": "10.",
+      "content": "Selekce hospodářských zvířat (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam a rozdělení metod selekce."
+    },
+    {
+      "label": "b.",
+      "content": "Stanovení selekčního efektu, korelovaného selekčního efektu a selekčního limitu."
+    },
+    {
+      "label": "c.",
+      "content": "Metody selekce na jeden znak, metody selekce na více znaků, konstrukce selekčního indexu a výpočet ziskových funkcí."
+    },
+    {
+      "label": "11.",
+      "content": "Metody plemenitby v chovu hospodářských zvířat (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Rozdělení metod z hlediska zootechnického a genetického."
+    },
+    {
+      "label": "b.",
+      "content": "Čistokrevná plemenitba - její význam a využití, liniová a meziliniová plemenitba a příbuzenská plemenitba."
+    },
+    {
+      "label": "c.",
+      "content": "Metody hybridizace. Pozměňovací, kombinační a užitkové meziplemenné křížení. Bastardace."
+    },
+    {
+      "label": "12.",
+      "content": "Zhodnocení výsledků šlechtitelské práce (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Šlechtitelské programy. Selekční a hybridizační programy a jejich principy."
+    },
+    {
+      "label": "b.",
+      "content": "Organizace plemenářských služeb v ČR."
+    },
+    {
+      "label": "c.",
+      "content": "Poslání chovatelských svazů a asociací."
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, ZS 2023/2024, LS 2022/2023, LS 2021/2022, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Obecná zootechnika 1"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: General Animal Breeding 1"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: ne"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Radek Filipčík, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav chovu a šlechtění zvířat (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Radek Filipčík, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Libor Sládek, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí11.00-12.50A01R. FilipčíkPřednáškaKaždý týden180Pondělí13.00-14.50A47L. SládekCvičeníKaždý týden28Pondělí15.00-16.50A47L. SládekCvičeníKaždý týden28Úterý13.00-14.50A47L. SládekCvičeníKaždý týden28"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Posláním předmětu je transformovat poznatky z předcházejících předmětů do oblasti biologického myšlení a u posluchačů v práci se zvířaty vytvářet návyky vyplývající z biologických zákonitostí. Nosnými prvky výuky jsou informace o domestikaci a taxonomii hospodářských zvířat, základech morfologických a fyziologických vlastností. Součástí výuky je studium vybraných kapitol obecné etologie, adaptability a adaptace zvířat na změnu produkčních podmínek, základů welfare a etiky chovu. Pozornost je věnována i legislativě v ochraně a šlechtění hospodářských zvířat. Významná část studia předmětu je zaměřena na seznámení posluchačů se obecnými principy metod šlechtění hospodářských zvířat. Program cvičení je zaměřen na ukázku vývojových změn morfologických a fyziologických znaků a vlastností u plemenných a užitkových skupin v průběhu domestikace a šlechtění. Cílem studia předmětu je získat rozšířené informace o biologických zákonitostech využitelných v chovu hospodářských zvířat."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Význam živočišné výroby (dotace 1/1) a.Definice předmětu a jeho zařazení do systému biologických disciplin. Současný stav, vývoj a perspektivy chovu hospodářských zvířat a živočišné výroby. b.Význam a stav organického propojení rostlinné a živočišné výroby.c.Bioenergetika a vztah chovu hospodářských zvířat a životního prostředí.2.Proces vzniku - vytváření plemen a užitkových typů hospodářských zvířat (dotace 1/1) a.Fylogenie a domestikace hospodářských zvířat, proces zdomácnění zvířat, vliv přírodních a sociálních podmínek na domestikaci, změny způsobené domestikací v chovu zvířat. b.Taxonomie hospodářsky významných zvířat -- užitkový typ, plemeno a nižší taxonomické jednotky, jejich definice a využití. Rozdělení plemen podle stupně prošlechtění, původu a užitkového zaměření. c.Chovný cíl a plemenný standard, zootechnická terminologie. Genové rezervy.3.Zootechnické hodnocení morfologických znaků hospodářských zvířat (dotace 1/1) a.Zootechnická topografie významných druhů zvířat. b.Exteriér a interiér zvířat. Definice a význam hodnocení exteriéru zvířat při tvorbě užitkových typů. c.Všeobecné požadavky na exteriér zvířat jednotlivých druhů, plemen a užitkových typů. 4.Biologické základy fyziologických vlastností hospodářských zvířat (dotace 1/1) a.Význam fyziologických vlastností pro užitkové zaměření zvířat. Konstituce zvířat - její definice a význam, habitus, komplexe a temperament a základní konstituční typy. Nové pohledy na hodnocení konstituce. b.Konstituce jako selekční vlastnost. Kondice zvířat - význam a hodnocení. c.Ranost a dlouhověkost ve vztahu k zootechnickým zásadám chovu, význam a vztah k užitkovým znakům zvířat.5.Biologické základy plodnosti zvířat a produkce mléka (dotace 1/1) a.Plodnost jako užitková vlastnost, základní postupy a metody hodnocení plodnosti, technika plemenitby, biotechnologické metody používané v reprodukci využitelné ve šlechtění zvířat. b.Produkce mléka - složení a význam mleziva a mléka, regulace tvorby mléka a hodnocení produkce (laktační křivka a její persistence).c.Základy produkce a hodnocení kvality vajec.6.Biologické zákonitosti růstu zvířat (dotace 1/1) a.Definice růstu a vývinu. Změny v průběhu ontogeneze zvířat. Vlivy ovlivňující růst zvířat. b.Metody hodnocení růstu zvířat.c.Růstová alometrie.7.Biologické základy produkce masa (dotace 1/1) a.Předpoklady užitkových typů a zvířat pro masnou užitkovost (savci a drůbež). b.Hodnocení výkrmnosti, stupně vykrmenosti, jatečné zralosti a jatečné hodnoty jatečná výtěžnost a výtěžnostní poměry v jatečně upraveném těle).c.Metody hodnocení kvality jatečných těl a jakosti masa. 8.Základy etiky chovu a welfare (dotace 1/1) a.Vztah zvířat a člověka. Adaptace, adaptabilita zvířat a habituace. b.Stres a působnost stresorů. Předcházení stresovým situacím.Využití etologických studií pro tvorbu životního prostředí - welfare a manipulace se zvířaty.c.Mezinárodní úmluvy, deklarace a legislativa v ochraně zvířat.9.Obecné principy šlechtění hospodářských zvířat (dotace 1/1) a.Definice šlechtění zvířat, jeho význam a rozdělení. Principy kontroly užitkovosti. Chovná hodnota zvířat a populace - plemenná hodnota. Principy odhadu plemenné hodnoty zvířat. b.Testování čistokrevných a hybridních populací. 10.Selekce hospodářských zvířat (dotace 1/1) a.Význam a rozdělení metod selekce. b.Stanovení selekčního efektu, korelovaného selekčního efektu a selekčního limitu.c.Metody selekce na jeden znak, metody selekce na více znaků, konstrukce selekčního indexu a výpočet ziskových funkcí.11.Metody plemenitby v chovu hospodářských zvířat (dotace 1/1) a.Rozdělení metod z hlediska zootechnického a genetického. b.Čistokrevná plemenitba - její význam a využití, liniová a meziliniová plemenitba a příbuzenská plemenitba. c.Metody hybridizace. Pozměňovací, kombinační a užitkové meziplemenné křížení. Bastardace. 12.Zhodnocení výsledků šlechtitelské práce (dotace 1/1) a.Šlechtitelské programy. Selekční a hybridizační programy a jejich principy.b.Organizace plemenářských služeb v ČR.c.Poslání chovatelských svazů a asociací."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Definice předmětu a jeho zařazení do systému biologických disciplin. Současný stav, vývoj a perspektivy chovu hospodářských zvířat a živočišné výroby. b.Význam a stav organického propojení rostlinné a živočišné výroby.c.Bioenergetika a vztah chovu hospodářských zvířat a životního prostředí."
+    },
+    {
+      "label": "[section] Význam živočišné výroby",
+      "content": "a.Definice předmětu a jeho zařazení do systému biologických disciplin. Současný stav, vývoj a perspektivy chovu hospodářských zvířat a živočišné výroby. b.Význam a stav organického propojení rostlinné a živočišné výroby.c.Bioenergetika a vztah chovu hospodářských zvířat a životního prostředí."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Fylogenie a domestikace hospodářských zvířat, proces zdomácnění zvířat, vliv přírodních a sociálních podmínek na domestikaci, změny způsobené domestikací v chovu zvířat. b.Taxonomie hospodářsky významných zvířat -- užitkový typ, plemeno a nižší taxonomické jednotky, jejich definice a využití. Rozdělení plemen podle stupně prošlechtění, původu a užitkového zaměření. c.Chovný cíl a plemenný standard, zootechnická terminologie. Genové rezervy."
+    },
+    {
+      "label": "[section] Proces vzniku - vytváření plemen a užitkových typů hospodářských zvířat",
+      "content": "a.Fylogenie a domestikace hospodářských zvířat, proces zdomácnění zvířat, vliv přírodních a sociálních podmínek na domestikaci, změny způsobené domestikací v chovu zvířat. b.Taxonomie hospodářsky významných zvířat -- užitkový typ, plemeno a nižší taxonomické jednotky, jejich definice a využití. Rozdělení plemen podle stupně prošlechtění, původu a užitkového zaměření. c.Chovný cíl a plemenný standard, zootechnická terminologie. Genové rezervy."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Zootechnická topografie významných druhů zvířat. b.Exteriér a interiér zvířat. Definice a význam hodnocení exteriéru zvířat při tvorbě užitkových typů. c.Všeobecné požadavky na exteriér zvířat jednotlivých druhů, plemen a užitkových typů."
+    },
+    {
+      "label": "[section] Zootechnické hodnocení morfologických znaků hospodářských zvířat",
+      "content": "a.Zootechnická topografie významných druhů zvířat. b.Exteriér a interiér zvířat. Definice a význam hodnocení exteriéru zvířat při tvorbě užitkových typů. c.Všeobecné požadavky na exteriér zvířat jednotlivých druhů, plemen a užitkových typů."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Význam fyziologických vlastností pro užitkové zaměření zvířat. Konstituce zvířat - její definice a význam, habitus, komplexe a temperament a základní konstituční typy. Nové pohledy na hodnocení konstituce. b.Konstituce jako selekční vlastnost. Kondice zvířat - význam a hodnocení. c.Ranost a dlouhověkost ve vztahu k zootechnickým zásadám chovu, význam a vztah k užitkovým znakům zvířat."
+    },
+    {
+      "label": "[section] Biologické základy fyziologických vlastností hospodářských zvířat",
+      "content": "a.Význam fyziologických vlastností pro užitkové zaměření zvířat. Konstituce zvířat - její definice a význam, habitus, komplexe a temperament a základní konstituční typy. Nové pohledy na hodnocení konstituce. b.Konstituce jako selekční vlastnost. Kondice zvířat - význam a hodnocení. c.Ranost a dlouhověkost ve vztahu k zootechnickým zásadám chovu, význam a vztah k užitkovým znakům zvířat."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Plodnost jako užitková vlastnost, základní postupy a metody hodnocení plodnosti, technika plemenitby, biotechnologické metody používané v reprodukci využitelné ve šlechtění zvířat. b.Produkce mléka - složení a význam mleziva a mléka, regulace tvorby mléka a hodnocení produkce (laktační křivka a její persistence).c.Základy produkce a hodnocení kvality vajec."
+    },
+    {
+      "label": "[section] Biologické základy plodnosti zvířat a produkce mléka",
+      "content": "a.Plodnost jako užitková vlastnost, základní postupy a metody hodnocení plodnosti, technika plemenitby, biotechnologické metody používané v reprodukci využitelné ve šlechtění zvířat. b.Produkce mléka - složení a význam mleziva a mléka, regulace tvorby mléka a hodnocení produkce (laktační křivka a její persistence).c.Základy produkce a hodnocení kvality vajec."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Definice růstu a vývinu. Změny v průběhu ontogeneze zvířat. Vlivy ovlivňující růst zvířat. b.Metody hodnocení růstu zvířat.c.Růstová alometrie."
+    },
+    {
+      "label": "[section] Biologické zákonitosti růstu zvířat",
+      "content": "a.Definice růstu a vývinu. Změny v průběhu ontogeneze zvířat. Vlivy ovlivňující růst zvířat. b.Metody hodnocení růstu zvířat.c.Růstová alometrie."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Předpoklady užitkových typů a zvířat pro masnou užitkovost (savci a drůbež). b.Hodnocení výkrmnosti, stupně vykrmenosti, jatečné zralosti a jatečné hodnoty jatečná výtěžnost a výtěžnostní poměry v jatečně upraveném těle).c.Metody hodnocení kvality jatečných těl a jakosti masa."
+    },
+    {
+      "label": "[section] Biologické základy produkce masa",
+      "content": "a.Předpoklady užitkových typů a zvířat pro masnou užitkovost (savci a drůbež). b.Hodnocení výkrmnosti, stupně vykrmenosti, jatečné zralosti a jatečné hodnoty jatečná výtěžnost a výtěžnostní poměry v jatečně upraveném těle).c.Metody hodnocení kvality jatečných těl a jakosti masa."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Vztah zvířat a člověka. Adaptace, adaptabilita zvířat a habituace. b.Stres a působnost stresorů. Předcházení stresovým situacím.Využití etologických studií pro tvorbu životního prostředí - welfare a manipulace se zvířaty.c.Mezinárodní úmluvy, deklarace a legislativa v ochraně zvířat."
+    },
+    {
+      "label": "[section] Základy etiky chovu a welfare",
+      "content": "a.Vztah zvířat a člověka. Adaptace, adaptabilita zvířat a habituace. b.Stres a působnost stresorů. Předcházení stresovým situacím.Využití etologických studií pro tvorbu životního prostředí - welfare a manipulace se zvířaty.c.Mezinárodní úmluvy, deklarace a legislativa v ochraně zvířat."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Definice šlechtění zvířat, jeho význam a rozdělení. Principy kontroly užitkovosti. Chovná hodnota zvířat a populace - plemenná hodnota. Principy odhadu plemenné hodnoty zvířat. b.Testování čistokrevných a hybridních populací."
+    },
+    {
+      "label": "[section] Obecné principy šlechtění hospodářských zvířat",
+      "content": "a.Definice šlechtění zvířat, jeho význam a rozdělení. Principy kontroly užitkovosti. Chovná hodnota zvířat a populace - plemenná hodnota. Principy odhadu plemenné hodnoty zvířat. b.Testování čistokrevných a hybridních populací."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Význam a rozdělení metod selekce. b.Stanovení selekčního efektu, korelovaného selekčního efektu a selekčního limitu.c.Metody selekce na jeden znak, metody selekce na více znaků, konstrukce selekčního indexu a výpočet ziskových funkcí."
+    },
+    {
+      "label": "[section] Selekce hospodářských zvířat",
+      "content": "a.Význam a rozdělení metod selekce. b.Stanovení selekčního efektu, korelovaného selekčního efektu a selekčního limitu.c.Metody selekce na jeden znak, metody selekce na více znaků, konstrukce selekčního indexu a výpočet ziskových funkcí."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Rozdělení metod z hlediska zootechnického a genetického. b.Čistokrevná plemenitba - její význam a využití, liniová a meziliniová plemenitba a příbuzenská plemenitba. c.Metody hybridizace. Pozměňovací, kombinační a užitkové meziplemenné křížení. Bastardace."
+    },
+    {
+      "label": "[section] Metody plemenitby v chovu hospodářských zvířat",
+      "content": "a.Rozdělení metod z hlediska zootechnického a genetického. b.Čistokrevná plemenitba - její význam a využití, liniová a meziliniová plemenitba a příbuzenská plemenitba. c.Metody hybridizace. Pozměňovací, kombinační a užitkové meziplemenné křížení. Bastardace."
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Šlechtitelské programy. Selekční a hybridizační programy a jejich principy.b.Organizace plemenářských služeb v ČR.c.Poslání chovatelských svazů a asociací."
+    },
+    {
+      "label": "[section] Zhodnocení výsledků šlechtitelské práce",
+      "content": "a.Šlechtitelské programy. Selekční a hybridizační programy a jejich principy.b.Organizace plemenářských služeb v ČR.c.Poslání chovatelských svazů a asociací."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hkonzultace20 hpříprava na zkoušku40 hpříprava na průběžné hodnocení10 hpříprava na průběžný test14 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "K získání zápočtu je nutná minimální 80 % účast na cvičení, úspěšné splnění dvou testů v průběhu semestru (min. 70% správných odpovědí). Předmět je zakončen ústní zkouškou (60% z celkové úspěšnosti)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:ŠUBRT, Jan. 2007. Obecná zootechnika. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 204 s. ISBN 978-80-7375-115-9.ŠUBRT, Jan. 2008. Obecná zootechnika: návody do cvičení. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 130 s. ISBN 978-80-7375-203-3.KADLEČÍK, Ondrej. 2007. Všeobecná zootechnika. 1. vyd. Nitra: Slovenská pol'nohospodárska univerzita v Nitre, 222 s. ISBN 978-80-8069-9536. Allgemeine Tierzucht. 1993. Stuttgart: Verlag Eugen Ulmer, 416 s. ISBN 3-8252-1649-7.STEINHAUSER, Ladislav a kol. 2000. Produkce masa. Tišnov: Last, 464 s. ISBN 80-900260-7-9. Quantitative genetics theory in Animal Breeding. 1995. Guelph: University of Guelph, 220 s.JAKUBEC, Václav; BEZDÍČEK, Jiří; LOUDA, František. 2010. Selekce - inbríding - hybridizace. 1. vyd. Rapotín: Agrovýzkum Rapotín s.r.o. , 382 s. ISBN 978-80-87144-22-0."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "ŠUBRT, Jan. 2007. Obecná zootechnika. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 204 s. ISBN 978-80-7375-115-9.ŠUBRT, Jan. 2008. Obecná zootechnika: návody do cvičení. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 130 s. ISBN 978-80-7375-203-3.KADLEČÍK, Ondrej. 2007. Všeobecná zootechnika. 1. vyd. Nitra: Slovenská pol'nohospodárska univerzita v Nitre, 222 s. ISBN 978-80-8069-9536. Allgemeine Tierzucht. 1993. Stuttgart: Verlag Eugen Ulmer, 416 s. ISBN 3-8252-1649-7.STEINHAUSER, Ladislav a kol. 2000. Produkce masa. Tišnov: Last, 464 s. ISBN 80-900260-7-9. Quantitative genetics theory in Animal Breeding. 1995. Guelph: University of Guelph, 220 s.JAKUBEC, Václav; BEZDÍČEK, Jiří; LOUDA, František. 2010. Selekce - inbríding - hybridizace. 1. vyd. Rapotín: Agrovýzkum Rapotín s.r.o. , 382 s. ISBN 978-80-87144-22-0."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-ZIN Zemědělské inženýrství, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "OZOOT1"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Obecná zootechnika 1"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "General Animal Breeding 1"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "no"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Radek Filipčík, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Animal Breeding (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Radek Filipčík, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Libor Sládek, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Importance of animal production (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Subject definition and its inclusion into the system of biological disciplines. Present status, development and prospects of animal breeding and animal production. Importance and status of organic interconnection between plant production and animal production. Bioenergetics and relationships between animal husbandry and the environment."
+    },
+    {
+      "label": "2.",
+      "content": "Origin - creation of breed and purpose types of farm animals (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Phylogeny and domestication of farm animals, process of animal domestication, impact of natural and social conditions, changes caused by domestication in animal husbandry. Taxonomy of major farm animals -- purpose type, breeds and lower taxonomic units, their definitions and use. Breeds classification according to the degree of breeding, origin and purpose. Breeding goal and breeding standard, zootechnical terminology. Gene reserves."
+    },
+    {
+      "label": "3.",
+      "content": "Zoo technical evaluation of morphological parameters of farm animals. (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Zoo technical topography of major farm animals species. Exterior and interior of farm animals. Definitions and importance of animal exterior evaluation for breeding purpose types of farm animals. General requirements for the exterior of individual species, breeds and purpose types."
+    },
+    {
+      "label": "4.",
+      "content": "Biological basics of physiological parameters of farm animals (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Importance of physiological parameters for purpose type animals. Animal constitution -- definitions and importance, habitus and temperament and basic constitutional types. New approaches to constitutional evaluation. Constitution as a selection parameter. Animal condition - importance and evaluation. Early maturity and longevity in connection to zoo technical rules of breeding, importance and relationship to purpose parameters."
+    },
+    {
+      "label": "5.",
+      "content": "Biological basics of animal fertility, milk and egg production (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Fertility as a purpose parameter, basic procedures and methods for fertility evaluation, breeding technique, biotechnological methods used in reproduction and applicable in animal breeding. Milk production -- composition and importance of colostrums and milk, milk production regulation and production evaluation (lactation curve and its persistence).Eggs production and quality evaluation."
+    },
+    {
+      "label": "6.",
+      "content": "Biological rules in animal growth (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Definition of growth and development. Changes during animal ontogenesis. Influences that impact animal growth. Methods of animal growth evaluation.Allometric growth."
+    },
+    {
+      "label": "7.",
+      "content": "Biological basics of meat production (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Requirements for animals intended for meat production (mammals and poultry). Evaluation of fattening capacity, degree of fattening capacity, slaughtering maturity and value, dressing percentage.Methods of quality evaluation of slaughtered animal bodies and meat quality."
+    },
+    {
+      "label": "8.",
+      "content": "Breeding ethics and welfare (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Relationship between animals and humans. Adaptation, animal adaptability and habituation.Stress and impact of stressors. Preventing stressful situations. Use of ethological studies for environment formation -- welfare and animal manipulation.International agreements, declarations and legislation regarding animal protection."
+    },
+    {
+      "label": "9.",
+      "content": "General principles in regard to farm animals breeding (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Breeding value. Selection, Inbreeding. Methods of farm animals breeding. Evaluation of breeding results."
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, WS 2023/2024, SS 2022/2023, SS 2021/2022, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Obecná zootechnika 1"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: General Animal Breeding 1"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: no"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Radek Filipčík, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Animal Breeding (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Radek Filipčík, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Libor Sládek, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday11.00-12.50A01R. FilipčíkLectureEvery week180Monday13.00-14.50A47L. SládekSeminarEvery week28Monday15.00-16.50A47L. SládekSeminarEvery week28Tuesday13.00-14.50A47L. SládekSeminarEvery week28"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to transform knowledge from previous subjects into the area of biological thinking and to learn skills based on biological rules. The main element of the course is information on domestication and taxonomy of farm animals, and the basics of morphological and physiological characteristics. The course includes study of selected chapters of general ethology, animals' adaptability and adaptation to the change of production conditions, basics of welfare and animal husbandry ethics. Attention is paid to legislation of animal protection and breeding. Significant part of the course is focused on introduction to general principles of farm animals breeding methods. Practical seminars are aimed at examples of developmental changes of morphological and physiological parameters and characteristics of breed and purpose type animal groups during domestication and breeding. The aim of the course is to gain complex information on biological rules that can be used for farm animals husbandry."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Importance of animal production (allowance 1/1) a.Subject definition and its inclusion into the system of biological disciplines. Present status, development and prospects of animal breeding and animal production. Importance and status of organic interconnection between plant production and animal production. Bioenergetics and relationships between animal husbandry and the environment.2.Origin - creation of breed and purpose types of farm animals (allowance 1/1) a.Phylogeny and domestication of farm animals, process of animal domestication, impact of natural and social conditions, changes caused by domestication in animal husbandry. Taxonomy of major farm animals -- purpose type, breeds and lower taxonomic units, their definitions and use. Breeds classification according to the degree of breeding, origin and purpose. Breeding goal and breeding standard, zootechnical terminology. Gene reserves.3.Zoo technical evaluation of morphological parameters of farm animals. (allowance 1/1) a.Zoo technical topography of major farm animals species. Exterior and interior of farm animals. Definitions and importance of animal exterior evaluation for breeding purpose types of farm animals. General requirements for the exterior of individual species, breeds and purpose types.4.Biological basics of physiological parameters of farm animals (allowance 1/1) a.Importance of physiological parameters for purpose type animals. Animal constitution -- definitions and importance, habitus and temperament and basic constitutional types. New approaches to constitutional evaluation. Constitution as a selection parameter. Animal condition - importance and evaluation. Early maturity and longevity in connection to zoo technical rules of breeding, importance and relationship to purpose parameters.5.Biological basics of animal fertility, milk and egg production (allowance 1/1) a.Fertility as a purpose parameter, basic procedures and methods for fertility evaluation, breeding technique, biotechnological methods used in reproduction and applicable in animal breeding. Milk production -- composition and importance of colostrums and milk, milk production regulation and production evaluation (lactation curve and its persistence).Eggs production and quality evaluation.6.Biological rules in animal growth (allowance 1/1) a.Definition of growth and development. Changes during animal ontogenesis. Influences that impact animal growth. Methods of animal growth evaluation.Allometric growth.7.Biological basics of meat production (allowance 1/1) a.Requirements for animals intended for meat production (mammals and poultry). Evaluation of fattening capacity, degree of fattening capacity, slaughtering maturity and value, dressing percentage.Methods of quality evaluation of slaughtered animal bodies and meat quality.8.Breeding ethics and welfare (allowance 1/1) a.Relationship between animals and humans. Adaptation, animal adaptability and habituation.Stress and impact of stressors. Preventing stressful situations. Use of ethological studies for environment formation -- welfare and animal manipulation.International agreements, declarations and legislation regarding animal protection.9.General principles in regard to farm animals breeding (allowance 4/4) a.Breeding value. Selection, Inbreeding. Methods of farm animals breeding. Evaluation of breeding results."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Subject definition and its inclusion into the system of biological disciplines. Present status, development and prospects of animal breeding and animal production. Importance and status of organic interconnection between plant production and animal production. Bioenergetics and relationships between animal husbandry and the environment."
+    },
+    {
+      "label": "[section] Importance of animal production",
+      "content": "a.Subject definition and its inclusion into the system of biological disciplines. Present status, development and prospects of animal breeding and animal production. Importance and status of organic interconnection between plant production and animal production. Bioenergetics and relationships between animal husbandry and the environment."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Phylogeny and domestication of farm animals, process of animal domestication, impact of natural and social conditions, changes caused by domestication in animal husbandry. Taxonomy of major farm animals -- purpose type, breeds and lower taxonomic units, their definitions and use. Breeds classification according to the degree of breeding, origin and purpose. Breeding goal and breeding standard, zootechnical terminology. Gene reserves."
+    },
+    {
+      "label": "[section] Origin  - creation of breed and purpose types of farm animals",
+      "content": "a.Phylogeny and domestication of farm animals, process of animal domestication, impact of natural and social conditions, changes caused by domestication in animal husbandry. Taxonomy of major farm animals -- purpose type, breeds and lower taxonomic units, their definitions and use. Breeds classification according to the degree of breeding, origin and purpose. Breeding goal and breeding standard, zootechnical terminology. Gene reserves."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Zoo technical topography of major farm animals species. Exterior and interior of farm animals. Definitions and importance of animal exterior evaluation for breeding purpose types of farm animals. General requirements for the exterior of individual species, breeds and purpose types."
+    },
+    {
+      "label": "[section] Zoo technical evaluation of morphological parameters of farm animals.",
+      "content": "a.Zoo technical topography of major farm animals species. Exterior and interior of farm animals. Definitions and importance of animal exterior evaluation for breeding purpose types of farm animals. General requirements for the exterior of individual species, breeds and purpose types."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Importance of physiological parameters for purpose type animals. Animal constitution -- definitions and importance, habitus and temperament and basic constitutional types. New approaches to constitutional evaluation. Constitution as a selection parameter. Animal condition - importance and evaluation. Early maturity and longevity in connection to zoo technical rules of breeding, importance and relationship to purpose parameters."
+    },
+    {
+      "label": "[section] Biological basics of physiological parameters of farm animals",
+      "content": "a.Importance of physiological parameters for purpose type animals. Animal constitution -- definitions and importance, habitus and temperament and basic constitutional types. New approaches to constitutional evaluation. Constitution as a selection parameter. Animal condition - importance and evaluation. Early maturity and longevity in connection to zoo technical rules of breeding, importance and relationship to purpose parameters."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Fertility as a purpose parameter, basic procedures and methods for fertility evaluation, breeding technique, biotechnological methods used in reproduction and applicable in animal breeding. Milk production -- composition and importance of colostrums and milk, milk production regulation and production evaluation (lactation curve and its persistence).Eggs production and quality evaluation."
+    },
+    {
+      "label": "[section] Biological basics of animal fertility, milk and egg production",
+      "content": "a.Fertility as a purpose parameter, basic procedures and methods for fertility evaluation, breeding technique, biotechnological methods used in reproduction and applicable in animal breeding. Milk production -- composition and importance of colostrums and milk, milk production regulation and production evaluation (lactation curve and its persistence).Eggs production and quality evaluation."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Definition of growth and development. Changes during animal ontogenesis. Influences that impact animal growth. Methods of animal growth evaluation.Allometric growth."
+    },
+    {
+      "label": "[section] Biological rules in animal growth",
+      "content": "a.Definition of growth and development. Changes during animal ontogenesis. Influences that impact animal growth. Methods of animal growth evaluation.Allometric growth."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Requirements for animals intended for meat production (mammals and poultry). Evaluation of fattening capacity, degree of fattening capacity, slaughtering maturity and value, dressing percentage.Methods of quality evaluation of slaughtered animal bodies and meat quality."
+    },
+    {
+      "label": "[section] Biological basics of meat production",
+      "content": "a.Requirements for animals intended for meat production (mammals and poultry). Evaluation of fattening capacity, degree of fattening capacity, slaughtering maturity and value, dressing percentage.Methods of quality evaluation of slaughtered animal bodies and meat quality."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Relationship between animals and humans. Adaptation, animal adaptability and habituation.Stress and impact of stressors. Preventing stressful situations. Use of ethological studies for environment formation -- welfare and animal manipulation.International agreements, declarations and legislation regarding animal protection."
+    },
+    {
+      "label": "[section] Breeding ethics and welfare",
+      "content": "a.Relationship between animals and humans. Adaptation, animal adaptability and habituation.Stress and impact of stressors. Preventing stressful situations. Use of ethological studies for environment formation -- welfare and animal manipulation.International agreements, declarations and legislation regarding animal protection."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Breeding value. Selection, Inbreeding. Methods of farm animals breeding. Evaluation of breeding results."
+    },
+    {
+      "label": "[section] General  principles in regard to farm animals breeding",
+      "content": "a.Breeding value. Selection, Inbreeding. Methods of farm animals breeding. Evaluation of breeding results."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hconsultation20 hpreparation for exam40 hpreparation for regular assessment10 hpreparation for regular testing14 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "For Credit you have to receive minimal 80 % participation on exercising, correct writing 2 tests during exercising (min. 70 % points). Examination from subject is oral (70 % of the total mark)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:ŠUBRT, Jan. 2007. Obecná zootechnika. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 204 p. ISBN 978-80-7375-115-9.ŠUBRT, Jan. 2008. Obecná zootechnika: návody do cvičení. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 130 p. ISBN 978-80-7375-203-3.KADLEČÍK, Ondrej. 2007. Všeobecná zootechnika. 1st ed. Nitra: Slovenská pol'nohospodárska univerzita v Nitre, 222 p. ISBN 978-80-8069-9536. Allgemeine Tierzucht. 1993. Stuttgart: Verlag Eugen Ulmer, 416 p. ISBN 3-8252-1649-7.STEINHAUSER, Ladislav et al. 2000. Produkce masa. Tišnov: Last, 464 p. ISBN 80-900260-7-9. Quantitative genetics theory in Animal Breeding. 1995. Guelph: University of Guelph, 220 p.JAKUBEC, Václav; BEZDÍČEK, Jiří; LOUDA, František. 2010. Selekce - inbríding - hybridizace. 1st ed. Rapotín: Agrovýzkum Rapotín s.r.o. , 382 p. ISBN 978-80-87144-22-0."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "ŠUBRT, Jan. 2007. Obecná zootechnika. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 204 p. ISBN 978-80-7375-115-9.ŠUBRT, Jan. 2008. Obecná zootechnika: návody do cvičení. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 130 p. ISBN 978-80-7375-203-3.KADLEČÍK, Ondrej. 2007. Všeobecná zootechnika. 1st ed. Nitra: Slovenská pol'nohospodárska univerzita v Nitre, 222 p. ISBN 978-80-8069-9536. Allgemeine Tierzucht. 1993. Stuttgart: Verlag Eugen Ulmer, 416 p. ISBN 3-8252-1649-7.STEINHAUSER, Ladislav et al. 2000. Produkce masa. Tišnov: Last, 464 p. ISBN 80-900260-7-9. Quantitative genetics theory in Animal Breeding. 1995. Guelph: University of Guelph, 220 p.JAKUBEC, Václav; BEZDÍČEK, Jiří; LOUDA, František. 2010. Selekce - inbríding - hybridizace. 1st ed. Rapotín: Agrovýzkum Rapotín s.r.o. , 382 p. ISBN 978-80-87144-22-0."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-AEN Agricultural Engineering, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:42:35",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

@@ -1,0 +1,953 @@
+{
+  "courseCode": "OPL",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "OPL"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Ochrana přírody a její legislativní úprava"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Nature Conservation and Its Legislation"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2/2 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0/0 (h/h/dny v semestru) (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět je možné studovat během zahraniční mobility (zhodnocení chráněného území v zahraničí, online prezentace a zkouška)."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Martin Svátek, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav lesnické botaniky, dendrologie a geobiocenologie (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Petr Jelínek, Ph.D. (cvičící, přednášející, tutor, zkoušející)Ing. Martin Svátek, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Definice, význam a náplň ochrany přírody (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Definice a náplň ochrany přírody"
+    },
+    {
+      "label": "b.",
+      "content": "Ochrana přírody jako vědecká disciplína"
+    },
+    {
+      "label": "c.",
+      "content": "Tradice vědecky podložené ochrany přírody na MENDELU"
+    },
+    {
+      "label": "d.",
+      "content": "Motivy ochrany přírody"
+    },
+    {
+      "label": "2.",
+      "content": "Vývoj ochrany přírody v České republice a ve světě (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Počátky koncepční ochrany přírody"
+    },
+    {
+      "label": "b.",
+      "content": "Ochrana přírody jako veřejný zájem - legislativní ochrana - tvorba sítě chráněných území"
+    },
+    {
+      "label": "c.",
+      "content": "Ochrana přírody v kontextu trvale udržitelného rozvoje - ekosystémový a globální přístup"
+    },
+    {
+      "label": "3.",
+      "content": "Základní rozdělení ochrany přírody (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Ochrana územní"
+    },
+    {
+      "label": "b.",
+      "content": "Ochrana druhová"
+    },
+    {
+      "label": "c.",
+      "content": "Ochrana obecná"
+    },
+    {
+      "label": "d.",
+      "content": "Ochrana zvláštní"
+    },
+    {
+      "label": "4.",
+      "content": "Zvláště chráněná území v ČR (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Velkoplošná chráněná území (kategorie, zonace, podmínky ochrany, zajištění péče)"
+    },
+    {
+      "label": "b.",
+      "content": "Maloplošná chráněná území (kategorie, předmět a cíl ochrany, podmínky ochrany, zajištění péče)"
+    },
+    {
+      "label": "c.",
+      "content": "Ochranná pásma chráněných území"
+    },
+    {
+      "label": "5.",
+      "content": "Územní ochrana přírody v Evropské unii (NATURA 2000) (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Směrnice o ochraně volně žijících ptáků, ptačí oblasti"
+    },
+    {
+      "label": "b.",
+      "content": "Směrnice o ochraně přírodních stanovišť, evropsky významné lokality"
+    },
+    {
+      "label": "6.",
+      "content": "Mezinárodní kategorie chráněných území (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Klasifikace chráněných území dle IUCN, vztah k národní legislativě"
+    },
+    {
+      "label": "7.",
+      "content": "Obecná ochrana přírody a krajiny v ČR (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Územní systémy ekologické stability"
+    },
+    {
+      "label": "b.",
+      "content": "Významné krajinné prvky"
+    },
+    {
+      "label": "c.",
+      "content": "Ochrana krajinného rázu a přírodní parky"
+    },
+    {
+      "label": "8.",
+      "content": "Druhová ochrana přírody (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Zvláště chráněné druhy, kategorie ochrany druhů"
+    },
+    {
+      "label": "b.",
+      "content": "Obecná druhová ochrana"
+    },
+    {
+      "label": "c.",
+      "content": "Památné stromy"
+    },
+    {
+      "label": "d.",
+      "content": "Právní ochrana druhů (národní a mezinárodní), ochrana dřevin"
+    },
+    {
+      "label": "9.",
+      "content": "Biologické invaze (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Invazní druhy, dopad invazí v ochraně přírody, legislativní a managementové nástroje"
+    },
+    {
+      "label": "10.",
+      "content": "Zásady zpracování plánů péče o chráněná území (dotace 2/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Hodnocení stavu a péče v maloplošných zvláště chráněných územích (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Hodnocení chráněných území v ČR"
+    },
+    {
+      "label": "b.",
+      "content": "Hodnocení chráněných území v zahraničí"
+    },
+    {
+      "label": "c.",
+      "content": "Metody hodnocení stavu a efektivity managementu chráněných území"
+    },
+    {
+      "label": "12.",
+      "content": "Typy hodnocení v ochraně přírody (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Hodnocení vlivu závažného zásahu na zájmy ochrany přírody a krajiny"
+    },
+    {
+      "label": "b.",
+      "content": "EIA"
+    },
+    {
+      "label": "c.",
+      "content": "Hodnocení záměrů v územích NATURA 2000"
+    },
+    {
+      "label": "13.",
+      "content": "Legislativa, orgány a státní správa v ochraně přírody (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Zákon 114/1992 Sb., o ochraně přírody a krajiny a související předpisy"
+    },
+    {
+      "label": "b.",
+      "content": "Působnost obcí a krajských úřadů, působnost správ národních parků a CHKO, působnost ministerstva životního prostředí, působnost České inspekce životního prostředí"
+    },
+    {
+      "label": "14.",
+      "content": "Vládní krajinotvorné programy (revitalizace říčních systémů, péče o krajinu, obnova vesnice), nevládní organizace ochrany přírody (dotace 2/2)"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Ochrana přírody a její legislativní úprava"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Nature Conservation and Its Legislation"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2/2 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0/0 (h/h/dny v semestru) (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2/2 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0/0 (h/h/dny v semestru) (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat během zahraniční mobility (zhodnocení chráněného území v zahraničí, online prezentace a zkouška)."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Martin Svátek, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav lesnické botaniky, dendrologie a geobiocenologie (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Petr Jelínek, Ph.D. (cvičící, přednášející, tutor, zkoušející)Ing. Martin Svátek, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkVyučujícíAkceČetnostKapacitaPondělí8.00-11.50B35N-LSNI2P. JelínekPřednáškaNepravidelně22Čtvrtek11.00-12.50B35M. SvátekPřednáškaKaždý týden38Čtvrtek15.00-16.50B42M. SvátekCvičeníKaždý týden23"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je seznámit studenty se základy sozologie a s teorií a praxí ochrany přírody."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Definice, význam a náplň ochrany přírody (dotace 2/2) a.Definice a náplň ochrany přírodyb.Ochrana přírody jako vědecká disciplínac.Tradice vědecky podložené ochrany přírody na MENDELUd.Motivy ochrany přírody2.Vývoj ochrany přírody v České republice a ve světě (dotace 2/2) a.Počátky koncepční ochrany přírodyb.Ochrana přírody jako veřejný zájem - legislativní ochrana - tvorba sítě chráněných územíc.Ochrana přírody v kontextu trvale udržitelného rozvoje - ekosystémový a globální přístup3.Základní rozdělení ochrany přírody (dotace 2/2) a.Ochrana územníb.Ochrana druhovác.Ochrana obecnád.Ochrana zvláštní4.Zvláště chráněná území v ČR (dotace 2/2) a.Velkoplošná chráněná území (kategorie, zonace, podmínky ochrany, zajištění péče)b.Maloplošná chráněná území (kategorie, předmět a cíl ochrany, podmínky ochrany, zajištění péče)c.Ochranná pásma chráněných území5.Územní ochrana přírody v Evropské unii (NATURA 2000) (dotace 2/2) a.Směrnice o ochraně volně žijících ptáků, ptačí oblastib.Směrnice o ochraně přírodních stanovišť, evropsky významné lokality6.Mezinárodní kategorie chráněných území (dotace 1/1) a.Klasifikace chráněných území dle IUCN, vztah k národní legislativě7.Obecná ochrana přírody a krajiny v ČR (dotace 2/2) a.Územní systémy ekologické stabilityb.Významné krajinné prvkyc.Ochrana krajinného rázu a přírodní parky8.Druhová ochrana přírody (dotace 2/2) a.Zvláště chráněné druhy, kategorie ochrany druhůb.Obecná druhová ochranac.Památné stromyd.Právní ochrana druhů (národní a mezinárodní), ochrana dřevin9.Biologické invaze (dotace 1/1) a.Invazní druhy, dopad invazí v ochraně přírody, legislativní a managementové nástroje10.Zásady zpracování plánů péče o chráněná území (dotace 2/2)11.Hodnocení stavu a péče v maloplošných zvláště chráněných územích (dotace 2/2) a.Hodnocení chráněných území v ČRb.Hodnocení chráněných území v zahraničíc.Metody hodnocení stavu a efektivity managementu chráněných území12.Typy hodnocení v ochraně přírody (dotace 2/2) a.Hodnocení vlivu závažného zásahu na zájmy ochrany přírody a krajinyb.EIAc.Hodnocení záměrů v územích NATURA 200013.Legislativa, orgány a státní správa v ochraně přírody (dotace 2/2) a.Zákon 114/1992 Sb., o ochraně přírody a krajiny a související předpisyb.Působnost obcí a krajských úřadů, působnost správ národních parků a CHKO, působnost ministerstva životního prostředí, působnost České inspekce životního prostředí14.Vládní krajinotvorné programy (revitalizace říčních systémů, péče o krajinu, obnova vesnice), nevládní organizace ochrany přírody (dotace 2/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Definice a náplň ochrany přírodyb.Ochrana přírody jako vědecká disciplínac.Tradice vědecky podložené ochrany přírody na MENDELUd.Motivy ochrany přírody"
+    },
+    {
+      "label": "[section] Definice, význam a náplň ochrany přírody",
+      "content": "a.Definice a náplň ochrany přírodyb.Ochrana přírody jako vědecká disciplínac.Tradice vědecky podložené ochrany přírody na MENDELUd.Motivy ochrany přírody"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Počátky koncepční ochrany přírodyb.Ochrana přírody jako veřejný zájem - legislativní ochrana - tvorba sítě chráněných územíc.Ochrana přírody v kontextu trvale udržitelného rozvoje - ekosystémový a globální přístup"
+    },
+    {
+      "label": "[section] Vývoj ochrany přírody v České republice a ve světě",
+      "content": "a.Počátky koncepční ochrany přírodyb.Ochrana přírody jako veřejný zájem - legislativní ochrana - tvorba sítě chráněných územíc.Ochrana přírody v kontextu trvale udržitelného rozvoje - ekosystémový a globální přístup"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Ochrana územníb.Ochrana druhovác.Ochrana obecnád.Ochrana zvláštní"
+    },
+    {
+      "label": "[section] Základní rozdělení ochrany přírody",
+      "content": "a.Ochrana územníb.Ochrana druhovác.Ochrana obecnád.Ochrana zvláštní"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Velkoplošná chráněná území (kategorie, zonace, podmínky ochrany, zajištění péče)b.Maloplošná chráněná území (kategorie, předmět a cíl ochrany, podmínky ochrany, zajištění péče)c.Ochranná pásma chráněných území"
+    },
+    {
+      "label": "[section] Zvláště chráněná území v ČR",
+      "content": "a.Velkoplošná chráněná území (kategorie, zonace, podmínky ochrany, zajištění péče)b.Maloplošná chráněná území (kategorie, předmět a cíl ochrany, podmínky ochrany, zajištění péče)c.Ochranná pásma chráněných území"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Směrnice o ochraně volně žijících ptáků, ptačí oblastib.Směrnice o ochraně přírodních stanovišť, evropsky významné lokality"
+    },
+    {
+      "label": "[section] Územní ochrana přírody v Evropské unii (NATURA 2000)",
+      "content": "a.Směrnice o ochraně volně žijících ptáků, ptačí oblastib.Směrnice o ochraně přírodních stanovišť, evropsky významné lokality"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Klasifikace chráněných území dle IUCN, vztah k národní legislativě"
+    },
+    {
+      "label": "[section] Mezinárodní kategorie chráněných území",
+      "content": "a.Klasifikace chráněných území dle IUCN, vztah k národní legislativě"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Územní systémy ekologické stabilityb.Významné krajinné prvkyc.Ochrana krajinného rázu a přírodní parky"
+    },
+    {
+      "label": "[section] Obecná ochrana přírody a krajiny v ČR",
+      "content": "a.Územní systémy ekologické stabilityb.Významné krajinné prvkyc.Ochrana krajinného rázu a přírodní parky"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Zvláště chráněné druhy, kategorie ochrany druhůb.Obecná druhová ochranac.Památné stromyd.Právní ochrana druhů (národní a mezinárodní), ochrana dřevin"
+    },
+    {
+      "label": "[section] Druhová ochrana přírody",
+      "content": "a.Zvláště chráněné druhy, kategorie ochrany druhůb.Obecná druhová ochranac.Památné stromyd.Právní ochrana druhů (národní a mezinárodní), ochrana dřevin"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Invazní druhy, dopad invazí v ochraně přírody, legislativní a managementové nástroje"
+    },
+    {
+      "label": "[section] Biologické invaze",
+      "content": "a.Invazní druhy, dopad invazí v ochraně přírody, legislativní a managementové nástroje"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Hodnocení stavu a péče v maloplošných zvláště chráněných územích (dotace 2/2)"
+    },
+    {
+      "label": "[section] Zásady zpracování plánů péče o chráněná území",
+      "content": "11.Hodnocení stavu a péče v maloplošných zvláště chráněných územích (dotace 2/2)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Hodnocení chráněných území v ČRb.Hodnocení chráněných území v zahraničíc.Metody hodnocení stavu a efektivity managementu chráněných území"
+    },
+    {
+      "label": "[section] Hodnocení stavu a péče v maloplošných zvláště chráněných územích",
+      "content": "a.Hodnocení chráněných území v ČRb.Hodnocení chráněných území v zahraničíc.Metody hodnocení stavu a efektivity managementu chráněných území"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Hodnocení vlivu závažného zásahu na zájmy ochrany přírody a krajinyb.EIAc.Hodnocení záměrů v územích NATURA 2000"
+    },
+    {
+      "label": "[section] Typy hodnocení v ochraně přírody",
+      "content": "a.Hodnocení vlivu závažného zásahu na zájmy ochrany přírody a krajinyb.EIAc.Hodnocení záměrů v územích NATURA 2000"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Zákon 114/1992 Sb., o ochraně přírody a krajiny a související předpisyb.Působnost obcí a krajských úřadů, působnost správ národních parků a CHKO, působnost ministerstva životního prostředí, působnost České inspekce životního prostředí"
+    },
+    {
+      "label": "[section] Legislativa, orgány a státní správa v ochraně přírody",
+      "content": "a.Zákon 114/1992 Sb., o ochraně přírody a krajiny a související předpisyb.Působnost obcí a krajských úřadů, působnost správ národních parků a CHKO, působnost ministerstva životního prostředí, působnost České inspekce životního prostředí"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška26 h20 hcvičení26 h0 hpráce v terénu9 h4 hodborná exkurze4 h4 hveřejná prezentace (ústní)1 h1 hpříprava na průběžný test10 h57 hpříprava prezentace6 h2 hzpráva z exkurze, výjezdu, praxe4 h2 hzpracování protokolů4 h2 hzpracování seminární práce22 h20 hCelkem112 h112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Úspěšně absolvovaný test z legislativy týkající se ochrany přírody a krajiny, účast na hlavním cvičení a úspěšně obhájená seminární práce zabývající se hodnocením současného stavu a péče o maloplošné zvláště chráněné území, úspěšně složená zkouška."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumVypracování semestrální práce40 %40 %Prezentace nebo obhajoba20 %20 %Absolvování závěrečného testu20 %20 %Absolvování závěrečné ústní zkoušky20 %20 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:MAGURRAN, Anne E.; MCGILL, Brian J. 2011. Biological diversity: frontiers in measurement and assessment. 1. vyd. Oxford: Oxford University Press, 345 s. Oxford biology. ISBN 0-19-958067-7.MÍCHAL, I; PETŘÍČEK, V. 1999. Péče o chráněná území -- II. Lesní společenstva. Praha: Agentura ochrany přírody a krajiny ČR, 714 s.PETŘÍČEK , Václav; MÍCHAL, Igor. 1999. Péče o chráněná území. I. Nelesní společenstva, II. Lesní společenstva. Praha : AOPK ČR.SVÁTEK, Martin; BUČEK, Antonín. 2005. Metodika hodnocení stavu a péče v maloplošných zvláště chráněných územích. Brno. Zákon 114/92 Sb. O ochraně přírody a krajiny. 1992.Doporučená:AOPK ČR. Ústřední seznam ochrany přírody. [online]. Dostupné na World Wide Web: http://drusop.nature.cz/HOCKINGS, M., STOLTON, S., LEVERINGTON, F., DUDLEY, N., COURRAU, J.: Evaluating Effectiveness: A framework for assessing management effectiveness of protected areas. 2nd Edition. IUCN, 2006. 105 s.CHAPE S., HARRISON J., SPALDING M., LYSENKO I. Measuring the extent and effectiveness of protected areas as an indicator for meeting global biodiversity targets. 2005. Philosophical Transactions of the Royal Society: Biological Sciences 360 (1454): 443–455.MACDONALD, D. W., WILLIS, K. J.: Key Topics in Conservation Biology 2. Wiley-Blackwell, 2013. 510 s."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "MAGURRAN, Anne E.; MCGILL, Brian J. 2011. Biological diversity: frontiers in measurement and assessment. 1. vyd. Oxford: Oxford University Press, 345 s. Oxford biology. ISBN 0-19-958067-7.MÍCHAL, I; PETŘÍČEK, V. 1999. Péče o chráněná území -- II. Lesní společenstva. Praha: Agentura ochrany přírody a krajiny ČR, 714 s.PETŘÍČEK , Václav; MÍCHAL, Igor. 1999. Péče o chráněná území. I. Nelesní společenstva, II. Lesní společenstva. Praha : AOPK ČR.SVÁTEK, Martin; BUČEK, Antonín. 2005. Metodika hodnocení stavu a péče v maloplošných zvláště chráněných územích. Brno. Zákon 114/92 Sb. O ochraně přírody a krajiny. 1992."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "AOPK ČR. Ústřední seznam ochrany přírody. [online]. Dostupné na World Wide Web: http://drusop.nature.cz/HOCKINGS, M., STOLTON, S., LEVERINGTON, F., DUDLEY, N., COURRAU, J.: Evaluating Effectiveness: A framework for assessing management effectiveness of protected areas. 2nd Edition. IUCN, 2006. 105 s.CHAPE S., HARRISON J., SPALDING M., LYSENKO I. Measuring the extent and effectiveness of protected areas as an indicator for meeting global biodiversity targets. 2005. Philosophical Transactions of the Royal Society: Biological Sciences 360 (1454): 443–455.MACDONALD, D. W., WILLIS, K. J.: Key Topics in Conservation Biology 2. Wiley-Blackwell, 2013. 510 s."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Specializace N-LSNI-LI Lesní inženýrství, prezenční forma, počáteční období ZS 2024/2025Specializace N-LSNI-LI Lesní inženýrství, kombinovaná forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "OPL"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Ochrana přírody a její legislativní úprava"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Nature Conservation and Its Legislation"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2/2 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)part-time, 20/0/0 (h/h/days in semester) (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The subject can be studied during foreign mobility (evaluation of a protected area abroad, online presentation and exam)."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Martin Svátek, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Forest Botany, Dendrology and Geobiocoenology (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Petr Jelínek, Ph.D. (examiner, instructor, lecturer, tutor)Ing. Martin Svátek, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "State Bachelor Examination"
+    },
+    {
+      "label": "1.",
+      "content": "Definitions and approaches in nature conservation (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Definition and scope of nature conservation"
+    },
+    {
+      "label": "b.",
+      "content": "Nature conservation as a scientific discipline"
+    },
+    {
+      "label": "c.",
+      "content": "The tradition of science-based nature conservation at MENDELU"
+    },
+    {
+      "label": "d.",
+      "content": "Nature conservation motives"
+    },
+    {
+      "label": "2.",
+      "content": "History of nature conservation in the Czech Republic and in the world (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "The beginnings of conceptual nature conservation"
+    },
+    {
+      "label": "b.",
+      "content": "Nature conservation as a public interest - legislative protection - the creation of a network of protected areas"
+    },
+    {
+      "label": "c.",
+      "content": "Nature conservation in the context of sustainable development - ecosystem and global approach"
+    },
+    {
+      "label": "3.",
+      "content": "Classification of nature conservation (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Protected areas"
+    },
+    {
+      "label": "b.",
+      "content": "Protected species"
+    },
+    {
+      "label": "c.",
+      "content": "General nature conservation"
+    },
+    {
+      "label": "d.",
+      "content": "Special nature conservation"
+    },
+    {
+      "label": "4.",
+      "content": "Specially protected areas in the Czech Republic (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Large-scale protected areas (categories, zoning, conditions of protection, management principles)"
+    },
+    {
+      "label": "b.",
+      "content": "Small-scale protected areas (categories, zoning, conditions of protection, management principles)"
+    },
+    {
+      "label": "c.",
+      "content": "Buffer zones of protected areas"
+    },
+    {
+      "label": "5.",
+      "content": "Natura 2000 in the European Union (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Council Directive 2009/147/EC on the conservation of wild birds, Special Protection Areas"
+    },
+    {
+      "label": "b.",
+      "content": "Council Directive 92/43/EEC on the Conservation of natural habitats and of wild fauna and flora, Special Areas of Conservation"
+    },
+    {
+      "label": "6.",
+      "content": "International classification of protected areas (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "IUCN classification of protected areas, relation to the national legislation"
+    },
+    {
+      "label": "7.",
+      "content": "General protection of nature and landscape in the Czech Republic (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Territorial systems of ecological stability"
+    },
+    {
+      "label": "b.",
+      "content": "Significant landscape features"
+    },
+    {
+      "label": "c.",
+      "content": "Protection of landscape features and natural parks"
+    },
+    {
+      "label": "8.",
+      "content": "Species conservation (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Specially protected species, category of species protection"
+    },
+    {
+      "label": "b.",
+      "content": "General species protection"
+    },
+    {
+      "label": "c.",
+      "content": "Memorial and veteran trees"
+    },
+    {
+      "label": "d.",
+      "content": "Legal protection of species (national and international), protection of tree species"
+    },
+    {
+      "label": "9.",
+      "content": "Biological invasions (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Invasive species, impact of invasions in nature conservation, legislative and management tools"
+    },
+    {
+      "label": "10.",
+      "content": "Management plans for protected areas (allowance 2/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Evaluation of state and management of protected areas (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Evaluation of protected areas in the Czech Republic"
+    },
+    {
+      "label": "b.",
+      "content": "Evaluation of protected areas in the world"
+    },
+    {
+      "label": "c.",
+      "content": "Methods of evaluating the state and effectiveness of the management of protected areas"
+    },
+    {
+      "label": "12.",
+      "content": "Impact assessments in nature conservation (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Assessment of the impact of a serious intervention on the interests of nature and landscape protection"
+    },
+    {
+      "label": "b.",
+      "content": "EIA"
+    },
+    {
+      "label": "c.",
+      "content": "Impact assessment in NATURA 2000 areas"
+    },
+    {
+      "label": "13.",
+      "content": "Legislation, authorities, and state administration in nature conservation (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Act 114/1992 Coll., on nature and landscape protection and related regulations"
+    },
+    {
+      "label": "b.",
+      "content": "Competence of municipalities and regional authorities, competence of national parks and PLA administrations, competence of the Ministry of the Environment, competence of the Czech Environmental Inspectorate"
+    },
+    {
+      "label": "14.",
+      "content": "Government landscape programs (revitalization of river systems, landscape-level management), nature conservation NGOs (allowance 2/2)"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Ochrana přírody a její legislativní úprava"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Nature Conservation and Its Legislation"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2/2 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)part-time, 20/0/0 (h/h/days in semester) (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2/2 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)part-time, 20/0/0 (h/h/days in semester) (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The subject can be studied during foreign mobility (evaluation of a protected area abroad, online presentation and exam)."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Martin Svátek, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Forest Botany, Dendrology and Geobiocoenology (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Petr Jelínek, Ph.D. (examiner, instructor, lecturer, tutor)Ing. Martin Svátek, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: State Bachelor Examination"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyTeacherEntryFrequencyCapacityMonday8.00-11.50B35N-LSNI2P. JelínekLectureOccasionally22Thursday11.00-12.50B35M. SvátekLectureEvery week38Thursday15.00-16.50B42M. SvátekSeminarEvery week23"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Students gain knowledge of basic principles of nature conservation, conservation biology and evaluation of protected areas."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Definitions and approaches in nature conservation (allowance 2/2) a.Definition and scope of nature conservationb.Nature conservation as a scientific disciplinec.The tradition of science-based nature conservation at MENDELUd.Nature conservation motives2.History of nature conservation in the Czech Republic and in the world (allowance 2/2) a.The beginnings of conceptual nature conservationb.Nature conservation as a public interest - legislative protection - the creation of a network of protected areasc.Nature conservation in the context of sustainable development - ecosystem and global approach3.Classification of nature conservation (allowance 2/2) a.Protected areasb.Protected speciesc.General nature conservationd.Special nature conservation4.Specially protected areas in the Czech Republic (allowance 2/2) a.Large-scale protected areas (categories, zoning, conditions of protection, management principles)b.Small-scale protected areas (categories, zoning, conditions of protection, management principles)c.Buffer zones of protected areas5.Natura 2000 in the European Union (allowance 2/2) a.Council Directive 2009/147/EC on the conservation of wild birds, Special Protection Areasb.Council Directive 92/43/EEC on the Conservation of natural habitats and of wild fauna and flora, Special Areas of Conservation6.International classification of protected areas (allowance 1/1) a.IUCN classification of protected areas, relation to the national legislation7.General protection of nature and landscape in the Czech Republic (allowance 2/2) a.Territorial systems of ecological stabilityb.Significant landscape featuresc.Protection of landscape features and natural parks8.Species conservation (allowance 2/2) a.Specially protected species, category of species protectionb.General species protectionc.Memorial and veteran treesd.Legal protection of species (national and international), protection of tree species9.Biological invasions (allowance 1/1) a.Invasive species, impact of invasions in nature conservation, legislative and management tools10.Management plans for protected areas (allowance 2/2)11.Evaluation of state and management of protected areas (allowance 2/2) a.Evaluation of protected areas in the Czech Republicb.Evaluation of protected areas in the worldc.Methods of evaluating the state and effectiveness of the management of protected areas12.Impact assessments in nature conservation (allowance 2/2) a.Assessment of the impact of a serious intervention on the interests of nature and landscape protectionb.EIAc.Impact assessment in NATURA 2000 areas13.Legislation, authorities, and state administration in nature conservation (allowance 2/2) a.Act 114/1992 Coll., on nature and landscape protection and related regulationsb.Competence of municipalities and regional authorities, competence of national parks and PLA administrations, competence of the Ministry of the Environment, competence of the Czech Environmental Inspectorate14.Government landscape programs (revitalization of river systems, landscape-level management), nature conservation NGOs (allowance 2/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Definition and scope of nature conservationb.Nature conservation as a scientific disciplinec.The tradition of science-based nature conservation at MENDELUd.Nature conservation motives"
+    },
+    {
+      "label": "[section] Definitions and approaches in nature conservation",
+      "content": "a.Definition and scope of nature conservationb.Nature conservation as a scientific disciplinec.The tradition of science-based nature conservation at MENDELUd.Nature conservation motives"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.The beginnings of conceptual nature conservationb.Nature conservation as a public interest - legislative protection - the creation of a network of protected areasc.Nature conservation in the context of sustainable development - ecosystem and global approach"
+    },
+    {
+      "label": "[section] History of nature conservation in the Czech Republic and in the world",
+      "content": "a.The beginnings of conceptual nature conservationb.Nature conservation as a public interest - legislative protection - the creation of a network of protected areasc.Nature conservation in the context of sustainable development - ecosystem and global approach"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Protected areasb.Protected speciesc.General nature conservationd.Special nature conservation"
+    },
+    {
+      "label": "[section] Classification of nature conservation",
+      "content": "a.Protected areasb.Protected speciesc.General nature conservationd.Special nature conservation"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Large-scale protected areas (categories, zoning, conditions of protection, management principles)b.Small-scale protected areas (categories, zoning, conditions of protection, management principles)c.Buffer zones of protected areas"
+    },
+    {
+      "label": "[section] Specially protected areas in the Czech Republic",
+      "content": "a.Large-scale protected areas (categories, zoning, conditions of protection, management principles)b.Small-scale protected areas (categories, zoning, conditions of protection, management principles)c.Buffer zones of protected areas"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Council Directive 2009/147/EC on the conservation of wild birds, Special Protection Areasb.Council Directive 92/43/EEC on the Conservation of natural habitats and of wild fauna and flora, Special Areas of Conservation"
+    },
+    {
+      "label": "[section] Natura 2000 in the European Union",
+      "content": "a.Council Directive 2009/147/EC on the conservation of wild birds, Special Protection Areasb.Council Directive 92/43/EEC on the Conservation of natural habitats and of wild fauna and flora, Special Areas of Conservation"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.IUCN classification of protected areas, relation to the national legislation"
+    },
+    {
+      "label": "[section] International classification of protected areas",
+      "content": "a.IUCN classification of protected areas, relation to the national legislation"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Territorial systems of ecological stabilityb.Significant landscape featuresc.Protection of landscape features and natural parks"
+    },
+    {
+      "label": "[section] General protection of nature and landscape in the Czech Republic",
+      "content": "a.Territorial systems of ecological stabilityb.Significant landscape featuresc.Protection of landscape features and natural parks"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Specially protected species, category of species protectionb.General species protectionc.Memorial and veteran treesd.Legal protection of species (national and international), protection of tree species"
+    },
+    {
+      "label": "[section] Species conservation",
+      "content": "a.Specially protected species, category of species protectionb.General species protectionc.Memorial and veteran treesd.Legal protection of species (national and international), protection of tree species"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Invasive species, impact of invasions in nature conservation, legislative and management tools"
+    },
+    {
+      "label": "[section] Biological invasions",
+      "content": "a.Invasive species, impact of invasions in nature conservation, legislative and management tools"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Evaluation of state and management of protected areas (allowance 2/2)"
+    },
+    {
+      "label": "[section] Management plans for protected areas",
+      "content": "11.Evaluation of state and management of protected areas (allowance 2/2)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Evaluation of protected areas in the Czech Republicb.Evaluation of protected areas in the worldc.Methods of evaluating the state and effectiveness of the management of protected areas"
+    },
+    {
+      "label": "[section] Evaluation of state and management of protected areas",
+      "content": "a.Evaluation of protected areas in the Czech Republicb.Evaluation of protected areas in the worldc.Methods of evaluating the state and effectiveness of the management of protected areas"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Assessment of the impact of a serious intervention on the interests of nature and landscape protectionb.EIAc.Impact assessment in NATURA 2000 areas"
+    },
+    {
+      "label": "[section] Impact assessments in nature conservation",
+      "content": "a.Assessment of the impact of a serious intervention on the interests of nature and landscape protectionb.EIAc.Impact assessment in NATURA 2000 areas"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Act 114/1992 Coll., on nature and landscape protection and related regulationsb.Competence of municipalities and regional authorities, competence of national parks and PLA administrations, competence of the Ministry of the Environment, competence of the Czech Environmental Inspectorate"
+    },
+    {
+      "label": "[section] Legislation, authorities, and state administration in nature conservation",
+      "content": "a.Act 114/1992 Coll., on nature and landscape protection and related regulationsb.Competence of municipalities and regional authorities, competence of national parks and PLA administrations, competence of the Ministry of the Environment, competence of the Czech Environmental Inspectorate"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture26 h20 hpractice26 h0 hfield work9 h4 hprofessional educational excursion4 h4 hpublic presentation (oral)1 h1 hpreparation for regular testing10 h57 hpreparation of presentation6 h2 hreport from excursion, tour, practical placement4 h2 helaboration of reports4 h2 hwriting of seminar paper22 h20 hTotal112 h112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Requirements: pass a test on legislation related to nature conservation, participation in the main practice, defend a seminar report dealing with the assessment of the current state and management of small-scale specially protected areas, and successfully pass the final exam."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTerm paper40 %40 %Presentation or defence20 %20 %Final test20 %20 %Final oral exam20 %20 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:MAGURRAN, Anne E.; MCGILL, Brian J. 2011. Biological diversity: frontiers in measurement and assessment. 1st ed. Oxford: Oxford University Press, 345 p. Oxford biology. ISBN 0-19-958067-7.MÍCHAL, I; PETŘÍČEK, V. 1999. Péče o chráněná území -- II. Lesní společenstva. Praha: Agentura ochrany přírody a krajiny ČR, 714 p.PETŘÍČEK , Václav; MÍCHAL, Igor. 1999. Péče o chráněná území. I. Nelesní společenstva, II. Lesní společenstva. Praha : AOPK ČR.SVÁTEK, Martin; BUČEK, Antonín. 2005. Metodika hodnocení stavu a péče v maloplošných zvláště chráněných územích. Brno. Zákon 114/92 Sb. O ochraně přírody a krajiny. 1992.Recommended:AOPK ČR. Ústřední seznam ochrany přírody. [online]. Dostupné na World Wide Web: http://drusop.nature.cz/HOCKINGS, M., STOLTON, S., LEVERINGTON, F., DUDLEY, N., COURRAU, J.: Evaluating Effectiveness: A framework for assessing management effectiveness of protected areas. 2nd Edition. IUCN, 2006. 105 s.CHAPE S., HARRISON J., SPALDING M., LYSENKO I. Measuring the extent and effectiveness of protected areas as an indicator for meeting global biodiversity targets. 2005. Philosophical Transactions of the Royal Society: Biological Sciences 360 (1454): 443–455.MACDONALD, D. W., WILLIS, K. J.: Key Topics in Conservation Biology 2. Wiley-Blackwell, 2013. 510 s."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "MAGURRAN, Anne E.; MCGILL, Brian J. 2011. Biological diversity: frontiers in measurement and assessment. 1st ed. Oxford: Oxford University Press, 345 p. Oxford biology. ISBN 0-19-958067-7.MÍCHAL, I; PETŘÍČEK, V. 1999. Péče o chráněná území -- II. Lesní společenstva. Praha: Agentura ochrany přírody a krajiny ČR, 714 p.PETŘÍČEK , Václav; MÍCHAL, Igor. 1999. Péče o chráněná území. I. Nelesní společenstva, II. Lesní společenstva. Praha : AOPK ČR.SVÁTEK, Martin; BUČEK, Antonín. 2005. Metodika hodnocení stavu a péče v maloplošných zvláště chráněných územích. Brno. Zákon 114/92 Sb. O ochraně přírody a krajiny. 1992."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "AOPK ČR. Ústřední seznam ochrany přírody. [online]. Dostupné na World Wide Web: http://drusop.nature.cz/HOCKINGS, M., STOLTON, S., LEVERINGTON, F., DUDLEY, N., COURRAU, J.: Evaluating Effectiveness: A framework for assessing management effectiveness of protected areas. 2nd Edition. IUCN, 2006. 105 s.CHAPE S., HARRISON J., SPALDING M., LYSENKO I. Measuring the extent and effectiveness of protected areas as an indicator for meeting global biodiversity targets. 2005. Philosophical Transactions of the Royal Society: Biological Sciences 360 (1454): 443–455.MACDONALD, D. W., WILLIS, K. J.: Key Topics in Conservation Biology 2. Wiley-Blackwell, 2013. 510 s."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Track C-LSNI-FE Forest Engineering, full-time form, initial period WS 2024/2025Track C-LSNI-FE Forest Engineering, part-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:39:52",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

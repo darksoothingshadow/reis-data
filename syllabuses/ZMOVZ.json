@@ -1,0 +1,809 @@
+{
+  "courseCode": "ZMOVZ",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ZMOVZ"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Zkoušení motorových vozidel"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Motor Vehicle Testing"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Jiří Čupera, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav techniky a automobilové dopravy (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Jiří Čupera, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Motorová vozidla II"
+    },
+    {
+      "label": "1.",
+      "content": "Proces měření a vyhodnocení dat, přístroje, chyby měření (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Definice měření."
+    },
+    {
+      "label": "b.",
+      "content": "Měřicí přístroje a měřicí zařízení."
+    },
+    {
+      "label": "c.",
+      "content": "Determinace chyb měření."
+    },
+    {
+      "label": "d.",
+      "content": "Vyhodnocení dat a prezentace výsledků."
+    },
+    {
+      "label": "2.",
+      "content": "Metody měření fyzikálních veličin relevantních ke zkoušení vozidel (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní principy měření."
+    },
+    {
+      "label": "b.",
+      "content": "Snímače v oblasti zkoušení vozidel."
+    },
+    {
+      "label": "c.",
+      "content": "Parazitní vlivy při zkoušení (vibroanalýza, analýza zvuku)."
+    },
+    {
+      "label": "3.",
+      "content": "Zkoušení soustav podvozků vozidel (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Zkoušení náprav, uložení."
+    },
+    {
+      "label": "b.",
+      "content": "Zkoušení odpružení a řízení."
+    },
+    {
+      "label": "c.",
+      "content": "Testování brzdových systémů."
+    },
+    {
+      "label": "d.",
+      "content": "Zkoušení elektronických systémů brzd."
+    },
+    {
+      "label": "4.",
+      "content": "Hancí charakteristika vozidla (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Měření odporů působících proti vozidlu."
+    },
+    {
+      "label": "b.",
+      "content": "Měření limitních stavů -- skluz, prokluz."
+    },
+    {
+      "label": "c.",
+      "content": "Tvorba a ověření modelu hnací charakteristiky."
+    },
+    {
+      "label": "5.",
+      "content": "Zařízení pro zkoušení pohonu vozidel (dotace 4/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Charakteristiky spalovacích motorů."
+    },
+    {
+      "label": "b.",
+      "content": "Metody měření charakteristik spalovacích motorů."
+    },
+    {
+      "label": "c.",
+      "content": "Motorové zkušebny."
+    },
+    {
+      "label": "d.",
+      "content": "Válcové dynamometry."
+    },
+    {
+      "label": "6.",
+      "content": "Zkoušení převodových ústrojí (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Zkoušení převodovek."
+    },
+    {
+      "label": "b.",
+      "content": "Testování trakce vozidla."
+    },
+    {
+      "label": "c.",
+      "content": "Zkoušení pneumatik na válcovém dynamometru."
+    },
+    {
+      "label": "7.",
+      "content": "Zkoušení pasivní bezpečnosti a komfortních systémů (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Zkoušky částí pasivní bezpečnosti."
+    },
+    {
+      "label": "b.",
+      "content": "Nárazové testy a jejich hodnocení."
+    },
+    {
+      "label": "c.",
+      "content": "Zkoušení komfortních systémů vozidel a osvětlení."
+    },
+    {
+      "label": "8.",
+      "content": "Simulace a virtuální instrumentace (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Simulace vozidlových systémů a odezva měřicího řetězce."
+    },
+    {
+      "label": "b.",
+      "content": "Virtuální přístroje."
+    },
+    {
+      "label": "c.",
+      "content": "Úvod do systému LabVIEW."
+    },
+    {
+      "label": "9.",
+      "content": "Měření výkonových charakteristik spalovacích motorů (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Měření vnější/jmenovité charakteristiky"
+    },
+    {
+      "label": "b.",
+      "content": "Sestrojení úplné charakteristiky"
+    },
+    {
+      "label": "c.",
+      "content": "Zatěžovací aj. charakteristiky"
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2020/2021, LS 2019/2020, LS 2018/2019 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Zkoušení motorových vozidel"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Motor Vehicle Testing"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Jiří Čupera, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav techniky a automobilové dopravy (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Jiří Čupera, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Motorová vozidla II"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek11.00-12.50R204J. ČuperaPřednáškaKaždý týden30Čtvrtek13.00-14.50R204J. ČuperaCvičeníKaždý týden30"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je získání znalostí a praktických dovedností v oblasti měření a zkoušení parametrů motorových vozidel. Důraz je kladen zejména na praktická cvičení a schoponst flexibilně přistupovat k rozličným měřicím úlohám."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Proces měření a vyhodnocení dat, přístroje, chyby měření (dotace 2/4) a.Definice měření.b.Měřicí přístroje a měřicí zařízení.c.Determinace chyb měření.d.Vyhodnocení dat a prezentace výsledků.2.Metody měření fyzikálních veličin relevantních ke zkoušení vozidel (dotace 4/4) a.Základní principy měření.b.Snímače v oblasti zkoušení vozidel.c.Parazitní vlivy při zkoušení (vibroanalýza, analýza zvuku).3.Zkoušení soustav podvozků vozidel (dotace 4/4) a.Zkoušení náprav, uložení.b.Zkoušení odpružení a řízení.c.Testování brzdových systémů.d.Zkoušení elektronických systémů brzd.4.Hancí charakteristika vozidla (dotace 2/6) a.Měření odporů působících proti vozidlu.b.Měření limitních stavů -- skluz, prokluz.c.Tvorba a ověření modelu hnací charakteristiky.5.Zařízení pro zkoušení pohonu vozidel (dotace 4/8) a.Charakteristiky spalovacích motorů.b.Metody měření charakteristik spalovacích motorů.c.Motorové zkušebny.d.Válcové dynamometry.6.Zkoušení převodových ústrojí (dotace 2/2) a.Zkoušení převodovek.b.Testování trakce vozidla.c.Zkoušení pneumatik na válcovém dynamometru.7.Zkoušení pasivní bezpečnosti a komfortních systémů (dotace 4/2) a.Zkoušky částí pasivní bezpečnosti.b.Nárazové testy a jejich hodnocení.c.Zkoušení komfortních systémů vozidel a osvětlení.8.Simulace a virtuální instrumentace (dotace 2/4) a.Simulace vozidlových systémů a odezva měřicího řetězce.b.Virtuální přístroje.c.Úvod do systému LabVIEW.9.Měření výkonových charakteristik spalovacích motorů (dotace 2/4) a.Měření vnější/jmenovité charakteristikyb.Sestrojení úplné charakteristikyc.Zatěžovací aj. charakteristiky"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Definice měření.b.Měřicí přístroje a měřicí zařízení.c.Determinace chyb měření.d.Vyhodnocení dat a prezentace výsledků."
+    },
+    {
+      "label": "[section] Proces měření a vyhodnocení dat, přístroje, chyby měření",
+      "content": "a.Definice měření.b.Měřicí přístroje a měřicí zařízení.c.Determinace chyb měření.d.Vyhodnocení dat a prezentace výsledků."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Základní principy měření.b.Snímače v oblasti zkoušení vozidel.c.Parazitní vlivy při zkoušení (vibroanalýza, analýza zvuku)."
+    },
+    {
+      "label": "[section] Metody měření fyzikálních veličin relevantních ke zkoušení vozidel",
+      "content": "a.Základní principy měření.b.Snímače v oblasti zkoušení vozidel.c.Parazitní vlivy při zkoušení (vibroanalýza, analýza zvuku)."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Zkoušení náprav, uložení.b.Zkoušení odpružení a řízení.c.Testování brzdových systémů.d.Zkoušení elektronických systémů brzd."
+    },
+    {
+      "label": "[section] Zkoušení soustav podvozků vozidel",
+      "content": "a.Zkoušení náprav, uložení.b.Zkoušení odpružení a řízení.c.Testování brzdových systémů.d.Zkoušení elektronických systémů brzd."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Měření odporů působících proti vozidlu.b.Měření limitních stavů -- skluz, prokluz.c.Tvorba a ověření modelu hnací charakteristiky."
+    },
+    {
+      "label": "[section] Hancí charakteristika vozidla",
+      "content": "a.Měření odporů působících proti vozidlu.b.Měření limitních stavů -- skluz, prokluz.c.Tvorba a ověření modelu hnací charakteristiky."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Charakteristiky spalovacích motorů.b.Metody měření charakteristik spalovacích motorů.c.Motorové zkušebny.d.Válcové dynamometry."
+    },
+    {
+      "label": "[section] Zařízení pro zkoušení pohonu vozidel",
+      "content": "a.Charakteristiky spalovacích motorů.b.Metody měření charakteristik spalovacích motorů.c.Motorové zkušebny.d.Válcové dynamometry."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Zkoušení převodovek.b.Testování trakce vozidla.c.Zkoušení pneumatik na válcovém dynamometru."
+    },
+    {
+      "label": "[section] Zkoušení převodových ústrojí",
+      "content": "a.Zkoušení převodovek.b.Testování trakce vozidla.c.Zkoušení pneumatik na válcovém dynamometru."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Zkoušky částí pasivní bezpečnosti.b.Nárazové testy a jejich hodnocení.c.Zkoušení komfortních systémů vozidel a osvětlení."
+    },
+    {
+      "label": "[section] Zkoušení pasivní bezpečnosti a komfortních systémů",
+      "content": "a.Zkoušky částí pasivní bezpečnosti.b.Nárazové testy a jejich hodnocení.c.Zkoušení komfortních systémů vozidel a osvětlení."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Simulace vozidlových systémů a odezva měřicího řetězce.b.Virtuální přístroje.c.Úvod do systému LabVIEW."
+    },
+    {
+      "label": "[section] Simulace a virtuální instrumentace",
+      "content": "a.Simulace vozidlových systémů a odezva měřicího řetězce.b.Virtuální přístroje.c.Úvod do systému LabVIEW."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Měření vnější/jmenovité charakteristikyb.Sestrojení úplné charakteristikyc.Zatěžovací aj. charakteristiky"
+    },
+    {
+      "label": "[section] Měření výkonových charakteristik spalovacích motorů",
+      "content": "a.Měření vnější/jmenovité charakteristikyb.Sestrojení úplné charakteristikyc.Zatěžovací aj. charakteristiky"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška24 hcvičení12 hlaboratorní práce20 hpříprava na zkoušku30 hpříprava na průběžné hodnocení10 hpříprava na průběžný test12 hzpracování protokolů8 hzpracování projektů12 hzpracování seminární práce12 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Pro splnění požadavků pro zápočet je nutná účast na cvičeních, splnění průběžných písemných testů z 80 % a odevzdání dvou semestrálních projektů. Zkouška probíhá nejprve písemnou formou 60 minut, kde student musí vypočítat zadaný příklad, dále musí odpovědět na otázky minimálně z 60%. Poté následuje ústní zkoušení."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:VLK, František. 2005. Zkoušení a diagnostika motorových vozidel: výkon vozidla, brzdné vlastnosti, převodová ústrojí, řízení, geometrie kol, tlumiče a pružiny, řiditelnost a ovladatelnost, životní zkoušky, motor, zapalování, elektronické systémy. 2. vyd. Brno: František Vlk, 576 s. ISBN 80-239-3717-0. Engine testing theory and practice. 2007. 3. vyd. Oxford: Burlington, MA, 442 s. ISBN 978-0-7680-1850-9.VLK, František. 2003. Dynamika motorových vozidel. 2. vyd. Brno: František Vlk, 432 s. ISBN 80-239-0024-2.Doporučená:ČUPERA, Jiří; ŠTĚRBA, Pavel. 2007. Automobily - Diagnostika motorových vozidel I. 1. vyd. Brno: Avid, s.r.o., Brno, 195 s. 7. ISBN 978-80-903671-9-7.ŠTĚRBA, Pavel; ČUPERA, Jiří; POLCAR, Adam. 2011. Automobily - Diagnostika motorových vozidel II. 1. vyd. Brno: Avid, s.r.o., 181 s. ISBN 978-80-87143-19-3."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "VLK, František. 2005. Zkoušení a diagnostika motorových vozidel: výkon vozidla, brzdné vlastnosti, převodová ústrojí, řízení, geometrie kol, tlumiče a pružiny, řiditelnost a ovladatelnost, životní zkoušky, motor, zapalování, elektronické systémy. 2. vyd. Brno: František Vlk, 576 s. ISBN 80-239-3717-0. Engine testing theory and practice. 2007. 3. vyd. Oxford: Burlington, MA, 442 s. ISBN 978-0-7680-1850-9.VLK, František. 2003. Dynamika motorových vozidel. 2. vyd. Brno: František Vlk, 432 s. ISBN 80-239-0024-2."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "ČUPERA, Jiří; ŠTĚRBA, Pavel. 2007. Automobily - Diagnostika motorových vozidel I. 1. vyd. Brno: Avid, s.r.o., Brno, 195 s. 7. ISBN 978-80-903671-9-7.ŠTĚRBA, Pavel; ČUPERA, Jiří; POLCAR, Adam. 2011. Automobily - Diagnostika motorových vozidel II. 1. vyd. Brno: Avid, s.r.o., 181 s. ISBN 978-80-87143-19-3."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-PTE Provoz techniky, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ZMOVZ"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Zkoušení motorových vozidel"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Motor Vehicle Testing"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Jiří Čupera, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Technology and Automobile Transport (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Jiří Čupera, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Motor Vehicles II"
+    },
+    {
+      "label": "1.",
+      "content": "Processes of measurement, data analysis, errors of measurement (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Definition of measurement."
+    },
+    {
+      "label": "b.",
+      "content": "Instrumentation of measurement."
+    },
+    {
+      "label": "c.",
+      "content": "Errors of measurement determination."
+    },
+    {
+      "label": "d.",
+      "content": "Data analysis, processing, graphs and charts in technical presentations."
+    },
+    {
+      "label": "2.",
+      "content": "Methods of measurement of physical quantities relevant to the testing of vehicles (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic principles of measurement."
+    },
+    {
+      "label": "b.",
+      "content": "Sensors used in testing."
+    },
+    {
+      "label": "c.",
+      "content": "Negative effects in testing (vibration, sound noise)"
+    },
+    {
+      "label": "3.",
+      "content": "Vehicle chassis testing (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Axles testing."
+    },
+    {
+      "label": "b.",
+      "content": "Methods of measurement of suspension and steering"
+    },
+    {
+      "label": "c.",
+      "content": "Brake tests."
+    },
+    {
+      "label": "d.",
+      "content": "Testing procedures of electronic brake systems."
+    },
+    {
+      "label": "4.",
+      "content": "Drive characteristics (allowance 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Drive restistances."
+    },
+    {
+      "label": "b.",
+      "content": "Measurement of drive limits - slip etc."
+    },
+    {
+      "label": "c.",
+      "content": "Drive model and its validation."
+    },
+    {
+      "label": "5.",
+      "content": "Test beds used for powertrain testing (allowance 4/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Engine characteristics."
+    },
+    {
+      "label": "b.",
+      "content": "Methods of measurement, steady, dynamic, tranzient."
+    },
+    {
+      "label": "c.",
+      "content": "Engine dynamometers."
+    },
+    {
+      "label": "d.",
+      "content": "Chassis dynamometers."
+    },
+    {
+      "label": "6.",
+      "content": "Transmission testing (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Control processes of transmission testing."
+    },
+    {
+      "label": "b.",
+      "content": "Methods of testing of traction systems."
+    },
+    {
+      "label": "c.",
+      "content": "Tire testing."
+    },
+    {
+      "label": "7.",
+      "content": "Safety and comfort systems testing (allowance 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Testing of passive safety."
+    },
+    {
+      "label": "b.",
+      "content": "Crash tests, procedures and evaluation."
+    },
+    {
+      "label": "c.",
+      "content": "Testing of comfort system, lighting."
+    },
+    {
+      "label": "8.",
+      "content": "Simulation and virtual instrumentation (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Simulation of vehicle systems and true response."
+    },
+    {
+      "label": "b.",
+      "content": "Virtual instrumentation."
+    },
+    {
+      "label": "c.",
+      "content": "Introduction into LabVIEW."
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2020/2021, SS 2019/2020, SS 2018/2019 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Zkoušení motorových vozidel"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Motor Vehicle Testing"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Jiří Čupera, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Technology and Automobile Transport (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Jiří Čupera, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Motor Vehicles II"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday11.00-12.50R204J. ČuperaLectureEvery week30Thursday13.00-14.50R204J. ČuperaSeminarEvery week30"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim is to gain knowledge and practical skills in measuring and testing parameters of motor vehicles. The emphasis is on practical exercises and the ability to flexibly access the various measuring tasks."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Processes of measurement, data analysis, errors of measurement (allowance 2/4) a.Definition of measurement.b.Instrumentation of measurement.c.Errors of measurement determination.d.Data analysis, processing, graphs and charts in technical presentations.2.Methods of measurement of physical quantities relevant to the testing of vehicles (allowance 4/4) a.Basic principles of measurement.b.Sensors used in testing.c.Negative effects in testing (vibration, sound noise)3.Vehicle chassis testing (allowance 4/4) a.Axles testing.b.Methods of measurement of suspension and steeringc.Brake tests.d.Testing procedures of electronic brake systems.4.Drive characteristics (allowance 2/6) a.Drive restistances.b.Measurement of drive limits - slip etc.c.Drive model and its validation.5.Test beds used for powertrain testing (allowance 4/8) a.Engine characteristics.b.Methods of measurement, steady, dynamic, tranzient.c.Engine dynamometers.d.Chassis dynamometers.6.Transmission testing (allowance 2/2) a.Control processes of transmission testing.b.Methods of testing of traction systems.c.Tire testing.7.Safety and comfort systems testing (allowance 4/2) a.Testing of passive safety.b.Crash tests, procedures and evaluation.c.Testing of comfort system, lighting.8.Simulation and virtual instrumentation (allowance 2/4) a.Simulation of vehicle systems and true response.b.Virtual instrumentation.c.Introduction into LabVIEW."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Definition of measurement.b.Instrumentation of measurement.c.Errors of measurement determination.d.Data analysis, processing, graphs and charts in technical presentations."
+    },
+    {
+      "label": "[section] Processes of measurement, data analysis, errors of measurement",
+      "content": "a.Definition of measurement.b.Instrumentation of measurement.c.Errors of measurement determination.d.Data analysis, processing, graphs and charts in technical presentations."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Basic principles of measurement.b.Sensors used in testing.c.Negative effects in testing (vibration, sound noise)"
+    },
+    {
+      "label": "[section] Methods of measurement of physical quantities relevant to the testing of vehicles",
+      "content": "a.Basic principles of measurement.b.Sensors used in testing.c.Negative effects in testing (vibration, sound noise)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Axles testing.b.Methods of measurement of suspension and steeringc.Brake tests.d.Testing procedures of electronic brake systems."
+    },
+    {
+      "label": "[section] Vehicle chassis testing",
+      "content": "a.Axles testing.b.Methods of measurement of suspension and steeringc.Brake tests.d.Testing procedures of electronic brake systems."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Drive restistances.b.Measurement of drive limits - slip etc.c.Drive model and its validation."
+    },
+    {
+      "label": "[section] Drive characteristics",
+      "content": "a.Drive restistances.b.Measurement of drive limits - slip etc.c.Drive model and its validation."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Engine characteristics.b.Methods of measurement, steady, dynamic, tranzient.c.Engine dynamometers.d.Chassis dynamometers."
+    },
+    {
+      "label": "[section] Test beds used for powertrain testing",
+      "content": "a.Engine characteristics.b.Methods of measurement, steady, dynamic, tranzient.c.Engine dynamometers.d.Chassis dynamometers."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Control processes of transmission testing.b.Methods of testing of traction systems.c.Tire testing."
+    },
+    {
+      "label": "[section] Transmission testing",
+      "content": "a.Control processes of transmission testing.b.Methods of testing of traction systems.c.Tire testing."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Testing of passive safety.b.Crash tests, procedures and evaluation.c.Testing of comfort system, lighting."
+    },
+    {
+      "label": "[section] Safety and comfort systems testing",
+      "content": "a.Testing of passive safety.b.Crash tests, procedures and evaluation.c.Testing of comfort system, lighting."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Simulation of vehicle systems and true response.b.Virtual instrumentation.c.Introduction into LabVIEW."
+    },
+    {
+      "label": "[section] Simulation and virtual instrumentation",
+      "content": "a.Simulation of vehicle systems and true response.b.Virtual instrumentation.c.Introduction into LabVIEW."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture24 hpractice12 hlaboratory work20 hpreparation for exam30 hpreparation for regular assessment10 hpreparation for regular testing12 helaboration of reports8 helaboration and execution of projects12 hwriting of seminar paper12 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "To meet the requirements for credit is needed participation at seminars, completion of the interim written tests of 80%, and preparing two semester projects. The exam is in written form (60 minutes), where the student has to solve an example related to vehicle testing, as well as to answer questions from at least 60%. Next step in examination procedures is oral."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:VLK, František. 2005. Zkoušení a diagnostika motorových vozidel: výkon vozidla, brzdné vlastnosti, převodová ústrojí, řízení, geometrie kol, tlumiče a pružiny, řiditelnost a ovladatelnost, životní zkoušky, motor, zapalování, elektronické systémy. 2nd ed. Brno: František Vlk, 576 p. ISBN 80-239-3717-0. Engine testing theory and practice. 2007. 3rd ed. Oxford: Burlington, MA, 442 p. ISBN 978-0-7680-1850-9.VLK, František. 2003. Dynamika motorových vozidel. 2nd ed. Brno: František Vlk, 432 p. ISBN 80-239-0024-2.Recommended:ČUPERA, Jiří; ŠTĚRBA, Pavel. 2007. Automobily - Diagnostika motorových vozidel I. 1st ed. Brno: Avid, s.r.o., Brno, 195 p. 7. ISBN 978-80-903671-9-7.ŠTĚRBA, Pavel; ČUPERA, Jiří; POLCAR, Adam. 2011. Automobily - Diagnostika motorových vozidel II. 1st ed. Brno: Avid, s.r.o., 181 p. ISBN 978-80-87143-19-3."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "VLK, František. 2005. Zkoušení a diagnostika motorových vozidel: výkon vozidla, brzdné vlastnosti, převodová ústrojí, řízení, geometrie kol, tlumiče a pružiny, řiditelnost a ovladatelnost, životní zkoušky, motor, zapalování, elektronické systémy. 2nd ed. Brno: František Vlk, 576 p. ISBN 80-239-3717-0. Engine testing theory and practice. 2007. 3rd ed. Oxford: Burlington, MA, 442 p. ISBN 978-0-7680-1850-9.VLK, František. 2003. Dynamika motorových vozidel. 2nd ed. Brno: František Vlk, 432 p. ISBN 80-239-0024-2."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "ČUPERA, Jiří; ŠTĚRBA, Pavel. 2007. Automobily - Diagnostika motorových vozidel I. 1st ed. Brno: Avid, s.r.o., Brno, 195 p. 7. ISBN 978-80-903671-9-7.ŠTĚRBA, Pavel; ČUPERA, Jiří; POLCAR, Adam. 2011. Automobily - Diagnostika motorových vozidel II. 1st ed. Brno: Avid, s.r.o., 181 p. ISBN 978-80-87143-19-3."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-PTE Agricultural Machinery, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:46:59",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

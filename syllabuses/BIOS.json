@@ -1,0 +1,889 @@
+{
+  "courseCode": "BIOS",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "BIOS"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Biostatistika"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Biostatistics"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Během mobility bude výuka probíhat formou samostudia doporučené literatury a vypracováním samostatných cvičení na probíraná témata. Studenti obdrží pokyny a materiály na podporu svého samostatného studia. Pravidelné konzultace s vyučujícím budou k dispozici pro zodpovězení dotazů a zajištění pokroku."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Mgr. Jan Šipoš, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav zoologie, rybářství a hydrobiologie (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Mgr. Jan Šipoš, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Základy statistického uvažování (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Populace (základní soubor)"
+    },
+    {
+      "label": "b.",
+      "content": "Výběr (reprezentativní část)"
+    },
+    {
+      "label": "c.",
+      "content": "Plánování pokusu"
+    },
+    {
+      "label": "2.",
+      "content": "Rozdělení náhodné veličiny (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Rozdělení dat"
+    },
+    {
+      "label": "b.",
+      "content": "Rozdělení pravděpodobnosti"
+    },
+    {
+      "label": "3.",
+      "content": "Základní rozdělení náhodné veličiny (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Gaussovo rozdělení"
+    },
+    {
+      "label": "b.",
+      "content": "Poissonovo rozdělení"
+    },
+    {
+      "label": "c.",
+      "content": "Binomické rozdělení"
+    },
+    {
+      "label": "4.",
+      "content": "Statistické rozhodování (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Nulová hypotéza"
+    },
+    {
+      "label": "b.",
+      "content": "Testová statistika"
+    },
+    {
+      "label": "c.",
+      "content": "Kritická hodnota"
+    },
+    {
+      "label": "5.",
+      "content": "Základní statistické testy a modely (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Testy hypotézy o střední hodnotě"
+    },
+    {
+      "label": "b.",
+      "content": "Analýza variance"
+    },
+    {
+      "label": "c.",
+      "content": "Korelace a regrese"
+    },
+    {
+      "label": "6.",
+      "content": "Obecný úvod do práce se statistickým softwarem R (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Vysvětlení grafického rozhraní"
+    },
+    {
+      "label": "b.",
+      "content": "Vysvětlení syntaxe jazyka"
+    },
+    {
+      "label": "7.",
+      "content": "Problematika obecných lineárních a zobecněných lineárních modelů (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Struktura modelu (lineární prediktor, link funkce, rozdělení reziduálů)"
+    },
+    {
+      "label": "b.",
+      "content": "Metody odhadu (nejmenší čtverce, maximální věrohodnost)"
+    },
+    {
+      "label": "8.",
+      "content": "Úvod do explorativní analýzy dat (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Problematika validace modelu"
+    },
+    {
+      "label": "b.",
+      "content": "Problematika interpretace modelu"
+    },
+    {
+      "label": "c.",
+      "content": "Vizualizace dat"
+    },
+    {
+      "label": "9.",
+      "content": "Využití GLM modelů s poissonovým a negativně binomickým rozdělením dat (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Struktura modelu"
+    },
+    {
+      "label": "b.",
+      "content": "Ověření modelu"
+    },
+    {
+      "label": "10.",
+      "content": "Využití GLM modelů s binomickým a Gamma rozdělením dat (dotace 0/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Problematika nedostatečné a nadměrné disperze v GLM modelech (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Disperzní statistika"
+    },
+    {
+      "label": "b.",
+      "content": "Disperzní parametr"
+    },
+    {
+      "label": "12.",
+      "content": "Řešení prostorové a časové závislosti dat v GLM modelech (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Zobecněné nejmenší čtverce"
+    },
+    {
+      "label": "b.",
+      "content": "Kovarianční struktura"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "50 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "50 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Biostatistika"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Biostatistics"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Během mobility bude výuka probíhat formou samostudia doporučené literatury a vypracováním samostatných cvičení na probíraná témata. Studenti obdrží pokyny a materiály na podporu svého samostatného studia. Pravidelné konzultace s vyučujícím budou k dispozici pro zodpovězení dotazů a zajištění pokroku."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Mgr. Jan Šipoš, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav zoologie, rybářství a hydrobiologie (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Mgr. Jan Šipoš, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek11.00-12.50M1.10J. ŠipošCvičeníKaždý týden16"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět Biostatistika je zaměřen na osvojení základních statistických konceptů a metod, včetně pravděpodobnostních rozdělení, statistického rozhodování a základních testů (ANOVA, t-test). Výuka dále zahrnuje praktickou aplikaci zobecněných lineárních modelů a validaci statistických analýz v programu R, s důrazem na porozumění a interpretaci výsledků."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Základy statistického uvažování (dotace 0/2) a.Populace (základní soubor)b.Výběr (reprezentativní část)c.Plánování pokusu2.Rozdělení náhodné veličiny (dotace 0/2) a.Rozdělení datb.Rozdělení pravděpodobnosti3.Základní rozdělení náhodné veličiny (dotace 0/2) a.Gaussovo rozděleníb.Poissonovo rozděleníc.Binomické rozdělení4.Statistické rozhodování (dotace 0/2) a.Nulová hypotézab.Testová statistikac.Kritická hodnota5.Základní statistické testy a modely (dotace 0/2) a.Testy hypotézy o střední hodnotěb.Analýza variancec.Korelace a regrese6.Obecný úvod do práce se statistickým softwarem R (dotace 0/2) a.Vysvětlení grafického rozhraníb.Vysvětlení syntaxe jazyka7.Problematika obecných lineárních a zobecněných lineárních modelů (dotace 0/2) a.Struktura modelu (lineární prediktor, link funkce, rozdělení reziduálů)b.Metody odhadu (nejmenší čtverce, maximální věrohodnost)8.Úvod do explorativní analýzy dat (dotace 0/2) a.Problematika validace modelub.Problematika interpretace modeluc.Vizualizace dat9.Využití GLM modelů s poissonovým a negativně binomickým rozdělením dat (dotace 0/2) a.Struktura modelub.Ověření modelu10.Využití GLM modelů s binomickým a Gamma rozdělením dat (dotace 0/2) a.Struktura modelub.Ověření modelu11.Problematika nedostatečné a nadměrné disperze v GLM modelech (dotace 0/2) a.Disperzní statistikab.Disperzní parametr12.Řešení prostorové a časové závislosti dat v GLM modelech (dotace 0/2) a.Zobecněné nejmenší čtverceb.Kovarianční struktura"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Populace (základní soubor)b.Výběr (reprezentativní část)c.Plánování pokusu"
+    },
+    {
+      "label": "[section] Základy statistického uvažování",
+      "content": "a.Populace (základní soubor)b.Výběr (reprezentativní část)c.Plánování pokusu"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Rozdělení datb.Rozdělení pravděpodobnosti"
+    },
+    {
+      "label": "[section] Rozdělení náhodné veličiny",
+      "content": "a.Rozdělení datb.Rozdělení pravděpodobnosti"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Gaussovo rozděleníb.Poissonovo rozděleníc.Binomické rozdělení"
+    },
+    {
+      "label": "[section] Základní rozdělení náhodné veličiny",
+      "content": "a.Gaussovo rozděleníb.Poissonovo rozděleníc.Binomické rozdělení"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Nulová hypotézab.Testová statistikac.Kritická hodnota"
+    },
+    {
+      "label": "[section] Statistické rozhodování",
+      "content": "a.Nulová hypotézab.Testová statistikac.Kritická hodnota"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Testy hypotézy o střední hodnotěb.Analýza variancec.Korelace a regrese"
+    },
+    {
+      "label": "[section] Základní statistické testy a modely",
+      "content": "a.Testy hypotézy o střední hodnotěb.Analýza variancec.Korelace a regrese"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Vysvětlení grafického rozhraníb.Vysvětlení syntaxe jazyka"
+    },
+    {
+      "label": "[section] Obecný úvod do práce se statistickým softwarem R",
+      "content": "a.Vysvětlení grafického rozhraníb.Vysvětlení syntaxe jazyka"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Struktura modelu (lineární prediktor, link funkce, rozdělení reziduálů)b.Metody odhadu (nejmenší čtverce, maximální věrohodnost)"
+    },
+    {
+      "label": "[section] Problematika obecných lineárních a zobecněných lineárních modelů",
+      "content": "a.Struktura modelu (lineární prediktor, link funkce, rozdělení reziduálů)b.Metody odhadu (nejmenší čtverce, maximální věrohodnost)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Problematika validace modelub.Problematika interpretace modeluc.Vizualizace dat"
+    },
+    {
+      "label": "[section] Úvod do explorativní analýzy dat",
+      "content": "a.Problematika validace modelub.Problematika interpretace modeluc.Vizualizace dat"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Struktura modelub.Ověření modelu"
+    },
+    {
+      "label": "[section] Využití GLM modelů s poissonovým a negativně binomickým rozdělením dat",
+      "content": "a.Struktura modelub.Ověření modelu"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Struktura modelub.Ověření modelu"
+    },
+    {
+      "label": "[section] Využití GLM modelů s binomickým a Gamma rozdělením dat",
+      "content": "a.Struktura modelub.Ověření modelu"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Disperzní statistikab.Disperzní parametr"
+    },
+    {
+      "label": "[section] Problematika nedostatečné a nadměrné disperze v GLM modelech",
+      "content": "a.Disperzní statistikab.Disperzní parametr"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Zobecněné nejmenší čtverceb.Kovarianční struktura"
+    },
+    {
+      "label": "[section] Řešení prostorové a časové závislosti dat v GLM modelech",
+      "content": "a.Zobecněné nejmenší čtverceb.Kovarianční struktura"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumcvičení24 hpříprava na zkoušku95 hpříprava na průběžné hodnocení40 hCelkem159 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Povinná účast na cvičení; předmět je ukončen praktickou zkouškou na počítači v podobě statistického vyhodnocení dat v programu R. Doba trvání zkoušky bude 60 min., pro úspěšné splnění zkoušky bude nutné dosáhnout minimálně 60 % bodů."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAbsolvování průběžného testu (testů)50 %Absolvování závěrečného testu50 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:PEKÁR, Stanislav; BRABEC, Marek. 2019. Moderní analýza biologických dat. 1. vyd. Brno: Masarykova univerzita, 218 s. ISBN 978-80-210-9277-8.PEKÁR, Stano; BRABEC, Marek. 2012. Moderní analýza biologických dat 2 díl. Brno: Masarykova univerzita, 255 s. ISBN 978-80-210-5812-5.ZVÁRA, Karel. 2003. Biostatistika. 2. vyd. Praha: Karolinum, 213 s. ISBN 80-246-0739-5.LEPŠ, Jan; ŠMILAUER, Petr. 2016. Biostatistika. 1. vyd. České Budějovice: Jihočeská univerzita v Českých Budějovicích, 438 s. Episteme. ISBN 978-80-7394-587-9."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "PEKÁR, Stanislav; BRABEC, Marek. 2019. Moderní analýza biologických dat. 1. vyd. Brno: Masarykova univerzita, 218 s. ISBN 978-80-210-9277-8.PEKÁR, Stano; BRABEC, Marek. 2012. Moderní analýza biologických dat 2 díl. Brno: Masarykova univerzita, 255 s. ISBN 978-80-210-5812-5.ZVÁRA, Karel. 2003. Biostatistika. 2. vyd. Praha: Karolinum, 213 s. ISBN 80-246-0739-5.LEPŠ, Jan; ŠMILAUER, Petr. 2016. Biostatistika. 1. vyd. České Budějovice: Jihočeská univerzita v Českých Budějovicích, 438 s. Episteme. ISBN 978-80-7394-587-9."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-RYB Rybářství a hydrobiologie, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "BIOS"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Biostatistika"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Biostatistics"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "During mobility, the course will be conducted through self-study of the recommended literature and the completion of individual exercises on the covered topics. Students will be provided with guidelines and materials to support their independent learning process. Regular consultation with the course instructor will be available to address questions and ensure progress."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Mgr. Jan Šipoš, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Zoology, Fisheries and Hydrobiology (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Mgr. Jan Šipoš, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "The basics of statistical reasoning (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Population (statistical population)"
+    },
+    {
+      "label": "b.",
+      "content": "Sample (representative subset)"
+    },
+    {
+      "label": "c.",
+      "content": "Experiment design"
+    },
+    {
+      "label": "2.",
+      "content": "Probability distribution of a random variable (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Data distribution"
+    },
+    {
+      "label": "b.",
+      "content": "Probability distribution"
+    },
+    {
+      "label": "3.",
+      "content": "Basic probability distributions of a random variable (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Gaussian distribution (Normal distribution)"
+    },
+    {
+      "label": "b.",
+      "content": "Poisson distribution"
+    },
+    {
+      "label": "c.",
+      "content": "Binomial distribution"
+    },
+    {
+      "label": "4.",
+      "content": "Statistical decision-making (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Null hypothesis"
+    },
+    {
+      "label": "b.",
+      "content": "Test statistic"
+    },
+    {
+      "label": "c.",
+      "content": "Critical value"
+    },
+    {
+      "label": "5.",
+      "content": "Basic statistical tests and models (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Hypothesis tests for the mean value"
+    },
+    {
+      "label": "b.",
+      "content": "Analysis of variance (ANOVA)"
+    },
+    {
+      "label": "c.",
+      "content": "Correlation and regression"
+    },
+    {
+      "label": "6.",
+      "content": "General introduction to working with the R statistical software (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Explanation of the graphical interface"
+    },
+    {
+      "label": "b.",
+      "content": "Explanation of the language syntax"
+    },
+    {
+      "label": "7.",
+      "content": "The issues of general linear and generalized linear models (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Model structure (linear predictor, link function, residuals distribution)"
+    },
+    {
+      "label": "b.",
+      "content": "Estimation methods (least squares, maximum likelihood)"
+    },
+    {
+      "label": "8.",
+      "content": "Introduction to exploratory data analysis (EDA) (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Issues in model validation"
+    },
+    {
+      "label": "b.",
+      "content": "Issues in model interpretation"
+    },
+    {
+      "label": "c.",
+      "content": "Data visualization"
+    },
+    {
+      "label": "9.",
+      "content": "Use of GLM models with Poisson and negative binomial data distributions (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Model structure"
+    },
+    {
+      "label": "b.",
+      "content": "Model validation"
+    },
+    {
+      "label": "10.",
+      "content": "Use of GLM models with binomial and Gamma data distributions (allowance 0/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Issues of underdispersion and overdispersion in GLM models (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Dispersion statistics"
+    },
+    {
+      "label": "b.",
+      "content": "Dispersion parameter"
+    },
+    {
+      "label": "12.",
+      "content": "Addressing spatial and temporal dependence of data in GLM models (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Generalized least squares (GLS)"
+    },
+    {
+      "label": "b.",
+      "content": "Covariance structure"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "50 %"
+    },
+    {
+      "label": "Final test",
+      "content": "50 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Biostatistika"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Biostatistics"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: During mobility, the course will be conducted through self-study of the recommended literature and the completion of individual exercises on the covered topics. Students will be provided with guidelines and materials to support their independent learning process. Regular consultation with the course instructor will be available to address questions and ensure progress."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Mgr. Jan Šipoš, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Zoology, Fisheries and Hydrobiology (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Mgr. Jan Šipoš, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday11.00-12.50M1.10J. ŠipošSeminarEvery week16"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The course Biostatistics is focused on mastering fundamental statistical concepts and methods, including probability distributions, statistical decision-making, and basic tests (ANOVA, t-test). The instruction also covers the practical application of generalized linear models and the validation of statistical analyses in the R programming environment, with an emphasis on understanding and interpreting results."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.The basics of statistical reasoning (allowance 0/2) a.Population (statistical population)b.Sample (representative subset)c.Experiment design2.Probability distribution of a random variable (allowance 0/2) a.Data distributionb.Probability distribution3.Basic probability distributions of a random variable (allowance 0/2) a.Gaussian distribution (Normal distribution)b.Poisson distributionc.Binomial distribution4.Statistical decision-making (allowance 0/2) a.Null hypothesisb.Test statisticc.Critical value5.Basic statistical tests and models (allowance 0/2) a.Hypothesis tests for the mean valueb.Analysis of variance (ANOVA)c.Correlation and regression6.General introduction to working with the R statistical software (allowance 0/2) a.Explanation of the graphical interfaceb.Explanation of the language syntax7.The issues of general linear and generalized linear models (allowance 0/2) a.Model structure (linear predictor, link function, residuals distribution)b.Estimation methods (least squares, maximum likelihood)8.Introduction to exploratory data analysis (EDA) (allowance 0/2) a.Issues in model validationb.Issues in model interpretationc.Data visualization9.Use of GLM models with Poisson and negative binomial data distributions (allowance 0/2) a.Model structureb.Model validation10.Use of GLM models with binomial and Gamma data distributions (allowance 0/2) a.Model structureb.Model validation11.Issues of underdispersion and overdispersion in GLM models (allowance 0/2) a.Dispersion statisticsb.Dispersion parameter12.Addressing spatial and temporal dependence of data in GLM models (allowance 0/2) a.Generalized least squares (GLS)b.Covariance structure"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Population (statistical population)b.Sample (representative subset)c.Experiment design"
+    },
+    {
+      "label": "[section] The basics of statistical reasoning",
+      "content": "a.Population (statistical population)b.Sample (representative subset)c.Experiment design"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Data distributionb.Probability distribution"
+    },
+    {
+      "label": "[section] Probability distribution of a random variable",
+      "content": "a.Data distributionb.Probability distribution"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Gaussian distribution (Normal distribution)b.Poisson distributionc.Binomial distribution"
+    },
+    {
+      "label": "[section] Basic probability distributions of a random variable",
+      "content": "a.Gaussian distribution (Normal distribution)b.Poisson distributionc.Binomial distribution"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Null hypothesisb.Test statisticc.Critical value"
+    },
+    {
+      "label": "[section] Statistical decision-making",
+      "content": "a.Null hypothesisb.Test statisticc.Critical value"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Hypothesis tests for the mean valueb.Analysis of variance (ANOVA)c.Correlation and regression"
+    },
+    {
+      "label": "[section] Basic statistical tests and models",
+      "content": "a.Hypothesis tests for the mean valueb.Analysis of variance (ANOVA)c.Correlation and regression"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Explanation of the graphical interfaceb.Explanation of the language syntax"
+    },
+    {
+      "label": "[section] General introduction to working with the R statistical software",
+      "content": "a.Explanation of the graphical interfaceb.Explanation of the language syntax"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Model structure (linear predictor, link function, residuals distribution)b.Estimation methods (least squares, maximum likelihood)"
+    },
+    {
+      "label": "[section] The issues of general linear and generalized linear models",
+      "content": "a.Model structure (linear predictor, link function, residuals distribution)b.Estimation methods (least squares, maximum likelihood)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Issues in model validationb.Issues in model interpretationc.Data visualization"
+    },
+    {
+      "label": "[section] Introduction to exploratory data analysis (EDA)",
+      "content": "a.Issues in model validationb.Issues in model interpretationc.Data visualization"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Model structureb.Model validation"
+    },
+    {
+      "label": "[section] Use of GLM models with Poisson and negative binomial data distributions",
+      "content": "a.Model structureb.Model validation"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Model structureb.Model validation"
+    },
+    {
+      "label": "[section] Use of GLM models with binomial and Gamma data distributions",
+      "content": "a.Model structureb.Model validation"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Dispersion statisticsb.Dispersion parameter"
+    },
+    {
+      "label": "[section] Issues of underdispersion and overdispersion in GLM models",
+      "content": "a.Dispersion statisticsb.Dispersion parameter"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Generalized least squares (GLS)b.Covariance structure"
+    },
+    {
+      "label": "[section] Addressing spatial and temporal dependence of data in GLM models",
+      "content": "a.Generalized least squares (GLS)b.Covariance structure"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancepractice24 hpreparation for exam95 hpreparation for regular assessment40 hTotal159 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Attendance at practical sessions is mandatory; the course is concluded with a practical computer-based exam involving statistical data analysis in the R program. The exam duration will be 60 minutes, and a minimum score of 60% is required to pass."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceMid-term test(s)50 %Final test50 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:PEKÁR, Stanislav; BRABEC, Marek. 2019. Moderní analýza biologických dat. 1st ed. Brno: Masarykova univerzita, 218 p. ISBN 978-80-210-9277-8.PEKÁR, Stano; BRABEC, Marek. 2012. Moderní analýza biologických dat 2 díl. Brno: Masarykova univerzita, 255 p. ISBN 978-80-210-5812-5.ZVÁRA, Karel. 2003. Biostatistika. 2nd ed. Praha: Karolinum, 213 p. ISBN 80-246-0739-5.LEPŠ, Jan; ŠMILAUER, Petr. 2016. Biostatistika. 1st ed. České Budějovice: Jihočeská univerzita v Českých Budějovicích, 438 p. Episteme. ISBN 978-80-7394-587-9."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "PEKÁR, Stanislav; BRABEC, Marek. 2019. Moderní analýza biologických dat. 1st ed. Brno: Masarykova univerzita, 218 p. ISBN 978-80-210-9277-8.PEKÁR, Stano; BRABEC, Marek. 2012. Moderní analýza biologických dat 2 díl. Brno: Masarykova univerzita, 255 p. ISBN 978-80-210-5812-5.ZVÁRA, Karel. 2003. Biostatistika. 2nd ed. Praha: Karolinum, 213 p. ISBN 80-246-0739-5.LEPŠ, Jan; ŠMILAUER, Petr. 2016. Biostatistika. 1st ed. České Budějovice: Jihočeská univerzita v Českých Budějovicích, 438 p. Episteme. ISBN 978-80-7394-587-9."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-RYB Fisheries and Hydrobiology, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:18:26",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

@@ -1,0 +1,801 @@
+{
+  "courseCode": "VYTAS",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "VYTAS"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Výpočetní technika a aplikovaná statistika"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Computer Technology and applied statistics"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět je možné studovat během zahraniční mobility. Předpokladem je vysoká míra samostudia. Z praktických cvičení budou vypracovány seminární z práce pěti jednotlivých úloh doplněné samostudiem z prezentací uveřejněných v týmu předmětu Microsoft Teams, jejichž příprava bude z hlediska časové zátěže odpovídat dotaci na cvičení v případě prezenčního studia."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Miroslav Vachůn, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Mendeleum - ústav genetiky (ZF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Zahradnická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Miroslav Vachůn, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "AKR19"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do studia a definování statistiky. (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní statistické pojmy (jednotka, soubor, znaky). Etapy statistické práce (zjišťování, zpracování, analýza)."
+    },
+    {
+      "label": "b.",
+      "content": "Statistické vyjadřovací formy (statistické řady, tabulky, grafy)."
+    },
+    {
+      "label": "c.",
+      "content": "Třídění (včetně variačního třídění)."
+    },
+    {
+      "label": "d.",
+      "content": "Postup při využití Microsoft Excel."
+    },
+    {
+      "label": "2.",
+      "content": "Střední hodnoty a míry variace. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Průměry (aritmetický, harmonický, geometrický)."
+    },
+    {
+      "label": "b.",
+      "content": "Medián, modus."
+    },
+    {
+      "label": "c.",
+      "content": "Míry variace - rozptyl, směrodatná odchylka, variační koeficient. Míry šikmosti a špičatosti."
+    },
+    {
+      "label": "3.",
+      "content": "Regresní a korelační analýza. (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Metoda minimálních čtverců."
+    },
+    {
+      "label": "b.",
+      "content": "Jednoduchá lineární závislost (regresní přímky, koeficient korelace, regresní koeficienty)."
+    },
+    {
+      "label": "c.",
+      "content": "Jednoduchá nelineární závislost (regresní křivky, index korelace), vícenásobná a dílčí korelační závislost. Asociace a kontingence."
+    },
+    {
+      "label": "d.",
+      "content": "Modelování regresní analýzy v prostředí Microsoft Excel."
+    },
+    {
+      "label": "4.",
+      "content": "Výběrové metody a náhodná veličina (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní typy rozdělení a charakteristiky náhodné veličiny."
+    },
+    {
+      "label": "b.",
+      "content": "Podstata a druhy výběru, náhodný výběr, směrodatná a přípustná chyba, stanovení rozsahu výběru."
+    },
+    {
+      "label": "c.",
+      "content": "Výpočty výběrových charakteristik v Microsoft Excel."
+    },
+    {
+      "label": "5.",
+      "content": "Statistický odhad (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Bodový a intervalový, intervaly spolehlivosti základních charakteristik."
+    },
+    {
+      "label": "b.",
+      "content": "Interval a pás spolehlivosti regresní funkce."
+    },
+    {
+      "label": "c.",
+      "content": "Statistický odhad v prostředí Microsoft Excel."
+    },
+    {
+      "label": "6.",
+      "content": "Testování statistických hypotéz - postup při testování a možné chyby. (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Testy o parametrech základního souboru, základní postupy."
+    },
+    {
+      "label": "b.",
+      "content": "Parametrické testy v prostředí Microsoft Excel."
+    },
+    {
+      "label": "7.",
+      "content": "Analýza variance jednofaktorová a vícefaktorová (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Základy analýzy variance."
+    },
+    {
+      "label": "b.",
+      "content": "Uspořádání dat pro Microsoft Excel"
+    },
+    {
+      "label": "c.",
+      "content": "Analýza rozptylu v prostředí Microsoft Excel."
+    },
+    {
+      "label": "d.",
+      "content": "Následné testování s využitím Microsoft Excel."
+    },
+    {
+      "label": "8.",
+      "content": "Neparametrické testy. (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Typy neparametrických testů a jejich využití."
+    },
+    {
+      "label": "b.",
+      "content": "Vybrané neparametrické testy."
+    },
+    {
+      "label": "9.",
+      "content": "Zpracování výsledků experimentu v aplikacích Microsoft Office (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Grafické a tabelární výstupy analýz a jejich použití, formátování v prostředí Microsoft Office."
+    },
+    {
+      "label": "b.",
+      "content": "Propojení výstupů v Microsoft Excel s Microsoft Word a Powerpoint"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, ZS 2022/2023, LS 2021/2022, LS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Lednice"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Výpočetní technika a aplikovaná statistika"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Computer Technology and applied statistics"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat během zahraniční mobility. Předpokladem je vysoká míra samostudia. Z praktických cvičení budou vypracovány seminární z práce pěti jednotlivých úloh doplněné samostudiem z prezentací uveřejněných v týmu předmětu Microsoft Teams, jejichž příprava bude z hlediska časové zátěže odpovídat dotaci na cvičení v případě prezenčního studia."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Miroslav Vachůn, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Mendeleum - ústav genetiky (ZF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Zahradnická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Miroslav Vachůn, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: AKR19"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý8.00-8.50ZFAC1 (Led)M. VachůnPřednáškaKaždý týden47Úterý11.00-12.50ZFC13 (Led)M. VachůnCvičeníKaždý týden26Úterý15.00-16.50ZFC13 (Led)M. VachůnCvičeníKaždý týden27Pátek14.00-18.50ZFAA1 (Led)M. VachůnPřednáškaNepravidelně42"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Získat znalosti základních statistických metod na základě vědomostí získaných v oblasti Aplikované matematiky s využitím základního kancelářského softwaru Microsoft Office včetně grafické prezentace. Naučit posluchače chápat statistiku v širším kontextu hodnocení biologického experimentu."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do studia a definování statistiky. (dotace 2/0) a.Základní statistické pojmy (jednotka, soubor, znaky). Etapy statistické práce (zjišťování, zpracování, analýza).b.Statistické vyjadřovací formy (statistické řady, tabulky, grafy).c.Třídění (včetně variačního třídění).d.Postup při využití Microsoft Excel.2.Střední hodnoty a míry variace. (dotace 2/2) a.Průměry (aritmetický, harmonický, geometrický).b.Medián, modus.c.Míry variace - rozptyl, směrodatná odchylka, variační koeficient. Míry šikmosti a špičatosti.3.Regresní a korelační analýza. (dotace 2/6) a.Metoda minimálních čtverců.b.Jednoduchá lineární závislost (regresní přímky, koeficient korelace, regresní koeficienty).c.Jednoduchá nelineární závislost (regresní křivky, index korelace), vícenásobná a dílčí korelační závislost. Asociace a kontingence.d.Modelování regresní analýzy v prostředí Microsoft Excel.4.Výběrové metody a náhodná veličina (dotace 2/2) a.Základní typy rozdělení a charakteristiky náhodné veličiny.b.Podstata a druhy výběru, náhodný výběr, směrodatná a přípustná chyba, stanovení rozsahu výběru.c.Výpočty výběrových charakteristik v Microsoft Excel.5.Statistický odhad (dotace 2/4) a.Bodový a intervalový, intervaly spolehlivosti základních charakteristik.b.Interval a pás spolehlivosti regresní funkce.c.Statistický odhad v prostředí Microsoft Excel.6.Testování statistických hypotéz - postup při testování a možné chyby. (dotace 2/4) a.Testy o parametrech základního souboru, základní postupy.b.Parametrické testy v prostředí Microsoft Excel.7.Analýza variance jednofaktorová a vícefaktorová (dotace 2/4) a.Základy analýzy variance.b.Uspořádání dat pro Microsoft Excelc.Analýza rozptylu v prostředí Microsoft Excel.d.Následné testování s využitím Microsoft Excel.8.Neparametrické testy. (dotace 0/2) a.Typy neparametrických testů a jejich využití.b.Vybrané neparametrické testy.9.Zpracování výsledků experimentu v aplikacích Microsoft Office (dotace 0/2) a.Grafické a tabelární výstupy analýz a jejich použití, formátování v prostředí Microsoft Office.b.Propojení výstupů v Microsoft Excel s Microsoft Word a Powerpoint"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Základní statistické pojmy (jednotka, soubor, znaky). Etapy statistické práce (zjišťování, zpracování, analýza).b.Statistické vyjadřovací formy (statistické řady, tabulky, grafy).c.Třídění (včetně variačního třídění).d.Postup při využití Microsoft Excel."
+    },
+    {
+      "label": "[section] Úvod do studia a definování statistiky.",
+      "content": "a.Základní statistické pojmy (jednotka, soubor, znaky). Etapy statistické práce (zjišťování, zpracování, analýza).b.Statistické vyjadřovací formy (statistické řady, tabulky, grafy).c.Třídění (včetně variačního třídění).d.Postup při využití Microsoft Excel."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Průměry (aritmetický, harmonický, geometrický).b.Medián, modus.c.Míry variace - rozptyl, směrodatná odchylka, variační koeficient. Míry šikmosti a špičatosti."
+    },
+    {
+      "label": "[section] Střední hodnoty a míry variace.",
+      "content": "a.Průměry (aritmetický, harmonický, geometrický).b.Medián, modus.c.Míry variace - rozptyl, směrodatná odchylka, variační koeficient. Míry šikmosti a špičatosti."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Metoda minimálních čtverců.b.Jednoduchá lineární závislost (regresní přímky, koeficient korelace, regresní koeficienty).c.Jednoduchá nelineární závislost (regresní křivky, index korelace), vícenásobná a dílčí korelační závislost. Asociace a kontingence.d.Modelování regresní analýzy v prostředí Microsoft Excel."
+    },
+    {
+      "label": "[section] Regresní a korelační analýza.",
+      "content": "a.Metoda minimálních čtverců.b.Jednoduchá lineární závislost (regresní přímky, koeficient korelace, regresní koeficienty).c.Jednoduchá nelineární závislost (regresní křivky, index korelace), vícenásobná a dílčí korelační závislost. Asociace a kontingence.d.Modelování regresní analýzy v prostředí Microsoft Excel."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Základní typy rozdělení a charakteristiky náhodné veličiny.b.Podstata a druhy výběru, náhodný výběr, směrodatná a přípustná chyba, stanovení rozsahu výběru.c.Výpočty výběrových charakteristik v Microsoft Excel."
+    },
+    {
+      "label": "[section] Výběrové metody a náhodná veličina",
+      "content": "a.Základní typy rozdělení a charakteristiky náhodné veličiny.b.Podstata a druhy výběru, náhodný výběr, směrodatná a přípustná chyba, stanovení rozsahu výběru.c.Výpočty výběrových charakteristik v Microsoft Excel."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Bodový a intervalový, intervaly spolehlivosti základních charakteristik.b.Interval a pás spolehlivosti regresní funkce.c.Statistický odhad v prostředí Microsoft Excel."
+    },
+    {
+      "label": "[section] Statistický odhad",
+      "content": "a.Bodový a intervalový, intervaly spolehlivosti základních charakteristik.b.Interval a pás spolehlivosti regresní funkce.c.Statistický odhad v prostředí Microsoft Excel."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Testy o parametrech základního souboru, základní postupy.b.Parametrické testy v prostředí Microsoft Excel."
+    },
+    {
+      "label": "[section] Testování statistických hypotéz - postup při testování a možné chyby.",
+      "content": "a.Testy o parametrech základního souboru, základní postupy.b.Parametrické testy v prostředí Microsoft Excel."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Základy analýzy variance.b.Uspořádání dat pro Microsoft Excelc.Analýza rozptylu v prostředí Microsoft Excel.d.Následné testování s využitím Microsoft Excel."
+    },
+    {
+      "label": "[section] Analýza variance jednofaktorová a vícefaktorová",
+      "content": "a.Základy analýzy variance.b.Uspořádání dat pro Microsoft Excelc.Analýza rozptylu v prostředí Microsoft Excel.d.Následné testování s využitím Microsoft Excel."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Typy neparametrických testů a jejich využití.b.Vybrané neparametrické testy."
+    },
+    {
+      "label": "[section] Neparametrické testy.",
+      "content": "a.Typy neparametrických testů a jejich využití.b.Vybrané neparametrické testy."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Grafické a tabelární výstupy analýz a jejich použití, formátování v prostředí Microsoft Office.b.Propojení výstupů v Microsoft Excel s Microsoft Word a Powerpoint"
+    },
+    {
+      "label": "[section] Zpracování výsledků experimentu v aplikacích Microsoft Office",
+      "content": "a.Grafické a tabelární výstupy analýz a jejich použití, formátování v prostředí Microsoft Office.b.Propojení výstupů v Microsoft Excel s Microsoft Word a Powerpoint"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška12 h20 hcvičení24 h0 hkonzultace10 h32 hpříprava na zkoušku14 h12 hpříprava na průběžné hodnocení22 h20 hpříprava na průběžný test18 h16 hzpracování protokolů12 h12 hCelkem112 h112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zápočet je podmíněn zpracováním a schválením 5 protokolů. U studentů denního studia navíc účastí na cvičeních min. z 80%, a úspěšných dvou průběžných testů během cvičení. U každého testu musí student denního studia získat min. 50% celkových bodů. Minimální požadavky na splnění zkoušky: Zkouška má dvě části písemnou a ústní. Součástí písemné části je řešení 7 příkladů a 3 otázek. Hodnocení písemné části: A: 90-100% (celkových bodů) B: 80-90% C: 70-80% D: 60-70% E: 50-60% Pro účast na ústní části zkoušky je nutné splnit písemnou část minimálně na 50%. Ústní část se skládá z doplňující otázky z celého předmětu. Celkové hodnocení vychází z obou částí zkoušky (písemné a ústní)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumCelkem0 %0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:BARILLA, Jiří; SIMR, Pavel; SÝKOROVÁ, Květuše. 2016. Microsoft Excel 2016: podrobná uživatelská příručka. 1. vyd. Brno: Computer Press, 456 s. Podrobná uživatelská příručka. ISBN 978-80-251-4838-9.BUDÍKOVÁ, Marie; KRÁLOVÁ, Maria; MAROŠ, Bohumil. 2010. Průvodce základními statistickými metodami. 1. vyd. Praha: Grada, 272 s. Expert. ISBN 978-80-247-3243-5.KRÁL, Mojmír. 2013. PowerPoint 2013: snadno a rychle. 1. vyd. Praha: Grada, 112 s. Snadno a rychle. ISBN 978-80-247-4728-6.MELOUN, Milan; MILITKÝ, Jiří. 2012. Kompendium statistického zpracování dat. 3. vyd. Praha: Karolinum, 982 s. ISBN 978-80-246-2196-8.PECINOVSKÝ, Josef. 2013. Microsoft Office 2013: podrobná uživatelská příručka. 1. vyd. Brno: Computer Press, 496 s. ISBN 978-80-251-4102-1.PECINOVSKÝ, Josef. 2013. Microsoft Word 2013: podrobná uživatelská příručka. 1. vyd. Brno: Computer Press, 367 s. ISBN 978-80-251-3831-1.STÁVKOVÁ, Jana; DUFEK, Jaroslav. 2000. Biometrika. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 178 s. ISBN 80-7157-486-4.Doporučená:HENDL, Jan. 2015. Přehled statistických metod: analýza a metaanalýza dat. Praha: Portál, 734 s. ISBN 978-80-262-0981-2.NAVIDI, W. 2006. Statistics for engineers and scientists. Boston: McGraw-Hill, 869 s. ISBN 0-07-121492-5. Statistické metody v tržním hospodářství. 1995. 1. vyd. Praha: Victoria Publishing, 435 s. ISBN 80-7187-058-7."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "BARILLA, Jiří; SIMR, Pavel; SÝKOROVÁ, Květuše. 2016. Microsoft Excel 2016: podrobná uživatelská příručka. 1. vyd. Brno: Computer Press, 456 s. Podrobná uživatelská příručka. ISBN 978-80-251-4838-9.BUDÍKOVÁ, Marie; KRÁLOVÁ, Maria; MAROŠ, Bohumil. 2010. Průvodce základními statistickými metodami. 1. vyd. Praha: Grada, 272 s. Expert. ISBN 978-80-247-3243-5.KRÁL, Mojmír. 2013. PowerPoint 2013: snadno a rychle. 1. vyd. Praha: Grada, 112 s. Snadno a rychle. ISBN 978-80-247-4728-6.MELOUN, Milan; MILITKÝ, Jiří. 2012. Kompendium statistického zpracování dat. 3. vyd. Praha: Karolinum, 982 s. ISBN 978-80-246-2196-8.PECINOVSKÝ, Josef. 2013. Microsoft Office 2013: podrobná uživatelská příručka. 1. vyd. Brno: Computer Press, 496 s. ISBN 978-80-251-4102-1.PECINOVSKÝ, Josef. 2013. Microsoft Word 2013: podrobná uživatelská příručka. 1. vyd. Brno: Computer Press, 367 s. ISBN 978-80-251-3831-1.STÁVKOVÁ, Jana; DUFEK, Jaroslav. 2000. Biometrika. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 178 s. ISBN 80-7157-486-4."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "HENDL, Jan. 2015. Přehled statistických metod: analýza a metaanalýza dat. Praha: Portál, 734 s. ISBN 978-80-262-0981-2.NAVIDI, W. 2006. Statistics for engineers and scientists. Boston: McGraw-Hill, 869 s. ISBN 0-07-121492-5. Statistické metody v tržním hospodářství. 1995. 1. vyd. Praha: Victoria Publishing, 435 s. ISBN 80-7187-058-7."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-ZIZ Zahradnické inženýrství, prezenční forma, počáteční období ZS 2023/2024Program B-ZIZ Zahradnické inženýrství, kombinovaná forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Lednice"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "VYTAS"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Výpočetní technika a aplikovaná statistika"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Computer Technology and applied statistics"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)part-time, 20/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course is possible to study during mobility abroad. A high level of self-study is a prerequisite. Practical exercises have to be replaced from the seminar work of five individual tasks supplemented by self-study from presentations published in the Microsoft Teams course team, the preparation of which will correspond in terms of time burden to the subsidy for the exercise in the case of full-time study."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Miroslav Vachůn, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Mendeleum - Institute of Genetics and Plant Breeding (FH)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Horticulture"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Miroslav Vachůn, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "AKR19"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to study and definition of statistics. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic statistical concepts (unit, file, characters). Stages of statistical work (survey, processing, analysis)."
+    },
+    {
+      "label": "b.",
+      "content": "Statistical forms of expression (statistical series, tables, graphs)."
+    },
+    {
+      "label": "c.",
+      "content": "Sorting (including variation sorting)."
+    },
+    {
+      "label": "d.",
+      "content": "How to sorting in Microsoft Excel."
+    },
+    {
+      "label": "2.",
+      "content": "Mean values and rates of variation (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Diameters (arithmetic, harmonic, geometric)."
+    },
+    {
+      "label": "b.",
+      "content": "Median, mode."
+    },
+    {
+      "label": "c.",
+      "content": "Variation rates - variance, standard deviation, coefficient of variation. Measures of Skewness and Kurtosis."
+    },
+    {
+      "label": "3.",
+      "content": "Regression and correlation analysis. (allowance 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Minimal squares method."
+    },
+    {
+      "label": "b.",
+      "content": "Simple linear dependence (regression lines, correlation coefficient, regression coefficients)."
+    },
+    {
+      "label": "c.",
+      "content": "Single nonlinear dependence (regression curves, correlation index), multiple and partial correlation dependence. Association and contingency."
+    },
+    {
+      "label": "d.",
+      "content": "Modeling of regression analysis in Microsoft Excel"
+    },
+    {
+      "label": "4.",
+      "content": "Sampling methods and random variables (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic types of distribution and characteristics of random variable."
+    },
+    {
+      "label": "b.",
+      "content": "Nature and types of selection, random selection, standard and permissible error, determination of the extent of selection."
+    },
+    {
+      "label": "c.",
+      "content": "Calculation of sample characteristics in Microsoft Excel."
+    },
+    {
+      "label": "5.",
+      "content": "Statistical estimate (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Point and interval estimation, confidence intervals of basic characteristics."
+    },
+    {
+      "label": "b.",
+      "content": "Interval and reliability band of regression function."
+    },
+    {
+      "label": "c.",
+      "content": "Statistical estimation in Microsoft Excel."
+    },
+    {
+      "label": "6.",
+      "content": "Testing statistical hypotheses - testing procedure and possible errors. (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Tests on population parameters, basic procedures."
+    },
+    {
+      "label": "b.",
+      "content": "Parametric tests in Microsoft Excel."
+    },
+    {
+      "label": "7.",
+      "content": "Single-factor and multi-factor variance analysis. (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Basics of variance analysis."
+    },
+    {
+      "label": "b.",
+      "content": "Organize data for Microsoft Excel."
+    },
+    {
+      "label": "c.",
+      "content": "Analysis of variance in Microsoft Excel."
+    },
+    {
+      "label": "d.",
+      "content": "Post hoc tests using Microsoft Excel."
+    },
+    {
+      "label": "8.",
+      "content": "Non parametric tests (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Types of non-parametric tests and their use."
+    },
+    {
+      "label": "b.",
+      "content": "Selected non-parametric tests."
+    },
+    {
+      "label": "9.",
+      "content": "Processing of experiment results in Microsoft Office applications (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Graphical and tabular outputs of analyzes and their use, formatting in the Microsoft Office environment."
+    },
+    {
+      "label": "b.",
+      "content": "Linking Microsoft Excel outputs to Microsoft Word and PowerPoint."
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, WS 2022/2023, SS 2021/2022, SS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Lednice"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Výpočetní technika a aplikovaná statistika"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Computer Technology and applied statistics"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)part-time, 20/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)part-time, 20/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course is possible to study during mobility abroad. A high level of self-study is a prerequisite. Practical exercises have to be replaced from the seminar work of five individual tasks supplemented by self-study from presentations published in the Microsoft Teams course team, the preparation of which will correspond in terms of time burden to the subsidy for the exercise in the case of full-time study."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Miroslav Vachůn, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Mendeleum - Institute of Genetics and Plant Breeding (FH)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Horticulture"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Miroslav Vachůn, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: AKR19"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday8.00-8.50ZFAC1 (Led)M. VachůnLectureEvery week47Tuesday11.00-12.50ZFC13 (Led)M. VachůnSeminarEvery week26Tuesday15.00-16.50ZFC13 (Led)M. VachůnSeminarEvery week27Friday14.00-18.50ZFAA1 (Led)M. VachůnLectureOccasionally42"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "To acquire knowledge of basic statistical methods based on knowledge gained in the field of Applied Mathematics using basic Microsoft Office software including graphical presentation. To teach students to understand statistics in the broader context of biological experiment evaluation."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to study and definition of statistics. (allowance 2/2) a.Basic statistical concepts (unit, file, characters). Stages of statistical work (survey, processing, analysis).b.Statistical forms of expression (statistical series, tables, graphs).c.Sorting (including variation sorting).d.How to sorting in Microsoft Excel.2.Mean values and rates of variation (allowance 2/2) a.Diameters (arithmetic, harmonic, geometric).b.Median, mode.c.Variation rates - variance, standard deviation, coefficient of variation. Measures of Skewness and Kurtosis.3.Regression and correlation analysis. (allowance 2/6) a.Minimal squares method.b.Simple linear dependence (regression lines, correlation coefficient, regression coefficients).c.Single nonlinear dependence (regression curves, correlation index), multiple and partial correlation dependence. Association and contingency.d.Modeling of regression analysis in Microsoft Excel4.Sampling methods and random variables (allowance 2/2) a.Basic types of distribution and characteristics of random variable.b.Nature and types of selection, random selection, standard and permissible error, determination of the extent of selection.c.Calculation of sample characteristics in Microsoft Excel.5.Statistical estimate (allowance 2/4) a.Point and interval estimation, confidence intervals of basic characteristics.b.Interval and reliability band of regression function.c.Statistical estimation in Microsoft Excel.6.Testing statistical hypotheses - testing procedure and possible errors. (allowance 2/4) a.Tests on population parameters, basic procedures.b.Parametric tests in Microsoft Excel.7.Single-factor and multi-factor variance analysis. (allowance 2/4) a.Basics of variance analysis.b.Organize data for Microsoft Excel.c.Analysis of variance in Microsoft Excel.d.Post hoc tests using Microsoft Excel.8.Non parametric tests (allowance 0/2) a.Types of non-parametric tests and their use.b.Selected non-parametric tests.9.Processing of experiment results in Microsoft Office applications (allowance 0/2) a.Graphical and tabular outputs of analyzes and their use, formatting in the Microsoft Office environment.b.Linking Microsoft Excel outputs to Microsoft Word and PowerPoint."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Basic statistical concepts (unit, file, characters). Stages of statistical work (survey, processing, analysis).b.Statistical forms of expression (statistical series, tables, graphs).c.Sorting (including variation sorting).d.How to sorting in Microsoft Excel."
+    },
+    {
+      "label": "[section] Introduction to study and definition of statistics.",
+      "content": "a.Basic statistical concepts (unit, file, characters). Stages of statistical work (survey, processing, analysis).b.Statistical forms of expression (statistical series, tables, graphs).c.Sorting (including variation sorting).d.How to sorting in Microsoft Excel."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Diameters (arithmetic, harmonic, geometric).b.Median, mode.c.Variation rates - variance, standard deviation, coefficient of variation. Measures of Skewness and Kurtosis."
+    },
+    {
+      "label": "[section] Mean values and rates of variation",
+      "content": "a.Diameters (arithmetic, harmonic, geometric).b.Median, mode.c.Variation rates - variance, standard deviation, coefficient of variation. Measures of Skewness and Kurtosis."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Minimal squares method.b.Simple linear dependence (regression lines, correlation coefficient, regression coefficients).c.Single nonlinear dependence (regression curves, correlation index), multiple and partial correlation dependence. Association and contingency.d.Modeling of regression analysis in Microsoft Excel"
+    },
+    {
+      "label": "[section] Regression and correlation analysis.",
+      "content": "a.Minimal squares method.b.Simple linear dependence (regression lines, correlation coefficient, regression coefficients).c.Single nonlinear dependence (regression curves, correlation index), multiple and partial correlation dependence. Association and contingency.d.Modeling of regression analysis in Microsoft Excel"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Basic types of distribution and characteristics of random variable.b.Nature and types of selection, random selection, standard and permissible error, determination of the extent of selection.c.Calculation of sample characteristics in Microsoft Excel."
+    },
+    {
+      "label": "[section] Sampling methods and random variables",
+      "content": "a.Basic types of distribution and characteristics of random variable.b.Nature and types of selection, random selection, standard and permissible error, determination of the extent of selection.c.Calculation of sample characteristics in Microsoft Excel."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Point and interval estimation, confidence intervals of basic characteristics.b.Interval and reliability band of regression function.c.Statistical estimation in Microsoft Excel."
+    },
+    {
+      "label": "[section] Statistical estimate",
+      "content": "a.Point and interval estimation, confidence intervals of basic characteristics.b.Interval and reliability band of regression function.c.Statistical estimation in Microsoft Excel."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Tests on population parameters, basic procedures.b.Parametric tests in Microsoft Excel."
+    },
+    {
+      "label": "[section] Testing statistical hypotheses - testing procedure and possible errors.",
+      "content": "a.Tests on population parameters, basic procedures.b.Parametric tests in Microsoft Excel."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Basics of variance analysis.b.Organize data for Microsoft Excel.c.Analysis of variance in Microsoft Excel.d.Post hoc tests using Microsoft Excel."
+    },
+    {
+      "label": "[section] Single-factor and multi-factor variance analysis.",
+      "content": "a.Basics of variance analysis.b.Organize data for Microsoft Excel.c.Analysis of variance in Microsoft Excel.d.Post hoc tests using Microsoft Excel."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Types of non-parametric tests and their use.b.Selected non-parametric tests."
+    },
+    {
+      "label": "[section] Non parametric tests",
+      "content": "a.Types of non-parametric tests and their use.b.Selected non-parametric tests."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Graphical and tabular outputs of analyzes and their use, formatting in the Microsoft Office environment.b.Linking Microsoft Excel outputs to Microsoft Word and PowerPoint."
+    },
+    {
+      "label": "[section] Processing of experiment results in Microsoft Office applications",
+      "content": "a.Graphical and tabular outputs of analyzes and their use, formatting in the Microsoft Office environment.b.Linking Microsoft Excel outputs to Microsoft Word and PowerPoint."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture12 h20 hpractice24 h0 hconsultation10 h32 hpreparation for exam14 h12 hpreparation for regular assessment22 h20 hpreparation for regular testing18 h16 helaboration of reports12 h12 hTotal112 h112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "The credit is subject to the processing and approval of 5 protocols. In addition, for full-time students, participation in the exercises of at least 80%, and successful completion of two continuous tests during the exercises. For each test, the full-time student must obtain a minimum of 50% of the total points. Minimum requirements for passing the exam: The exam has two parts, written and oral. The written part includes solving 7 examples and 3 questions. Assessment of the written part: A: 90-100% (of total points). B: 80-90% C: 70-80% D: 60-70% E: 50-60% To participate in the oral part of the exam, you must pass the written part with a minimum of 50%. The oral part consists of supplementary questions from the entire course. The overall grade is based on both parts of the exam (written and oral)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTotal0 %0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:BARILLA, Jiří; SIMR, Pavel; SÝKOROVÁ, Květuše. 2016. Microsoft Excel 2016: podrobná uživatelská příručka. 1st ed. Brno: Computer Press, 456 p. Podrobná uživatelská příručka. ISBN 978-80-251-4838-9.BUDÍKOVÁ, Marie; KRÁLOVÁ, Maria; MAROŠ, Bohumil. 2010. Průvodce základními statistickými metodami. 1st ed. Praha: Grada, 272 p. Expert. ISBN 978-80-247-3243-5.KRÁL, Mojmír. 2013. PowerPoint 2013: snadno a rychle. 1st ed. Praha: Grada, 112 p. Snadno a rychle. ISBN 978-80-247-4728-6.MELOUN, Milan; MILITKÝ, Jiří. 2012. Kompendium statistického zpracování dat. 3rd ed. Praha: Karolinum, 982 p. ISBN 978-80-246-2196-8.PECINOVSKÝ, Josef. 2013. Microsoft Office 2013: podrobná uživatelská příručka. 1st ed. Brno: Computer Press, 496 p. ISBN 978-80-251-4102-1.PECINOVSKÝ, Josef. 2013. Microsoft Word 2013: podrobná uživatelská příručka. 1st ed. Brno: Computer Press, 367 p. ISBN 978-80-251-3831-1.STÁVKOVÁ, Jana; DUFEK, Jaroslav. 2000. Biometrika. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 178 p. ISBN 80-7157-486-4.Recommended:HENDL, Jan. 2015. Přehled statistických metod: analýza a metaanalýza dat. Praha: Portál, 734 p. ISBN 978-80-262-0981-2.NAVIDI, W. 2006. Statistics for engineers and scientists. Boston: McGraw-Hill, 869 p. ISBN 0-07-121492-5. Statistické metody v tržním hospodářství. 1995. 1st ed. Praha: Victoria Publishing, 435 p. ISBN 80-7187-058-7."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "BARILLA, Jiří; SIMR, Pavel; SÝKOROVÁ, Květuše. 2016. Microsoft Excel 2016: podrobná uživatelská příručka. 1st ed. Brno: Computer Press, 456 p. Podrobná uživatelská příručka. ISBN 978-80-251-4838-9.BUDÍKOVÁ, Marie; KRÁLOVÁ, Maria; MAROŠ, Bohumil. 2010. Průvodce základními statistickými metodami. 1st ed. Praha: Grada, 272 p. Expert. ISBN 978-80-247-3243-5.KRÁL, Mojmír. 2013. PowerPoint 2013: snadno a rychle. 1st ed. Praha: Grada, 112 p. Snadno a rychle. ISBN 978-80-247-4728-6.MELOUN, Milan; MILITKÝ, Jiří. 2012. Kompendium statistického zpracování dat. 3rd ed. Praha: Karolinum, 982 p. ISBN 978-80-246-2196-8.PECINOVSKÝ, Josef. 2013. Microsoft Office 2013: podrobná uživatelská příručka. 1st ed. Brno: Computer Press, 496 p. ISBN 978-80-251-4102-1.PECINOVSKÝ, Josef. 2013. Microsoft Word 2013: podrobná uživatelská příručka. 1st ed. Brno: Computer Press, 367 p. ISBN 978-80-251-3831-1.STÁVKOVÁ, Jana; DUFEK, Jaroslav. 2000. Biometrika. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 178 p. ISBN 80-7157-486-4."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "HENDL, Jan. 2015. Přehled statistických metod: analýza a metaanalýza dat. Praha: Portál, 734 p. ISBN 978-80-262-0981-2.NAVIDI, W. 2006. Statistics for engineers and scientists. Boston: McGraw-Hill, 869 p. ISBN 0-07-121492-5. Statistické metody v tržním hospodářství. 1995. 1st ed. Praha: Victoria Publishing, 435 p. ISBN 80-7187-058-7."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-HEN Horticulture engineering, full-time form, initial period WS 2023/2024Programme B-HEN Horticulture engineering, part-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Lednice"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:36:38",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

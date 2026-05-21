@@ -1,0 +1,961 @@
+{
+  "courseCode": "SMCH",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "SMCH"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Strojní mechanismy"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Machines"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2/1 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0/0 (h/h/dny v semestru) (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Studium předmětu je možné během zahraniční mobility po individuální domluvě s garantem předmětu"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Zdeněk Kopecký, CSc."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Zdeněk Kopecký, CSc. (cvičící, garant, přednášející, zkoušející)Ing. Vít Novák, Ph.D. (cvičící, přednášející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška a ne Strojní mechanismy"
+    },
+    {
+      "label": "1.",
+      "content": "Klasifikace a skladba strojů pro zpracování dřeva (ČSN ISO 7984) (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Obecná struktura stroje"
+    },
+    {
+      "label": "b.",
+      "content": "Materiály k výrobě strojů"
+    },
+    {
+      "label": "c.",
+      "content": "Přenos energie ve stroji"
+    },
+    {
+      "label": "2.",
+      "content": "Konstrukční spoje (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Rozebíratelné spoje"
+    },
+    {
+      "label": "b.",
+      "content": "Nerozebíratelné spoje"
+    },
+    {
+      "label": "3.",
+      "content": "Pohonné motory (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Spalovací motory"
+    },
+    {
+      "label": "b.",
+      "content": "Třífázové indukční asynchronní elektromotory"
+    },
+    {
+      "label": "4.",
+      "content": "Převodové mechanismy - I (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Řemeny a řemenové převody, variátory"
+    },
+    {
+      "label": "b.",
+      "content": "Lana a lanové převody"
+    },
+    {
+      "label": "5.",
+      "content": "Převodové mechanismy - II (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Řetězy a řetězové převody"
+    },
+    {
+      "label": "b.",
+      "content": "Ozubené převody a převodovky"
+    },
+    {
+      "label": "6.",
+      "content": "Přenosové části (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Osy, hřídele a ložiska"
+    },
+    {
+      "label": "b.",
+      "content": "Vřetena a nožové hřídele"
+    },
+    {
+      "label": "c.",
+      "content": "Hřídelové spojky"
+    },
+    {
+      "label": "7.",
+      "content": "Kinematické mechanismy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Klikový, kulisový a vačkový mechanismus"
+    },
+    {
+      "label": "b.",
+      "content": "Maltézský mechanismus, systém rohatka a západka"
+    },
+    {
+      "label": "8.",
+      "content": "Hydraulické prvky a mechanismy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Vybrané hydraulické prvky"
+    },
+    {
+      "label": "b.",
+      "content": "Uspořádání hydraulických obvodů - schématické zobrazování"
+    },
+    {
+      "label": "c.",
+      "content": "Hydraulické kapaliny"
+    },
+    {
+      "label": "9.",
+      "content": "Hydrostatické obvody dřevařské techniky (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Hydraulika štípacích strojů a pilařské techniky"
+    },
+    {
+      "label": "b.",
+      "content": "Hydraulické lisy a ohýbačky"
+    },
+    {
+      "label": "c.",
+      "content": "Hydraulika strojů pro manipulaci s kulatinou"
+    },
+    {
+      "label": "10.",
+      "content": "Dřevoobráběcí nástroje (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Rozdělení nástrojů, konstrukce a materiály"
+    },
+    {
+      "label": "b.",
+      "content": "Geometrie a upínání nástrojů"
+    },
+    {
+      "label": "11.",
+      "content": "Pneumatické prvky a mechanismy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Konstrukce pneumatických prvků a typické obvody"
+    },
+    {
+      "label": "b.",
+      "content": "Pneumatika fixačních, přítlačných, vkládacích a odebíracích zařízení dřevoobráběcích strojů"
+    },
+    {
+      "label": "12.",
+      "content": "Vzduchotechnická zařízení (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Ventilátory, vzduchovody, filtry a odlučovače nečistot"
+    },
+    {
+      "label": "b.",
+      "content": "Odsávání odpadu od dřevoobráběcího stroje, zákryty, větrání"
+    },
+    {
+      "label": "13.",
+      "content": "Hlavní cvičení (dotace 2/10)"
+    },
+    {
+      "label": "a.",
+      "content": "Konstrukce a funkce vysokoproduktivního frézovacího stroje, provozní parametry, možnosti vysokoproduktivního frézování rostlého dřeva"
+    },
+    {
+      "label": "b.",
+      "content": "Konstrukce a výroba jednotlivých strojních skupin dřevoobráběcích strojů a nástrojů (TOS Svitavy, Rojek a.s., Pilana a.s.)."
+    },
+    {
+      "label": "14.",
+      "content": "Zápočtový týden (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Zápočtový test"
+    },
+    {
+      "label": "b.",
+      "content": "Hodnocení semestrálního projektu"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021, LS 2019/2020 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Strojní mechanismy"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Machines"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2/1 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0/0 (h/h/dny v semestru) (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2/1 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0/0 (h/h/dny v semestru) (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Studium předmětu je možné během zahraniční mobility po individuální domluvě s garantem předmětu"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Zdeněk Kopecký, CSc."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Zdeněk Kopecký, CSc. (cvičící, garant, přednášející, zkoušející)Ing. Vít Novák, Ph.D. (cvičící, přednášející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a ne Strojní mechanismy"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Naučit studenty základům konstrukce a funkce výrobní techniky se zaměřením na hlavní, pomocné a opěrné mechanismy stroje. Předmět poskytuje studentům základní znalosti a informace o pohonných motorech, převodových, kinematických, hydraulických a pneumatických mechanismech. Dále je předmět zaměřen na systémy odsávání odpadů a prašné vzduchotechniky. Samostatnou částí je přehled dřevoobráběcích nástrojů a jejich upínání na vřetenu stroje."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Klasifikace a skladba strojů pro zpracování dřeva (ČSN ISO 7984) (dotace 2/2) a.Obecná struktura strojeb.Materiály k výrobě strojůc.Přenos energie ve stroji2.Konstrukční spoje (dotace 2/2) a.Rozebíratelné spojeb.Nerozebíratelné spoje3.Pohonné motory (dotace 2/2) a.Spalovací motoryb.Třífázové indukční asynchronní elektromotory4.Převodové mechanismy - I (dotace 2/2) a.Řemeny a řemenové převody, variátoryb.Lana a lanové převody5.Převodové mechanismy - II (dotace 2/2) a.Řetězy a řetězové převodyb.Ozubené převody a převodovky6.Přenosové části (dotace 2/2) a.Osy, hřídele a ložiskab.Vřetena a nožové hřídelec.Hřídelové spojky7.Kinematické mechanismy (dotace 2/2) a.Klikový, kulisový a vačkový mechanismusb.Maltézský mechanismus, systém rohatka a západka8.Hydraulické prvky a mechanismy (dotace 2/2) a.Vybrané hydraulické prvkyb.Uspořádání hydraulických obvodů - schématické zobrazováníc.Hydraulické kapaliny9.Hydrostatické obvody dřevařské techniky (dotace 2/2) a.Hydraulika štípacích strojů a pilařské technikyb.Hydraulické lisy a ohýbačkyc.Hydraulika strojů pro manipulaci s kulatinou10.Dřevoobráběcí nástroje (dotace 2/2) a.Rozdělení nástrojů, konstrukce a materiályb.Geometrie a upínání nástrojů11.Pneumatické prvky a mechanismy (dotace 2/2) a.Konstrukce pneumatických prvků a typické obvodyb.Pneumatika fixačních, přítlačných, vkládacích a odebíracích zařízení dřevoobráběcích strojů12.Vzduchotechnická zařízení (dotace 2/2) a.Ventilátory, vzduchovody, filtry a odlučovače nečistotb.Odsávání odpadu od dřevoobráběcího stroje, zákryty, větrání13.Hlavní cvičení (dotace 2/10) a.Konstrukce a funkce vysokoproduktivního frézovacího stroje, provozní parametry, možnosti vysokoproduktivního frézování rostlého dřevab.Konstrukce a výroba jednotlivých strojních skupin dřevoobráběcích strojů a nástrojů (TOS Svitavy, Rojek a.s., Pilana a.s.).14.Zápočtový týden (dotace 2/2) a.Zápočtový testb.Hodnocení semestrálního projektu"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Obecná struktura strojeb.Materiály k výrobě strojůc.Přenos energie ve stroji"
+    },
+    {
+      "label": "[section] Klasifikace a skladba strojů pro zpracování dřeva (ČSN ISO 7984)",
+      "content": "a.Obecná struktura strojeb.Materiály k výrobě strojůc.Přenos energie ve stroji"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Rozebíratelné spojeb.Nerozebíratelné spoje"
+    },
+    {
+      "label": "[section] Konstrukční spoje",
+      "content": "a.Rozebíratelné spojeb.Nerozebíratelné spoje"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Spalovací motoryb.Třífázové indukční asynchronní elektromotory"
+    },
+    {
+      "label": "[section] Pohonné motory",
+      "content": "a.Spalovací motoryb.Třífázové indukční asynchronní elektromotory"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Řemeny a řemenové převody, variátoryb.Lana a lanové převody"
+    },
+    {
+      "label": "[section] Převodové mechanismy - I",
+      "content": "a.Řemeny a řemenové převody, variátoryb.Lana a lanové převody"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Řetězy a řetězové převodyb.Ozubené převody a převodovky"
+    },
+    {
+      "label": "[section] Převodové mechanismy - II",
+      "content": "a.Řetězy a řetězové převodyb.Ozubené převody a převodovky"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Osy, hřídele a ložiskab.Vřetena a nožové hřídelec.Hřídelové spojky"
+    },
+    {
+      "label": "[section] Přenosové části",
+      "content": "a.Osy, hřídele a ložiskab.Vřetena a nožové hřídelec.Hřídelové spojky"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Klikový, kulisový a vačkový mechanismusb.Maltézský mechanismus, systém rohatka a západka"
+    },
+    {
+      "label": "[section] Kinematické mechanismy",
+      "content": "a.Klikový, kulisový a vačkový mechanismusb.Maltézský mechanismus, systém rohatka a západka"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Vybrané hydraulické prvkyb.Uspořádání hydraulických obvodů - schématické zobrazováníc.Hydraulické kapaliny"
+    },
+    {
+      "label": "[section] Hydraulické prvky a mechanismy",
+      "content": "a.Vybrané hydraulické prvkyb.Uspořádání hydraulických obvodů - schématické zobrazováníc.Hydraulické kapaliny"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Hydraulika štípacích strojů a pilařské technikyb.Hydraulické lisy a ohýbačkyc.Hydraulika strojů pro manipulaci s kulatinou"
+    },
+    {
+      "label": "[section] Hydrostatické obvody dřevařské techniky",
+      "content": "a.Hydraulika štípacích strojů a pilařské technikyb.Hydraulické lisy a ohýbačkyc.Hydraulika strojů pro manipulaci s kulatinou"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Rozdělení nástrojů, konstrukce a materiályb.Geometrie a upínání nástrojů"
+    },
+    {
+      "label": "[section] Dřevoobráběcí nástroje",
+      "content": "a.Rozdělení nástrojů, konstrukce a materiályb.Geometrie a upínání nástrojů"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Konstrukce pneumatických prvků a typické obvodyb.Pneumatika fixačních, přítlačných, vkládacích a odebíracích zařízení dřevoobráběcích strojů"
+    },
+    {
+      "label": "[section] Pneumatické prvky a mechanismy",
+      "content": "a.Konstrukce pneumatických prvků a typické obvodyb.Pneumatika fixačních, přítlačných, vkládacích a odebíracích zařízení dřevoobráběcích strojů"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Ventilátory, vzduchovody, filtry a odlučovače nečistotb.Odsávání odpadu od dřevoobráběcího stroje, zákryty, větrání"
+    },
+    {
+      "label": "[section] Vzduchotechnická zařízení",
+      "content": "a.Ventilátory, vzduchovody, filtry a odlučovače nečistotb.Odsávání odpadu od dřevoobráběcího stroje, zákryty, větrání"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Konstrukce a funkce vysokoproduktivního frézovacího stroje, provozní parametry, možnosti vysokoproduktivního frézování rostlého dřevab.Konstrukce a výroba jednotlivých strojních skupin dřevoobráběcích strojů a nástrojů (TOS Svitavy, Rojek a.s., Pilana a.s.)."
+    },
+    {
+      "label": "[section] Hlavní cvičení",
+      "content": "a.Konstrukce a funkce vysokoproduktivního frézovacího stroje, provozní parametry, možnosti vysokoproduktivního frézování rostlého dřevab.Konstrukce a výroba jednotlivých strojních skupin dřevoobráběcích strojů a nástrojů (TOS Svitavy, Rojek a.s., Pilana a.s.)."
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Zápočtový testb.Hodnocení semestrálního projektu"
+    },
+    {
+      "label": "[section] Zápočtový týden",
+      "content": "a.Zápočtový testb.Hodnocení semestrálního projektu"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška24 h20 hcvičení20 h0 hlaboratorní práce4 h0 hodborná exkurze8 h0 hkonzultace4 h32 hpříprava na zkoušku24 h40 hpříprava na průběžný test10 h10 hzpráva z exkurze, výjezdu, praxe2 h0 hzpracování protokolů6 h0 hzpracování projektů10 h10 hCelkem112 h112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zkouška - 1x semestrální projekt (1x technická zpráva - výpočet, 1 x výrobní výkres) - 4x protokoly ze C (LC), (4x technická zpráva) - 1x test (ověření znalostí z předmětu, (forma 10 otázek, u každé otázky výběr ze tří možností)"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumCelkem0 %0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:ROUSEK, Miroslav; KOPECKÝ, Zdeněk; NOVÁK, Vít. 2007. Elektrické a strojní mechanismy. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 156 s. ISBN 978-80-7375-062-6.ROUSEK, Miroslav; NOVÁK, Vít. 2008. Dřevařská mechanizace. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 80 s. ISBN 978-80-7375-223-1.SKOUPÝ, Alois; KOPECKÝ, Zdeněk. 2004. Základy techniky: (cvičení). 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 117 s. ISBN 80-7157-800-2.Doporučená:KOPECKÝ, Zdeněk; SKOUPÝ, Alois; HENEŠ, Martin. 2007. Animované modely kinematických mechanismů lesnické a dřevařské techniky. [DVD-ROM]. http://www.mendelu.cz. Drevárske stroje. 2002. 1. vyd. Zvolen: Technická univerzita vo Zvolene, 169 s. ISBN 80-228-1188-2.SVOREŇ, Ján. 2001. Výrobná technika II: návody na cvičenia. Zvolen: Technická univerzita vo Zvolene, 82 s. ISBN 80-228-0995-0."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "ROUSEK, Miroslav; KOPECKÝ, Zdeněk; NOVÁK, Vít. 2007. Elektrické a strojní mechanismy. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 156 s. ISBN 978-80-7375-062-6.ROUSEK, Miroslav; NOVÁK, Vít. 2008. Dřevařská mechanizace. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 80 s. ISBN 978-80-7375-223-1.SKOUPÝ, Alois; KOPECKÝ, Zdeněk. 2004. Základy techniky: (cvičení). 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 117 s. ISBN 80-7157-800-2."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "KOPECKÝ, Zdeněk; SKOUPÝ, Alois; HENEŠ, Martin. 2007. Animované modely kinematických mechanismů lesnické a dřevařské techniky. [DVD-ROM]. http://www.mendelu.cz. Drevárske stroje. 2002. 1. vyd. Zvolen: Technická univerzita vo Zvolene, 169 s. ISBN 80-228-1188-2.SVOREŇ, Ján. 2001. Výrobná technika II: návody na cvičenia. Zvolen: Technická univerzita vo Zvolene, 82 s. ISBN 80-228-0995-0."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-SNBD Stavby na bázi dřeva, prezenční forma, počáteční období ZS 2024/2025Program B-TMZD Technologie a management zpracování dřeva, prezenční forma, počáteční období ZS 2024/2025Program B-TMZD Technologie a management zpracování dřeva, kombinovaná forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "SMCH"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Strojní mechanismy"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Machines"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2/1 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)part-time, 20/0/0 (h/h/days in semester) (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The study of the subject is possible during foreign mobility after individualagreement with the subject guarantor"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Zdeněk Kopecký, CSc."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Zdeněk Kopecký, CSc. (examiner, instructor, lecturer, supervisor)Ing. Vít Novák, Ph.D. (instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not State Bachelor Examination and not Machine Mechanisms"
+    },
+    {
+      "label": "1.",
+      "content": "Classification and composition of woodworking machines (ČSN ISO 7984) (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "General structure of machine"
+    },
+    {
+      "label": "b.",
+      "content": "Materials for the production of machines"
+    },
+    {
+      "label": "c.",
+      "content": "Power transmission in the machine"
+    },
+    {
+      "label": "2.",
+      "content": "Structural joints (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Removable joints"
+    },
+    {
+      "label": "b.",
+      "content": "Permanent joints"
+    },
+    {
+      "label": "3.",
+      "content": "Drive motors (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Internal combustion engines"
+    },
+    {
+      "label": "b.",
+      "content": "Three-phase induction asynchronous electric motors"
+    },
+    {
+      "label": "4.",
+      "content": "Transmission mechanisms - I (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Belts and belt transmissions, variators"
+    },
+    {
+      "label": "b.",
+      "content": "Ropes and rope transmissions"
+    },
+    {
+      "label": "5.",
+      "content": "Transmission mechanisms - II (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Chains and chain transmissions"
+    },
+    {
+      "label": "b.",
+      "content": "Gears and gearboxes"
+    },
+    {
+      "label": "6.",
+      "content": "Transmission parts (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Axles, shafts and bearings"
+    },
+    {
+      "label": "b.",
+      "content": "Spindles and knife shafts"
+    },
+    {
+      "label": "c.",
+      "content": "Shaft couplings"
+    },
+    {
+      "label": "7.",
+      "content": "Kinematic mechanisms (allowance 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Crank, sliding and cam mechanism"
+    },
+    {
+      "label": "b.",
+      "content": "Maltese mechanism, ratchet and latch system"
+    },
+    {
+      "label": "8.",
+      "content": "Hydraulic elements and mechanisms (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Selected hydraulic elements"
+    },
+    {
+      "label": "b.",
+      "content": "Arangement of hydraulic circuits - schema rendering"
+    },
+    {
+      "label": "c.",
+      "content": "Hydraulic fluids"
+    },
+    {
+      "label": "9.",
+      "content": "Hydrostatic circuits of woodworking machines (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Hydraulics of splitting and sawing machines"
+    },
+    {
+      "label": "b.",
+      "content": "Hydraulic presses and bending machines"
+    },
+    {
+      "label": "c.",
+      "content": "Hydraulics of log handling machines"
+    },
+    {
+      "label": "10.",
+      "content": "Woodworking tools (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Classification of tools, structures and materials"
+    },
+    {
+      "label": "b.",
+      "content": "Tool geometry and clamping"
+    },
+    {
+      "label": "11.",
+      "content": "Pneumatic elements and mechanisms (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Construction of pneumatic elements and typical circuits"
+    },
+    {
+      "label": "b.",
+      "content": "Pneumatic of fixing, pressing, insertion and removal equipment for woodworking machines"
+    },
+    {
+      "label": "12.",
+      "content": "Ventilation equipment (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Fans, air ducts, filters and dirt separators"
+    },
+    {
+      "label": "b.",
+      "content": "Extraction of waste from woodworking machines, covers, ventilation"
+    },
+    {
+      "label": "13.",
+      "content": "Main exercises (allowance 2/10)"
+    },
+    {
+      "label": "a.",
+      "content": "Design and function of high-productivity milling machine, operating parameters, possibilities of high-productivity milling of solid wood"
+    },
+    {
+      "label": "b.",
+      "content": "Design and manufacturing of individual machine groups of woodworking machines and tools (TOS Svitavy, Rojek a.s., Pilana a.s.)."
+    },
+    {
+      "label": "14.",
+      "content": "Credit week (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Credit test"
+    },
+    {
+      "label": "b.",
+      "content": "Evaluation of semestral project"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021, SS 2019/2020 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Strojní mechanismy"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Machines"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2/1 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)part-time, 20/0/0 (h/h/days in semester) (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2/1 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)part-time, 20/0/0 (h/h/days in semester) (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The study of the subject is possible during foreign mobility after individualagreement with the subject guarantor"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Zdeněk Kopecký, CSc."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Zdeněk Kopecký, CSc. (examiner, instructor, lecturer, supervisor)Ing. Vít Novák, Ph.D. (instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not State Bachelor Examination and not Machine Mechanisms"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to learn students basics of design and function of production technology with a focus on the main, auxiliary and supporting mechanisms of the machine. The subject provides students with basic knowledge and information about drive motors, gear, kinematic, hydraulic and pneumatic mechanisms. Furthermore, the course is focused on waste extraction systems and dust ventilation. A separate part is an overview of woodworking tools and their clamping on the machine spindle."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Classification and composition of woodworking machines (ČSN ISO 7984) (allowance 2/2) a.General structure of machineb.Materials for the production of machinesc.Power transmission in the machine2.Structural joints (allowance 2/2) a.Removable jointsb.Permanent joints3.Drive motors (allowance 2/2) a.Internal combustion enginesb.Three-phase induction asynchronous electric motors4.Transmission mechanisms - I (allowance 2/2) a.Belts and belt transmissions, variatorsb.Ropes and rope transmissions5.Transmission mechanisms - II (allowance 2/2) a.Chains and chain transmissionsb.Gears and gearboxes6.Transmission parts (allowance 2/2) a.Axles, shafts and bearingsb.Spindles and knife shaftsc.Shaft couplings7.Kinematic mechanisms (allowance 0/0) a.Crank, sliding and cam mechanismb.Maltese mechanism, ratchet and latch system8.Hydraulic elements and mechanisms (allowance 2/2) a.Selected hydraulic elementsb.Arangement of hydraulic circuits - schema renderingc.Hydraulic fluids9.Hydrostatic circuits of woodworking machines (allowance 2/2) a.Hydraulics of splitting and sawing machinesb.Hydraulic presses and bending machinesc.Hydraulics of log handling machines10.Woodworking tools (allowance 2/2) a.Classification of tools, structures and materialsb.Tool geometry and clamping11.Pneumatic elements and mechanisms (allowance 2/2) a.Construction of pneumatic elements and typical circuitsb.Pneumatic of fixing, pressing, insertion and removal equipment for woodworking machines12.Ventilation equipment (allowance 2/2) a.Fans, air ducts, filters and dirt separatorsb.Extraction of waste from woodworking machines, covers, ventilation13.Main exercises (allowance 2/10) a.Design and function of high-productivity milling machine, operating parameters, possibilities of high-productivity milling of solid woodb.Design and manufacturing of individual machine groups of woodworking machines and tools (TOS Svitavy, Rojek a.s., Pilana a.s.).14.Credit week (allowance 2/2) a.Credit testb.Evaluation of semestral project"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.General structure of machineb.Materials for the production of machinesc.Power transmission in the machine"
+    },
+    {
+      "label": "[section] Classification and composition of woodworking machines (ČSN ISO 7984)",
+      "content": "a.General structure of machineb.Materials for the production of machinesc.Power transmission in the machine"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Removable jointsb.Permanent joints"
+    },
+    {
+      "label": "[section] Structural joints",
+      "content": "a.Removable jointsb.Permanent joints"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Internal combustion enginesb.Three-phase induction asynchronous electric motors"
+    },
+    {
+      "label": "[section] Drive motors",
+      "content": "a.Internal combustion enginesb.Three-phase induction asynchronous electric motors"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Belts and belt transmissions, variatorsb.Ropes and rope transmissions"
+    },
+    {
+      "label": "[section] Transmission mechanisms - I",
+      "content": "a.Belts and belt transmissions, variatorsb.Ropes and rope transmissions"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Chains and chain transmissionsb.Gears and gearboxes"
+    },
+    {
+      "label": "[section] Transmission mechanisms - II",
+      "content": "a.Chains and chain transmissionsb.Gears and gearboxes"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Axles, shafts and bearingsb.Spindles and knife shaftsc.Shaft couplings"
+    },
+    {
+      "label": "[section] Transmission parts",
+      "content": "a.Axles, shafts and bearingsb.Spindles and knife shaftsc.Shaft couplings"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Crank, sliding and cam mechanismb.Maltese mechanism, ratchet and latch system"
+    },
+    {
+      "label": "[section] Kinematic mechanisms",
+      "content": "a.Crank, sliding and cam mechanismb.Maltese mechanism, ratchet and latch system"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Selected hydraulic elementsb.Arangement of hydraulic circuits - schema renderingc.Hydraulic fluids"
+    },
+    {
+      "label": "[section] Hydraulic elements and mechanisms",
+      "content": "a.Selected hydraulic elementsb.Arangement of hydraulic circuits - schema renderingc.Hydraulic fluids"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Hydraulics of splitting and sawing machinesb.Hydraulic presses and bending machinesc.Hydraulics of log handling machines"
+    },
+    {
+      "label": "[section] Hydrostatic circuits of woodworking machines",
+      "content": "a.Hydraulics of splitting and sawing machinesb.Hydraulic presses and bending machinesc.Hydraulics of log handling machines"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Classification of tools, structures and materialsb.Tool geometry and clamping"
+    },
+    {
+      "label": "[section] Woodworking tools",
+      "content": "a.Classification of tools, structures and materialsb.Tool geometry and clamping"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Construction of pneumatic elements and typical circuitsb.Pneumatic of fixing, pressing, insertion and removal equipment for woodworking machines"
+    },
+    {
+      "label": "[section] Pneumatic elements and mechanisms",
+      "content": "a.Construction of pneumatic elements and typical circuitsb.Pneumatic of fixing, pressing, insertion and removal equipment for woodworking machines"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Fans, air ducts, filters and dirt separatorsb.Extraction of waste from woodworking machines, covers, ventilation"
+    },
+    {
+      "label": "[section] Ventilation equipment",
+      "content": "a.Fans, air ducts, filters and dirt separatorsb.Extraction of waste from woodworking machines, covers, ventilation"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Design and function of high-productivity milling machine, operating parameters, possibilities of high-productivity milling of solid woodb.Design and manufacturing of individual machine groups of woodworking machines and tools (TOS Svitavy, Rojek a.s., Pilana a.s.)."
+    },
+    {
+      "label": "[section] Main exercises",
+      "content": "a.Design and function of high-productivity milling machine, operating parameters, possibilities of high-productivity milling of solid woodb.Design and manufacturing of individual machine groups of woodworking machines and tools (TOS Svitavy, Rojek a.s., Pilana a.s.)."
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Credit testb.Evaluation of semestral project"
+    },
+    {
+      "label": "[section] Credit week",
+      "content": "a.Credit testb.Evaluation of semestral project"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture24 h20 hpractice20 h0 hlaboratory work4 h0 hprofessional educational excursion8 h0 hconsultation4 h32 hpreparation for exam24 h40 hpreparation for regular testing10 h10 hreport from excursion, tour, practical placement2 h0 helaboration of reports6 h0 helaboration and execution of projects10 h10 hTotal112 h112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Exam - 1x Semestral project (1x technical report - calculation, 1 x production drawing) - 4x Protocols from C (LC), (4x technical report) - 1x Test (verification of knowledge of the subject, (form 10 questions, choice of three options for each question)"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTotal0 %0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:ROUSEK, Miroslav; KOPECKÝ, Zdeněk; NOVÁK, Vít. 2007. Elektrické a strojní mechanismy. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 156 p. ISBN 978-80-7375-062-6.ROUSEK, Miroslav; NOVÁK, Vít. 2008. Dřevařská mechanizace. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 80 p. ISBN 978-80-7375-223-1.SKOUPÝ, Alois; KOPECKÝ, Zdeněk. 2004. Základy techniky: (cvičení). 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 117 p. ISBN 80-7157-800-2.Recommended:KOPECKÝ, Zdeněk; SKOUPÝ, Alois; HENEŠ, Martin. 2007. Animované modely kinematických mechanismů lesnické a dřevařské techniky. [DVD-ROM]. http://www.mendelu.cz. Drevárske stroje. 2002. 1st ed. Zvolen: Technická univerzita vo Zvolene, 169 p. ISBN 80-228-1188-2.SVOREŇ, Ján. 2001. Výrobná technika II: návody na cvičenia. Zvolen: Technická univerzita vo Zvolene, 82 p. ISBN 80-228-0995-0."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "ROUSEK, Miroslav; KOPECKÝ, Zdeněk; NOVÁK, Vít. 2007. Elektrické a strojní mechanismy. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 156 p. ISBN 978-80-7375-062-6.ROUSEK, Miroslav; NOVÁK, Vít. 2008. Dřevařská mechanizace. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 80 p. ISBN 978-80-7375-223-1.SKOUPÝ, Alois; KOPECKÝ, Zdeněk. 2004. Základy techniky: (cvičení). 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 117 p. ISBN 80-7157-800-2."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "KOPECKÝ, Zdeněk; SKOUPÝ, Alois; HENEŠ, Martin. 2007. Animované modely kinematických mechanismů lesnické a dřevařské techniky. [DVD-ROM]. http://www.mendelu.cz. Drevárske stroje. 2002. 1st ed. Zvolen: Technická univerzita vo Zvolene, 169 p. ISBN 80-228-1188-2.SVOREŇ, Ján. 2001. Výrobná technika II: návody na cvičenia. Zvolen: Technická univerzita vo Zvolene, 82 p. ISBN 80-228-0995-0."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-SNBD Timber Structures and Wood Building Construction, full-time form, initial period WS 2024/2025Programme B-TMZD Technology and Management in Wood Processing, full-time form, initial period WS 2024/2025Programme B-TMZD Technology and Management in Wood Processing, part-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:14:11",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

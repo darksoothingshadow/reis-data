@@ -1,0 +1,725 @@
+{
+  "courseCode": "SYSBIO",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "SYSBIO"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Systémová biologie"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Systems Biology"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (7 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující; doktorský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "cvičení není možné absolvovat distančně"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Mgr. Martin Černý, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav molekulární biologie a radiobiologie (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Mgr. Martin Černý, Ph.D. (cvičící, garant, přednášející, zkoušející)Pengxi Wang (cvičící)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Seznámení s náplní předmětu, historie systémové biologie"
+    },
+    {
+      "label": "b.",
+      "content": "Vstupní test a poučení o bezpečnosti práce v laboratoři"
+    },
+    {
+      "label": "2.",
+      "content": "Metabolomika - extrakce (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Příprava a zpracování vzorků"
+    },
+    {
+      "label": "b.",
+      "content": "Techniky extrakce metabolitů"
+    },
+    {
+      "label": "c.",
+      "content": "Stabilita izolovaných látek"
+    },
+    {
+      "label": "d.",
+      "content": "Enzymatické metody pro detekci a kvantifikaci metabolitů"
+    },
+    {
+      "label": "3.",
+      "content": "Metabolomika – polární látky (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Principy separace"
+    },
+    {
+      "label": "b.",
+      "content": "Separace a detekce metabolitů pomocí kapalinové chromatografie"
+    },
+    {
+      "label": "c.",
+      "content": "Derivatizace a detekce pomocí plynové chromatografie"
+    },
+    {
+      "label": "d.",
+      "content": "Využití NMR v metabolomice"
+    },
+    {
+      "label": "4.",
+      "content": "Využití hmotnostní spektrometrie v metabolomice (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Hmotnostní spektrometrie spojená s kapalinovou a plynovou chromatografií"
+    },
+    {
+      "label": "b.",
+      "content": "Spektrální knihovny a další metody identifikace látek"
+    },
+    {
+      "label": "c.",
+      "content": "Glykomika"
+    },
+    {
+      "label": "5.",
+      "content": "Lipidomika (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Dělení lipidů a metody pro jejich extrakci"
+    },
+    {
+      "label": "b.",
+      "content": "Analýza lipidů"
+    },
+    {
+      "label": "6.",
+      "content": "Analýza bioaktivních molekul (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Cílené analýzy"
+    },
+    {
+      "label": "b.",
+      "content": "Profilování hormonů a jejich derivátů"
+    },
+    {
+      "label": "c.",
+      "content": "Toxiny a xenobiotika"
+    },
+    {
+      "label": "7.",
+      "content": "Interaktomika (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Fyzikální podstata interakce a její role v biologickém systému"
+    },
+    {
+      "label": "b.",
+      "content": "Typy interakcí biomolekul se zaměřením na proteiny (protein-protein, protein-nukleová kyselina, obecně protein-ligand), síla vazby (tranzientní/stálé)"
+    },
+    {
+      "label": "c.",
+      "content": "Predikce interaktorů na základě expresních dat a predikce kolokalizace"
+    },
+    {
+      "label": "d.",
+      "content": "Predikce interaktorů na základě expresních dat a predikce kolokalizace"
+    },
+    {
+      "label": "e.",
+      "content": "Teorie grafů a její užití v analýze PPI"
+    },
+    {
+      "label": "8.",
+      "content": "Experimentální ověření interakcí (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Experimentální ověření pomocí komplementačních studií (Y2H a jeho modifikací, FRET, luciferáza)"
+    },
+    {
+      "label": "b.",
+      "content": "Transientní exprese a BiFC (biomolekulární fluorescenční komplementace)"
+    },
+    {
+      "label": "c.",
+      "content": "Purifikace interaktorů pomocí protilátek (pull-down assay, využití transgenních linií se značeným proteinem, ChIP-Seq/MS)"
+    },
+    {
+      "label": "d.",
+      "content": "Zachycení interaktorů pomocí afinitní chromatografie (využití rekombinantní exprese)"
+    },
+    {
+      "label": "e.",
+      "content": "Proximitní značení"
+    },
+    {
+      "label": "f.",
+      "content": "Zesíťování a XL-MS metody"
+    },
+    {
+      "label": "9.",
+      "content": "Fenomika (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Charakteristické znaky využitelné pro hodnocení růstu a vývoje rostlin"
+    },
+    {
+      "label": "b.",
+      "content": "3D-snímání rostlin"
+    },
+    {
+      "label": "c.",
+      "content": "Přístupy pro měření kořenového systému"
+    },
+    {
+      "label": "d.",
+      "content": "Fenotypizace a metody robotizace"
+    },
+    {
+      "label": "10.",
+      "content": "Metody fenomiky (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Měření vodního potenciálu"
+    },
+    {
+      "label": "b.",
+      "content": "Konduktivita"
+    },
+    {
+      "label": "c.",
+      "content": "Spektrální metody, využití dronů a satelitních snímků"
+    },
+    {
+      "label": "d.",
+      "content": "Profilování hormonů a stanovení enzymové aktivity"
+    },
+    {
+      "label": "11.",
+      "content": "Syntetická biologie (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Proteinové inženýrství a jeho potenciál"
+    },
+    {
+      "label": "b.",
+      "content": "Ektopické exprese, modifikace v enzymové specificitě, narušení interakcí"
+    },
+    {
+      "label": "c.",
+      "content": "Využití modifikovaných rostlin (fytoremediace, zvýšení odolnosti)"
+    },
+    {
+      "label": "d.",
+      "content": "Etická otázka"
+    },
+    {
+      "label": "12.",
+      "content": "Integrace omických dat (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Korelační analýza, multivariační analýza a další statistické metody pro interpretaci výsledků"
+    },
+    {
+      "label": "13.",
+      "content": "Modelování metabolismu (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Bioinformatika a metody modelování metabolismu"
+    },
+    {
+      "label": "14.",
+      "content": "Shrnutí a ověření získaných znalostí, vyhodnocení protokolů (dotace 2/3)"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "25 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "15 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "60 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Systémová biologie"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Systems Biology"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (7 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (7 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující; doktorský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: cvičení není možné absolvovat distančně"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Mgr. Martin Černý, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav molekulární biologie a radiobiologie (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Mgr. Martin Černý, Ph.D. (cvičící, garant, přednášející, zkoušející)Pengxi Wang (cvičící)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý9.00-12.50C03M. ČernýPřednáškaSudý týden32Úterý13.00-18.50C03M. Černý, P. WangCvičeníSudý týden22"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Pokroky v molekulární biologii, biochemii, nové citlivé analytické metody a především bioinformatice umožnily vznik systémové biologie. Základním cílem systémové biologie je oprostit se od úzkého pohledu na jednotlivé komponenty buňky a místo toho sledovat, popsat a pochopit jejich vzájemné propojení, které určuje funkci a vlastnosti celého systému - živého organismu. Tento předmět navazuje na „Základy genomiky a proteomiky“, rozšiřuje a doplňuje studentům znalosti v oblasti „omických analýz“ se zaměřením na metabolomiku, interaktomiku, fenomiku a integraci dat. Vzhledem k experimentálnímu zaměření celého předmětu je časový rozpis pouze orientační a bude přizpůsoben úspěšnosti realizovaných experimentů."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod (dotace 2/3) a.Seznámení s náplní předmětu, historie systémové biologieb.Vstupní test a poučení o bezpečnosti práce v laboratoři2.Metabolomika - extrakce (dotace 2/3) a.Příprava a zpracování vzorkůb.Techniky extrakce metabolitůc.Stabilita izolovaných látekd.Enzymatické metody pro detekci a kvantifikaci metabolitů3.Metabolomika – polární látky (dotace 2/3) a.Principy separaceb.Separace a detekce metabolitů pomocí kapalinové chromatografiec.Derivatizace a detekce pomocí plynové chromatografied.Využití NMR v metabolomice4.Využití hmotnostní spektrometrie v metabolomice (dotace 2/3) a.Hmotnostní spektrometrie spojená s kapalinovou a plynovou chromatografiíb.Spektrální knihovny a další metody identifikace látekc.Glykomika5.Lipidomika (dotace 2/3) a.Dělení lipidů a metody pro jejich extrakcib.Analýza lipidů6.Analýza bioaktivních molekul (dotace 2/3) a.Cílené analýzyb.Profilování hormonů a jejich derivátůc.Toxiny a xenobiotika7.Interaktomika (dotace 2/3) a.Fyzikální podstata interakce a její role v biologickém systémub.Typy interakcí biomolekul se zaměřením na proteiny (protein-protein, protein-nukleová kyselina, obecně protein-ligand), síla vazby (tranzientní/stálé)c.Predikce interaktorů na základě expresních dat a predikce kolokalizaced.Predikce interaktorů na základě expresních dat a predikce kolokalizacee.Teorie grafů a její užití v analýze PPI8.Experimentální ověření interakcí (dotace 2/3) a.Experimentální ověření pomocí komplementačních studií (Y2H a jeho modifikací, FRET, luciferáza)b.Transientní exprese a BiFC (biomolekulární fluorescenční komplementace)c.Purifikace interaktorů pomocí protilátek (pull-down assay, využití transgenních linií se značeným proteinem, ChIP-Seq/MS)d.Zachycení interaktorů pomocí afinitní chromatografie (využití rekombinantní exprese)e.Proximitní značeníf.Zesíťování a XL-MS metody9.Fenomika (dotace 2/3) a.Charakteristické znaky využitelné pro hodnocení růstu a vývoje rostlinb.3D-snímání rostlinc.Přístupy pro měření kořenového systémud.Fenotypizace a metody robotizace10.Metody fenomiky (dotace 2/3) a.Měření vodního potenciálub.Konduktivitac.Spektrální metody, využití dronů a satelitních snímkůd.Profilování hormonů a stanovení enzymové aktivity11.Syntetická biologie (dotace 2/3) a.Proteinové inženýrství a jeho potenciálb.Ektopické exprese, modifikace v enzymové specificitě, narušení interakcíc.Využití modifikovaných rostlin (fytoremediace, zvýšení odolnosti)d.Etická otázka12.Integrace omických dat (dotace 2/3) a.Korelační analýza, multivariační analýza a další statistické metody pro interpretaci výsledků13.Modelování metabolismu (dotace 2/3) a.Bioinformatika a metody modelování metabolismu14.Shrnutí a ověření získaných znalostí, vyhodnocení protokolů (dotace 2/3)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Seznámení s náplní předmětu, historie systémové biologieb.Vstupní test a poučení o bezpečnosti práce v laboratoři"
+    },
+    {
+      "label": "[section] Úvod",
+      "content": "a.Seznámení s náplní předmětu, historie systémové biologieb.Vstupní test a poučení o bezpečnosti práce v laboratoři"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Příprava a zpracování vzorkůb.Techniky extrakce metabolitůc.Stabilita izolovaných látekd.Enzymatické metody pro detekci a kvantifikaci metabolitů"
+    },
+    {
+      "label": "[section] Metabolomika - extrakce",
+      "content": "a.Příprava a zpracování vzorkůb.Techniky extrakce metabolitůc.Stabilita izolovaných látekd.Enzymatické metody pro detekci a kvantifikaci metabolitů"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Principy separaceb.Separace a detekce metabolitů pomocí kapalinové chromatografiec.Derivatizace a detekce pomocí plynové chromatografied.Využití NMR v metabolomice"
+    },
+    {
+      "label": "[section] Metabolomika – polární látky",
+      "content": "a.Principy separaceb.Separace a detekce metabolitů pomocí kapalinové chromatografiec.Derivatizace a detekce pomocí plynové chromatografied.Využití NMR v metabolomice"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Hmotnostní spektrometrie spojená s kapalinovou a plynovou chromatografiíb.Spektrální knihovny a další metody identifikace látekc.Glykomika"
+    },
+    {
+      "label": "[section] Využití hmotnostní spektrometrie v metabolomice",
+      "content": "a.Hmotnostní spektrometrie spojená s kapalinovou a plynovou chromatografiíb.Spektrální knihovny a další metody identifikace látekc.Glykomika"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Dělení lipidů a metody pro jejich extrakcib.Analýza lipidů"
+    },
+    {
+      "label": "[section] Lipidomika",
+      "content": "a.Dělení lipidů a metody pro jejich extrakcib.Analýza lipidů"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Cílené analýzyb.Profilování hormonů a jejich derivátůc.Toxiny a xenobiotika"
+    },
+    {
+      "label": "[section] Analýza bioaktivních molekul",
+      "content": "a.Cílené analýzyb.Profilování hormonů a jejich derivátůc.Toxiny a xenobiotika"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Fyzikální podstata interakce a její role v biologickém systémub.Typy interakcí biomolekul se zaměřením na proteiny (protein-protein, protein-nukleová kyselina, obecně protein-ligand), síla vazby (tranzientní/stálé)c.Predikce interaktorů na základě expresních dat a predikce kolokalizaced.Predikce interaktorů na základě expresních dat a predikce kolokalizacee.Teorie grafů a její užití v analýze PPI"
+    },
+    {
+      "label": "[section] Interaktomika",
+      "content": "a.Fyzikální podstata interakce a její role v biologickém systémub.Typy interakcí biomolekul se zaměřením na proteiny (protein-protein, protein-nukleová kyselina, obecně protein-ligand), síla vazby (tranzientní/stálé)c.Predikce interaktorů na základě expresních dat a predikce kolokalizaced.Predikce interaktorů na základě expresních dat a predikce kolokalizacee.Teorie grafů a její užití v analýze PPI"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Experimentální ověření pomocí komplementačních studií (Y2H a jeho modifikací, FRET, luciferáza)b.Transientní exprese a BiFC (biomolekulární fluorescenční komplementace)c.Purifikace interaktorů pomocí protilátek (pull-down assay, využití transgenních linií se značeným proteinem, ChIP-Seq/MS)d.Zachycení interaktorů pomocí afinitní chromatografie (využití rekombinantní exprese)e.Proximitní značeníf.Zesíťování a XL-MS metody"
+    },
+    {
+      "label": "[section] Experimentální ověření interakcí",
+      "content": "a.Experimentální ověření pomocí komplementačních studií (Y2H a jeho modifikací, FRET, luciferáza)b.Transientní exprese a BiFC (biomolekulární fluorescenční komplementace)c.Purifikace interaktorů pomocí protilátek (pull-down assay, využití transgenních linií se značeným proteinem, ChIP-Seq/MS)d.Zachycení interaktorů pomocí afinitní chromatografie (využití rekombinantní exprese)e.Proximitní značeníf.Zesíťování a XL-MS metody"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Charakteristické znaky využitelné pro hodnocení růstu a vývoje rostlinb.3D-snímání rostlinc.Přístupy pro měření kořenového systémud.Fenotypizace a metody robotizace"
+    },
+    {
+      "label": "[section] Fenomika",
+      "content": "a.Charakteristické znaky využitelné pro hodnocení růstu a vývoje rostlinb.3D-snímání rostlinc.Přístupy pro měření kořenového systémud.Fenotypizace a metody robotizace"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Měření vodního potenciálub.Konduktivitac.Spektrální metody, využití dronů a satelitních snímkůd.Profilování hormonů a stanovení enzymové aktivity"
+    },
+    {
+      "label": "[section] Metody fenomiky",
+      "content": "a.Měření vodního potenciálub.Konduktivitac.Spektrální metody, využití dronů a satelitních snímkůd.Profilování hormonů a stanovení enzymové aktivity"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Proteinové inženýrství a jeho potenciálb.Ektopické exprese, modifikace v enzymové specificitě, narušení interakcíc.Využití modifikovaných rostlin (fytoremediace, zvýšení odolnosti)d.Etická otázka"
+    },
+    {
+      "label": "[section] Syntetická biologie",
+      "content": "a.Proteinové inženýrství a jeho potenciálb.Ektopické exprese, modifikace v enzymové specificitě, narušení interakcíc.Využití modifikovaných rostlin (fytoremediace, zvýšení odolnosti)d.Etická otázka"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Korelační analýza, multivariační analýza a další statistické metody pro interpretaci výsledků"
+    },
+    {
+      "label": "[section] Integrace omických dat",
+      "content": "a.Korelační analýza, multivariační analýza a další statistické metody pro interpretaci výsledků"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Bioinformatika a metody modelování metabolismu"
+    },
+    {
+      "label": "[section] Modelování metabolismu",
+      "content": "a.Bioinformatika a metody modelování metabolismu"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení42 hCelkem70 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Podmínkou pro ukončení předmětu je zápočet za cvičení (účast, zpracování laboratorního deníku, literární rešerše na dané téma a prokázání pochopení cílů cvičení) a absolvování zkoušky. Zkouška obsahuje vstupní písemnou přípravu a ústní přezkoušení."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích25 %Absolvování závěrečného testu15 %Absolvování závěrečné ústní zkoušky60 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:WECKWERTH, Wolfram; KAHL, Günter. The handbook of plant metabolomics. Weinheim: Wiley-VCH, 424 s. Molecular plant biology haandbook series. ISBN 978-3-527-32777-5.ALON, Uri. 2020. An introduction to systems biology: design principles of biological circuits. Boca Raton: CRC Press/Taylor & Francis Group, 324 s. ISBN 978-1-4398-3717-7. Systems biology. 2017. Weinheim, Germany: Wiley-VCH Verlag GmbH & Co. KGaA, 512 s. Advanced Biotechnology. ISBN 978-3-527-33558-9."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "WECKWERTH, Wolfram; KAHL, Günter. The handbook of plant metabolomics. Weinheim: Wiley-VCH, 424 s. Molecular plant biology haandbook series. ISBN 978-3-527-32777-5.ALON, Uri. 2020. An introduction to systems biology: design principles of biological circuits. Boca Raton: CRC Press/Taylor & Francis Group, 324 s. ISBN 978-1-4398-3717-7. Systems biology. 2017. Weinheim, Germany: Wiley-VCH Verlag GmbH & Co. KGaA, 512 s. Advanced Biotechnology. ISBN 978-3-527-33558-9."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Specializace SNMBBR Molekulární biologie a biotechnologie rostlin, prezenční forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "SYSBIO"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Systémová biologie"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Systems Biology"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (7 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing; doctor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "Remote completion of the subject is not possible."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Mgr. Martin Černý, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Molecular Biology and Radiobiology (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Mgr. Martin Černý, Ph.D. (examiner, instructor, lecturer, supervisor)Pengxi Wang (instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "25 %"
+    },
+    {
+      "label": "Final test",
+      "content": "15 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "60 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Systémová biologie"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Systems Biology"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (7 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (7 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing; doctor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: Remote completion of the subject is not possible."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Mgr. Martin Černý, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Molecular Biology and Radiobiology (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Mgr. Martin Černý, Ph.D. (examiner, instructor, lecturer, supervisor)Pengxi Wang (instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday9.00-12.50C03M. ČernýLectureEven week32Tuesday13.00-18.50C03M. Černý, P. WangSeminarEven week22"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Advances in molecular biology, biochemistry, sensitive analytical methods, and, most importantly, bioinformatics have facilitated the emergence of systems biology. The primary objective of systems biology is to shift from a narrow focus on individual cellular components to a holistic approach that examines, describes, and comprehends their interconnectedness, which ultimately determines the function and properties of the entire system—a living organism. This course builds upon the \"Fundamentals of Genomics and Proteomics,\" expanding and complementing students' knowledge in the realm of \"omics analyses\" with a particular emphasis on metabolomics, interactomics, phenomics, and data integration. Due to the experimental nature of the course, the timetable is subject to change and will be adjusted based on the progress of the experiments."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "The content of the course has not been saved in this language version."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice42 hTotal70 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "To successfully complete the course, students must earn credit for the exercise (which includes participation, preparation of a laboratory diary, literature research on the assigned topic, and demonstration of understanding the exercise objectives) and pass the final exam. The exam consists of a written preparation and an oral examination."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation25 %Final test15 %Final oral exam60 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:WECKWERTH, Wolfram; KAHL, Günter. The handbook of plant metabolomics. Weinheim: Wiley-VCH, 424 p. Molecular plant biology haandbook series. ISBN 978-3-527-32777-5.ALON, Uri. 2020. An introduction to systems biology: design principles of biological circuits. Boca Raton: CRC Press/Taylor & Francis Group, 324 p. ISBN 978-1-4398-3717-7. Systems biology. 2017. Weinheim, Germany: Wiley-VCH Verlag GmbH & Co. KGaA, 512 p. Advanced Biotechnology. ISBN 978-3-527-33558-9."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "WECKWERTH, Wolfram; KAHL, Günter. The handbook of plant metabolomics. Weinheim: Wiley-VCH, 424 p. Molecular plant biology haandbook series. ISBN 978-3-527-32777-5.ALON, Uri. 2020. An introduction to systems biology: design principles of biological circuits. Boca Raton: CRC Press/Taylor & Francis Group, 324 p. ISBN 978-1-4398-3717-7. Systems biology. 2017. Weinheim, Germany: Wiley-VCH Verlag GmbH & Co. KGaA, 512 p. Advanced Biotechnology. ISBN 978-3-527-33558-9."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Track SNMBBR Plant Molecular Biology and Biotechnology, full-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:20:28",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

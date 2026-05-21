@@ -1,0 +1,697 @@
+{
+  "courseCode": "EBA-DSND",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBA-DSND"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Databázové systémy a návrh databází v AJ"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Database Systems and Database Design"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Možnost studia předmětu během zahraniční mobility existuje za předpokladu, že se student ozve vyučijícímu nejpozději v prvním výukovém týdnu a společně se domluví na postupu v průběhu semestru. Zkoušku pak musí vykonat stejným způsobem jako ostatní studenti."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "angličtina"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng. (garant)Ing. Pavel Turčínek, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Teoretický úvod do databázových systémů (dotace 0/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní pojmy"
+    },
+    {
+      "label": "b.",
+      "content": "Historie zpracování dat"
+    },
+    {
+      "label": "c.",
+      "content": "Databázové modely"
+    },
+    {
+      "label": "2.",
+      "content": "Návrh logického modelu (dotace 0/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Ukládání dat v počítači"
+    },
+    {
+      "label": "b.",
+      "content": "Datové modelování, entity, vztahy, integritní omezení, ERD"
+    },
+    {
+      "label": "c.",
+      "content": "Normální formy"
+    },
+    {
+      "label": "d.",
+      "content": "Pokročilejší nástroje modelování"
+    },
+    {
+      "label": "e.",
+      "content": "Modelování času"
+    },
+    {
+      "label": "3.",
+      "content": "Převod do fyzického modelu (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Terminologie"
+    },
+    {
+      "label": "b.",
+      "content": "Převod na tabulky, mapování vazeb"
+    },
+    {
+      "label": "c.",
+      "content": "Použití DDL pro vytvoření databáze v rámci databázového systému"
+    },
+    {
+      "label": "d.",
+      "content": "DML – modifikace datové základny"
+    },
+    {
+      "label": "4.",
+      "content": "Dotazovací jazyk DQL (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Anatomie příkazu SELECT"
+    },
+    {
+      "label": "b.",
+      "content": "Použití funkcí v dotazech (jednořádkové, agregační)"
+    },
+    {
+      "label": "c.",
+      "content": "Spojení (přirozené, vnitřní, vnější)"
+    },
+    {
+      "label": "d.",
+      "content": "Hierarchické dotazování"
+    },
+    {
+      "label": "e.",
+      "content": "Vnořené dotazy (jednoduché, vracející více řádků, korelované)"
+    },
+    {
+      "label": "5.",
+      "content": "Procedurální nástavba PL/SQL (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Princip transakcí a jejich omezení"
+    },
+    {
+      "label": "b.",
+      "content": "Práce s nepojmenovaným blokem"
+    },
+    {
+      "label": "c.",
+      "content": "Procedury, funkce, triggery"
+    },
+    {
+      "label": "d.",
+      "content": "Výjimky, jejich vyvolání a zpracování"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "30 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "10 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "20 %"
+    },
+    {
+      "label": "Absolvování závěrečné praktické zkoušky",
+      "content": "40 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Databázové systémy a návrh databází v AJ"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Database Systems and Database Design"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Možnost studia předmětu během zahraniční mobility existuje za předpokladu, že se student ozve vyučijícímu nejpozději v prvním výukovém týdnu a společně se domluví na postupu v průběhu semestru. Zkoušku pak musí vykonat stejným způsobem jako ostatní studenti."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: angličtina"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: prof. Ing. Radim Farana, CSc., FEng. (garant)Ing. Pavel Turčínek, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "DenOd-doMístnostVyučujícíAkceČetnostKapacitaStředa9.00-10.50Q08P. TurčínekCvičeníKaždý týden15"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je představit současné databázové modely a v praxi využít možnosti soudobých databázových systémů při vývoji vlastních aplikací. Po absolvování předmětu je student schopen navrhnout model databáze pro příslušnou aplikaci, popsat a vysvětlit pokročilé SQL dotazy a jejich části a porozumět logice SQL dotazů, realizovat implementaci modelu databáze v nejběžnějších databázových systémech, používat základní konstrukce PL/SQL."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Teoretický úvod do databázových systémů (dotace 0/1) a.Základní pojmyb.Historie zpracování datc.Databázové modely2.Návrh logického modelu (dotace 0/3) a.Ukládání dat v počítačib.Datové modelování, entity, vztahy, integritní omezení, ERDc.Normální formyd.Pokročilejší nástroje modelováníe.Modelování času3.Převod do fyzického modelu (dotace 0/2) a.Terminologieb.Převod na tabulky, mapování vazebc.Použití DDL pro vytvoření databáze v rámci databázového systémud.DML – modifikace datové základny4.Dotazovací jazyk DQL (dotace 0/4) a.Anatomie příkazu SELECTb.Použití funkcí v dotazech (jednořádkové, agregační)c.Spojení (přirozené, vnitřní, vnější)d.Hierarchické dotazováníe.Vnořené dotazy (jednoduché, vracející více řádků, korelované)5.Procedurální nástavba PL/SQL (dotace 0/4) a.Princip transakcí a jejich omezeníb.Práce s nepojmenovaným blokemc.Procedury, funkce, triggeryd.Výjimky, jejich vyvolání a zpracování"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Základní pojmyb.Historie zpracování datc.Databázové modely"
+    },
+    {
+      "label": "[section] Teoretický úvod do databázových systémů",
+      "content": "a.Základní pojmyb.Historie zpracování datc.Databázové modely"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Ukládání dat v počítačib.Datové modelování, entity, vztahy, integritní omezení, ERDc.Normální formyd.Pokročilejší nástroje modelováníe.Modelování času"
+    },
+    {
+      "label": "[section] Návrh logického modelu",
+      "content": "a.Ukládání dat v počítačib.Datové modelování, entity, vztahy, integritní omezení, ERDc.Normální formyd.Pokročilejší nástroje modelováníe.Modelování času"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Terminologieb.Převod na tabulky, mapování vazebc.Použití DDL pro vytvoření databáze v rámci databázového systémud.DML – modifikace datové základny"
+    },
+    {
+      "label": "[section] Převod do fyzického modelu",
+      "content": "a.Terminologieb.Převod na tabulky, mapování vazebc.Použití DDL pro vytvoření databáze v rámci databázového systémud.DML – modifikace datové základny"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Anatomie příkazu SELECTb.Použití funkcí v dotazech (jednořádkové, agregační)c.Spojení (přirozené, vnitřní, vnější)d.Hierarchické dotazováníe.Vnořené dotazy (jednoduché, vracející více řádků, korelované)"
+    },
+    {
+      "label": "[section] Dotazovací jazyk DQL",
+      "content": "a.Anatomie příkazu SELECTb.Použití funkcí v dotazech (jednořádkové, agregační)c.Spojení (přirozené, vnitřní, vnější)d.Hierarchické dotazováníe.Vnořené dotazy (jednoduché, vracející více řádků, korelované)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Princip transakcí a jejich omezeníb.Práce s nepojmenovaným blokemc.Procedury, funkce, triggeryd.Výjimky, jejich vyvolání a zpracování"
+    },
+    {
+      "label": "[section] Procedurální nástavba PL/SQL",
+      "content": "a.Princip transakcí a jejich omezeníb.Práce s nepojmenovaným blokemc.Procedury, funkce, triggeryd.Výjimky, jejich vyvolání a zpracování"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumcvičení14 hpříprava na zkoušku30 hpříprava prezentace1 hzpracování projektů67 hPrůběžná příprava na semináře56 hCelkem168 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "V průběhu semestru vypracují studenti tři projekty. První je týmový a je zaměřena na návrh datového modelu. Druhý projekt je vypracováván samostatně a věnuje se zpracování dat a získání informací pomocí SQL. Třetí projekt je také samostatný a zabývá se tvorbou netriviálních objektů v rámci PL/SQL. Všechny projekty je nutné splnit na 60 %. Splněním všech tří projektů student získá malý zápočet. Za každý projekt lze získat až 10 bodů (Získaná procenta se podělí 10). Zkouška se skládá z el. testu (10 bodů), praktické části (40 bodů) a teoretické části (20 bodů). Z každé části zkoušky musí student dosáhnout minimálně 60 %. Celkové hodnocení je dáno součtem bodů za průběžné projekty, zkouškového testu, praktické a teoretické části zkoušky: A (alespoň 90 bodů), B (83 bodů), C (75 bodů), D (68 bodů), E (60 bodů)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumVypracování semestrální práce30 %Absolvování závěrečného testu10 %Absolvování závěrečné ústní zkoušky20 %Absolvování závěrečné praktické zkoušky40 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:FEUERSTEIN, Steven. 2005. Oracle PL/SQL Programming. 4. vyd. Beijing: O'Reilly, 1171 s. ISBN 0-596-00977-1.FREEMAN, Robert G. Oracle database 11g: new features. New York: McGraw-Hill/Oracle Press, 362 s. ISBN 978-0-07-149661-2. Advanced Oracle PL/SQL: Programming with Packages. 1996. 1. vyd. Cambridge: O'Reilly, 661 s. ISBN 1-56592-238-7.WILTON, Paul; COLBY, John W. 2011. Beginning SQL. Wrox, 519 s. ISBN 978-0-764-57732-1.COPELAND, Rick; MYERS, Jason. 2015. Essential SQLAlchemy. Sebastopol, CA, USA: OReilly Media, 300 s. ISBN 978-0-596-51614-7.Doporučená:MACLENNAN, Jamie. 2009. Data mining with Microsoft SQL Server 2008. 1. vyd. Indianapolis: Wiley, 636 s. ISBN 978-0-470-27774-4.CELKO, Joe. 2005. Joe Celko's SQL for Smarties: Advanced SQL Programming. 3. vyd. Massachusetts: Morgan Kaufmann, 840 s. ISBN 978-0-123-69379-2.MCCREARY, Daniel; KELLY, Ann. 2013. Making Sense of NoSQL. : Manning Publications, 312 s. ISBN 978-1-61729-107-4.HARRISON, Guy. 2016. Next Generation Databases: NoSQL, NewSQL, and Big Data. New York: Apress, ISBN 978-1-484213-30-8.ROESER, Mary Beth. 2017. Oracle Database SQL Language Reference, 12c Release 1 (12.1). https://docs.oracle.com/database/121/SQLRF/ ."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "FEUERSTEIN, Steven. 2005. Oracle PL/SQL Programming. 4. vyd. Beijing: O'Reilly, 1171 s. ISBN 0-596-00977-1.FREEMAN, Robert G. Oracle database 11g: new features. New York: McGraw-Hill/Oracle Press, 362 s. ISBN 978-0-07-149661-2. Advanced Oracle PL/SQL: Programming with Packages. 1996. 1. vyd. Cambridge: O'Reilly, 661 s. ISBN 1-56592-238-7.WILTON, Paul; COLBY, John W. 2011. Beginning SQL. Wrox, 519 s. ISBN 978-0-764-57732-1.COPELAND, Rick; MYERS, Jason. 2015. Essential SQLAlchemy. Sebastopol, CA, USA: OReilly Media, 300 s. ISBN 978-0-596-51614-7."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "MACLENNAN, Jamie. 2009. Data mining with Microsoft SQL Server 2008. 1. vyd. Indianapolis: Wiley, 636 s. ISBN 978-0-470-27774-4.CELKO, Joe. 2005. Joe Celko's SQL for Smarties: Advanced SQL Programming. 3. vyd. Massachusetts: Morgan Kaufmann, 840 s. ISBN 978-0-123-69379-2.MCCREARY, Daniel; KELLY, Ann. 2013. Making Sense of NoSQL. : Manning Publications, 312 s. ISBN 978-1-61729-107-4.HARRISON, Guy. 2016. Next Generation Databases: NoSQL, NewSQL, and Big Data. New York: Apress, ISBN 978-1-484213-30-8.ROESER, Mary Beth. 2017. Oracle Database SQL Language Reference, 12c Release 1 (12.1). https://docs.oracle.com/database/121/SQLRF/ ."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBA-DSND"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Databázové systémy a návrh databází v AJ"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Database Systems and Database Design"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The possibility of studying the course during international mobility exists, provided that the student contacts the teacher no later than in the first teaching week and agrees on the progress during the semester. The student must then take the exam in the same way as other students."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "English"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng. (supervisor)Ing. Pavel Turčínek, Ph.D. (examiner, instructor, lecturer, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Theoretical introduction to database systems (allowance 0/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic concepts"
+    },
+    {
+      "label": "b.",
+      "content": "History of data processing"
+    },
+    {
+      "label": "c.",
+      "content": "Database models"
+    },
+    {
+      "label": "2.",
+      "content": "Database design, logical model (allowance 0/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Storing data on your computer"
+    },
+    {
+      "label": "b.",
+      "content": "Data modeling, entities, relationships, integrity constraints, ERD"
+    },
+    {
+      "label": "c.",
+      "content": "Normal forms"
+    },
+    {
+      "label": "d.",
+      "content": "Advanced modeling tools"
+    },
+    {
+      "label": "e.",
+      "content": "Modeling of time"
+    },
+    {
+      "label": "3.",
+      "content": "Converting to a physical model (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Terminology"
+    },
+    {
+      "label": "b.",
+      "content": "Transfer to a table, mapping relationships"
+    },
+    {
+      "label": "c.",
+      "content": "Using DDL to create a database within a database system"
+    },
+    {
+      "label": "d.",
+      "content": "DML - data manipulation language"
+    },
+    {
+      "label": "4.",
+      "content": "Query language DQL (allowance 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Anatomy of a SELECT statement"
+    },
+    {
+      "label": "b.",
+      "content": "Using functions in queries (singlerow, multiplerow)"
+    },
+    {
+      "label": "c.",
+      "content": "Join (natural, internal, external)"
+    },
+    {
+      "label": "d.",
+      "content": "Hierarchical querying"
+    },
+    {
+      "label": "e.",
+      "content": "Nested queries (simple, returning multiple rows, correlated)"
+    },
+    {
+      "label": "5.",
+      "content": "Procedural extension PL/SQL (allowance 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Working with blocks"
+    },
+    {
+      "label": "b.",
+      "content": "Principle of transactions and their limitations"
+    },
+    {
+      "label": "c.",
+      "content": "Procedures, functions, triggers"
+    },
+    {
+      "label": "d.",
+      "content": "Exceptions, their induction and processing"
+    },
+    {
+      "label": "Term paper",
+      "content": "30 %"
+    },
+    {
+      "label": "Final test",
+      "content": "10 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "20 %"
+    },
+    {
+      "label": "Passing the final practical exam",
+      "content": "40 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Databázové systémy a návrh databází v AJ"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Database Systems and Database Design"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The possibility of studying the course during international mobility exists, provided that the student contacts the teacher no later than in the first teaching week and agrees on the progress during the semester. The student must then take the exam in the same way as other students."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: English"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. Ing. Radim Farana, CSc., FEng. (supervisor)Ing. Pavel Turčínek, Ph.D. (examiner, instructor, lecturer, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "DayFrom-tillRoomTeacherEntryFrequencyCapacityWednesday9.00-10.50Q08P. TurčínekSeminarEvery week15"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to present contemporary database models and to use the possibilities of contemporary database systems in the development of their own applications. After completing the course, the student is able to design a database model for a particular application, describe and explain advanced SQL queries and their parts and understand the logic of SQL queries, implement a database model implementation in the most common database systems, use basic PL/SQL constructions."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Theoretical introduction to database systems (allowance 0/1) a.Basic conceptsb.History of data processingc.Database models2.Database design, logical model (allowance 0/3) a.Storing data on your computerb.Data modeling, entities, relationships, integrity constraints, ERDc.Normal formsd.Advanced modeling toolse.Modeling of time3.Converting to a physical model (allowance 0/2) a.Terminologyb.Transfer to a table, mapping relationshipsc.Using DDL to create a database within a database systemd.DML - data manipulation language4.Query language DQL (allowance 0/4) a.Anatomy of a SELECT statementb.Using functions in queries (singlerow, multiplerow)c.Join (natural, internal, external)d.Hierarchical queryinge.Nested queries (simple, returning multiple rows, correlated)5.Procedural extension PL/SQL (allowance 0/4) a.Working with blocksb.Principle of transactions and their limitationsc.Procedures, functions, triggersd.Exceptions, their induction and processing"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Basic conceptsb.History of data processingc.Database models"
+    },
+    {
+      "label": "[section] Theoretical introduction to database systems",
+      "content": "a.Basic conceptsb.History of data processingc.Database models"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Storing data on your computerb.Data modeling, entities, relationships, integrity constraints, ERDc.Normal formsd.Advanced modeling toolse.Modeling of time"
+    },
+    {
+      "label": "[section] Database design, logical model",
+      "content": "a.Storing data on your computerb.Data modeling, entities, relationships, integrity constraints, ERDc.Normal formsd.Advanced modeling toolse.Modeling of time"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Terminologyb.Transfer to a table, mapping relationshipsc.Using DDL to create a database within a database systemd.DML - data manipulation language"
+    },
+    {
+      "label": "[section] Converting to a physical model",
+      "content": "a.Terminologyb.Transfer to a table, mapping relationshipsc.Using DDL to create a database within a database systemd.DML - data manipulation language"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Anatomy of a SELECT statementb.Using functions in queries (singlerow, multiplerow)c.Join (natural, internal, external)d.Hierarchical queryinge.Nested queries (simple, returning multiple rows, correlated)"
+    },
+    {
+      "label": "[section] Query language DQL",
+      "content": "a.Anatomy of a SELECT statementb.Using functions in queries (singlerow, multiplerow)c.Join (natural, internal, external)d.Hierarchical queryinge.Nested queries (simple, returning multiple rows, correlated)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Working with blocksb.Principle of transactions and their limitationsc.Procedures, functions, triggersd.Exceptions, their induction and processing"
+    },
+    {
+      "label": "[section] Procedural extension PL/SQL",
+      "content": "a.Working with blocksb.Principle of transactions and their limitationsc.Procedures, functions, triggersd.Exceptions, their induction and processing"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancepractice14 hpreparation for exam30 hpreparation of presentation1 helaboration and execution of projects67 hContinuous preparation for seminars56 hTotal168 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "During the semester, students work on three projects. The first is a team project and is focused on the design of a data model. The second project is developed individually and deals with data processing and information retrieval using SQL. The third project is also individual and deals with the creation of non-trivial objects within PL/SQL. All projects must be completed to 60%. By completing all three projects, the student will receive a small credit. Up to 10 points can be obtained for each project (The percentage obtained is divided by 10). The test consists of el. test (10 points), practical part (40 points), and theoretical part (20 points). The student must achieve at least 60%. The overall evaluation is given by the sum of points for ongoing projects, exam test, practical and theoretical parts of the exam: A (at least 90 points), B (83 points), C (75 points), D (68 points), E (60 points)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTerm paper30 %Final test10 %Final oral exam20 %Passing the final practical exam40 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:FEUERSTEIN, Steven. 2005. Oracle PL/SQL Programming. 4th ed. Beijing: O'Reilly, 1171 p. ISBN 0-596-00977-1.FREEMAN, Robert G. Oracle database 11g: new features. New York: McGraw-Hill/Oracle Press, 362 p. ISBN 978-0-07-149661-2. Advanced Oracle PL/SQL: Programming with Packages. 1996. 1st ed. Cambridge: O'Reilly, 661 p. ISBN 1-56592-238-7.WILTON, Paul; COLBY, John W. 2011. Beginning SQL. Wrox, 519 p. ISBN 978-0-764-57732-1.COPELAND, Rick; MYERS, Jason. 2015. Essential SQLAlchemy. Sebastopol, CA, USA: OReilly Media, 300 p. ISBN 978-0-596-51614-7.Recommended:MACLENNAN, Jamie. 2009. Data mining with Microsoft SQL Server 2008. 1st ed. Indianapolis: Wiley, 636 p. ISBN 978-0-470-27774-4.CELKO, Joe. 2005. Joe Celko's SQL for Smarties: Advanced SQL Programming. 3rd ed. Massachusetts: Morgan Kaufmann, 840 p. ISBN 978-0-123-69379-2.MCCREARY, Daniel; KELLY, Ann. 2013. Making Sense of NoSQL. : Manning Publications, 312 p. ISBN 978-1-61729-107-4.HARRISON, Guy. 2016. Next Generation Databases: NoSQL, NewSQL, and Big Data. New York: Apress, ISBN 978-1-484213-30-8.ROESER, Mary Beth. 2017. Oracle Database SQL Language Reference, 12c Release 1 (12.1). https://docs.oracle.com/database/121/SQLRF/ ."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "FEUERSTEIN, Steven. 2005. Oracle PL/SQL Programming. 4th ed. Beijing: O'Reilly, 1171 p. ISBN 0-596-00977-1.FREEMAN, Robert G. Oracle database 11g: new features. New York: McGraw-Hill/Oracle Press, 362 p. ISBN 978-0-07-149661-2. Advanced Oracle PL/SQL: Programming with Packages. 1996. 1st ed. Cambridge: O'Reilly, 661 p. ISBN 1-56592-238-7.WILTON, Paul; COLBY, John W. 2011. Beginning SQL. Wrox, 519 p. ISBN 978-0-764-57732-1.COPELAND, Rick; MYERS, Jason. 2015. Essential SQLAlchemy. Sebastopol, CA, USA: OReilly Media, 300 p. ISBN 978-0-596-51614-7."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "MACLENNAN, Jamie. 2009. Data mining with Microsoft SQL Server 2008. 1st ed. Indianapolis: Wiley, 636 p. ISBN 978-0-470-27774-4.CELKO, Joe. 2005. Joe Celko's SQL for Smarties: Advanced SQL Programming. 3rd ed. Massachusetts: Morgan Kaufmann, 840 p. ISBN 978-0-123-69379-2.MCCREARY, Daniel; KELLY, Ann. 2013. Making Sense of NoSQL. : Manning Publications, 312 p. ISBN 978-1-61729-107-4.HARRISON, Guy. 2016. Next Generation Databases: NoSQL, NewSQL, and Big Data. New York: Apress, ISBN 978-1-484213-30-8.ROESER, Mary Beth. 2017. Oracle Database SQL Language Reference, 12c Release 1 (12.1). https://docs.oracle.com/database/121/SQLRF/ ."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:35:18",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

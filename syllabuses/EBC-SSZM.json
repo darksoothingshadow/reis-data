@@ -1,0 +1,881 @@
+{
+  "courseCode": "EBC-SSZM",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-SSZM"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Správa síťových zařízení MikroTik"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "MikroTik Network Device Management"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Jiří Balej, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jiří Balej, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Andrej Juríčka (cvičící, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška a (Protokoly počítačových sítí nebo Počítačové sítě)"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do síťových zařízení MikroTik (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "technologie MikroTik"
+    },
+    {
+      "label": "b.",
+      "content": "modelové řady"
+    },
+    {
+      "label": "c.",
+      "content": "RouterOS"
+    },
+    {
+      "label": "d.",
+      "content": "způsoby přístupu k zařízení"
+    },
+    {
+      "label": "e.",
+      "content": "syntaxe příkazové řádky"
+    },
+    {
+      "label": "f.",
+      "content": "základní konfigurace"
+    },
+    {
+      "label": "2.",
+      "content": "Správa síťových zařízení MikroTik (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "aktualizace"
+    },
+    {
+      "label": "b.",
+      "content": "správa balíčků"
+    },
+    {
+      "label": "c.",
+      "content": "záloha a obnovení konfigurace"
+    },
+    {
+      "label": "d.",
+      "content": "licencování"
+    },
+    {
+      "label": "3.",
+      "content": "DHCP a ARP (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "protokol DHCP – konfigurace klient, server a relay, správa DHCP zápůjček"
+    },
+    {
+      "label": "b.",
+      "content": "protokol ARP – módy, nastavení, ARP tabulka a statické záznamy"
+    },
+    {
+      "label": "4.",
+      "content": "Přepínaní rámců na RouterOS (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "nastavení logických rozhraní"
+    },
+    {
+      "label": "b.",
+      "content": "přepínání rámců dle hardwarové architektury"
+    },
+    {
+      "label": "5.",
+      "content": "Směrování na RouterOS (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "směrovací tabulka a stavy jednotlivých záznamů"
+    },
+    {
+      "label": "b.",
+      "content": "konfigurace statického a dynamického směrování"
+    },
+    {
+      "label": "6.",
+      "content": "Bezdrátové připojení (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "802.11 a/b/g/n/ac/ax"
+    },
+    {
+      "label": "b.",
+      "content": "používané frekvence"
+    },
+    {
+      "label": "c.",
+      "content": "vysílací výkony"
+    },
+    {
+      "label": "d.",
+      "content": "národní omezení"
+    },
+    {
+      "label": "e.",
+      "content": "módy bezdrátového rozhraní"
+    },
+    {
+      "label": "f.",
+      "content": "zabezpečení"
+    },
+    {
+      "label": "g.",
+      "content": "monitoring bezdrátové sítě"
+    },
+    {
+      "label": "7.",
+      "content": "Firewall (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "princip firewallu na RouterOS"
+    },
+    {
+      "label": "b.",
+      "content": "filtrování vstupujícího a směrovaného provozu"
+    },
+    {
+      "label": "c.",
+      "content": "source a destination NAT"
+    },
+    {
+      "label": "8.",
+      "content": "QoS a mechanismy front (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "principy QoS"
+    },
+    {
+      "label": "b.",
+      "content": "omezení přenosové rychlosti pomocí Simple Queue a PCQ"
+    },
+    {
+      "label": "9.",
+      "content": "Tunelové mechanismy a VPN (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "PPP koncept"
+    },
+    {
+      "label": "b.",
+      "content": "autentizace v lokální síti pomocí PPPoE"
+    },
+    {
+      "label": "c.",
+      "content": "řešení VPN pomocí SSTP a IPsec"
+    },
+    {
+      "label": "10.",
+      "content": "Další nástroje a monitoring (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "specializované nástroje pro diagnostiku stavu sítě i zařízení"
+    },
+    {
+      "label": "b.",
+      "content": "monitoring stavu sítě"
+    },
+    {
+      "label": "c.",
+      "content": "řešení problémů"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Správa síťových zařízení MikroTik"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: MikroTik Network Device Management"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Jiří Balej, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jiří Balej, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Andrej Juríčka (cvičící, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a (Protokoly počítačových sítí nebo Počítačové sítě)"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí9.00-10.50Q15B-AIIJ. BalejPřednáškaLichý týden48Úterý11.00-13.50Q01.48B-AIIJ. Balej, A. JuríčkaCvičeníKaždý týden14Středa15.00-17.50Q01.48B-AIIJ. Balej, A. JuríčkaCvičeníKaždý týden14Pátek9.00-12.50Q-LCNAB-AIIJ. Balej, A. JuríčkaPřednáškaNepravidelně20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je seznámit studenty se způsoby konfigurace síťových prvků MikroTik a připravit je na složení certifikační zkoušky MTCNA."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do síťových zařízení MikroTik (dotace 1/3) a.technologie MikroTikb.modelové řadyc.RouterOSd.způsoby přístupu k zařízeníe.syntaxe příkazové řádkyf.základní konfigurace2.Správa síťových zařízení MikroTik (dotace 1/3) a.aktualizaceb.správa balíčkůc.záloha a obnovení konfiguraced.licencování3.DHCP a ARP (dotace 1/3) a.protokol DHCP – konfigurace klient, server a relay, správa DHCP zápůjčekb.protokol ARP – módy, nastavení, ARP tabulka a statické záznamy4.Přepínaní rámců na RouterOS (dotace 1/3) a.nastavení logických rozhraníb.přepínání rámců dle hardwarové architektury5.Směrování na RouterOS (dotace 1/3) a.směrovací tabulka a stavy jednotlivých záznamůb.konfigurace statického a dynamického směrování6.Bezdrátové připojení (dotace 2/6) a.802.11 a/b/g/n/ac/axb.používané frekvencec.vysílací výkonyd.národní omezeníe.módy bezdrátového rozhraníf.zabezpečeníg.monitoring bezdrátové sítě7.Firewall (dotace 2/6) a.princip firewallu na RouterOSb.filtrování vstupujícího a směrovaného provozuc.source a destination NAT8.QoS a mechanismy front (dotace 2/6) a.principy QoSb.omezení přenosové rychlosti pomocí Simple Queue a PCQ9.Tunelové mechanismy a VPN (dotace 2/6) a.PPP konceptb.autentizace v lokální síti pomocí PPPoEc.řešení VPN pomocí SSTP a IPsec10.Další nástroje a monitoring (dotace 1/3) a.specializované nástroje pro diagnostiku stavu sítě i zařízeníb.monitoring stavu sítěc.řešení problémů"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.technologie MikroTikb.modelové řadyc.RouterOSd.způsoby přístupu k zařízeníe.syntaxe příkazové řádkyf.základní konfigurace"
+    },
+    {
+      "label": "[section] Úvod do síťových zařízení MikroTik",
+      "content": "a.technologie MikroTikb.modelové řadyc.RouterOSd.způsoby přístupu k zařízeníe.syntaxe příkazové řádkyf.základní konfigurace"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.aktualizaceb.správa balíčkůc.záloha a obnovení konfiguraced.licencování"
+    },
+    {
+      "label": "[section] Správa síťových zařízení MikroTik",
+      "content": "a.aktualizaceb.správa balíčkůc.záloha a obnovení konfiguraced.licencování"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.protokol DHCP – konfigurace klient, server a relay, správa DHCP zápůjčekb.protokol ARP – módy, nastavení, ARP tabulka a statické záznamy"
+    },
+    {
+      "label": "[section] DHCP a ARP",
+      "content": "a.protokol DHCP – konfigurace klient, server a relay, správa DHCP zápůjčekb.protokol ARP – módy, nastavení, ARP tabulka a statické záznamy"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.nastavení logických rozhraníb.přepínání rámců dle hardwarové architektury"
+    },
+    {
+      "label": "[section] Přepínaní rámců na RouterOS",
+      "content": "a.nastavení logických rozhraníb.přepínání rámců dle hardwarové architektury"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.směrovací tabulka a stavy jednotlivých záznamůb.konfigurace statického a dynamického směrování"
+    },
+    {
+      "label": "[section] Směrování na RouterOS",
+      "content": "a.směrovací tabulka a stavy jednotlivých záznamůb.konfigurace statického a dynamického směrování"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.802.11 a/b/g/n/ac/axb.používané frekvencec.vysílací výkonyd.národní omezeníe.módy bezdrátového rozhraníf.zabezpečeníg.monitoring bezdrátové sítě"
+    },
+    {
+      "label": "[section] Bezdrátové připojení",
+      "content": "a.802.11 a/b/g/n/ac/axb.používané frekvencec.vysílací výkonyd.národní omezeníe.módy bezdrátového rozhraníf.zabezpečeníg.monitoring bezdrátové sítě"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.princip firewallu na RouterOSb.filtrování vstupujícího a směrovaného provozuc.source a destination NAT"
+    },
+    {
+      "label": "[section] Firewall",
+      "content": "a.princip firewallu na RouterOSb.filtrování vstupujícího a směrovaného provozuc.source a destination NAT"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.principy QoSb.omezení přenosové rychlosti pomocí Simple Queue a PCQ"
+    },
+    {
+      "label": "[section] QoS a mechanismy front",
+      "content": "a.principy QoSb.omezení přenosové rychlosti pomocí Simple Queue a PCQ"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.PPP konceptb.autentizace v lokální síti pomocí PPPoEc.řešení VPN pomocí SSTP a IPsec"
+    },
+    {
+      "label": "[section] Tunelové mechanismy a VPN",
+      "content": "a.PPP konceptb.autentizace v lokální síti pomocí PPPoEc.řešení VPN pomocí SSTP a IPsec"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.specializované nástroje pro diagnostiku stavu sítě i zařízeníb.monitoring stavu sítěc.řešení problémů"
+    },
+    {
+      "label": "[section] Další nástroje a monitoring",
+      "content": "a.specializované nástroje pro diagnostiku stavu sítě i zařízeníb.monitoring stavu sítěc.řešení problémů"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška14 h16 hcvičení42 h0 hkonzultace0 h40 hpříprava na zkoušku42 h42 hpříprava na průběžné hodnocení42 h42 hCelkem140 h140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Průběžné hodnocení zahrnuje aktivity k ověření praktických znalostí a dovedností z 4 cvičeních nebo 4 korespondenčních úkolů (kombinovaná forma studia). Úspěšné splnění zadání je hodnoceno max. 10 body za cvičení nebo korespondenční úkol. Celkem student musí získat z těchto aktivit alespoň 20 bodů (50 %) z maxima 40 bodů. Závěrečná zkouška je praktická a je hodnocena maximálně 50 body, minimálně je nutné získat 30 bodů (60 %). Dále proběhne certifikační zkouška, na kterou má student pouze 1 pokus. Tato zkouška bude hodnocena 10 body, minumum stanoveno není. Známka: A 100-90, B 89-83, C 82-75, D 74-68, E 67-60, F méně než 60."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích40 %0 %Vypracování semestrální práce0 %40 %Absolvování závěrečného testu50 %50 %certifikační zkouška10 %10 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:BALEJ, Jiří. 2018. Správa síťových zařízení MikroTik. Brno: Mendelova univerzita v Brně, 58 s. ISBN 978-80-7509-579-4.MIKROTIK, SIA. 2016. MTCNA training materials (2016-03). [jiný]. MikroTik Academy. RouterOS - MikroTik Documentation. 2023. https://help.mikrotik.com/docs/. MikroTik Wiki: Documetation. 2023. https://wiki.mikrotik.com.Doporučená:DISCHER, Stephen. 2016. RouterOS by Example. USA: ISP Services, 343 s. ISBN 978-0-692-77790-9.BURGESS, Dennis. 2009. Learn RouterOS. Lexington: MikroTik, 391 s. ISBN 978-0-557-09271-0. Networking with Mikrotik: MTCNA study guide. Manito networks, 336 s. ISBN 9781973206354."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "BALEJ, Jiří. 2018. Správa síťových zařízení MikroTik. Brno: Mendelova univerzita v Brně, 58 s. ISBN 978-80-7509-579-4.MIKROTIK, SIA. 2016. MTCNA training materials (2016-03). [jiný]. MikroTik Academy. RouterOS - MikroTik Documentation. 2023. https://help.mikrotik.com/docs/. MikroTik Wiki: Documetation. 2023. https://wiki.mikrotik.com."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "DISCHER, Stephen. 2016. RouterOS by Example. USA: ISP Services, 343 s. ISBN 978-0-692-77790-9.BURGESS, Dennis. 2009. Learn RouterOS. Lexington: MikroTik, 391 s. ISBN 978-0-557-09271-0. Networking with Mikrotik: MTCNA study guide. Manito networks, 336 s. ISBN 9781973206354."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-SSZM"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Správa síťových zařízení MikroTik"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "MikroTik Network Device Management"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course cannot be studied during abroad internship."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Jiří Balej, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jiří Balej, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Ing. Andrej Juríčka (examiner, instructor, lecturer, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam and (Computer Networks Protocols or Computer Networks)"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to network devices MikroTik (allowance 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "technology MikroTik"
+    },
+    {
+      "label": "b.",
+      "content": "model series"
+    },
+    {
+      "label": "c.",
+      "content": "RouterOS"
+    },
+    {
+      "label": "d.",
+      "content": "ways of MikroTik devices management"
+    },
+    {
+      "label": "e.",
+      "content": "command line syntax"
+    },
+    {
+      "label": "f.",
+      "content": "basic configuration"
+    },
+    {
+      "label": "2.",
+      "content": "Management of MikroTik network devices (allowance 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "updates"
+    },
+    {
+      "label": "b.",
+      "content": "package management"
+    },
+    {
+      "label": "c.",
+      "content": "backup and restore configuration"
+    },
+    {
+      "label": "d.",
+      "content": "licensing"
+    },
+    {
+      "label": "3.",
+      "content": "DHCP and ARP (allowance 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "protocol DHCP – client, server and relay configuration; management DHCP leases"
+    },
+    {
+      "label": "b.",
+      "content": "protocol ARP - modes, settings, ARP table and static records in ARP table"
+    },
+    {
+      "label": "4.",
+      "content": "Switching on RouterOS (allowance 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "configuration of logical interfaces"
+    },
+    {
+      "label": "b.",
+      "content": "switching based on hardware architecture"
+    },
+    {
+      "label": "5.",
+      "content": "Routing on RouterOS (allowance 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "routing table and states of individual records"
+    },
+    {
+      "label": "b.",
+      "content": "configuration od static and dynamic routing"
+    },
+    {
+      "label": "6.",
+      "content": "Wireless connection (allowance 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "802.11 a/b/g/n/ac/ax"
+    },
+    {
+      "label": "b.",
+      "content": "frequency ranges"
+    },
+    {
+      "label": "c.",
+      "content": "output power"
+    },
+    {
+      "label": "d.",
+      "content": "regional restrictions"
+    },
+    {
+      "label": "e.",
+      "content": "wireless interface modes"
+    },
+    {
+      "label": "f.",
+      "content": "wireless security"
+    },
+    {
+      "label": "g.",
+      "content": "wireless network monitoring"
+    },
+    {
+      "label": "7.",
+      "content": "Firewall (allowance 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "principle of firewall on RouterOS"
+    },
+    {
+      "label": "b.",
+      "content": "filtering input and forwarding traffic"
+    },
+    {
+      "label": "c.",
+      "content": "source and destination NAT"
+    },
+    {
+      "label": "8.",
+      "content": "QoS a queuing mechanisms (allowance 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "QoS principles"
+    },
+    {
+      "label": "b.",
+      "content": "constraining of transmission speed using Simple Queue and PCQ"
+    },
+    {
+      "label": "9.",
+      "content": "Tunnel mechanisms and VPN (allowance 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "PPP concept"
+    },
+    {
+      "label": "b.",
+      "content": "authentication in local network using PPPoE"
+    },
+    {
+      "label": "c.",
+      "content": "VPN using SSTP and IPsec"
+    },
+    {
+      "label": "10.",
+      "content": "Other tools and monitoring (allowance 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "specialized tools for diagnostic of network and device state"
+    },
+    {
+      "label": "b.",
+      "content": "monitoring of network state"
+    },
+    {
+      "label": "c.",
+      "content": "solving problems"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Správa síťových zařízení MikroTik"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: MikroTik Network Device Management"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course cannot be studied during abroad internship."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Jiří Balej, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jiří Balej, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Ing. Andrej Juríčka (examiner, instructor, lecturer, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam and (Computer Networks Protocols or Computer Networks)"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday9.00-10.50Q15B-AIIJ. BalejLectureOdd week48Tuesday11.00-13.50Q01.48B-AIIJ. Balej, A. JuríčkaSeminarEvery week14Wednesday15.00-17.50Q01.48B-AIIJ. Balej, A. JuríčkaSeminarEvery week14Friday9.00-12.50Q-LCNAB-AIIJ. Balej, A. JuríčkaLectureOccasionally20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to acquaint students with configuration of MikroTik nework devices and prepare students for certification exam MTCNA."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to network devices MikroTik (allowance 1/3) a.technology MikroTikb.model seriesc.RouterOSd.ways of MikroTik devices managemente.command line syntaxf.basic configuration2.Management of MikroTik network devices (allowance 1/3) a.updatesb.package managementc.backup and restore configurationd.licensing3.DHCP and ARP (allowance 1/3) a.protocol DHCP – client, server and relay configuration; management DHCP leasesb.protocol ARP - modes, settings, ARP table and static records in ARP table4.Switching on RouterOS (allowance 1/3) a.configuration of logical interfacesb.switching based on hardware architecture5.Routing on RouterOS (allowance 1/3) a.routing table and states of individual recordsb.configuration od static and dynamic routing6.Wireless connection (allowance 2/6) a.802.11 a/b/g/n/ac/axb.frequency rangesc.output powerd.regional restrictionse.wireless interface modesf.wireless securityg.wireless network monitoring7.Firewall (allowance 2/6) a.principle of firewall on RouterOSb.filtering input and forwarding trafficc.source and destination NAT8.QoS a queuing mechanisms (allowance 2/6) a.QoS principlesb.constraining of transmission speed using Simple Queue and PCQ9.Tunnel mechanisms and VPN (allowance 2/6) a.PPP conceptb.authentication in local network using PPPoEc.VPN using SSTP and IPsec10.Other tools and monitoring (allowance 1/3) a.specialized tools for diagnostic of network and device stateb.monitoring of network statec.solving problems"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.technology MikroTikb.model seriesc.RouterOSd.ways of MikroTik devices managemente.command line syntaxf.basic configuration"
+    },
+    {
+      "label": "[section] Introduction to network devices MikroTik",
+      "content": "a.technology MikroTikb.model seriesc.RouterOSd.ways of MikroTik devices managemente.command line syntaxf.basic configuration"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.updatesb.package managementc.backup and restore configurationd.licensing"
+    },
+    {
+      "label": "[section] Management of MikroTik network devices",
+      "content": "a.updatesb.package managementc.backup and restore configurationd.licensing"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.protocol DHCP – client, server and relay configuration; management DHCP leasesb.protocol ARP - modes, settings, ARP table and static records in ARP table"
+    },
+    {
+      "label": "[section] DHCP and ARP",
+      "content": "a.protocol DHCP – client, server and relay configuration; management DHCP leasesb.protocol ARP - modes, settings, ARP table and static records in ARP table"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.configuration of logical interfacesb.switching based on hardware architecture"
+    },
+    {
+      "label": "[section] Switching on RouterOS",
+      "content": "a.configuration of logical interfacesb.switching based on hardware architecture"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.routing table and states of individual recordsb.configuration od static and dynamic routing"
+    },
+    {
+      "label": "[section] Routing on RouterOS",
+      "content": "a.routing table and states of individual recordsb.configuration od static and dynamic routing"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.802.11 a/b/g/n/ac/axb.frequency rangesc.output powerd.regional restrictionse.wireless interface modesf.wireless securityg.wireless network monitoring"
+    },
+    {
+      "label": "[section] Wireless connection",
+      "content": "a.802.11 a/b/g/n/ac/axb.frequency rangesc.output powerd.regional restrictionse.wireless interface modesf.wireless securityg.wireless network monitoring"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.principle of firewall on RouterOSb.filtering input and forwarding trafficc.source and destination NAT"
+    },
+    {
+      "label": "[section] Firewall",
+      "content": "a.principle of firewall on RouterOSb.filtering input and forwarding trafficc.source and destination NAT"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.QoS principlesb.constraining of transmission speed using Simple Queue and PCQ"
+    },
+    {
+      "label": "[section] QoS a queuing mechanisms",
+      "content": "a.QoS principlesb.constraining of transmission speed using Simple Queue and PCQ"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.PPP conceptb.authentication in local network using PPPoEc.VPN using SSTP and IPsec"
+    },
+    {
+      "label": "[section] Tunnel mechanisms and VPN",
+      "content": "a.PPP conceptb.authentication in local network using PPPoEc.VPN using SSTP and IPsec"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.specialized tools for diagnostic of network and device stateb.monitoring of network statec.solving problems"
+    },
+    {
+      "label": "[section] Other tools and monitoring",
+      "content": "a.specialized tools for diagnostic of network and device stateb.monitoring of network statec.solving problems"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture14 h16 hpractice42 h0 hconsultation0 h40 hpreparation for exam42 h42 hpreparation for regular assessment42 h42 hTotal140 h140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Preliminary includes activities to verify practical knowledge and skills from selected 4 exercises or 4 coresponding tasts (part time students). Successful completion of the activity is evaluated with a maximum of 10 points per exercise or coresponding task. In total, the student must obtain from these activities at least 20 points (60%) out of a maximum of 40 points. The final exam is practical and student can achieve up to 50 points, where the passing minimum is 30 points (60%). There wiil be also certification exam, where has student only 1 attempt. This exam will be evaluated with 10 points and there is no necessary minimum. Evaluation: A 100-90 p., B 89-83 p., C 82-75 p., D 74-68 p., E 67-60 p., F less than 60 points."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation40 %0 %Term paper0 %40 %Final test50 %50 %certification exam10 %10 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:BALEJ, Jiří. 2018. Správa síťových zařízení MikroTik. Brno: Mendelova univerzita v Brně, 58 p. ISBN 978-80-7509-579-4.MIKROTIK, SIA. 2016. MTCNA training materials (2016-03). [other]. MikroTik Academy. RouterOS - MikroTik Documentation. 2023. https://help.mikrotik.com/docs/. MikroTik Wiki: Documetation. 2023. https://wiki.mikrotik.com.Recommended:DISCHER, Stephen. 2016. RouterOS by Example. USA: ISP Services, 343 p. ISBN 978-0-692-77790-9.BURGESS, Dennis. 2009. Learn RouterOS. Lexington: MikroTik, 391 p. ISBN 978-0-557-09271-0. Networking with Mikrotik: MTCNA study guide. Manito networks, 336 p. ISBN 9781973206354."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "BALEJ, Jiří. 2018. Správa síťových zařízení MikroTik. Brno: Mendelova univerzita v Brně, 58 p. ISBN 978-80-7509-579-4.MIKROTIK, SIA. 2016. MTCNA training materials (2016-03). [other]. MikroTik Academy. RouterOS - MikroTik Documentation. 2023. https://help.mikrotik.com/docs/. MikroTik Wiki: Documetation. 2023. https://wiki.mikrotik.com."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "DISCHER, Stephen. 2016. RouterOS by Example. USA: ISP Services, 343 p. ISBN 978-0-692-77790-9.BURGESS, Dennis. 2009. Learn RouterOS. Lexington: MikroTik, 391 p. ISBN 978-0-557-09271-0. Networking with Mikrotik: MTCNA study guide. Manito networks, 336 p. ISBN 9781973206354."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:45:21",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

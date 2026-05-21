@@ -1,0 +1,637 @@
+{
+  "courseCode": "DNMP",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "DNMP"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Dynamické modely populací"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Dynamic Population Models"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zápočet (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Na základě konzultace před výjezdem."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Mgr. Robert Mařík, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav matematiky (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Mgr. Marie Koktavá, Ph.D. (cvičící)doc. Mgr. Robert Mařík, Ph.D. (garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Lesnická zoologie a Ekologie a ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Funkce, úvod do studia (dotace 2/1)"
+    },
+    {
+      "label": "2.",
+      "content": "Derivace a její využití v matematických modelech (dotace 2/1)"
+    },
+    {
+      "label": "3.",
+      "content": "Diferenciální rovnice, model ostrovní biogeografie (dotace 2/1)"
+    },
+    {
+      "label": "4.",
+      "content": "Autonomní diferenciální rovnice, růstové modely (dotace 2/1)"
+    },
+    {
+      "label": "5.",
+      "content": "Bifurkce, model populace pod predačním tlakem, modely lovu populací (dotace 2/1)"
+    },
+    {
+      "label": "6.",
+      "content": "Lineární algebra, Leslieho model věkově strukturované populace (dotace 2/1)"
+    },
+    {
+      "label": "7.",
+      "content": "Parciální derivace a jejich využití, jednorozměrný Fisher-Kolmogorovův model (dotace 2/1)"
+    },
+    {
+      "label": "8.",
+      "content": "Autonomní systémy a jejich linearizace, model SIR (dotace 2/1)"
+    },
+    {
+      "label": "9.",
+      "content": "Modely konkurence populací Lotkova Volterrova typu (dotace 2/1)"
+    },
+    {
+      "label": "10.",
+      "content": "Modely dravce a kořisti (dotace 2/1)"
+    },
+    {
+      "label": "11.",
+      "content": "Diskrétní a maticové modely populací, chaos (dotace 2/1)"
+    },
+    {
+      "label": "12.",
+      "content": "Difuzní rovnice, obecný Fisher-Kolmogorovův model (dotace 2/1)"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Dynamické modely populací"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Dynamic Population Models"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zápočet (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zápočet (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Na základě konzultace před výjezdem."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Mgr. Robert Mařík, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav matematiky (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Mgr. Marie Koktavá, Ph.D. (cvičící)doc. Mgr. Robert Mařík, Ph.D. (garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Lesnická zoologie a Ekologie a ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Získání dovedností pro formulaci a modelování procesů souvisejících s dynamikou populací, ovládnutí nástrojů pro modelování dynamiky populací (diferenciální rovnice, rekurentní posloupnosti). Získání teoretických podkladů pro znalosti uplatnitelné v managementu populací s důrazem na udržitelné hospodaření. Seznámení se s teoretickými východisky ekologických zákonitostí. Seznámení se s dynamikou růstu populací, dynamikou věkově strukturované populace, dynamikou šíření chorob, teorií ostrovní biogeografie, modely konkurence a predace a s dalšími ekologickými modely."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Funkce, úvod do studia (dotace 2/1)2.Derivace a její využití v matematických modelech (dotace 2/1)3.Diferenciální rovnice, model ostrovní biogeografie (dotace 2/1)4.Autonomní diferenciální rovnice, růstové modely (dotace 2/1)5.Bifurkce, model populace pod predačním tlakem, modely lovu populací (dotace 2/1)6.Lineární algebra, Leslieho model věkově strukturované populace (dotace 2/1)7.Parciální derivace a jejich využití, jednorozměrný Fisher-Kolmogorovův model (dotace 2/1)8.Autonomní systémy a jejich linearizace, model SIR (dotace 2/1)9.Modely konkurence populací Lotkova Volterrova typu (dotace 2/1)10.Modely dravce a kořisti (dotace 2/1)11.Diskrétní a maticové modely populací, chaos (dotace 2/1)12.Difuzní rovnice, obecný Fisher-Kolmogorovův model (dotace 2/1)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Derivace a její využití v matematických modelech (dotace 2/1)"
+    },
+    {
+      "label": "[section] Funkce, úvod do studia",
+      "content": "2.Derivace a její využití v matematických modelech (dotace 2/1)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Diferenciální rovnice, model ostrovní biogeografie (dotace 2/1)"
+    },
+    {
+      "label": "[section] Derivace a její využití v matematických modelech",
+      "content": "3.Diferenciální rovnice, model ostrovní biogeografie (dotace 2/1)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Autonomní diferenciální rovnice, růstové modely (dotace 2/1)"
+    },
+    {
+      "label": "[section] Diferenciální rovnice, model ostrovní biogeografie",
+      "content": "4.Autonomní diferenciální rovnice, růstové modely (dotace 2/1)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Bifurkce, model populace pod predačním tlakem, modely lovu populací (dotace 2/1)"
+    },
+    {
+      "label": "[section] Autonomní diferenciální rovnice, růstové modely",
+      "content": "5.Bifurkce, model populace pod predačním tlakem, modely lovu populací (dotace 2/1)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Lineární algebra, Leslieho model věkově strukturované populace (dotace 2/1)"
+    },
+    {
+      "label": "[section] Bifurkce, model populace pod predačním tlakem, modely lovu populací",
+      "content": "6.Lineární algebra, Leslieho model věkově strukturované populace (dotace 2/1)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Parciální derivace a jejich využití, jednorozměrný Fisher-Kolmogorovův model (dotace 2/1)"
+    },
+    {
+      "label": "[section] Lineární algebra, Leslieho model věkově strukturované populace",
+      "content": "7.Parciální derivace a jejich využití, jednorozměrný Fisher-Kolmogorovův model (dotace 2/1)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Autonomní systémy a jejich linearizace, model SIR (dotace 2/1)"
+    },
+    {
+      "label": "[section] Parciální derivace a jejich využití, jednorozměrný Fisher-Kolmogorovův model",
+      "content": "8.Autonomní systémy a jejich linearizace, model SIR (dotace 2/1)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Modely konkurence populací Lotkova Volterrova typu (dotace 2/1)"
+    },
+    {
+      "label": "[section] Autonomní systémy a jejich linearizace, model SIR",
+      "content": "9.Modely konkurence populací Lotkova Volterrova typu (dotace 2/1)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Modely dravce a kořisti (dotace 2/1)"
+    },
+    {
+      "label": "[section] Modely konkurence populací Lotkova Volterrova typu",
+      "content": "10.Modely dravce a kořisti (dotace 2/1)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Diskrétní a maticové modely populací, chaos (dotace 2/1)"
+    },
+    {
+      "label": "[section] Modely dravce a kořisti",
+      "content": "11.Diskrétní a maticové modely populací, chaos (dotace 2/1)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Difuzní rovnice, obecný Fisher-Kolmogorovův model (dotace 2/1)"
+    },
+    {
+      "label": "[section] Diskrétní a maticové modely populací, chaos",
+      "content": "12.Difuzní rovnice, obecný Fisher-Kolmogorovův model (dotace 2/1)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška24 h16 hcvičení12 h0 hpříprava na zkoušku30 h36 hzpracování projektů46 h60 hCelkem112 h112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Aktivní účast ve výuce (vč. samostatné práce na domácích úkolech na kombinovaném studiu), úspěšné absolvování závěrečného testu."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích40 %40 %Absolvování závěrečného testu30 %30 %Zvláštní podmínky a podrobnosti30 %30 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:MAŘÍK, Robert. 2022. Dynamické modely populací. https://robert-marik.github.io/dmp.DOŠLÁ, Zuzana; LIŠKA, Petr. 2014. Matematika pro nematematické obory s aplikacemi v přírodních a technických vědách. 1. vyd. Praha: Grada Publishing, a.s., 304 s. ISBN 978-80-247-5322-5.TKADLEC, Emil. 2008. Populační ekologie: struktura, růst a dynamika populací. 1. vyd. Olomouc: Univerzita Palackého v Olomouci, 400 s. ISBN 978-80-244-2149-0.Doporučená:MURRAY, J. D. 2002. Mathematical biology. : An introduction. I. New York. ISBN 978-0-387-22437-4, 978-0-387-95223-9. http://dx.doi.org/10.1007/b98868.BEGON, Michael a kol. 1997. Ekologie: jedinci, populace a společenstva : [Investice do rozvoje vzdělávání, reg.č.: CZ1.07/2.2.00/15.0084]. 1. vyd. Olomouc: Vydavatelství Univerzity Palackého, 949 s. ISBN 80-7067-695-7.DYKYJOVÁ, D. 1989. Metody studia ekosystémů. Praha: Academia, 690 s."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "MAŘÍK, Robert. 2022. Dynamické modely populací. https://robert-marik.github.io/dmp.DOŠLÁ, Zuzana; LIŠKA, Petr. 2014. Matematika pro nematematické obory s aplikacemi v přírodních a technických vědách. 1. vyd. Praha: Grada Publishing, a.s., 304 s. ISBN 978-80-247-5322-5.TKADLEC, Emil. 2008. Populační ekologie: struktura, růst a dynamika populací. 1. vyd. Olomouc: Univerzita Palackého v Olomouci, 400 s. ISBN 978-80-244-2149-0."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "MURRAY, J. D. 2002. Mathematical biology. : An introduction. I. New York. ISBN 978-0-387-22437-4, 978-0-387-95223-9. http://dx.doi.org/10.1007/b98868.BEGON, Michael a kol. 1997. Ekologie: jedinci, populace a společenstva : [Investice do rozvoje vzdělávání, reg.č.: CZ1.07/2.2.00/15.0084]. 1. vyd. Olomouc: Vydavatelství Univerzity Palackého, 949 s. ISBN 80-7067-695-7.DYKYJOVÁ, D. 1989. Metody studia ekosystémů. Praha: Academia, 690 s."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-MYSL Myslivost, prezenční forma, počáteční období ZS 2024/2025Program B-MYSL Myslivost, kombinovaná forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "DNMP"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Dynamické modely populací"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Dynamic Population Models"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Pass credit (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "According to consultation before departure."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Mgr. Robert Mařík, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Mathematics (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Mgr. Marie Koktavá, Ph.D. (instructor)doc. Mgr. Robert Mařík, Ph.D. (examiner, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Forest Zoology and Ecology and not State Bachelor Examination"
+    },
+    {
+      "label": "1.",
+      "content": "Functions of one and more variables, introduction. (allowance 2/1)"
+    },
+    {
+      "label": "2.",
+      "content": "Derivatives and applications od derivative in mathematical modelling. Law of cooling (Newton). (allowance 2/1)"
+    },
+    {
+      "label": "3.",
+      "content": "Differential equations. Model of island biogeography (Wilson, Mac Arthur). (allowance 2/1)"
+    },
+    {
+      "label": "4.",
+      "content": "Autonomous differential equations, growth models (Malthus, Verhulst-Pearl). (allowance 2/1)"
+    },
+    {
+      "label": "5.",
+      "content": "Bifurcations, harveting logistic population, population under pressure of predators (Ludwig, Jones, Holling). (allowance 2/1)"
+    },
+    {
+      "label": "6.",
+      "content": "Linear algebra, linear autnomous models, model of age structured populations (Leslie). (allowance 2/1)"
+    },
+    {
+      "label": "7.",
+      "content": "Partial derivatives. One dimensional models, heat equation, diffusion (Fisher - KPP). (allowance 2/1)"
+    },
+    {
+      "label": "8.",
+      "content": "Nonlinear autonomous systems, SIR model (Kermack, Mc Kendrik). (allowance 2/1)"
+    },
+    {
+      "label": "9.",
+      "content": "Models of competing species of Lotka Volterra type. (allowance 2/1)"
+    },
+    {
+      "label": "10.",
+      "content": "Predator-prey models (Lotka Volterra, Holling) (allowance 2/1)"
+    },
+    {
+      "label": "11.",
+      "content": "Dicsrete population models (allowance 2/1)"
+    },
+    {
+      "label": "12.",
+      "content": "Multidimensional diffusion equation, multidimensional Fisher-KPP model. (allowance 2/1)"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Dynamické modely populací"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Dynamic Population Models"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Pass credit (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Pass credit (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: According to consultation before departure."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Mgr. Robert Mařík, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Mathematics (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Mgr. Marie Koktavá, Ph.D. (instructor)doc. Mgr. Robert Mařík, Ph.D. (examiner, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Forest Zoology and Ecology and not State Bachelor Examination"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Acquire skills to formulate and model processes related to population dynamics, utilizing tools for modelling population dynamics (differential equations, recurrence sequences). Acquisition of theoretical basis for knowledge applicable in population management with emphasis on sustainable management. Familiarity with the theoretical basis of ecological laws. Introduction to population growth dynamics, age-structured population dynamics, disease dynamics, island biogeography theory, models of competition and predation, and other ecological models."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Functions of one and more variables, introduction. (allowance 2/1)2.Derivatives and applications od derivative in mathematical modelling. Law of cooling (Newton). (allowance 2/1)3.Differential equations. Model of island biogeography (Wilson, Mac Arthur). (allowance 2/1)4.Autonomous differential equations, growth models (Malthus, Verhulst-Pearl). (allowance 2/1)5.Bifurcations, harveting logistic population, population under pressure of predators (Ludwig, Jones, Holling). (allowance 2/1)6.Linear algebra, linear autnomous models, model of age structured populations (Leslie). (allowance 2/1)7.Partial derivatives. One dimensional models, heat equation, diffusion (Fisher - KPP). (allowance 2/1)8.Nonlinear autonomous systems, SIR model (Kermack, Mc Kendrik). (allowance 2/1)9.Models of competing species of Lotka Volterra type. (allowance 2/1)10.Predator-prey models (Lotka Volterra, Holling) (allowance 2/1)11.Dicsrete population models (allowance 2/1)12.Multidimensional diffusion equation, multidimensional Fisher-KPP model. (allowance 2/1)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Derivatives and applications od derivative in mathematical modelling. Law of cooling (Newton). (allowance 2/1)"
+    },
+    {
+      "label": "[section] Functions of one and more variables, introduction.",
+      "content": "2.Derivatives and applications od derivative in mathematical modelling. Law of cooling (Newton). (allowance 2/1)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Differential equations. Model of island biogeography (Wilson, Mac Arthur). (allowance 2/1)"
+    },
+    {
+      "label": "[section] Derivatives and applications od derivative in mathematical modelling. Law of cooling (Newton).",
+      "content": "3.Differential equations. Model of island biogeography (Wilson, Mac Arthur). (allowance 2/1)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Autonomous differential equations, growth models (Malthus, Verhulst-Pearl). (allowance 2/1)"
+    },
+    {
+      "label": "[section] Differential equations. Model of island biogeography (Wilson, Mac Arthur).",
+      "content": "4.Autonomous differential equations, growth models (Malthus, Verhulst-Pearl). (allowance 2/1)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Bifurcations, harveting logistic population, population under pressure of predators (Ludwig, Jones, Holling). (allowance 2/1)"
+    },
+    {
+      "label": "[section] Autonomous differential equations, growth models (Malthus, Verhulst-Pearl).",
+      "content": "5.Bifurcations, harveting logistic population, population under pressure of predators (Ludwig, Jones, Holling). (allowance 2/1)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Linear algebra, linear autnomous models, model of age structured populations (Leslie). (allowance 2/1)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Partial derivatives. One dimensional models, heat equation, diffusion (Fisher - KPP). (allowance 2/1)"
+    },
+    {
+      "label": "[section] Linear algebra, linear autnomous models, model of age structured populations (Leslie).",
+      "content": "7.Partial derivatives. One dimensional models, heat equation, diffusion (Fisher - KPP). (allowance 2/1)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Nonlinear autonomous systems, SIR model (Kermack, Mc Kendrik). (allowance 2/1)"
+    },
+    {
+      "label": "[section] Partial derivatives. One dimensional models, heat equation, diffusion (Fisher - KPP).",
+      "content": "8.Nonlinear autonomous systems, SIR model (Kermack, Mc Kendrik). (allowance 2/1)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Models of competing species of Lotka Volterra type. (allowance 2/1)"
+    },
+    {
+      "label": "[section] Nonlinear autonomous systems, SIR model (Kermack, Mc Kendrik).",
+      "content": "9.Models of competing species of Lotka Volterra type. (allowance 2/1)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Predator-prey models (Lotka Volterra, Holling) (allowance 2/1)"
+    },
+    {
+      "label": "[section] Models of competing species of Lotka Volterra type.",
+      "content": "10.Predator-prey models (Lotka Volterra, Holling) (allowance 2/1)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Dicsrete population models (allowance 2/1)"
+    },
+    {
+      "label": "[section] Predator-prey models (Lotka Volterra, Holling)",
+      "content": "11.Dicsrete population models (allowance 2/1)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Multidimensional diffusion equation, multidimensional Fisher-KPP model. (allowance 2/1)"
+    },
+    {
+      "label": "[section] Dicsrete population models",
+      "content": "12.Multidimensional diffusion equation, multidimensional Fisher-KPP model. (allowance 2/1)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture24 h16 hpractice12 h0 hpreparation for exam30 h36 helaboration and execution of projects46 h60 hTotal112 h112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Active participation in class (including homework for distant students), successful completion of the final test."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation40 %40 %Final test30 %30 %Special requirements and details30 %30 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:MAŘÍK, Robert. 2022. Dynamické modely populací. https://robert-marik.github.io/dmp.DOŠLÁ, Zuzana; LIŠKA, Petr. 2014. Matematika pro nematematické obory s aplikacemi v přírodních a technických vědách. 1st ed. Praha: Grada Publishing, a.s., 304 p. ISBN 978-80-247-5322-5.TKADLEC, Emil. 2008. Populační ekologie: struktura, růst a dynamika populací. 1st ed. Olomouc: Univerzita Palackého v Olomouci, 400 p. ISBN 978-80-244-2149-0.Recommended:MURRAY, J. D. 2002. Mathematical biology. : An introduction. I. New York. ISBN 978-0-387-22437-4, 978-0-387-95223-9. http://dx.doi.org/10.1007/b98868.BEGON, Michael et al. 1997. Ekologie: jedinci, populace a společenstva : [Investice do rozvoje vzdělávání, reg.č.: CZ1.07/2.2.00/15.0084]. 1st ed. Olomouc: Vydavatelství Univerzity Palackého, 949 p. ISBN 80-7067-695-7.DYKYJOVÁ, D. 1989. Metody studia ekosystémů. Praha: Academia, 690 p."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "MAŘÍK, Robert. 2022. Dynamické modely populací. https://robert-marik.github.io/dmp.DOŠLÁ, Zuzana; LIŠKA, Petr. 2014. Matematika pro nematematické obory s aplikacemi v přírodních a technických vědách. 1st ed. Praha: Grada Publishing, a.s., 304 p. ISBN 978-80-247-5322-5.TKADLEC, Emil. 2008. Populační ekologie: struktura, růst a dynamika populací. 1st ed. Olomouc: Univerzita Palackého v Olomouci, 400 p. ISBN 978-80-244-2149-0."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "MURRAY, J. D. 2002. Mathematical biology. : An introduction. I. New York. ISBN 978-0-387-22437-4, 978-0-387-95223-9. http://dx.doi.org/10.1007/b98868.BEGON, Michael et al. 1997. Ekologie: jedinci, populace a společenstva : [Investice do rozvoje vzdělávání, reg.č.: CZ1.07/2.2.00/15.0084]. 1st ed. Olomouc: Vydavatelství Univerzity Palackého, 949 p. ISBN 80-7067-695-7.DYKYJOVÁ, D. 1989. Metody studia ekosystémů. Praha: Academia, 690 p."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-MYSL Game Management, full-time form, initial period WS 2024/2025Programme B-MYSL Game Management, part-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:32:12",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

@@ -1,0 +1,497 @@
+{
+  "courseCode": "EBC-PSCI",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-PSCI"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Pokročilé směrování a přepínání CCNA3"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Advanced Routing and Switching CCNA3"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. RNDr. Tomáš Sochor, CSc."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Igor Grellneth, Ph.D. (cvičící, přednášející, zkoušející)doc. RNDr. Tomáš Sochor, CSc. (garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška a Protokoly počítačových sítí a Přepínání a směrování v počítačových sítích"
+    },
+    {
+      "label": "1.",
+      "content": "SYSTEMATICKÝ PŘÍSTUP K NÁVRHU LAN SÍTÍ (dotace 1/2)"
+    },
+    {
+      "label": "2.",
+      "content": "POKROČILÁ PRÁCE S VLAN (dotace 2/4)"
+    },
+    {
+      "label": "3.",
+      "content": "REDUNDANCE V LAN (dotace 4/8)"
+    },
+    {
+      "label": "4.",
+      "content": "DYNAMICKÉ SMĚROVÁNÍ POMOCÍ EIGRP (dotace 2/4)"
+    },
+    {
+      "label": "5.",
+      "content": "DYNAMICKÉ SMĚROVÁNÍ POMOCÍ OSPF (dotace 2/4)"
+    },
+    {
+      "label": "6.",
+      "content": "POKROČILÉ ASPEKTY OSPF (dotace 3/6)"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Pokročilé směrování a přepínání CCNA3"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Advanced Routing and Switching CCNA3"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. RNDr. Tomáš Sochor, CSc."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Igor Grellneth, Ph.D. (cvičící, přednášející, zkoušející)doc. RNDr. Tomáš Sochor, CSc. (garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a Protokoly počítačových sítí a Přepínání a směrování v počítačových sítích"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaČtvrtek9.00-10.50Q15B-AIIT. SochorPřednáškaLichý týden48Čtvrtek15.00-16.50Q01.48B-AIII. GrellnethCvičeníKaždý týden12Čtvrtek17.00-18.50Q01.48B-AIII. GrellnethCvičeníKaždý týden12Pátek14.00-17.50Q-LCNAB-AIII. GrellnethPřednáškaNepravidelně20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět seznámí studenty se znalostmi a dovednostmi odpovídajícími náplni kurzů Cisco Networking Academy CCNA 3 Routing&Switching 3: Scaling Networks."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.SYSTEMATICKÝ PŘÍSTUP K NÁVRHU LAN SÍTÍ (dotace 1/2)2.POKROČILÁ PRÁCE S VLAN (dotace 2/4)3.REDUNDANCE V LAN (dotace 4/8)4.DYNAMICKÉ SMĚROVÁNÍ POMOCÍ EIGRP (dotace 2/4)5.DYNAMICKÉ SMĚROVÁNÍ POMOCÍ OSPF (dotace 2/4)6.POKROČILÉ ASPEKTY OSPF (dotace 3/6)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.POKROČILÁ PRÁCE S VLAN (dotace 2/4)"
+    },
+    {
+      "label": "[section] SYSTEMATICKÝ PŘÍSTUP K NÁVRHU LAN SÍTÍ",
+      "content": "2.POKROČILÁ PRÁCE S VLAN (dotace 2/4)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.REDUNDANCE V LAN (dotace 4/8)"
+    },
+    {
+      "label": "[section] POKROČILÁ PRÁCE S VLAN",
+      "content": "3.REDUNDANCE V LAN (dotace 4/8)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.DYNAMICKÉ SMĚROVÁNÍ POMOCÍ EIGRP (dotace 2/4)"
+    },
+    {
+      "label": "[section] REDUNDANCE V LAN",
+      "content": "4.DYNAMICKÉ SMĚROVÁNÍ POMOCÍ EIGRP (dotace 2/4)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.DYNAMICKÉ SMĚROVÁNÍ POMOCÍ OSPF (dotace 2/4)"
+    },
+    {
+      "label": "[section] DYNAMICKÉ SMĚROVÁNÍ POMOCÍ EIGRP",
+      "content": "5.DYNAMICKÉ SMĚROVÁNÍ POMOCÍ OSPF (dotace 2/4)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.POKROČILÉ ASPEKTY OSPF (dotace 3/6)"
+    },
+    {
+      "label": "[section] DYNAMICKÉ SMĚROVÁNÍ POMOCÍ OSPF",
+      "content": "6.POKROČILÉ ASPEKTY OSPF (dotace 3/6)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška14 h0 hcvičení14 h8 hlaboratorní práce14 h8 hpříprava na zkoušku30 h30 hpříprava na průběžné hodnocení40 h66 hpříprava na průběžný test28 h28 hCelkem140 h140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Závěrečná zkouška: Elektronický test znalostí + zkouška praktických dovedností. Během semestru budou studenti průběžně plnit testy a domácí úkoly k probírané látce jednotlivých kapitol. Testy i domácí úkoly budou hodnoceny v rámci bodů určených k hodnocení aktivity během semestru. Splnění významné části testů a domácích úkolů bude podmínkou pro zapsání ke zkoušce."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAbsolvování průběžného testu (testů)30 %30 %Absolvování závěrečného testu30 %30 %Závěrečná praktická zkouška40 %40 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:SOCHOR, Tomáš. 2018. Pokročilé směrování a přepínání v sítích - technologie Cisco III. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-607-4.CISCO, iInc. 2019. Cisco Networking Academy. CCNA R&S: Scaling Networks. http://www.netacad.com.Doporučená:CISCO, Inc. 2019. Cisco Networking Academy. CCNA R&S: Connecting Networks. http://www.netacad.com.VELTE, T; VELTE, A. 2013. Cisco A Beginner's Guide, Fifth Edition. USA: McGraw Hill, ISBN 978-0-07-181231-3.CISCO, Inc. 2019. Cisco Networking Academy. CCNA R&S: Introduction to Networks. http://www.netacad.com.CISCO, Inc. 2019. Cisco Networking Academy. CCNA R&S: Routing and Swtching Essentials. http://www.netacad.com.LAMMLE, Todd. 2015. CCNA Výukový průvodce. Brno: Computer Press, 1016 s. ISBN 978-80-251-4602-6.ODOM, Wendell. 2013. Cisco CCNA routing and switching ICND2 200-101: official cert guide. Indianapolis: Cisco Press, 717 s. ISBN 978-1-58714-373-1.NASTASE, R. 2017. Routing and Switching 200-125 Official Cert Guide Library. 2016 R. Nastase. Cisco CCNA Command Guide (Computer Networking Series Book 2). N/A: R. Nastase, ISBN 978-1-97-351284-4."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "SOCHOR, Tomáš. 2018. Pokročilé směrování a přepínání v sítích - technologie Cisco III. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-607-4.CISCO, iInc. 2019. Cisco Networking Academy. CCNA R&S: Scaling Networks. http://www.netacad.com."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "CISCO, Inc. 2019. Cisco Networking Academy. CCNA R&S: Connecting Networks. http://www.netacad.com.VELTE, T; VELTE, A. 2013. Cisco A Beginner's Guide, Fifth Edition. USA: McGraw Hill, ISBN 978-0-07-181231-3.CISCO, Inc. 2019. Cisco Networking Academy. CCNA R&S: Introduction to Networks. http://www.netacad.com.CISCO, Inc. 2019. Cisco Networking Academy. CCNA R&S: Routing and Swtching Essentials. http://www.netacad.com.LAMMLE, Todd. 2015. CCNA Výukový průvodce. Brno: Computer Press, 1016 s. ISBN 978-80-251-4602-6.ODOM, Wendell. 2013. Cisco CCNA routing and switching ICND2 200-101: official cert guide. Indianapolis: Cisco Press, 717 s. ISBN 978-1-58714-373-1.NASTASE, R. 2017. Routing and Switching 200-125 Official Cert Guide Library. 2016 R. Nastase. Cisco CCNA Command Guide (Computer Networking Series Book 2). N/A: R. Nastase, ISBN 978-1-97-351284-4."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-PSCI"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Pokročilé směrování a přepínání CCNA3"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Advanced Routing and Switching CCNA3"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. RNDr. Tomáš Sochor, CSc."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Igor Grellneth, Ph.D. (examiner, instructor, lecturer)doc. RNDr. Tomáš Sochor, CSc. (examiner, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam and Computer Networks Protocols and Switching and Routing in Computer Networks"
+    },
+    {
+      "label": "1.",
+      "content": "SYSTEMIC APPROACH IN LAN DESIGN (allowance 1/2)"
+    },
+    {
+      "label": "2.",
+      "content": "ADVANCED VLANS (allowance 2/4)"
+    },
+    {
+      "label": "3.",
+      "content": "REDUNDANCY IN LANS (allowance 4/8)"
+    },
+    {
+      "label": "4.",
+      "content": "DYNAMIC ROUTING USING EIGRP (allowance 3/6)"
+    },
+    {
+      "label": "5.",
+      "content": "DYNAMIC ROUTING USING OSPF (allowance 2/4)"
+    },
+    {
+      "label": "6.",
+      "content": "ADVANCED OSPF CONFIGURATION (allowance 2/4)"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Pokročilé směrování a přepínání CCNA3"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Advanced Routing and Switching CCNA3"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. RNDr. Tomáš Sochor, CSc."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Igor Grellneth, Ph.D. (examiner, instructor, lecturer)doc. RNDr. Tomáš Sochor, CSc. (examiner, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam and Computer Networks Protocols and Switching and Routing in Computer Networks"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityThursday9.00-10.50Q15B-AIIT. SochorLectureOdd week48Thursday15.00-16.50Q01.48B-AIII. GrellnethSeminarEvery week12Thursday17.00-18.50Q01.48B-AIII. GrellnethSeminarEvery week12Friday14.00-17.50Q-LCNAB-AIII. GrellnethLectureOccasionally20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The course will educate students with knowledge and skills corresponding to the course Cisco Networking Academy CCNA 3 Routing&Switching 3: Scaling Networks."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.SYSTEMIC APPROACH IN LAN DESIGN (allowance 1/2)2.ADVANCED VLANS (allowance 2/4)3.REDUNDANCY IN LANS (allowance 4/8)4.DYNAMIC ROUTING USING EIGRP (allowance 3/6)5.DYNAMIC ROUTING USING OSPF (allowance 2/4)6.ADVANCED OSPF CONFIGURATION (allowance 2/4)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.ADVANCED VLANS (allowance 2/4)"
+    },
+    {
+      "label": "[section] SYSTEMIC APPROACH IN LAN DESIGN",
+      "content": "2.ADVANCED VLANS (allowance 2/4)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.REDUNDANCY IN LANS (allowance 4/8)"
+    },
+    {
+      "label": "[section] ADVANCED VLANS",
+      "content": "3.REDUNDANCY IN LANS (allowance 4/8)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.DYNAMIC ROUTING USING EIGRP (allowance 3/6)"
+    },
+    {
+      "label": "[section] REDUNDANCY IN LANS",
+      "content": "4.DYNAMIC ROUTING USING EIGRP (allowance 3/6)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.DYNAMIC ROUTING USING OSPF (allowance 2/4)"
+    },
+    {
+      "label": "[section] DYNAMIC ROUTING USING EIGRP",
+      "content": "5.DYNAMIC ROUTING USING OSPF (allowance 2/4)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.ADVANCED OSPF CONFIGURATION (allowance 2/4)"
+    },
+    {
+      "label": "[section] DYNAMIC ROUTING USING OSPF",
+      "content": "6.ADVANCED OSPF CONFIGURATION (allowance 2/4)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture14 h0 hpractice14 h8 hlaboratory work14 h8 hpreparation for exam30 h30 hpreparation for regular assessment40 h66 hpreparation for regular testing28 h28 hTotal140 h140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Electronic test of knowledge + practical skill exam. During the semester, students will be assigned to pass tests focusing on topic in specific sections."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formMid-term test(s)30 %30 %Final test30 %30 %Final Practical Examination40 %40 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:SOCHOR, Tomáš. 2018. Pokročilé směrování a přepínání v sítích - technologie Cisco III. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-607-4.CISCO, iInc. 2019. Cisco Networking Academy. CCNA R&S: Scaling Networks. http://www.netacad.com.Recommended:CISCO, Inc. 2019. Cisco Networking Academy. CCNA R&S: Connecting Networks. http://www.netacad.com.VELTE, T; VELTE, A. 2013. Cisco A Beginner's Guide, Fifth Edition. USA: McGraw Hill, ISBN 978-0-07-181231-3.CISCO, Inc. 2019. Cisco Networking Academy. CCNA R&S: Introduction to Networks. http://www.netacad.com.CISCO, Inc. 2019. Cisco Networking Academy. CCNA R&S: Routing and Swtching Essentials. http://www.netacad.com.LAMMLE, Todd. 2015. CCNA Výukový průvodce. Brno: Computer Press, 1016 p. ISBN 978-80-251-4602-6.ODOM, Wendell. 2013. Cisco CCNA routing and switching ICND2 200-101: official cert guide. Indianapolis: Cisco Press, 717 p. ISBN 978-1-58714-373-1.NASTASE, R. 2017. Routing and Switching 200-125 Official Cert Guide Library. 2016 R. Nastase. Cisco CCNA Command Guide (Computer Networking Series Book 2). N/A: R. Nastase, ISBN 978-1-97-351284-4."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "SOCHOR, Tomáš. 2018. Pokročilé směrování a přepínání v sítích - technologie Cisco III. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-607-4.CISCO, iInc. 2019. Cisco Networking Academy. CCNA R&S: Scaling Networks. http://www.netacad.com."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "CISCO, Inc. 2019. Cisco Networking Academy. CCNA R&S: Connecting Networks. http://www.netacad.com.VELTE, T; VELTE, A. 2013. Cisco A Beginner's Guide, Fifth Edition. USA: McGraw Hill, ISBN 978-0-07-181231-3.CISCO, Inc. 2019. Cisco Networking Academy. CCNA R&S: Introduction to Networks. http://www.netacad.com.CISCO, Inc. 2019. Cisco Networking Academy. CCNA R&S: Routing and Swtching Essentials. http://www.netacad.com.LAMMLE, Todd. 2015. CCNA Výukový průvodce. Brno: Computer Press, 1016 p. ISBN 978-80-251-4602-6.ODOM, Wendell. 2013. Cisco CCNA routing and switching ICND2 200-101: official cert guide. Indianapolis: Cisco Press, 717 p. ISBN 978-1-58714-373-1.NASTASE, R. 2017. Routing and Switching 200-125 Official Cert Guide Library. 2016 R. Nastase. Cisco CCNA Command Guide (Computer Networking Series Book 2). N/A: R. Nastase, ISBN 978-1-97-351284-4."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:44:09",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

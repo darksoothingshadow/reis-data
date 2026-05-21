@@ -1,0 +1,569 @@
+{
+  "courseCode": "SAIEU",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "SAIEU"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Statistical Analyses in Ecology Using R"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Statistical Analyses in Ecology Using R"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (3 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/0 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující; doktorský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "angličtina"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Daniel Volařík, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav lesnické botaniky, dendrologie a geobiocenologie (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Daniel Volařík, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška nebo studentem studijního programu Z-EXC Zahraniční studenti - krátkodobé studijní pobyty LDF nebo studentem studijního programu Z-EXC Zahraniční studenti - krátkodobé studijní pobyty FRRMS"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do programového prostředí R (dotace 0/4)"
+    },
+    {
+      "label": "2.",
+      "content": "Design pokusu a otázka pseudoreplikací (dotace 0/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Obecné lineární modely (dotace 0/4)"
+    },
+    {
+      "label": "4.",
+      "content": "Zobecněné lineární modely (dotace 0/4)"
+    },
+    {
+      "label": "5.",
+      "content": "Nelineární modely (dotace 0/4)"
+    },
+    {
+      "label": "6.",
+      "content": "Modely se smíšenými efekty (dotace 0/4)"
+    },
+    {
+      "label": "7.",
+      "content": "Úvod k analýze prostorových dat (dotace 0/4)"
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, 2025/2026 - doktorská studia, ZS 2023/2024, ZS 2022/2023, ZS 2020/2021, ZS 2019/2020 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Statistical Analyses in Ecology Using R"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Statistical Analyses in Ecology Using R"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (3 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/0 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (3 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/0 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující; doktorský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: angličtina"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Daniel Volařík, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav lesnické botaniky, dendrologie a geobiocenologie (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Daniel Volařík, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška nebo studentem studijního programu Z-EXC Zahraniční studenti - krátkodobé studijní pobyty LDF nebo studentem studijního programu Z-EXC Zahraniční studenti - krátkodobé studijní pobyty FRRMS"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek11.00-12.50B11D. VolaříkPřednáškaKaždý týden24"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem kurzu je seznámit studenty s postupy analýzy dat používanými v ekologii. Kurz je zaměřen na praktické příklady analýz reálných dat, které se běžně vyskytují v ekologických studiích. Analýzy budou prováděny ve volně dostupném statistickém prostředí R. Vysvětlena je vždy základní teorie použitých statistických metod."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do programového prostředí R (dotace 0/4)2.Design pokusu a otázka pseudoreplikací (dotace 0/2)3.Obecné lineární modely (dotace 0/4)4.Zobecněné lineární modely (dotace 0/4)5.Nelineární modely (dotace 0/4)6.Modely se smíšenými efekty (dotace 0/4)7.Úvod k analýze prostorových dat (dotace 0/4)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Design pokusu a otázka pseudoreplikací (dotace 0/2)"
+    },
+    {
+      "label": "[section] Úvod do programového prostředí R",
+      "content": "2.Design pokusu a otázka pseudoreplikací (dotace 0/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Obecné lineární modely (dotace 0/4)"
+    },
+    {
+      "label": "[section] Design pokusu a otázka pseudoreplikací",
+      "content": "3.Obecné lineární modely (dotace 0/4)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Zobecněné lineární modely (dotace 0/4)"
+    },
+    {
+      "label": "[section] Obecné lineární modely",
+      "content": "4.Zobecněné lineární modely (dotace 0/4)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Nelineární modely (dotace 0/4)"
+    },
+    {
+      "label": "[section] Zobecněné lineární modely",
+      "content": "5.Nelineární modely (dotace 0/4)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Modely se smíšenými efekty (dotace 0/4)"
+    },
+    {
+      "label": "[section] Nelineární modely",
+      "content": "6.Modely se smíšenými efekty (dotace 0/4)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Úvod k analýze prostorových dat (dotace 0/4)"
+    },
+    {
+      "label": "[section] Modely se smíšenými efekty",
+      "content": "7.Úvod k analýze prostorových dat (dotace 0/4)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumseminář26 hkonzultace16 hpříprava na průběžné hodnocení24 hCelkem66 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zkouška - vyžadována aktivní účast na cvičeních"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Doporučená:ZUUR, Alain F.; IENO, Elena N.; SMITH, Graham M. 2007. Analysing ecological data. New York: Springer, 672 s. Statistics for biology and health. ISBN 978-0-387-45967-7.ZUUR, Alain F a kol. 2009. Mixed effects models and extensions in ecology with R. New York: Springer, 574 s. ISBN 978-1-4419-2764-4. Introductory statistics with R. 2. vyd. New York: Springer, 363 s. Statistics and computing. ISBN 978-0-387-79053-4.DIGGLE, Peter J. 1983. Statistical Analysis of Spatial Point Patterns. London: Academic Press."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "ZUUR, Alain F.; IENO, Elena N.; SMITH, Graham M. 2007. Analysing ecological data. New York: Springer, 672 s. Statistics for biology and health. ISBN 978-0-387-45967-7.ZUUR, Alain F a kol. 2009. Mixed effects models and extensions in ecology with R. New York: Springer, 574 s. ISBN 978-1-4419-2764-4. Introductory statistics with R. 2. vyd. New York: Springer, 363 s. Statistics and computing. ISBN 978-0-387-79053-4.DIGGLE, Peter J. 1983. Statistical Analysis of Spatial Point Patterns. London: Academic Press."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "SAIEU"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Statistical Analyses in Ecology Using R"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Statistical Analyses in Ecology Using R"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (3 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/0 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing; doctor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "English"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Daniel Volařík, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Forest Botany, Dendrology and Geobiocoenology (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Daniel Volařík, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "State Bachelor Examination or student of study programme Z-EXC Foreign students - exchange programs or student of study programme Z-EXC Foreign students - exchange programs FRDIS"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to R statistical environment (allowance 0/6)"
+    },
+    {
+      "label": "a.",
+      "content": "R basics - R syntax, objects, commands"
+    },
+    {
+      "label": "b.",
+      "content": "Data manipulation i R"
+    },
+    {
+      "label": "c.",
+      "content": "Descriptive statistics"
+    },
+    {
+      "label": "2.",
+      "content": "Sampling design and pseudoreplication issue (allowance 0/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Graphics (allowance 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Types of graphs - Histograms, Boxplots, Scatterplots, QQplots"
+    },
+    {
+      "label": "b.",
+      "content": "Base graphics and ggplot2 graphics in R"
+    },
+    {
+      "label": "4.",
+      "content": "General linear models (allowance 0/6)"
+    },
+    {
+      "label": "a.",
+      "content": "ANOVA (Analysis of variance) introduction"
+    },
+    {
+      "label": "b.",
+      "content": "ANOVA assumptions and hypothesis"
+    },
+    {
+      "label": "c.",
+      "content": "ANOVA: sum of squares and F ratio; p-values"
+    },
+    {
+      "label": "d.",
+      "content": "One way/two way ANOVA"
+    },
+    {
+      "label": "e.",
+      "content": "Bayes factor"
+    },
+    {
+      "label": "f.",
+      "content": "Linear regression"
+    },
+    {
+      "label": "g.",
+      "content": "Limitations of linear models in ecological data analyses"
+    },
+    {
+      "label": "5.",
+      "content": "Generalized linear models (GLM) (allowance 0/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Extension of general linear models to generalized linear models"
+    },
+    {
+      "label": "b.",
+      "content": "Gamma distribution - analyzing strictly positive data"
+    },
+    {
+      "label": "c.",
+      "content": "Poisson distribution - Count data analysis"
+    },
+    {
+      "label": "d.",
+      "content": "Binomial distribution - Logistic regression, presence/absence data and proportional data"
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, 2025/2026 - post-graduate studies, WS 2023/2024, WS 2022/2023, WS 2020/2021, WS 2019/2020 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Statistical Analyses in Ecology Using R"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Statistical Analyses in Ecology Using R"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (3 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/0 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (3 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/0 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing; doctor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: English"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Daniel Volařík, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Forest Botany, Dendrology and Geobiocoenology (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Daniel Volařík, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: State Bachelor Examination or student of study programme Z-EXC Foreign students - exchange programs or student of study programme Z-EXC Foreign students - exchange programs FRDIS"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday11.00-12.50B11D. VolaříkLectureEvery week24"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The objective of the course is to introduce students to data analyses procedures used in ecology. The course focuses on practical examples of case ecological studies. The R statistical environment will be used and the basic theory will be explained."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to R statistical environment (allowance 0/6) a.R basics - R syntax, objects, commandsb.Data manipulation i Rc.Descriptive statistics2.Sampling design and pseudoreplication issue (allowance 0/2)3.Graphics (allowance 0/4) a.Types of graphs - Histograms, Boxplots, Scatterplots, QQplotsb.Base graphics and ggplot2 graphics in R4.General linear models (allowance 0/6) a.ANOVA (Analysis of variance) introductionb.ANOVA assumptions and hypothesisc.ANOVA: sum of squares and F ratio; p-valuesd.One way/two way ANOVAe.Bayes factorf.Linear regressiong.Limitations of linear models in ecological data analyses5.Generalized linear models (GLM) (allowance 0/8) a.Extension of general linear models to generalized linear modelsb.Gamma distribution - analyzing strictly positive datac.Poisson distribution - Count data analysisd.Binomial distribution - Logistic regression, presence/absence data and proportional data"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.R basics - R syntax, objects, commandsb.Data manipulation i Rc.Descriptive statistics"
+    },
+    {
+      "label": "[section] Introduction to R statistical environment",
+      "content": "a.R basics - R syntax, objects, commandsb.Data manipulation i Rc.Descriptive statistics"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Graphics (allowance 0/4)"
+    },
+    {
+      "label": "[section] Sampling design and pseudoreplication issue",
+      "content": "3.Graphics (allowance 0/4)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Types of graphs - Histograms, Boxplots, Scatterplots, QQplotsb.Base graphics and ggplot2 graphics in R"
+    },
+    {
+      "label": "[section] Graphics",
+      "content": "a.Types of graphs - Histograms, Boxplots, Scatterplots, QQplotsb.Base graphics and ggplot2 graphics in R"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.ANOVA (Analysis of variance) introductionb.ANOVA assumptions and hypothesisc.ANOVA: sum of squares and F ratio; p-valuesd.One way/two way ANOVAe.Bayes factorf.Linear regressiong.Limitations of linear models in ecological data analyses"
+    },
+    {
+      "label": "[section] General linear models",
+      "content": "a.ANOVA (Analysis of variance) introductionb.ANOVA assumptions and hypothesisc.ANOVA: sum of squares and F ratio; p-valuesd.One way/two way ANOVAe.Bayes factorf.Linear regressiong.Limitations of linear models in ecological data analyses"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Extension of general linear models to generalized linear modelsb.Gamma distribution - analyzing strictly positive datac.Poisson distribution - Count data analysisd.Binomial distribution - Logistic regression, presence/absence data and proportional data"
+    },
+    {
+      "label": "[section] Generalized linear models (GLM)",
+      "content": "a.Extension of general linear models to generalized linear modelsb.Gamma distribution - analyzing strictly positive datac.Poisson distribution - Count data analysisd.Binomial distribution - Logistic regression, presence/absence data and proportional data"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendanceseminar26 hconsultation16 hpreparation for regular assessment24 hTotal66 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Exam -- ability to analyze data, oral exam, data active participation on the course is needed"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Recommended:ZUUR, Alain F.; IENO, Elena N.; SMITH, Graham M. 2007. Analysing ecological data. New York: Springer, 672 p. Statistics for biology and health. ISBN 978-0-387-45967-7.ZUUR, Alain F et al. 2009. Mixed effects models and extensions in ecology with R. New York: Springer, 574 p. ISBN 978-1-4419-2764-4. Introductory statistics with R. 2nd ed. New York: Springer, 363 p. Statistics and computing. ISBN 978-0-387-79053-4.DIGGLE, Peter J. 1983. Statistical Analysis of Spatial Point Patterns. London: Academic Press."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "ZUUR, Alain F.; IENO, Elena N.; SMITH, Graham M. 2007. Analysing ecological data. New York: Springer, 672 p. Statistics for biology and health. ISBN 978-0-387-45967-7.ZUUR, Alain F et al. 2009. Mixed effects models and extensions in ecology with R. New York: Springer, 574 p. ISBN 978-1-4419-2764-4. Introductory statistics with R. 2nd ed. New York: Springer, 363 p. Statistics and computing. ISBN 978-0-387-79053-4.DIGGLE, Peter J. 1983. Statistical Analysis of Spatial Point Patterns. London: Academic Press."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:10:00",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

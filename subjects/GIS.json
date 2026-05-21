@@ -1,5 +1,14 @@
 {
   "courseCode": "GIS",
+  "name": "Geoinformační systémy",
+  "nameCs": "Geoinformační systémy",
+  "nameEn": "Geoinformation Systems",
+  "predmetId": "159496",
+  "facultyId": 38,
+  "aliases": [],
+  "teachers": [
+    "doc. Ing. Martin Klimánek, Ph.D."
+  ],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - LDF",
@@ -563,56 +572,6 @@
       ]
     },
     {
-      "semesterName": "ZS 2020/2021 - PEF",
-      "semesterId": "584",
-      "year": 2020,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=123543;lang=cz",
-      "totalPass": 32,
-      "totalFail": 4,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 2,
-            "C": 3,
-            "D": 4,
-            "E": 23,
-            "F": 0,
-            "FN": 4
-          },
-          "pass": 32,
-          "fail": 4
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2020/2021 - LDF",
-      "semesterId": "588",
-      "year": 2020,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123809;lang=cz",
-      "totalPass": 102,
-      "totalFail": 19,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 9,
-            "B": 9,
-            "C": 38,
-            "D": 13,
-            "E": 33,
-            "F": 1,
-            "FN": 18
-          },
-          "pass": 102,
-          "fail": 19
-        }
-      ]
-    },
-    {
       "semesterName": "ZS 2020/2021 - ZF",
       "semesterId": "590",
       "year": 2020,
@@ -681,6 +640,56 @@
       ]
     },
     {
+      "semesterName": "ZS 2020/2021 - PEF",
+      "semesterId": "584",
+      "year": 2020,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=123543;lang=cz",
+      "totalPass": 32,
+      "totalFail": 4,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 3,
+            "D": 4,
+            "E": 23,
+            "F": 0,
+            "FN": 4
+          },
+          "pass": 32,
+          "fail": 4
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2020/2021 - LDF",
+      "semesterId": "588",
+      "year": 2020,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123809;lang=cz",
+      "totalPass": 102,
+      "totalFail": 19,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 9,
+            "B": 9,
+            "C": 38,
+            "D": 13,
+            "E": 33,
+            "F": 1,
+            "FN": 18
+          },
+          "pass": 102,
+          "fail": 19
+        }
+      ]
+    },
+    {
       "semesterName": "ZS 2019/2020 - ZF",
       "semesterId": "557",
       "year": 2019,
@@ -711,5 +720,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-03-07T08:18:27.670Z"
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
 }

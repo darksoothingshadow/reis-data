@@ -1,0 +1,905 @@
+{
+  "courseCode": "UBIF",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "UBIF"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Úvod do bioinformatiky"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Introduction to Bioinformatics"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Není"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Mgr. Martin Černý, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav molekulární biologie a radiobiologie (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Mgr. Martin Černý, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Historie bioinformatiky, databáze a práce s informacemi. (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Historie"
+    },
+    {
+      "label": "b.",
+      "content": "Data mining a \"text mining\""
+    },
+    {
+      "label": "c.",
+      "content": "Klíčové databáze pro molekulární biologii"
+    },
+    {
+      "label": "2.",
+      "content": "Základy statistiky pro bioinformatiku (dotace 3/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Pravděpodobnost"
+    },
+    {
+      "label": "b.",
+      "content": "Distribuce dat"
+    },
+    {
+      "label": "c.",
+      "content": "Odhady"
+    },
+    {
+      "label": "d.",
+      "content": "Testování hypotéz"
+    },
+    {
+      "label": "e.",
+      "content": "ANOVA a neparametrické testy"
+    },
+    {
+      "label": "f.",
+      "content": "Regresní modely"
+    },
+    {
+      "label": "g.",
+      "content": "Korelace"
+    },
+    {
+      "label": "h.",
+      "content": "FDR a Benjamini-Hochbergova korekce"
+    },
+    {
+      "label": "3.",
+      "content": "Aplikovaná bioinformatika (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Analýza sekvencí"
+    },
+    {
+      "label": "b.",
+      "content": "BLAST"
+    },
+    {
+      "label": "c.",
+      "content": "Predikce motivů"
+    },
+    {
+      "label": "d.",
+      "content": "Fylogenetická analýza"
+    },
+    {
+      "label": "4.",
+      "content": "Využití tabulkového procesoru pro práci s daty (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Filtrování dat"
+    },
+    {
+      "label": "b.",
+      "content": "Vyhledávací funkce"
+    },
+    {
+      "label": "c.",
+      "content": "Kontingenční tabulky"
+    },
+    {
+      "label": "d.",
+      "content": "Práce s datovými poli"
+    },
+    {
+      "label": "5.",
+      "content": "Vizualizace dat (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Barevné škály a reprezentace dat (Colorbrewer)"
+    },
+    {
+      "label": "b.",
+      "content": "Heatmapa"
+    },
+    {
+      "label": "c.",
+      "content": "Dendrogram"
+    },
+    {
+      "label": "d.",
+      "content": "Circos"
+    },
+    {
+      "label": "6.",
+      "content": "Základy modelování, predikce a strojové učení (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "PCA/ICA"
+    },
+    {
+      "label": "b.",
+      "content": "OPLS"
+    },
+    {
+      "label": "c.",
+      "content": "Lineární smíšené modely"
+    },
+    {
+      "label": "d.",
+      "content": "AIC, BIC"
+    },
+    {
+      "label": "7.",
+      "content": "Pokročilé nástroje (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Python pro bioinformatiku"
+    },
+    {
+      "label": "b.",
+      "content": "R pro bioinformatiku"
+    },
+    {
+      "label": "c.",
+      "content": "Julia"
+    },
+    {
+      "label": "8.",
+      "content": "Interpretace dat na základě anotací (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "GO analýza"
+    },
+    {
+      "label": "b.",
+      "content": "Metabolické dráhy"
+    },
+    {
+      "label": "c.",
+      "content": "Interakce"
+    },
+    {
+      "label": "9.",
+      "content": "Integrace dat a systémová biologie (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Biologické sítě"
+    },
+    {
+      "label": "b.",
+      "content": "Metagenomika a metaproteomika"
+    },
+    {
+      "label": "c.",
+      "content": "Integrace omických dat"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "41 %"
+    },
+    {
+      "label": "Prezentace nebo obhajoba",
+      "content": "14 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "27 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "18 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022, LS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Úvod do bioinformatiky"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Introduction to Bioinformatics"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Není"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Mgr. Martin Černý, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav molekulární biologie a radiobiologie (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Mgr. Martin Černý, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí9.00-10.50C03M. ČernýCvičeníKaždý týden15Pondělí11.00-12.50C03M. ČernýCvičeníKaždý týden15Pondělí13.00-14.50C03M. ČernýCvičeníKaždý týden15Úterý8.00-8.50M2.11M. ČernýPřednáškaKaždý týden46"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět uvede studenty do základů bioinformatiky a její aplikace v molekulární biologii. Seznámíte se s bioinformatickými daty, formáty a databázemi, přiřazováním sekvencí a hledáním podobností, fylogenetickou analýzou, predikcemi a modelováním. Součástí bude rovněž statistika pro bioinformatiku a vizualizace dat. Hlavním cílem je naučit se používat příslušné základní nástroje a umět interpretovat získané výsledky."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Historie bioinformatiky, databáze a práce s informacemi. (dotace 1/2) a.Historieb.Data mining a \"text mining\"c.Klíčové databáze pro molekulární biologii2.Základy statistiky pro bioinformatiku (dotace 3/6) a.Pravděpodobnostb.Distribuce datc.Odhadyd.Testování hypotéze.ANOVA a neparametrické testyf.Regresní modelyg.Korelaceh.FDR a Benjamini-Hochbergova korekce3.Aplikovaná bioinformatika (dotace 1/2) a.Analýza sekvencíb.BLASTc.Predikce motivůd.Fylogenetická analýza4.Využití tabulkového procesoru pro práci s daty (dotace 1/2) a.Filtrování datb.Vyhledávací funkcec.Kontingenční tabulkyd.Práce s datovými poli5.Vizualizace dat (dotace 1/2) a.Barevné škály a reprezentace dat (Colorbrewer)b.Heatmapac.Dendrogramd.Circos6.Základy modelování, predikce a strojové učení (dotace 2/4) a.PCA/ICAb.OPLSc.Lineární smíšené modelyd.AIC, BIC7.Pokročilé nástroje (dotace 1/2) a.Python pro bioinformatikub.R pro bioinformatikuc.Julia8.Interpretace dat na základě anotací (dotace 1/2) a.GO analýzab.Metabolické dráhyc.Interakce9.Integrace dat a systémová biologie (dotace 1/2) a.Biologické sítěb.Metagenomika a metaproteomikac.Integrace omických dat"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Historieb.Data mining a \"text mining\"c.Klíčové databáze pro molekulární biologii"
+    },
+    {
+      "label": "[section] Historie bioinformatiky, databáze a práce s informacemi.",
+      "content": "a.Historieb.Data mining a \"text mining\"c.Klíčové databáze pro molekulární biologii"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Pravděpodobnostb.Distribuce datc.Odhadyd.Testování hypotéze.ANOVA a neparametrické testyf.Regresní modelyg.Korelaceh.FDR a Benjamini-Hochbergova korekce"
+    },
+    {
+      "label": "[section] Základy statistiky pro bioinformatiku",
+      "content": "a.Pravděpodobnostb.Distribuce datc.Odhadyd.Testování hypotéze.ANOVA a neparametrické testyf.Regresní modelyg.Korelaceh.FDR a Benjamini-Hochbergova korekce"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Analýza sekvencíb.BLASTc.Predikce motivůd.Fylogenetická analýza"
+    },
+    {
+      "label": "[section] Aplikovaná bioinformatika",
+      "content": "a.Analýza sekvencíb.BLASTc.Predikce motivůd.Fylogenetická analýza"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Filtrování datb.Vyhledávací funkcec.Kontingenční tabulkyd.Práce s datovými poli"
+    },
+    {
+      "label": "[section] Využití tabulkového procesoru pro práci s daty",
+      "content": "a.Filtrování datb.Vyhledávací funkcec.Kontingenční tabulkyd.Práce s datovými poli"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Barevné škály a reprezentace dat (Colorbrewer)b.Heatmapac.Dendrogramd.Circos"
+    },
+    {
+      "label": "[section] Vizualizace dat",
+      "content": "a.Barevné škály a reprezentace dat (Colorbrewer)b.Heatmapac.Dendrogramd.Circos"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.PCA/ICAb.OPLSc.Lineární smíšené modelyd.AIC, BIC"
+    },
+    {
+      "label": "[section] Základy modelování, predikce a strojové učení",
+      "content": "a.PCA/ICAb.OPLSc.Lineární smíšené modelyd.AIC, BIC"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Python pro bioinformatikub.R pro bioinformatikuc.Julia"
+    },
+    {
+      "label": "[section] Pokročilé nástroje",
+      "content": "a.Python pro bioinformatikub.R pro bioinformatikuc.Julia"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.GO analýzab.Metabolické dráhyc.Interakce"
+    },
+    {
+      "label": "[section] Interpretace dat na základě anotací",
+      "content": "a.GO analýzab.Metabolické dráhyc.Interakce"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Biologické sítěb.Metagenomika a metaproteomikac.Integrace omických dat"
+    },
+    {
+      "label": "[section] Integrace dat a systémová biologie",
+      "content": "a.Biologické sítěb.Metagenomika a metaproteomikac.Integrace omických dat"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení28 hpříprava na zkoušku25 hpříprava na průběžné hodnocení20 hzpracování projektů25 hCelkem112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Během semestru je možné získat 110 bodů: 20 bodů - aktivita během přednášek 25 bodů - zpracování protokolů (5 protokolů, za vzorné zpracování lze získat až 6 bodů) 15 bodů - obhajoba protokolů (prezentace výsledků prokazující pochopení tématiky) 30 bodů - zkouškový test 20 bodů - ústní zkouška Hodnocení: 58 bodů - E 66 bodů - D 74 bodů - C 82 bodů - B 90 bodů - A Zápočet: Aktivní účast na cvičeních, zpracování a obhájení protokolů Zkouška: Test s možným ústním přezkoušením"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích41 %Prezentace nebo obhajoba14 %Absolvování závěrečného testu27 %Absolvování závěrečné ústní zkoušky18 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:JIANG, Rui; ZHANG, Xuegong; ZHANG, Michael. 2013. Basics of Bioinformatics. Berlin: Springer, 395 s. ISBN 978-3-642-38950-4.SINGH, Dev Bukhsh; PATHAK, Rajesh Kumar. 2022. Bioinformatics Methods and Applications. Oxford: Elsevier, 488 s. ISBN 978-0-323-89775-4.CHOUDHURI, Supratim. 2014. Bioinformatics for Beginners. London: Elsevier, Academic Press, 225 s. ISBN 978-0-12-410471-6.CVRČKOVÁ, Fatima. 2006. Úvod do praktické bioinformatiky. 1. vyd. Praha: Academia, 148 s. ISBN 80-200-1360-1. Bioinformatics: Methods and Protocols. 2000. Totowa: Humana Press, 500 s. ISBN 0-89603-732-0."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "JIANG, Rui; ZHANG, Xuegong; ZHANG, Michael. 2013. Basics of Bioinformatics. Berlin: Springer, 395 s. ISBN 978-3-642-38950-4.SINGH, Dev Bukhsh; PATHAK, Rajesh Kumar. 2022. Bioinformatics Methods and Applications. Oxford: Elsevier, 488 s. ISBN 978-0-323-89775-4.CHOUDHURI, Supratim. 2014. Bioinformatics for Beginners. London: Elsevier, Academic Press, 225 s. ISBN 978-0-12-410471-6.CVRČKOVÁ, Fatima. 2006. Úvod do praktické bioinformatiky. 1. vyd. Praha: Academia, 148 s. ISBN 80-200-1360-1. Bioinformatics: Methods and Protocols. 2000. Totowa: Humana Press, 500 s. ISBN 0-89603-732-0."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-MBI Molekulární biologie a biotechnologie, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "UBIF"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Úvod do bioinformatiky"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Introduction to Bioinformatics"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "Not possible"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Mgr. Martin Černý, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Molecular Biology and Radiobiology (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Mgr. Martin Černý, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "History, databases and informatics (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "History"
+    },
+    {
+      "label": "b.",
+      "content": "Data mining and text mining"
+    },
+    {
+      "label": "c.",
+      "content": "Key databases for molecular biology"
+    },
+    {
+      "label": "2.",
+      "content": "Basic statistics for bioinformatics (allowance 3/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Probabilities"
+    },
+    {
+      "label": "b.",
+      "content": "Distributions"
+    },
+    {
+      "label": "c.",
+      "content": "Estimations"
+    },
+    {
+      "label": "d.",
+      "content": "Hypothesis testing"
+    },
+    {
+      "label": "e.",
+      "content": "ANOVA and nonparametric tests"
+    },
+    {
+      "label": "f.",
+      "content": "Linear regression"
+    },
+    {
+      "label": "g.",
+      "content": "Correlations"
+    },
+    {
+      "label": "h.",
+      "content": "FDR and Benjamini-Hochberg procedure"
+    },
+    {
+      "label": "3.",
+      "content": "Applied bioinformatics (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Sequence analyses"
+    },
+    {
+      "label": "b.",
+      "content": "BLAST"
+    },
+    {
+      "label": "c.",
+      "content": "Motiff prediction"
+    },
+    {
+      "label": "d.",
+      "content": "Phylogenetic analyses"
+    },
+    {
+      "label": "4.",
+      "content": "Data filtering and processing (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Filtering"
+    },
+    {
+      "label": "b.",
+      "content": "Searching"
+    },
+    {
+      "label": "c.",
+      "content": "Pivot tables"
+    },
+    {
+      "label": "d.",
+      "content": "Data models"
+    },
+    {
+      "label": "5.",
+      "content": "Data visualisation (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Using color in data presentation"
+    },
+    {
+      "label": "b.",
+      "content": "Heatmaps"
+    },
+    {
+      "label": "c.",
+      "content": "Dendrogram"
+    },
+    {
+      "label": "d.",
+      "content": "Circos"
+    },
+    {
+      "label": "6.",
+      "content": "Basics of modeling and machine lerning (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "PCA/ICA"
+    },
+    {
+      "label": "b.",
+      "content": "OPLS"
+    },
+    {
+      "label": "c.",
+      "content": "Linear mixed models"
+    },
+    {
+      "label": "d.",
+      "content": "AIC, BIC"
+    },
+    {
+      "label": "7.",
+      "content": "Advanced tools (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Python for bioinformatics"
+    },
+    {
+      "label": "b.",
+      "content": "R for bioinformatics"
+    },
+    {
+      "label": "c.",
+      "content": "Julia"
+    },
+    {
+      "label": "8.",
+      "content": "Data interpretation (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "GO analysis"
+    },
+    {
+      "label": "b.",
+      "content": "Metabolic pathways"
+    },
+    {
+      "label": "c.",
+      "content": "Interactions"
+    },
+    {
+      "label": "9.",
+      "content": "Data integration and systems biology (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Biological networks"
+    },
+    {
+      "label": "b.",
+      "content": "Metagenomics and metaproteomics"
+    },
+    {
+      "label": "c.",
+      "content": "Omics integration"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "41 %"
+    },
+    {
+      "label": "Presentation or defence",
+      "content": "14 %"
+    },
+    {
+      "label": "Final test",
+      "content": "27 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "18 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022, SS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Úvod do bioinformatiky"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Introduction to Bioinformatics"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: Not possible"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Mgr. Martin Černý, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Molecular Biology and Radiobiology (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Mgr. Martin Černý, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday9.00-10.50C03M. ČernýSeminarEvery week15Monday11.00-12.50C03M. ČernýSeminarEvery week15Monday13.00-14.50C03M. ČernýSeminarEvery week15Tuesday8.00-8.50M2.11M. ČernýLectureEvery week46"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The course introduces students to the basics of bioinformatics and its application in molecular biology. Students will be introduced to bioinformatics data, formats, and databases, to methods for sequence alignment and similarity search, protein structure prediction, phylogenetic analyses, prediction, and modeling. Part of the lectures will be basic statistics for bioinformatics and methods for data visualization. The main objective is to learn to use the relevant basic tools and to be able to interpret the obtained results."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.History, databases and informatics (allowance 1/2) a.Historyb.Data mining and text miningc.Key databases for molecular biology2.Basic statistics for bioinformatics (allowance 3/6) a.Probabilitiesb.Distributionsc.Estimationsd.Hypothesis testinge.ANOVA and nonparametric testsf.Linear regressiong.Correlationsh.FDR and Benjamini-Hochberg procedure3.Applied bioinformatics (allowance 1/2) a.Sequence analysesb.BLASTc.Motiff predictiond.Phylogenetic analyses4.Data filtering and processing (allowance 1/2) a.Filteringb.Searchingc.Pivot tablesd.Data models5.Data visualisation (allowance 1/2) a.Using color in data presentationb.Heatmapsc.Dendrogramd.Circos6.Basics of modeling and machine lerning (allowance 2/4) a.PCA/ICAb.OPLSc.Linear mixed modelsd.AIC, BIC7.Advanced tools (allowance 1/2) a.Python for bioinformaticsb.R for bioinformaticsc.Julia8.Data interpretation (allowance 1/2) a.GO analysisb.Metabolic pathwaysc.Interactions9.Data integration and systems biology (allowance 1/2) a.Biological networksb.Metagenomics and metaproteomicsc.Omics integration"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Historyb.Data mining and text miningc.Key databases for molecular biology"
+    },
+    {
+      "label": "[section] History, databases and informatics",
+      "content": "a.Historyb.Data mining and text miningc.Key databases for molecular biology"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Probabilitiesb.Distributionsc.Estimationsd.Hypothesis testinge.ANOVA and nonparametric testsf.Linear regressiong.Correlationsh.FDR and Benjamini-Hochberg procedure"
+    },
+    {
+      "label": "[section] Basic statistics for bioinformatics",
+      "content": "a.Probabilitiesb.Distributionsc.Estimationsd.Hypothesis testinge.ANOVA and nonparametric testsf.Linear regressiong.Correlationsh.FDR and Benjamini-Hochberg procedure"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Sequence analysesb.BLASTc.Motiff predictiond.Phylogenetic analyses"
+    },
+    {
+      "label": "[section] Applied bioinformatics",
+      "content": "a.Sequence analysesb.BLASTc.Motiff predictiond.Phylogenetic analyses"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Filteringb.Searchingc.Pivot tablesd.Data models"
+    },
+    {
+      "label": "[section] Data filtering and processing",
+      "content": "a.Filteringb.Searchingc.Pivot tablesd.Data models"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Using color in data presentationb.Heatmapsc.Dendrogramd.Circos"
+    },
+    {
+      "label": "[section] Data visualisation",
+      "content": "a.Using color in data presentationb.Heatmapsc.Dendrogramd.Circos"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.PCA/ICAb.OPLSc.Linear mixed modelsd.AIC, BIC"
+    },
+    {
+      "label": "[section] Basics of modeling and machine lerning",
+      "content": "a.PCA/ICAb.OPLSc.Linear mixed modelsd.AIC, BIC"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Python for bioinformaticsb.R for bioinformaticsc.Julia"
+    },
+    {
+      "label": "[section] Advanced tools",
+      "content": "a.Python for bioinformaticsb.R for bioinformaticsc.Julia"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.GO analysisb.Metabolic pathwaysc.Interactions"
+    },
+    {
+      "label": "[section] Data interpretation",
+      "content": "a.GO analysisb.Metabolic pathwaysc.Interactions"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Biological networksb.Metagenomics and metaproteomicsc.Omics integration"
+    },
+    {
+      "label": "[section] Data integration and systems biology",
+      "content": "a.Biological networksb.Metagenomics and metaproteomicsc.Omics integration"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice28 hpreparation for exam25 hpreparation for regular assessment20 helaboration and execution of projects25 hTotal112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "It is possible to earn 110 points during the semester: 20 points - activity during lectures 25 points - protocol processing (5 protocols, up to 6 points can be obtained for exemplary processing) 15 points - defense of protocols (presentation of results demonstrating understanding of the topic) 30 points - final test 20 points - oral exam Rating: 58 points - E 66 points - D 74 points - C 82 points - B 90 points - A Credit: Active participation in exercises, preparation, and defense of protocols Exam: Test with an optional oral examination"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation41 %Presentation or defence14 %Final test27 %Final oral exam18 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:JIANG, Rui; ZHANG, Xuegong; ZHANG, Michael. 2013. Basics of Bioinformatics. Berlin: Springer, 395 p. ISBN 978-3-642-38950-4.SINGH, Dev Bukhsh; PATHAK, Rajesh Kumar. 2022. Bioinformatics Methods and Applications. Oxford: Elsevier, 488 p. ISBN 978-0-323-89775-4.CHOUDHURI, Supratim. 2014. Bioinformatics for Beginners. London: Elsevier, Academic Press, 225 p. ISBN 978-0-12-410471-6.CVRČKOVÁ, Fatima. 2006. Úvod do praktické bioinformatiky. 1st ed. Praha: Academia, 148 p. ISBN 80-200-1360-1. Bioinformatics: Methods and Protocols. 2000. Totowa: Humana Press, 500 p. ISBN 0-89603-732-0."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "JIANG, Rui; ZHANG, Xuegong; ZHANG, Michael. 2013. Basics of Bioinformatics. Berlin: Springer, 395 p. ISBN 978-3-642-38950-4.SINGH, Dev Bukhsh; PATHAK, Rajesh Kumar. 2022. Bioinformatics Methods and Applications. Oxford: Elsevier, 488 p. ISBN 978-0-323-89775-4.CHOUDHURI, Supratim. 2014. Bioinformatics for Beginners. London: Elsevier, Academic Press, 225 p. ISBN 978-0-12-410471-6.CVRČKOVÁ, Fatima. 2006. Úvod do praktické bioinformatiky. 1st ed. Praha: Academia, 148 p. ISBN 80-200-1360-1. Bioinformatics: Methods and Protocols. 2000. Totowa: Humana Press, 500 p. ISBN 0-89603-732-0."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-MBI Molecular Biology and Biotechnology, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:28:56",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

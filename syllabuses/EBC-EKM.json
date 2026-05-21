@@ -1,0 +1,869 @@
+{
+  "courseCode": "EBC-EKM",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-EKM"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Ekonometrie 1"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Econometrics 1"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Luboš Střelec, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav statistiky a operačního výzkumu (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Václav Adamec, Ph.D. (cvičící)doc. Mgr. Veronika Blašková, Ph.D. (cvičící, přednášející)prof. Mgr. David Hampel, Ph.D. (cvičící)Mgr. Tomáš Konderla, Ph.D. (cvičící)doc. Ing. Luboš Střelec, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Terézia Vančová, Ph.D. (cvičící)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "(Statistika nebo Statistika) a ne Státní bakalářská zkouška a ne Ekonometrie I"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do ekonometrie (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Vymezení ekonometrie, její historie a vývoj"
+    },
+    {
+      "label": "b.",
+      "content": "Oblast využití a předmět ekonometrie"
+    },
+    {
+      "label": "c.",
+      "content": "Základní kroky a etapy ekonometrického modelování"
+    },
+    {
+      "label": "d.",
+      "content": "Typy ekonometrických dat"
+    },
+    {
+      "label": "2.",
+      "content": "Regresní a korelační analýza (dotace 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Regresní analýza, regresní model, veličiny v regresním modelu"
+    },
+    {
+      "label": "b.",
+      "content": "Členění regresních modelů, volba funkční formy modelu"
+    },
+    {
+      "label": "c.",
+      "content": "Metoda obyčejných nejmenších čtverců (OLS)"
+    },
+    {
+      "label": "d.",
+      "content": "Vyrovnané hodnoty, chybový člen, rezidua"
+    },
+    {
+      "label": "e.",
+      "content": "Interpretace parametrů regresního modelu"
+    },
+    {
+      "label": "f.",
+      "content": "Hodnocení kvality regresního modelu, kritéria kvality regresního modelu"
+    },
+    {
+      "label": "g.",
+      "content": "Rozklad proměnlivosti, analýza rozptylu (ANOVA), koeficient determinace, informační kritéria"
+    },
+    {
+      "label": "h.",
+      "content": "Korelační analýza, párový koeficient korelace, korelační matice, parciální koeficient korelace, vícenásobný koeficient korelace"
+    },
+    {
+      "label": "3.",
+      "content": "Testování statistických hypotéz v regresní a korelační analýze, intervaly spolehlivosti (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Testy významnosti regresních parametrů (t-testy) a průkaznosti modelu (F-test)"
+    },
+    {
+      "label": "b.",
+      "content": "Interval spolehlivosti pro regresní parametr"
+    },
+    {
+      "label": "c.",
+      "content": "Interval spolehlivosti a pás spolehlivosti pro regresní model"
+    },
+    {
+      "label": "d.",
+      "content": "Testování průkaznosti párového koeficientu korelace, parciálního koeficientu korelace a vícenásobného koeficientu korelace"
+    },
+    {
+      "label": "e.",
+      "content": "Další testy regresního modelu: test významnosti koeficientu determinace, testy specifikace modelu"
+    },
+    {
+      "label": "f.",
+      "content": "Verifikační testy chybového členu: testy heteroskedasticity, testy autokorelace, testy normality rozdělení apod."
+    },
+    {
+      "label": "4.",
+      "content": "Klasický lineární regresní model a jeho předpoklady (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Klasický lineární regresní model"
+    },
+    {
+      "label": "b.",
+      "content": "Předpoklady klasického lineárního regresního modelu a možnosti jejich ověření"
+    },
+    {
+      "label": "c.",
+      "content": "Gaussův-Markovův teorém"
+    },
+    {
+      "label": "d.",
+      "content": "Vlastnosti OLS odhadů při splněných předpokladech klasického lineárního regresního modelu"
+    },
+    {
+      "label": "e.",
+      "content": "Porušení předpokladů klasického lineárního regresního modelu, jejich diagnostika a důsledky pro OLS odhad regresního modelu"
+    },
+    {
+      "label": "f.",
+      "content": "Možnosti nápravy porušení předpokladů klasického lineárního regresního modelu"
+    },
+    {
+      "label": "5.",
+      "content": "Úvod do analýzy časových řad (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Vymezení základních pojmů a cíl analýzy časových řad, členění časových řad"
+    },
+    {
+      "label": "b.",
+      "content": "Specifické problémy analýzy časových řad"
+    },
+    {
+      "label": "c.",
+      "content": "Specifické problémy analýzy ekonomických časových řad"
+    },
+    {
+      "label": "d.",
+      "content": "Elementární charakteristiky dynamiky časových řad"
+    },
+    {
+      "label": "6.",
+      "content": "Metody analýzy časových řad (dotace 10/10)"
+    },
+    {
+      "label": "a.",
+      "content": "Kvalitativní (expertní) metody analýzy časových řad, Delphi metoda, metoda historické analogie"
+    },
+    {
+      "label": "b.",
+      "content": "Kvantitativní metody analýzy časových řad"
+    },
+    {
+      "label": "c.",
+      "content": "Dekompozice časové řady"
+    },
+    {
+      "label": "d.",
+      "content": "Analýza trendu, strukturální zlom a jeho detekce a využití při analýze trendu"
+    },
+    {
+      "label": "e.",
+      "content": "Metody odhadu sezónní složky, metody sezónního očišťování"
+    },
+    {
+      "label": "f.",
+      "content": "Metody odhadu cyklické složky"
+    },
+    {
+      "label": "g.",
+      "content": "Náhodná složka, bílý šum, hodnocení kvality modelu, interpolační kritéria"
+    },
+    {
+      "label": "h.",
+      "content": "Predikce, pseudopredikce, hodnocení kvality predikce"
+    },
+    {
+      "label": "i.",
+      "content": "Lineární filtry, klouzavé průměry, exponenciální vyrovnávání"
+    },
+    {
+      "label": "j.",
+      "content": "Regresní modely časových řad"
+    },
+    {
+      "label": "k.",
+      "content": "Stacionární proces, testování stacionarity"
+    },
+    {
+      "label": "l.",
+      "content": "Způsoby odlišení zdánlivé a pravé regrese"
+    },
+    {
+      "label": "7.",
+      "content": "Aplikovaná ekonometrie (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Praktické příklady aplikace metod regresní a korelační analýzy na reálných ekonomických datech"
+    },
+    {
+      "label": "b.",
+      "content": "Praktické příklady aplikace metod analýzy časových řad na reálných ekonomických a finančních datech"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, LS 2025/2026, ZS 2024/2025, LS 2023/2024, ZS 2023/2024, ZS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Ekonometrie 1"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Econometrics 1"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Luboš Střelec, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav statistiky a operačního výzkumu (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Václav Adamec, Ph.D. (cvičící)doc. Mgr. Veronika Blašková, Ph.D. (cvičící, přednášející)prof. Mgr. David Hampel, Ph.D. (cvičící)Mgr. Tomáš Konderla, Ph.D. (cvičící)doc. Ing. Luboš Střelec, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Terézia Vančová, Ph.D. (cvičící)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: (Statistika nebo Statistika) a ne Státní bakalářská zkouška a ne Ekonometrie I"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí9.00-10.50Q03L. Střelec, V. BlaškováPřednáškaKaždý týden300Pondělí13.00-14.50Q36L. Střelec, D. HampelCvičeníKaždý týden20Úterý7.00-8.50Q36V. BlaškováCvičeníKaždý týden20Úterý11.00-12.50Q37L. Střelec, V. AdamecCvičeníKaždý týden20Středa9.00-10.50Q37L. StřelecCvičeníKaždý týden20Středa11.00-12.50Q37L. StřelecCvičeníKaždý týden20Středa11.00-12.50Q24T. VančováCvičeníKaždý týden24Středa13.00-14.50Q36T. VančováCvičeníKaždý týden20Čtvrtek7.00-8.50Q24T. VančováCvičeníKaždý týden24Čtvrtek9.00-10.50Q24V. Blašková, L. StřelecCvičeníKaždý týden24Čtvrtek11.00-12.50Q24T. VančováCvičeníKaždý týden24Čtvrtek13.00-14.50Q24T. VančováCvičeníKaždý týden24Pátek9.00-12.50Q37L. StřelecPřednáškaNepravidelně24"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Studenti získají teoretické vědomosti a znalosti a rovněž praktické dovednosti potřebné k sestavení základních jednorovnicových ekonometrických modelů s využitím metody OLS a základních modelů jednorozměrných časových řad. Studenti jsou rovněž schopni zhodnotit kvalitu ekonometrického modelu, model interpretovat v ekonomických souvislostech a použít k interpolaci či k predikci. Studenti při analýze průřezových dat a údajů časových řad využívají ekonometrický software. Předpokládáme, že nabyté znalosti a dovednosti budou studenty využity mj. při zpracování závěrečných prací."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do ekonometrie (dotace 2/0) a.Vymezení ekonometrie, její historie a vývojb.Oblast využití a předmět ekonometriec.Základní kroky a etapy ekonometrického modelováníd.Typy ekonometrických dat2.Regresní a korelační analýza (dotace 6/6) a.Regresní analýza, regresní model, veličiny v regresním modelub.Členění regresních modelů, volba funkční formy modeluc.Metoda obyčejných nejmenších čtverců (OLS)d.Vyrovnané hodnoty, chybový člen, reziduae.Interpretace parametrů regresního modeluf.Hodnocení kvality regresního modelu, kritéria kvality regresního modelug.Rozklad proměnlivosti, analýza rozptylu (ANOVA), koeficient determinace, informační kritériah.Korelační analýza, párový koeficient korelace, korelační matice, parciální koeficient korelace, vícenásobný koeficient korelace3.Testování statistických hypotéz v regresní a korelační analýze, intervaly spolehlivosti (dotace 2/2) a.Testy významnosti regresních parametrů (t-testy) a průkaznosti modelu (F-test)b.Interval spolehlivosti pro regresní parametrc.Interval spolehlivosti a pás spolehlivosti pro regresní modeld.Testování průkaznosti párového koeficientu korelace, parciálního koeficientu korelace a vícenásobného koeficientu korelacee.Další testy regresního modelu: test významnosti koeficientu determinace, testy specifikace modeluf.Verifikační testy chybového členu: testy heteroskedasticity, testy autokorelace, testy normality rozdělení apod.4.Klasický lineární regresní model a jeho předpoklady (dotace 4/4) a.Klasický lineární regresní modelb.Předpoklady klasického lineárního regresního modelu a možnosti jejich ověřeníc.Gaussův-Markovův teorémd.Vlastnosti OLS odhadů při splněných předpokladech klasického lineárního regresního modelue.Porušení předpokladů klasického lineárního regresního modelu, jejich diagnostika a důsledky pro OLS odhad regresního modeluf.Možnosti nápravy porušení předpokladů klasického lineárního regresního modelu5.Úvod do analýzy časových řad (dotace 2/2) a.Vymezení základních pojmů a cíl analýzy časových řad, členění časových řadb.Specifické problémy analýzy časových řadc.Specifické problémy analýzy ekonomických časových řadd.Elementární charakteristiky dynamiky časových řad6.Metody analýzy časových řad (dotace 10/10) a.Kvalitativní (expertní) metody analýzy časových řad, Delphi metoda, metoda historické analogieb.Kvantitativní metody analýzy časových řadc.Dekompozice časové řadyd.Analýza trendu, strukturální zlom a jeho detekce a využití při analýze trendue.Metody odhadu sezónní složky, metody sezónního očišťováníf.Metody odhadu cyklické složkyg.Náhodná složka, bílý šum, hodnocení kvality modelu, interpolační kritériah.Predikce, pseudopredikce, hodnocení kvality predikcei.Lineární filtry, klouzavé průměry, exponenciální vyrovnáváníj.Regresní modely časových řadk.Stacionární proces, testování stacionarityl.Způsoby odlišení zdánlivé a pravé regrese7.Aplikovaná ekonometrie (dotace 2/4) a.Praktické příklady aplikace metod regresní a korelační analýzy na reálných ekonomických datechb.Praktické příklady aplikace metod analýzy časových řad na reálných ekonomických a finančních datech"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Vymezení ekonometrie, její historie a vývojb.Oblast využití a předmět ekonometriec.Základní kroky a etapy ekonometrického modelováníd.Typy ekonometrických dat"
+    },
+    {
+      "label": "[section] Úvod do ekonometrie",
+      "content": "a.Vymezení ekonometrie, její historie a vývojb.Oblast využití a předmět ekonometriec.Základní kroky a etapy ekonometrického modelováníd.Typy ekonometrických dat"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Regresní analýza, regresní model, veličiny v regresním modelub.Členění regresních modelů, volba funkční formy modeluc.Metoda obyčejných nejmenších čtverců (OLS)d.Vyrovnané hodnoty, chybový člen, reziduae.Interpretace parametrů regresního modeluf.Hodnocení kvality regresního modelu, kritéria kvality regresního modelug.Rozklad proměnlivosti, analýza rozptylu (ANOVA), koeficient determinace, informační kritériah.Korelační analýza, párový koeficient korelace, korelační matice, parciální koeficient korelace, vícenásobný koeficient korelace"
+    },
+    {
+      "label": "[section] Regresní a korelační analýza",
+      "content": "a.Regresní analýza, regresní model, veličiny v regresním modelub.Členění regresních modelů, volba funkční formy modeluc.Metoda obyčejných nejmenších čtverců (OLS)d.Vyrovnané hodnoty, chybový člen, reziduae.Interpretace parametrů regresního modeluf.Hodnocení kvality regresního modelu, kritéria kvality regresního modelug.Rozklad proměnlivosti, analýza rozptylu (ANOVA), koeficient determinace, informační kritériah.Korelační analýza, párový koeficient korelace, korelační matice, parciální koeficient korelace, vícenásobný koeficient korelace"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Testy významnosti regresních parametrů (t-testy) a průkaznosti modelu (F-test)b.Interval spolehlivosti pro regresní parametrc.Interval spolehlivosti a pás spolehlivosti pro regresní modeld.Testování průkaznosti párového koeficientu korelace, parciálního koeficientu korelace a vícenásobného koeficientu korelacee.Další testy regresního modelu: test významnosti koeficientu determinace, testy specifikace modeluf.Verifikační testy chybového členu: testy heteroskedasticity, testy autokorelace, testy normality rozdělení apod."
+    },
+    {
+      "label": "[section] Testování statistických hypotéz v regresní a korelační analýze, intervaly spolehlivosti",
+      "content": "a.Testy významnosti regresních parametrů (t-testy) a průkaznosti modelu (F-test)b.Interval spolehlivosti pro regresní parametrc.Interval spolehlivosti a pás spolehlivosti pro regresní modeld.Testování průkaznosti párového koeficientu korelace, parciálního koeficientu korelace a vícenásobného koeficientu korelacee.Další testy regresního modelu: test významnosti koeficientu determinace, testy specifikace modeluf.Verifikační testy chybového členu: testy heteroskedasticity, testy autokorelace, testy normality rozdělení apod."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Klasický lineární regresní modelb.Předpoklady klasického lineárního regresního modelu a možnosti jejich ověřeníc.Gaussův-Markovův teorémd.Vlastnosti OLS odhadů při splněných předpokladech klasického lineárního regresního modelue.Porušení předpokladů klasického lineárního regresního modelu, jejich diagnostika a důsledky pro OLS odhad regresního modeluf.Možnosti nápravy porušení předpokladů klasického lineárního regresního modelu"
+    },
+    {
+      "label": "[section] Klasický lineární regresní model a jeho předpoklady",
+      "content": "a.Klasický lineární regresní modelb.Předpoklady klasického lineárního regresního modelu a možnosti jejich ověřeníc.Gaussův-Markovův teorémd.Vlastnosti OLS odhadů při splněných předpokladech klasického lineárního regresního modelue.Porušení předpokladů klasického lineárního regresního modelu, jejich diagnostika a důsledky pro OLS odhad regresního modeluf.Možnosti nápravy porušení předpokladů klasického lineárního regresního modelu"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Vymezení základních pojmů a cíl analýzy časových řad, členění časových řadb.Specifické problémy analýzy časových řadc.Specifické problémy analýzy ekonomických časových řadd.Elementární charakteristiky dynamiky časových řad"
+    },
+    {
+      "label": "[section] Úvod do analýzy časových řad",
+      "content": "a.Vymezení základních pojmů a cíl analýzy časových řad, členění časových řadb.Specifické problémy analýzy časových řadc.Specifické problémy analýzy ekonomických časových řadd.Elementární charakteristiky dynamiky časových řad"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Kvalitativní (expertní) metody analýzy časových řad, Delphi metoda, metoda historické analogieb.Kvantitativní metody analýzy časových řadc.Dekompozice časové řadyd.Analýza trendu, strukturální zlom a jeho detekce a využití při analýze trendue.Metody odhadu sezónní složky, metody sezónního očišťováníf.Metody odhadu cyklické složkyg.Náhodná složka, bílý šum, hodnocení kvality modelu, interpolační kritériah.Predikce, pseudopredikce, hodnocení kvality predikcei.Lineární filtry, klouzavé průměry, exponenciální vyrovnáváníj.Regresní modely časových řadk.Stacionární proces, testování stacionarityl.Způsoby odlišení zdánlivé a pravé regrese"
+    },
+    {
+      "label": "[section] Metody analýzy časových řad",
+      "content": "a.Kvalitativní (expertní) metody analýzy časových řad, Delphi metoda, metoda historické analogieb.Kvantitativní metody analýzy časových řadc.Dekompozice časové řadyd.Analýza trendu, strukturální zlom a jeho detekce a využití při analýze trendue.Metody odhadu sezónní složky, metody sezónního očišťováníf.Metody odhadu cyklické složkyg.Náhodná složka, bílý šum, hodnocení kvality modelu, interpolační kritériah.Predikce, pseudopredikce, hodnocení kvality predikcei.Lineární filtry, klouzavé průměry, exponenciální vyrovnáváníj.Regresní modely časových řadk.Stacionární proces, testování stacionarityl.Způsoby odlišení zdánlivé a pravé regrese"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Praktické příklady aplikace metod regresní a korelační analýzy na reálných ekonomických datechb.Praktické příklady aplikace metod analýzy časových řad na reálných ekonomických a finančních datech"
+    },
+    {
+      "label": "[section] Aplikovaná ekonometrie",
+      "content": "a.Praktické příklady aplikace metod regresní a korelační analýzy na reálných ekonomických datechb.Praktické příklady aplikace metod analýzy časových řad na reálných ekonomických a finančních datech"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h20 hcvičení28 h0 hpříprava na zkoušku60 h60 hpříprava na průběžný test24 h24 hprůběžná příprava na cvičení (bloky konzultací u kombinované formy)28 h64 hCelkem168 h168 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Pro úspěšné absolvování předmětu je nutné splnění všech následujících dílčích podmínek: 1. Aktivní účast na cvičeních – účast na cvičeních je povinná, přičemž docházka je považována za splněnou při nejméně 9 aktivních účastí na výukových cvičeních, a to vždy na cvičení, na které je student řádně zapsán dle UIS (náhrady nejsou z kapacitních důvodů možné); aktivní účast znamená, že student je na daném cvičení schopen využít poznatky získané z přednášek i z předchozích cvičení při řešení praktických úkolů; v opačném případě je docházka považována za neaktivní (za absenci). 2. Splnění podmínek dvou průběžných testů – průběžné testy jsou povinné, přičemž z každého z nich je nutné získat min. 60 % možných bodů; v případě neúspěchu či řádně omluvené absence u řádného termínu je možné využít dvou opravných/náhradních termínů průběžných testů; termíny průběžných testů budou upřesněny nejpozději první týden semestru. 3. Úspěšně absolvovaná závěrečná zkouška zahrnující teoretickou a praktickou část – pro úspěšné absolvování závěrečné zkoušky je nutné získat min. 60 % možných bodů. Student, který nesplnil některou z výše uvedených dílčích podmínek předmětu, je z předmětu hodnocen známkou \"nevyhověl (F)\". Dílčí podmínky 1. a 2. představují průběžnou kontrolu studijních povinností. Výsledek průběžné kontroly studijních povinností je po úspěšně absolvované závěrečné zkoušce zohledněn při ukončení předmětu. Výsledné hodnocení předmětu je tak dáno součtem získaných bodů z průběžných testů a závěrečné zkoušky, a to následovně: [90 – 100] bodů = A [83 – 90) bodů = B [75 – 83) bodů = C [68 – 75) bodů = D [60 – 68) bodů = E [0 – 60) bodů = F Během průběžných testů i závěrečné zkoušky je povoleno využít psací pomůcky, oficiální vzorcový list, kalkulačku a software Gretl. Pro identifikaci je nutné předložit doklad s fotkou. Pro kombinovanou formu studia jsou požadavky shodné vyjma aktivní účasti na cvičeních. Jakékoli opisování, zaznamenávání nebo vynášení průběžných testů či zkoušek, používání nedovolených pomůcek, mobilních telefonů či jiných komunikačních zařízení nebo jiné narušování objektivity zkoušky či průběžných testů bude považováno za nesplnění podmínek ukončení předmětu a za hrubé porušení studijních předpisů. Následkem toho uzavře vyučující předmět v UIS hodnocením \"nevyhověl (F)\", případně se studentem zahájí disciplinární řízení."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAbsolvování průběžného testu (testů)40 %40 %Absolvování závěrečného testu60 %60 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:ADAMEC, Václav; STŘELEC, Luboš; HAMPEL, David. 2017. Ekonometrie I: učební text. 2. vyd. Brno: Mendelova univerzita v Brně, 162 s. ISBN 978-80-7509-480-3.ADAMEC, Václav; STŘELEC, Luboš. 2020. Ekonometrie I: cvičebnice. 4. vyd. Brno: Mendelova univerzita v Brně, 138 s. ISBN 978-80-7509-704-0.Doporučená:ARLT, Josef; ARLTOVÁ, Markéta. 2009. Ekonomické časové řady. 1. vyd. Praha: Professional Publishing, 290 s. ISBN 978-80-86946-85-6.CIPRA, Tomáš. 2013. Finanční ekonometrie. 2. vyd. Praha: Ekopress, 538 s. ISBN 978-80-86929-93-4.GUJARATI, Damodar N.; PORTER, Dawn C. Basic econometrics. 5. vyd. Boston: McGraw-Hill Irwin, 922 s. ISBN 978-007-127625-2.HAMPEL, David; BLAŠKOVÁ, Veronika; STŘELEC, Luboš. 2017. Ekonometrie 2. 3. vyd. Brno: Mendelova univerzita v Brně, 153 s. ISBN 978-80-7509-427-8.HINDLS, Richard a kol. 2007. Statistika pro ekonomy. 8. vyd. Praha: Professional Publishing, 415 s. ISBN 978-80-86946-43-6.HUŠEK, Roman. 2009. Aplikovaná ekonometrie: teorie a praxe. 1. vyd. Praha: Oeconomica, 344 s. Vysokoškolská učebnice. ISBN 978-80-245-1623-3.HUŠEK, Roman. 2007. Ekonometrická analýza. 1. vyd. Praha: Oeconomica, 367 s. ISBN 978-80-245-1300-3.MAREK, Luboš a kol. 2007. Statistika pro ekonomy: aplikace. 2. vyd. Praha: Professional Publishing, 485 s. ISBN 978-80-86946-40-5.STUDENMUND, A. H. 2017. Using econometrics: a practical guide. Harlow: Pearson, 572 s. ISBN 978-1-292-15409-1."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "ADAMEC, Václav; STŘELEC, Luboš; HAMPEL, David. 2017. Ekonometrie I: učební text. 2. vyd. Brno: Mendelova univerzita v Brně, 162 s. ISBN 978-80-7509-480-3.ADAMEC, Václav; STŘELEC, Luboš. 2020. Ekonometrie I: cvičebnice. 4. vyd. Brno: Mendelova univerzita v Brně, 138 s. ISBN 978-80-7509-704-0."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "ARLT, Josef; ARLTOVÁ, Markéta. 2009. Ekonomické časové řady. 1. vyd. Praha: Professional Publishing, 290 s. ISBN 978-80-86946-85-6.CIPRA, Tomáš. 2013. Finanční ekonometrie. 2. vyd. Praha: Ekopress, 538 s. ISBN 978-80-86929-93-4.GUJARATI, Damodar N.; PORTER, Dawn C. Basic econometrics. 5. vyd. Boston: McGraw-Hill Irwin, 922 s. ISBN 978-007-127625-2.HAMPEL, David; BLAŠKOVÁ, Veronika; STŘELEC, Luboš. 2017. Ekonometrie 2. 3. vyd. Brno: Mendelova univerzita v Brně, 153 s. ISBN 978-80-7509-427-8.HINDLS, Richard a kol. 2007. Statistika pro ekonomy. 8. vyd. Praha: Professional Publishing, 415 s. ISBN 978-80-86946-43-6.HUŠEK, Roman. 2009. Aplikovaná ekonometrie: teorie a praxe. 1. vyd. Praha: Oeconomica, 344 s. Vysokoškolská učebnice. ISBN 978-80-245-1623-3.HUŠEK, Roman. 2007. Ekonometrická analýza. 1. vyd. Praha: Oeconomica, 367 s. ISBN 978-80-245-1300-3.MAREK, Luboš a kol. 2007. Statistika pro ekonomy: aplikace. 2. vyd. Praha: Professional Publishing, 485 s. ISBN 978-80-86946-40-5.STUDENMUND, A. H. 2017. Using econometrics: a practical guide. Harlow: Pearson, 572 s. ISBN 978-1-292-15409-1."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-F Finance, prezenční forma, počáteční období ZS 2023/2024Program B-EAM Ekonomika a management, prezenční forma, počáteční období ZS 2024/2025Program B-EAM Ekonomika a management, kombinovaná forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-EKM"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Ekonometrie 1"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Econometrics 1"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course cannot be studied during the mobility abroad."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Luboš Střelec, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Statistics and Operation Analysis (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Václav Adamec, Ph.D. (instructor)doc. Mgr. Veronika Blašková, Ph.D. (instructor, lecturer)prof. Mgr. David Hampel, Ph.D. (instructor)Mgr. Tomáš Konderla, Ph.D. (instructor)doc. Ing. Luboš Střelec, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Terézia Vančová, Ph.D. (instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "(Statistics or Statistics) and not Final Bachelor Exam and not Econometrics I"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to Econometrics (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Definition of Econometrics, evolution and history"
+    },
+    {
+      "label": "b.",
+      "content": "Field of application and subject of Econometrics"
+    },
+    {
+      "label": "c.",
+      "content": "Basic steps of econometric analysis"
+    },
+    {
+      "label": "d.",
+      "content": "Econometric data types"
+    },
+    {
+      "label": "2.",
+      "content": "Regression and correlation analysis (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Regression analysis, regression model, variables in regression model"
+    },
+    {
+      "label": "b.",
+      "content": "Regression model classification, choosing the functional form"
+    },
+    {
+      "label": "c.",
+      "content": "Ordinary Least Squares (OLS)"
+    },
+    {
+      "label": "d.",
+      "content": "Fitted values, error term, residuals"
+    },
+    {
+      "label": "e.",
+      "content": "Interpretation of regression model parameters"
+    },
+    {
+      "label": "f.",
+      "content": "Regression validation, quality criteria of regression model"
+    },
+    {
+      "label": "g.",
+      "content": "Decomposition of variability (ANOVA), coefficient of determination, information criteria"
+    },
+    {
+      "label": "h.",
+      "content": "Correlation analysis, pairwise coefficient of correlation, correlation matrix, partial correlation coefficient, multiple correlation coefficient"
+    },
+    {
+      "label": "3.",
+      "content": "Testing of statistical hypotheses in regression and correlation analysis, confidence intervals (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Tests of significance for regression coefficients (t-tests) and test of overall model significance (F-test)"
+    },
+    {
+      "label": "b.",
+      "content": "Confidence interval for regression coefficients"
+    },
+    {
+      "label": "c.",
+      "content": "Confidence interval and prediction interval for the model"
+    },
+    {
+      "label": "d.",
+      "content": "Significance test of correlation coefficient"
+    },
+    {
+      "label": "e.",
+      "content": "Other regression model tests: test of significance of the coefficient of determination, model specification tests"
+    },
+    {
+      "label": "f.",
+      "content": "Error term verification tests: heteroskedasticity tests, autocorrelation tests, normality tests etc."
+    },
+    {
+      "label": "4.",
+      "content": "Classical linear regression model and its assumptions (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Classical linear regression model"
+    },
+    {
+      "label": "b.",
+      "content": "Classical assumptions and methods of their verification"
+    },
+    {
+      "label": "c.",
+      "content": "Gauss-Markov theorem"
+    },
+    {
+      "label": "d.",
+      "content": "Properties of OLS estimator under Gauss-Markov theorem"
+    },
+    {
+      "label": "e.",
+      "content": "Violations of classical assumptions, their diagnostics and consequences for the model estimation"
+    },
+    {
+      "label": "f.",
+      "content": "Remedies for violations of classical assumptions"
+    },
+    {
+      "label": "5.",
+      "content": "Introduction to time series analysis (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Time series data, definition, properties, types"
+    },
+    {
+      "label": "b.",
+      "content": "Specific problems of time series analysis"
+    },
+    {
+      "label": "c.",
+      "content": "Time series dynamics"
+    },
+    {
+      "label": "6.",
+      "content": "Methods of time series analysis (allowance 10/10)"
+    },
+    {
+      "label": "a.",
+      "content": "Qualitative (expert) methods of time series analysis, Delphi method, method of historical analogy"
+    },
+    {
+      "label": "b.",
+      "content": "Quantitative methods of time series analysis"
+    },
+    {
+      "label": "c.",
+      "content": "Time series decomposition"
+    },
+    {
+      "label": "d.",
+      "content": "Trend analysis, structural break and its detection"
+    },
+    {
+      "label": "e.",
+      "content": "Modeling seasonality, seasonal adjustment methods"
+    },
+    {
+      "label": "f.",
+      "content": "Modeling cyclicality"
+    },
+    {
+      "label": "g.",
+      "content": "Error term, white noise, model quality evaluation, criteria of model fit"
+    },
+    {
+      "label": "h.",
+      "content": "Prediction, pseudo-prediction, prediction quality evaluation"
+    },
+    {
+      "label": "i.",
+      "content": "Linear filters, moving averages, exponential smoothing"
+    },
+    {
+      "label": "j.",
+      "content": "Causal regression models"
+    },
+    {
+      "label": "k.",
+      "content": "Stationary process, stationarity testing"
+    },
+    {
+      "label": "l.",
+      "content": "Spurious regression"
+    },
+    {
+      "label": "7.",
+      "content": "Applied econometrics (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Practical examples of application of methods of regression and correlation analysis on real economic data"
+    },
+    {
+      "label": "b.",
+      "content": "Practical examples of application of methods time series analysis on real economic and financial data"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, SS 2025/2026, WS 2024/2025, SS 2023/2024, WS 2023/2024, WS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Ekonometrie 1"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Econometrics 1"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course cannot be studied during the mobility abroad."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Luboš Střelec, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Statistics and Operation Analysis (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Václav Adamec, Ph.D. (instructor)doc. Mgr. Veronika Blašková, Ph.D. (instructor, lecturer)prof. Mgr. David Hampel, Ph.D. (instructor)Mgr. Tomáš Konderla, Ph.D. (instructor)doc. Ing. Luboš Střelec, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Terézia Vančová, Ph.D. (instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: (Statistics or Statistics) and not Final Bachelor Exam and not Econometrics I"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday9.00-10.50Q03L. Střelec, V. BlaškováLectureEvery week300Monday13.00-14.50Q36L. Střelec, D. HampelSeminarEvery week20Tuesday7.00-8.50Q36V. BlaškováSeminarEvery week20Tuesday11.00-12.50Q37L. Střelec, V. AdamecSeminarEvery week20Wednesday9.00-10.50Q37L. StřelecSeminarEvery week20Wednesday11.00-12.50Q24T. VančováSeminarEvery week24Wednesday11.00-12.50Q37L. StřelecSeminarEvery week20Wednesday13.00-14.50Q36T. VančováSeminarEvery week20Thursday7.00-8.50Q24T. VančováSeminarEvery week24Thursday9.00-10.50Q24V. Blašková, L. StřelecSeminarEvery week24Thursday11.00-12.50Q24T. VančováSeminarEvery week24Thursday13.00-14.50Q24T. VančováSeminarEvery week24Friday9.00-12.50Q37L. StřelecLectureOccasionally24"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Obtaining theoretical knowledge and practical experience with construction of basic econometric models based on linear regression and models of univariate time series. Students are able to evaluate the econometric models, interpret in economic context and apply for predictions. Students can apply econometrics software. Knowledge and skills learned in this course are expected to be used during work on student's thesis."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to Econometrics (allowance 2/0) a.Definition of Econometrics, evolution and historyb.Field of application and subject of Econometricsc.Basic steps of econometric analysisd.Econometric data types2.Regression and correlation analysis (allowance 6/6) a.Regression analysis, regression model, variables in regression modelb.Regression model classification, choosing the functional formc.Ordinary Least Squares (OLS)d.Fitted values, error term, residualse.Interpretation of regression model parametersf.Regression validation, quality criteria of regression modelg.Decomposition of variability (ANOVA), coefficient of determination, information criteriah.Correlation analysis, pairwise coefficient of correlation, correlation matrix, partial correlation coefficient, multiple correlation coefficient3.Testing of statistical hypotheses in regression and correlation analysis, confidence intervals (allowance 2/2) a.Tests of significance for regression coefficients (t-tests) and test of overall model significance (F-test)b.Confidence interval for regression coefficientsc.Confidence interval and prediction interval for the modeld.Significance test of correlation coefficiente.Other regression model tests: test of significance of the coefficient of determination, model specification testsf.Error term verification tests: heteroskedasticity tests, autocorrelation tests, normality tests etc.4.Classical linear regression model and its assumptions (allowance 4/4) a.Classical linear regression modelb.Classical assumptions and methods of their verificationc.Gauss-Markov theoremd.Properties of OLS estimator under Gauss-Markov theoreme.Violations of classical assumptions, their diagnostics and consequences for the model estimationf.Remedies for violations of classical assumptions5.Introduction to time series analysis (allowance 2/2) a.Time series data, definition, properties, typesb.Specific problems of time series analysisc.Time series dynamics6.Methods of time series analysis (allowance 10/10) a.Qualitative (expert) methods of time series analysis, Delphi method, method of historical analogyb.Quantitative methods of time series analysisc.Time series decompositiond.Trend analysis, structural break and its detectione.Modeling seasonality, seasonal adjustment methodsf.Modeling cyclicalityg.Error term, white noise, model quality evaluation, criteria of model fith.Prediction, pseudo-prediction, prediction quality evaluationi.Linear filters, moving averages, exponential smoothingj.Causal regression modelsk.Stationary process, stationarity testingl.Spurious regression7.Applied econometrics (allowance 2/4) a.Practical examples of application of methods of regression and correlation analysis on real economic datab.Practical examples of application of methods time series analysis on real economic and financial data"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Definition of Econometrics, evolution and historyb.Field of application and subject of Econometricsc.Basic steps of econometric analysisd.Econometric data types"
+    },
+    {
+      "label": "[section] Introduction to Econometrics",
+      "content": "a.Definition of Econometrics, evolution and historyb.Field of application and subject of Econometricsc.Basic steps of econometric analysisd.Econometric data types"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Regression analysis, regression model, variables in regression modelb.Regression model classification, choosing the functional formc.Ordinary Least Squares (OLS)d.Fitted values, error term, residualse.Interpretation of regression model parametersf.Regression validation, quality criteria of regression modelg.Decomposition of variability (ANOVA), coefficient of determination, information criteriah.Correlation analysis, pairwise coefficient of correlation, correlation matrix, partial correlation coefficient, multiple correlation coefficient"
+    },
+    {
+      "label": "[section] Regression and correlation analysis",
+      "content": "a.Regression analysis, regression model, variables in regression modelb.Regression model classification, choosing the functional formc.Ordinary Least Squares (OLS)d.Fitted values, error term, residualse.Interpretation of regression model parametersf.Regression validation, quality criteria of regression modelg.Decomposition of variability (ANOVA), coefficient of determination, information criteriah.Correlation analysis, pairwise coefficient of correlation, correlation matrix, partial correlation coefficient, multiple correlation coefficient"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Tests of significance for regression coefficients (t-tests) and test of overall model significance (F-test)b.Confidence interval for regression coefficientsc.Confidence interval and prediction interval for the modeld.Significance test of correlation coefficiente.Other regression model tests: test of significance of the coefficient of determination, model specification testsf.Error term verification tests: heteroskedasticity tests, autocorrelation tests, normality tests etc."
+    },
+    {
+      "label": "[section] Testing of statistical hypotheses in regression and correlation analysis, confidence intervals",
+      "content": "a.Tests of significance for regression coefficients (t-tests) and test of overall model significance (F-test)b.Confidence interval for regression coefficientsc.Confidence interval and prediction interval for the modeld.Significance test of correlation coefficiente.Other regression model tests: test of significance of the coefficient of determination, model specification testsf.Error term verification tests: heteroskedasticity tests, autocorrelation tests, normality tests etc."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Classical linear regression modelb.Classical assumptions and methods of their verificationc.Gauss-Markov theoremd.Properties of OLS estimator under Gauss-Markov theoreme.Violations of classical assumptions, their diagnostics and consequences for the model estimationf.Remedies for violations of classical assumptions"
+    },
+    {
+      "label": "[section] Classical linear regression model and its assumptions",
+      "content": "a.Classical linear regression modelb.Classical assumptions and methods of their verificationc.Gauss-Markov theoremd.Properties of OLS estimator under Gauss-Markov theoreme.Violations of classical assumptions, their diagnostics and consequences for the model estimationf.Remedies for violations of classical assumptions"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Time series data, definition, properties, typesb.Specific problems of time series analysisc.Time series dynamics"
+    },
+    {
+      "label": "[section] Introduction to time series analysis",
+      "content": "a.Time series data, definition, properties, typesb.Specific problems of time series analysisc.Time series dynamics"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Qualitative (expert) methods of time series analysis, Delphi method, method of historical analogyb.Quantitative methods of time series analysisc.Time series decompositiond.Trend analysis, structural break and its detectione.Modeling seasonality, seasonal adjustment methodsf.Modeling cyclicalityg.Error term, white noise, model quality evaluation, criteria of model fith.Prediction, pseudo-prediction, prediction quality evaluationi.Linear filters, moving averages, exponential smoothingj.Causal regression modelsk.Stationary process, stationarity testingl.Spurious regression"
+    },
+    {
+      "label": "[section] Methods of time series analysis",
+      "content": "a.Qualitative (expert) methods of time series analysis, Delphi method, method of historical analogyb.Quantitative methods of time series analysisc.Time series decompositiond.Trend analysis, structural break and its detectione.Modeling seasonality, seasonal adjustment methodsf.Modeling cyclicalityg.Error term, white noise, model quality evaluation, criteria of model fith.Prediction, pseudo-prediction, prediction quality evaluationi.Linear filters, moving averages, exponential smoothingj.Causal regression modelsk.Stationary process, stationarity testingl.Spurious regression"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Practical examples of application of methods of regression and correlation analysis on real economic datab.Practical examples of application of methods time series analysis on real economic and financial data"
+    },
+    {
+      "label": "[section] Applied econometrics",
+      "content": "a.Practical examples of application of methods of regression and correlation analysis on real economic datab.Practical examples of application of methods time series analysis on real economic and financial data"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h20 hpractice28 h0 hpreparation for exam60 h60 hpreparation for regular testing24 h24 hcontinuous preparation for seminars (blocs of consultations in the combined form)28 h64 hTotal168 h168 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "To successfully complete the course, it is necessary to meet all of the following partial conditions: 1. Active participation in the seminars – participation in the seminars is compulsory, attendance is considered fulfilled if the student has at least 9 active participations in the educational seminars; active participation in seminar means that the student has an overview of the lectured topics and can elaborate the basic exercises demonstrated at the lectures; otherwise, attendance is considered inactive (absence). 2. Fulfillment of the conditions of the two mid-term tests – the mid-term tests are compulsory, each of which requires a minimum of 60% of possible points; in case of a failure or a properly excused absence of a regular test date, it is possible to repeat each test twice; the dates of the mid-term tests will be specified no later than the first week of the semester. 3. The course is completed by a final examination covering the theoretical and practical part – for the successful completion of the final exam is required to obtain at least 60% of possible points. A student who has not met any of the above partial conditions of the course is evaluated with the mark \"failed (F)\". Partial conditions 1 and 2 represent the continuous monitoring of study obligations. The result of continuous monitoring of study obligations is after successful completion of the final exam taken into account in completing the course. The final evaluation of the course is given by the sum of points obtained from the mid-term tests and final exam, as follows: [90 – 100] points = A [83 – 90) points = B [75 – 83) points = C [68 – 75) points = D [60 – 68) points = E [0 – 60) points = F Writing aids, an official formula sheet, a calculator and Gretl software can be used during the mid-term tests and the final exam. For identification, it is necessary to submit a student card or the other document with a photo. The same requirements hold for combined form of study except active participation in seminars. Any copying, recording or excerpt of tests and exams, the use of illicit devices as well as means of communication or other impairment of objectivity in the verification of knowledge will be considered gross violation of the study regulations. As a result, the course is closed in the UIS by the mark \"failed (F)\". Further, teacher can initiate disciplinary proceedings, which may result in termination of studies."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formMid-term test(s)40 %40 %Final test60 %60 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:ADAMEC, Václav; STŘELEC, Luboš; HAMPEL, David. 2017. Ekonometrie I: učební text. 2nd ed. Brno: Mendelova univerzita v Brně, 162 p. ISBN 978-80-7509-480-3.ADAMEC, Václav; STŘELEC, Luboš. 2020. Ekonometrie I: cvičebnice. 4th ed. Brno: Mendelova univerzita v Brně, 138 p. ISBN 978-80-7509-704-0.Recommended:ARLT, Josef; ARLTOVÁ, Markéta. 2009. Ekonomické časové řady. 1st ed. Praha: Professional Publishing, 290 p. ISBN 978-80-86946-85-6.CIPRA, Tomáš. 2013. Finanční ekonometrie. 2nd ed. Praha: Ekopress, 538 p. ISBN 978-80-86929-93-4.GUJARATI, Damodar N.; PORTER, Dawn C. Basic econometrics. 5th ed. Boston: McGraw-Hill Irwin, 922 p. ISBN 978-007-127625-2.HAMPEL, David; BLAŠKOVÁ, Veronika; STŘELEC, Luboš. 2017. Ekonometrie 2. 3rd ed. Brno: Mendelova univerzita v Brně, 153 p. ISBN 978-80-7509-427-8.HINDLS, Richard et al. 2007. Statistika pro ekonomy. 8th ed. Praha: Professional Publishing, 415 p. ISBN 978-80-86946-43-6.HUŠEK, Roman. 2009. Aplikovaná ekonometrie: teorie a praxe. 1st ed. Praha: Oeconomica, 344 p. Vysokoškolská učebnice. ISBN 978-80-245-1623-3.HUŠEK, Roman. 2007. Ekonometrická analýza. 1st ed. Praha: Oeconomica, 367 p. ISBN 978-80-245-1300-3.MAREK, Luboš et al. 2007. Statistika pro ekonomy: aplikace. 2nd ed. Praha: Professional Publishing, 485 p. ISBN 978-80-86946-40-5.STUDENMUND, A. H. 2017. Using econometrics: a practical guide. Harlow: Pearson, 572 p. ISBN 978-1-292-15409-1."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "ADAMEC, Václav; STŘELEC, Luboš; HAMPEL, David. 2017. Ekonometrie I: učební text. 2nd ed. Brno: Mendelova univerzita v Brně, 162 p. ISBN 978-80-7509-480-3.ADAMEC, Václav; STŘELEC, Luboš. 2020. Ekonometrie I: cvičebnice. 4th ed. Brno: Mendelova univerzita v Brně, 138 p. ISBN 978-80-7509-704-0."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "ARLT, Josef; ARLTOVÁ, Markéta. 2009. Ekonomické časové řady. 1st ed. Praha: Professional Publishing, 290 p. ISBN 978-80-86946-85-6.CIPRA, Tomáš. 2013. Finanční ekonometrie. 2nd ed. Praha: Ekopress, 538 p. ISBN 978-80-86929-93-4.GUJARATI, Damodar N.; PORTER, Dawn C. Basic econometrics. 5th ed. Boston: McGraw-Hill Irwin, 922 p. ISBN 978-007-127625-2.HAMPEL, David; BLAŠKOVÁ, Veronika; STŘELEC, Luboš. 2017. Ekonometrie 2. 3rd ed. Brno: Mendelova univerzita v Brně, 153 p. ISBN 978-80-7509-427-8.HINDLS, Richard et al. 2007. Statistika pro ekonomy. 8th ed. Praha: Professional Publishing, 415 p. ISBN 978-80-86946-43-6.HUŠEK, Roman. 2009. Aplikovaná ekonometrie: teorie a praxe. 1st ed. Praha: Oeconomica, 344 p. Vysokoškolská učebnice. ISBN 978-80-245-1623-3.HUŠEK, Roman. 2007. Ekonometrická analýza. 1st ed. Praha: Oeconomica, 367 p. ISBN 978-80-245-1300-3.MAREK, Luboš et al. 2007. Statistika pro ekonomy: aplikace. 2nd ed. Praha: Professional Publishing, 485 p. ISBN 978-80-86946-40-5.STUDENMUND, A. H. 2017. Using econometrics: a practical guide. Harlow: Pearson, 572 p. ISBN 978-1-292-15409-1."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-F Finances, full-time form, initial period WS 2023/2024Programme B-EAM Economics and Management, full-time form, initial period WS 2024/2025Programme B-EAM Economics and Management, part-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:39:50",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

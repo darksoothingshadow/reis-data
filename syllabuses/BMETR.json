@@ -1,0 +1,905 @@
+{
+  "courseCode": "BMETR",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "BMETR"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Biometrika"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Biometrics"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština, angličtina"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Mgr. David Hampel, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav statistiky a operačního výzkumu (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "RNDr. Jaromír Běláček, CSc. (cvičící, zkoušející)prof. Mgr. David Hampel, Ph.D. (garant, přednášející, zkoušející)doc. Mgr. Jiří Neubauer, Ph.D. (cvičící, přednášející, zkoušející)Ing. Natália Várošová (cvičící)RNDr. Lenka Viskotová, Ph.D. (cvičící, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Popisná statistika (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "bodové a intervalové rozdělení četností"
+    },
+    {
+      "label": "b.",
+      "content": "prezentace dat pomocí tabulek a grafů"
+    },
+    {
+      "label": "c.",
+      "content": "typy znaků"
+    },
+    {
+      "label": "d.",
+      "content": "charakteristiky polohy a rozptylu"
+    },
+    {
+      "label": "e.",
+      "content": "korelace"
+    },
+    {
+      "label": "2.",
+      "content": "Základy pravděpodobnosti (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "základní soubor"
+    },
+    {
+      "label": "b.",
+      "content": "pravděpodobnost"
+    },
+    {
+      "label": "c.",
+      "content": "podmíněná pravděpodobnost"
+    },
+    {
+      "label": "d.",
+      "content": "stochastická nezávislost"
+    },
+    {
+      "label": "e.",
+      "content": "náhodná veličina"
+    },
+    {
+      "label": "f.",
+      "content": "rozdělení pravděpodobnosti"
+    },
+    {
+      "label": "g.",
+      "content": "charakteristiky náhodných veličin"
+    },
+    {
+      "label": "3.",
+      "content": "Základy teorie experimentu (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "znáhodnění"
+    },
+    {
+      "label": "b.",
+      "content": "opakování"
+    },
+    {
+      "label": "c.",
+      "content": "design"
+    },
+    {
+      "label": "d.",
+      "content": "vzorkování"
+    },
+    {
+      "label": "4.",
+      "content": "Základy matematické statistiky (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "bodové a intervalové odhady"
+    },
+    {
+      "label": "b.",
+      "content": "testování statistických hypotéz"
+    },
+    {
+      "label": "5.",
+      "content": "Testy hypotéz o jednom a dvou náhodných výběrech (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "testy o parametrech normálního rozdělení"
+    },
+    {
+      "label": "b.",
+      "content": "testy o parametrech alternativního rozdělení"
+    },
+    {
+      "label": "6.",
+      "content": "Jednofaktorová a vícefaktorová ANOVA (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "test shody více středních hodnot"
+    },
+    {
+      "label": "b.",
+      "content": "párová porovnání"
+    },
+    {
+      "label": "7.",
+      "content": "Neparametrické metody (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "porušení předpokladů testů"
+    },
+    {
+      "label": "b.",
+      "content": "mediánové testy"
+    },
+    {
+      "label": "8.",
+      "content": "Regresní analýza (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "lineární model, metoda nejmenších čtverců"
+    },
+    {
+      "label": "b.",
+      "content": "kvalita modelu"
+    },
+    {
+      "label": "c.",
+      "content": "modely s faktory – ANOVA, ANCOVA"
+    },
+    {
+      "label": "d.",
+      "content": "předpoklady lineárního modelu"
+    },
+    {
+      "label": "e.",
+      "content": "dekompoziční modely časových řad"
+    },
+    {
+      "label": "9.",
+      "content": "Analýza kvalitativních dat (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "testy v kontingenční tabulce"
+    },
+    {
+      "label": "b.",
+      "content": "pořadové testy"
+    },
+    {
+      "label": "10.",
+      "content": "Vybrané pokročilé statistické přístupy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "modelování binomických dat"
+    },
+    {
+      "label": "b.",
+      "content": "shluková analýza"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "10 %"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "20 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "70 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, ZS 2008/2009, ZS 2007/2008 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Biometrika"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Biometrics"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština, angličtina"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Mgr. David Hampel, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav statistiky a operačního výzkumu (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: RNDr. Jaromír Běláček, CSc. (cvičící, zkoušející)prof. Mgr. David Hampel, Ph.D. (garant, přednášející, zkoušející)doc. Mgr. Jiří Neubauer, Ph.D. (cvičící, přednášející, zkoušející)Ing. Natália Várošová (cvičící)RNDr. Lenka Viskotová, Ph.D. (cvičící, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkVyučujícíAkceČetnostKapacitaPoznámkaPondělí9.00-10.50Q01D. HampelPřednáškaKaždý týden361 Úterý9.00-10.50Q34J. BěláčekCvičeníKaždý týden24 Úterý11.00-12.50Q34L. Viskotová, J. BěláčekCvičeníKaždý týden24 Středa15.00-16.50Q23N-GAE1J. NeubauerPřednáškaKaždý týden48Výuka spojena s EBA-STStředa17.00-18.50Q37N-GAE1J. NeubauerCvičeníKaždý týden24Výuka spojena s EBA-ST.Čtvrtek9.00-10.50Q34L. ViskotováCvičeníKaždý týden24 Čtvrtek11.00-12.50Q36J. BěláčekCvičeníKaždý týden24 Čtvrtek13.00-14.50Q34J. BěláčekCvičeníKaždý týden24 Čtvrtek15.00-16.50Q34L. ViskotováCvičeníKaždý týden24"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Student dosáhne základních teoretických znalostí z oblasti pravděpodobnosti a statistiky a dovedností aplikovat teoretické znalosti při analýzách reálných dat v odpovídajícím software; student tak bude připraven empiricky řešit problémy z oblasti zemědělského výzkumu, agroekologie, potravinářství a souvisejících oborů. Student bude schopen aplikovat získané poznatky v navazujících předmětech a při zpracování závěrečné práce."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Popisná statistika (dotace 4/4) a.bodové a intervalové rozdělení četnostíb.prezentace dat pomocí tabulek a grafůc.typy znakůd.charakteristiky polohy a rozptylue.korelace2.Základy pravděpodobnosti (dotace 2/3) a.základní souborb.pravděpodobnostc.podmíněná pravděpodobnostd.stochastická nezávisloste.náhodná veličinaf.rozdělení pravděpodobnostig.charakteristiky náhodných veličin3.Základy teorie experimentu (dotace 2/1) a.znáhodněníb.opakováníc.designd.vzorkování4.Základy matematické statistiky (dotace 2/2) a.bodové a intervalové odhadyb.testování statistických hypotéz5.Testy hypotéz o jednom a dvou náhodných výběrech (dotace 2/2) a.testy o parametrech normálního rozděleníb.testy o parametrech alternativního rozdělení6.Jednofaktorová a vícefaktorová ANOVA (dotace 2/2) a.test shody více středních hodnotb.párová porovnání7.Neparametrické metody (dotace 2/2) a.porušení předpokladů testůb.mediánové testy8.Regresní analýza (dotace 4/4) a.lineární model, metoda nejmenších čtvercůb.kvalita modeluc.modely s faktory – ANOVA, ANCOVAd.předpoklady lineárního modelue.dekompoziční modely časových řad9.Analýza kvalitativních dat (dotace 2/2) a.testy v kontingenční tabulceb.pořadové testy10.Vybrané pokročilé statistické přístupy (dotace 2/2) a.modelování binomických datb.shluková analýza"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.bodové a intervalové rozdělení četnostíb.prezentace dat pomocí tabulek a grafůc.typy znakůd.charakteristiky polohy a rozptylue.korelace"
+    },
+    {
+      "label": "[section] Popisná statistika",
+      "content": "a.bodové a intervalové rozdělení četnostíb.prezentace dat pomocí tabulek a grafůc.typy znakůd.charakteristiky polohy a rozptylue.korelace"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.základní souborb.pravděpodobnostc.podmíněná pravděpodobnostd.stochastická nezávisloste.náhodná veličinaf.rozdělení pravděpodobnostig.charakteristiky náhodných veličin"
+    },
+    {
+      "label": "[section] Základy pravděpodobnosti",
+      "content": "a.základní souborb.pravděpodobnostc.podmíněná pravděpodobnostd.stochastická nezávisloste.náhodná veličinaf.rozdělení pravděpodobnostig.charakteristiky náhodných veličin"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.znáhodněníb.opakováníc.designd.vzorkování"
+    },
+    {
+      "label": "[section] Základy teorie experimentu",
+      "content": "a.znáhodněníb.opakováníc.designd.vzorkování"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.bodové a intervalové odhadyb.testování statistických hypotéz"
+    },
+    {
+      "label": "[section] Základy matematické statistiky",
+      "content": "a.bodové a intervalové odhadyb.testování statistických hypotéz"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.testy o parametrech normálního rozděleníb.testy o parametrech alternativního rozdělení"
+    },
+    {
+      "label": "[section] Testy hypotéz o jednom a dvou náhodných výběrech",
+      "content": "a.testy o parametrech normálního rozděleníb.testy o parametrech alternativního rozdělení"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.test shody více středních hodnotb.párová porovnání"
+    },
+    {
+      "label": "[section] Jednofaktorová a vícefaktorová ANOVA",
+      "content": "a.test shody více středních hodnotb.párová porovnání"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.porušení předpokladů testůb.mediánové testy"
+    },
+    {
+      "label": "[section] Neparametrické metody",
+      "content": "a.porušení předpokladů testůb.mediánové testy"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.lineární model, metoda nejmenších čtvercůb.kvalita modeluc.modely s faktory – ANOVA, ANCOVAd.předpoklady lineárního modelue.dekompoziční modely časových řad"
+    },
+    {
+      "label": "[section] Regresní analýza",
+      "content": "a.lineární model, metoda nejmenších čtvercůb.kvalita modeluc.modely s faktory – ANOVA, ANCOVAd.předpoklady lineárního modelue.dekompoziční modely časových řad"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.testy v kontingenční tabulceb.pořadové testy"
+    },
+    {
+      "label": "[section] Analýza kvalitativních dat",
+      "content": "a.testy v kontingenční tabulceb.pořadové testy"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.modelování binomických datb.shluková analýza"
+    },
+    {
+      "label": "[section] Vybrané pokročilé statistické přístupy",
+      "content": "a.modelování binomických datb.shluková analýza"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku70 hpříprava na průběžný test14 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "1) Aktivní účast na cvičení (minimálně 9 aktivních účastí). Student přijde na cvičení připraven, aktivně plní zadané úkoly; v případě, že to tak není, cvičící aktivní účast za dané cvičení neudělí. Pokud student nesplní aktivní účast, není oprávněn se přihlásit ke zkoušce a jeho výsledné hodnocení je „nedostavil se“. 2) Průběžné testy (celkem max. 20 bodů, minimální požadovaný bodový zisk 10 bodů). Testy se budou konat v průběhu výukové části semestru v rámci cvičení. Testy budou obsahovat základní znalosti z proběhlých přednášek nutné pro pochopení postupů probíraných na cvičeních. Testy budou realizovány v UIS, nelze je opakovat. Náhradní termín bude vypsán pouze pro studenty řádně omluvené v UIS. Pokud student nedosáhne minimálního bodového zisku z průběžných testů, není oprávněn se přihlásit ke zkoušce a jeho výsledné hodnocení je „F“. 3) Splnění aktivní účasti a minimálního požadovaného bodového zisku z průběžných testů bude v UIS vyznačeno symbolem „z“ (tzv. „malý zápočet“). 4) Zkoušková písemná práce (max. 80 bodů, minimální požadovaný bodový zisk 40 bodů). Písemná práce se píše ve zkouškovém období. K písemné práci si studenti přinesou pouze psací pomůcky a kartu studenta. Během písemné práce nelze používat vlastní papíry. Pokud student nedosáhne minimálního požadovaného bodového zisku, je hodnocen „F“. Hodnocení předmětu závisí na součtu bodů z průběžných testů a zkouškové písemné práce, je dáno následovně: 90 bodů a více - A [83; 90) bodů - B [75; 83) bodů - C [68; 75) bodů - D [60; 68) bodů - E [0; 60) bodů - F Studenti jsou povinni disponovat základní literaturou, webkamerou, mikrofonem a dalším hardwarem a internetovým připojením dostatečným pro videokonference. Tato výbava nebude kontrolována, nicméně její nedostatečnost nebude omluvou při případném přechodu na online výuku a zkoušení. Jakékoli opisování, zaznamenávání, vynášení nebo šíření zadání testů a písemných prací, používání nedovolených pomůcek jakož i komunikačních prostředků nebo jiné narušování objektivity při ověřování znalostí bude považováno za hrubé porušení studijních předpisů. Následkem toho uzavře vyučující předmět v UIS hodnocením F; F; F a zahájí disciplinární řízení, jehož výsledkem může být až ukončení studia."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích10 %Absolvování průběžného testu (testů)20 %Absolvování závěrečného testu70 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:BUDÍKOVÁ, Marie; KRÁLOVÁ, Maria; MAROŠ, Bohumil. 2010. Průvodce základními statistickými metodami. 1. vyd. Praha: Grada, 272 s. Expert. ISBN 978-80-247-3243-5.Doporučená:ANDĚL, Jiří. 2019. Statistické metody. 5. vyd. Praha: MatfyzPress, 300 s. ISBN 978-80-7378-381-5.LAWAL, Bayo. 2014. Applied statistical methods in agriculture, health and life sciences. Cham: Springer, 799 s. ISBN 978-3-319-05554-1.ZVÁRA, Karel. 2003. Biostatistika. 2. vyd. Praha: Karolinum, 213 s. Učební texty Univerzity Karlovy v Praze. ISBN 80-246-0739-5."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "BUDÍKOVÁ, Marie; KRÁLOVÁ, Maria; MAROŠ, Bohumil. 2010. Průvodce základními statistickými metodami. 1. vyd. Praha: Grada, 272 s. Expert. ISBN 978-80-247-3243-5."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "ANDĚL, Jiří. 2019. Statistické metody. 5. vyd. Praha: MatfyzPress, 300 s. ISBN 978-80-7378-381-5.LAWAL, Bayo. 2014. Applied statistical methods in agriculture, health and life sciences. Cham: Springer, 799 s. ISBN 978-3-319-05554-1.ZVÁRA, Karel. 2003. Biostatistika. 2. vyd. Praha: Karolinum, 213 s. Učební texty Univerzity Karlovy v Praze. ISBN 80-246-0739-5."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-AEG Agroekologie, prezenční forma, počáteční období ZS 2024/2025Program N-FYT Fytotechnika, prezenční forma, počáteční období ZS 2024/2025Program N-RLE Rostlinolékařství, prezenční forma, počáteční období ZS 2024/2025Program N-ZIN Zemědělské inženýrství, prezenční forma, počáteční období ZS 2024/2025Program N-GAE General Agriculture, prezenční forma, počáteční období ZS 2024/2025Program N-PVC Potravinářství a výživa člověka, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "BMETR"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Biometrika"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Biometrics"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course cannot be studied during the study placement abroad."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech, English"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Mgr. David Hampel, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Statistics and Operation Analysis (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "RNDr. Jaromír Běláček, CSc. (examiner, instructor)prof. Mgr. David Hampel, Ph.D. (examiner, lecturer, supervisor)doc. Mgr. Jiří Neubauer, Ph.D. (examiner, instructor, lecturer)Ing. Natália Várošová (instructor)RNDr. Lenka Viskotová, Ph.D. (examiner, instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Descriptive statistics (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "point and interval distribution of frequencies"
+    },
+    {
+      "label": "b.",
+      "content": "presentation of data using tables and graphs"
+    },
+    {
+      "label": "c.",
+      "content": "types of characters"
+    },
+    {
+      "label": "d.",
+      "content": "location and variance characteristics"
+    },
+    {
+      "label": "e.",
+      "content": "correlations"
+    },
+    {
+      "label": "2.",
+      "content": "Elements of probability (allowance 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "population"
+    },
+    {
+      "label": "b.",
+      "content": "probability"
+    },
+    {
+      "label": "c.",
+      "content": "conditional probability"
+    },
+    {
+      "label": "d.",
+      "content": "stochastic independence"
+    },
+    {
+      "label": "e.",
+      "content": "random variable"
+    },
+    {
+      "label": "f.",
+      "content": "probability distribution"
+    },
+    {
+      "label": "g.",
+      "content": "characteristics of random variables"
+    },
+    {
+      "label": "3.",
+      "content": "Fundamentals of experimental theory (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "randomisation"
+    },
+    {
+      "label": "b.",
+      "content": "replication"
+    },
+    {
+      "label": "c.",
+      "content": "design of experiment"
+    },
+    {
+      "label": "d.",
+      "content": "sampling problem"
+    },
+    {
+      "label": "4.",
+      "content": "Basics of mathematical statistics (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "point and interval estimates"
+    },
+    {
+      "label": "b.",
+      "content": "statistical hypothesis testing"
+    },
+    {
+      "label": "5.",
+      "content": "Hypothesis tests on one and two random samples (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "tests on parameters of normal distribution"
+    },
+    {
+      "label": "b.",
+      "content": "tests on parameters of nBernoulli distribution"
+    },
+    {
+      "label": "6.",
+      "content": "One-way and multifactorial ANOVA (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "multiple means equality test"
+    },
+    {
+      "label": "b.",
+      "content": "pairwise comparisons"
+    },
+    {
+      "label": "7.",
+      "content": "Nonparametric methods (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "violation of parametric tests assumptions"
+    },
+    {
+      "label": "b.",
+      "content": "median tests"
+    },
+    {
+      "label": "8.",
+      "content": "Regression analysis (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "linear model, least squares method"
+    },
+    {
+      "label": "b.",
+      "content": "model quality"
+    },
+    {
+      "label": "c.",
+      "content": "models with factors - ANOVA, ANCOVA"
+    },
+    {
+      "label": "d.",
+      "content": "linear model assumptions"
+    },
+    {
+      "label": "e.",
+      "content": "time series decomposition models"
+    },
+    {
+      "label": "9.",
+      "content": "Qualitative data analysis (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "tests based on contingency table"
+    },
+    {
+      "label": "b.",
+      "content": "ordinal tests"
+    },
+    {
+      "label": "10.",
+      "content": "Selected advanced statistical approaches (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "binomial data modelling"
+    },
+    {
+      "label": "b.",
+      "content": "cluster analysis"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "10 %"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "20 %"
+    },
+    {
+      "label": "Final test",
+      "content": "70 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, WS 2008/2009, WS 2007/2008 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Biometrika"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Biometrics"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course cannot be studied during the study placement abroad."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech, English"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Mgr. David Hampel, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Statistics and Operation Analysis (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: RNDr. Jaromír Běláček, CSc. (examiner, instructor)prof. Mgr. David Hampel, Ph.D. (examiner, lecturer, supervisor)doc. Mgr. Jiří Neubauer, Ph.D. (examiner, instructor, lecturer)Ing. Natália Várošová (instructor)RNDr. Lenka Viskotová, Ph.D. (examiner, instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyTeacherEntryFrequencyCapacityNoteMonday9.00-10.50Q01D. HampelLectureEvery week361 Tuesday9.00-10.50Q34J. BěláčekSeminarEvery week24 Tuesday11.00-12.50Q34L. Viskotová, J. BěláčekSeminarEvery week24 Wednesday15.00-16.50Q23N-GAE1J. NeubauerLectureEvery week48Výuka spojena s EBA-STWednesday17.00-18.50Q37N-GAE1J. NeubauerSeminarEvery week24Výuka spojena s EBA-ST.Thursday9.00-10.50Q34L. ViskotováSeminarEvery week24 Thursday11.00-12.50Q36J. BěláčekSeminarEvery week24 Thursday13.00-14.50Q34J. BěláčekSeminarEvery week24 Thursday15.00-16.50Q34L. ViskotováSeminarEvery week24"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The student will achieve basic theoretical knowledge in probability and statistics and the skills to apply theoretical knowledge in analyses of real data in appropriate software; the student will be prepared to empirically solve problems in agricultural research, agroecology, food science and related fields. The student will be able to apply the acquired knowledge in follow-up courses and in the preparation of the final thesis."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Descriptive statistics (allowance 4/4) a.point and interval distribution of frequenciesb.presentation of data using tables and graphsc.types of charactersd.location and variance characteristicse.correlations2.Elements of probability (allowance 2/3) a.populationb.probabilityc.conditional probabilityd.stochastic independencee.random variablef.probability distributiong.characteristics of random variables3.Fundamentals of experimental theory (allowance 2/1) a.randomisationb.replicationc.design of experimentd.sampling problem4.Basics of mathematical statistics (allowance 2/2) a.point and interval estimatesb.statistical hypothesis testing5.Hypothesis tests on one and two random samples (allowance 2/2) a.tests on parameters of normal distributionb.tests on parameters of nBernoulli distribution6.One-way and multifactorial ANOVA (allowance 2/2) a.multiple means equality testb.pairwise comparisons7.Nonparametric methods (allowance 2/2) a.violation of parametric tests assumptionsb.median tests8.Regression analysis (allowance 4/4) a.linear model, least squares methodb.model qualityc.models with factors - ANOVA, ANCOVAd.linear model assumptionse.time series decomposition models9.Qualitative data analysis (allowance 2/2) a.tests based on contingency tableb.ordinal tests10.Selected advanced statistical approaches (allowance 2/2) a.binomial data modellingb.cluster analysis"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.point and interval distribution of frequenciesb.presentation of data using tables and graphsc.types of charactersd.location and variance characteristicse.correlations"
+    },
+    {
+      "label": "[section] Descriptive statistics",
+      "content": "a.point and interval distribution of frequenciesb.presentation of data using tables and graphsc.types of charactersd.location and variance characteristicse.correlations"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.populationb.probabilityc.conditional probabilityd.stochastic independencee.random variablef.probability distributiong.characteristics of random variables"
+    },
+    {
+      "label": "[section] Elements of probability",
+      "content": "a.populationb.probabilityc.conditional probabilityd.stochastic independencee.random variablef.probability distributiong.characteristics of random variables"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.randomisationb.replicationc.design of experimentd.sampling problem"
+    },
+    {
+      "label": "[section] Fundamentals of experimental theory",
+      "content": "a.randomisationb.replicationc.design of experimentd.sampling problem"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.point and interval estimatesb.statistical hypothesis testing"
+    },
+    {
+      "label": "[section] Basics of mathematical statistics",
+      "content": "a.point and interval estimatesb.statistical hypothesis testing"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.tests on parameters of normal distributionb.tests on parameters of nBernoulli distribution"
+    },
+    {
+      "label": "[section] Hypothesis tests on one and two random samples",
+      "content": "a.tests on parameters of normal distributionb.tests on parameters of nBernoulli distribution"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.multiple means equality testb.pairwise comparisons"
+    },
+    {
+      "label": "[section] One-way and multifactorial ANOVA",
+      "content": "a.multiple means equality testb.pairwise comparisons"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.violation of parametric tests assumptionsb.median tests"
+    },
+    {
+      "label": "[section] Nonparametric methods",
+      "content": "a.violation of parametric tests assumptionsb.median tests"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.linear model, least squares methodb.model qualityc.models with factors - ANOVA, ANCOVAd.linear model assumptionse.time series decomposition models"
+    },
+    {
+      "label": "[section] Regression analysis",
+      "content": "a.linear model, least squares methodb.model qualityc.models with factors - ANOVA, ANCOVAd.linear model assumptionse.time series decomposition models"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.tests based on contingency tableb.ordinal tests"
+    },
+    {
+      "label": "[section] Qualitative data analysis",
+      "content": "a.tests based on contingency tableb.ordinal tests"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.binomial data modellingb.cluster analysis"
+    },
+    {
+      "label": "[section] Selected advanced statistical approaches",
+      "content": "a.binomial data modellingb.cluster analysis"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam70 hpreparation for regular testing14 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "1) Active participation in the seminar (minimum 9 active participations). The student comes to the seminar prepared, actively completing the assigned tasks; if this is not the case, the teacher will not award the student active participation for the seminar. If the student fails to meet the active participation, he/she is not eligible to take the examination and his/her final score is \"not present\". 2) Midterm tests (max. 20 points in total, minimum required score 10 points). The tests will be held during the teaching part of the semester as part of the seminars. The tests will cover the basic knowledge from the lectures given in the course necessary to understand the procedures discussed in the seminars. The tests will be implemented in UIS and cannot be retaken. An alternative date will be announced only for students duly excused at UIS. If a student does not achieve the minimum score on the midterm tests, he/she is not eligible to take the exam and his/her final grade will be an \"F\". 3) Meeting active participation and the minimum required score on the midterm tests will be indicated by a \"z\" symbol in UIS (\"minor credit\"). 4) Written exam (max. 80 points, minimum required score 40 points). The written exam is to be written during the exam period. For the written exam, students bring only writing accessories and a student card. In particular, the student is not allowed to use their own papers. If the student does not achieve the minimum required score, the student is graded \"F\". The assessment of the course depends on the sum of the scores from the midterm tests and the written exam. It is given as follows: 90 points or more - A [83; 90) points - B [75; 83) points - C [68; 75) points - D [60; 68) points - E [0; 60) points - F Students are required to obtain the compulsory literature, a webcam, microphone, hardware and web connection suitable for video conferencing. Absence or inadequacy of these will not be an excuse during a possible transition to online teaching and testing. Any copying, recording, excerpt or dissemination of tests and written works, the use of illicit devices as well as means of communication or other impairment of objectivity in the verification of knowledge will be considered gross violation of the study regulations. As a result, the course is closed in the UIS by F; F; F. Further, teacher can initiate disciplinary proceedings, which may result in termination of studies."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation10 %Mid-term test(s)20 %Final test70 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:BUDÍKOVÁ, Marie; KRÁLOVÁ, Maria; MAROŠ, Bohumil. 2010. Průvodce základními statistickými metodami. 1st ed. Praha: Grada, 272 p. Expert. ISBN 978-80-247-3243-5.Recommended:ANDĚL, Jiří. 2019. Statistické metody. 5th ed. Praha: MatfyzPress, 300 p. ISBN 978-80-7378-381-5.LAWAL, Bayo. 2014. Applied statistical methods in agriculture, health and life sciences. Cham: Springer, 799 p. ISBN 978-3-319-05554-1.ZVÁRA, Karel. 2003. Biostatistika. 2nd ed. Praha: Karolinum, 213 p. Učební texty Univerzity Karlovy v Praze. ISBN 80-246-0739-5."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "BUDÍKOVÁ, Marie; KRÁLOVÁ, Maria; MAROŠ, Bohumil. 2010. Průvodce základními statistickými metodami. 1st ed. Praha: Grada, 272 p. Expert. ISBN 978-80-247-3243-5."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "ANDĚL, Jiří. 2019. Statistické metody. 5th ed. Praha: MatfyzPress, 300 p. ISBN 978-80-7378-381-5.LAWAL, Bayo. 2014. Applied statistical methods in agriculture, health and life sciences. Cham: Springer, 799 p. ISBN 978-3-319-05554-1.ZVÁRA, Karel. 2003. Biostatistika. 2nd ed. Praha: Karolinum, 213 p. Učební texty Univerzity Karlovy v Praze. ISBN 80-246-0739-5."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-AEG Agroecology, full-time form, initial period WS 2024/2025Programme C-FYT Plant Production, full-time form, initial period WS 2024/2025Programme C-RLE Plant Protection, full-time form, initial period WS 2024/2025Programme C-ZIN Agricultural Engineering, full-time form, initial period WS 2024/2025Programme C-GAE General Agriculture, full-time form, initial period WS 2024/2025Programme C-PVC Food and Beverage Human Nutrition, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:19:29",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

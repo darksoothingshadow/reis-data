@@ -1,0 +1,705 @@
+{
+  "courseCode": "TEKYB",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "TEKYB"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Technická kybernetika"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Technical cybernetics"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Tento předmět je možné studovat během studijního pobytu v zahraničí. Student získá zápočet, pokud po dohodě se cvičícím vypracuje projekt z oblasti předmětu a ve stanoveném termínu a kvalitě jej doručí. Požadavky na zkoušku jsou shodné."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng. (garant, přednášející, tutor, zkoušející)Ing. Robert Rouš (cvičící, přednášející, zkoušející)Ing. Vlastimil Slaný, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Předmět a metody Kybernetiky. (dotace 2/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Principy sběru, přenosu a zpracování dat. (dotace 2/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Logické systémy, základní logické funkce. (dotace 2/2)"
+    },
+    {
+      "label": "4.",
+      "content": "Sestavení logické funkce pomocí Karnaughovy mapy, realizace kombinačních logických obvodů. (dotace 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Programovatelné logické automaty a jejich použití. (dotace 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Dynamické systémy, používané matematické modely. (dotace 2/2)"
+    },
+    {
+      "label": "7.",
+      "content": "Klasifikace dynamických systémů, statické vlastnosti dynamických systémů. (dotace 2/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Identifikace a modelování systémů, využití nástrojů MATLAB/Simulink. (dotace 2/2)"
+    },
+    {
+      "label": "9.",
+      "content": "Základy automatické regulace, analogové a číslicové regulátory. (dotace 2/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Stabilita spojitých lineárních systémů, kvalita regulace. (dotace 2/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Syntéza regulačního obvodu, volba typu regulátoru, nastavení parametrů regulátoru, simulace v prostředí MATLAB/Simulink. (dotace 2/2)"
+    },
+    {
+      "label": "12.",
+      "content": "Nelineární systémy řízení, dvou- a tří-polohová regulace. (dotace 2/2)"
+    },
+    {
+      "label": "13.",
+      "content": "Pneumatické a hydraulické systémy, zesilovače a regulátory. (dotace 2/2)"
+    },
+    {
+      "label": "14.",
+      "content": "Průmyslové roboty a jejich aplikace v zemědělství. (dotace 2/2)"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "60 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "40 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Technická kybernetika"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Technical cybernetics"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Tento předmět je možné studovat během studijního pobytu v zahraničí. Student získá zápočet, pokud po dohodě se cvičícím vypracuje projekt z oblasti předmětu a ve stanoveném termínu a kvalitě jej doručí. Požadavky na zkoušku jsou shodné."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: prof. Ing. Radim Farana, CSc., FEng. (garant, přednášející, tutor, zkoušející)Ing. Robert Rouš (cvičící, přednášející, zkoušející)Ing. Vlastimil Slaný, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí9.00-10.50Q01.53R. Rouš, V. SlanýCvičeníKaždý týden13Středa13.00-14.50Q11R. Farana, R. Rouš, V. SlanýPřednáškaKaždý týden19"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Seznámit studenty se základními kybernetickými principy v technických dynamických systémech. Na praktických příkladech ověřit metody modelování a simulace. Porovnat přístupy matematického a fyzikálního modelování."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Předmět a metody Kybernetiky. (dotace 2/2)2.Principy sběru, přenosu a zpracování dat. (dotace 2/2)3.Logické systémy, základní logické funkce. (dotace 2/2)4.Sestavení logické funkce pomocí Karnaughovy mapy, realizace kombinačních logických obvodů. (dotace 2/2)5.Programovatelné logické automaty a jejich použití. (dotace 2/2)6.Dynamické systémy, používané matematické modely. (dotace 2/2)7.Klasifikace dynamických systémů, statické vlastnosti dynamických systémů. (dotace 2/2)8.Identifikace a modelování systémů, využití nástrojů MATLAB/Simulink. (dotace 2/2)9.Základy automatické regulace, analogové a číslicové regulátory. (dotace 2/2)10.Stabilita spojitých lineárních systémů, kvalita regulace. (dotace 2/2)11.Syntéza regulačního obvodu, volba typu regulátoru, nastavení parametrů regulátoru, simulace v prostředí MATLAB/Simulink. (dotace 2/2)12.Nelineární systémy řízení, dvou- a tří-polohová regulace. (dotace 2/2)13.Pneumatické a hydraulické systémy, zesilovače a regulátory. (dotace 2/2)14.Průmyslové roboty a jejich aplikace v zemědělství. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Principy sběru, přenosu a zpracování dat. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Předmět a metody Kybernetiky.",
+      "content": "2.Principy sběru, přenosu a zpracování dat. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Logické systémy, základní logické funkce. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Principy sběru, přenosu a zpracování dat.",
+      "content": "3.Logické systémy, základní logické funkce. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Sestavení logické funkce pomocí Karnaughovy mapy, realizace kombinačních logických obvodů. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Logické systémy, základní logické funkce.",
+      "content": "4.Sestavení logické funkce pomocí Karnaughovy mapy, realizace kombinačních logických obvodů. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Programovatelné logické automaty a jejich použití. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Sestavení logické funkce pomocí Karnaughovy mapy, realizace kombinačních logických obvodů.",
+      "content": "5.Programovatelné logické automaty a jejich použití. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Dynamické systémy, používané matematické modely. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Programovatelné logické automaty a jejich použití.",
+      "content": "6.Dynamické systémy, používané matematické modely. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Klasifikace dynamických systémů, statické vlastnosti dynamických systémů. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Dynamické systémy, používané matematické modely.",
+      "content": "7.Klasifikace dynamických systémů, statické vlastnosti dynamických systémů. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Identifikace a modelování systémů, využití nástrojů MATLAB/Simulink. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Klasifikace dynamických systémů, statické vlastnosti dynamických systémů.",
+      "content": "8.Identifikace a modelování systémů, využití nástrojů MATLAB/Simulink. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Základy automatické regulace, analogové a číslicové regulátory. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Identifikace a modelování systémů, využití nástrojů MATLAB/Simulink.",
+      "content": "9.Základy automatické regulace, analogové a číslicové regulátory. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Stabilita spojitých lineárních systémů, kvalita regulace. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Základy automatické regulace, analogové a číslicové regulátory.",
+      "content": "10.Stabilita spojitých lineárních systémů, kvalita regulace. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Syntéza regulačního obvodu, volba typu regulátoru, nastavení parametrů regulátoru, simulace v prostředí MATLAB/Simulink. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Stabilita spojitých lineárních systémů, kvalita regulace.",
+      "content": "11.Syntéza regulačního obvodu, volba typu regulátoru, nastavení parametrů regulátoru, simulace v prostředí MATLAB/Simulink. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Nelineární systémy řízení, dvou- a tří-polohová regulace. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Pneumatické a hydraulické systémy, zesilovače a regulátory. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Nelineární systémy řízení, dvou- a tří-polohová regulace.",
+      "content": "13.Pneumatické a hydraulické systémy, zesilovače a regulátory. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "14.Průmyslové roboty a jejich aplikace v zemědělství. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Pneumatické a hydraulické systémy, zesilovače a regulátory.",
+      "content": "14.Průmyslové roboty a jejich aplikace v zemědělství. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení10 hseminář8 hlaboratorní práce10 hpříprava na zkoušku28 hpříprava na průběžné hodnocení8 hzpracování protokolů20 hCelkem112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Ukončení předmětu je formou zápočtu a zkoušky z tématických okruhů, které byly probírány v průběhu semestru. Pro udělení zápočtu je nutná minimálně 75% účast na cvičeních. Předmět je ukončen zkouškou, která má dvě části. Písemná část spočívá v řešení typických příkladů z obsahu předmětu. Následuje ústní rozprava se zkoušejícím o konkrétním tématický okruhu, který byl v průběhu semestru probírán. Výsledná známka ze zkoušky se skládá ze známek z písemné a ústní části v poměru 60:40."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAbsolvování závěrečného testu60 %Absolvování závěrečné ústní zkoušky40 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:TŮMA, Jiří; WAGNEROVÁ, Renata; FARANA, Radim; LANDRYOVÁ, Lenka. 2007. Základy automatizace. Ostrava: VŠB - Technická univerzita Ostrava, Dostupný z www: URL:http://www.elearn.vsb.cz/archivcd/FS/Zaut/, 288 s. ISBN 978-80-248-1523-7.FARANA, Radim; LANDRYOVÁ, Lenka; LOKOSOVÁ, Jolana; SMUTNÝ, Lubomír; VÍTEČEK, Antonín; VÍTEČKOVÁ, Miluše; WAGNEROVÁ, Renata. 2002. Programová podpora simulace dynamických systémů: sbírka řešených příkladů. 1. vyd. Ostrava: Vysoká škola báňská - Technická univerzita Ostrava, 114 s. ISBN 80-02-01129-5.Doporučená:ŠVARC, Ivan; MATOUŠEK, Radomil; ŠEDA, Miloš; VÍTEČKOVÁ, Miluše. Automatické řízení. 348 s. ISBN 978-80-214-4398-3.FARANA, R. Přednášky z předmětu Technická kybernetika [on-line]. PEF MENDELU [cit. 2018-11-06]. Dostupné z https://akela.mendelu.cz/~qqfarana/.NOSKIEVIČ, P. Modelování a identifikace systémů. 1. vyd. Ostrava: Montanex, 1999. ISBN 80-7225-030-2."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "TŮMA, Jiří; WAGNEROVÁ, Renata; FARANA, Radim; LANDRYOVÁ, Lenka. 2007. Základy automatizace. Ostrava: VŠB - Technická univerzita Ostrava, Dostupný z www: URL:http://www.elearn.vsb.cz/archivcd/FS/Zaut/, 288 s. ISBN 978-80-248-1523-7.FARANA, Radim; LANDRYOVÁ, Lenka; LOKOSOVÁ, Jolana; SMUTNÝ, Lubomír; VÍTEČEK, Antonín; VÍTEČKOVÁ, Miluše; WAGNEROVÁ, Renata. 2002. Programová podpora simulace dynamických systémů: sbírka řešených příkladů. 1. vyd. Ostrava: Vysoká škola báňská - Technická univerzita Ostrava, 114 s. ISBN 80-02-01129-5."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "ŠVARC, Ivan; MATOUŠEK, Radomil; ŠEDA, Miloš; VÍTEČKOVÁ, Miluše. Automatické řízení. 348 s. ISBN 978-80-214-4398-3.FARANA, R. Přednášky z předmětu Technická kybernetika [on-line]. PEF MENDELU [cit. 2018-11-06]. Dostupné z https://akela.mendelu.cz/~qqfarana/.NOSKIEVIČ, P. Modelování a identifikace systémů. 1. vyd. Ostrava: Montanex, 1999. ISBN 80-7225-030-2."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "TEKYB"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Technická kybernetika"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Technical cybernetics"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "This subject can be studied during the foreign study stay. The student will get a credit if, in agreement with the trainer, he/she develops a project from the subject area and delivers it in the specified term and quality. The exam requirements are the same."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng. (examiner, lecturer, supervisor, tutor)Ing. Robert Rouš (examiner, instructor, lecturer)Ing. Vlastimil Slaný, Ph.D. (examiner, instructor, lecturer, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Subjects and methods Cybernetics (allowance 2/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Principles of data collection, presentation and saving. (allowance 2/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Logic systems, basic logic functions. (allowance 2/2)"
+    },
+    {
+      "label": "4.",
+      "content": "Compilation of logic function using Karnaugh map, realization of combinational logic circuits. (allowance 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Programmable logic controllers and their use. (allowance 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Dynamic systems, basic mathematical models. (allowance 2/2)"
+    },
+    {
+      "label": "7.",
+      "content": "Classification of dynamic systems, static properties of dynamic systems. (allowance 2/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Identification and modeling of systems, use of MATLAB / Simulink tools. (allowance 2/2)"
+    },
+    {
+      "label": "9.",
+      "content": "Automatic control fundamentals, analog and digital controllers. (allowance 2/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Stability of continuous linear systems, control performance. (allowance 2/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Closed-loop control system synthesis, controller type selection, controller tuning, simulation in MATLAB / Simulink environment. (allowance 2/2)"
+    },
+    {
+      "label": "12.",
+      "content": "Nonlinear control systems, two- and three-position control. (allowance 2/2)"
+    },
+    {
+      "label": "13.",
+      "content": "Pneumatic and hydraulic systems, amplifiers and regulators. (allowance 2/2)"
+    },
+    {
+      "label": "14.",
+      "content": "Industrial robots and their applications in agriculture. (allowance 2/2)"
+    },
+    {
+      "label": "Final test",
+      "content": "60 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "40 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Technická kybernetika"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Technical cybernetics"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: This subject can be studied during the foreign study stay. The student will get a credit if, in agreement with the trainer, he/she develops a project from the subject area and delivers it in the specified term and quality. The exam requirements are the same."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. Ing. Radim Farana, CSc., FEng. (examiner, lecturer, supervisor, tutor)Ing. Robert Rouš (examiner, instructor, lecturer)Ing. Vlastimil Slaný, Ph.D. (examiner, instructor, lecturer, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday9.00-10.50Q01.53R. Rouš, V. SlanýSeminarEvery week13Wednesday13.00-14.50Q11R. Farana, R. Rouš, V. SlanýLectureEvery week19"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim is to introduce students with the basic principles in technical cyber dynamic systems. Based on practical examples to verify the modeling and simulation. Compare approaches to mathematical and physical modeling."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Subjects and methods Cybernetics (allowance 2/2)2.Principles of data collection, presentation and saving. (allowance 2/2)3.Logic systems, basic logic functions. (allowance 2/2)4.Compilation of logic function using Karnaugh map, realization of combinational logic circuits. (allowance 2/2)5.Programmable logic controllers and their use. (allowance 2/2)6.Dynamic systems, basic mathematical models. (allowance 2/2)7.Classification of dynamic systems, static properties of dynamic systems. (allowance 2/2)8.Identification and modeling of systems, use of MATLAB / Simulink tools. (allowance 2/2)9.Automatic control fundamentals, analog and digital controllers. (allowance 2/2)10.Stability of continuous linear systems, control performance. (allowance 2/2)11.Closed-loop control system synthesis, controller type selection, controller tuning, simulation in MATLAB / Simulink environment. (allowance 2/2)12.Nonlinear control systems, two- and three-position control. (allowance 2/2)13.Pneumatic and hydraulic systems, amplifiers and regulators. (allowance 2/2)14.Industrial robots and their applications in agriculture. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Principles of data collection, presentation and saving. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Subjects and methods Cybernetics",
+      "content": "2.Principles of data collection, presentation and saving. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Logic systems, basic logic functions. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Principles of data collection, presentation and saving.",
+      "content": "3.Logic systems, basic logic functions. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Compilation of logic function using Karnaugh map, realization of combinational logic circuits. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Logic systems, basic logic functions.",
+      "content": "4.Compilation of logic function using Karnaugh map, realization of combinational logic circuits. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Programmable logic controllers and their use. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Compilation of logic function using Karnaugh map, realization of combinational logic circuits.",
+      "content": "5.Programmable logic controllers and their use. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Dynamic systems, basic mathematical models. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Programmable logic controllers and their use.",
+      "content": "6.Dynamic systems, basic mathematical models. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Classification of dynamic systems, static properties of dynamic systems. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Dynamic systems, basic mathematical models.",
+      "content": "7.Classification of dynamic systems, static properties of dynamic systems. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Identification and modeling of systems, use of MATLAB / Simulink tools. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Classification of dynamic systems, static properties of dynamic systems.",
+      "content": "8.Identification and modeling of systems, use of MATLAB / Simulink tools. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Automatic control fundamentals, analog and digital controllers. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Identification and modeling of systems, use of MATLAB / Simulink tools.",
+      "content": "9.Automatic control fundamentals, analog and digital controllers. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Stability of continuous linear systems, control performance. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Automatic control fundamentals, analog and digital controllers.",
+      "content": "10.Stability of continuous linear systems, control performance. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Closed-loop control system synthesis, controller type selection, controller tuning, simulation in MATLAB / Simulink environment. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Stability of continuous linear systems, control performance.",
+      "content": "11.Closed-loop control system synthesis, controller type selection, controller tuning, simulation in MATLAB / Simulink environment. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Nonlinear control systems, two- and three-position control. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Pneumatic and hydraulic systems, amplifiers and regulators. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Nonlinear control systems, two- and three-position control.",
+      "content": "13.Pneumatic and hydraulic systems, amplifiers and regulators. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "14.Industrial robots and their applications in agriculture. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Pneumatic and hydraulic systems, amplifiers and regulators.",
+      "content": "14.Industrial robots and their applications in agriculture. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice10 hseminar8 hlaboratory work10 hpreparation for exam28 hpreparation for regular assessment8 helaboration of reports20 hTotal112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "The course will succesfully ended on the basis of the credit and examination in the topics of the course that were discussed during the semester. The credit will be given on the minimal attendance at the course seminars including at least 75 %. The course is ended on the basis of credit and then the exam which has two parts. Student fulfill the writting exam and discuss with the examiner about specific topics, which were discussed during the semester. Final grade of the test consists of the signs of written and oral in the ratio 60:40."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceFinal test60 %Final oral exam40 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:TŮMA, Jiří; WAGNEROVÁ, Renata; FARANA, Radim; LANDRYOVÁ, Lenka. 2007. Základy automatizace. Ostrava: VŠB - Technická univerzita Ostrava, Dostupný z www: URL:http://www.elearn.vsb.cz/archivcd/FS/Zaut/, 288 p. ISBN 978-80-248-1523-7.FARANA, Radim; LANDRYOVÁ, Lenka; LOKOSOVÁ, Jolana; SMUTNÝ, Lubomír; VÍTEČEK, Antonín; VÍTEČKOVÁ, Miluše; WAGNEROVÁ, Renata. 2002. Programová podpora simulace dynamických systémů: sbírka řešených příkladů. 1st ed. Ostrava: Vysoká škola báňská - Technická univerzita Ostrava, 114 p. ISBN 80-02-01129-5.Recommended:ŠVARC, Ivan; MATOUŠEK, Radomil; ŠEDA, Miloš; VÍTEČKOVÁ, Miluše. Automatické řízení. 348 p. ISBN 978-80-214-4398-3.FARANA, R. Přednášky z předmětu Technická kybernetika [on-line]. PEF MENDELU [cit. 2018-11-06]. Dostupné z https://akela.mendelu.cz/~qqfarana/.NOSKIEVIČ, P. Modelování a identifikace systémů. 1. vyd. Ostrava: Montanex, 1999. ISBN 80-7225-030-2."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "TŮMA, Jiří; WAGNEROVÁ, Renata; FARANA, Radim; LANDRYOVÁ, Lenka. 2007. Základy automatizace. Ostrava: VŠB - Technická univerzita Ostrava, Dostupný z www: URL:http://www.elearn.vsb.cz/archivcd/FS/Zaut/, 288 p. ISBN 978-80-248-1523-7.FARANA, Radim; LANDRYOVÁ, Lenka; LOKOSOVÁ, Jolana; SMUTNÝ, Lubomír; VÍTEČEK, Antonín; VÍTEČKOVÁ, Miluše; WAGNEROVÁ, Renata. 2002. Programová podpora simulace dynamických systémů: sbírka řešených příkladů. 1st ed. Ostrava: Vysoká škola báňská - Technická univerzita Ostrava, 114 p. ISBN 80-02-01129-5."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "ŠVARC, Ivan; MATOUŠEK, Radomil; ŠEDA, Miloš; VÍTEČKOVÁ, Miluše. Automatické řízení. 348 p. ISBN 978-80-214-4398-3.FARANA, R. Přednášky z předmětu Technická kybernetika [on-line]. PEF MENDELU [cit. 2018-11-06]. Dostupné z https://akela.mendelu.cz/~qqfarana/.NOSKIEVIČ, P. Modelování a identifikace systémů. 1. vyd. Ostrava: Montanex, 1999. ISBN 80-7225-030-2."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:22:12",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

@@ -1,0 +1,953 @@
+{
+  "courseCode": "ROEX",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ROEX"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Rostlinné explantáty"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Plant Explants"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Kamila Širůčková Lónová, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav biologie rostlin (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "prof. RNDr. Ladislav Havel, CSc. (přednášející, zkoušející)Ing. Kamila Širůčková Lónová, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Explantátové kultury -- definice a základní metodické postupy. (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Histrorie."
+    },
+    {
+      "label": "b.",
+      "content": "Sterilita."
+    },
+    {
+      "label": "c.",
+      "content": "Typy explantátů."
+    },
+    {
+      "label": "2.",
+      "content": "Požadavky kultur in vitro (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "nutriční"
+    },
+    {
+      "label": "b.",
+      "content": "hormonální"
+    },
+    {
+      "label": "c.",
+      "content": "fyzikální podmínky kultivace"
+    },
+    {
+      "label": "3.",
+      "content": "Pracoviště explantátových kultur (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Organizace a vybavení laboratoře"
+    },
+    {
+      "label": "b.",
+      "content": "Zajištění sterility nástrojů, médií a pracovního prostředí"
+    },
+    {
+      "label": "c.",
+      "content": "Exkurze na pracoviště explantátových kultur"
+    },
+    {
+      "label": "4.",
+      "content": "Morfogenní procesy in vitro (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Regenerace přímá"
+    },
+    {
+      "label": "b.",
+      "content": "Regenerace nepřímá"
+    },
+    {
+      "label": "c.",
+      "content": "Principy, průběh, klasifikace."
+    },
+    {
+      "label": "d.",
+      "content": "Organogeneze"
+    },
+    {
+      "label": "5.",
+      "content": "Embryogeneze - klasifikace, principy. (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Zygotická"
+    },
+    {
+      "label": "b.",
+      "content": "Gametická - gynogeneze, androgeneze"
+    },
+    {
+      "label": "c.",
+      "content": "Somatická - indukce, proliferace, maturace a konverze"
+    },
+    {
+      "label": "6.",
+      "content": "Kultury izolovaných vegetativních orgánů - meristémy. (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Zakládání a hodnocení"
+    },
+    {
+      "label": "b.",
+      "content": "Praktické využití"
+    },
+    {
+      "label": "c.",
+      "content": "Ozdravování"
+    },
+    {
+      "label": "d.",
+      "content": "Uchovávání genových zdrojů - kryoprezeravace rostlinného materiálu"
+    },
+    {
+      "label": "7.",
+      "content": "Kultury izolovaných vegetativních orgánů - pupeny, části kořene, stonku, listů (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Problematika kumulace fenolických látek"
+    },
+    {
+      "label": "b.",
+      "content": "Vitrifikace"
+    },
+    {
+      "label": "c.",
+      "content": "Multiplikace"
+    },
+    {
+      "label": "8.",
+      "content": "Mikropropagace (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Postupy"
+    },
+    {
+      "label": "b.",
+      "content": "Založení"
+    },
+    {
+      "label": "d.",
+      "content": "Zakořeňování"
+    },
+    {
+      "label": "e.",
+      "content": "Otužování"
+    },
+    {
+      "label": "f.",
+      "content": "Převádění rostlin do nesterilních podmínek"
+    },
+    {
+      "label": "9.",
+      "content": "Typy kultur - Kalusové kultury. (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Zakládání"
+    },
+    {
+      "label": "b.",
+      "content": "Udržování"
+    },
+    {
+      "label": "c.",
+      "content": "Hodnocení"
+    },
+    {
+      "label": "d.",
+      "content": "Praktické využití"
+    },
+    {
+      "label": "e.",
+      "content": "Selekce in vitro"
+    },
+    {
+      "label": "10.",
+      "content": "Typy kultur - Buněčné kultury. (dotace 1/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Využití rostlinných explantátových kultur v zemědělské a lesnické praxi (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "- hlavní zemědělské plodiny - metody, vývoj"
+    },
+    {
+      "label": "b.",
+      "content": "- zahradnická praxe"
+    },
+    {
+      "label": "c.",
+      "content": "- využití v lesnictví"
+    },
+    {
+      "label": "d.",
+      "content": "- výzkum"
+    },
+    {
+      "label": "vypracování protokolů",
+      "content": "10 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "10 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, LS 2021/2022, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Rostlinné explantáty"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Plant Explants"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Kamila Širůčková Lónová, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav biologie rostlin (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: prof. RNDr. Ladislav Havel, CSc. (přednášející, zkoušející)Ing. Kamila Širůčková Lónová, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaStředa7.00-7.50M2.13L. Havel, K. Širůčková LónováPřednáškaKaždý týden17Středa8.00-9.50M2.13K. Širůčková LónováCvičeníKaždý týden10"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Studenti získají přehled o základních explantátových technikách -- orgánových , pletivových, buněčných a protoplastových kulturách a možnostech jejich využití v rostlinných biotechnologiích; ve šlechtění a množení rostlin pro zemědělskou praxi i výzkumu. Naučí se, jak zajistit optimální podmínky kultivace včetně přípravy živných médií. Naučí se navrhnout zařízení explantátové laboratoře. Prakticky zvládnou založení a udržování různých modelových typů explantátových kultur. Po absolvování předmětu budou schopni samostatně navrhnout laboratoř explantátových kultur i její program, nést odpovědnost její zřízení i za její chod včetně vedení pracovní skupiny."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Explantátové kultury -- definice a základní metodické postupy. (dotace 1/2) a.Histrorie.b.Sterilita.c.Typy explantátů.2.Požadavky kultur in vitro (dotace 1/2) a.nutričníb.hormonálníc.fyzikální podmínky kultivace3.Pracoviště explantátových kultur (dotace 2/4) a.Organizace a vybavení laboratořeb.Zajištění sterility nástrojů, médií a pracovního prostředíc.Exkurze na pracoviště explantátových kultur4.Morfogenní procesy in vitro (dotace 1/2) a.Regenerace přímáb.Regenerace nepřímác.Principy, průběh, klasifikace.d.Organogeneze5.Embryogeneze - klasifikace, principy. (dotace 1/2) a.Zygotickáb.Gametická - gynogeneze, androgenezec.Somatická - indukce, proliferace, maturace a konverze6.Kultury izolovaných vegetativních orgánů - meristémy. (dotace 1/2) a.Zakládání a hodnoceníb.Praktické využitíc.Ozdravováníd.Uchovávání genových zdrojů - kryoprezeravace rostlinného materiálu7.Kultury izolovaných vegetativních orgánů - pupeny, části kořene, stonku, listů (dotace 1/2) a.Problematika kumulace fenolických látekb.Vitrifikacec.Multiplikace8.Mikropropagace (dotace 1/2) a.Postupyb.Založeníc.Multiplikaced.Zakořeňováníe.Otužováníf.Převádění rostlin do nesterilních podmínek9.Typy kultur - Kalusové kultury. (dotace 1/2) a.Zakládáníb.Udržováníc.Hodnoceníd.Praktické využitíe.Selekce in vitro10.Typy kultur - Buněčné kultury. (dotace 1/2) a.Zakládáníb.Udržováníc.Hodnoceníd.Praktické využitíe.Selekce in vitro11.Využití rostlinných explantátových kultur v zemědělské a lesnické praxi (dotace 1/2) a.- hlavní zemědělské plodiny - metody, vývojb.- zahradnická praxec.- využití v lesnictvíd.- výzkum"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Histrorie.b.Sterilita.c.Typy explantátů."
+    },
+    {
+      "label": "[section] Explantátové kultury -- definice a základní metodické postupy.",
+      "content": "a.Histrorie.b.Sterilita.c.Typy explantátů."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.nutričníb.hormonálníc.fyzikální podmínky kultivace"
+    },
+    {
+      "label": "[section] Požadavky kultur in vitro",
+      "content": "a.nutričníb.hormonálníc.fyzikální podmínky kultivace"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Organizace a vybavení laboratořeb.Zajištění sterility nástrojů, médií a pracovního prostředíc.Exkurze na pracoviště explantátových kultur"
+    },
+    {
+      "label": "[section] Pracoviště explantátových kultur",
+      "content": "a.Organizace a vybavení laboratořeb.Zajištění sterility nástrojů, médií a pracovního prostředíc.Exkurze na pracoviště explantátových kultur"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Regenerace přímáb.Regenerace nepřímác.Principy, průběh, klasifikace.d.Organogeneze"
+    },
+    {
+      "label": "[section] Morfogenní procesy in vitro",
+      "content": "a.Regenerace přímáb.Regenerace nepřímác.Principy, průběh, klasifikace.d.Organogeneze"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Zygotickáb.Gametická - gynogeneze, androgenezec.Somatická - indukce, proliferace, maturace a konverze"
+    },
+    {
+      "label": "[section] Embryogeneze - klasifikace, principy.",
+      "content": "a.Zygotickáb.Gametická - gynogeneze, androgenezec.Somatická - indukce, proliferace, maturace a konverze"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Zakládání a hodnoceníb.Praktické využitíc.Ozdravováníd.Uchovávání genových zdrojů - kryoprezeravace rostlinného materiálu"
+    },
+    {
+      "label": "[section] Kultury izolovaných vegetativních orgánů - meristémy.",
+      "content": "a.Zakládání a hodnoceníb.Praktické využitíc.Ozdravováníd.Uchovávání genových zdrojů - kryoprezeravace rostlinného materiálu"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Problematika kumulace fenolických látekb.Vitrifikacec.Multiplikace"
+    },
+    {
+      "label": "[section] Kultury izolovaných vegetativních orgánů - pupeny, části kořene, stonku, listů",
+      "content": "a.Problematika kumulace fenolických látekb.Vitrifikacec.Multiplikace"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Postupyb.Založeníc.Multiplikaced.Zakořeňováníe.Otužováníf.Převádění rostlin do nesterilních podmínek"
+    },
+    {
+      "label": "[section] Mikropropagace",
+      "content": "a.Postupyb.Založeníc.Multiplikaced.Zakořeňováníe.Otužováníf.Převádění rostlin do nesterilních podmínek"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Zakládáníb.Udržováníc.Hodnoceníd.Praktické využitíe.Selekce in vitro"
+    },
+    {
+      "label": "[section] Typy kultur - Kalusové kultury.",
+      "content": "a.Zakládáníb.Udržováníc.Hodnoceníd.Praktické využitíe.Selekce in vitro"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Zakládáníb.Udržováníc.Hodnoceníd.Praktické využitíe.Selekce in vitro"
+    },
+    {
+      "label": "[section] Typy kultur - Buněčné kultury.",
+      "content": "a.Zakládáníb.Udržováníc.Hodnoceníd.Praktické využitíe.Selekce in vitro"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.- hlavní zemědělské plodiny - metody, vývojb.- zahradnická praxec.- využití v lesnictvíd.- výzkum"
+    },
+    {
+      "label": "[section] Využití rostlinných explantátových kultur v zemědělské a lesnické praxi",
+      "content": "a.- hlavní zemědělské plodiny - metody, vývojb.- zahradnická praxec.- využití v lesnictvíd.- výzkum"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška12 hseminář2 hlaboratorní práce16 hodborná exkurze6 hpříprava na zkoušku30 hpříprava na průběžný test12 hzpracování protokolů20 hzpracování projektů14 hvypracování protokolů13 hCelkem125 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Podmínkou zápočtu je 1/aktivní účast na cvičeníčeních doložená odevzdáním 10 protokolů a předvedením získaných kultur, 2/úspěšné absolvování dvou písemných testů (test má 12 otázek, maximální počet získaných bodů za úspěšné odpovědi je 24, minimální 16 (2/3), doba trvání testu 20 min 3/projekt laboratoře - jeho obhajoba v rámci semináře Předmět je ukončen ústní zkouškou, ve které jsou prokázány teoretické znalosti základních metod rostlinných explantátů na základě dvou okruhů otázek, jeden ze základních principů explantátových kultur, druhý ze speciálních aplikací. Student má možnost si vypracovat písemnou osnovu k odpovědím. Zkouška trvá 30min, podmínkou absolvování je prokázání minimálně 50% teoretických znalostí v obou okruzích."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumvypracování protokolů10 %Celkem10 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní: Hradilík J.: Rostlinné explantáty. Skriptum MZLU v Brně, str. 1-85, 2005. 2005. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 85 s. 2181. ISBN 80-7157-915-7.PROCHÁZKA, Stanislav a kol. 1998. Fyziologie rostlin. 1. vyd. Praha: Academia, 484 s. ISBN 80-200-0586-2. Explantátové kultury rostlin. 1992. 1. vyd. Ústí nad Labem: Univerzita J. E. Purkyně, 146 s. ISBN 80-7044-036-8.Doporučená:CHAWLA, H. S. Introduction to plant biotechnology. Enfield, N.H.: Science ;, 698 s. ISBN 978-1-57808-636-8. Plant biotechnology: a practical approach. Enfield: Science Publishers, 302 s. ISBN 1-57808-296-X.PUROHIT, S. S. 2003. Agricultural biotechnology. 2. vyd. Jodhpur, India: Agrobios (India), 938 s. ISBN 81-7754-156-0. Plant tissue culture engineering. 2006. Dordrecht: Springer, 480 s. Focus on biotechnology ;. ISBN 978-1-4020-3594-4.ŠEBÁNEK, Jiří; SLADKÝ, Zdeněk. 1988. Biotechnologie rostlinných explantátů. 1. vyd. Brno: Vysoká škola zemědělská, 100 s."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "Hradilík J.: Rostlinné explantáty. Skriptum MZLU v Brně, str. 1-85, 2005. 2005. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 85 s. 2181. ISBN 80-7157-915-7.PROCHÁZKA, Stanislav a kol. 1998. Fyziologie rostlin. 1. vyd. Praha: Academia, 484 s. ISBN 80-200-0586-2. Explantátové kultury rostlin. 1992. 1. vyd. Ústí nad Labem: Univerzita J. E. Purkyně, 146 s. ISBN 80-7044-036-8."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "CHAWLA, H. S. Introduction to plant biotechnology. Enfield, N.H.: Science ;, 698 s. ISBN 978-1-57808-636-8. Plant biotechnology: a practical approach. Enfield: Science Publishers, 302 s. ISBN 1-57808-296-X.PUROHIT, S. S. 2003. Agricultural biotechnology. 2. vyd. Jodhpur, India: Agrobios (India), 938 s. ISBN 81-7754-156-0. Plant tissue culture engineering. 2006. Dordrecht: Springer, 480 s. Focus on biotechnology ;. ISBN 978-1-4020-3594-4.ŠEBÁNEK, Jiří; SLADKÝ, Zdeněk. 1988. Biotechnologie rostlinných explantátů. 1. vyd. Brno: Vysoká škola zemědělská, 100 s."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ROEX"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Rostlinné explantáty"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Plant Explants"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Kamila Širůčková Lónová, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Plant Biology (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "prof. RNDr. Ladislav Havel, CSc. (examiner, lecturer)Ing. Kamila Širůčková Lónová, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "1. Plant tissue culture - definition, basic principles (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "- history, basic steps and development"
+    },
+    {
+      "label": "b.",
+      "content": "- aseptic conditions (environment. instrument, medium, explant)"
+    },
+    {
+      "label": "c.",
+      "content": "- types of explant cultures"
+    },
+    {
+      "label": "2.",
+      "content": "Basic in vitro culture conditions - (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "- nutrition, micro and macroelements, sugars, vitamins"
+    },
+    {
+      "label": "b.",
+      "content": "- plant growth regulators and their function in tissue cultures"
+    },
+    {
+      "label": "c.",
+      "content": "- physical conditions of cultivation (light, temperature)"
+    },
+    {
+      "label": "3.",
+      "content": "Laboratory of plant tissue cultures - (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "- organization, project"
+    },
+    {
+      "label": "b.",
+      "content": "- basic equipment and furniture,"
+    },
+    {
+      "label": "c.",
+      "content": "- aseptic environment principles"
+    },
+    {
+      "label": "d.",
+      "content": "(excursion to biotechnological laboratory"
+    },
+    {
+      "label": "4.",
+      "content": "Morphogenesis in vitro - (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "- direct and indirect regeneration,"
+    },
+    {
+      "label": "b.",
+      "content": "- principle and steps of organogenesis"
+    },
+    {
+      "label": "c.",
+      "content": "- classification and evaluation of cultures,"
+    },
+    {
+      "label": "5.",
+      "content": "Embryogenesis - classification, principles (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "- zygotic embryogenesis embryoculture,"
+    },
+    {
+      "label": "b.",
+      "content": "- gametic embryogenesis(gyno and androgenesis),"
+    },
+    {
+      "label": "c.",
+      "content": "- somatic embryogenesis (induction, proliferation, maturation, conversion)"
+    },
+    {
+      "label": "6.",
+      "content": "Organ cultures - meristem cultures - utilization, principles (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "- establishing, preparation"
+    },
+    {
+      "label": "b.",
+      "content": "- utilization - micropropagation"
+    },
+    {
+      "label": "c.",
+      "content": "- thermotherapy, virus elimination"
+    },
+    {
+      "label": "d.",
+      "content": "- gene resources - cryopreservation"
+    },
+    {
+      "label": "7.",
+      "content": "Bud cultures of forest trees, stem, root, leaf cultures (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "- phenolic compounds production and elimination"
+    },
+    {
+      "label": "b.",
+      "content": "- hyperhydricity and its control"
+    },
+    {
+      "label": "c.",
+      "content": "- multiplication - principles"
+    },
+    {
+      "label": "8.",
+      "content": "Micropropagation - adventages and disadvantages (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "- establishment"
+    },
+    {
+      "label": "b.",
+      "content": "- multiplication"
+    },
+    {
+      "label": "c.",
+      "content": "- rhizogenesis"
+    },
+    {
+      "label": "d.",
+      "content": "- aclimation and transfer to in vivo conditions"
+    },
+    {
+      "label": "9.",
+      "content": "Callus cultures (allowance 1/2)"
+    },
+    {
+      "label": "b.",
+      "content": "- maintenance"
+    },
+    {
+      "label": "c.",
+      "content": "- assessment"
+    },
+    {
+      "label": "d.",
+      "content": "- practical utilization"
+    },
+    {
+      "label": "e.",
+      "content": "- in vitro selection and breeding"
+    },
+    {
+      "label": "10.",
+      "content": "Cell cultures (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "- establishment, types"
+    },
+    {
+      "label": "b.",
+      "content": "- maintenance - culture equipment"
+    },
+    {
+      "label": "c.",
+      "content": "- control"
+    },
+    {
+      "label": "d.",
+      "content": "- practical utilization, selection, secondary metabolite production"
+    },
+    {
+      "label": "11.",
+      "content": "Plant tissue cultures in agriculture and forestry (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "- methods and development in main crops"
+    },
+    {
+      "label": "b.",
+      "content": "- methods and development in horticulture"
+    },
+    {
+      "label": "c.",
+      "content": "- methods and development in forestry"
+    },
+    {
+      "label": "d.",
+      "content": "- research potencial"
+    },
+    {
+      "label": "experiments protocols",
+      "content": "10 %"
+    },
+    {
+      "label": "Total",
+      "content": "10 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, SS 2021/2022, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Rostlinné explantáty"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Plant Explants"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Kamila Širůčková Lónová, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Plant Biology (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. RNDr. Ladislav Havel, CSc. (examiner, lecturer)Ing. Kamila Širůčková Lónová, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityWednesday7.00-7.50M2.13L. Havel, K. Širůčková LónováLectureEvery week17Wednesday8.00-9.50M2.13K. Širůčková LónováSeminarEvery week10"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Basic knowledge of plant cell, organ and tissue cultures, including protoplast culture, optimal conditions, culture media preparation, sterility management and laboratory equipment. Basic knowledge about use of plant biotechnology in breeding and micropropagation techniques. Practical and theoretical bases of main model in vitro cultures."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.1. Plant tissue culture - definition, basic principles (allowance 1/2) a.- history, basic steps and developmentb.- aseptic conditions (environment. instrument, medium, explant)c.- types of explant cultures2.Basic in vitro culture conditions - (allowance 1/2) a.- nutrition, micro and macroelements, sugars, vitaminsb.- plant growth regulators and their function in tissue culturesc.- physical conditions of cultivation (light, temperature)3.Laboratory of plant tissue cultures - (allowance 2/4) a.- organization, projectb.- basic equipment and furniture,c.- aseptic environment principlesd.(excursion to biotechnological laboratory4.Morphogenesis in vitro - (allowance 1/2) a.- direct and indirect regeneration,b.- principle and steps of organogenesisc.- classification and evaluation of cultures,5.Embryogenesis - classification, principles (allowance 1/2) a.- zygotic embryogenesis embryoculture,b.- gametic embryogenesis(gyno and androgenesis),c.- somatic embryogenesis (induction, proliferation, maturation, conversion)6.Organ cultures - meristem cultures - utilization, principles (allowance 1/2) a.- establishing, preparationb.- utilization - micropropagationc.- thermotherapy, virus eliminationd.- gene resources - cryopreservation7.Bud cultures of forest trees, stem, root, leaf cultures (allowance 1/2) a.- phenolic compounds production and eliminationb.- hyperhydricity and its controlc.- multiplication - principles8.Micropropagation - adventages and disadvantages (allowance 1/2) a.- establishmentb.- multiplicationc.- rhizogenesisd.- aclimation and transfer to in vivo conditions9.Callus cultures (allowance 1/2) a.- establishmentb.- maintenancec.- assessmentd.- practical utilizatione.- in vitro selection and breeding10.Cell cultures (allowance 1/2) a.- establishment, typesb.- maintenance - culture equipmentc.- controld.- practical utilization, selection, secondary metabolite production11.Plant tissue cultures in agriculture and forestry (allowance 1/2) a.- methods and development in main cropsb.- methods and development in horticulturec.- methods and development in forestryd.- research potencial"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.- history, basic steps and developmentb.- aseptic conditions (environment. instrument, medium, explant)c.- types of explant cultures"
+    },
+    {
+      "label": "[section] 1. Plant tissue culture - definition, basic principles",
+      "content": "a.- history, basic steps and developmentb.- aseptic conditions (environment. instrument, medium, explant)c.- types of explant cultures"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.- nutrition, micro and macroelements, sugars, vitaminsb.- plant growth regulators and their function in tissue culturesc.- physical conditions of cultivation (light, temperature)"
+    },
+    {
+      "label": "[section] Basic in vitro culture conditions -",
+      "content": "a.- nutrition, micro and macroelements, sugars, vitaminsb.- plant growth regulators and their function in tissue culturesc.- physical conditions of cultivation (light, temperature)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.- organization, projectb.- basic equipment and furniture,c.- aseptic environment principlesd.(excursion to biotechnological laboratory"
+    },
+    {
+      "label": "[section] Laboratory of plant tissue cultures -",
+      "content": "a.- organization, projectb.- basic equipment and furniture,c.- aseptic environment principlesd.(excursion to biotechnological laboratory"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.- direct and indirect regeneration,b.- principle and steps of organogenesisc.- classification and evaluation of cultures,"
+    },
+    {
+      "label": "[section] Morphogenesis in vitro -",
+      "content": "a.- direct and indirect regeneration,b.- principle and steps of organogenesisc.- classification and evaluation of cultures,"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.- zygotic embryogenesis embryoculture,b.- gametic embryogenesis(gyno and androgenesis),c.- somatic embryogenesis (induction, proliferation, maturation, conversion)"
+    },
+    {
+      "label": "[section] Embryogenesis - classification, principles",
+      "content": "a.- zygotic embryogenesis embryoculture,b.- gametic embryogenesis(gyno and androgenesis),c.- somatic embryogenesis (induction, proliferation, maturation, conversion)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.- establishing, preparationb.- utilization - micropropagationc.- thermotherapy, virus eliminationd.- gene resources - cryopreservation"
+    },
+    {
+      "label": "[section] Organ cultures - meristem cultures - utilization, principles",
+      "content": "a.- establishing, preparationb.- utilization - micropropagationc.- thermotherapy, virus eliminationd.- gene resources - cryopreservation"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.- phenolic compounds production and eliminationb.- hyperhydricity and its controlc.- multiplication - principles"
+    },
+    {
+      "label": "[section] Bud cultures of forest trees, stem, root, leaf cultures",
+      "content": "a.- phenolic compounds production and eliminationb.- hyperhydricity and its controlc.- multiplication - principles"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.- establishmentb.- multiplicationc.- rhizogenesisd.- aclimation and transfer to in vivo conditions"
+    },
+    {
+      "label": "[section] Micropropagation - adventages and disadvantages",
+      "content": "a.- establishmentb.- multiplicationc.- rhizogenesisd.- aclimation and transfer to in vivo conditions"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.- establishmentb.- maintenancec.- assessmentd.- practical utilizatione.- in vitro selection and breeding"
+    },
+    {
+      "label": "[section] Callus cultures",
+      "content": "a.- establishmentb.- maintenancec.- assessmentd.- practical utilizatione.- in vitro selection and breeding"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.- establishment, typesb.- maintenance - culture equipmentc.- controld.- practical utilization, selection, secondary metabolite production"
+    },
+    {
+      "label": "[section] Cell cultures",
+      "content": "a.- establishment, typesb.- maintenance - culture equipmentc.- controld.- practical utilization, selection, secondary metabolite production"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.- methods and development in main cropsb.- methods and development in horticulturec.- methods and development in forestryd.- research potencial"
+    },
+    {
+      "label": "[section] Plant tissue cultures in agriculture and forestry",
+      "content": "a.- methods and development in main cropsb.- methods and development in horticulturec.- methods and development in forestryd.- research potencial"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture12 hseminar2 hlaboratory work16 hprofessional educational excursion6 hpreparation for exam30 hpreparation for regular testing12 helaboration of reports20 helaboration and execution of projects14 hexperiments protocols13 hTotal125 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Graduation of exercises consist of: 1/ active participation on practical exercises - demonstrated in the end of term by successfuly developed cultures and 10 protocols 2/ two written tests with 12 questions, where max 24 point could be win and 16 point (2/3 of successfuly answered questions)is need for successful result. Test take 20 min. 3/ project of biotechnical laboratory including discussion wit colleagues The exam is oral and consist of two area (one question of basic principles and one of special methods). Student demonstrate his theoretical knowledge of basic plant tissue culture methods used in plant biotechnology and ability to solve the problems with culture management. The exam take 30min and student must respond minimum 50% of questions by the right way to pass it."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceexperiments protocols10 %Total10 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic: Hradilík J.: Rostlinné explantáty. Skriptum MZLU v Brně, str. 1-85, 2005. 2005. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 85 p. 2181. ISBN 80-7157-915-7.PROCHÁZKA, Stanislav et al. 1998. Fyziologie rostlin. 1st ed. Praha: Academia, 484 p. ISBN 80-200-0586-2. Explantátové kultury rostlin. 1992. 1st ed. Ústí nad Labem: Univerzita J. E. Purkyně, 146 p. ISBN 80-7044-036-8.Recommended:CHAWLA, H. S. Introduction to plant biotechnology. Enfield, N.H.: Science ;, 698 p. ISBN 978-1-57808-636-8. Plant biotechnology: a practical approach. Enfield: Science Publishers, 302 p. ISBN 1-57808-296-X.PUROHIT, S. S. 2003. Agricultural biotechnology. 2nd ed. Jodhpur, India: Agrobios (India), 938 p. ISBN 81-7754-156-0. Plant tissue culture engineering. 2006. Dordrecht: Springer, 480 p. Focus on biotechnology ;. ISBN 978-1-4020-3594-4.ŠEBÁNEK, Jiří; SLADKÝ, Zdeněk. 1988. Biotechnologie rostlinných explantátů. 1st ed. Brno: Vysoká škola zemědělská, 100 p."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "Hradilík J.: Rostlinné explantáty. Skriptum MZLU v Brně, str. 1-85, 2005. 2005. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 85 p. 2181. ISBN 80-7157-915-7.PROCHÁZKA, Stanislav et al. 1998. Fyziologie rostlin. 1st ed. Praha: Academia, 484 p. ISBN 80-200-0586-2. Explantátové kultury rostlin. 1992. 1st ed. Ústí nad Labem: Univerzita J. E. Purkyně, 146 p. ISBN 80-7044-036-8."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "CHAWLA, H. S. Introduction to plant biotechnology. Enfield, N.H.: Science ;, 698 p. ISBN 978-1-57808-636-8. Plant biotechnology: a practical approach. Enfield: Science Publishers, 302 p. ISBN 1-57808-296-X.PUROHIT, S. S. 2003. Agricultural biotechnology. 2nd ed. Jodhpur, India: Agrobios (India), 938 p. ISBN 81-7754-156-0. Plant tissue culture engineering. 2006. Dordrecht: Springer, 480 p. Focus on biotechnology ;. ISBN 978-1-4020-3594-4.ŠEBÁNEK, Jiří; SLADKÝ, Zdeněk. 1988. Biotechnologie rostlinných explantátů. 1st ed. Brno: Vysoká škola zemědělská, 100 p."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:04:03",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

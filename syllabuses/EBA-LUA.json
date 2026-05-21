@@ -1,0 +1,649 @@
+{
+  "courseCode": "EBA-LUA",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBA-LUA"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Programovací jazyk Lua v AJ"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Lua Programming Language"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Ne."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "angličtina"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "RNDr. Tomáš Hála, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "RNDr. Tomáš Hála, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod a popis jazyka Lua. Operátory, výrazy (dotace 2/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Základy algoritmizace a konstrukce programovacího jazyka Lua (dotace 4/4)"
+    },
+    {
+      "label": "3.",
+      "content": "Řetězce (dotace 2/2)"
+    },
+    {
+      "label": "4.",
+      "content": "Tabulky (dotace 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Funkce (dotace 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Funkce a iterátory (dotace 4/4)"
+    },
+    {
+      "label": "7.",
+      "content": "Textové soubory (dotace 2/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Binární soubory (dotace 2/2)"
+    },
+    {
+      "label": "9.",
+      "content": "Moduly (dotace 2/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Komunikace s OS (dotace 2/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Využití jazyka Lua v aplikacích (dotace 4/4)"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "25 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "25 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "25 %"
+    },
+    {
+      "label": "průběžné domácí úkoly",
+      "content": "25 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Programovací jazyk Lua v AJ"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Lua Programming Language"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Ne."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: angličtina"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: RNDr. Tomáš Hála, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: RNDr. Tomáš Hála, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPátek9.00-10.50Q07T. HálaPřednáškaKaždý týden20Pátek11.00-12.50Q07T. HálaCvičeníKaždý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Studiem předmětu se studentům dostane základních znalostí o programovacím jazyce Lua a získají i praktické dovednosti řešením příkladů."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod a popis jazyka Lua. Operátory, výrazy (dotace 2/2)2.Základy algoritmizace a konstrukce programovacího jazyka Lua (dotace 4/4)3.Řetězce (dotace 2/2)4.Tabulky (dotace 2/2)5.Funkce (dotace 2/2)6.Funkce a iterátory (dotace 4/4)7.Textové soubory (dotace 2/2)8.Binární soubory (dotace 2/2)9.Moduly (dotace 2/2)10.Komunikace s OS (dotace 2/2)11.Využití jazyka Lua v aplikacích (dotace 4/4)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Základy algoritmizace a konstrukce programovacího jazyka Lua (dotace 4/4)"
+    },
+    {
+      "label": "[section] Úvod a popis jazyka Lua. Operátory, výrazy",
+      "content": "2.Základy algoritmizace a konstrukce programovacího jazyka Lua (dotace 4/4)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Řetězce (dotace 2/2)"
+    },
+    {
+      "label": "[section] Základy algoritmizace a konstrukce programovacího jazyka Lua",
+      "content": "3.Řetězce (dotace 2/2)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Tabulky (dotace 2/2)"
+    },
+    {
+      "label": "[section] Řetězce",
+      "content": "4.Tabulky (dotace 2/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Funkce (dotace 2/2)"
+    },
+    {
+      "label": "[section] Tabulky",
+      "content": "5.Funkce (dotace 2/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Funkce a iterátory (dotace 4/4)"
+    },
+    {
+      "label": "[section] Funkce",
+      "content": "6.Funkce a iterátory (dotace 4/4)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Textové soubory (dotace 2/2)"
+    },
+    {
+      "label": "[section] Funkce a iterátory",
+      "content": "7.Textové soubory (dotace 2/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Binární soubory (dotace 2/2)"
+    },
+    {
+      "label": "[section] Textové soubory",
+      "content": "8.Binární soubory (dotace 2/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Moduly (dotace 2/2)"
+    },
+    {
+      "label": "[section] Binární soubory",
+      "content": "9.Moduly (dotace 2/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Komunikace s OS (dotace 2/2)"
+    },
+    {
+      "label": "[section] Moduly",
+      "content": "10.Komunikace s OS (dotace 2/2)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Využití jazyka Lua v aplikacích (dotace 4/4)"
+    },
+    {
+      "label": "[section] Komunikace s OS",
+      "content": "11.Využití jazyka Lua v aplikacích (dotace 4/4)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hkonzultace8 hkolokvium4 hpříprava na zkoušku40 hzpracování protokolů20 hzpracování projektů40 hCelkem168 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Úspěšné zakončení předpokládá získání alespoň 60 bodů celkem, včetně alespoň 10 bodů z každé hodnocené části."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích25 %Vypracování semestrální práce25 %Absolvování závěrečné ústní zkoušky25 %průběžné domácí úkoly25 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:IERUSALIMSCHY, Roberto. 2013. Programming in Lua. 3. vyd. Rio de Janeiro: Lua.org, 348 s. ISBN 978-85-903798-5-0.SZAUER, Gabor. 2018. Lua quick start guide : the easiest way to learn Lua programming. Birmingham: Packt Publishing, ISBN 978-1-78934-013-6. The programming language Lua. 2021. http://www.lua.org."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "IERUSALIMSCHY, Roberto. 2013. Programming in Lua. 3. vyd. Rio de Janeiro: Lua.org, 348 s. ISBN 978-85-903798-5-0.SZAUER, Gabor. 2018. Lua quick start guide : the easiest way to learn Lua programming. Birmingham: Packt Publishing, ISBN 978-1-78934-013-6. The programming language Lua. 2021. http://www.lua.org."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBA-LUA"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Programovací jazyk Lua v AJ"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Lua Programming Language"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "No."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "English"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "RNDr. Tomáš Hála, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "RNDr. Tomáš Hála, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to Lua. Operators, expressions (allowance 2/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Algorithmisation and programming language Lua (allowance 4/4)"
+    },
+    {
+      "label": "3.",
+      "content": "Strings (allowance 2/2)"
+    },
+    {
+      "label": "4.",
+      "content": "Tables (allowance 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Functions (allowance 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Functions and iterators (allowance 4/4)"
+    },
+    {
+      "label": "7.",
+      "content": "Text files (allowance 2/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Binary files (allowance 2/2)"
+    },
+    {
+      "label": "9.",
+      "content": "Modules (allowance 2/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Communication with OS (allowance 2/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Lua in applications (allowance 4/4)"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "25 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "25 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "25 %"
+    },
+    {
+      "label": "homework",
+      "content": "25 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Programovací jazyk Lua v AJ"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Lua Programming Language"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: -- item not defined --"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: No."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: English"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: RNDr. Tomáš Hála, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: RNDr. Tomáš Hála, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityFriday9.00-10.50Q07T. HálaLectureEvery week20Friday11.00-12.50Q07T. HálaSeminarEvery week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Studying the course students will get basic knowledge of programming language Lua and will gain practical skills solving exercises."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to Lua. Operators, expressions (allowance 2/2)2.Algorithmisation and programming language Lua (allowance 4/4)3.Strings (allowance 2/2)4.Tables (allowance 2/2)5.Functions (allowance 2/2)6.Functions and iterators (allowance 4/4)7.Text files (allowance 2/2)8.Binary files (allowance 2/2)9.Modules (allowance 2/2)10.Communication with OS (allowance 2/2)11.Lua in applications (allowance 4/4)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Algorithmisation and programming language Lua (allowance 4/4)"
+    },
+    {
+      "label": "[section] Introduction to Lua. Operators, expressions",
+      "content": "2.Algorithmisation and programming language Lua (allowance 4/4)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Strings (allowance 2/2)"
+    },
+    {
+      "label": "[section] Algorithmisation and programming language Lua",
+      "content": "3.Strings (allowance 2/2)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Tables (allowance 2/2)"
+    },
+    {
+      "label": "[section] Strings",
+      "content": "4.Tables (allowance 2/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Functions (allowance 2/2)"
+    },
+    {
+      "label": "[section] Tables",
+      "content": "5.Functions (allowance 2/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Functions and iterators (allowance 4/4)"
+    },
+    {
+      "label": "[section] Functions",
+      "content": "6.Functions and iterators (allowance 4/4)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Text files (allowance 2/2)"
+    },
+    {
+      "label": "[section] Functions and iterators",
+      "content": "7.Text files (allowance 2/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Binary files (allowance 2/2)"
+    },
+    {
+      "label": "[section] Text files",
+      "content": "8.Binary files (allowance 2/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Modules (allowance 2/2)"
+    },
+    {
+      "label": "[section] Binary files",
+      "content": "9.Modules (allowance 2/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Communication with OS (allowance 2/2)"
+    },
+    {
+      "label": "[section] Modules",
+      "content": "10.Communication with OS (allowance 2/2)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Lua in applications (allowance 4/4)"
+    },
+    {
+      "label": "[section] Communication with OS",
+      "content": "11.Lua in applications (allowance 4/4)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hconsultation8 hcolloquium4 hpreparation for exam40 helaboration of reports20 helaboration and execution of projects40 hTotal168 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Successful completion presume to obtain at least 60 points, including at least 10 points for each part of the final evaluation."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation25 %Term paper25 %Final oral exam25 %homework25 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:IERUSALIMSCHY, Roberto. 2013. Programming in Lua. 3rd ed. Rio de Janeiro: Lua.org, 348 p. ISBN 978-85-903798-5-0.SZAUER, Gabor. 2018. Lua quick start guide : the easiest way to learn Lua programming. Birmingham: Packt Publishing, ISBN 978-1-78934-013-6. The programming language Lua. 2021. http://www.lua.org."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "IERUSALIMSCHY, Roberto. 2013. Programming in Lua. 3rd ed. Rio de Janeiro: Lua.org, 348 p. ISBN 978-85-903798-5-0.SZAUER, Gabor. 2018. Lua quick start guide : the easiest way to learn Lua programming. Birmingham: Packt Publishing, ISBN 978-1-78934-013-6. The programming language Lua. 2021. http://www.lua.org."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:35:55",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

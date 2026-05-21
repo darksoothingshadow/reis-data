@@ -1,0 +1,745 @@
+{
+  "courseCode": "EBC-PJ",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-PJ"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Programovací jazyk Java"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Java Programming Language"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Petr Jedlička, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Petr Jedlička, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška a Základy objektového návrhu"
+    },
+    {
+      "label": "1.",
+      "content": "Vlastnosti a použití jazyka Java (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Vlastnosti a použití jazyka Java."
+    },
+    {
+      "label": "b.",
+      "content": "Postup vytváření a distribuce aplikací."
+    },
+    {
+      "label": "c.",
+      "content": "Java platformy."
+    },
+    {
+      "label": "2.",
+      "content": "Objektově orientované programování v jazyce Java (dotace 4/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Třídy, rozhraní, balíky, omezení přístupu."
+    },
+    {
+      "label": "b.",
+      "content": "Tvorba a rušení objektů, metody, polymorfismus."
+    },
+    {
+      "label": "c.",
+      "content": "Datové typy (primitivní a objektové), pole, kontejnery, generické typy v třídách a metodách."
+    },
+    {
+      "label": "d.",
+      "content": "Iterátory, operátory a jejich priorita, příkazy, řídicí struktury, výjimky."
+    },
+    {
+      "label": "3.",
+      "content": "Vstupně-výstupní operace v jazyce Java (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Datové streamy."
+    },
+    {
+      "label": "b.",
+      "content": "Práce se soubory."
+    },
+    {
+      "label": "c.",
+      "content": "Serializace a deserializace dat."
+    },
+    {
+      "label": "4.",
+      "content": "Programátorské konvence v jazyce Java, zásady vývoje aplikací (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Tvorba programátorské dokumentace pomocí nástroje JavaDoc."
+    },
+    {
+      "label": "b.",
+      "content": "Balíky a JAR archívy."
+    },
+    {
+      "label": "c.",
+      "content": "Testy řízený vývoj softwaru (TDD), testovací rámec JUnit."
+    },
+    {
+      "label": "5.",
+      "content": "Vlákna (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Tvorba vícevláknových aplikací."
+    },
+    {
+      "label": "b.",
+      "content": "Synchronizace vláken."
+    },
+    {
+      "label": "c.",
+      "content": "Priorita."
+    },
+    {
+      "label": "6.",
+      "content": "Síťová komunikace v Javě (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Reprezentace IP adres."
+    },
+    {
+      "label": "b.",
+      "content": "Datagramová komunikace prostřednictvím protokolu UDP."
+    },
+    {
+      "label": "c.",
+      "content": "Spojovaná komunikace prostřednictvím protokolu TCP. Implementace TCP klienta, TCP serveru, HTTP klienta."
+    },
+    {
+      "label": "7.",
+      "content": "Funkční rozhraní, lambda výrazy, predikáty, datové proudy (dotace 3/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Funkční rozhraní."
+    },
+    {
+      "label": "b.",
+      "content": "Lambda výrazy."
+    },
+    {
+      "label": "c.",
+      "content": "Predikáty."
+    },
+    {
+      "label": "d.",
+      "content": "Datové proudy."
+    },
+    {
+      "label": "Hodnocené průběžné úkoly",
+      "content": "30 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "70 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, LS 2022/2023, ZS 2022/2023, LS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Programovací jazyk Java"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Java Programming Language"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Petr Jedlička, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Petr Jedlička, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a Základy objektového návrhu"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí15.00-16.50Q06B-AIIB-OIP. JedličkaCvičeníKaždý týden20Pondělí17.00-18.50Q06B-AIIB-OIP. JedličkaCvičeníKaždý týden20Středa11.00-12.50Q07B-AIIB-OIP. JedličkaCvičeníKaždý týden20Středa13.00-14.50Q07B-AIIB-OIP. JedličkaCvičeníKaždý týden20Středa15.00-16.50Q16B-AIIB-OIP. JedličkaPřednáškaLichý týden80"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem tohoto předmětu je představit jazyk Java jako moderní objektově orientovaný programovací jazyk, který nabízí široké možnosti využití. Po úspěšném absolvování předmětu by měl student být schopen aplikovat objektově orientovaný přístup v programování desktopových aplikací. Zvládnutí problematiky je předpokladem studia volitelného předmětu Java aplikace."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Vlastnosti a použití jazyka Java (dotace 1/2) a.Vlastnosti a použití jazyka Java.b.Postup vytváření a distribuce aplikací.c.Java platformy.2.Objektově orientované programování v jazyce Java (dotace 4/8) a.Třídy, rozhraní, balíky, omezení přístupu.b.Tvorba a rušení objektů, metody, polymorfismus.c.Datové typy (primitivní a objektové), pole, kontejnery, generické typy v třídách a metodách.d.Iterátory, operátory a jejich priorita, příkazy, řídicí struktury, výjimky.3.Vstupně-výstupní operace v jazyce Java (dotace 2/4) a.Datové streamy.b.Práce se soubory.c.Serializace a deserializace dat.4.Programátorské konvence v jazyce Java, zásady vývoje aplikací (dotace 1/3) a.Tvorba programátorské dokumentace pomocí nástroje JavaDoc.b.Balíky a JAR archívy.c.Testy řízený vývoj softwaru (TDD), testovací rámec JUnit.5.Vlákna (dotace 2/3) a.Tvorba vícevláknových aplikací.b.Synchronizace vláken.c.Priorita.6.Síťová komunikace v Javě (dotace 1/2) a.Reprezentace IP adres.b.Datagramová komunikace prostřednictvím protokolu UDP.c.Spojovaná komunikace prostřednictvím protokolu TCP. Implementace TCP klienta, TCP serveru, HTTP klienta.7.Funkční rozhraní, lambda výrazy, predikáty, datové proudy (dotace 3/6) a.Funkční rozhraní.b.Lambda výrazy.c.Predikáty.d.Datové proudy."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Vlastnosti a použití jazyka Java.b.Postup vytváření a distribuce aplikací.c.Java platformy."
+    },
+    {
+      "label": "[section] Vlastnosti a použití jazyka Java",
+      "content": "a.Vlastnosti a použití jazyka Java.b.Postup vytváření a distribuce aplikací.c.Java platformy."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Třídy, rozhraní, balíky, omezení přístupu.b.Tvorba a rušení objektů, metody, polymorfismus.c.Datové typy (primitivní a objektové), pole, kontejnery, generické typy v třídách a metodách.d.Iterátory, operátory a jejich priorita, příkazy, řídicí struktury, výjimky."
+    },
+    {
+      "label": "[section] Objektově orientované programování v jazyce Java",
+      "content": "a.Třídy, rozhraní, balíky, omezení přístupu.b.Tvorba a rušení objektů, metody, polymorfismus.c.Datové typy (primitivní a objektové), pole, kontejnery, generické typy v třídách a metodách.d.Iterátory, operátory a jejich priorita, příkazy, řídicí struktury, výjimky."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Datové streamy.b.Práce se soubory.c.Serializace a deserializace dat."
+    },
+    {
+      "label": "[section] Vstupně-výstupní operace v jazyce Java",
+      "content": "a.Datové streamy.b.Práce se soubory.c.Serializace a deserializace dat."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Tvorba programátorské dokumentace pomocí nástroje JavaDoc.b.Balíky a JAR archívy.c.Testy řízený vývoj softwaru (TDD), testovací rámec JUnit."
+    },
+    {
+      "label": "[section] Programátorské konvence v jazyce Java, zásady vývoje aplikací",
+      "content": "a.Tvorba programátorské dokumentace pomocí nástroje JavaDoc.b.Balíky a JAR archívy.c.Testy řízený vývoj softwaru (TDD), testovací rámec JUnit."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Tvorba vícevláknových aplikací.b.Synchronizace vláken.c.Priorita."
+    },
+    {
+      "label": "[section] Vlákna",
+      "content": "a.Tvorba vícevláknových aplikací.b.Synchronizace vláken.c.Priorita."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Reprezentace IP adres.b.Datagramová komunikace prostřednictvím protokolu UDP.c.Spojovaná komunikace prostřednictvím protokolu TCP. Implementace TCP klienta, TCP serveru, HTTP klienta."
+    },
+    {
+      "label": "[section] Síťová komunikace v Javě",
+      "content": "a.Reprezentace IP adres.b.Datagramová komunikace prostřednictvím protokolu UDP.c.Spojovaná komunikace prostřednictvím protokolu TCP. Implementace TCP klienta, TCP serveru, HTTP klienta."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Funkční rozhraní.b.Lambda výrazy.c.Predikáty.d.Datové proudy."
+    },
+    {
+      "label": "[section] Funkční rozhraní, lambda výrazy, predikáty, datové proudy",
+      "content": "a.Funkční rozhraní.b.Lambda výrazy.c.Predikáty.d.Datové proudy."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení28 hpříprava na zkoušku86 hpříprava na průběžné hodnocení20 hpříprava na průběžný test20 hCelkem168 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "K ukončení předmětu je vyžadováno získání min. 15 bodů z možných 30 z průběžných úkolů a min. 35 bodů ze 70 ze zkoušky, která má znalostní a praktickou část."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumHodnocené průběžné úkoly30 %Absolvování závěrečného testu70 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:PECINOVSKÝ, Rudolf. 2009. Myslíme objektově v jazyku Java: kompletní učebnice pro začátečníky. 2. vyd. Praha: Grada, 570 s. Myslíme v. ISBN 978-80-247-2653-3.PECINOVSKÝ, Rudolf. 2013. Návrhové vzory – 33 vzorových postupů pro objektové programování. Brno: Computer Press, 528 s. ISBN 978-80-251-1582-4.Doporučená:ITnetwork.cz. Online kurzy programování v Javě. 2024. https://www.itnetwork.cz/javaOficiální dokumentace jazyka Java dostupná na https://docs.oracle.com/en/java/javase/index.html"
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "PECINOVSKÝ, Rudolf. 2009. Myslíme objektově v jazyku Java: kompletní učebnice pro začátečníky. 2. vyd. Praha: Grada, 570 s. Myslíme v. ISBN 978-80-247-2653-3.PECINOVSKÝ, Rudolf. 2013. Návrhové vzory – 33 vzorových postupů pro objektové programování. Brno: Computer Press, 528 s. ISBN 978-80-251-1582-4."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "ITnetwork.cz. Online kurzy programování v Javě. 2024. https://www.itnetwork.cz/javaOficiální dokumentace jazyka Java dostupná na https://docs.oracle.com/en/java/javase/index.html"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-OI Otevřená informatika, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-PJ"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Programovací jazyk Java"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Java Programming Language"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "It is not possible to study the course during a trip abroad."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Petr Jedlička, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Petr Jedlička, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam and Basics of Object Oriented Design"
+    },
+    {
+      "label": "1.",
+      "content": "Features and utilization of Java language (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Features of Java language"
+    },
+    {
+      "label": "b.",
+      "content": "Application creation and distribution"
+    },
+    {
+      "label": "c.",
+      "content": "Java platforms"
+    },
+    {
+      "label": "2.",
+      "content": "Object-oriented programming (OOP) in Java (allowance 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Classes, interfaces, packages, access control"
+    },
+    {
+      "label": "b.",
+      "content": "Object creation and removal"
+    },
+    {
+      "label": "c.",
+      "content": "Data types (primitive types and object types), arrays, containers, generic types in classes and methods"
+    },
+    {
+      "label": "d.",
+      "content": "Iterators, operators and precedence, statements, control flow statements, exceptions."
+    },
+    {
+      "label": "3.",
+      "content": "Input/output operations in Java (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Data streams"
+    },
+    {
+      "label": "b.",
+      "content": "Working with files"
+    },
+    {
+      "label": "c.",
+      "content": "Data serialization and deserialization"
+    },
+    {
+      "label": "4.",
+      "content": "Code conventions for Java, rules of application development (allowance 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Using JavaDoc for documentation generation"
+    },
+    {
+      "label": "b.",
+      "content": "Packages and JAR archives"
+    },
+    {
+      "label": "c.",
+      "content": "Test-driven development (TDD), JUnit testing framework"
+    },
+    {
+      "label": "5.",
+      "content": "Threads (allowance 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Multi-threaded applications"
+    },
+    {
+      "label": "b.",
+      "content": "Synchronization"
+    },
+    {
+      "label": "c.",
+      "content": "Thread priority"
+    },
+    {
+      "label": "6.",
+      "content": "Java Network Programming (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "IP Network Address Representation"
+    },
+    {
+      "label": "b.",
+      "content": "Sending and receiving UDP datagrams"
+    },
+    {
+      "label": "c.",
+      "content": "Sending and receiving IP packets using TCP. Implementation of TCP client, TCP server, HTTP client"
+    },
+    {
+      "label": "7.",
+      "content": "Functional interfaces, lambda expressions, predicates, data streams (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Functional interfaces"
+    },
+    {
+      "label": "b.",
+      "content": "Lambda expressions"
+    },
+    {
+      "label": "c.",
+      "content": "Predicates"
+    },
+    {
+      "label": "d.",
+      "content": "Data streams"
+    },
+    {
+      "label": "Marked assignments",
+      "content": "30 %"
+    },
+    {
+      "label": "Final test",
+      "content": "70 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, SS 2022/2023, WS 2022/2023, SS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Programovací jazyk Java"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Java Programming Language"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: It is not possible to study the course during a trip abroad."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Petr Jedlička, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Petr Jedlička, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam and Basics of Object Oriented Design"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday15.00-16.50Q06B-AIIB-OIP. JedličkaSeminarEvery week20Monday17.00-18.50Q06B-AIIB-OIP. JedličkaSeminarEvery week20Wednesday11.00-12.50Q07B-AIIB-OIP. JedličkaSeminarEvery week20Wednesday13.00-14.50Q07B-AIIB-OIP. JedličkaSeminarEvery week20Wednesday15.00-16.50Q16B-AIIB-OIP. JedličkaLectureOdd week80"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of this course is to introduce Java language as a modern object orientated programming language offering wide area of utilization. Upon successful completion of this course the student will be expected to be able to apply object-oriented paradigm to the programming of desktop applications. Successful completion of this course is a precondition for elective course Java applications."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Features and utilization of Java language (allowance 2/2) a.Features of Java languageb.Application creation and distributionc.Java platforms2.Object-oriented programming (OOP) in Java (allowance 8/8) a.Classes, interfaces, packages, access controlb.Object creation and removalc.Data types (primitive types and object types), arrays, containers, generic types in classes and methodsd.Iterators, operators and precedence, statements, control flow statements, exceptions.3.Input/output operations in Java (allowance 4/4) a.Data streamsb.Working with filesc.Data serialization and deserialization4.Code conventions for Java, rules of application development (allowance 3/3) a.Using JavaDoc for documentation generationb.Packages and JAR archivesc.Test-driven development (TDD), JUnit testing framework5.Threads (allowance 3/3) a.Multi-threaded applicationsb.Synchronizationc.Thread priority6.Java Network Programming (allowance 2/2) a.IP Network Address Representationb.Sending and receiving UDP datagramsc.Sending and receiving IP packets using TCP. Implementation of TCP client, TCP server, HTTP client7.Functional interfaces, lambda expressions, predicates, data streams (allowance 6/6) a.Functional interfacesb.Lambda expressionsc.Predicatesd.Data streams"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Features of Java languageb.Application creation and distributionc.Java platforms"
+    },
+    {
+      "label": "[section] Features and utilization of Java language",
+      "content": "a.Features of Java languageb.Application creation and distributionc.Java platforms"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Classes, interfaces, packages, access controlb.Object creation and removalc.Data types (primitive types and object types), arrays, containers, generic types in classes and methodsd.Iterators, operators and precedence, statements, control flow statements, exceptions."
+    },
+    {
+      "label": "[section] Object-oriented programming (OOP) in Java",
+      "content": "a.Classes, interfaces, packages, access controlb.Object creation and removalc.Data types (primitive types and object types), arrays, containers, generic types in classes and methodsd.Iterators, operators and precedence, statements, control flow statements, exceptions."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Data streamsb.Working with filesc.Data serialization and deserialization"
+    },
+    {
+      "label": "[section] Input/output operations in Java",
+      "content": "a.Data streamsb.Working with filesc.Data serialization and deserialization"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Using JavaDoc for documentation generationb.Packages and JAR archivesc.Test-driven development (TDD), JUnit testing framework"
+    },
+    {
+      "label": "[section] Code conventions for Java, rules of application development",
+      "content": "a.Using JavaDoc for documentation generationb.Packages and JAR archivesc.Test-driven development (TDD), JUnit testing framework"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Multi-threaded applicationsb.Synchronizationc.Thread priority"
+    },
+    {
+      "label": "[section] Threads",
+      "content": "a.Multi-threaded applicationsb.Synchronizationc.Thread priority"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.IP Network Address Representationb.Sending and receiving UDP datagramsc.Sending and receiving IP packets using TCP. Implementation of TCP client, TCP server, HTTP client"
+    },
+    {
+      "label": "[section] Java Network Programming",
+      "content": "a.IP Network Address Representationb.Sending and receiving UDP datagramsc.Sending and receiving IP packets using TCP. Implementation of TCP client, TCP server, HTTP client"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Functional interfacesb.Lambda expressionsc.Predicatesd.Data streams"
+    },
+    {
+      "label": "[section] Functional interfaces, lambda expressions, predicates, data streams",
+      "content": "a.Functional interfacesb.Lambda expressionsc.Predicatesd.Data streams"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice28 hpreparation for exam86 hpreparation for regular assessment20 hpreparation for regular testing20 hTotal168 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "To complete the course, student must obtain at least 15 points out of a possible 30 from the continuous tasks and at least 35 points out of 70 from the exam, which has a knowledge and practical part."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceMarked assignments30 %Final test70 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:PECINOVSKÝ, Rudolf. 2009. Myslíme objektově v jazyku Java: kompletní učebnice pro začátečníky. 2nd ed. Praha: Grada, 570 p. Myslíme v. ISBN 978-80-247-2653-3.PECINOVSKÝ, Rudolf. 2013. Návrhové vzory – 33 vzorových postupů pro objektové programování. Brno: Computer Press, 528 p. ISBN 978-80-251-1582-4.Recommended:ITnetwork.cz. Online kurzy programování v Javě. 2024. https://www.itnetwork.cz/javaOficiální dokumentace jazyka Java dostupná na https://docs.oracle.com/en/java/javase/index.html"
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "PECINOVSKÝ, Rudolf. 2009. Myslíme objektově v jazyku Java: kompletní učebnice pro začátečníky. 2nd ed. Praha: Grada, 570 p. Myslíme v. ISBN 978-80-247-2653-3.PECINOVSKÝ, Rudolf. 2013. Návrhové vzory – 33 vzorových postupů pro objektové programování. Brno: Computer Press, 528 p. ISBN 978-80-251-1582-4."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "ITnetwork.cz. Online kurzy programování v Javě. 2024. https://www.itnetwork.cz/javaOficiální dokumentace jazyka Java dostupná na https://docs.oracle.com/en/java/javase/index.html"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-OI Open Informatics, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:43:29",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

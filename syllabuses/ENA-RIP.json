@@ -1,0 +1,733 @@
+{
+  "courseCode": "ENA-RIP",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENA-RIP"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Řízení ICT v podniku v AJ"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Business ICT Management"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět nelze studovat studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "angličtina"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jiří Balej, Ph.D. (cvičící, přednášející, zkoušející)prof. Ing. Radim Farana, CSc., FEng. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Jaroslava Klegová, Ph.D. (cvičící, přednášející, zkoušející)Ing. Jaromír Landa, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Budování infrastruktury firemní počítačové sítě (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Hardwarové vybavení firemních pracovišť."
+    },
+    {
+      "label": "b.",
+      "content": "Návrh počítačové sítě, potřebné komponenty, možnosti připojení k Internetu."
+    },
+    {
+      "label": "c.",
+      "content": "Cloudové služby a virtualizace."
+    },
+    {
+      "label": "d.",
+      "content": "Správa a monitoring sítí a služeb, troubleshooting."
+    },
+    {
+      "label": "2.",
+      "content": "Kybernetická bezpečnost a ochrana ICT (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Řízení bezpečnosti ICT, analýza rizik, bezpečnostní hrozby a jejich zvládání."
+    },
+    {
+      "label": "b.",
+      "content": "Kryptografie, certifikáty a digitální podpis."
+    },
+    {
+      "label": "c.",
+      "content": "Technologie pro zajištění bezpečnosti ICT a dat."
+    },
+    {
+      "label": "d.",
+      "content": "Bezpečnostní politiky a školení uživatelů."
+    },
+    {
+      "label": "3.",
+      "content": "Vnější prezentace firmy (dotace 4/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Corporate design."
+    },
+    {
+      "label": "b.",
+      "content": "Redakční systémy a webhostingy."
+    },
+    {
+      "label": "c.",
+      "content": "Mobilní aplikace a jejich tvorba."
+    },
+    {
+      "label": "4.",
+      "content": "Lokační a datová analýza konkurence firmy (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Analýza okolí sídla společnosti na základě veřejných dat (ČSÚ, OSM,…)."
+    },
+    {
+      "label": "b.",
+      "content": "Základy Business a Location intelligence."
+    },
+    {
+      "label": "c.",
+      "content": "Vizualizace dat do mapy (např. o sídle společnosti a konkurence) v prostředí webu."
+    },
+    {
+      "label": "5.",
+      "content": "Rozhodování o pořízení a správě ICT (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Přehled informačních systémů - podniková informatika a řízení ICT."
+    },
+    {
+      "label": "b.",
+      "content": "Průzkum trhu a výběr aplikačního softwaru."
+    },
+    {
+      "label": "c.",
+      "content": "Podnikatelský plán."
+    },
+    {
+      "label": "6.",
+      "content": "Softwarové vybavení a podnikové informační systémy (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Analýza požadavků na informační systém."
+    },
+    {
+      "label": "b.",
+      "content": "Návrh informačního systému."
+    },
+    {
+      "label": "7.",
+      "content": "Implementace a správa informačního systému ICT nástroje pro teamovou spolupráci (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Aplikace pro podporu vedení projektů, Projektový plán."
+    },
+    {
+      "label": "b.",
+      "content": "Řízení podnikového obsahu (ECM)."
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "90 %"
+    },
+    {
+      "label": "Prezentace nebo obhajoba",
+      "content": "10 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Řízení ICT v podniku v AJ"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Business ICT Management"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět nelze studovat studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: angličtina"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jiří Balej, Ph.D. (cvičící, přednášející, zkoušející)prof. Ing. Radim Farana, CSc., FEng. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Jaroslava Klegová, Ph.D. (cvičící, přednášející, zkoušející)Ing. Jaromír Landa, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí9.00-10.50Q04N-EAMAR. Farana, J. Balej, J. Klegová, J. LandaCvičeníKaždý týden30Pondělí11.00-12.50Q03N-EAMAR. Farana, J. Balej, J. Klegová, J. LandaPřednáškaLichý týden80Středa9.00-10.50Q09N-EAMAR. Farana, J. Balej, J. Klegová, J. LandaCvičeníKaždý týden22Středa13.00-14.50Q09N-EAMAR. Farana, J. Balej, J. Klegová, J. LandaCvičeníKaždý týden22"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je poskytnout studentům znalosti v oblasti ICT rozhodování v podniku. Studenti jsou schopni vybrat IS podniku, navrhnout základní architekturu počítačové sítě nebo vybrat správný hosting pro firemní webové stránky. Studenti se také naučí vytvořit strukturu firemního ERP systému, vlastní firemní stránky a základy lokační a datové analýzy na příkladu firemního sídla."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Budování infrastruktury firemní počítačové sítě (dotace 1/2) a.Hardwarové vybavení firemních pracovišť.b.Návrh počítačové sítě, potřebné komponenty, možnosti připojení k Internetu.c.Cloudové služby a virtualizace.d.Správa a monitoring sítí a služeb, troubleshooting.2.Kybernetická bezpečnost a ochrana ICT (dotace 1/2) a.Řízení bezpečnosti ICT, analýza rizik, bezpečnostní hrozby a jejich zvládání.b.Kryptografie, certifikáty a digitální podpis.c.Technologie pro zajištění bezpečnosti ICT a dat.d.Bezpečnostní politiky a školení uživatelů.3.Vnější prezentace firmy (dotace 4/8) a.Corporate design.b.Redakční systémy a webhostingy.c.Mobilní aplikace a jejich tvorba.4.Lokační a datová analýza konkurence firmy (dotace 1/2) a.Analýza okolí sídla společnosti na základě veřejných dat (ČSÚ, OSM,…).b.Základy Business a Location intelligence.c.Vizualizace dat do mapy (např. o sídle společnosti a konkurence) v prostředí webu.5.Rozhodování o pořízení a správě ICT (dotace 1/2) a.Přehled informačních systémů - podniková informatika a řízení ICT.b.Průzkum trhu a výběr aplikačního softwaru.c.Podnikatelský plán.6.Softwarové vybavení a podnikové informační systémy (dotace 2/6) a.Analýza požadavků na informační systém.b.Návrh informačního systému.7.Implementace a správa informačního systému ICT nástroje pro teamovou spolupráci (dotace 2/2) a.Aplikace pro podporu vedení projektů, Projektový plán.b.Řízení podnikového obsahu (ECM)."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Hardwarové vybavení firemních pracovišť.b.Návrh počítačové sítě, potřebné komponenty, možnosti připojení k Internetu.c.Cloudové služby a virtualizace.d.Správa a monitoring sítí a služeb, troubleshooting."
+    },
+    {
+      "label": "[section] Budování infrastruktury firemní počítačové sítě",
+      "content": "a.Hardwarové vybavení firemních pracovišť.b.Návrh počítačové sítě, potřebné komponenty, možnosti připojení k Internetu.c.Cloudové služby a virtualizace.d.Správa a monitoring sítí a služeb, troubleshooting."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Řízení bezpečnosti ICT, analýza rizik, bezpečnostní hrozby a jejich zvládání.b.Kryptografie, certifikáty a digitální podpis.c.Technologie pro zajištění bezpečnosti ICT a dat.d.Bezpečnostní politiky a školení uživatelů."
+    },
+    {
+      "label": "[section] Kybernetická bezpečnost a ochrana ICT",
+      "content": "a.Řízení bezpečnosti ICT, analýza rizik, bezpečnostní hrozby a jejich zvládání.b.Kryptografie, certifikáty a digitální podpis.c.Technologie pro zajištění bezpečnosti ICT a dat.d.Bezpečnostní politiky a školení uživatelů."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Corporate design.b.Redakční systémy a webhostingy.c.Mobilní aplikace a jejich tvorba."
+    },
+    {
+      "label": "[section] Vnější prezentace firmy",
+      "content": "a.Corporate design.b.Redakční systémy a webhostingy.c.Mobilní aplikace a jejich tvorba."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Analýza okolí sídla společnosti na základě veřejných dat (ČSÚ, OSM,…).b.Základy Business a Location intelligence.c.Vizualizace dat do mapy (např. o sídle společnosti a konkurence) v prostředí webu."
+    },
+    {
+      "label": "[section] Lokační a datová analýza konkurence firmy",
+      "content": "a.Analýza okolí sídla společnosti na základě veřejných dat (ČSÚ, OSM,…).b.Základy Business a Location intelligence.c.Vizualizace dat do mapy (např. o sídle společnosti a konkurence) v prostředí webu."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Přehled informačních systémů - podniková informatika a řízení ICT.b.Průzkum trhu a výběr aplikačního softwaru.c.Podnikatelský plán."
+    },
+    {
+      "label": "[section] Rozhodování o pořízení a správě ICT",
+      "content": "a.Přehled informačních systémů - podniková informatika a řízení ICT.b.Průzkum trhu a výběr aplikačního softwaru.c.Podnikatelský plán."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Analýza požadavků na informační systém.b.Návrh informačního systému."
+    },
+    {
+      "label": "[section] Softwarové vybavení a podnikové informační systémy",
+      "content": "a.Analýza požadavků na informační systém.b.Návrh informačního systému."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Aplikace pro podporu vedení projektů, Projektový plán.b.Řízení podnikového obsahu (ECM)."
+    },
+    {
+      "label": "[section] Implementace a správa informačního systému ICT nástroje pro teamovou spolupráci",
+      "content": "a.Aplikace pro podporu vedení projektů, Projektový plán.b.Řízení podnikového obsahu (ECM)."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška12 hcvičení24 hkonzultace14 hveřejná prezentace (ústní)2 hpříprava prezentace8 hzpracování projektů52 hCelkem112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Na začátku semestru studenti zpracují úvodní studii, ve které se pokusí na základě dosavadních znalostí a zkušeností navrhnout optimální řešení pro konkrétní firmu se zadanými požadavky (zaměření, počet zaměstnanců, geografické umístění apod.). V průběhu semestru se studenti seznámí s aktuálními trendy v oblasti ICT a získají rovněž manažerský pohled na rozhodování o ICT, který zužitkují v závěrečném projektu. Ten bude obsahovat kompletní analýzu potřeb firmy a podrobný návrh řešení v jednotlivých oblastech (hardware, software, ERP systém, vnější prezentace) včetně finančních dopadů. Předmět je ukončen obhajobou tohoto projektu. Z projektu je možné získat maximálně 100 bodů. Škála hodnocení: méně než 60 bodů F, 60 bodů a více E, 68 bodů a více D, 75 bodů a více C, 83 bodů a více B a 90 bodů a více A."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumVypracování semestrální práce90 %Prezentace nebo obhajoba10 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:DANNHOFEROVÁ, Jana. 2012. Velká kniha barev: kompletní průvodce pro grafiky, fotografy a designéry. 1. vyd. Brno: Computer Press, 352 s. ISBN 978-80-251-3785-7.SMEJKAL, Vladimír; RAIS, Karel. 2013. Řízení rizik ve firmách a jiných organizacích. 4. vyd. Praha: Grada, 483 s. ISBN 978-80-247-4644-9.ERL, Thomas; MAHMOOD, Zaigham. 2013. Cloud computing: concepts, technology & architecture. Upper saddle river: Prentice hall, 487 s. ISBN 978-0-13-338752-0.HORÁK, Jaroslav; KERŠLÁGER, Milan. 2011. Počítačové sítě pro začínající správce. 5. vyd. Brno: Computer Press, 303 s. ISBN 978-80-251-3176-3.Doporučená:Oracle. Oracle academy [on-line]. Available from web: https://academy.oracle.com/en/oa-web-overview.html. [cit. 2024-02-08]."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "DANNHOFEROVÁ, Jana. 2012. Velká kniha barev: kompletní průvodce pro grafiky, fotografy a designéry. 1. vyd. Brno: Computer Press, 352 s. ISBN 978-80-251-3785-7.SMEJKAL, Vladimír; RAIS, Karel. 2013. Řízení rizik ve firmách a jiných organizacích. 4. vyd. Praha: Grada, 483 s. ISBN 978-80-247-4644-9.ERL, Thomas; MAHMOOD, Zaigham. 2013. Cloud computing: concepts, technology & architecture. Upper saddle river: Prentice hall, 487 s. ISBN 978-0-13-338752-0.HORÁK, Jaroslav; KERŠLÁGER, Milan. 2011. Počítačové sítě pro začínající správce. 5. vyd. Brno: Computer Press, 303 s. ISBN 978-80-251-3176-3."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "Oracle. Oracle academy [on-line]. Available from web: https://academy.oracle.com/en/oa-web-overview.html. [cit. 2024-02-08]."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Specializace ENMA Management v AJ, prezenční forma, počáteční období ZS 2024/2025Specializace ENLZMLA Lidské zdroje a mezinárodní leadership v AJ, prezenční forma, počáteční období ZS 2024/2025Specializace ENLZMLA Lidské zdroje a mezinárodní leadership v AJ, prezenční forma, počáteční období LS 2024/2025Specializace ENMA Management v AJ, prezenční forma, počáteční období LS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENA-RIP"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Řízení ICT v podniku v AJ"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Business ICT Management"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The subject cannot be attended during foreign trip."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "English"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jiří Balej, Ph.D. (examiner, instructor, lecturer)prof. Ing. Radim Farana, CSc., FEng. (examiner, instructor, lecturer, supervisor, tutor)Ing. Jaroslava Klegová, Ph.D. (examiner, instructor, lecturer)Ing. Jaromír Landa, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Building an infrastructure of company computer network (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Hardware of company workplaces."
+    },
+    {
+      "label": "b.",
+      "content": "Design of computer network, necessary components, connectivity to the Internet."
+    },
+    {
+      "label": "c.",
+      "content": "Cloud services and virtualization."
+    },
+    {
+      "label": "d.",
+      "content": "Management and monitoring of networks and services, troubleshooting."
+    },
+    {
+      "label": "2.",
+      "content": "Cybersecurity and protection of ICT (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Cybersecurity management, risk analysis, security threats and its mitigation."
+    },
+    {
+      "label": "b.",
+      "content": "Cryptography, certificates, digital signature."
+    },
+    {
+      "label": "c.",
+      "content": "Technology to ensure ICT and data security."
+    },
+    {
+      "label": "d.",
+      "content": "Security policy and user training."
+    },
+    {
+      "label": "3.",
+      "content": "External presentation of a company (allowance 4/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Corporate design"
+    },
+    {
+      "label": "b.",
+      "content": "Content management systems and webhostings"
+    },
+    {
+      "label": "c.",
+      "content": "Mobile applications"
+    },
+    {
+      "label": "4.",
+      "content": "Location and data analysis of the company's competition (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Analysis of the surroundings of the company headquarters based on public data (ČSÚ, OSM,...)"
+    },
+    {
+      "label": "b.",
+      "content": "Basics of Business and Location intelligence"
+    },
+    {
+      "label": "c.",
+      "content": "Visualization of data into a map (e.g. about company headquarters and competitors) in the web environment"
+    },
+    {
+      "label": "5.",
+      "content": "Decision about ICT purchase and management (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Information Systems overview (ERP, CRM) - enterprise informatics and ICT management."
+    },
+    {
+      "label": "b.",
+      "content": "Market research and application software selection."
+    },
+    {
+      "label": "c.",
+      "content": "Business Plan."
+    },
+    {
+      "label": "6.",
+      "content": "Software equipment and business information systems (allowance 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Analysis of IS requirements."
+    },
+    {
+      "label": "b.",
+      "content": "Design of IS system."
+    },
+    {
+      "label": "c.",
+      "content": "Implementation and administration of IS."
+    },
+    {
+      "label": "7.",
+      "content": "ICT tools for team collaboration (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Project management application and Project plan."
+    },
+    {
+      "label": "b.",
+      "content": "Enterprise content management (ECM)."
+    },
+    {
+      "label": "Term paper",
+      "content": "90 %"
+    },
+    {
+      "label": "Presentation or defence",
+      "content": "10 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Řízení ICT v podniku v AJ"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Business ICT Management"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The subject cannot be attended during foreign trip."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: English"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jiří Balej, Ph.D. (examiner, instructor, lecturer)prof. Ing. Radim Farana, CSc., FEng. (examiner, instructor, lecturer, supervisor, tutor)Ing. Jaroslava Klegová, Ph.D. (examiner, instructor, lecturer)Ing. Jaromír Landa, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday9.00-10.50Q04N-EAMAR. Farana, J. Balej, J. Klegová, J. LandaSeminarEvery week30Monday11.00-12.50Q03N-EAMAR. Farana, J. Balej, J. Klegová, J. LandaLectureOdd week80Wednesday9.00-10.50Q09N-EAMAR. Farana, J. Balej, J. Klegová, J. LandaSeminarEvery week22Wednesday13.00-14.50Q09N-EAMAR. Farana, J. Balej, J. Klegová, J. LandaSeminarEvery week22"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to provide students with knowledge in the field of ICT decision-making in the company. Students are able to choose a company's information system, design the basic architecture of a computer network or choose the right hosting for a company's website. Students will also learn to create their own company ERP system structure, web pages and the basics of location and data analysis using the example of a company headquarters."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Building an infrastructure of company computer network (allowance 1/2) a.Hardware of company workplaces.b.Design of computer network, necessary components, connectivity to the Internet.c.Cloud services and virtualization.d.Management and monitoring of networks and services, troubleshooting.2.Cybersecurity and protection of ICT (allowance 1/2) a.Cybersecurity management, risk analysis, security threats and its mitigation.b.Cryptography, certificates, digital signature.c.Technology to ensure ICT and data security.d.Security policy and user training.3.External presentation of a company (allowance 4/8) a.Corporate designb.Content management systems and webhostingsc.Mobile applications4.Location and data analysis of the company's competition (allowance 1/2) a.Analysis of the surroundings of the company headquarters based on public data (ČSÚ, OSM,...)b.Basics of Business and Location intelligencec.Visualization of data into a map (e.g. about company headquarters and competitors) in the web environment5.Decision about ICT purchase and management (allowance 1/2) a.Information Systems overview (ERP, CRM) - enterprise informatics and ICT management.b.Market research and application software selection.c.Business Plan.6.Software equipment and business information systems (allowance 2/6) a.Analysis of IS requirements.b.Design of IS system.c.Implementation and administration of IS.7.ICT tools for team collaboration (allowance 2/2) a.Project management application and Project plan.b.Enterprise content management (ECM)."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Hardware of company workplaces.b.Design of computer network, necessary components, connectivity to the Internet.c.Cloud services and virtualization.d.Management and monitoring of networks and services, troubleshooting."
+    },
+    {
+      "label": "[section] Building an infrastructure of company computer network",
+      "content": "a.Hardware of company workplaces.b.Design of computer network, necessary components, connectivity to the Internet.c.Cloud services and virtualization.d.Management and monitoring of networks and services, troubleshooting."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Cybersecurity management, risk analysis, security threats and its mitigation.b.Cryptography, certificates, digital signature.c.Technology to ensure ICT and data security.d.Security policy and user training."
+    },
+    {
+      "label": "[section] Cybersecurity and protection of ICT",
+      "content": "a.Cybersecurity management, risk analysis, security threats and its mitigation.b.Cryptography, certificates, digital signature.c.Technology to ensure ICT and data security.d.Security policy and user training."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Corporate designb.Content management systems and webhostingsc.Mobile applications"
+    },
+    {
+      "label": "[section] External presentation of a company",
+      "content": "a.Corporate designb.Content management systems and webhostingsc.Mobile applications"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Analysis of the surroundings of the company headquarters based on public data (ČSÚ, OSM,...)b.Basics of Business and Location intelligencec.Visualization of data into a map (e.g. about company headquarters and competitors) in the web environment"
+    },
+    {
+      "label": "[section] Location and data analysis of the company's competition",
+      "content": "a.Analysis of the surroundings of the company headquarters based on public data (ČSÚ, OSM,...)b.Basics of Business and Location intelligencec.Visualization of data into a map (e.g. about company headquarters and competitors) in the web environment"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Information Systems overview (ERP, CRM) - enterprise informatics and ICT management.b.Market research and application software selection.c.Business Plan."
+    },
+    {
+      "label": "[section] Decision about ICT purchase and management",
+      "content": "a.Information Systems overview (ERP, CRM) - enterprise informatics and ICT management.b.Market research and application software selection.c.Business Plan."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Analysis of IS requirements.b.Design of IS system.c.Implementation and administration of IS."
+    },
+    {
+      "label": "[section] Software equipment and business information systems",
+      "content": "a.Analysis of IS requirements.b.Design of IS system.c.Implementation and administration of IS."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Project management application and Project plan.b.Enterprise content management (ECM)."
+    },
+    {
+      "label": "[section] ICT tools for team collaboration",
+      "content": "a.Project management application and Project plan.b.Enterprise content management (ECM)."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture12 hpractice24 hconsultation14 hpublic presentation (oral)2 hpreparation of presentation8 helaboration and execution of projects52 hTotal112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "At the beginning of the semester, students will prepare an initial study- in the study they will attempt to propose (based on previous knowledge and experience) an optimal solution for a given company with specified requirements (specialization, number of employees, geographic location, etc.). During the semester, students will become familiar with the current trends in ICT and they will also get a managerial perspective on decision-making about ICT. The final project will contain a complex analysis of the needs of the company and a detailed proposal in particular areas (hardware, software, ERP system, external presentations), including the financial implications. The course is completed by a defence of this project. Students can get up to 100 points from the projekt. Points for grade: less than 60 points F, 60 points and more E, 68 points and more D, 75 points and more C, 83 points and more B a 90 points and more A."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTerm paper90 %Presentation or defence10 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:DANNHOFEROVÁ, Jana. 2012. Velká kniha barev: kompletní průvodce pro grafiky, fotografy a designéry. 1st ed. Brno: Computer Press, 352 p. ISBN 978-80-251-3785-7.SMEJKAL, Vladimír; RAIS, Karel. 2013. Řízení rizik ve firmách a jiných organizacích. 4th ed. Praha: Grada, 483 p. ISBN 978-80-247-4644-9.ERL, Thomas; MAHMOOD, Zaigham. 2013. Cloud computing: concepts, technology & architecture. Upper saddle river: Prentice hall, 487 p. ISBN 978-0-13-338752-0.HORÁK, Jaroslav; KERŠLÁGER, Milan. 2011. Počítačové sítě pro začínající správce. 5th ed. Brno: Computer Press, 303 p. ISBN 978-80-251-3176-3.Recommended:Oracle. Oracle academy [on-line]. Available from web: https://academy.oracle.com/en/oa-web-overview.html. [cit. 2024-02-08]."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "DANNHOFEROVÁ, Jana. 2012. Velká kniha barev: kompletní průvodce pro grafiky, fotografy a designéry. 1st ed. Brno: Computer Press, 352 p. ISBN 978-80-251-3785-7.SMEJKAL, Vladimír; RAIS, Karel. 2013. Řízení rizik ve firmách a jiných organizacích. 4th ed. Praha: Grada, 483 p. ISBN 978-80-247-4644-9.ERL, Thomas; MAHMOOD, Zaigham. 2013. Cloud computing: concepts, technology & architecture. Upper saddle river: Prentice hall, 487 p. ISBN 978-0-13-338752-0.HORÁK, Jaroslav; KERŠLÁGER, Milan. 2011. Počítačové sítě pro začínající správce. 5th ed. Brno: Computer Press, 303 p. ISBN 978-80-251-3176-3."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "Oracle. Oracle academy [on-line]. Available from web: https://academy.oracle.com/en/oa-web-overview.html. [cit. 2024-02-08]."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Track ENMA Management, full-time form, initial period WS 2024/2025Track ENLZMLA Human Resources and International Leadership, full-time form, initial period WS 2024/2025Track ENLZMLA Human Resources and International Leadership, full-time form, initial period SS 2024/2025Track ENMA Management, full-time form, initial period SS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:53:35",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

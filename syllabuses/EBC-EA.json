@@ -1,0 +1,769 @@
+{
+  "courseCode": "EBC-EA",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-EA"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Enterprise aplikace"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Enterprise Applications"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět je možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Ivo Pisařovic, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Eliška Chylíková (cvičící, tutor, zkoušející)Ing. Ivo Pisařovic, Ph.D. (garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do Springu (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Vytvoření a konfigurace projektu"
+    },
+    {
+      "label": "b.",
+      "content": "Instalace knihoven a sestavení pomocí Gradlu"
+    },
+    {
+      "label": "c.",
+      "content": "Spuštění projektu"
+    },
+    {
+      "label": "d.",
+      "content": "Vytvoření prvního backendu s REST API"
+    },
+    {
+      "label": "2.",
+      "content": "Pokročilé koncepty webových aplikací (dotace 4/12)"
+    },
+    {
+      "label": "a.",
+      "content": "Zabezpečení, autentizace, šifrování a hashování"
+    },
+    {
+      "label": "b.",
+      "content": "Dependency injection"
+    },
+    {
+      "label": "c.",
+      "content": "Komunikační protokoly (REST API, WebSocket, SOAP, GRPC)"
+    },
+    {
+      "label": "d.",
+      "content": "Práce s databází pomocí Spring Data JPA, Hibernate, JPQL, transakce"
+    },
+    {
+      "label": "e.",
+      "content": "Testování jednotkovými, integračními a výkonnostními testy"
+    },
+    {
+      "label": "3.",
+      "content": "Debugging a vývojářské nástroje (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Síťové protokoly, sledování komunikace, analýza hlaviček, requestu a response."
+    },
+    {
+      "label": "b.",
+      "content": "Vývojářské nástroje IDEA, pgAdmin, DevTools, Insomnia"
+    },
+    {
+      "label": "c.",
+      "content": "Běh aplikace na zařízení (localhost), porty, zpřístupnění do místní sítě pro testování na mobilních zařízeních, zpřístupnění do internetu (ngrok)."
+    },
+    {
+      "label": "d.",
+      "content": "Debuggování, breakpointy, podmíněné breakpointy, sledování a úprava proměnných za běhu aplikace."
+    },
+    {
+      "label": "e.",
+      "content": "Čtení chybových hlášek, rozhodování se o způsobu řešení problému (googlování, AI, breakpointy, odstup od kódu)."
+    },
+    {
+      "label": "4.",
+      "content": "Velké projekty (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Optimalizace přenášených dat, komprese, optimalizace JSONu a médií"
+    },
+    {
+      "label": "b.",
+      "content": "Optimalizace výkonu, cachování, load balancing"
+    },
+    {
+      "label": "c.",
+      "content": "Ochrana proti DDoS, email enumeration a dalšími masivními útoky"
+    },
+    {
+      "label": "d.",
+      "content": "Struktura projektů, monorepo přístup, odpovědnost vývojářů"
+    },
+    {
+      "label": "5.",
+      "content": "Nasazování (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Kontejnerizace v Dockeru a Docker Compose"
+    },
+    {
+      "label": "b.",
+      "content": "Docker networks"
+    },
+    {
+      "label": "c.",
+      "content": "Docker volumes"
+    },
+    {
+      "label": "d.",
+      "content": "Proměnné prostředí"
+    },
+    {
+      "label": "e.",
+      "content": "Continuous Integration"
+    },
+    {
+      "label": "6.",
+      "content": "Komplexní pohled na webové aplikace od uživatele po server (shrnutí) (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Architektury"
+    },
+    {
+      "label": "b.",
+      "content": "Technologie"
+    },
+    {
+      "label": "c.",
+      "content": "Komunikace"
+    },
+    {
+      "label": "d.",
+      "content": "Bezpečnost"
+    },
+    {
+      "label": "e.",
+      "content": "Novinky a chystané změny"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "40 %"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "20 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "40 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Enterprise aplikace"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Enterprise Applications"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Ivo Pisařovic, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Eliška Chylíková (cvičící, tutor, zkoušející)Ing. Ivo Pisařovic, Ph.D. (garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí9.00-10.50Q16B-OII. PisařovicPřednáškaSudý týden80Pondělí13.00-14.50Q05B-OIE. ChylíkováCvičeníKaždý týden25Pondělí15.00-16.50Q05B-OIE. ChylíkováCvičeníKaždý týden25"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Informační systém velkých korporací, který denně zpracuje milion objednávek. Internetové bankovnictví, kterým ročně projde 50 milionů transakcí. Systém, který navádí záchranáře na místo nehody. Všechny tyto systémy spojuje velký důraz na stabilitu, zabezpečení a výkon. V tomto předmětu se dozvíte, jaké technologie a architektury použít pro vývoj takových aplikací. Naučíte se vytvářet aplikace, kde bezpečnost není pouze přidaná funkcionalita, ale neoddělitelná součást architektury. Poznáte frameworky, které cílí na stabilní aplikace, které budou v provozu desítky let. Vyzkoušíte si cachování a techniky rozložení zátěže pro zlepšení výkonu aplikací, které budou používat tisíce uživatelů každou sekundu. Pro zajištění udržitelnosti budou vytvářené aplikace testované automatickými testy na všech úrovních."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do Springu (dotace 2/2) a.Vytvoření a konfigurace projektub.Instalace knihoven a sestavení pomocí Gradluc.Spuštění projektud.Vytvoření prvního backendu s REST API2.Pokročilé koncepty webových aplikací (dotace 4/12) a.Zabezpečení, autentizace, šifrování a hashováníb.Dependency injectionc.Komunikační protokoly (REST API, WebSocket, SOAP, GRPC)d.Práce s databází pomocí Spring Data JPA, Hibernate, JPQL, transakcee.Testování jednotkovými, integračními a výkonnostními testy3.Debugging a vývojářské nástroje (dotace 2/4) a.Síťové protokoly, sledování komunikace, analýza hlaviček, requestu a response.b.Vývojářské nástroje IDEA, pgAdmin, DevTools, Insomniac.Běh aplikace na zařízení (localhost), porty, zpřístupnění do místní sítě pro testování na mobilních zařízeních, zpřístupnění do internetu (ngrok).d.Debuggování, breakpointy, podmíněné breakpointy, sledování a úprava proměnných za běhu aplikace.e.Čtení chybových hlášek, rozhodování se o způsobu řešení problému (googlování, AI, breakpointy, odstup od kódu).4.Velké projekty (dotace 2/6) a.Optimalizace přenášených dat, komprese, optimalizace JSONu a médiíb.Optimalizace výkonu, cachování, load balancingc.Ochrana proti DDoS, email enumeration a dalšími masivními útokyd.Struktura projektů, monorepo přístup, odpovědnost vývojářů5.Nasazování (dotace 2/4) a.Kontejnerizace v Dockeru a Docker Composeb.Docker networksc.Docker volumesd.Proměnné prostředíe.Continuous Integration6.Komplexní pohled na webové aplikace od uživatele po server (shrnutí) (dotace 2/0) a.Architekturyb.Technologiec.Komunikaced.Bezpečnoste.Novinky a chystané změny"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Vytvoření a konfigurace projektub.Instalace knihoven a sestavení pomocí Gradluc.Spuštění projektud.Vytvoření prvního backendu s REST API"
+    },
+    {
+      "label": "[section] Úvod do Springu",
+      "content": "a.Vytvoření a konfigurace projektub.Instalace knihoven a sestavení pomocí Gradluc.Spuštění projektud.Vytvoření prvního backendu s REST API"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Zabezpečení, autentizace, šifrování a hashováníb.Dependency injectionc.Komunikační protokoly (REST API, WebSocket, SOAP, GRPC)d.Práce s databází pomocí Spring Data JPA, Hibernate, JPQL, transakcee.Testování jednotkovými, integračními a výkonnostními testy"
+    },
+    {
+      "label": "[section] Pokročilé koncepty webových aplikací",
+      "content": "a.Zabezpečení, autentizace, šifrování a hashováníb.Dependency injectionc.Komunikační protokoly (REST API, WebSocket, SOAP, GRPC)d.Práce s databází pomocí Spring Data JPA, Hibernate, JPQL, transakcee.Testování jednotkovými, integračními a výkonnostními testy"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Síťové protokoly, sledování komunikace, analýza hlaviček, requestu a response.b.Vývojářské nástroje IDEA, pgAdmin, DevTools, Insomniac.Běh aplikace na zařízení (localhost), porty, zpřístupnění do místní sítě pro testování na mobilních zařízeních, zpřístupnění do internetu (ngrok).d.Debuggování, breakpointy, podmíněné breakpointy, sledování a úprava proměnných za běhu aplikace.e.Čtení chybových hlášek, rozhodování se o způsobu řešení problému (googlování, AI, breakpointy, odstup od kódu)."
+    },
+    {
+      "label": "[section] Debugging a vývojářské nástroje",
+      "content": "a.Síťové protokoly, sledování komunikace, analýza hlaviček, requestu a response.b.Vývojářské nástroje IDEA, pgAdmin, DevTools, Insomniac.Běh aplikace na zařízení (localhost), porty, zpřístupnění do místní sítě pro testování na mobilních zařízeních, zpřístupnění do internetu (ngrok).d.Debuggování, breakpointy, podmíněné breakpointy, sledování a úprava proměnných za běhu aplikace.e.Čtení chybových hlášek, rozhodování se o způsobu řešení problému (googlování, AI, breakpointy, odstup od kódu)."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Optimalizace přenášených dat, komprese, optimalizace JSONu a médiíb.Optimalizace výkonu, cachování, load balancingc.Ochrana proti DDoS, email enumeration a dalšími masivními útokyd.Struktura projektů, monorepo přístup, odpovědnost vývojářů"
+    },
+    {
+      "label": "[section] Velké projekty",
+      "content": "a.Optimalizace přenášených dat, komprese, optimalizace JSONu a médiíb.Optimalizace výkonu, cachování, load balancingc.Ochrana proti DDoS, email enumeration a dalšími masivními útokyd.Struktura projektů, monorepo přístup, odpovědnost vývojářů"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Kontejnerizace v Dockeru a Docker Composeb.Docker networksc.Docker volumesd.Proměnné prostředíe.Continuous Integration"
+    },
+    {
+      "label": "[section] Nasazování",
+      "content": "a.Kontejnerizace v Dockeru a Docker Composeb.Docker networksc.Docker volumesd.Proměnné prostředíe.Continuous Integration"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Architekturyb.Technologiec.Komunikaced.Bezpečnoste.Novinky a chystané změny"
+    },
+    {
+      "label": "[section] Komplexní pohled na webové aplikace od uživatele po server (shrnutí)",
+      "content": "a.Architekturyb.Technologiec.Komunikaced.Bezpečnoste.Novinky a chystané změny"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení28 hpříprava na zkoušku20 hpříprava na průběžný test20 hzpracování projektů58 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "# Průběžná písemka - 20 bodů, min. 0 - Na cvičení v 7. týdnu semestru - Implementace části backendové aplikace. - Vyhodnocení proběhne automatickými testy. - Písemku je možné jednou opravovat. # Projekt - 40 bodů, min. 20 - V rámci projektu studenti implementují vlastní backendovou aplikaci. - Projekt vypracuje každý individuálně. - Na projektu se pracuje průběžně, to je prokázáno commity v git repozitáři. - Součástí projektu musí být rozsáhlá sada automatických testů, které budou prokazovat funkčnost a zabezpečení backendu. # Zkouška - 40 bodů, min. 20 - Ústní zkouška spojená s obhajobou projektu. - Ověřování teoretických znalostí z přednášek v kontextu obhajovaného projektu. Výsledná známka je součtem bodů za průběžný test, projekt a zkoušku. Celkově lze získat maximálně 100 bodů. Pro úspěšné ukončení je třeba získat minimálně 60 bodů. A 90 - 100 B 83 - 89 C 75 - 82 D 68 - 74 E 60 - 67 F 0 - 59"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumVypracování semestrální práce40 %Absolvování průběžného testu (testů)20 %Absolvování závěrečné ústní zkoušky40 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:BAELDUNG, Kolektiv autorů. 2024. Learn Spring Boot. Baeldung. https://www.baeldung.com/spring-boot.SPRING IO, Kolektiv autorů. 2024. Accessing Data with JPA. https://spring.io/guides/gs/accessing-data-jpa/.Doporučená:HOFFMAN, Andrew. Web Application Security. 2nd Edition. O'Reilly Media, 2024. ISBN 9781098143930.LOY, Marc, Patrick NIEMEYER a Daniel LEUCK. Learning Java. 6th Edition. O'Reilly Media, 2023. ISBN 9781098145538.TURNQUIST, Greg L. Learning Spring Boot 3.0. Third Edition. Packt Publishing, 2022. ISBN 9781803233307."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "BAELDUNG, Kolektiv autorů. 2024. Learn Spring Boot. Baeldung. https://www.baeldung.com/spring-boot.SPRING IO, Kolektiv autorů. 2024. Accessing Data with JPA. https://spring.io/guides/gs/accessing-data-jpa/."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "HOFFMAN, Andrew. Web Application Security. 2nd Edition. O'Reilly Media, 2024. ISBN 9781098143930.LOY, Marc, Patrick NIEMEYER a Daniel LEUCK. Learning Java. 6th Edition. O'Reilly Media, 2023. ISBN 9781098145538.TURNQUIST, Greg L. Learning Spring Boot 3.0. Third Edition. Packt Publishing, 2022. ISBN 9781803233307."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Zaměření ZBOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období ZS 2022/2023"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-EA"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Enterprise aplikace"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Enterprise Applications"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course can be studied by mobility students abroad."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Ivo Pisařovic, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Eliška Chylíková (examiner, instructor, tutor)Ing. Ivo Pisařovic, Ph.D. (examiner, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to Spring (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Creating a project and its configuration"
+    },
+    {
+      "label": "b.",
+      "content": "Dependencies installation and Gradle build"
+    },
+    {
+      "label": "c.",
+      "content": "Running the project"
+    },
+    {
+      "label": "d.",
+      "content": "Creating your first backend with REST API"
+    },
+    {
+      "label": "2.",
+      "content": "Advanced concepts of web applications (allowance 4/12)"
+    },
+    {
+      "label": "a.",
+      "content": "Security, authentication, encryption and hashing"
+    },
+    {
+      "label": "b.",
+      "content": "Dependency injection"
+    },
+    {
+      "label": "c.",
+      "content": "Communication protocols (REST API, WebSocket, SOAP, GRPC)"
+    },
+    {
+      "label": "d.",
+      "content": "Working with database using Spring Data JPA, Hibernate, JPQL, transactions"
+    },
+    {
+      "label": "e.",
+      "content": "Testing with unit, integration and performance tests"
+    },
+    {
+      "label": "3.",
+      "content": "Debugging and developer tools (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Network protocols, communication monitoring, analysis of headers, request and response"
+    },
+    {
+      "label": "b.",
+      "content": "Developer tools IDEA, pgAdmin, DevTools, Insomnia"
+    },
+    {
+      "label": "c.",
+      "content": "Running app on your device (localhost), ports, publishing your app to your local network for testing on mobile devices, publishing to the internet (ngrok)"
+    },
+    {
+      "label": "d.",
+      "content": "Debugging, breakpoints, conditional breakpoints, watching and editing variables in runtime"
+    },
+    {
+      "label": "e.",
+      "content": "Reading error messages, deciding on how to solve a problem (googling, AI, breakpoints, taking a break)"
+    },
+    {
+      "label": "4.",
+      "content": "Large projects (allowance 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Optimization of transferred data, compression, optimization of JSON and media files"
+    },
+    {
+      "label": "b.",
+      "content": "Optimization of performance, caching, load balancing"
+    },
+    {
+      "label": "c.",
+      "content": "Protection against DDoS, email enumeration and other brute force attacks"
+    },
+    {
+      "label": "d.",
+      "content": "Project structure, monorepo approach, developer responsibility"
+    },
+    {
+      "label": "5.",
+      "content": "Deployment (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Containerization in Docker and Docker Compose"
+    },
+    {
+      "label": "b.",
+      "content": "Docker networks"
+    },
+    {
+      "label": "c.",
+      "content": "Docker volumes"
+    },
+    {
+      "label": "d.",
+      "content": "Environment variables"
+    },
+    {
+      "label": "e.",
+      "content": "Continuous integration"
+    },
+    {
+      "label": "6.",
+      "content": "Complex view on web applications from users to servers (summary) (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Architectures"
+    },
+    {
+      "label": "b.",
+      "content": "Technologies"
+    },
+    {
+      "label": "c.",
+      "content": "Communication"
+    },
+    {
+      "label": "d.",
+      "content": "Security"
+    },
+    {
+      "label": "e.",
+      "content": "News and upcoming changes"
+    },
+    {
+      "label": "Term paper",
+      "content": "40 %"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "20 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "40 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Enterprise aplikace"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Enterprise Applications"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course can be studied by mobility students abroad."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Ivo Pisařovic, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Eliška Chylíková (examiner, instructor, tutor)Ing. Ivo Pisařovic, Ph.D. (examiner, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday9.00-10.50Q16B-OII. PisařovicLectureEven week80Monday13.00-14.50Q05B-OIE. ChylíkováSeminarEvery week25Monday15.00-16.50Q05B-OIE. ChylíkováSeminarEvery week25"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "An information system of a large corporation that processes one million orders per day. An internet banking app that handles 50 million transactions per year. A system that guides emergency responders to the scene of an accident. All these systems share a strong emphasis on stability, security and performance. In this course, you will learn how to choose technologies and architectures to develop such applications. How to create applications where security is not just an added functionality but an integral part of the architecture. We will explore frameworks that target stable applications that will be in use for decades. Caching and load balancing techniques will be incorporated to improve the performance of applications that will be used by thousands of users every second. To ensure sustainability, the applications you create will be tested with automated tests at all levels."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to Spring (allowance 2/2) a.Creating a project and its configurationb.Dependencies installation and Gradle buildc.Running the projectd.Creating your first backend with REST API2.Advanced concepts of web applications (allowance 4/12) a.Security, authentication, encryption and hashingb.Dependency injectionc.Communication protocols (REST API, WebSocket, SOAP, GRPC)d.Working with database using Spring Data JPA, Hibernate, JPQL, transactionse.Testing with unit, integration and performance tests3.Debugging and developer tools (allowance 2/4) a.Network protocols, communication monitoring, analysis of headers, request and responseb.Developer tools IDEA, pgAdmin, DevTools, Insomniac.Running app on your device (localhost), ports, publishing your app to your local network for testing on mobile devices, publishing to the internet (ngrok)d.Debugging, breakpoints, conditional breakpoints, watching and editing variables in runtimee.Reading error messages, deciding on how to solve a problem (googling, AI, breakpoints, taking a break)4.Large projects (allowance 2/6) a.Optimization of transferred data, compression, optimization of JSON and media filesb.Optimization of performance, caching, load balancingc.Protection against DDoS, email enumeration and other brute force attacksd.Project structure, monorepo approach, developer responsibility5.Deployment (allowance 2/4) a.Containerization in Docker and Docker Composeb.Docker networksc.Docker volumesd.Environment variablese.Continuous integration6.Complex view on web applications from users to servers (summary) (allowance 2/0) a.Architecturesb.Technologiesc.Communicationd.Securitye.News and upcoming changes"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Creating a project and its configurationb.Dependencies installation and Gradle buildc.Running the projectd.Creating your first backend with REST API"
+    },
+    {
+      "label": "[section] Introduction to Spring",
+      "content": "a.Creating a project and its configurationb.Dependencies installation and Gradle buildc.Running the projectd.Creating your first backend with REST API"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Security, authentication, encryption and hashingb.Dependency injectionc.Communication protocols (REST API, WebSocket, SOAP, GRPC)d.Working with database using Spring Data JPA, Hibernate, JPQL, transactionse.Testing with unit, integration and performance tests"
+    },
+    {
+      "label": "[section] Advanced concepts of web applications",
+      "content": "a.Security, authentication, encryption and hashingb.Dependency injectionc.Communication protocols (REST API, WebSocket, SOAP, GRPC)d.Working with database using Spring Data JPA, Hibernate, JPQL, transactionse.Testing with unit, integration and performance tests"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Network protocols, communication monitoring, analysis of headers, request and responseb.Developer tools IDEA, pgAdmin, DevTools, Insomniac.Running app on your device (localhost), ports, publishing your app to your local network for testing on mobile devices, publishing to the internet (ngrok)d.Debugging, breakpoints, conditional breakpoints, watching and editing variables in runtimee.Reading error messages, deciding on how to solve a problem (googling, AI, breakpoints, taking a break)"
+    },
+    {
+      "label": "[section] Debugging and developer tools",
+      "content": "a.Network protocols, communication monitoring, analysis of headers, request and responseb.Developer tools IDEA, pgAdmin, DevTools, Insomniac.Running app on your device (localhost), ports, publishing your app to your local network for testing on mobile devices, publishing to the internet (ngrok)d.Debugging, breakpoints, conditional breakpoints, watching and editing variables in runtimee.Reading error messages, deciding on how to solve a problem (googling, AI, breakpoints, taking a break)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Optimization of transferred data, compression, optimization of JSON and media filesb.Optimization of performance, caching, load balancingc.Protection against DDoS, email enumeration and other brute force attacksd.Project structure, monorepo approach, developer responsibility"
+    },
+    {
+      "label": "[section] Large projects",
+      "content": "a.Optimization of transferred data, compression, optimization of JSON and media filesb.Optimization of performance, caching, load balancingc.Protection against DDoS, email enumeration and other brute force attacksd.Project structure, monorepo approach, developer responsibility"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Containerization in Docker and Docker Composeb.Docker networksc.Docker volumesd.Environment variablese.Continuous integration"
+    },
+    {
+      "label": "[section] Deployment",
+      "content": "a.Containerization in Docker and Docker Composeb.Docker networksc.Docker volumesd.Environment variablese.Continuous integration"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Architecturesb.Technologiesc.Communicationd.Securitye.News and upcoming changes"
+    },
+    {
+      "label": "[section] Complex view on web applications from users to servers (summary)",
+      "content": "a.Architecturesb.Technologiesc.Communicationd.Securitye.News and upcoming changes"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice28 hpreparation for exam20 hpreparation for regular testing20 helaboration and execution of projects58 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "# Midterm test - 20 points, min. 0 - During the seminar in the 7th week of the semester - Implementation of a portion of a backend application. - Evaluation will be performed by automated tests. - The test can be repeated once. # Project - 40 points, min. 20 - As part of the project, students will implement their own backend application. - The project will be developed individually. - Student must work on the project continuously, this is demonstrated by commits in the git repository. - The project must include an extensive set of automated tests to demonstrate the functionality and security of the backend. # Exam - 40 points, min. 20 - Oral exam combined with the project defense. - Verification of theoretical knowledge from lectures in the context of the defended project. The final grade is the sum of the points for the midterm test, the project and the exam. A maximum of 100 points can be obtained in total. A minimum of 60 points is required for successful completion. A 90 - 100 B 83 - 89 C 75 - 82 D 68 - 74 E 60 - 67 F 0 - 59"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTerm paper40 %Mid-term test(s)20 %Final oral exam40 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:BAELDUNG, Kolektiv autorů. 2024. Learn Spring Boot. Baeldung. https://www.baeldung.com/spring-boot.SPRING IO, Kolektiv autorů. 2024. Accessing Data with JPA. https://spring.io/guides/gs/accessing-data-jpa/.Recommended:HOFFMAN, Andrew. Web Application Security. 2nd Edition. O'Reilly Media, 2024. ISBN 9781098143930.LOY, Marc, Patrick NIEMEYER a Daniel LEUCK. Learning Java. 6th Edition. O'Reilly Media, 2023. ISBN 9781098145538.TURNQUIST, Greg L. Learning Spring Boot 3.0. Third Edition. Packt Publishing, 2022. ISBN 9781803233307."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "BAELDUNG, Kolektiv autorů. 2024. Learn Spring Boot. Baeldung. https://www.baeldung.com/spring-boot.SPRING IO, Kolektiv autorů. 2024. Accessing Data with JPA. https://spring.io/guides/gs/accessing-data-jpa/."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "HOFFMAN, Andrew. Web Application Security. 2nd Edition. O'Reilly Media, 2024. ISBN 9781098143930.LOY, Marc, Patrick NIEMEYER a Daniel LEUCK. Learning Java. 6th Edition. O'Reilly Media, 2023. ISBN 9781098145538.TURNQUIST, Greg L. Learning Spring Boot 3.0. Third Edition. Packt Publishing, 2022. ISBN 9781803233307."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Scope ZBOI Scope for Open Informatics, full-time form, initial period WS 2022/2023"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:39:34",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

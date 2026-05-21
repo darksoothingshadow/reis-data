@@ -1,0 +1,681 @@
+{
+  "courseCode": "EBC-ZOO",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-ZOO"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Základy objektového návrhu"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Basics of Object Oriented Design"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět je možné studovat při zahraničním výjezdu. Je nutné kontaktovat vyučujícího pro nastavení termínů písemných zkoušek a režimu studia."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. David Procházka, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Andrej Gono (cvičící, přednášející, tutor, zkoušející)Ing. Eliška Chylíková (cvičící, tutor, zkoušející)Bc. Michal Matonoha (cvičící, tutor, zkoušející)Ing. David Procházka, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Základy objektově orientovaného návrhu (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "problémy návrhu aplikací,"
+    },
+    {
+      "label": "b.",
+      "content": "třída, objekt, instance třídy,"
+    },
+    {
+      "label": "c.",
+      "content": "metoda, atribut."
+    },
+    {
+      "label": "2.",
+      "content": "Návrh tříd (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "skrývání implementace, modifikátory viditelnosti,"
+    },
+    {
+      "label": "b.",
+      "content": "kontruktor, destruktor."
+    },
+    {
+      "label": "3.",
+      "content": "Sdílení dat mezi objekty (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "statické metody a vlastnosti,"
+    },
+    {
+      "label": "b.",
+      "content": "předávání hodnot a ukazatelů."
+    },
+    {
+      "label": "4.",
+      "content": "Vztahy mezi třídami (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "asociace, agregace, kompozice"
+    },
+    {
+      "label": "b.",
+      "content": "kolekce."
+    },
+    {
+      "label": "5.",
+      "content": "Dědičnost a polymorfismus (dotace 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "dědění vlastností a metod,"
+    },
+    {
+      "label": "b.",
+      "content": "čásná a pozdní vazba, virtuální a čistě virtuální metody,"
+    },
+    {
+      "label": "c.",
+      "content": "opakování v souvislosti s kolekcemi"
+    },
+    {
+      "label": "6.",
+      "content": "Tvorba rozsáhlých projektů (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "členění projektů,"
+    },
+    {
+      "label": "b.",
+      "content": "komentáře a dokumentace,"
+    },
+    {
+      "label": "c.",
+      "content": "jmenné prostory."
+    },
+    {
+      "label": "7.",
+      "content": "Návrhové vzory (dotace 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "strukturální vzory,"
+    },
+    {
+      "label": "b.",
+      "content": "tvořivé vzory,"
+    },
+    {
+      "label": "c.",
+      "content": "vzory chování."
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, LS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024, ZS 2023/2024 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Základy objektového návrhu"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Basics of Object Oriented Design"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat při zahraničním výjezdu. Je nutné kontaktovat vyučujícího pro nastavení termínů písemných zkoušek a režimu studia."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. David Procházka, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Andrej Gono (cvičící, přednášející, tutor, zkoušející)Ing. Eliška Chylíková (cvičící, tutor, zkoušející)Bc. Michal Matonoha (cvičící, tutor, zkoušející)Ing. David Procházka, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkSkupinaVyučujícíAkceČetnostKapacitaPondělí15.00-16.50Q09B-OI 1233 A. GonoCvičeníKaždý týden24Úterý11.00-12.50Q05B-OI 1232 E. ChylíkováCvičeníKaždý týden24Úterý15.00-16.50Q02B-OI 123 D. Procházka, A. GonoPřednáškaKaždý týden170Úterý17.00-18.50Q08B-OI 1235 A. GonoCvičeníKaždý týden23Středa9.00-10.50Q07B-OI 1231 M. MatonohaCvičeníKaždý týden24Čtvrtek9.00-10.50Q05B-OI 1234 E. ChylíkováCvičeníKaždý týden24Čtvrtek13.00-14.50Q05B-OI 1236 E. ChylíkováCvičeníKaždý týden24Čtvrtek15.00-16.50Q07B-OI 1237 M. MatonohaCvičeníKaždý týden23"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Student se seznámí se základy návrhu a implementace objektových aplikací za účelem tvorby kvalitního, dobře udržitelného kódu. Student si osvojí modelování v jazyce UML, zejména diagram tříd, a implementací vytvořeného modelu v jazyce C++. Koncepty objektového návrhu jsou vysvětlovány od naprostých základů tvorby tříd až po využití návrhových vzorů."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Základy objektově orientovaného návrhu (dotace 2/2) a.problémy návrhu aplikací,b.třída, objekt, instance třídy,c.metoda, atribut.2.Návrh tříd (dotace 4/4) a.skrývání implementace, modifikátory viditelnosti,b.kontruktor, destruktor.3.Sdílení dat mezi objekty (dotace 2/2) a.statické metody a vlastnosti,b.předávání hodnot a ukazatelů.4.Vztahy mezi třídami (dotace 4/4) a.asociace, agregace, kompoziceb.kolekce.5.Dědičnost a polymorfismus (dotace 6/6) a.dědění vlastností a metod,b.čásná a pozdní vazba, virtuální a čistě virtuální metody,c.opakování v souvislosti s kolekcemi6.Tvorba rozsáhlých projektů (dotace 2/2) a.členění projektů,b.komentáře a dokumentace,c.jmenné prostory.7.Návrhové vzory (dotace 8/8) a.strukturální vzory,b.tvořivé vzory,c.vzory chování."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.problémy návrhu aplikací,b.třída, objekt, instance třídy,c.metoda, atribut."
+    },
+    {
+      "label": "[section] Základy objektově orientovaného návrhu",
+      "content": "a.problémy návrhu aplikací,b.třída, objekt, instance třídy,c.metoda, atribut."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.skrývání implementace, modifikátory viditelnosti,b.kontruktor, destruktor."
+    },
+    {
+      "label": "[section] Návrh tříd",
+      "content": "a.skrývání implementace, modifikátory viditelnosti,b.kontruktor, destruktor."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.statické metody a vlastnosti,b.předávání hodnot a ukazatelů."
+    },
+    {
+      "label": "[section] Sdílení dat mezi objekty",
+      "content": "a.statické metody a vlastnosti,b.předávání hodnot a ukazatelů."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.asociace, agregace, kompoziceb.kolekce."
+    },
+    {
+      "label": "[section] Vztahy mezi třídami",
+      "content": "a.asociace, agregace, kompoziceb.kolekce."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.dědění vlastností a metod,b.čásná a pozdní vazba, virtuální a čistě virtuální metody,c.opakování v souvislosti s kolekcemi"
+    },
+    {
+      "label": "[section] Dědičnost a polymorfismus",
+      "content": "a.dědění vlastností a metod,b.čásná a pozdní vazba, virtuální a čistě virtuální metody,c.opakování v souvislosti s kolekcemi"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.členění projektů,b.komentáře a dokumentace,c.jmenné prostory."
+    },
+    {
+      "label": "[section] Tvorba rozsáhlých projektů",
+      "content": "a.členění projektů,b.komentáře a dokumentace,c.jmenné prostory."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.strukturální vzory,b.tvořivé vzory,c.vzory chování."
+    },
+    {
+      "label": "[section] Návrhové vzory",
+      "content": "a.strukturální vzory,b.tvořivé vzory,c.vzory chování."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení28 h0 hkonzultace0 h28 hpříprava na zkoušku42 h42 hpříprava na průběžné hodnocení14 h14 hpříprava na průběžný test14 h14 hzpracování projektů14 h26 hCelkem140 h140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "V průběhu semestru píše student na počítači dvě průběžné písemné práce. Skládají se z příkladů, kde student obdrží slovní zadání a jeho úkolem je sestavit UML diagram tříd problému a napsat příslušný kód v objektovém jazyce. Semestrální písemná práce se skládá z několika příkladů. Koncept je stejný jako u průběžné písemné práce. Jen je problematika rozšířena. Důraz je kladen zejména na implementaci návrhových vzorů, práci s kolekcemi a polymorfismus. Studenti také pracují v týmech na semestrálním projektu. Cílem je vytvořit funkční aplikaci, která bude důsledně využívat objektový návrh. Práce má dvě obhajoby. První je na konci výukové části semestru, druhá je ve zkouškovém období. Za aktivity v kurzu (průběžné písemné práce, projekty, zkoušku) mohou studenti v průběhu semestru získat 100 bodů. Pokud získají 60 bodů a více získají hodnocení E, za 68 bodů a více D, za 75 bodů a více C, za 83 bodů a více B a 90 bodů a více A. Na průběžné práce je jeden řádný termín konání. Při písemných pracech je zakázáno jakoukoliv formou komunikovat s jinými lidmi, využívat umělou inteligenci, nebo jakkoliv jinak sdílet zadání písemných prací nebo jejich částí."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumVypracování semestrální práce25 %25 %Absolvování průběžného testu (testů)25 %25 %Absolvování závěrečného testu50 %50 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:KEOGH, James Edward; GIANNINI, Mario. 2006. OOP bez předchozích znalostí: průvodce pro samouky. 1. vyd. Brno: Computer Press, 222 s. Průvodce. ISBN 80-251-0973-9.LANDA, Jaromír. 2018. Základy objektového návrhu. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-591-6. Design patterns in modern C++: reusable approaches for object-oriented software design. 2018. New York, NY: Springer Science+Business Media, 314 s. ISBN 978-1-4842-3602-4.ARLOW, Jim; NEUSTADT, Ila. 2007. UML 2 a unifikovaný proces vývoje aplikací: objektově orientovaná analýza a návrh prakticky. 2. vyd. Brno: Computer Press, 567 s. ISBN 978-80-251-1503-9.Doporučená:PALETA, Petr. 2003. Co programátory ve škole neučí, aneb, Softwarové inženýrství v reálné praxi. 1. vyd. Brno: Computer Press, 337 s. ISBN 80-251-0073-1."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "KEOGH, James Edward; GIANNINI, Mario. 2006. OOP bez předchozích znalostí: průvodce pro samouky. 1. vyd. Brno: Computer Press, 222 s. Průvodce. ISBN 80-251-0973-9.LANDA, Jaromír. 2018. Základy objektového návrhu. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-591-6. Design patterns in modern C++: reusable approaches for object-oriented software design. 2018. New York, NY: Springer Science+Business Media, 314 s. ISBN 978-1-4842-3602-4.ARLOW, Jim; NEUSTADT, Ila. 2007. UML 2 a unifikovaný proces vývoje aplikací: objektově orientovaná analýza a návrh prakticky. 2. vyd. Brno: Computer Press, 567 s. ISBN 978-80-251-1503-9."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "PALETA, Petr. 2003. Co programátory ve škole neučí, aneb, Softwarové inženýrství v reálné praxi. 1. vyd. Brno: Computer Press, 337 s. ISBN 80-251-0073-1."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-OI Otevřená informatika, prezenční forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-ZOO"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Základy objektového návrhu"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Basics of Object Oriented Design"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course can be attended in case of foreign study visit. It is necessary to contact the teacher to set up the dates of written exams and study mode."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. David Procházka, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Andrej Gono (examiner, instructor, lecturer, tutor)Ing. Eliška Chylíková (examiner, instructor, tutor)Bc. Michal Matonoha (examiner, instructor, tutor)Ing. David Procházka, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Basics of object oriented design (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Problems of designing applications"
+    },
+    {
+      "label": "b.",
+      "content": "Class, object, instance of the class"
+    },
+    {
+      "label": "c.",
+      "content": "Methods and attributes"
+    },
+    {
+      "label": "2.",
+      "content": "Design of the classes (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Hiding the implementation, visibility modificators"
+    },
+    {
+      "label": "b.",
+      "content": "Constructor, destructor"
+    },
+    {
+      "label": "3.",
+      "content": "Sharing information between classes (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Static attributes and methods"
+    },
+    {
+      "label": "b.",
+      "content": "Passing a variable using a pointer and value"
+    },
+    {
+      "label": "4.",
+      "content": "Relations between classes (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Association, aggregation, composition"
+    },
+    {
+      "label": "b.",
+      "content": "Collections"
+    },
+    {
+      "label": "5.",
+      "content": "Inheritance and polymorphism (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Inheritance of classes and methods"
+    },
+    {
+      "label": "b.",
+      "content": "Early and late binding, virtual methods, pure virtual methods"
+    },
+    {
+      "label": "c.",
+      "content": "Examples with regard to the collections"
+    },
+    {
+      "label": "6.",
+      "content": "Complex projects (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Structure of a complex project"
+    },
+    {
+      "label": "b.",
+      "content": "Naming and documentation of a project"
+    },
+    {
+      "label": "c.",
+      "content": "Namespaces"
+    },
+    {
+      "label": "7.",
+      "content": "Design patterns (allowance 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Structural patterns"
+    },
+    {
+      "label": "b.",
+      "content": "Behavioral patterns"
+    },
+    {
+      "label": "c.",
+      "content": "Creational patterns"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, SS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024, WS 2023/2024 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Základy objektového návrhu"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Basics of Object Oriented Design"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course can be attended in case of foreign study visit. It is necessary to contact the teacher to set up the dates of written exams and study mode."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. David Procházka, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Andrej Gono (examiner, instructor, lecturer, tutor)Ing. Eliška Chylíková (examiner, instructor, tutor)Bc. Michal Matonoha (examiner, instructor, tutor)Ing. David Procházka, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyGroupTeacherEntryFrequencyCapacityMonday15.00-16.50Q09B-OI 1233 A. GonoSeminarEvery week24Tuesday11.00-12.50Q05B-OI 1232 E. ChylíkováSeminarEvery week24Tuesday15.00-16.50Q02B-OI 123 D. Procházka, A. GonoLectureEvery week170Tuesday17.00-18.50Q08B-OI 1235 A. GonoSeminarEvery week23Wednesday9.00-10.50Q07B-OI 1231 M. MatonohaSeminarEvery week24Thursday9.00-10.50Q05B-OI 1234 E. ChylíkováSeminarEvery week24Thursday13.00-14.50Q05B-OI 1236 E. ChylíkováSeminarEvery week24Thursday15.00-16.50Q07B-OI 1237 M. MatonohaSeminarEvery week23"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Students will learn the basics of design and implementation of object applications in order to create high-quality, well-sustainable code. Students will learn modeling in UML language, especially usage of class diagram, and implementation of the model in the C ++ language. Object design concepts are explained from the very basics of classroom creation to the use of design patterns."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Basics of object oriented design (allowance 2/2) a.Problems of designing applicationsb.Class, object, instance of the classc.Methods and attributes2.Design of the classes (allowance 4/4) a.Hiding the implementation, visibility modificatorsb.Constructor, destructor3.Sharing information between classes (allowance 2/2) a.Static attributes and methodsb.Passing a variable using a pointer and value4.Relations between classes (allowance 4/4) a.Association, aggregation, compositionb.Collections5.Inheritance and polymorphism (allowance 6/6) a.Inheritance of classes and methodsb.Early and late binding, virtual methods, pure virtual methodsc.Examples with regard to the collections6.Complex projects (allowance 2/2) a.Structure of a complex projectb.Naming and documentation of a projectc.Namespaces7.Design patterns (allowance 8/8) a.Structural patternsb.Behavioral patternsc.Creational patterns"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Problems of designing applicationsb.Class, object, instance of the classc.Methods and attributes"
+    },
+    {
+      "label": "[section] Basics of object oriented design",
+      "content": "a.Problems of designing applicationsb.Class, object, instance of the classc.Methods and attributes"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Hiding the implementation, visibility modificatorsb.Constructor, destructor"
+    },
+    {
+      "label": "[section] Design of the classes",
+      "content": "a.Hiding the implementation, visibility modificatorsb.Constructor, destructor"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Static attributes and methodsb.Passing a variable using a pointer and value"
+    },
+    {
+      "label": "[section] Sharing information between classes",
+      "content": "a.Static attributes and methodsb.Passing a variable using a pointer and value"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Association, aggregation, compositionb.Collections"
+    },
+    {
+      "label": "[section] Relations between classes",
+      "content": "a.Association, aggregation, compositionb.Collections"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Inheritance of classes and methodsb.Early and late binding, virtual methods, pure virtual methodsc.Examples with regard to the collections"
+    },
+    {
+      "label": "[section] Inheritance and polymorphism",
+      "content": "a.Inheritance of classes and methodsb.Early and late binding, virtual methods, pure virtual methodsc.Examples with regard to the collections"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Structure of a complex projectb.Naming and documentation of a projectc.Namespaces"
+    },
+    {
+      "label": "[section] Complex projects",
+      "content": "a.Structure of a complex projectb.Naming and documentation of a projectc.Namespaces"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Structural patternsb.Behavioral patternsc.Creational patterns"
+    },
+    {
+      "label": "[section] Design patterns",
+      "content": "a.Structural patternsb.Behavioral patternsc.Creational patterns"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice28 h0 hconsultation0 h28 hpreparation for exam42 h42 hpreparation for regular assessment14 h14 hpreparation for regular testing14 h14 helaboration and execution of projects14 h26 hTotal140 h140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "During the semester, students write tests on a computer. The test is composed of tasks where it is necessary to create a class diagram of the problem in UML and write appropriate code in the programming language. The final exam is also composed of several tasks. The form is similar to the previous tests. Emphasis is placed on the implementation of the design patterns, work with collections and polymorphism. Students also work in teams on a semester-long project. The goal is to create a functional application that consistently uses object-oriented design. The thesis has two defenses. The first is at the end of the teaching part of the semester, the second is in the exam period. During the course, students can gain 100 points for tests, exam and project. For successful accomplishment (grade E), it is necessary to have at least 60 points. Grade D is for 68 points, C is for 75 points, B is for 83 points and A grade is for 90 points or more. There is one regular sit for tests during the semester. It is prohibited to communicate in any form with other people, using artificial intelligence, or otherwise share the assignment or its parts during the tests and exams."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTerm paper25 %25 %Mid-term test(s)25 %25 %Final test50 %50 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:KEOGH, James Edward; GIANNINI, Mario. 2006. OOP bez předchozích znalostí: průvodce pro samouky. 1st ed. Brno: Computer Press, 222 p. Průvodce. ISBN 80-251-0973-9.LANDA, Jaromír. 2018. Základy objektového návrhu. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-591-6. Design patterns in modern C++: reusable approaches for object-oriented software design. 2018. New York, NY: Springer Science+Business Media, 314 p. ISBN 978-1-4842-3602-4.ARLOW, Jim; NEUSTADT, Ila. 2007. UML 2 a unifikovaný proces vývoje aplikací: objektově orientovaná analýza a návrh prakticky. 2nd ed. Brno: Computer Press, 567 p. ISBN 978-80-251-1503-9.Recommended:PALETA, Petr. 2003. Co programátory ve škole neučí, aneb, Softwarové inženýrství v reálné praxi. 1st ed. Brno: Computer Press, 337 p. ISBN 80-251-0073-1."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "KEOGH, James Edward; GIANNINI, Mario. 2006. OOP bez předchozích znalostí: průvodce pro samouky. 1st ed. Brno: Computer Press, 222 p. Průvodce. ISBN 80-251-0973-9.LANDA, Jaromír. 2018. Základy objektového návrhu. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-591-6. Design patterns in modern C++: reusable approaches for object-oriented software design. 2018. New York, NY: Springer Science+Business Media, 314 p. ISBN 978-1-4842-3602-4.ARLOW, Jim; NEUSTADT, Ila. 2007. UML 2 a unifikovaný proces vývoje aplikací: objektově orientovaná analýza a návrh prakticky. 2nd ed. Brno: Computer Press, 567 p. ISBN 978-80-251-1503-9."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "PALETA, Petr. 2003. Co programátory ve škole neučí, aneb, Softwarové inženýrství v reálné praxi. 1st ed. Brno: Computer Press, 337 p. ISBN 80-251-0073-1."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-OI Open Informatics, full-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:47:15",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

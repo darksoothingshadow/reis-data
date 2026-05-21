@@ -1,5 +1,12 @@
 {
   "courseCode": "TKG",
+  "name": "Technické kreslení a konstruktivní geometrie",
+  "nameCs": "Technické kreslení a konstruktivní geometrie",
+  "nameEn": "Constructive Geometry and Technical Drawing",
+  "predmetId": "159571",
+  "facultyId": 38,
+  "aliases": [],
+  "teachers": [],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - LDF",
@@ -7,9 +14,28 @@
       "year": 2025,
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=796;predmet=159571;lang=cz",
-      "totalPass": 74,
-      "totalFail": 2,
+      "totalPass": 75,
+      "totalFail": 1,
       "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 1,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
         {
           "term": "Všechny termíny",
           "grades": {
@@ -21,12 +47,12 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 74,
-          "fail": 2,
+          "pass": 75,
+          "fail": 1,
           "creditGrades": {
-            "zap": 74,
+            "zap": 75,
             "nezap": 1,
-            "zapNedost": 1
+            "zapNedost": 0
           }
         },
         {
@@ -424,5 +450,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-03-07T08:18:28.625Z"
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
 }

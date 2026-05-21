@@ -1,0 +1,849 @@
+{
+  "courseCode": "ENC-ISP",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENC-ISP"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "IS podniku"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Business Information Systems"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět je možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Ivana Rábová, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "prof. Ing. Petr David, Ph.D. (cvičící)doc. Ing. Ivana Rábová, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)doc. Ing. Oldřich Trenz, Ph.D. (cvičící, přednášející, tutor, zkoušející)Ing. et Ing. Michaela Veselá (cvičící, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška a (Finanční účetnictví 2 nebo nyní Finanční účetnictví 2)"
+    },
+    {
+      "label": "1.",
+      "content": "Vývojové tendence a trendy v oblasti informačních a komunikačních technologií (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní pojmy - podniková informatika"
+    },
+    {
+      "label": "b.",
+      "content": "Trendy v oblasti IS/ICT"
+    },
+    {
+      "label": "c.",
+      "content": "Základní přehled současných ERP"
+    },
+    {
+      "label": "d.",
+      "content": "Efektivnost nasazení IS v podniku"
+    },
+    {
+      "label": "2.",
+      "content": "Systémová integrace (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Principy, vývoj a podstata systémové integrace"
+    },
+    {
+      "label": "b.",
+      "content": "Systémový integrátor a jeho funkce"
+    },
+    {
+      "label": "c.",
+      "content": "IS v cloudu"
+    },
+    {
+      "label": "3.",
+      "content": "Struktura IS podniku (dotace 4/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Globální architektura IS podniku"
+    },
+    {
+      "label": "b.",
+      "content": "Dílčí architektury IS podniku"
+    },
+    {
+      "label": "c.",
+      "content": "Elektronická výměna dat"
+    },
+    {
+      "label": "4.",
+      "content": "Systémy Business Intelligence (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Technologie zpracování dat v BI"
+    },
+    {
+      "label": "b.",
+      "content": "Možnosti a význam BI"
+    },
+    {
+      "label": "c.",
+      "content": "Trendy BI"
+    },
+    {
+      "label": "5.",
+      "content": "Umělá inteligence (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Podstata umělé inteligence"
+    },
+    {
+      "label": "b.",
+      "content": "Trendy v umělé inteligenci"
+    },
+    {
+      "label": "c.",
+      "content": "Využití umělé inteligence v podnicích"
+    },
+    {
+      "label": "6.",
+      "content": "Integrované informační systémy Microsoft Dynamic Nav a QI (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Práce a konfigurace s Microsoft Dynamic Nav a QI"
+    },
+    {
+      "label": "b.",
+      "content": "Funkce, data a konfigurační parametry v IS Microsoft Dynamic Nav, a QI"
+    },
+    {
+      "label": "7.",
+      "content": "Informační systémy ve veřejné správě (dotace 4/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Aktuální stav informačních systémů ve státní správě"
+    },
+    {
+      "label": "b.",
+      "content": "Informační politika - Digitální Česko"
+    },
+    {
+      "label": "c.",
+      "content": "Registry a eGon"
+    },
+    {
+      "label": "8.",
+      "content": "Informační systémy ve finančních institucích ISFI (dotace 4/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Klasifikace ISFI"
+    },
+    {
+      "label": "b.",
+      "content": "Bankovní identita"
+    },
+    {
+      "label": "c.",
+      "content": "Výměna dat v ISFI"
+    },
+    {
+      "label": "d.",
+      "content": "Kryptoměna a bitcoin"
+    },
+    {
+      "label": "e.",
+      "content": "Elektronické peněženky"
+    },
+    {
+      "label": "9.",
+      "content": "Právní aspekty v oblasti IS podniku (dotace 2/0)"
+    },
+    {
+      "label": "10.",
+      "content": "Životní cyklus vývoje a nasazení IS podniku (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Etapy vývoje IS podniku"
+    },
+    {
+      "label": "b.",
+      "content": "Požadavky na IS"
+    },
+    {
+      "label": "c.",
+      "content": "Analýza a modelování IS"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "5 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "20 %"
+    },
+    {
+      "label": "Prezentace nebo obhajoba",
+      "content": "5 %"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "25 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "45 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: IS podniku"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Business Information Systems"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Ivana Rábová, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: prof. Ing. Petr David, Ph.D. (cvičící)doc. Ing. Ivana Rábová, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)doc. Ing. Oldřich Trenz, Ph.D. (cvičící, přednášející, tutor, zkoušející)Ing. et Ing. Michaela Veselá (cvičící, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška a (Finanční účetnictví 2 nebo nyní Finanční účetnictví 2)"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaStředa9.00-10.50Q15N-UADI. RábováPřednáškaKaždý týden20Středa11.00-12.50Q05N-UADO. Trenz, M. VeseláCvičeníSudý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je získání nových znalostí z oboru informačních systémů, poznatky budou prohloubeny o principy architektury těchto systémů, jejich tvorby a implementace z manažerského hlediska. Studenti se seznámí s reálnými ERP systémy, se systémovou integrací a jejím vlivem na podnikové prostředí. Studenti si dále procvičí a upevní dovednosti související s praktickým ovládáním a prací s těmito systémy. Bude pojednáno také o systémech podnikové inteligenci s důrazem na přínosy a problémy při jejich realizaci a o bezpečnostní politice v podniku. V rámci výuky je prezentován základní právní rámec pro vývoj a provoz informačních systémů."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Vývojové tendence a trendy v oblasti informačních a komunikačních technologií (dotace 2/0) a.Základní pojmy - podniková informatikab.Trendy v oblasti IS/ICTc.Základní přehled současných ERPd.Efektivnost nasazení IS v podniku2.Systémová integrace (dotace 2/0) a.Principy, vývoj a podstata systémové integraceb.Systémový integrátor a jeho funkcec.IS v cloudu3.Struktura IS podniku (dotace 4/0) a.Globální architektura IS podnikub.Dílčí architektury IS podnikuc.Elektronická výměna dat4.Systémy Business Intelligence (dotace 4/2) a.Technologie zpracování dat v BIb.Možnosti a význam BIc.Trendy BI5.Umělá inteligence (dotace 2/4) a.Podstata umělé inteligenceb.Trendy v umělé inteligencic.Využití umělé inteligence v podnicích6.Integrované informační systémy Microsoft Dynamic Nav a QI (dotace 2/2) a.Práce a konfigurace s Microsoft Dynamic Nav a QIb.Funkce, data a konfigurační parametry v IS Microsoft Dynamic Nav, a QI7.Informační systémy ve veřejné správě (dotace 4/0) a.Aktuální stav informačních systémů ve státní správěb.Informační politika - Digitální Českoc.Registry a eGon8.Informační systémy ve finančních institucích ISFI (dotace 4/0) a.Klasifikace ISFIb.Bankovní identitac.Výměna dat v ISFId.Kryptoměna a bitcoine.Elektronické peněženky9.Právní aspekty v oblasti IS podniku (dotace 2/0)10.Životní cyklus vývoje a nasazení IS podniku (dotace 2/6) a.Etapy vývoje IS podnikub.Požadavky na ISc.Analýza a modelování IS"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Základní pojmy - podniková informatikab.Trendy v oblasti IS/ICTc.Základní přehled současných ERPd.Efektivnost nasazení IS v podniku"
+    },
+    {
+      "label": "[section] Vývojové tendence a trendy v oblasti informačních a komunikačních technologií",
+      "content": "a.Základní pojmy - podniková informatikab.Trendy v oblasti IS/ICTc.Základní přehled současných ERPd.Efektivnost nasazení IS v podniku"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Principy, vývoj a podstata systémové integraceb.Systémový integrátor a jeho funkcec.IS v cloudu"
+    },
+    {
+      "label": "[section] Systémová integrace",
+      "content": "a.Principy, vývoj a podstata systémové integraceb.Systémový integrátor a jeho funkcec.IS v cloudu"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Globální architektura IS podnikub.Dílčí architektury IS podnikuc.Elektronická výměna dat"
+    },
+    {
+      "label": "[section] Struktura IS podniku",
+      "content": "a.Globální architektura IS podnikub.Dílčí architektury IS podnikuc.Elektronická výměna dat"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Technologie zpracování dat v BIb.Možnosti a význam BIc.Trendy BI"
+    },
+    {
+      "label": "[section] Systémy Business Intelligence",
+      "content": "a.Technologie zpracování dat v BIb.Možnosti a význam BIc.Trendy BI"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Podstata umělé inteligenceb.Trendy v umělé inteligencic.Využití umělé inteligence v podnicích"
+    },
+    {
+      "label": "[section] Umělá inteligence",
+      "content": "a.Podstata umělé inteligenceb.Trendy v umělé inteligencic.Využití umělé inteligence v podnicích"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Práce a konfigurace s Microsoft Dynamic Nav a QIb.Funkce, data a konfigurační parametry v IS Microsoft Dynamic Nav, a QI"
+    },
+    {
+      "label": "[section] Integrované informační systémy Microsoft Dynamic Nav a QI",
+      "content": "a.Práce a konfigurace s Microsoft Dynamic Nav a QIb.Funkce, data a konfigurační parametry v IS Microsoft Dynamic Nav, a QI"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Aktuální stav informačních systémů ve státní správěb.Informační politika - Digitální Českoc.Registry a eGon"
+    },
+    {
+      "label": "[section] Informační systémy ve veřejné správě",
+      "content": "a.Aktuální stav informačních systémů ve státní správěb.Informační politika - Digitální Českoc.Registry a eGon"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Klasifikace ISFIb.Bankovní identitac.Výměna dat v ISFId.Kryptoměna a bitcoine.Elektronické peněženky"
+    },
+    {
+      "label": "[section] Informační systémy ve finančních institucích ISFI",
+      "content": "a.Klasifikace ISFIb.Bankovní identitac.Výměna dat v ISFId.Kryptoměna a bitcoine.Elektronické peněženky"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Životní cyklus vývoje a nasazení IS podniku (dotace 2/6)"
+    },
+    {
+      "label": "[section] Právní aspekty v oblasti IS podniku",
+      "content": "10.Životní cyklus vývoje a nasazení IS podniku (dotace 2/6)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Etapy vývoje IS podnikub.Požadavky na ISc.Analýza a modelování IS"
+    },
+    {
+      "label": "[section] Životní cyklus vývoje a nasazení IS podniku",
+      "content": "a.Etapy vývoje IS podnikub.Požadavky na ISc.Analýza a modelování IS"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení14 hpříprava na zkoušku30 hpříprava na průběžné hodnocení12 hpříprava na průběžný test12 hpříprava prezentace5 hzpracování seminární práce11 hCelkem112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zápočet: Studenti napíšou seminární práci na libovolné téma související s problematikou a svou práci odprezentují (30 bodů). Povinný zápočtový test je v rozsahu výuky ze cvičení (25 bodů - 5 otevřených otázek po 5 bodech). Podmínkou pro udělení zápočtu je získání 30 bodů celkem. Zkouška: Podmínkou je udělení zápočtu. Písemná zkouška je v rozsahu 8 komplexních otázek po 5 bodech a jednoho příkladu za 10 bodů s časovým limitem 45 minut (ke splnění minimálních požadavků je třeba získat alespoň 30 bodů). Otázky jsou průřezem přednášek i poznatků, získaných v rámci cvičení. Konečné hodnocení: A 90 a více B 83 až 89 C 75 až 82 D 68 až 74 E 60 až 67 F 59 a méně."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích5 %Vypracování semestrální práce20 %Prezentace nebo obhajoba5 %Absolvování průběžného testu (testů)25 %Absolvování závěrečného testu45 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:BASL, Josef; BLAŽÍČEK, Roman. 2012. Podnikové informační systémy: podnik v informační společnosti. 3. vyd. Praha: Grada, 323 s. Management v informační společnosti. ISBN 978-80-247-4307-3.DOSTÁL, Petr. 2008. Pokročilé metody analýz a modelování v podnikatelství a veřejné správě. 1. vyd. Brno: Akademické nakladatelství CERM, 340 s. ISBN 978-80-7204-605-8.RÁBOVÁ, Ivana. 2008. Podnikové informační systémy a technologie jejich vývoje. 1. vyd. Brno: Tribun EU, 139 s. ISBN 978-80-7399-599-7.Doporučená:CUMMINGS, Maeve; HAAG, Stephen. 2009. Management Information Systems for the Information Age. New York: McGraw-Hill/Irwin.SODOMKA, Petr; KLČOVÁ, Hana. 2010. Informační systémy v podnikové praxi. 2. vyd. Brno: Computer Press, 501 s. ISBN 978-80-251-2878-7.LUSZCZAK, Andreas; SINGER, Robert. 2011. Microsoft Dynamics NAV: výukový kurz. 1. vyd. Brno: Computer Press, 373 s. ISBN 978-80-251-2851-0.Zákon 101/1999 o ochraně osobních údajů, ze dne 4.4.2000 http://www.sagit.cz/Sbirka/ksbdefault.htmZákon 106/1999 o svobodném přístupu k informacím, ze dne 11.5.1999 http://www.sagit.cz/Sbirka/ksbdefault.htm"
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "BASL, Josef; BLAŽÍČEK, Roman. 2012. Podnikové informační systémy: podnik v informační společnosti. 3. vyd. Praha: Grada, 323 s. Management v informační společnosti. ISBN 978-80-247-4307-3.DOSTÁL, Petr. 2008. Pokročilé metody analýz a modelování v podnikatelství a veřejné správě. 1. vyd. Brno: Akademické nakladatelství CERM, 340 s. ISBN 978-80-7204-605-8.RÁBOVÁ, Ivana. 2008. Podnikové informační systémy a technologie jejich vývoje. 1. vyd. Brno: Tribun EU, 139 s. ISBN 978-80-7399-599-7."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "CUMMINGS, Maeve; HAAG, Stephen. 2009. Management Information Systems for the Information Age. New York: McGraw-Hill/Irwin.SODOMKA, Petr; KLČOVÁ, Hana. 2010. Informační systémy v podnikové praxi. 2. vyd. Brno: Computer Press, 501 s. ISBN 978-80-251-2878-7.LUSZCZAK, Andreas; SINGER, Robert. 2011. Microsoft Dynamics NAV: výukový kurz. 1. vyd. Brno: Computer Press, 373 s. ISBN 978-80-251-2851-0.Zákon 101/1999 o ochraně osobních údajů, ze dne 4.4.2000 http://www.sagit.cz/Sbirka/ksbdefault.htmZákon 106/1999 o svobodném přístupu k informacím, ze dne 11.5.1999 http://www.sagit.cz/Sbirka/ksbdefault.htm"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-UAD Účetnictví a daně, prezenční forma, počáteční období ZS 2023/2024Program N-UAD Účetnictví a daně, prezenční forma, počáteční období LS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENC-ISP"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "IS podniku"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Business Information Systems"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course is possible to study during exchange mobility."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Ivana Rábová, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "prof. Ing. Petr David, Ph.D. (instructor)doc. Ing. Ivana Rábová, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)doc. Ing. Oldřich Trenz, Ph.D. (examiner, instructor, lecturer, tutor)Ing. et Ing. Michaela Veselá (examiner, instructor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam and (Financial Accounting 2 or now Financial Accounting 2)"
+    },
+    {
+      "label": "1.",
+      "content": "Development tendencies and trends in information and communication area (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic concepts"
+    },
+    {
+      "label": "b.",
+      "content": "Trends in IS/IT area"
+    },
+    {
+      "label": "c.",
+      "content": "Basic review of actual ERP"
+    },
+    {
+      "label": "d.",
+      "content": "IS efficiency"
+    },
+    {
+      "label": "2.",
+      "content": "System integration (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Principles, development and fundamental of system integration"
+    },
+    {
+      "label": "b.",
+      "content": "System integrator and his functions"
+    },
+    {
+      "label": "c.",
+      "content": "Cloud computing"
+    },
+    {
+      "label": "3.",
+      "content": "Structure of information system (allowance 4/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Architecture of IS"
+    },
+    {
+      "label": "b.",
+      "content": "Electronical data integchange"
+    },
+    {
+      "label": "4.",
+      "content": "Business Intelligence (allowance 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Technology of business intelligence"
+    },
+    {
+      "label": "b.",
+      "content": "Using of Business Intelligence"
+    },
+    {
+      "label": "c.",
+      "content": "Trends in Business Intelligence"
+    },
+    {
+      "label": "5.",
+      "content": "Artificial Intelligence (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "The main of AI"
+    },
+    {
+      "label": "b.",
+      "content": "Using of AI in business and example"
+    },
+    {
+      "label": "c.",
+      "content": "Trends in AI"
+    },
+    {
+      "label": "6.",
+      "content": "Integrated information system Microsoft Dynamic Nav and QI (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Work with Integrated information system Microsoft Dynamic Nav and QI"
+    },
+    {
+      "label": "b.",
+      "content": "Functions with Integrated information system Microsoft Dynamic Nav and QI"
+    },
+    {
+      "label": "7.",
+      "content": "eGovernment (allowance 4/0)"
+    },
+    {
+      "label": "8.",
+      "content": "Information systems in financial institution (allowance 4/0)"
+    },
+    {
+      "label": "9.",
+      "content": "Legal aspects of creation and usage of software, protection of data (allowance 2/0)"
+    },
+    {
+      "label": "10.",
+      "content": "Life of information system (allowance 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Phases of development and implementation of informatin system"
+    },
+    {
+      "label": "b.",
+      "content": "Analyse of information system and modeling"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "5 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "20 %"
+    },
+    {
+      "label": "Presentation or defence",
+      "content": "5 %"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "25 %"
+    },
+    {
+      "label": "Final test",
+      "content": "45 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: IS podniku"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Business Information Systems"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course is possible to study during exchange mobility."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Ivana Rábová, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. Ing. Petr David, Ph.D. (instructor)doc. Ing. Ivana Rábová, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)doc. Ing. Oldřich Trenz, Ph.D. (examiner, instructor, lecturer, tutor)Ing. et Ing. Michaela Veselá (examiner, instructor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam and (Financial Accounting 2 or now Financial Accounting 2)"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityWednesday9.00-10.50Q15N-UADI. RábováLectureEvery week20Wednesday11.00-12.50Q05N-UADO. Trenz, M. VeseláSeminarEven week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The goal of subject is to gain of knowledge and the global overview at relationship informatics and business global strategy and knowledge about ERP systems. Students elaborate their knowledge about architecture of information systems and life cycle of IS development. Students learn the methods of structured and object approach in development of software applications and with technologies of management and working ERP systems. Business intelligence and security in IS are significant topics. There is presented also the law framework for IS/IT development and working."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Development tendencies and trends in information and communication area (allowance 2/0) a.Basic conceptsb.Trends in IS/IT areac.Basic review of actual ERPd.IS efficiency2.System integration (allowance 2/0) a.Principles, development and fundamental of system integrationb.System integrator and his functionsc.Cloud computing3.Structure of information system (allowance 4/0) a.Architecture of ISb.Electronical data integchange4.Business Intelligence (allowance 4/2) a.Technology of business intelligenceb.Using of Business Intelligencec.Trends in Business Intelligence5.Artificial Intelligence (allowance 2/4) a.The main of AIb.Using of AI in business and examplec.Trends in AI6.Integrated information system Microsoft Dynamic Nav and QI (allowance 2/2) a.Work with Integrated information system Microsoft Dynamic Nav and QIb.Functions with Integrated information system Microsoft Dynamic Nav and QI7.eGovernment (allowance 4/0)8.Information systems in financial institution (allowance 4/0)9.Legal aspects of creation and usage of software, protection of data (allowance 2/0)10.Life of information system (allowance 2/6) a.Phases of development and implementation of informatin systemb.Analyse of information system and modeling"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Basic conceptsb.Trends in IS/IT areac.Basic review of actual ERPd.IS efficiency"
+    },
+    {
+      "label": "[section] Development tendencies and trends in information and communication area",
+      "content": "a.Basic conceptsb.Trends in IS/IT areac.Basic review of actual ERPd.IS efficiency"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Principles, development and fundamental of system integrationb.System integrator and his functionsc.Cloud computing"
+    },
+    {
+      "label": "[section] System integration",
+      "content": "a.Principles, development and fundamental of system integrationb.System integrator and his functionsc.Cloud computing"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Architecture of ISb.Electronical data integchange"
+    },
+    {
+      "label": "[section] Structure of information system",
+      "content": "a.Architecture of ISb.Electronical data integchange"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Technology of business intelligenceb.Using of Business Intelligencec.Trends in Business Intelligence"
+    },
+    {
+      "label": "[section] Business Intelligence",
+      "content": "a.Technology of business intelligenceb.Using of Business Intelligencec.Trends in Business Intelligence"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.The main of AIb.Using of AI in business and examplec.Trends in AI"
+    },
+    {
+      "label": "[section] Artificial Intelligence",
+      "content": "a.The main of AIb.Using of AI in business and examplec.Trends in AI"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Work with Integrated information system Microsoft Dynamic Nav and QIb.Functions with Integrated information system Microsoft Dynamic Nav and QI"
+    },
+    {
+      "label": "[section] Integrated information system Microsoft Dynamic Nav and QI",
+      "content": "a.Work with Integrated information system Microsoft Dynamic Nav and QIb.Functions with Integrated information system Microsoft Dynamic Nav and QI"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Information systems in financial institution (allowance 4/0)"
+    },
+    {
+      "label": "[section] eGovernment",
+      "content": "8.Information systems in financial institution (allowance 4/0)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Legal aspects of creation and usage of software, protection of data (allowance 2/0)"
+    },
+    {
+      "label": "[section] Information systems in financial institution",
+      "content": "9.Legal aspects of creation and usage of software, protection of data (allowance 2/0)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Life of information system (allowance 2/6)"
+    },
+    {
+      "label": "[section] Legal aspects of creation and usage of software, protection of data",
+      "content": "10.Life of information system (allowance 2/6)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Phases of development and implementation of informatin systemb.Analyse of information system and modeling"
+    },
+    {
+      "label": "[section] Life of information system",
+      "content": "a.Phases of development and implementation of informatin systemb.Analyse of information system and modeling"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice14 hpreparation for exam30 hpreparation for regular assessment12 hpreparation for regular testing12 hpreparation of presentation5 hwriting of seminar paper11 hTotal112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Lectures, practices: Students write essay (elaboration of seminar work about one of IS/IT issue), discussions and presentation of essay (30 points). Mandatory written test (25 points - 5 points per question). Exam is in written form (8 complex question (5 points) and 1 example (10 points) with time limit of 45 minutes (the minimum are 30 points from total sum of points 50). Questions are from lectures and also from seminars. Final classification: A 90 and more B 83 to 89 C 75 to 82 D 68 to 74 E 60 to 67 F 59 and less."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation5 %Term paper20 %Presentation or defence5 %Mid-term test(s)25 %Final test45 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:BASL, Josef; BLAŽÍČEK, Roman. 2012. Podnikové informační systémy: podnik v informační společnosti. 3rd ed. Praha: Grada, 323 p. Management v informační společnosti. ISBN 978-80-247-4307-3.DOSTÁL, Petr. 2008. Pokročilé metody analýz a modelování v podnikatelství a veřejné správě. 1st ed. Brno: Akademické nakladatelství CERM, 340 p. ISBN 978-80-7204-605-8.RÁBOVÁ, Ivana. 2008. Podnikové informační systémy a technologie jejich vývoje. 1st ed. Brno: Tribun EU, 139 p. ISBN 978-80-7399-599-7.Recommended:CUMMINGS, Maeve; HAAG, Stephen. 2009. Management Information Systems for the Information Age. New York: McGraw-Hill/Irwin.SODOMKA, Petr; KLČOVÁ, Hana. 2010. Informační systémy v podnikové praxi. 2nd ed. Brno: Computer Press, 501 p. ISBN 978-80-251-2878-7.LUSZCZAK, Andreas; SINGER, Robert. 2011. Microsoft Dynamics NAV: výukový kurz. 1st ed. Brno: Computer Press, 373 p. ISBN 978-80-251-2851-0.Zákon 101/1999 o ochraně osobních údajů, ze dne 4.4.2000 http://www.sagit.cz/Sbirka/ksbdefault.htmZákon 106/1999 o svobodném přístupu k informacím, ze dne 11.5.1999 http://www.sagit.cz/Sbirka/ksbdefault.htm"
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "BASL, Josef; BLAŽÍČEK, Roman. 2012. Podnikové informační systémy: podnik v informační společnosti. 3rd ed. Praha: Grada, 323 p. Management v informační společnosti. ISBN 978-80-247-4307-3.DOSTÁL, Petr. 2008. Pokročilé metody analýz a modelování v podnikatelství a veřejné správě. 1st ed. Brno: Akademické nakladatelství CERM, 340 p. ISBN 978-80-7204-605-8.RÁBOVÁ, Ivana. 2008. Podnikové informační systémy a technologie jejich vývoje. 1st ed. Brno: Tribun EU, 139 p. ISBN 978-80-7399-599-7."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "CUMMINGS, Maeve; HAAG, Stephen. 2009. Management Information Systems for the Information Age. New York: McGraw-Hill/Irwin.SODOMKA, Petr; KLČOVÁ, Hana. 2010. Informační systémy v podnikové praxi. 2nd ed. Brno: Computer Press, 501 p. ISBN 978-80-251-2878-7.LUSZCZAK, Andreas; SINGER, Robert. 2011. Microsoft Dynamics NAV: výukový kurz. 1st ed. Brno: Computer Press, 373 p. ISBN 978-80-251-2851-0.Zákon 101/1999 o ochraně osobních údajů, ze dne 4.4.2000 http://www.sagit.cz/Sbirka/ksbdefault.htmZákon 106/1999 o svobodném přístupu k informacím, ze dne 11.5.1999 http://www.sagit.cz/Sbirka/ksbdefault.htm"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-UAD Accounting and Taxes, full-time form, initial period WS 2023/2024Programme C-UAD Accounting and Taxes, full-time form, initial period SS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:57:07",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

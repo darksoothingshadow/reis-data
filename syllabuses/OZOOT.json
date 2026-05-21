@@ -1,0 +1,813 @@
+{
+  "courseCode": "OZOOT",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "OZOOT"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Obecná zootechnika ZOO"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Animal breeding"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (7 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "ne"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Radek Filipčík, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav chovu a šlechtění zvířat (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Radek Filipčík, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Mariola Semrádová (cvičící)Ing. Libor Sládek, Ph.D. (cvičící, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Význam chovu zvířat (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Definice předmětu a jeho zařazení do systému biologických disciplin. Význam chovu hospodářských zvířat pro životní prostředí"
+    },
+    {
+      "label": "b.",
+      "content": "Současný stav, vývoj a perspektivy chovu hospodářských zvířat a živočišné výroby"
+    },
+    {
+      "label": "c.",
+      "content": "Význam a stav organického propojení rostlinné a živočišné výroby"
+    },
+    {
+      "label": "d.",
+      "content": "Fylogenie a domestikace hospodářských zvířat, vliv přírodních a sociálních podmínek na domestikaci, změny způsobené domestikací, proces zdomácnění zvířat"
+    },
+    {
+      "label": "e.",
+      "content": "Taxonomie hospodářských zvířat -- užitkový typ, plemeno a nižší taxonomické jednotky, jejich definice a využití v chovu a šlechtění zvířat"
+    },
+    {
+      "label": "f.",
+      "content": "Rozdělení plemen podle stupně prošlechtění, původu a užitkového zaměření"
+    },
+    {
+      "label": "g.",
+      "content": "Chovný cíl a plemenný standard, zootechnická terminologie"
+    },
+    {
+      "label": "2.",
+      "content": "Zootechnické hodnocení morfologických znaků hospodářských zvířat (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Exteriér a interiér zvířat"
+    },
+    {
+      "label": "b.",
+      "content": "Definice a význam hodnocení exteriéru zvířat při tvorbě užitkových typů"
+    },
+    {
+      "label": "c.",
+      "content": "Zootechnická topografie významných druhů zvířat"
+    },
+    {
+      "label": "d.",
+      "content": "Všeobecné požadavky na exteriér zvířat jednotlivých druhů, plemen a užitkových typů, zásady posuzování exteriéru, využití značkového klíče"
+    },
+    {
+      "label": "3.",
+      "content": "Zhodnocení fyziologických vlastností zvířat (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Praktické hodnocení konstitučního typu zvířat, habitu, komplexe a temperamentu v závislosti na druhu zvířat,věkové kategorii, pohlaví a užitkovém směru"
+    },
+    {
+      "label": "b.",
+      "content": "Hodnocení kondice zvířat"
+    },
+    {
+      "label": "c.",
+      "content": "Vyjadřování kondičního score ve vztahu k reprodukci zvířat"
+    },
+    {
+      "label": "4.",
+      "content": "Biologické základy plodnosti a produkce mléka (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Techniky plemenitby a hodnocení plodnosti samců a samic"
+    },
+    {
+      "label": "b.",
+      "content": "Diference v produkci mléka podle druhu zvířat"
+    },
+    {
+      "label": "c.",
+      "content": "Hodnocení produkce mléka"
+    },
+    {
+      "label": "5.",
+      "content": "Biologické základy růstu (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Ontogeneze zvířat"
+    },
+    {
+      "label": "b.",
+      "content": "Nové poznatky v oblasti růstu tělesných tkání"
+    },
+    {
+      "label": "c.",
+      "content": "Alometrie růstu"
+    },
+    {
+      "label": "6.",
+      "content": "Biologické základy produkce a hodnocení produce jatečných zvířat a masa (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Výkrmnost"
+    },
+    {
+      "label": "b.",
+      "content": "Vykrmenost"
+    },
+    {
+      "label": "c.",
+      "content": "Jatečná hodnota"
+    },
+    {
+      "label": "7.",
+      "content": "Biologické základy produkce práce a kožních derivátů (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Produkce práce"
+    },
+    {
+      "label": "b.",
+      "content": "Produkce kůže"
+    },
+    {
+      "label": "c.",
+      "content": "Produkce vlny a peří"
+    },
+    {
+      "label": "8.",
+      "content": "Rozdělení a požadavky na plemenářskou práci a šlechtění zvířat (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Odborná terminologie"
+    },
+    {
+      "label": "b.",
+      "content": "Kontrola užitkovosti a testace zvířat"
+    },
+    {
+      "label": "c.",
+      "content": "Připařovací výběr a bonitace zvířat"
+    },
+    {
+      "label": "9.",
+      "content": "Plemenná hodnota zvířat (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Rodokmenová hodnota a hodnota sourozenců"
+    },
+    {
+      "label": "b.",
+      "content": "Vlastní hodnota"
+    },
+    {
+      "label": "c.",
+      "content": "Kontrola dědičnosti"
+    },
+    {
+      "label": "d.",
+      "content": "Genomická plemenná hodnota"
+    },
+    {
+      "label": "10.",
+      "content": "Význam selekce a principy základních metod selekce v chovu zvířat (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Přímá selekce na jeden znak"
+    },
+    {
+      "label": "b.",
+      "content": "Přímá selekce na více znaků"
+    },
+    {
+      "label": "c.",
+      "content": "Nepřímá selekce"
+    },
+    {
+      "label": "11.",
+      "content": "Metody plemenitby zvířat (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Čistokrevná plemenitba"
+    },
+    {
+      "label": "b.",
+      "content": "Metizace"
+    },
+    {
+      "label": "c.",
+      "content": "Bastardace"
+    },
+    {
+      "label": "12.",
+      "content": "Plemenářské programy využívané v chovu zvířat (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Šlechtitelské programy"
+    },
+    {
+      "label": "b.",
+      "content": "Hybridizační programy"
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021, LS 2019/2020 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Obecná zootechnika ZOO"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Animal breeding"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (7 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (7 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: ne"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Radek Filipčík, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav chovu a šlechtění zvířat (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Radek Filipčík, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Mariola Semrádová (cvičící)Ing. Libor Sládek, Ph.D. (cvičící, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý9.00-10.50A01R. FilipčíkPřednáškaKaždý týden180Úterý15.00-17.50A47R. FilipčíkCvičeníKaždý týden26Středa9.00-11.50A47L. SládekCvičeníKaždý týden26Středa12.00-14.50A47L. Sládek, M. SemrádováCvičeníKaždý týden26Čtvrtek9.00-11.50A47L. SládekCvičeníKaždý týden26Čtvrtek12.00-14.50A47L. Sládek, M. SemrádováCvičeníKaždý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je seznámit studenty se základními zootechnickými pojmy, s možnostmi hodnocení hlavních užitkových vlastností hospodářských zvířat a vysvětlení teoretických základů plemenářské práce a šlechtění hospodářských zvířat. Získané znalosti po absolutoriu daného předmětu vytvoří pro studenty základnu pro další studium speciálních zootechnických disciplín. Studenti si rozšíří dovednosti spojené s dokonalejším využíváním literárních a internetových informací. Předmět rovněž napomáhá rozšíření kapacity v oblasti biologického myšlení, spojené s využitím nových znalostí i v řadě mezioborových disciplín."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Význam chovu zvířat (dotace 1/1) a.Definice předmětu a jeho zařazení do systému biologických disciplin. Význam chovu hospodářských zvířat pro životní prostředíb.Současný stav, vývoj a perspektivy chovu hospodářských zvířat a živočišné výrobyc.Význam a stav organického propojení rostlinné a živočišné výrobyd.Fylogenie a domestikace hospodářských zvířat, vliv přírodních a sociálních podmínek na domestikaci, změny způsobené domestikací, proces zdomácnění zvířate.Taxonomie hospodářských zvířat -- užitkový typ, plemeno a nižší taxonomické jednotky, jejich definice a využití v chovu a šlechtění zvířatf.Rozdělení plemen podle stupně prošlechtění, původu a užitkového zaměřeníg.Chovný cíl a plemenný standard, zootechnická terminologie2.Zootechnické hodnocení morfologických znaků hospodářských zvířat (dotace 1/1) a.Exteriér a interiér zvířatb.Definice a význam hodnocení exteriéru zvířat při tvorbě užitkových typůc.Zootechnická topografie významných druhů zvířatd.Všeobecné požadavky na exteriér zvířat jednotlivých druhů, plemen a užitkových typů, zásady posuzování exteriéru, využití značkového klíče3.Zhodnocení fyziologických vlastností zvířat (dotace 1/1) a.Praktické hodnocení konstitučního typu zvířat, habitu, komplexe a temperamentu v závislosti na druhu zvířat,věkové kategorii, pohlaví a užitkovém směrub.Hodnocení kondice zvířatc.Vyjadřování kondičního score ve vztahu k reprodukci zvířat4.Biologické základy plodnosti a produkce mléka (dotace 1/1) a.Techniky plemenitby a hodnocení plodnosti samců a samicb.Diference v produkci mléka podle druhu zvířatc.Hodnocení produkce mléka5.Biologické základy růstu (dotace 1/1) a.Ontogeneze zvířatb.Nové poznatky v oblasti růstu tělesných tkáníc.Alometrie růstu6.Biologické základy produkce a hodnocení produce jatečných zvířat a masa (dotace 1/1) a.Výkrmnostb.Vykrmenostc.Jatečná hodnota7.Biologické základy produkce práce a kožních derivátů (dotace 1/1) a.Produkce práceb.Produkce kůžec.Produkce vlny a peří8.Rozdělení a požadavky na plemenářskou práci a šlechtění zvířat (dotace 1/1) a.Odborná terminologieb.Kontrola užitkovosti a testace zvířatc.Připařovací výběr a bonitace zvířat9.Plemenná hodnota zvířat (dotace 1/1) a.Rodokmenová hodnota a hodnota sourozencůb.Vlastní hodnotac.Kontrola dědičnostid.Genomická plemenná hodnota10.Význam selekce a principy základních metod selekce v chovu zvířat (dotace 1/1) a.Přímá selekce na jeden znakb.Přímá selekce na více znakůc.Nepřímá selekce11.Metody plemenitby zvířat (dotace 1/1) a.Čistokrevná plemenitbab.Metizacec.Bastardace12.Plemenářské programy využívané v chovu zvířat (dotace 1/1) a.Šlechtitelské programyb.Hybridizační programy"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Definice předmětu a jeho zařazení do systému biologických disciplin. Význam chovu hospodářských zvířat pro životní prostředíb.Současný stav, vývoj a perspektivy chovu hospodářských zvířat a živočišné výrobyc.Význam a stav organického propojení rostlinné a živočišné výrobyd.Fylogenie a domestikace hospodářských zvířat, vliv přírodních a sociálních podmínek na domestikaci, změny způsobené domestikací, proces zdomácnění zvířate.Taxonomie hospodářských zvířat -- užitkový typ, plemeno a nižší taxonomické jednotky, jejich definice a využití v chovu a šlechtění zvířatf.Rozdělení plemen podle stupně prošlechtění, původu a užitkového zaměřeníg.Chovný cíl a plemenný standard, zootechnická terminologie"
+    },
+    {
+      "label": "[section] Význam chovu zvířat",
+      "content": "a.Definice předmětu a jeho zařazení do systému biologických disciplin. Význam chovu hospodářských zvířat pro životní prostředíb.Současný stav, vývoj a perspektivy chovu hospodářských zvířat a živočišné výrobyc.Význam a stav organického propojení rostlinné a živočišné výrobyd.Fylogenie a domestikace hospodářských zvířat, vliv přírodních a sociálních podmínek na domestikaci, změny způsobené domestikací, proces zdomácnění zvířate.Taxonomie hospodářských zvířat -- užitkový typ, plemeno a nižší taxonomické jednotky, jejich definice a využití v chovu a šlechtění zvířatf.Rozdělení plemen podle stupně prošlechtění, původu a užitkového zaměřeníg.Chovný cíl a plemenný standard, zootechnická terminologie"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Exteriér a interiér zvířatb.Definice a význam hodnocení exteriéru zvířat při tvorbě užitkových typůc.Zootechnická topografie významných druhů zvířatd.Všeobecné požadavky na exteriér zvířat jednotlivých druhů, plemen a užitkových typů, zásady posuzování exteriéru, využití značkového klíče"
+    },
+    {
+      "label": "[section] Zootechnické hodnocení morfologických znaků hospodářských zvířat",
+      "content": "a.Exteriér a interiér zvířatb.Definice a význam hodnocení exteriéru zvířat při tvorbě užitkových typůc.Zootechnická topografie významných druhů zvířatd.Všeobecné požadavky na exteriér zvířat jednotlivých druhů, plemen a užitkových typů, zásady posuzování exteriéru, využití značkového klíče"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Praktické hodnocení konstitučního typu zvířat, habitu, komplexe a temperamentu v závislosti na druhu zvířat,věkové kategorii, pohlaví a užitkovém směrub.Hodnocení kondice zvířatc.Vyjadřování kondičního score ve vztahu k reprodukci zvířat"
+    },
+    {
+      "label": "[section] Zhodnocení fyziologických vlastností zvířat",
+      "content": "a.Praktické hodnocení konstitučního typu zvířat, habitu, komplexe a temperamentu v závislosti na druhu zvířat,věkové kategorii, pohlaví a užitkovém směrub.Hodnocení kondice zvířatc.Vyjadřování kondičního score ve vztahu k reprodukci zvířat"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Techniky plemenitby a hodnocení plodnosti samců a samicb.Diference v produkci mléka podle druhu zvířatc.Hodnocení produkce mléka"
+    },
+    {
+      "label": "[section] Biologické základy plodnosti a produkce mléka",
+      "content": "a.Techniky plemenitby a hodnocení plodnosti samců a samicb.Diference v produkci mléka podle druhu zvířatc.Hodnocení produkce mléka"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Ontogeneze zvířatb.Nové poznatky v oblasti růstu tělesných tkáníc.Alometrie růstu"
+    },
+    {
+      "label": "[section] Biologické základy růstu",
+      "content": "a.Ontogeneze zvířatb.Nové poznatky v oblasti růstu tělesných tkáníc.Alometrie růstu"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Výkrmnostb.Vykrmenostc.Jatečná hodnota"
+    },
+    {
+      "label": "[section] Biologické základy produkce a hodnocení produce jatečných zvířat a masa",
+      "content": "a.Výkrmnostb.Vykrmenostc.Jatečná hodnota"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Produkce práceb.Produkce kůžec.Produkce vlny a peří"
+    },
+    {
+      "label": "[section] Biologické základy produkce práce a kožních derivátů",
+      "content": "a.Produkce práceb.Produkce kůžec.Produkce vlny a peří"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Odborná terminologieb.Kontrola užitkovosti a testace zvířatc.Připařovací výběr a bonitace zvířat"
+    },
+    {
+      "label": "[section] Rozdělení a požadavky na plemenářskou práci a šlechtění zvířat",
+      "content": "a.Odborná terminologieb.Kontrola užitkovosti a testace zvířatc.Připařovací výběr a bonitace zvířat"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Rodokmenová hodnota a hodnota sourozencůb.Vlastní hodnotac.Kontrola dědičnostid.Genomická plemenná hodnota"
+    },
+    {
+      "label": "[section] Plemenná hodnota zvířat",
+      "content": "a.Rodokmenová hodnota a hodnota sourozencůb.Vlastní hodnotac.Kontrola dědičnostid.Genomická plemenná hodnota"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Přímá selekce na jeden znakb.Přímá selekce na více znakůc.Nepřímá selekce"
+    },
+    {
+      "label": "[section] Význam selekce a principy základních metod selekce v chovu zvířat",
+      "content": "a.Přímá selekce na jeden znakb.Přímá selekce na více znakůc.Nepřímá selekce"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Čistokrevná plemenitbab.Metizacec.Bastardace"
+    },
+    {
+      "label": "[section] Metody plemenitby zvířat",
+      "content": "a.Čistokrevná plemenitbab.Metizacec.Bastardace"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Šlechtitelské programyb.Hybridizační programy"
+    },
+    {
+      "label": "[section] Plemenářské programy využívané v chovu zvířat",
+      "content": "a.Šlechtitelské programyb.Hybridizační programy"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška24 hcvičení36 hkonzultace22 hpříprava na zkoušku64 hpříprava na průběžné hodnocení20 hpříprava na průběžný test30 hCelkem196 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "K získání zápočtu je nutná minimální 80 % účast na cvičení, úspěšné splnění dvou testů v průběhu semestru (min. 70% správných odpovědí). Předmět je zakončen ústní zkouškou (60% z celkové úspěšnosti)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:ŠUBRT, Jan. 2007. Obecná zootechnika. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 204 s. ISBN 978-80-7375-115-9.ŠUBRT, Jan. 2008. Obecná zootechnika: návody do cvičení. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 130 s. ISBN 978-80-7375-203-3.KADLEČÍK, Ondrej. 2007. Všeobecná zootechnika. 1. vyd. Nitra: Slovenská pol'nohospodárska univerzita v Nitre, 222 s. ISBN 978-80-8069-9536.JAKUBEC, Václav; BEZDÍČEK, Jiří; LOUDA, František. 2010. Selekce - inbríding - hybridizace. 1. vyd. Rapotín: Agrovýzkum Rapotín s.r.o. , 382 s. ISBN 978-80-87144-22-0.Doporučená: Linear models for the prediction of animal breeding values. 2. vyd. Wallingford, UK: CABI Pub., 344 s. ISBN 0-85199-000-2. Quantitative genetics theory in Animal Breeding. 1995. Guelph: University of Guelph, 220 s. Allgemeine Tierzucht. 1993. Stuttgart: Verlag Eugen Ulmer, 416 s. ISBN 3-8252-1649-7."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "ŠUBRT, Jan. 2007. Obecná zootechnika. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 204 s. ISBN 978-80-7375-115-9.ŠUBRT, Jan. 2008. Obecná zootechnika: návody do cvičení. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 130 s. ISBN 978-80-7375-203-3.KADLEČÍK, Ondrej. 2007. Všeobecná zootechnika. 1. vyd. Nitra: Slovenská pol'nohospodárska univerzita v Nitre, 222 s. ISBN 978-80-8069-9536.JAKUBEC, Václav; BEZDÍČEK, Jiří; LOUDA, František. 2010. Selekce - inbríding - hybridizace. 1. vyd. Rapotín: Agrovýzkum Rapotín s.r.o. , 382 s. ISBN 978-80-87144-22-0."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "Linear models for the prediction of animal breeding values. 2. vyd. Wallingford, UK: CABI Pub., 344 s. ISBN 0-85199-000-2. Quantitative genetics theory in Animal Breeding. 1995. Guelph: University of Guelph, 220 s. Allgemeine Tierzucht. 1993. Stuttgart: Verlag Eugen Ulmer, 416 s. ISBN 3-8252-1649-7."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-ZOT Zootechnika, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "OZOOT"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Obecná zootechnika ZOO"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Animal breeding"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (7 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "no"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Radek Filipčík, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Animal Breeding (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Radek Filipčík, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Mariola Semrádová (instructor)Ing. Libor Sládek, Ph.D. (examiner, instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Importance of animal production within the ecological system and as a method of producing foodstuffs (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Definition of animal science and its position within the system of biological disciplines. Environmental importance of animal breeding and production. Current situation, development, and prospects of animal breeding and animal production. Importance of and current situation in the organic linkage of plant and animal production"
+    },
+    {
+      "label": "2.",
+      "content": "Zootechnical evaluation of morphologic traits of farm animals (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Exterior and interior of animals"
+    },
+    {
+      "label": "3.",
+      "content": "Evaluation of physiological properties of animals (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Practical evaluation of constitution type, habitus, complexion and temperament in relation to animal species, age category, sex, and type of performance. Evaluation of condition. Expression of condition score with regard to animal reproduction"
+    },
+    {
+      "label": "4.",
+      "content": "Biological principles of fertility and milk production (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Breeding techniques and fertility evaluation. Differences in milk production of individual animal species. Evaluation of milk production"
+    },
+    {
+      "label": "5.",
+      "content": "Biological principles of growth (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Ontogenesis. New knowledge in the domain of growth of body tissues. Growth allometry"
+    },
+    {
+      "label": "6.",
+      "content": "Biological principles of production slaughter animals and evaluation of meat performance (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Fattening capacity. Meatiness. Carcass value"
+    },
+    {
+      "label": "7.",
+      "content": "Biological principles of production of labour and skin derivatives (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Labour production. Production of hides and furs. Production of wool and feathers"
+    },
+    {
+      "label": "8.",
+      "content": "Classification of methods of breeding work and requirements concerning methods of animal breeding (allowance 5/5)"
+    },
+    {
+      "label": "a.",
+      "content": "Breeding value. Principles of basic methods of selection in animal husbandry. Methods of animal breeding. Breeding programmes."
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021, SS 2019/2020 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Obecná zootechnika ZOO"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Animal breeding"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (7 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (7 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: no"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Radek Filipčík, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Animal Breeding (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Radek Filipčík, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Mariola Semrádová (instructor)Ing. Libor Sládek, Ph.D. (examiner, instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday9.00-10.50A01R. FilipčíkLectureEvery week180Tuesday15.00-17.50A47R. FilipčíkSeminarEvery week26Wednesday9.00-11.50A47L. SládekSeminarEvery week26Wednesday12.00-14.50A47L. Sládek, M. SemrádováSeminarEvery week26Thursday9.00-11.50A47L. SládekSeminarEvery week26Thursday12.00-14.50A47L. Sládek, M. SemrádováSeminarEvery week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "In this course, students will learn about essential terms and concepts of animal husbandry, possibilities of evaluation of farm animal performance and theoretical principles of breeding work & selection of farm animals. After finishing this course, they will be able to use the acquired knowledge as a base for their further study of special subjects of animal science. They will extend their skills in the field of a better use of literary data and internet information. This course also should improve student's capacity in the field of biological thinking and application of acquired knowledge in some other related branches of science"
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Importance of animal production within the ecological system and as a method of producing foodstuffs (allowance 1/1) a.Definition of animal science and its position within the system of biological disciplines. Environmental importance of animal breeding and production. Current situation, development, and prospects of animal breeding and animal production. Importance of and current situation in the organic linkage of plant and animal production2.Zootechnical evaluation of morphologic traits of farm animals (allowance 1/1) a.Exterior and interior of animals3.Evaluation of physiological properties of animals (allowance 1/1) a.Practical evaluation of constitution type, habitus, complexion and temperament in relation to animal species, age category, sex, and type of performance. Evaluation of condition. Expression of condition score with regard to animal reproduction4.Biological principles of fertility and milk production (allowance 1/1) a.Breeding techniques and fertility evaluation. Differences in milk production of individual animal species. Evaluation of milk production5.Biological principles of growth (allowance 1/1) a.Ontogenesis. New knowledge in the domain of growth of body tissues. Growth allometry6.Biological principles of production slaughter animals and evaluation of meat performance (allowance 1/1) a.Fattening capacity. Meatiness. Carcass value7.Biological principles of production of labour and skin derivatives (allowance 1/1) a.Labour production. Production of hides and furs. Production of wool and feathers8.Classification of methods of breeding work and requirements concerning methods of animal breeding (allowance 5/5) a.Breeding value. Principles of basic methods of selection in animal husbandry. Methods of animal breeding. Breeding programmes."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Definition of animal science and its position within the system of biological disciplines. Environmental importance of animal breeding and production. Current situation, development, and prospects of animal breeding and animal production. Importance of and current situation in the organic linkage of plant and animal production"
+    },
+    {
+      "label": "[section] Importance of animal production within the ecological system and as a method of producing foodstuffs",
+      "content": "a.Definition of animal science and its position within the system of biological disciplines. Environmental importance of animal breeding and production. Current situation, development, and prospects of animal breeding and animal production. Importance of and current situation in the organic linkage of plant and animal production"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Exterior and interior of animals"
+    },
+    {
+      "label": "[section] Zootechnical evaluation of morphologic traits of farm animals",
+      "content": "a.Exterior and interior of animals"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Practical evaluation of constitution type, habitus, complexion and temperament in relation to animal species, age category, sex, and type of performance. Evaluation of condition. Expression of condition score with regard to animal reproduction"
+    },
+    {
+      "label": "[section] Evaluation of physiological properties of animals",
+      "content": "a.Practical evaluation of constitution type, habitus, complexion and temperament in relation to animal species, age category, sex, and type of performance. Evaluation of condition. Expression of condition score with regard to animal reproduction"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Breeding techniques and fertility evaluation. Differences in milk production of individual animal species. Evaluation of milk production"
+    },
+    {
+      "label": "[section] Biological principles of fertility and milk production",
+      "content": "a.Breeding techniques and fertility evaluation. Differences in milk production of individual animal species. Evaluation of milk production"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Ontogenesis. New knowledge in the domain of growth of body tissues. Growth allometry"
+    },
+    {
+      "label": "[section] Biological principles of growth",
+      "content": "a.Ontogenesis. New knowledge in the domain of growth of body tissues. Growth allometry"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Fattening capacity. Meatiness. Carcass value"
+    },
+    {
+      "label": "[section] Biological principles of production slaughter animals and evaluation of meat performance",
+      "content": "a.Fattening capacity. Meatiness. Carcass value"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Labour production. Production of hides and furs. Production of wool and feathers"
+    },
+    {
+      "label": "[section] Biological principles of production of labour and skin derivatives",
+      "content": "a.Labour production. Production of hides and furs. Production of wool and feathers"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Breeding value. Principles of basic methods of selection in animal husbandry. Methods of animal breeding. Breeding programmes."
+    },
+    {
+      "label": "[section] Classification of methods of breeding work and requirements concerning methods of animal breeding",
+      "content": "a.Breeding value. Principles of basic methods of selection in animal husbandry. Methods of animal breeding. Breeding programmes."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture24 hpractice36 hconsultation22 hpreparation for exam64 hpreparation for regular assessment20 hpreparation for regular testing30 hTotal196 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "For Credit you have to receive minimal 80 % participation on exercising, correct writing 2 tests during exercising (min. 70 % points). Examination from subject is oral (60 % of the total mark)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:ŠUBRT, Jan. 2007. Obecná zootechnika. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 204 p. ISBN 978-80-7375-115-9.ŠUBRT, Jan. 2008. Obecná zootechnika: návody do cvičení. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 130 p. ISBN 978-80-7375-203-3.KADLEČÍK, Ondrej. 2007. Všeobecná zootechnika. 1st ed. Nitra: Slovenská pol'nohospodárska univerzita v Nitre, 222 p. ISBN 978-80-8069-9536.JAKUBEC, Václav; BEZDÍČEK, Jiří; LOUDA, František. 2010. Selekce - inbríding - hybridizace. 1st ed. Rapotín: Agrovýzkum Rapotín s.r.o. , 382 p. ISBN 978-80-87144-22-0.Recommended: Linear models for the prediction of animal breeding values. 2nd ed. Wallingford, UK: CABI Pub., 344 p. ISBN 0-85199-000-2. Quantitative genetics theory in Animal Breeding. 1995. Guelph: University of Guelph, 220 p. Allgemeine Tierzucht. 1993. Stuttgart: Verlag Eugen Ulmer, 416 p. ISBN 3-8252-1649-7."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "ŠUBRT, Jan. 2007. Obecná zootechnika. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 204 p. ISBN 978-80-7375-115-9.ŠUBRT, Jan. 2008. Obecná zootechnika: návody do cvičení. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 130 p. ISBN 978-80-7375-203-3.KADLEČÍK, Ondrej. 2007. Všeobecná zootechnika. 1st ed. Nitra: Slovenská pol'nohospodárska univerzita v Nitre, 222 p. ISBN 978-80-8069-9536.JAKUBEC, Václav; BEZDÍČEK, Jiří; LOUDA, František. 2010. Selekce - inbríding - hybridizace. 1st ed. Rapotín: Agrovýzkum Rapotín s.r.o. , 382 p. ISBN 978-80-87144-22-0."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "Linear models for the prediction of animal breeding values. 2nd ed. Wallingford, UK: CABI Pub., 344 p. ISBN 0-85199-000-2. Quantitative genetics theory in Animal Breeding. 1995. Guelph: University of Guelph, 220 p. Allgemeine Tierzucht. 1993. Stuttgart: Verlag Eugen Ulmer, 416 p. ISBN 3-8252-1649-7."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-ABG Animal Breeding, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:42:31",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

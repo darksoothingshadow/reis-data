@@ -1,0 +1,1049 @@
+{
+  "courseCode": "EBC-CPEC",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-CPEC"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Technologie pro podnikové sítě CCNP ENCOR"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Technologies for Enterprise Networks CCNP ENCOR"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (7 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Jiří Balej, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jiří Balej, Ph.D. (garant)Ing. Igor Grellneth, Ph.D. (cvičící, přednášející, zkoušející)Ing. Andrej Juríčka (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška a Protokoly počítačových sítí a Přepínání a směrování v počítačových sítích"
+    },
+    {
+      "label": "1.",
+      "content": "Redundantní L2 topologie (dotace 2/9)"
+    },
+    {
+      "label": "a.",
+      "content": "principy přepínání paketů, VLAN"
+    },
+    {
+      "label": "b.",
+      "content": "vlastnosti Spanning Tree Protocol"
+    },
+    {
+      "label": "c.",
+      "content": "pokročilé nastavení Spanning Tree Protocol"
+    },
+    {
+      "label": "d.",
+      "content": "Multiple Spanning Tree Protocol"
+    },
+    {
+      "label": "e.",
+      "content": "VLAN Trunk Protocol (VTP)"
+    },
+    {
+      "label": "f.",
+      "content": "EtherChannel"
+    },
+    {
+      "label": "2.",
+      "content": "Směrování a dynamický směrovací protokol EIGRP (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "principy směrování"
+    },
+    {
+      "label": "b.",
+      "content": "VRF lite"
+    },
+    {
+      "label": "c.",
+      "content": "směrovací protokol EIGRP"
+    },
+    {
+      "label": "3.",
+      "content": "Dynamický směrovací protokol OSPF (dotace 1/6)"
+    },
+    {
+      "label": "a.",
+      "content": "principy fungování OSPF"
+    },
+    {
+      "label": "b.",
+      "content": "single a multi area OSPF"
+    },
+    {
+      "label": "c.",
+      "content": "sumarizace a filtrování route"
+    },
+    {
+      "label": "d.",
+      "content": "OSPFv3 pro IPv4 a IPv6"
+    },
+    {
+      "label": "4.",
+      "content": "Směrování v Internetu (dotace 1/6)"
+    },
+    {
+      "label": "a.",
+      "content": "principy směrování v Internetu"
+    },
+    {
+      "label": "b.",
+      "content": "směrovací protokol BGP"
+    },
+    {
+      "label": "c.",
+      "content": "MP-BGP pro IPv4 a IPv6"
+    },
+    {
+      "label": "d.",
+      "content": "pokročilé nastavení BGP"
+    },
+    {
+      "label": "5.",
+      "content": "Přenos multimediálních dat (dotace 1/0)"
+    },
+    {
+      "label": "a.",
+      "content": "multicast"
+    },
+    {
+      "label": "b.",
+      "content": "Quality of Service"
+    },
+    {
+      "label": "6.",
+      "content": "Služby IP protokolů (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "NTP"
+    },
+    {
+      "label": "b.",
+      "content": "HSRP, VRRP, GLBP"
+    },
+    {
+      "label": "c.",
+      "content": "NAT"
+    },
+    {
+      "label": "7.",
+      "content": "Tunelové mechanismy (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "GRE tunely"
+    },
+    {
+      "label": "b.",
+      "content": "site-to-site IPsec tunely"
+    },
+    {
+      "label": "c.",
+      "content": "GRE over IPsec"
+    },
+    {
+      "label": "8.",
+      "content": "Bezdrátové sítě (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "přenos bezdrátového signálu"
+    },
+    {
+      "label": "b.",
+      "content": "infrastruktura bezdrátových sítí"
+    },
+    {
+      "label": "c.",
+      "content": "roaming v bezdrátových sítích"
+    },
+    {
+      "label": "d.",
+      "content": "autentizace v bezdrátových sítích"
+    },
+    {
+      "label": "e.",
+      "content": "troubleshooting v bezdrátových sítích"
+    },
+    {
+      "label": "9.",
+      "content": "Architektura podnikových sítí (dotace 1/0)"
+    },
+    {
+      "label": "a.",
+      "content": "tradiční architektura podnikových sítí"
+    },
+    {
+      "label": "b.",
+      "content": "softwarově definované sítě"
+    },
+    {
+      "label": "10.",
+      "content": "Zaručení úrovně služeb (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "testy konektivity a debug"
+    },
+    {
+      "label": "b.",
+      "content": "SNMP a syslog"
+    },
+    {
+      "label": "c.",
+      "content": "port mirroring"
+    },
+    {
+      "label": "d.",
+      "content": "SLA (Service Level Agreenment)"
+    },
+    {
+      "label": "11.",
+      "content": "Správa a zabezpečení síťových zařízení (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "přístupy vzdálené správy"
+    },
+    {
+      "label": "b.",
+      "content": "Cisco API"
+    },
+    {
+      "label": "c.",
+      "content": "IPv4 ACL"
+    },
+    {
+      "label": "d.",
+      "content": "zabezpečení síťového prvku"
+    },
+    {
+      "label": "e.",
+      "content": "lokální autentizace"
+    },
+    {
+      "label": "f.",
+      "content": "serverová autentizace (AAA)"
+    },
+    {
+      "label": "12.",
+      "content": "Virtualizace a automatizace v počítačových sítích (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "úvod do virtualizace"
+    },
+    {
+      "label": "b.",
+      "content": "programovatelné funkce sítě"
+    },
+    {
+      "label": "c.",
+      "content": "využití Python pro správu síťových zařízení"
+    },
+    {
+      "label": "d.",
+      "content": "využití NETCONF pro správu síťových zařízení"
+    },
+    {
+      "label": "e.",
+      "content": "využití RESTCONF pro správu síťových zařízení"
+    },
+    {
+      "label": "f.",
+      "content": "využití REST API pro správu síťových zařízení"
+    },
+    {
+      "label": "g.",
+      "content": "příprava EEM Appletu"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2024/2025, LS 2023/2024, ZS 2023/2024, LS 2022/2023, ZS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Technologie pro podnikové sítě CCNP ENCOR"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Technologies for Enterprise Networks CCNP ENCOR"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (7 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (7 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Jiří Balej, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jiří Balej, Ph.D. (garant)Ing. Igor Grellneth, Ph.D. (cvičící, přednášející, zkoušející)Ing. Andrej Juríčka (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a Protokoly počítačových sítí a Přepínání a směrování v počítačových sítích"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaČtvrtek15.00-15.50Q-LCNAB-AIII. Grellneth, A. JuríčkaPřednáškaKaždý týden15Čtvrtek16.00-18.50Q-LCNAB-AIII. Grellneth, A. JuríčkaCvičeníKaždý týden15Pátek14.00-17.50Q01.48B-AIII. GrellnethPřednáškaNepravidelně22"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu přípravit studenty po teoretické i praktické stránce na složení průmyslové certifikační zkoušky CCNP Enterprise Core (350-401 ENCOR)."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Redundantní L2 topologie (dotace 2/9) a.principy přepínání paketů, VLANb.vlastnosti Spanning Tree Protocolc.pokročilé nastavení Spanning Tree Protocold.Multiple Spanning Tree Protocole.VLAN Trunk Protocol (VTP)f.EtherChannel2.Směrování a dynamický směrovací protokol EIGRP (dotace 1/3) a.principy směrováníb.VRF litec.směrovací protokol EIGRP3.Dynamický směrovací protokol OSPF (dotace 1/6) a.principy fungování OSPFb.single a multi area OSPFc.sumarizace a filtrování routed.OSPFv3 pro IPv4 a IPv64.Směrování v Internetu (dotace 1/6) a.principy směrování v Internetub.směrovací protokol BGPc.MP-BGP pro IPv4 a IPv6d.pokročilé nastavení BGP5.Přenos multimediálních dat (dotace 1/0) a.multicastb.Quality of Service6.Služby IP protokolů (dotace 1/3) a.NTPb.HSRP, VRRP, GLBPc.NAT7.Tunelové mechanismy (dotace 1/3) a.GRE tunelyb.site-to-site IPsec tunelyc.GRE over IPsec8.Bezdrátové sítě (dotace 2/3) a.přenos bezdrátového signálub.infrastruktura bezdrátových sítíc.roaming v bezdrátových sítíchd.autentizace v bezdrátových sítíche.troubleshooting v bezdrátových sítích9.Architektura podnikových sítí (dotace 1/0) a.tradiční architektura podnikových sítíb.softwarově definované sítě10.Zaručení úrovně služeb (dotace 1/3) a.testy konektivity a debugb.SNMP a syslogc.port mirroringd.SLA (Service Level Agreenment)11.Správa a zabezpečení síťových zařízení (dotace 1/3) a.přístupy vzdálené správyb.Cisco APIc.IPv4 ACLd.zabezpečení síťového prvkue.lokální autentizacef.serverová autentizace (AAA)12.Virtualizace a automatizace v počítačových sítích (dotace 1/3) a.úvod do virtualizaceb.programovatelné funkce sítěc.využití Python pro správu síťových zařízeníd.využití NETCONF pro správu síťových zařízeníe.využití RESTCONF pro správu síťových zařízeníf.využití REST API pro správu síťových zařízeníg.příprava EEM Appletu"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.principy přepínání paketů, VLANb.vlastnosti Spanning Tree Protocolc.pokročilé nastavení Spanning Tree Protocold.Multiple Spanning Tree Protocole.VLAN Trunk Protocol (VTP)f.EtherChannel"
+    },
+    {
+      "label": "[section] Redundantní L2 topologie",
+      "content": "a.principy přepínání paketů, VLANb.vlastnosti Spanning Tree Protocolc.pokročilé nastavení Spanning Tree Protocold.Multiple Spanning Tree Protocole.VLAN Trunk Protocol (VTP)f.EtherChannel"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.principy směrováníb.VRF litec.směrovací protokol EIGRP"
+    },
+    {
+      "label": "[section] Směrování a dynamický směrovací protokol EIGRP",
+      "content": "a.principy směrováníb.VRF litec.směrovací protokol EIGRP"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.principy fungování OSPFb.single a multi area OSPFc.sumarizace a filtrování routed.OSPFv3 pro IPv4 a IPv6"
+    },
+    {
+      "label": "[section] Dynamický směrovací protokol OSPF",
+      "content": "a.principy fungování OSPFb.single a multi area OSPFc.sumarizace a filtrování routed.OSPFv3 pro IPv4 a IPv6"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.principy směrování v Internetub.směrovací protokol BGPc.MP-BGP pro IPv4 a IPv6d.pokročilé nastavení BGP"
+    },
+    {
+      "label": "[section] Směrování v Internetu",
+      "content": "a.principy směrování v Internetub.směrovací protokol BGPc.MP-BGP pro IPv4 a IPv6d.pokročilé nastavení BGP"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.multicastb.Quality of Service"
+    },
+    {
+      "label": "[section] Přenos multimediálních dat",
+      "content": "a.multicastb.Quality of Service"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.NTPb.HSRP, VRRP, GLBPc.NAT"
+    },
+    {
+      "label": "[section] Služby IP protokolů",
+      "content": "a.NTPb.HSRP, VRRP, GLBPc.NAT"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.GRE tunelyb.site-to-site IPsec tunelyc.GRE over IPsec"
+    },
+    {
+      "label": "[section] Tunelové mechanismy",
+      "content": "a.GRE tunelyb.site-to-site IPsec tunelyc.GRE over IPsec"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.přenos bezdrátového signálub.infrastruktura bezdrátových sítíc.roaming v bezdrátových sítíchd.autentizace v bezdrátových sítíche.troubleshooting v bezdrátových sítích"
+    },
+    {
+      "label": "[section] Bezdrátové sítě",
+      "content": "a.přenos bezdrátového signálub.infrastruktura bezdrátových sítíc.roaming v bezdrátových sítíchd.autentizace v bezdrátových sítíche.troubleshooting v bezdrátových sítích"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.tradiční architektura podnikových sítíb.softwarově definované sítě"
+    },
+    {
+      "label": "[section] Architektura podnikových sítí",
+      "content": "a.tradiční architektura podnikových sítíb.softwarově definované sítě"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.testy konektivity a debugb.SNMP a syslogc.port mirroringd.SLA (Service Level Agreenment)"
+    },
+    {
+      "label": "[section] Zaručení úrovně služeb",
+      "content": "a.testy konektivity a debugb.SNMP a syslogc.port mirroringd.SLA (Service Level Agreenment)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.přístupy vzdálené správyb.Cisco APIc.IPv4 ACLd.zabezpečení síťového prvkue.lokální autentizacef.serverová autentizace (AAA)"
+    },
+    {
+      "label": "[section] Správa a zabezpečení síťových zařízení",
+      "content": "a.přístupy vzdálené správyb.Cisco APIc.IPv4 ACLd.zabezpečení síťového prvkue.lokální autentizacef.serverová autentizace (AAA)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.úvod do virtualizaceb.programovatelné funkce sítěc.využití Python pro správu síťových zařízeníd.využití NETCONF pro správu síťových zařízeníe.využití RESTCONF pro správu síťových zařízeníf.využití REST API pro správu síťových zařízeníg.příprava EEM Appletu"
+    },
+    {
+      "label": "[section] Virtualizace a automatizace v počítačových sítích",
+      "content": "a.úvod do virtualizaceb.programovatelné funkce sítěc.využití Python pro správu síťových zařízeníd.využití NETCONF pro správu síťových zařízeníe.využití RESTCONF pro správu síťových zařízeníf.využití REST API pro správu síťových zařízeníg.příprava EEM Appletu"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška14 h16 hcvičení42 h0 hkonzultace0 h40 hpříprava na zkoušku98 h98 hpříprava na průběžné hodnocení42 h42 hCelkem196 h196 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Průběžné elektronické testy – 11 po max. 2 bodech a závěrečný za max. 8 bodů. Tyto testy nemají dané minimum. Závěrečná zkouška má dvě části – praktickou a teoretickou část, každou je nutné splnit nad 50 %. Neúspěšnou část je možné 2x opakovat. Praktická část je za max. 40 bodů a teoretická část za max. 30 bodů. Známka: A (alespoň 90 bodů), B (83 bodů), C (75 bodů), D (68 bodů), E (60 bodů)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAbsolvování průběžného testu (testů)30 %30 %Absolvování závěrečné ústní zkoušky30 %30 %Absolvování závěrečné praktické zkoušky40 %40 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:HUCABY, Dave. 2020. CCNP and CCIE enterprise core: ENCOR 350-401 : official cert guide. Indianopolis: Cisco Press, 973 s. ISBN 978-1-58714-523-0.SOCHOR, Tomáš. 2018. Cisco CCNP Route. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-608-1.Doporučená:SOCHOR, Tomáš. 2018. Technologie WAN sítí – technologie Cisco IV. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-606-7."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "HUCABY, Dave. 2020. CCNP and CCIE enterprise core: ENCOR 350-401 : official cert guide. Indianopolis: Cisco Press, 973 s. ISBN 978-1-58714-523-0.SOCHOR, Tomáš. 2018. Cisco CCNP Route. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-608-1."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "SOCHOR, Tomáš. 2018. Technologie WAN sítí – technologie Cisco IV. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-606-7."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-CPEC"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Technologie pro podnikové sítě CCNP ENCOR"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Technologies for Enterprise Networks CCNP ENCOR"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (7 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course cannot be studied during abroad internship."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Jiří Balej, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jiří Balej, Ph.D. (supervisor)Ing. Igor Grellneth, Ph.D. (examiner, instructor, lecturer)Ing. Andrej Juríčka (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam and Computer Networks Protocols and Switching and Routing in Computer Networks"
+    },
+    {
+      "label": "1.",
+      "content": "Redundancy in L2 topology (allowance 2/9)"
+    },
+    {
+      "label": "a.",
+      "content": "principles of packet forwarding, VLAN"
+    },
+    {
+      "label": "b.",
+      "content": "properties of Spanning Tree Protocol"
+    },
+    {
+      "label": "c.",
+      "content": "advanced settings of Spanning Tree Protocol"
+    },
+    {
+      "label": "d.",
+      "content": "Multiple Spanning Tree Protocol"
+    },
+    {
+      "label": "e.",
+      "content": "VLAN Trunk Protocol (VTP)"
+    },
+    {
+      "label": "f.",
+      "content": "EtherChannel"
+    },
+    {
+      "label": "2.",
+      "content": "Routing and dynamic routing protocol EIGRP (allowance 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "routing essentials"
+    },
+    {
+      "label": "b.",
+      "content": "VRF lite"
+    },
+    {
+      "label": "c.",
+      "content": "routing protocol EIGRP"
+    },
+    {
+      "label": "3.",
+      "content": "Dynamic routing protocol OSPF (allowance 1/6)"
+    },
+    {
+      "label": "a.",
+      "content": "principle of OSPF"
+    },
+    {
+      "label": "b.",
+      "content": "single and multi area OSPF"
+    },
+    {
+      "label": "c.",
+      "content": "route summarization and filtering"
+    },
+    {
+      "label": "d.",
+      "content": "OSPVv3 for IPv4 and IPv6"
+    },
+    {
+      "label": "4.",
+      "content": "Routing in the Internet (allowance 1/6)"
+    },
+    {
+      "label": "a.",
+      "content": "principle of routing in the Internet"
+    },
+    {
+      "label": "b.",
+      "content": "routing protocol BGP"
+    },
+    {
+      "label": "c.",
+      "content": "MP-BPG for IPv4 and IPv6"
+    },
+    {
+      "label": "d.",
+      "content": "BGP advanced settings"
+    },
+    {
+      "label": "5.",
+      "content": "Multimedia data transmission (allowance 1/0)"
+    },
+    {
+      "label": "a.",
+      "content": "multicast"
+    },
+    {
+      "label": "b.",
+      "content": "Quality of Service"
+    },
+    {
+      "label": "6.",
+      "content": "IP services (allowance 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "NTP"
+    },
+    {
+      "label": "b.",
+      "content": "HSRP, VRRP, GLBP"
+    },
+    {
+      "label": "c.",
+      "content": "NAT"
+    },
+    {
+      "label": "7.",
+      "content": "Overlay tunnels (allowance 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "GRE tunnel"
+    },
+    {
+      "label": "b.",
+      "content": "site-to-site IPsec tunnel"
+    },
+    {
+      "label": "c.",
+      "content": "GRE over IPsec"
+    },
+    {
+      "label": "8.",
+      "content": "Wireless networks (allowance 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "wireless signal transmission"
+    },
+    {
+      "label": "b.",
+      "content": "wireless network infrastructure"
+    },
+    {
+      "label": "c.",
+      "content": "roaming in wireless networks"
+    },
+    {
+      "label": "d.",
+      "content": "authentication in wireless networks"
+    },
+    {
+      "label": "e.",
+      "content": "troubleshooting of wireless networks"
+    },
+    {
+      "label": "9.",
+      "content": "Enterprise network architecture (allowance 1/0)"
+    },
+    {
+      "label": "a.",
+      "content": "traditional architecture of enterprise network"
+    },
+    {
+      "label": "b.",
+      "content": "software defined networks"
+    },
+    {
+      "label": "10.",
+      "content": "Network assurance (allowance 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "connection tests and debug"
+    },
+    {
+      "label": "b.",
+      "content": "SNMP and syslog"
+    },
+    {
+      "label": "c.",
+      "content": "port mirroring"
+    },
+    {
+      "label": "d.",
+      "content": "SLA (Service Level Agreenment)"
+    },
+    {
+      "label": "11.",
+      "content": "Managing and securing network devices (allowance 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "remote access principles"
+    },
+    {
+      "label": "b.",
+      "content": "Cisco API"
+    },
+    {
+      "label": "c.",
+      "content": "IPv4 ACL"
+    },
+    {
+      "label": "d.",
+      "content": "securing of network device"
+    },
+    {
+      "label": "e.",
+      "content": "local authentication"
+    },
+    {
+      "label": "f.",
+      "content": "server authentication (AAA)"
+    },
+    {
+      "label": "12.",
+      "content": "Virtualization and automation in computer networks (allowance 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "introduction to virtualization"
+    },
+    {
+      "label": "b.",
+      "content": "programmable functions of networks"
+    },
+    {
+      "label": "c.",
+      "content": "using Python for device management"
+    },
+    {
+      "label": "d.",
+      "content": "using NETCONF for device management"
+    },
+    {
+      "label": "e.",
+      "content": "using RESTCONF for device management"
+    },
+    {
+      "label": "f.",
+      "content": "using REST API for device management"
+    },
+    {
+      "label": "g.",
+      "content": "preparing EEM Applet"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2024/2025, SS 2023/2024, WS 2023/2024, SS 2022/2023, WS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Technologie pro podnikové sítě CCNP ENCOR"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Technologies for Enterprise Networks CCNP ENCOR"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (7 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (7 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course cannot be studied during abroad internship."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Jiří Balej, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jiří Balej, Ph.D. (supervisor)Ing. Igor Grellneth, Ph.D. (examiner, instructor, lecturer)Ing. Andrej Juríčka (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam and Computer Networks Protocols and Switching and Routing in Computer Networks"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityThursday15.00-15.50Q-LCNAB-AIII. Grellneth, A. JuríčkaLectureEvery week15Thursday16.00-18.50Q-LCNAB-AIII. Grellneth, A. JuríčkaSeminarEvery week15Friday14.00-17.50Q01.48B-AIII. GrellnethLectureOccasionally22"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to prepare students in theoretical and practical terms for passing the industrial certification exam CCNP Enterprise Core (350-401 ENCOR)."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Redundancy in L2 topology (allowance 2/9) a.principles of packet forwarding, VLANb.properties of Spanning Tree Protocolc.advanced settings of Spanning Tree Protocold.Multiple Spanning Tree Protocole.VLAN Trunk Protocol (VTP)f.EtherChannel2.Routing and dynamic routing protocol EIGRP (allowance 1/3) a.routing essentialsb.VRF litec.routing protocol EIGRP3.Dynamic routing protocol OSPF (allowance 1/6) a.principle of OSPFb.single and multi area OSPFc.route summarization and filteringd.OSPVv3 for IPv4 and IPv64.Routing in the Internet (allowance 1/6) a.principle of routing in the Internetb.routing protocol BGPc.MP-BPG for IPv4 and IPv6d.BGP advanced settings5.Multimedia data transmission (allowance 1/0) a.multicastb.Quality of Service6.IP services (allowance 1/3) a.NTPb.HSRP, VRRP, GLBPc.NAT7.Overlay tunnels (allowance 1/3) a.GRE tunnelb.site-to-site IPsec tunnelc.GRE over IPsec8.Wireless networks (allowance 2/3) a.wireless signal transmissionb.wireless network infrastructurec.roaming in wireless networksd.authentication in wireless networkse.troubleshooting of wireless networks9.Enterprise network architecture (allowance 1/0) a.traditional architecture of enterprise networkb.software defined networks10.Network assurance (allowance 1/3) a.connection tests and debugb.SNMP and syslogc.port mirroringd.SLA (Service Level Agreenment)11.Managing and securing network devices (allowance 1/3) a.remote access principlesb.Cisco APIc.IPv4 ACLd.securing of network devicee.local authenticationf.server authentication (AAA)12.Virtualization and automation in computer networks (allowance 1/3) a.introduction to virtualizationb.programmable functions of networksc.using Python for device managementd.using NETCONF for device managemente.using RESTCONF for device managementf.using REST API for device managementg.preparing EEM Applet"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.principles of packet forwarding, VLANb.properties of Spanning Tree Protocolc.advanced settings of Spanning Tree Protocold.Multiple Spanning Tree Protocole.VLAN Trunk Protocol (VTP)f.EtherChannel"
+    },
+    {
+      "label": "[section] Redundancy in L2 topology",
+      "content": "a.principles of packet forwarding, VLANb.properties of Spanning Tree Protocolc.advanced settings of Spanning Tree Protocold.Multiple Spanning Tree Protocole.VLAN Trunk Protocol (VTP)f.EtherChannel"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.routing essentialsb.VRF litec.routing protocol EIGRP"
+    },
+    {
+      "label": "[section] Routing and dynamic routing protocol EIGRP",
+      "content": "a.routing essentialsb.VRF litec.routing protocol EIGRP"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.principle of OSPFb.single and multi area OSPFc.route summarization and filteringd.OSPVv3 for IPv4 and IPv6"
+    },
+    {
+      "label": "[section] Dynamic routing protocol OSPF",
+      "content": "a.principle of OSPFb.single and multi area OSPFc.route summarization and filteringd.OSPVv3 for IPv4 and IPv6"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.principle of routing in the Internetb.routing protocol BGPc.MP-BPG for IPv4 and IPv6d.BGP advanced settings"
+    },
+    {
+      "label": "[section] Routing in the Internet",
+      "content": "a.principle of routing in the Internetb.routing protocol BGPc.MP-BPG for IPv4 and IPv6d.BGP advanced settings"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.multicastb.Quality of Service"
+    },
+    {
+      "label": "[section] Multimedia data transmission",
+      "content": "a.multicastb.Quality of Service"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.NTPb.HSRP, VRRP, GLBPc.NAT"
+    },
+    {
+      "label": "[section] IP services",
+      "content": "a.NTPb.HSRP, VRRP, GLBPc.NAT"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.GRE tunnelb.site-to-site IPsec tunnelc.GRE over IPsec"
+    },
+    {
+      "label": "[section] Overlay tunnels",
+      "content": "a.GRE tunnelb.site-to-site IPsec tunnelc.GRE over IPsec"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.wireless signal transmissionb.wireless network infrastructurec.roaming in wireless networksd.authentication in wireless networkse.troubleshooting of wireless networks"
+    },
+    {
+      "label": "[section] Wireless networks",
+      "content": "a.wireless signal transmissionb.wireless network infrastructurec.roaming in wireless networksd.authentication in wireless networkse.troubleshooting of wireless networks"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.traditional architecture of enterprise networkb.software defined networks"
+    },
+    {
+      "label": "[section] Enterprise network architecture",
+      "content": "a.traditional architecture of enterprise networkb.software defined networks"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.connection tests and debugb.SNMP and syslogc.port mirroringd.SLA (Service Level Agreenment)"
+    },
+    {
+      "label": "[section] Network assurance",
+      "content": "a.connection tests and debugb.SNMP and syslogc.port mirroringd.SLA (Service Level Agreenment)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.remote access principlesb.Cisco APIc.IPv4 ACLd.securing of network devicee.local authenticationf.server authentication (AAA)"
+    },
+    {
+      "label": "[section] Managing and securing network devices",
+      "content": "a.remote access principlesb.Cisco APIc.IPv4 ACLd.securing of network devicee.local authenticationf.server authentication (AAA)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.introduction to virtualizationb.programmable functions of networksc.using Python for device managementd.using NETCONF for device managemente.using RESTCONF for device managementf.using REST API for device managementg.preparing EEM Applet"
+    },
+    {
+      "label": "[section] Virtualization and automation in computer networks",
+      "content": "a.introduction to virtualizationb.programmable functions of networksc.using Python for device managementd.using NETCONF for device managemente.using RESTCONF for device managementf.using REST API for device managementg.preparing EEM Applet"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture14 h16 hpractice42 h0 hconsultation0 h40 hpreparation for exam98 h98 hpreparation for regular assessment42 h42 hTotal196 h196 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Continuous electronic tests - 11 for max. 2 points and the final test for max. 8 points. These tests do not have a minimum. The final exam has two parts - a practical and a theoretical part, each of which must be passed over 50%. The unsuccessful part can be repeated twice. The practical part is for max. 40 points and the theoretical part for max. 30 points. Evaluation: A (at least 90 points), B (83 points), C (75 points), D (68 points), E (60 points)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formMid-term test(s)30 %30 %Final oral exam30 %30 %Passing practical final exam40 %40 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:HUCABY, Dave. 2020. CCNP and CCIE enterprise core: ENCOR 350-401 : official cert guide. Indianopolis: Cisco Press, 973 p. ISBN 978-1-58714-523-0.SOCHOR, Tomáš. 2018. Cisco CCNP Route. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-608-1.Recommended:SOCHOR, Tomáš. 2018. Technologie WAN sítí – technologie Cisco IV. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-606-7."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "HUCABY, Dave. 2020. CCNP and CCIE enterprise core: ENCOR 350-401 : official cert guide. Indianopolis: Cisco Press, 973 p. ISBN 978-1-58714-523-0.SOCHOR, Tomáš. 2018. Cisco CCNP Route. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-608-1."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "SOCHOR, Tomáš. 2018. Technologie WAN sítí – technologie Cisco IV. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-606-7."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:39:13",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

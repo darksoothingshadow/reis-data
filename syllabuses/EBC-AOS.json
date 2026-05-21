@@ -1,0 +1,645 @@
+{
+  "courseCode": "EBC-AOS",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-AOS"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Architektura operačních systémů"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Operating Systems Architecture"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Pavel Haluza, Ph.D. (cvičící, přednášející, tutor, zkoušející)prof. Ing. Cyril Klimeš, CSc. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Ludmila Kunderová (cvičící, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Přednáška: Úloha operačních systémů (vazba na hardware počítače, služby operačního systému, typy operačních systémů)Cvičení: úvod do výuky, bezpečnostní pravidla, opakování základních příkazů UNIXu (dotace 2/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Přednáška: Architektura operačních systémů (vrstevnatá architektura, virtualizovaná architektura, architektura klient-server)Cvičení: vývoj (intepret vs. překlad), filtry, roury (dotace 2/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Přednáška: Správa procesů (plánování procesů, komunikace a synchronizace procesů, uváznutí, vlákna)Cvičení: regulární výrazy, grep, sed (dotace 2/2)"
+    },
+    {
+      "label": "4.",
+      "content": "Přednáška: Správa hlavní paměti (přidělování paměti, virtualizace paměti)Cvičení: editor VIM, proměnné prostředí, úvod do skriptů (dotace 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Přednáška: Správa vstupních a výstupních zařízení (typy komunikace, prostředky komunikace)Cvičení: skripty (dotace 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Přednáška: Správa sekundární paměti (obsluha požadavků na přístup k sekundární paměti)Cvičení: skripty (dotace 2/2)"
+    },
+    {
+      "label": "7.",
+      "content": "Přednáška: Správa souborů (organizace souborových systémů, alokační metody)Cvičení: procesy a řízení úloh (dotace 2/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Přednáška: Správa síťového rozhraní (síťový model a síťová architektura, síťové protokoly)Cvičení: filesystém – adresářová struktura, linky, find (dotace 2/2)"
+    },
+    {
+      "label": "9.",
+      "content": "Přednáška: Uživatelská rozhraní (interpret příkazů, grafické uživatelské rozhraní)Cvičení: filesystém – fdisk, gparted, mkfs, mount (dotace 2/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Přednáška: Systém ochran (ochrana objektů, ochrana paměti, bezpečnostní modely operačních systémů)Cvičení: správa uživatelů (dotace 2/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Přednáška: Distribuované operační systémy (čas a stav v distribuovaném prostředí, transakce a souběžnost, řízení souběžných transakcí, distribuované algoritmy, multicasting)Cvičení: instalace systému a aplikací, archivy (dotace 2/2)"
+    },
+    {
+      "label": "12.",
+      "content": "Přednáška: Operační systémy reálného časuCvičení: opakování, příprava na zápočet (dotace 2/2)"
+    },
+    {
+      "label": "13.",
+      "content": "Přednáška: Operační systémy mobilních zařízeníCvičení: zápočtové testy (dotace 2/2)"
+    },
+    {
+      "label": "14.",
+      "content": "Přednáška: Architektura Windows, Unix, Linux, MAC OSxCvičení: zápočtové testy (dotace 2/2)"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, ZS 2021/2022, LS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Architektura operačních systémů"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Operating Systems Architecture"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Pavel Haluza, Ph.D. (cvičící, přednášející, tutor, zkoušející)prof. Ing. Cyril Klimeš, CSc. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Ludmila Kunderová (cvičící, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí7.00-10.50Q03B-AIIB-OIC. KlimešPřednáškaSudý týden170Středa13.00-14.50Q47B-AIIB-OIP. HaluzaCvičeníKaždý týden22Středa15.00-16.50Q47B-AIIB-OIP. HaluzaCvičeníKaždý týden22Středa17.00-18.50Q47B-AIIB-OIP. HaluzaCvičeníKaždý týden22Čtvrtek9.00-10.50Q47B-AIIB-OIL. KunderováCvičeníKaždý týden22Čtvrtek11.00-12.50Q47B-AIIB-OIL. KunderováCvičeníKaždý týden22Čtvrtek15.00-16.50Q47B-AIIB-OIP. HaluzaCvičeníKaždý týden22Sobota9.00-12.50Q47B-AIIP. Haluza, C. KlimešPřednáškaNepravidelně20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Seznámit studenty s principy a strukturou operačních systémů, které jsou nejčastěji používány v instalacích serverů a pracovních stanic, připravit studenty pro náročnou uživatelskou činnost pod systémy třídy UNIX. Student si rozšíří znalosti v oblasti pokročilého používání a základní správy operačních systémů a seznámí se s principy jejich fungování."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Přednáška: Úloha operačních systémů (vazba na hardware počítače, služby operačního systému, typy operačních systémů)Cvičení: úvod do výuky, bezpečnostní pravidla, opakování základních příkazů UNIXu (dotace 2/2)2.Přednáška: Architektura operačních systémů (vrstevnatá architektura, virtualizovaná architektura, architektura klient-server)Cvičení: vývoj (intepret vs. překlad), filtry, roury (dotace 2/2)3.Přednáška: Správa procesů (plánování procesů, komunikace a synchronizace procesů, uváznutí, vlákna)Cvičení: regulární výrazy, grep, sed (dotace 2/2)4.Přednáška: Správa hlavní paměti (přidělování paměti, virtualizace paměti)Cvičení: editor VIM, proměnné prostředí, úvod do skriptů (dotace 2/2)5.Přednáška: Správa vstupních a výstupních zařízení (typy komunikace, prostředky komunikace)Cvičení: skripty (dotace 2/2)6.Přednáška: Správa sekundární paměti (obsluha požadavků na přístup k sekundární paměti)Cvičení: skripty (dotace 2/2)7.Přednáška: Správa souborů (organizace souborových systémů, alokační metody)Cvičení: procesy a řízení úloh (dotace 2/2)8.Přednáška: Správa síťového rozhraní (síťový model a síťová architektura, síťové protokoly)Cvičení: filesystém – adresářová struktura, linky, find (dotace 2/2)9.Přednáška: Uživatelská rozhraní (interpret příkazů, grafické uživatelské rozhraní)Cvičení: filesystém – fdisk, gparted, mkfs, mount (dotace 2/2)10.Přednáška: Systém ochran (ochrana objektů, ochrana paměti, bezpečnostní modely operačních systémů)Cvičení: správa uživatelů (dotace 2/2)11.Přednáška: Distribuované operační systémy (čas a stav v distribuovaném prostředí, transakce a souběžnost, řízení souběžných transakcí, distribuované algoritmy, multicasting)Cvičení: instalace systému a aplikací, archivy (dotace 2/2)12.Přednáška: Operační systémy reálného časuCvičení: opakování, příprava na zápočet (dotace 2/2)13.Přednáška: Operační systémy mobilních zařízeníCvičení: zápočtové testy (dotace 2/2)14.Přednáška: Architektura Windows, Unix, Linux, MAC OSxCvičení: zápočtové testy (dotace 2/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Přednáška: Architektura operačních systémů (vrstevnatá architektura, virtualizovaná architektura, architektura klient-server)Cvičení: vývoj (intepret vs. překlad), filtry, roury (dotace 2/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Přednáška: Správa procesů (plánování procesů, komunikace a synchronizace procesů, uváznutí, vlákna)Cvičení: regulární výrazy, grep, sed (dotace 2/2)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Přednáška: Správa hlavní paměti (přidělování paměti, virtualizace paměti)Cvičení: editor VIM, proměnné prostředí, úvod do skriptů (dotace 2/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Přednáška: Správa vstupních a výstupních zařízení (typy komunikace, prostředky komunikace)Cvičení: skripty (dotace 2/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Přednáška: Správa sekundární paměti (obsluha požadavků na přístup k sekundární paměti)Cvičení: skripty (dotace 2/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Přednáška: Správa souborů (organizace souborových systémů, alokační metody)Cvičení: procesy a řízení úloh (dotace 2/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Přednáška: Správa síťového rozhraní (síťový model a síťová architektura, síťové protokoly)Cvičení: filesystém – adresářová struktura, linky, find (dotace 2/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Přednáška: Uživatelská rozhraní (interpret příkazů, grafické uživatelské rozhraní)Cvičení: filesystém – fdisk, gparted, mkfs, mount (dotace 2/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Přednáška: Systém ochran (ochrana objektů, ochrana paměti, bezpečnostní modely operačních systémů)Cvičení: správa uživatelů (dotace 2/2)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Přednáška: Distribuované operační systémy (čas a stav v distribuovaném prostředí, transakce a souběžnost, řízení souběžných transakcí, distribuované algoritmy, multicasting)Cvičení: instalace systému a aplikací, archivy (dotace 2/2)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Přednáška: Operační systémy reálného časuCvičení: opakování, příprava na zápočet (dotace 2/2)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Přednáška: Operační systémy mobilních zařízeníCvičení: zápočtové testy (dotace 2/2)"
+    },
+    {
+      "label": "[section] Přednáška: Operační systémy reálného časuCvičení: opakování, příprava na zápočet",
+      "content": "13.Přednáška: Operační systémy mobilních zařízeníCvičení: zápočtové testy (dotace 2/2)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "14.Přednáška: Architektura Windows, Unix, Linux, MAC OSxCvičení: zápočtové testy (dotace 2/2)"
+    },
+    {
+      "label": "[section] Přednáška: Operační systémy mobilních zařízeníCvičení: zápočtové testy",
+      "content": "14.Přednáška: Architektura Windows, Unix, Linux, MAC OSxCvičení: zápočtové testy (dotace 2/2)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení28 h0 hkonzultace0 h40 hpříprava na zkoušku70 h70 hpříprava na průběžné hodnocení42 h42 hCelkem168 h168 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Pro získání malého zápočtu musí student splnit zápočtovou písemku na alespoň 30 bodů z 50 bodů. Student předmět úspěšně ukončí, pokud ze zkouškové písemky získá alespoň 30 bodů z 50 bodů. Výsledná známka se počítá ze součtu bodů za zápočtovou písemku a zkouškové písemky následujícím způsobem A 90-100, B 83-89, C 75-82, D 68-74, E 60-67 bodů. Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAbsolvování průběžného testu (testů)50 %50 %Absolvování závěrečného testu50 %50 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:KLIMEŠ, Cyril. 2019. Architektura operačních systémů. Brno: Mendelova univerzita v Brně, 275 s. ISBN 978-80-7509-635-7.KLIMEŠ, Cyril. 2007. Principy výstavby počítačů a operačních systémů. Ostrava: KOVOSIL Ostrava, 198 s. ISBN 978-80-903694-1-2.STALLING, William. 2017. Operating Systems: Internals and Design Principles. London: Pearson, 800 s. ISBN 978-01-346709-5-9.Doporučená:BRANDEJS, Michal. 2003. Linux: praktický průvodce. 2. vyd. Brno: Konvoj, 304 s. ISBN 80-7302-050-5.GAGNE, Greg; SILBERSCHATZ, Avi; GALVIN, Peter Baer. 2013. Operating Systems Concept. New York: John Wiley and Sons, Inc., 840 s. ISBN 978-1-1180633-3-0.DOLLIMORE, J; COULOURIS, G; KINDBERG, T. 2012. Distributed Systems, Concept and Design. Boston: Addison Wesley, 1080 s. ISBN 978-0-13-214301-1."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "KLIMEŠ, Cyril. 2019. Architektura operačních systémů. Brno: Mendelova univerzita v Brně, 275 s. ISBN 978-80-7509-635-7.KLIMEŠ, Cyril. 2007. Principy výstavby počítačů a operačních systémů. Ostrava: KOVOSIL Ostrava, 198 s. ISBN 978-80-903694-1-2.STALLING, William. 2017. Operating Systems: Internals and Design Principles. London: Pearson, 800 s. ISBN 978-01-346709-5-9."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "BRANDEJS, Michal. 2003. Linux: praktický průvodce. 2. vyd. Brno: Konvoj, 304 s. ISBN 80-7302-050-5.GAGNE, Greg; SILBERSCHATZ, Avi; GALVIN, Peter Baer. 2013. Operating Systems Concept. New York: John Wiley and Sons, Inc., 840 s. ISBN 978-1-1180633-3-0.DOLLIMORE, J; COULOURIS, G; KINDBERG, T. 2012. Distributed Systems, Concept and Design. Boston: Addison Wesley, 1080 s. ISBN 978-0-13-214301-1."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-AII Administrace IS/ICT, prezenční forma, počáteční období ZS 2024/2025Program B-OI Otevřená informatika, prezenční forma, počáteční období ZS 2024/2025Program B-AII Administrace IS/ICT, kombinovaná forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-AOS"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Architektura operačních systémů"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Operating Systems Architecture"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "Cannot be studied during the study placement."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Pavel Haluza, Ph.D. (examiner, instructor, lecturer, tutor)prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, supervisor, tutor)Ing. Ludmila Kunderová (examiner, instructor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Lecture: Task of operating systemsSeminar: introduction, safety rules (allowance 2/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Lecture: Operating systems architectureSeminar: developement, filters, pipes (allowance 2/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Lecture: Processes managementSeminar: regular expressions, grep, sed (allowance 2/2)"
+    },
+    {
+      "label": "4.",
+      "content": "Lecture: Main memory managementSeminar: VIM editor, shell variables, script introduction (allowance 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Lecture: I/O mechanismsSeminar: scripts (allowance 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Lecture: I/O mechanismsSeminar: scripts (allowance 2/2)"
+    },
+    {
+      "label": "7.",
+      "content": "Lecture: Secondary memory managementSeminar: process and task management (allowance 2/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Lecture: Network interface managementSeminar: filesystem - directory structure, links, find (allowance 2/2)"
+    },
+    {
+      "label": "9.",
+      "content": "Lecture: User interfaceSeminar: filesystem - fdisk, gparted, mkfs, mount (allowance 2/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Lecture: Protection systemSeminar: user management (allowance 2/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Lecture: Distributed operating systemsSeminar: system and applications instalation, archives (allowance 2/2)"
+    },
+    {
+      "label": "12.",
+      "content": "Lecture: Realtime operating systemsSeminar: revison (allowance 2/2)"
+    },
+    {
+      "label": "13.",
+      "content": "Lecture: Operating systems for mobile devicesSeminar: test (allowance 2/2)"
+    },
+    {
+      "label": "14.",
+      "content": "Lecture: Windows, Unix, Linux, MAC OSx architectureSeminar: test (allowance 2/2)"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, WS 2021/2022, SS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Architektura operačních systémů"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Operating Systems Architecture"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: Cannot be studied during the study placement."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Pavel Haluza, Ph.D. (examiner, instructor, lecturer, tutor)prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, supervisor, tutor)Ing. Ludmila Kunderová (examiner, instructor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday7.00-10.50Q03B-AIIB-OIC. KlimešLectureEven week170Wednesday13.00-14.50Q47B-AIIB-OIP. HaluzaSeminarEvery week22Wednesday15.00-16.50Q47B-AIIB-OIP. HaluzaSeminarEvery week22Wednesday17.00-18.50Q47B-AIIB-OIP. HaluzaSeminarEvery week22Thursday9.00-10.50Q47B-AIIB-OIL. KunderováSeminarEvery week22Thursday11.00-12.50Q47B-AIIB-OIL. KunderováSeminarEvery week22Thursday15.00-16.50Q47B-AIIB-OIP. HaluzaSeminarEvery week22Saturday9.00-12.50Q47B-AIIP. Haluza, C. KlimešLectureOccasionally20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The goal of the course is to introduce students into the principles and the structure of the most common operating systems running on the servers and workstations (MS Windows a UNIX). It gives to the students the skill for the exacting user's work with MS Windows a UNIX OS. Student enhances his knowledges in area of advanced usage and administration of operating systems and familiarize with principles of their working."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Lecture: Task of operating systemsSeminar: introduction, safety rules (allowance 2/2)2.Lecture: Operating systems architectureSeminar: developement, filters, pipes (allowance 2/2)3.Lecture: Processes managementSeminar: regular expressions, grep, sed (allowance 2/2)4.Lecture: Main memory managementSeminar: VIM editor, shell variables, script introduction (allowance 2/2)5.Lecture: I/O mechanismsSeminar: scripts (allowance 2/2)6.Lecture: I/O mechanismsSeminar: scripts (allowance 2/2)7.Lecture: Secondary memory managementSeminar: process and task management (allowance 2/2)8.Lecture: Network interface managementSeminar: filesystem - directory structure, links, find (allowance 2/2)9.Lecture: User interfaceSeminar: filesystem - fdisk, gparted, mkfs, mount (allowance 2/2)10.Lecture: Protection systemSeminar: user management (allowance 2/2)11.Lecture: Distributed operating systemsSeminar: system and applications instalation, archives (allowance 2/2)12.Lecture: Realtime operating systemsSeminar: revison (allowance 2/2)13.Lecture: Operating systems for mobile devicesSeminar: test (allowance 2/2)14.Lecture: Windows, Unix, Linux, MAC OSx architectureSeminar: test (allowance 2/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Lecture: Operating systems architectureSeminar: developement, filters, pipes (allowance 2/2)"
+    },
+    {
+      "label": "[section] Lecture: Task of operating systemsSeminar: introduction, safety rules",
+      "content": "2.Lecture: Operating systems architectureSeminar: developement, filters, pipes (allowance 2/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Lecture: Processes managementSeminar: regular expressions, grep, sed (allowance 2/2)"
+    },
+    {
+      "label": "[section] Lecture: Operating systems architectureSeminar: developement, filters, pipes",
+      "content": "3.Lecture: Processes managementSeminar: regular expressions, grep, sed (allowance 2/2)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Lecture: Main memory managementSeminar: VIM editor, shell variables, script introduction (allowance 2/2)"
+    },
+    {
+      "label": "[section] Lecture: Processes managementSeminar: regular expressions, grep, sed",
+      "content": "4.Lecture: Main memory managementSeminar: VIM editor, shell variables, script introduction (allowance 2/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Lecture: I/O mechanismsSeminar: scripts (allowance 2/2)"
+    },
+    {
+      "label": "[section] Lecture: Main memory managementSeminar: VIM editor, shell variables, script introduction",
+      "content": "5.Lecture: I/O mechanismsSeminar: scripts (allowance 2/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Lecture: I/O mechanismsSeminar: scripts (allowance 2/2)"
+    },
+    {
+      "label": "[section] Lecture: I/O mechanismsSeminar: scripts",
+      "content": "6.Lecture: I/O mechanismsSeminar: scripts (allowance 2/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Lecture: Secondary memory managementSeminar: process and task management (allowance 2/2)"
+    },
+    {
+      "label": "[section] Lecture: I/O mechanismsSeminar: scripts",
+      "content": "7.Lecture: Secondary memory managementSeminar: process and task management (allowance 2/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Lecture: Network interface managementSeminar: filesystem - directory structure, links, find (allowance 2/2)"
+    },
+    {
+      "label": "[section] Lecture: Secondary memory managementSeminar: process and task management",
+      "content": "8.Lecture: Network interface managementSeminar: filesystem - directory structure, links, find (allowance 2/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Lecture: User interfaceSeminar: filesystem - fdisk, gparted, mkfs, mount (allowance 2/2)"
+    },
+    {
+      "label": "[section] Lecture: Network interface managementSeminar: filesystem - directory structure, links, find",
+      "content": "9.Lecture: User interfaceSeminar: filesystem - fdisk, gparted, mkfs, mount (allowance 2/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Lecture: Protection systemSeminar: user management (allowance 2/2)"
+    },
+    {
+      "label": "[section] Lecture: User interfaceSeminar: filesystem - fdisk, gparted, mkfs, mount",
+      "content": "10.Lecture: Protection systemSeminar: user management (allowance 2/2)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Lecture: Distributed operating systemsSeminar: system and applications instalation, archives (allowance 2/2)"
+    },
+    {
+      "label": "[section] Lecture: Protection systemSeminar: user management",
+      "content": "11.Lecture: Distributed operating systemsSeminar: system and applications instalation, archives (allowance 2/2)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Lecture: Realtime operating systemsSeminar: revison (allowance 2/2)"
+    },
+    {
+      "label": "[section] Lecture: Distributed operating systemsSeminar: system and applications instalation, archives",
+      "content": "12.Lecture: Realtime operating systemsSeminar: revison (allowance 2/2)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Lecture: Operating systems for mobile devicesSeminar: test (allowance 2/2)"
+    },
+    {
+      "label": "[section] Lecture: Realtime operating systemsSeminar: revison",
+      "content": "13.Lecture: Operating systems for mobile devicesSeminar: test (allowance 2/2)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "14.Lecture: Windows, Unix, Linux, MAC OSx architectureSeminar: test (allowance 2/2)"
+    },
+    {
+      "label": "[section] Lecture: Operating systems for mobile devicesSeminar: test",
+      "content": "14.Lecture: Windows, Unix, Linux, MAC OSx architectureSeminar: test (allowance 2/2)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice28 h0 hconsultation0 h40 hpreparation for exam70 h70 hpreparation for regular assessment42 h42 hTotal168 h168 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "In order to obtain a small credit, the student must complete the tests at least 30 points out of 50 points. The student will successfully complete the subject if he / she obtains at least 30 points out of 50 points on final exam. The resulting mark is calculated from the sum of points for the small credit score and final exam as follows A 90-100, B 83-89, C 75-82, D 68-74, E 60-67 points. The course can not be studied during a foreign study."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formMid-term test(s)50 %50 %Final test50 %50 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:KLIMEŠ, Cyril. 2019. Architektura operačních systémů. Brno: Mendelova univerzita v Brně, 275 p. ISBN 978-80-7509-635-7.KLIMEŠ, Cyril. 2007. Principy výstavby počítačů a operačních systémů. Ostrava: KOVOSIL Ostrava, 198 p. ISBN 978-80-903694-1-2.STALLING, William. 2017. Operating Systems: Internals and Design Principles. London: Pearson, 800 p. ISBN 978-01-346709-5-9.Recommended:BRANDEJS, Michal. 2003. Linux: praktický průvodce. 2nd ed. Brno: Konvoj, 304 p. ISBN 80-7302-050-5.GAGNE, Greg; SILBERSCHATZ, Avi; GALVIN, Peter Baer. 2013. Operating Systems Concept. New York: John Wiley and Sons, Inc., 840 p. ISBN 978-1-1180633-3-0.DOLLIMORE, J; COULOURIS, G; KINDBERG, T. 2012. Distributed Systems, Concept and Design. Boston: Addison Wesley, 1080 p. ISBN 978-0-13-214301-1."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "KLIMEŠ, Cyril. 2019. Architektura operačních systémů. Brno: Mendelova univerzita v Brně, 275 p. ISBN 978-80-7509-635-7.KLIMEŠ, Cyril. 2007. Principy výstavby počítačů a operačních systémů. Ostrava: KOVOSIL Ostrava, 198 p. ISBN 978-80-903694-1-2.STALLING, William. 2017. Operating Systems: Internals and Design Principles. London: Pearson, 800 p. ISBN 978-01-346709-5-9."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "BRANDEJS, Michal. 2003. Linux: praktický průvodce. 2nd ed. Brno: Konvoj, 304 p. ISBN 80-7302-050-5.GAGNE, Greg; SILBERSCHATZ, Avi; GALVIN, Peter Baer. 2013. Operating Systems Concept. New York: John Wiley and Sons, Inc., 840 p. ISBN 978-1-1180633-3-0.DOLLIMORE, J; COULOURIS, G; KINDBERG, T. 2012. Distributed Systems, Concept and Design. Boston: Addison Wesley, 1080 p. ISBN 978-0-13-214301-1."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-AII Administration IS/ICT, full-time form, initial period WS 2024/2025Programme B-OI Open Informatics, full-time form, initial period WS 2024/2025Programme B-AII Administration IS/ICT, part-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:38:09",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

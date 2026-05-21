@@ -1,0 +1,601 @@
+{
+  "courseCode": "TAPSD",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "TAPSD"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Optimalizace procesů hydrotermické úpravy dřeva"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Optimization of Hydrothermal Wood Treatment Processes"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Mgr. Ing. Miroslav Trcala, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Mgr. Ing. Miroslav Trcala, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška a (Modifikace dřeva nebo Modifikace dřeva)"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do předmětu: fyzikální charakterizace procesu sušení materiálu, fyzikální popis sušícího prostředí a sušeného materiálu (dřeva). (dotace 2/1)"
+    },
+    {
+      "label": "2.",
+      "content": "Vlhkostní pole ve dřevě: popis mechanismů pohybu vody ve dřevě, Fickův zákon pro popis difuze vody ve dřevě, závislost difuzních koeficientů na vlhkosti a teplotě, Darcyho zákon pro popis pohybu vody volné ve dřevě, sorpce vody dřevem. (dotace 2/1)"
+    },
+    {
+      "label": "3.",
+      "content": "Vlhkostní pole ve dřevě: odvození parciální diferenciální rovnice popisující vlhkostní pole ve dřevě pod i nad mezí hygroskopicity, popis počátečních a okrajových podmínek pro různé způsoby sušení dřeva, numerické simulace vlhkostního pole ve dřevě. (dotace 2/1)"
+    },
+    {
+      "label": "4.",
+      "content": "Teplotní pole ve dřevě: popis způsobů přenosu tepla, Fourierův zákon pro popis kondukce tepla ve dřevě, závislost koeficientů tepelné vodivosti dřeva a měrného tepla na teplotě a vlhkosti. (dotace 2/1)"
+    },
+    {
+      "label": "5.",
+      "content": "Teplotní pole ve dřevě: odvození parciální diferenciální rovnice popisující teplotní pole ve dřevě, popis počátečních a okrajových podmínek pro různé způsoby sušení dřeva, numerické simulace teplotního pole ve dřevě. (dotace 2/1)"
+    },
+    {
+      "label": "6.",
+      "content": "Vázané teplotní a vlhkostní pole ve dřevě během sušení: vysvětlení problematiky multifyzikálního modelování, systémy diferenciálních rovnic, termodifuze - Soretův efekt, použití multifyzikálního modelu pro vybrané sušící režimy a ukázka konkrétních numerických simulací. (dotace 2/1)"
+    },
+    {
+      "label": "7.",
+      "content": "Deformačně-napěťové pole ve dřevě: lineární a nelineární mechanická odezva dřeva, Hookův zákon pro lineární elastické úlohy, popis vlivu změn vlhkosti a teploty na deformačně-napěťové pole ve dřevě. (dotace 2/1)"
+    },
+    {
+      "label": "8.",
+      "content": "Deformačně-napěťové pole ve dřevě: materiálově nelineární modely, elasto-plastické modely, visko-elastické a visko-plastické modely, modely popisující poškození dřeva během sušení. (dotace 2/1)"
+    },
+    {
+      "label": "9.",
+      "content": "Deformačně-napěťové pole ve dřevě: popis multifyzikálního modelu popisující mechanickou odezvu dřeva na teplotně-vlhkostní zatížení během procesu sušení dřeva vybranými sušícími režimy. (dotace 2/1)"
+    },
+    {
+      "label": "10.",
+      "content": "Interakce elektromagnetického pole se dřevem: Maxwellovy rovnice, fyzikální popis mikrovlnného ohřevu dřeva, numerické simulace mikrovlnného ohřevu. (dotace 2/1)"
+    },
+    {
+      "label": "11.",
+      "content": "Tepelná modifikace dřeva: použití, popis změn fyzikálních a mechanických vlastností tepelně modifikovaného dřeva, popis technologií tepelné modifikace dřeva. (dotace 2/1)"
+    },
+    {
+      "label": "12.",
+      "content": "Tepelná modifikace dřeva: fyzikální popis procesu tepelné modifikace dřeva, popis vnitřních zdrojů tepla během působení vysokých teplt na dřevo - matematické modelování pyrolýzy pomocí systému obyčejných diferenciálních rovnic, numerické simulace teplotního pole ve dřevě během jeho tepelné modifikace. (dotace 2/1)"
+    },
+    {
+      "label": "13.",
+      "content": "Optimalizace procesů sušení nebo modifikace dřeva pomocí matematických modelů s ohledem na časovou a energetickou náročnost na straně jedné a na kvalitu výsledného produktu na straně druhé. (dotace 2/1)"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021, ZS 2018/2019 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Optimalizace procesů hydrotermické úpravy dřeva"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Optimization of Hydrothermal Wood Treatment Processes"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Mgr. Ing. Miroslav Trcala, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Mgr. Ing. Miroslav Trcala, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška a (Modifikace dřeva nebo Modifikace dřeva)"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Seznámit studenta s teoretickými základy procesu přenosu a vedení tepla v materiálu, pohybu vlhkosti v materiálu v závislosti na zvolené technologie sušení dřeva. Seznámit s alternativami odstranění vody ze dřeva. Dále budou diskutovány možnosti snižování nákladů na vysoušení, možnosti zapojení simulací a optimalizace procesu sušení v oblasti sušících řádů a aerodynamiky sušícího prostředí. Tyto znalosti studenti dále využijí při tvorbě a práci s matematickými modely, které se používají například k analýze a optimalizaci sušícího procesu."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do předmětu: fyzikální charakterizace procesu sušení materiálu, fyzikální popis sušícího prostředí a sušeného materiálu (dřeva). (dotace 2/1)2.Vlhkostní pole ve dřevě: popis mechanismů pohybu vody ve dřevě, Fickův zákon pro popis difuze vody ve dřevě, závislost difuzních koeficientů na vlhkosti a teplotě, Darcyho zákon pro popis pohybu vody volné ve dřevě, sorpce vody dřevem. (dotace 2/1)3.Vlhkostní pole ve dřevě: odvození parciální diferenciální rovnice popisující vlhkostní pole ve dřevě pod i nad mezí hygroskopicity, popis počátečních a okrajových podmínek pro různé způsoby sušení dřeva, numerické simulace vlhkostního pole ve dřevě. (dotace 2/1)4.Teplotní pole ve dřevě: popis způsobů přenosu tepla, Fourierův zákon pro popis kondukce tepla ve dřevě, závislost koeficientů tepelné vodivosti dřeva a měrného tepla na teplotě a vlhkosti. (dotace 2/1)5.Teplotní pole ve dřevě: odvození parciální diferenciální rovnice popisující teplotní pole ve dřevě, popis počátečních a okrajových podmínek pro různé způsoby sušení dřeva, numerické simulace teplotního pole ve dřevě. (dotace 2/1)6.Vázané teplotní a vlhkostní pole ve dřevě během sušení: vysvětlení problematiky multifyzikálního modelování, systémy diferenciálních rovnic, termodifuze - Soretův efekt, použití multifyzikálního modelu pro vybrané sušící režimy a ukázka konkrétních numerických simulací. (dotace 2/1)7.Deformačně-napěťové pole ve dřevě: lineární a nelineární mechanická odezva dřeva, Hookův zákon pro lineární elastické úlohy, popis vlivu změn vlhkosti a teploty na deformačně-napěťové pole ve dřevě. (dotace 2/1)8.Deformačně-napěťové pole ve dřevě: materiálově nelineární modely, elasto-plastické modely, visko-elastické a visko-plastické modely, modely popisující poškození dřeva během sušení. (dotace 2/1)9.Deformačně-napěťové pole ve dřevě: popis multifyzikálního modelu popisující mechanickou odezvu dřeva na teplotně-vlhkostní zatížení během procesu sušení dřeva vybranými sušícími režimy. (dotace 2/1)10.Interakce elektromagnetického pole se dřevem: Maxwellovy rovnice, fyzikální popis mikrovlnného ohřevu dřeva, numerické simulace mikrovlnného ohřevu. (dotace 2/1)11.Tepelná modifikace dřeva: použití, popis změn fyzikálních a mechanických vlastností tepelně modifikovaného dřeva, popis technologií tepelné modifikace dřeva. (dotace 2/1)12.Tepelná modifikace dřeva: fyzikální popis procesu tepelné modifikace dřeva, popis vnitřních zdrojů tepla během působení vysokých teplt na dřevo - matematické modelování pyrolýzy pomocí systému obyčejných diferenciálních rovnic, numerické simulace teplotního pole ve dřevě během jeho tepelné modifikace. (dotace 2/1)13.Optimalizace procesů sušení nebo modifikace dřeva pomocí matematických modelů s ohledem na časovou a energetickou náročnost na straně jedné a na kvalitu výsledného produktu na straně druhé. (dotace 2/1)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Vlhkostní pole ve dřevě: popis mechanismů pohybu vody ve dřevě, Fickův zákon pro popis difuze vody ve dřevě, závislost difuzních koeficientů na vlhkosti a teplotě, Darcyho zákon pro popis pohybu vody volné ve dřevě, sorpce vody dřevem. (dotace 2/1)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Vlhkostní pole ve dřevě: odvození parciální diferenciální rovnice popisující vlhkostní pole ve dřevě pod i nad mezí hygroskopicity, popis počátečních a okrajových podmínek pro různé způsoby sušení dřeva, numerické simulace vlhkostního pole ve dřevě. (dotace 2/1)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Teplotní pole ve dřevě: popis způsobů přenosu tepla, Fourierův zákon pro popis kondukce tepla ve dřevě, závislost koeficientů tepelné vodivosti dřeva a měrného tepla na teplotě a vlhkosti. (dotace 2/1)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Teplotní pole ve dřevě: odvození parciální diferenciální rovnice popisující teplotní pole ve dřevě, popis počátečních a okrajových podmínek pro různé způsoby sušení dřeva, numerické simulace teplotního pole ve dřevě. (dotace 2/1)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Vázané teplotní a vlhkostní pole ve dřevě během sušení: vysvětlení problematiky multifyzikálního modelování, systémy diferenciálních rovnic, termodifuze - Soretův efekt, použití multifyzikálního modelu pro vybrané sušící režimy a ukázka konkrétních numerických simulací. (dotace 2/1)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Deformačně-napěťové pole ve dřevě: lineární a nelineární mechanická odezva dřeva, Hookův zákon pro lineární elastické úlohy, popis vlivu změn vlhkosti a teploty na deformačně-napěťové pole ve dřevě. (dotace 2/1)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Deformačně-napěťové pole ve dřevě: materiálově nelineární modely, elasto-plastické modely, visko-elastické a visko-plastické modely, modely popisující poškození dřeva během sušení. (dotace 2/1)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Deformačně-napěťové pole ve dřevě: popis multifyzikálního modelu popisující mechanickou odezvu dřeva na teplotně-vlhkostní zatížení během procesu sušení dřeva vybranými sušícími režimy. (dotace 2/1)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Interakce elektromagnetického pole se dřevem: Maxwellovy rovnice, fyzikální popis mikrovlnného ohřevu dřeva, numerické simulace mikrovlnného ohřevu. (dotace 2/1)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Tepelná modifikace dřeva: použití, popis změn fyzikálních a mechanických vlastností tepelně modifikovaného dřeva, popis technologií tepelné modifikace dřeva. (dotace 2/1)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Tepelná modifikace dřeva: fyzikální popis procesu tepelné modifikace dřeva, popis vnitřních zdrojů tepla během působení vysokých teplt na dřevo - matematické modelování pyrolýzy pomocí systému obyčejných diferenciálních rovnic, numerické simulace teplotního pole ve dřevě během jeho tepelné modifikace. (dotace 2/1)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Optimalizace procesů sušení nebo modifikace dřeva pomocí matematických modelů s ohledem na časovou a energetickou náročnost na straně jedné a na kvalitu výsledného produktu na straně druhé. (dotace 2/1)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška26 h0 hcvičení13 h0 hkonzultace6 h14 hpříprava na zkoušku50 h73 hpříprava na průběžné hodnocení6 h18 hzpracování projektů14 h0 hzpracování seminární práce25 h35 hCelkem140 h140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Povinná docházka do cvičení (80%) Odevzdaná a uznaná seminární práce, úspěšný test (min. 60%), zapsaný zápočet, ústní zkouška nebo elektornický test (min. 60% úspěšnost)"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumCelkem0 %0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní: Sušenie a hydrotermická úprava dreva. 2005. 2. vyd. Zvolen: Technická univerzita vo Zvolene, 449 s. ISBN 80-228-1421-0. Základy hydrotermické úpravy a ochrany dřeva. 1995. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 192 s. ISBN 80-7157-163-6.POŽGAJ, Alexander; CHOVANEC, Dušan; KURJATKO, Stanislav; BABIAK, Marián. 1993. Štruktúra a vlastnosti dreva. 1. vyd. Bratislava: Príroda, 485 s. ISBN 80-07-00600-1.GANDELOVÁ, Libuše; ŠLEZINGEROVÁ, Jarmila; HORÁČEK, Petr. 2002. Nauka o dřevě. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 176 s. ISBN 80-7157-577-1.TRCALA, Miroslav; HORÁČEK, Petr. 2012. Model vázaného pohybu vlhkostního a teplotního pole ve dřevě. Disertační práce. MENDELU Brno, 48 s.HORÁČEK, Petr. 2004. Model vázaného šíření vlhkostního a teplotního pole při sušení dřeva. Praha: Lesnická práce, 126 s. ISBN 80-86386-59-7.Doporučená: Kiln-Drying of Lumber. 2000. Berlin: Springer Verlag, 326 s. ISBN 3-540-66137-9. Transport processes in wood. 1984. Berlin: Springer, 245 s. Springer series in wood science."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "Sušenie a hydrotermická úprava dreva. 2005. 2. vyd. Zvolen: Technická univerzita vo Zvolene, 449 s. ISBN 80-228-1421-0. Základy hydrotermické úpravy a ochrany dřeva. 1995. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 192 s. ISBN 80-7157-163-6.POŽGAJ, Alexander; CHOVANEC, Dušan; KURJATKO, Stanislav; BABIAK, Marián. 1993. Štruktúra a vlastnosti dreva. 1. vyd. Bratislava: Príroda, 485 s. ISBN 80-07-00600-1.GANDELOVÁ, Libuše; ŠLEZINGEROVÁ, Jarmila; HORÁČEK, Petr. 2002. Nauka o dřevě. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 176 s. ISBN 80-7157-577-1.TRCALA, Miroslav; HORÁČEK, Petr. 2012. Model vázaného pohybu vlhkostního a teplotního pole ve dřevě. Disertační práce. MENDELU Brno, 48 s.HORÁČEK, Petr. 2004. Model vázaného šíření vlhkostního a teplotního pole při sušení dřeva. Praha: Lesnická práce, 126 s. ISBN 80-86386-59-7."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "Kiln-Drying of Lumber. 2000. Berlin: Springer Verlag, 326 s. ISBN 3-540-66137-9. Transport processes in wood. 1984. Berlin: Springer, 245 s. Springer series in wood science."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-TMZD Technologie a management zpracování dřeva, prezenční forma, počáteční období ZS 2023/2024Program N-TMZD Technologie a management zpracování dřeva, kombinovaná forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "TAPSD"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Optimalizace procesů hydrotermické úpravy dřeva"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Optimization of Hydrothermal Wood Treatment Processes"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Mgr. Ing. Miroslav Trcala, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Mgr. Ing. Miroslav Trcala, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "State Bachelor Examination and (Wood Modification or Wood Modification)"
+    },
+    {
+      "label": "1.",
+      "content": "Wood anatomy, wood moisture content, water transport, drying rate, shape and volumetric changes, strain and deformation (allowance 2/1)"
+    },
+    {
+      "label": "2.",
+      "content": "Requirements and differences of wood drying (allowance 2/1)"
+    },
+    {
+      "label": "3.",
+      "content": "Seasoning and oven drying. (allowance 2/1)"
+    },
+    {
+      "label": "4.",
+      "content": "Parameters related to drying rate, storing methods, drying of individual wood species (allowance 2/1)"
+    },
+    {
+      "label": "5.",
+      "content": "Dryer classification (allowance 2/1)"
+    },
+    {
+      "label": "6.",
+      "content": "Dryer types (allowance 2/1)"
+    },
+    {
+      "label": "7.",
+      "content": "Drying schedules (allowance 2/1)"
+    },
+    {
+      "label": "8.",
+      "content": "The quality of dried material (allowance 2/1)"
+    },
+    {
+      "label": "9.",
+      "content": "Economy of drying technology (allowance 2/1)"
+    },
+    {
+      "label": "10.",
+      "content": "Modelling of inter and outer conditions of drying, numeric model verification (allowance 2/1)"
+    },
+    {
+      "label": "11.",
+      "content": "Optimizing timber dryers design and schedules for specific products at high output quality (allowance 2/1)"
+    },
+    {
+      "label": "12.",
+      "content": "Non-traditional drying methods for wood and wood-based materials (allowance 2/1)"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021, WS 2018/2019 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Optimalizace procesů hydrotermické úpravy dřeva"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Optimization of Hydrothermal Wood Treatment Processes"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Mgr. Ing. Miroslav Trcala, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Mgr. Ing. Miroslav Trcala, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: State Bachelor Examination and (Wood Modification or Wood Modification)"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The goal is to explain theoretical base of process of heat transfer in a material, moisture transport in material in relation to technology of wood drying. Alternative removing of water from wood. Economy of drying process, numeric simulation and optimization of drying process."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Wood anatomy, wood moisture content, water transport, drying rate, shape and volumetric changes, strain and deformation (allowance 2/1)2.Requirements and differences of wood drying (allowance 2/1)3.Seasoning and oven drying. (allowance 2/1)4.Parameters related to drying rate, storing methods, drying of individual wood species (allowance 2/1)5.Dryer classification (allowance 2/1)6.Dryer types (allowance 2/1)7.Drying schedules (allowance 2/1)8.The quality of dried material (allowance 2/1)9.Economy of drying technology (allowance 2/1)10.Modelling of inter and outer conditions of drying, numeric model verification (allowance 2/1)11.Optimizing timber dryers design and schedules for specific products at high output quality (allowance 2/1)12.Non-traditional drying methods for wood and wood-based materials (allowance 2/1)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Requirements and differences of wood drying (allowance 2/1)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Seasoning and oven drying. (allowance 2/1)"
+    },
+    {
+      "label": "[section] Requirements and differences of wood drying",
+      "content": "3.Seasoning and oven drying. (allowance 2/1)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Parameters related to drying rate, storing methods, drying of individual wood species (allowance 2/1)"
+    },
+    {
+      "label": "[section] Seasoning and oven drying.",
+      "content": "4.Parameters related to drying rate, storing methods, drying of individual wood species (allowance 2/1)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Dryer classification (allowance 2/1)"
+    },
+    {
+      "label": "[section] Parameters related to drying rate, storing methods, drying of individual wood species",
+      "content": "5.Dryer classification (allowance 2/1)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Dryer types (allowance 2/1)"
+    },
+    {
+      "label": "[section] Dryer classification",
+      "content": "6.Dryer types (allowance 2/1)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Drying schedules (allowance 2/1)"
+    },
+    {
+      "label": "[section] Dryer types",
+      "content": "7.Drying schedules (allowance 2/1)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.The quality of dried material (allowance 2/1)"
+    },
+    {
+      "label": "[section] Drying schedules",
+      "content": "8.The quality of dried material (allowance 2/1)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Economy of drying technology (allowance 2/1)"
+    },
+    {
+      "label": "[section] The quality of dried material",
+      "content": "9.Economy of drying technology (allowance 2/1)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Modelling of inter and outer conditions of drying, numeric model verification (allowance 2/1)"
+    },
+    {
+      "label": "[section] Economy of drying technology",
+      "content": "10.Modelling of inter and outer conditions of drying, numeric model verification (allowance 2/1)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Optimizing timber dryers design and schedules for specific products at high output quality (allowance 2/1)"
+    },
+    {
+      "label": "[section] Modelling of inter and outer conditions of drying, numeric model verification",
+      "content": "11.Optimizing timber dryers design and schedules for specific products at high output quality (allowance 2/1)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Non-traditional drying methods for wood and wood-based materials (allowance 2/1)"
+    },
+    {
+      "label": "[section] Optimizing timber dryers design and schedules for specific products at high output quality",
+      "content": "12.Non-traditional drying methods for wood and wood-based materials (allowance 2/1)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture26 h0 hpractice13 h0 hconsultation6 h14 hpreparation for exam50 h73 hpreparation for regular assessment6 h18 helaboration and execution of projects14 h0 hwriting of seminar paper25 h35 hTotal140 h140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Obligatory labs (80 %), defended semestral work, submitted seminar work, passed test (60% succes), credit, oral examination (draw from 14 main topics) or electronical test (60% succes)"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTotal0 %0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic: Sušenie a hydrotermická úprava dreva. 2005. 2nd ed. Zvolen: Technická univerzita vo Zvolene, 449 p. ISBN 80-228-1421-0. Základy hydrotermické úpravy a ochrany dřeva. 1995. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 192 p. ISBN 80-7157-163-6.POŽGAJ, Alexander; CHOVANEC, Dušan; KURJATKO, Stanislav; BABIAK, Marián. 1993. Štruktúra a vlastnosti dreva. 1st ed. Bratislava: Príroda, 485 p. ISBN 80-07-00600-1.GANDELOVÁ, Libuše; ŠLEZINGEROVÁ, Jarmila; HORÁČEK, Petr. 2002. Nauka o dřevě. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 176 p. ISBN 80-7157-577-1.TRCALA, Miroslav; HORÁČEK, Petr. 2012. Model vázaného pohybu vlhkostního a teplotního pole ve dřevě. Dissertation thesis. MENDELU Brno, 48 p.HORÁČEK, Petr. 2004. Model vázaného šíření vlhkostního a teplotního pole při sušení dřeva. Praha: Lesnická práce, 126 p. ISBN 80-86386-59-7.Recommended: Kiln-Drying of Lumber. 2000. Berlin: Springer Verlag, 326 p. ISBN 3-540-66137-9. Transport processes in wood. 1984. Berlin: Springer, 245 p. Springer series in wood science."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "Sušenie a hydrotermická úprava dreva. 2005. 2nd ed. Zvolen: Technická univerzita vo Zvolene, 449 p. ISBN 80-228-1421-0. Základy hydrotermické úpravy a ochrany dřeva. 1995. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 192 p. ISBN 80-7157-163-6.POŽGAJ, Alexander; CHOVANEC, Dušan; KURJATKO, Stanislav; BABIAK, Marián. 1993. Štruktúra a vlastnosti dreva. 1st ed. Bratislava: Príroda, 485 p. ISBN 80-07-00600-1.GANDELOVÁ, Libuše; ŠLEZINGEROVÁ, Jarmila; HORÁČEK, Petr. 2002. Nauka o dřevě. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 176 p. ISBN 80-7157-577-1.TRCALA, Miroslav; HORÁČEK, Petr. 2012. Model vázaného pohybu vlhkostního a teplotního pole ve dřevě. Dissertation thesis. MENDELU Brno, 48 p.HORÁČEK, Petr. 2004. Model vázaného šíření vlhkostního a teplotního pole při sušení dřeva. Praha: Lesnická práce, 126 p. ISBN 80-86386-59-7."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "Kiln-Drying of Lumber. 2000. Berlin: Springer Verlag, 326 p. ISBN 3-540-66137-9. Transport processes in wood. 1984. Berlin: Springer, 245 p. Springer series in wood science."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-TMZD Technology and Management in Wood Processing, full-time form, initial period WS 2023/2024Programme C-TMZD Technology and Management in Wood Processing, part-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:20:48",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

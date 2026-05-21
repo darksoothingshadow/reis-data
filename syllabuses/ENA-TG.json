@@ -1,0 +1,677 @@
+{
+  "courseCode": "ENA-TG",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENA-TG"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Teorie grafů v AJ"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Graph Theory"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Student prezenční formy si může předmět zapsat i během zahraničního výjezdu. Podmínky hodnocení se v tomto případě nemění."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "angličtina"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng. (garant, přednášející, zkoušející)Ing. Ankit Tripathi (cvičící)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Motivace, historie a základní terminologie (dotace 6/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Vybrané úlohy teorie grafů. Vznik teorie grafů"
+    },
+    {
+      "label": "b.",
+      "content": "Definice grafu, vlastnosti grafu. Úplný graf, bipartitní graf, rovinný graf"
+    },
+    {
+      "label": "c.",
+      "content": "Opakování z TZI"
+    },
+    {
+      "label": "2.",
+      "content": "Implementace grafu (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Statická implementace -- matice sousednosti, matice incidence."
+    },
+    {
+      "label": "b.",
+      "content": "Dynamická implementace -- výčet sousedů, dynamická reprezentace grafu"
+    },
+    {
+      "label": "3.",
+      "content": "Stromy a kostry (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Charakterizace, vlastnosti a využití stromů."
+    },
+    {
+      "label": "b.",
+      "content": "Kořenové stromy, uspořádané kořenové stromy. Aplikace stromů"
+    },
+    {
+      "label": "c.",
+      "content": "Kostra grafu. Aplikace koster, hledání minimální kostry"
+    },
+    {
+      "label": "4.",
+      "content": "Prohledávání grafu a jeho aplikace (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Prohledávání do šířky. Distanční rozklad množiny uzlů."
+    },
+    {
+      "label": "b.",
+      "content": "Prohledávání do hloubky. Pre-order, in-order, post-order."
+    },
+    {
+      "label": "5.",
+      "content": "Hledání optimálních sledů (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Moorův algoritmus, Dijkstrův algoritmus, Fordův algoritmus"
+    },
+    {
+      "label": "b.",
+      "content": "Metoda kritické cesty, cesty s největší propustností"
+    },
+    {
+      "label": "c.",
+      "content": "Praktické aplikace optimálních sledů"
+    },
+    {
+      "label": "6.",
+      "content": "Toky v sítích a jejich aplikace (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Definice sítě, definice toku. Věta o maximálním toku a minimálním řezu"
+    },
+    {
+      "label": "b.",
+      "content": "Fordův-Fulkersonův algoritmus. Aplikace sítí a toků v technologické praxi"
+    },
+    {
+      "label": "7.",
+      "content": "Úlohy řešené pomocí grafů (dotace 4/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Graf řízení programu, přechodový diagram a jejich použití"
+    },
+    {
+      "label": "b.",
+      "content": "Rovinné grafy, obarvení grafu. Párování v bipartitních grafech"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "60 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "40 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Teorie grafů v AJ"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Graph Theory"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Student prezenční formy si může předmět zapsat i během zahraničního výjezdu. Podmínky hodnocení se v tomto případě nemění."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: angličtina"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: prof. Ing. Radim Farana, CSc., FEng. (garant, přednášející, zkoušející)Ing. Ankit Tripathi (cvičící)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaStředa9.00-10.50Q05N-OIAR. FaranaPřednáškaKaždý týden20Čtvrtek7.00-8.50Q25N-OIAA. TripathiCvičeníLichý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Poskytnout dostatečné teoretické zázemí pro řešení problémů s využitím teorie grafů a grafových algoritmů. Předmět se zaměřuje nejen na teoretické partie teorie grafů, ale klade důraz i na porozumění probíranému učivu a schopnosti prakticky aplikovat získané znalosti."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Motivace, historie a základní terminologie (dotace 6/2) a.Vybrané úlohy teorie grafů. Vznik teorie grafůb.Definice grafu, vlastnosti grafu. Úplný graf, bipartitní graf, rovinný grafc.Opakování z TZI2.Implementace grafu (dotace 2/2) a.Statická implementace -- matice sousednosti, matice incidence.b.Dynamická implementace -- výčet sousedů, dynamická reprezentace grafu3.Stromy a kostry (dotace 4/4) a.Charakterizace, vlastnosti a využití stromů.b.Kořenové stromy, uspořádané kořenové stromy. Aplikace stromůc.Kostra grafu. Aplikace koster, hledání minimální kostry4.Prohledávání grafu a jeho aplikace (dotace 2/2) a.Prohledávání do šířky. Distanční rozklad množiny uzlů.b.Prohledávání do hloubky. Pre-order, in-order, post-order.5.Hledání optimálních sledů (dotace 4/2) a.Moorův algoritmus, Dijkstrův algoritmus, Fordův algoritmusb.Metoda kritické cesty, cesty s největší propustnostíc.Praktické aplikace optimálních sledů6.Toky v sítích a jejich aplikace (dotace 2/2) a.Definice sítě, definice toku. Věta o maximálním toku a minimálním řezub.Fordův-Fulkersonův algoritmus. Aplikace sítí a toků v technologické praxi7.Úlohy řešené pomocí grafů (dotace 4/0) a.Graf řízení programu, přechodový diagram a jejich použitíb.Rovinné grafy, obarvení grafu. Párování v bipartitních grafech"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Vybrané úlohy teorie grafů. Vznik teorie grafůb.Definice grafu, vlastnosti grafu. Úplný graf, bipartitní graf, rovinný grafc.Opakování z TZI"
+    },
+    {
+      "label": "[section] Motivace, historie a základní terminologie",
+      "content": "a.Vybrané úlohy teorie grafů. Vznik teorie grafůb.Definice grafu, vlastnosti grafu. Úplný graf, bipartitní graf, rovinný grafc.Opakování z TZI"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Statická implementace -- matice sousednosti, matice incidence.b.Dynamická implementace -- výčet sousedů, dynamická reprezentace grafu"
+    },
+    {
+      "label": "[section] Implementace grafu",
+      "content": "a.Statická implementace -- matice sousednosti, matice incidence.b.Dynamická implementace -- výčet sousedů, dynamická reprezentace grafu"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Charakterizace, vlastnosti a využití stromů.b.Kořenové stromy, uspořádané kořenové stromy. Aplikace stromůc.Kostra grafu. Aplikace koster, hledání minimální kostry"
+    },
+    {
+      "label": "[section] Stromy a kostry",
+      "content": "a.Charakterizace, vlastnosti a využití stromů.b.Kořenové stromy, uspořádané kořenové stromy. Aplikace stromůc.Kostra grafu. Aplikace koster, hledání minimální kostry"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Prohledávání do šířky. Distanční rozklad množiny uzlů.b.Prohledávání do hloubky. Pre-order, in-order, post-order."
+    },
+    {
+      "label": "[section] Prohledávání grafu a jeho aplikace",
+      "content": "a.Prohledávání do šířky. Distanční rozklad množiny uzlů.b.Prohledávání do hloubky. Pre-order, in-order, post-order."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Moorův algoritmus, Dijkstrův algoritmus, Fordův algoritmusb.Metoda kritické cesty, cesty s největší propustnostíc.Praktické aplikace optimálních sledů"
+    },
+    {
+      "label": "[section] Hledání optimálních sledů",
+      "content": "a.Moorův algoritmus, Dijkstrův algoritmus, Fordův algoritmusb.Metoda kritické cesty, cesty s největší propustnostíc.Praktické aplikace optimálních sledů"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Definice sítě, definice toku. Věta o maximálním toku a minimálním řezub.Fordův-Fulkersonův algoritmus. Aplikace sítí a toků v technologické praxi"
+    },
+    {
+      "label": "[section] Toky v sítích a jejich aplikace",
+      "content": "a.Definice sítě, definice toku. Věta o maximálním toku a minimálním řezub.Fordův-Fulkersonův algoritmus. Aplikace sítí a toků v technologické praxi"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Graf řízení programu, přechodový diagram a jejich použitíb.Rovinné grafy, obarvení grafu. Párování v bipartitních grafech"
+    },
+    {
+      "label": "[section] Úlohy řešené pomocí grafů",
+      "content": "a.Graf řízení programu, přechodový diagram a jejich použitíb.Rovinné grafy, obarvení grafu. Párování v bipartitních grafech"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení14 hpříprava na zkoušku42 hpříprava na průběžný test28 hzpracování projektů28 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Studenti předmět úspěšně ukončí, získají-li alespoň 60 bodů z projektů a závěrečné zkoušky. Čtyřmi projekty studenti prokazují schopnost řešit praktické problémy. Písemná a ústní zkouška je zaměřena na teoretické principy a souvislosti. Studenti si vylosují dvě otázky a řešení jednoho praktického příkladu, za odpovědi mohou získat 40 bodů. Celkové hodnocení je dáno součtem bodů z průběžných testů a ústní zkoušky: A (alespoň 90 bodů), B (83 bodů), C (75 bodů), D (68 bodů), E (60 bodů). V případě podvodného jednání bude student ohodnocen stupněm F a bude podán podnět k zahájení disciplinárního řízení."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAbsolvování průběžného testu (testů)60 %Absolvování závěrečné ústní zkoušky40 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:GROSS, Jonathan L.; YELLEN, Jay. 2004. Handbook of graph theory. Boca Raton: CRC Press, 1167 s. ISBN 1-58488-090-2.GROSS, Jonathan L; YELLEN, Jay. 2006. Graph theory and its applications. 2. vyd. Boca Raton: Chapman & Hall/CRC, 779 s. Discrete mathematics and its applications. ISBN 1-58488-505-X."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "GROSS, Jonathan L.; YELLEN, Jay. 2004. Handbook of graph theory. Boca Raton: CRC Press, 1167 s. ISBN 1-58488-090-2.GROSS, Jonathan L; YELLEN, Jay. 2006. Graph theory and its applications. 2. vyd. Boca Raton: Chapman & Hall/CRC, 779 s. Discrete mathematics and its applications. ISBN 1-58488-505-X."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-OIA Open Informatics, prezenční forma, počáteční období LS 2024/2025Program N-OIA Open Informatics, prezenční forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENA-TG"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Teorie grafů v AJ"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Graph Theory"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "Student is allowed to complete the course during his/her foreign study trip, however assessment method does not change."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "English"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng. (examiner, lecturer, supervisor)Ing. Ankit Tripathi (instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Motivation, history and basic terminology (allowance 6/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Chosen parts of graph theory. Origin of graph theory."
+    },
+    {
+      "label": "b.",
+      "content": "Graph definition, graph properties. Complete graph, bipartite graph, planar graph"
+    },
+    {
+      "label": "c.",
+      "content": "Repetition from TBI"
+    },
+    {
+      "label": "2.",
+      "content": "Graph implementation (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Static implementation - adjacency matrix, incidence matrix"
+    },
+    {
+      "label": "b.",
+      "content": "Dynamic implementation - list of neighbours, dynamin representation of a graph"
+    },
+    {
+      "label": "3.",
+      "content": "Trees and spanning trees (allowance 4/4)"
+    },
+    {
+      "label": "4.",
+      "content": "Searching in graph and its applications (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Breadth-first-search. Distant decomposition of vertices"
+    },
+    {
+      "label": "b.",
+      "content": "Depth-first-search. Pre-order, in-order, post-order."
+    },
+    {
+      "label": "5.",
+      "content": "Finding optimal walks (allowance 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Moore's algorithm, Dijkstra's algorithm, Ford algorithm"
+    },
+    {
+      "label": "b.",
+      "content": "Critical path method, widest paths."
+    },
+    {
+      "label": "c.",
+      "content": "Practical applications of optimal walks"
+    },
+    {
+      "label": "6.",
+      "content": "Network flows and appcations (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Network definition, flow definition. Max-flow min-cut theorem."
+    },
+    {
+      "label": "b.",
+      "content": "Ford-Fulkerson algorithm. Applications of networks and flows in technological practice."
+    },
+    {
+      "label": "7.",
+      "content": "Problems solved with the help of graph theory (allowance 4/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Program control graph, transition diagram and their usage"
+    },
+    {
+      "label": "b.",
+      "content": "Planar graph, coloring of graph, pairing in bipartite graph"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "60 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "40 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Teorie grafů v AJ"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Graph Theory"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: Student is allowed to complete the course during his/her foreign study trip, however assessment method does not change."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: English"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. Ing. Radim Farana, CSc., FEng. (examiner, lecturer, supervisor)Ing. Ankit Tripathi (instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityWednesday9.00-10.50Q05N-OIAR. FaranaLectureEvery week20Thursday7.00-8.50Q25N-OIAA. TripathiSeminarOdd week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The goal of the subject is to provide sufficient theoretical background for problem solving with the help of the graph theory and graph algorithms. The subject focus not only on theoretical parts of graph theory, it also emphasizes comprehension of curriculum and ability to apply gained knowledge practically."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Motivation, history and basic terminology (allowance 6/2) a.Chosen parts of graph theory. Origin of graph theory.b.Graph definition, graph properties. Complete graph, bipartite graph, planar graphc.Repetition from TBI2.Graph implementation (allowance 2/2) a.Static implementation - adjacency matrix, incidence matrixb.Dynamic implementation - list of neighbours, dynamin representation of a graph3.Trees and spanning trees (allowance 4/4) a.Static implementation - adjacency matrix, incidence matrixb.Dynamic implementation - list of neighbours, dynamin representation of a graph4.Searching in graph and its applications (allowance 2/2) a.Breadth-first-search. Distant decomposition of verticesb.Depth-first-search. Pre-order, in-order, post-order.5.Finding optimal walks (allowance 4/2) a.Moore's algorithm, Dijkstra's algorithm, Ford algorithmb.Critical path method, widest paths.c.Practical applications of optimal walks6.Network flows and appcations (allowance 2/2) a.Network definition, flow definition. Max-flow min-cut theorem.b.Ford-Fulkerson algorithm. Applications of networks and flows in technological practice.7.Problems solved with the help of graph theory (allowance 4/0) a.Program control graph, transition diagram and their usageb.Planar graph, coloring of graph, pairing in bipartite graph"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Chosen parts of graph theory. Origin of graph theory.b.Graph definition, graph properties. Complete graph, bipartite graph, planar graphc.Repetition from TBI"
+    },
+    {
+      "label": "[section] Motivation, history and basic terminology",
+      "content": "a.Chosen parts of graph theory. Origin of graph theory.b.Graph definition, graph properties. Complete graph, bipartite graph, planar graphc.Repetition from TBI"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Static implementation - adjacency matrix, incidence matrixb.Dynamic implementation - list of neighbours, dynamin representation of a graph"
+    },
+    {
+      "label": "[section] Graph implementation",
+      "content": "a.Static implementation - adjacency matrix, incidence matrixb.Dynamic implementation - list of neighbours, dynamin representation of a graph"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Static implementation - adjacency matrix, incidence matrixb.Dynamic implementation - list of neighbours, dynamin representation of a graph"
+    },
+    {
+      "label": "[section] Trees and spanning trees",
+      "content": "a.Static implementation - adjacency matrix, incidence matrixb.Dynamic implementation - list of neighbours, dynamin representation of a graph"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Breadth-first-search. Distant decomposition of verticesb.Depth-first-search. Pre-order, in-order, post-order."
+    },
+    {
+      "label": "[section] Searching in graph and its applications",
+      "content": "a.Breadth-first-search. Distant decomposition of verticesb.Depth-first-search. Pre-order, in-order, post-order."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Moore's algorithm, Dijkstra's algorithm, Ford algorithmb.Critical path method, widest paths.c.Practical applications of optimal walks"
+    },
+    {
+      "label": "[section] Finding optimal walks",
+      "content": "a.Moore's algorithm, Dijkstra's algorithm, Ford algorithmb.Critical path method, widest paths.c.Practical applications of optimal walks"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Network definition, flow definition. Max-flow min-cut theorem.b.Ford-Fulkerson algorithm. Applications of networks and flows in technological practice."
+    },
+    {
+      "label": "[section] Network flows and appcations",
+      "content": "a.Network definition, flow definition. Max-flow min-cut theorem.b.Ford-Fulkerson algorithm. Applications of networks and flows in technological practice."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Program control graph, transition diagram and their usageb.Planar graph, coloring of graph, pairing in bipartite graph"
+    },
+    {
+      "label": "[section] Problems solved with the help of graph theory",
+      "content": "a.Program control graph, transition diagram and their usageb.Planar graph, coloring of graph, pairing in bipartite graph"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice14 hpreparation for exam42 hpreparation for regular testing28 helaboration and execution of projects28 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Students will pass the course after collecting at least 60 points in sum of ongoing projects and final exam. Students demonstrate the ability to solve practical problems by four practical projects. The exam verifies understanding of concepts and principles and understanding of the context. Students choose two questions and one practical example, the exam is evaluated by 40 points. The final evaluation is given by the sum of the results from tests and the exam as follows: A (at least 90 points), B (83 points), C (75 points), D (68 points), E (60 points). In the case of fraudulent conduct, the verification of knowledge will be assessed as unsuccessful and disciplinary proceedings will be initiated."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceMid-term test(s)60 %Final oral exam40 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:GROSS, Jonathan L.; YELLEN, Jay. 2004. Handbook of graph theory. Boca Raton: CRC Press, 1167 p. ISBN 1-58488-090-2.GROSS, Jonathan L; YELLEN, Jay. 2006. Graph theory and its applications. 2nd ed. Boca Raton: Chapman & Hall/CRC, 779 p. Discrete mathematics and its applications. ISBN 1-58488-505-X."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "GROSS, Jonathan L.; YELLEN, Jay. 2004. Handbook of graph theory. Boca Raton: CRC Press, 1167 p. ISBN 1-58488-090-2.GROSS, Jonathan L; YELLEN, Jay. 2006. Graph theory and its applications. 2nd ed. Boca Raton: Chapman & Hall/CRC, 779 p. Discrete mathematics and its applications. ISBN 1-58488-505-X."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-OIA Open Informatics, full-time form, initial period SS 2024/2025Programme C-OIA Open Informatics, full-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:54:19",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

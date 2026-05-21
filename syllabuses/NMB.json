@@ -1,0 +1,585 @@
+{
+  "courseCode": "NMB",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "NMB"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Numerické modelování biologických systémů"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Numerical Modeling of Biological Systems"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský; magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Samostudium z tutoriálů, on-line konzultace, zpracování seminární práce (projekt), obhajoba a zkouška on-line."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Jan Tippner, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jan Tippner, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Barbora Vojáčková, Ph.D., DiS. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Aplikace FEM. (dotace 5/10)"
+    },
+    {
+      "label": "a.",
+      "content": "Pokročilé aplikace mechaniky a termodynamiky kontinua, popis fyzikálního problému a řešení diferenciálních rovnic, úvod do problematiky numerických metod a MKP. Využití simulací v expertní činnosti. Jednoduchá elastická strukturální analýza větve."
+    },
+    {
+      "label": "b.",
+      "content": "Přístup k modelování strukturálních, termodynamických problémů. Kompozitní model mechanické odezvy kořenového systému."
+    },
+    {
+      "label": "c.",
+      "content": "Implementace materiálových modelů. Ortotropní bilineární model chování vzorku čerstvého dřeva, způsoby implementace vlivu faktorů, snížení kvality a vad. Zadání seminární práce: fyzikální analýza modelu."
+    },
+    {
+      "label": "d.",
+      "content": "Využití pravděpodobnostního modelování v modelování biologických systémů. Citlivostní analýza vlivu změny geometrie a materiálu na tuhost kmene stromu. Seminární práce: tvorba geometrie a sítě."
+    },
+    {
+      "label": "2.",
+      "content": "Modelování FEM. (dotace 8/16)"
+    },
+    {
+      "label": "a.",
+      "content": "Pokročilé metody tvorby determoinistického geometrického modelu. Tvorba konečně-prvkového modelu kmene/větve/kořene z dat laserového skenování. Seminární práce: tvorba geometrie a sítě."
+    },
+    {
+      "label": "b.",
+      "content": "Principy metody topologické optimalizace a tvarové optimalizace. Úloha topologická optimalizace průřezu kmene při zatížení."
+    },
+    {
+      "label": "c.",
+      "content": "Řešení lineárních dynamických úloh biologických systémů. Modální analýza stromu. Seminární práce: okrajové a počáteční podmínky."
+    },
+    {
+      "label": "d.",
+      "content": "Transientní mechanická úloha. Simulace dynamického zatížení mechanické vazby. Seminární práce: okrajové a počáteční podmínky."
+    },
+    {
+      "label": "e.",
+      "content": "Stacionární tepelná analýza. Výpočet distribuce teploty v průřezu kmene. Seminární práce: výpočet a zobrazení výstupů."
+    },
+    {
+      "label": "f.",
+      "content": "Transientní tepelná analýza, modelování vázaných dějů. Model sdílení tepla v půdním prostředí rostliny."
+    },
+    {
+      "label": "g.",
+      "content": "Úlohy mechaniky tekutin, základy analýz CFD. Simulace změny proudění vzduchu vlivem překážky. Práce na seminárních projektech. Seminární práce: export a interpretace výsledků."
+    },
+    {
+      "label": "h.",
+      "content": "CFD vázané analýzy. Simulace teplotního pole v prostředí dřeviny. Práce na seminárních projektech."
+    },
+    {
+      "label": "3.",
+      "content": "Seminář, prezentace a obhajoba projektů. (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Seminář: aplikace MKP v technické biologii dřevin, prezentace seminárních projektů."
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "20 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "40 %"
+    },
+    {
+      "label": "Prezentace nebo obhajoba",
+      "content": "20 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "20 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Numerické modelování biologických systémů"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Numerical Modeling of Biological Systems"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský; magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Samostudium z tutoriálů, on-line konzultace, zpracování seminární práce (projekt), obhajoba a zkouška on-line."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Jan Tippner, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jan Tippner, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Barbora Vojáčková, Ph.D., DiS. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý17.00-17.50B514J. Tippner, B. VojáčkováPřednáškaKaždý týden20Čtvrtek15.00-16.50B46J. Tippner, B. VojáčkováCvičeníKaždý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Poskytnout informace o pokročilých metodách fyzikálního modelování od jednoduchých úloh s aplikacemi ve fyzice a mechanice biologických systému zejm. rostliny - dřeviny a jejího vzdušného a půdního prostředí až po využití pravděpodobnostních metod a vázané fyzikální děje. Naučit znalosti a dovednosti v oblasti teoretických východisek numerické analýzy, metody konečných prvků (MKP), metodických postupů tvorby výpočtového modelu a simulace, praktických výpočtů fyzikálních úloh v oboru a interpretace výsledků."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Aplikace FEM. (dotace 5/10) a.Pokročilé aplikace mechaniky a termodynamiky kontinua, popis fyzikálního problému a řešení diferenciálních rovnic, úvod do problematiky numerických metod a MKP. Využití simulací v expertní činnosti. Jednoduchá elastická strukturální analýza větve.b.Přístup k modelování strukturálních, termodynamických problémů. Kompozitní model mechanické odezvy kořenového systému.c.Implementace materiálových modelů. Ortotropní bilineární model chování vzorku čerstvého dřeva, způsoby implementace vlivu faktorů, snížení kvality a vad. Zadání seminární práce: fyzikální analýza modelu.d.Využití pravděpodobnostního modelování v modelování biologických systémů. Citlivostní analýza vlivu změny geometrie a materiálu na tuhost kmene stromu. Seminární práce: tvorba geometrie a sítě.2.Modelování FEM. (dotace 8/16) a.Pokročilé metody tvorby determoinistického geometrického modelu. Tvorba konečně-prvkového modelu kmene/větve/kořene z dat laserového skenování. Seminární práce: tvorba geometrie a sítě.b.Principy metody topologické optimalizace a tvarové optimalizace. Úloha topologická optimalizace průřezu kmene při zatížení.c.Řešení lineárních dynamických úloh biologických systémů. Modální analýza stromu. Seminární práce: okrajové a počáteční podmínky.d.Transientní mechanická úloha. Simulace dynamického zatížení mechanické vazby. Seminární práce: okrajové a počáteční podmínky.e.Stacionární tepelná analýza. Výpočet distribuce teploty v průřezu kmene. Seminární práce: výpočet a zobrazení výstupů.f.Transientní tepelná analýza, modelování vázaných dějů. Model sdílení tepla v půdním prostředí rostliny.g.Úlohy mechaniky tekutin, základy analýz CFD. Simulace změny proudění vzduchu vlivem překážky. Práce na seminárních projektech. Seminární práce: export a interpretace výsledků.h.CFD vázané analýzy. Simulace teplotního pole v prostředí dřeviny. Práce na seminárních projektech.3.Seminář, prezentace a obhajoba projektů. (dotace 1/2) a.Seminář: aplikace MKP v technické biologii dřevin, prezentace seminárních projektů."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Pokročilé aplikace mechaniky a termodynamiky kontinua, popis fyzikálního problému a řešení diferenciálních rovnic, úvod do problematiky numerických metod a MKP. Využití simulací v expertní činnosti. Jednoduchá elastická strukturální analýza větve.b.Přístup k modelování strukturálních, termodynamických problémů. Kompozitní model mechanické odezvy kořenového systému.c.Implementace materiálových modelů. Ortotropní bilineární model chování vzorku čerstvého dřeva, způsoby implementace vlivu faktorů, snížení kvality a vad. Zadání seminární práce: fyzikální analýza modelu.d.Využití pravděpodobnostního modelování v modelování biologických systémů. Citlivostní analýza vlivu změny geometrie a materiálu na tuhost kmene stromu. Seminární práce: tvorba geometrie a sítě."
+    },
+    {
+      "label": "[section] Aplikace FEM.",
+      "content": "a.Pokročilé aplikace mechaniky a termodynamiky kontinua, popis fyzikálního problému a řešení diferenciálních rovnic, úvod do problematiky numerických metod a MKP. Využití simulací v expertní činnosti. Jednoduchá elastická strukturální analýza větve.b.Přístup k modelování strukturálních, termodynamických problémů. Kompozitní model mechanické odezvy kořenového systému.c.Implementace materiálových modelů. Ortotropní bilineární model chování vzorku čerstvého dřeva, způsoby implementace vlivu faktorů, snížení kvality a vad. Zadání seminární práce: fyzikální analýza modelu.d.Využití pravděpodobnostního modelování v modelování biologických systémů. Citlivostní analýza vlivu změny geometrie a materiálu na tuhost kmene stromu. Seminární práce: tvorba geometrie a sítě."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Pokročilé metody tvorby determoinistického geometrického modelu. Tvorba konečně-prvkového modelu kmene/větve/kořene z dat laserového skenování. Seminární práce: tvorba geometrie a sítě.b.Principy metody topologické optimalizace a tvarové optimalizace. Úloha topologická optimalizace průřezu kmene při zatížení.c.Řešení lineárních dynamických úloh biologických systémů. Modální analýza stromu. Seminární práce: okrajové a počáteční podmínky.d.Transientní mechanická úloha. Simulace dynamického zatížení mechanické vazby. Seminární práce: okrajové a počáteční podmínky.e.Stacionární tepelná analýza. Výpočet distribuce teploty v průřezu kmene. Seminární práce: výpočet a zobrazení výstupů.f.Transientní tepelná analýza, modelování vázaných dějů. Model sdílení tepla v půdním prostředí rostliny.g.Úlohy mechaniky tekutin, základy analýz CFD. Simulace změny proudění vzduchu vlivem překážky. Práce na seminárních projektech. Seminární práce: export a interpretace výsledků.h.CFD vázané analýzy. Simulace teplotního pole v prostředí dřeviny. Práce na seminárních projektech."
+    },
+    {
+      "label": "[section] Modelování FEM.",
+      "content": "a.Pokročilé metody tvorby determoinistického geometrického modelu. Tvorba konečně-prvkového modelu kmene/větve/kořene z dat laserového skenování. Seminární práce: tvorba geometrie a sítě.b.Principy metody topologické optimalizace a tvarové optimalizace. Úloha topologická optimalizace průřezu kmene při zatížení.c.Řešení lineárních dynamických úloh biologických systémů. Modální analýza stromu. Seminární práce: okrajové a počáteční podmínky.d.Transientní mechanická úloha. Simulace dynamického zatížení mechanické vazby. Seminární práce: okrajové a počáteční podmínky.e.Stacionární tepelná analýza. Výpočet distribuce teploty v průřezu kmene. Seminární práce: výpočet a zobrazení výstupů.f.Transientní tepelná analýza, modelování vázaných dějů. Model sdílení tepla v půdním prostředí rostliny.g.Úlohy mechaniky tekutin, základy analýz CFD. Simulace změny proudění vzduchu vlivem překážky. Práce na seminárních projektech. Seminární práce: export a interpretace výsledků.h.CFD vázané analýzy. Simulace teplotního pole v prostředí dřeviny. Práce na seminárních projektech."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Seminář: aplikace MKP v technické biologii dřevin, prezentace seminárních projektů."
+    },
+    {
+      "label": "[section] Seminář, prezentace a obhajoba projektů.",
+      "content": "a.Seminář: aplikace MKP v technické biologii dřevin, prezentace seminárních projektů."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení28 hkonzultace14 hprojektová práce20 hveřejná prezentace (ústní)1 hpříprava na zkoušku14 hpříprava na průběžné hodnocení14 hpříprava prezentace7 hzpracování seminární práce28 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Vypracování semestrální práce (projektu), její prezentace a obhajoba, zkouška ze znalostí a dovedností MKP."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích20 %Vypracování semestrální práce40 %Prezentace nebo obhajoba20 %Absolvování závěrečné ústní zkoušky20 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní: FEM - Principy a praxe metody konečných prvků. 1997. 1. vyd. Praha: Computer Press, 401 s. ISBN 80-7226-021-9. The finite element method and applications in engineering using ANSYS. New York: Springer, 686 s. ISBN 0-387-28289-0. Finite elements analysis: theory and application with ANSYS. 1999. Upper Saddle River: Prentice Hall, 527 s. ISBN 0-13-785098-0.PETRUŠKA, J. 2003. Počítačové metody mechaniky II – Metoda konečných prvků. Brno: VUT v Brně, 88 s. Advances in finite element procedures and techniques. Edinburgh: Civil-Comp, 298 s. ISBN 0-948749-56-3. Finite element procedures. 1996. Upper Saddle River: Prentice Hall, 1037 s. ISBN 0-13-301458-4.HUTTON, David V. 2004. Fundamentals of finite element analysis. Boston: McGraw-Hill, 494 s. McGraw-Hill series in mechanical engineering. ISBN 0-07-112231-1. Fundamentals of Heat and Mass Transfer. 1996. 4. vyd. New York: John Wiley & Sons, 886 s. ISBN 0-471-30460-3.ÇENGEL, Yunus A.; GHAJAR, Afshin J.; KANOGLU, Mehmet. Heat and mass transfer: fundamentals and applications. 4. vyd. New York: McGraw-Hill, 902 s. ISBN 978-007-131112-0.JANÍČEK, Přemysl. 2007. Systémové pojetí vybraných oborů pro techniky : hledání souvislostí : učební texty I. 1. vyd. Brno: Akademické nakladatelství CERM, 682 s. ISBN 978-80-7204-555-61.JANÍČEK, Přemysl. 2007. Systémové pojetí vybraných oborů pro techniky : hledání souvislostí : učební texty II. 1. vyd. Brno: Akademické nakladatelství CERM, 683 s. ISBN 978-80-214-3544-5.Doporučená:BORST, R. de., CRISFIELD, M. A., 2012. Nonlinear finite element analysis of solids and structures. 2nd ed. Chichester: Wiley, 516 s. ISBN 978-0-470-66644-9.SLAVÍK, J., 2003. Počítačové metody mechaniky I. Brno: Akademické nakladatelství CERM, 118 s. ISBN 80-214-2311-0."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "FEM - Principy a praxe metody konečných prvků. 1997. 1. vyd. Praha: Computer Press, 401 s. ISBN 80-7226-021-9. The finite element method and applications in engineering using ANSYS. New York: Springer, 686 s. ISBN 0-387-28289-0. Finite elements analysis: theory and application with ANSYS. 1999. Upper Saddle River: Prentice Hall, 527 s. ISBN 0-13-785098-0.PETRUŠKA, J. 2003. Počítačové metody mechaniky II – Metoda konečných prvků. Brno: VUT v Brně, 88 s. Advances in finite element procedures and techniques. Edinburgh: Civil-Comp, 298 s. ISBN 0-948749-56-3. Finite element procedures. 1996. Upper Saddle River: Prentice Hall, 1037 s. ISBN 0-13-301458-4.HUTTON, David V. 2004. Fundamentals of finite element analysis. Boston: McGraw-Hill, 494 s. McGraw-Hill series in mechanical engineering. ISBN 0-07-112231-1. Fundamentals of Heat and Mass Transfer. 1996. 4. vyd. New York: John Wiley & Sons, 886 s. ISBN 0-471-30460-3.ÇENGEL, Yunus A.; GHAJAR, Afshin J.; KANOGLU, Mehmet. Heat and mass transfer: fundamentals and applications. 4. vyd. New York: McGraw-Hill, 902 s. ISBN 978-007-131112-0.JANÍČEK, Přemysl. 2007. Systémové pojetí vybraných oborů pro techniky : hledání souvislostí : učební texty I. 1. vyd. Brno: Akademické nakladatelství CERM, 682 s. ISBN 978-80-7204-555-61.JANÍČEK, Přemysl. 2007. Systémové pojetí vybraných oborů pro techniky : hledání souvislostí : učební texty II. 1. vyd. Brno: Akademické nakladatelství CERM, 683 s. ISBN 978-80-214-3544-5."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "BORST, R. de., CRISFIELD, M. A., 2012. Nonlinear finite element analysis of solids and structures. 2nd ed. Chichester: Wiley, 516 s. ISBN 978-0-470-66644-9.SLAVÍK, J., 2003. Počítačové metody mechaniky I. Brno: Akademické nakladatelství CERM, 118 s. ISBN 80-214-2311-0."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-TBD Technická biologie dřevin, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "NMB"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Numerické modelování biologických systémů"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Numerical Modeling of Biological Systems"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master; master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "Self-study of tutorials, online consultations, elaboration of seminar work (project), defense and online exam."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Jan Tippner, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jan Tippner, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Ing. Barbora Vojáčková, Ph.D., DiS. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "State Bachelor Examination"
+    },
+    {
+      "label": "1.",
+      "content": "FEM Applications. (allowance 5/10)"
+    },
+    {
+      "label": "a.",
+      "content": "Advanced applications of continuum mechanics and thermodynamics, description of a physical problem and solution of differential equations, introduction to numerical methods and FEM. Use of simulations in expert activities. Simple elastic structural analysis of a branch."
+    },
+    {
+      "label": "b.",
+      "content": "Approach to modeling structural, thermodynamic problems. Composite model of mechanical response of the root system."
+    },
+    {
+      "label": "c.",
+      "content": "Implementation of material models. Orthotropic bilinear model of fresh wood sample behavior, methods of implementation of the influence of factors, reduction of quality and defects. Seminar work assignment: physical analysis of the model."
+    },
+    {
+      "label": "d.",
+      "content": "Use of probabilistic modeling in modeling of biological systems. Sensitivity analysis of the effect of geometry and material changes on tree trunk stiffness. Seminar work: creation of geometry and network."
+    },
+    {
+      "label": "2.",
+      "content": "FEM modeling. (allowance 8/16)"
+    },
+    {
+      "label": "a.",
+      "content": "Advanced methods of creating a deterministic geometry model. Building of a finite-element model of a trunk / branch / root from laser scanning data. Seminar work: creation of geometry and network."
+    },
+    {
+      "label": "b.",
+      "content": "Principles of topological optimization and design optimization methods. The role of topological optimization of the trunk cross section under load."
+    },
+    {
+      "label": "c.",
+      "content": "Solving linear dynamic problems of biological systems. Modal analysis of a tree. Seminar work: boundary and initial conditions."
+    },
+    {
+      "label": "d.",
+      "content": "Transient mechanical problem. Simulation of dynamic loading of mechanical coupling. Seminar work: boundary and initial conditions."
+    },
+    {
+      "label": "e.",
+      "content": "Stationary thermal analysis. Calculation of temperature distribution in the cross section of the trunk. Seminar work: computation and display of outputs."
+    },
+    {
+      "label": "f.",
+      "content": "Transient thermal analysis, modeling of bound processes. Model of heat transfer in the soil environment of a plant."
+    },
+    {
+      "label": "g.",
+      "content": "Problems of fluid mechanics, basics of CFD analyzes. Simulation of changes in air flow due to an obstacle. Work on seminar projects. Seminar work: export and interpretation of results."
+    },
+    {
+      "label": "h.",
+      "content": "CFD coupled analysis. Simulation of the temperature field in the environment of woody plants. Work on seminar projects."
+    },
+    {
+      "label": "3.",
+      "content": "Seminar, presentation and defence of projects. (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Seminar: application of FEM in technical tree biology, presentation of seminar projects."
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "20 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "40 %"
+    },
+    {
+      "label": "Presentation or defence",
+      "content": "20 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "20 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Numerické modelování biologických systémů"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Numerical Modeling of Biological Systems"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master; master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: Self-study of tutorials, online consultations, elaboration of seminar work (project), defense and online exam."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Jan Tippner, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jan Tippner, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Ing. Barbora Vojáčková, Ph.D., DiS. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: State Bachelor Examination"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday17.00-17.50B514J. Tippner, B. VojáčkováLectureEvery week20Thursday15.00-16.50B46J. Tippner, B. VojáčkováSeminarEvery week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "To provide information about advanced methods of physical modeling from simple tasks with applications in physics and mechanics of biological systems, especially plants - woody plants and its air and soil environment to the use of probabilistic methods and coupled physical processes. To learn knowledge and skills in the theoretical basis of numerical analysis, finite element methods (FEM), methodological procedures for creating a computational model and the simulation, practical computations of physical problems and interpretation of results in the field of tree biomechanics and related disciplines."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.FEM Applications. (allowance 5/10) a.Advanced applications of continuum mechanics and thermodynamics, description of a physical problem and solution of differential equations, introduction to numerical methods and FEM. Use of simulations in expert activities. Simple elastic structural analysis of a branch.b.Approach to modeling structural, thermodynamic problems. Composite model of mechanical response of the root system.c.Implementation of material models. Orthotropic bilinear model of fresh wood sample behavior, methods of implementation of the influence of factors, reduction of quality and defects. Seminar work assignment: physical analysis of the model.d.Use of probabilistic modeling in modeling of biological systems. Sensitivity analysis of the effect of geometry and material changes on tree trunk stiffness. Seminar work: creation of geometry and network.2.FEM modeling. (allowance 8/16) a.Advanced methods of creating a deterministic geometry model. Building of a finite-element model of a trunk / branch / root from laser scanning data. Seminar work: creation of geometry and network.b.Principles of topological optimization and design optimization methods. The role of topological optimization of the trunk cross section under load.c.Solving linear dynamic problems of biological systems. Modal analysis of a tree. Seminar work: boundary and initial conditions.d.Transient mechanical problem. Simulation of dynamic loading of mechanical coupling. Seminar work: boundary and initial conditions.e.Stationary thermal analysis. Calculation of temperature distribution in the cross section of the trunk. Seminar work: computation and display of outputs.f.Transient thermal analysis, modeling of bound processes. Model of heat transfer in the soil environment of a plant.g.Problems of fluid mechanics, basics of CFD analyzes. Simulation of changes in air flow due to an obstacle. Work on seminar projects. Seminar work: export and interpretation of results.h.CFD coupled analysis. Simulation of the temperature field in the environment of woody plants. Work on seminar projects.3.Seminar, presentation and defence of projects. (allowance 1/2) a.Seminar: application of FEM in technical tree biology, presentation of seminar projects."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Advanced applications of continuum mechanics and thermodynamics, description of a physical problem and solution of differential equations, introduction to numerical methods and FEM. Use of simulations in expert activities. Simple elastic structural analysis of a branch.b.Approach to modeling structural, thermodynamic problems. Composite model of mechanical response of the root system.c.Implementation of material models. Orthotropic bilinear model of fresh wood sample behavior, methods of implementation of the influence of factors, reduction of quality and defects. Seminar work assignment: physical analysis of the model.d.Use of probabilistic modeling in modeling of biological systems. Sensitivity analysis of the effect of geometry and material changes on tree trunk stiffness. Seminar work: creation of geometry and network."
+    },
+    {
+      "label": "[section] FEM Applications.",
+      "content": "a.Advanced applications of continuum mechanics and thermodynamics, description of a physical problem and solution of differential equations, introduction to numerical methods and FEM. Use of simulations in expert activities. Simple elastic structural analysis of a branch.b.Approach to modeling structural, thermodynamic problems. Composite model of mechanical response of the root system.c.Implementation of material models. Orthotropic bilinear model of fresh wood sample behavior, methods of implementation of the influence of factors, reduction of quality and defects. Seminar work assignment: physical analysis of the model.d.Use of probabilistic modeling in modeling of biological systems. Sensitivity analysis of the effect of geometry and material changes on tree trunk stiffness. Seminar work: creation of geometry and network."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Advanced methods of creating a deterministic geometry model. Building of a finite-element model of a trunk / branch / root from laser scanning data. Seminar work: creation of geometry and network.b.Principles of topological optimization and design optimization methods. The role of topological optimization of the trunk cross section under load.c.Solving linear dynamic problems of biological systems. Modal analysis of a tree. Seminar work: boundary and initial conditions.d.Transient mechanical problem. Simulation of dynamic loading of mechanical coupling. Seminar work: boundary and initial conditions.e.Stationary thermal analysis. Calculation of temperature distribution in the cross section of the trunk. Seminar work: computation and display of outputs.f.Transient thermal analysis, modeling of bound processes. Model of heat transfer in the soil environment of a plant.g.Problems of fluid mechanics, basics of CFD analyzes. Simulation of changes in air flow due to an obstacle. Work on seminar projects. Seminar work: export and interpretation of results.h.CFD coupled analysis. Simulation of the temperature field in the environment of woody plants. Work on seminar projects."
+    },
+    {
+      "label": "[section] FEM modeling.",
+      "content": "a.Advanced methods of creating a deterministic geometry model. Building of a finite-element model of a trunk / branch / root from laser scanning data. Seminar work: creation of geometry and network.b.Principles of topological optimization and design optimization methods. The role of topological optimization of the trunk cross section under load.c.Solving linear dynamic problems of biological systems. Modal analysis of a tree. Seminar work: boundary and initial conditions.d.Transient mechanical problem. Simulation of dynamic loading of mechanical coupling. Seminar work: boundary and initial conditions.e.Stationary thermal analysis. Calculation of temperature distribution in the cross section of the trunk. Seminar work: computation and display of outputs.f.Transient thermal analysis, modeling of bound processes. Model of heat transfer in the soil environment of a plant.g.Problems of fluid mechanics, basics of CFD analyzes. Simulation of changes in air flow due to an obstacle. Work on seminar projects. Seminar work: export and interpretation of results.h.CFD coupled analysis. Simulation of the temperature field in the environment of woody plants. Work on seminar projects."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Seminar: application of FEM in technical tree biology, presentation of seminar projects."
+    },
+    {
+      "label": "[section] Seminar, presentation and defence of projects.",
+      "content": "a.Seminar: application of FEM in technical tree biology, presentation of seminar projects."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice28 hconsultation14 hproject work20 hpublic presentation (oral)1 hpreparation for exam14 hpreparation for regular assessment14 hpreparation of presentation7 hwriting of seminar paper28 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Elaboration of a seminary work (project), its presentation and defense, an examination of the knowledge and skills of the FEM."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation20 %Term paper40 %Presentation or defence20 %Final oral exam20 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic: FEM - Principy a praxe metody konečných prvků. 1997. 1st ed. Praha: Computer Press, 401 p. ISBN 80-7226-021-9. The finite element method and applications in engineering using ANSYS. New York: Springer, 686 p. ISBN 0-387-28289-0. Finite elements analysis: theory and application with ANSYS. 1999. Upper Saddle River: Prentice Hall, 527 p. ISBN 0-13-785098-0.PETRUŠKA, J. 2003. Počítačové metody mechaniky II – Metoda konečných prvků. Brno: VUT v Brně, 88 p. Advances in finite element procedures and techniques. Edinburgh: Civil-Comp, 298 p. ISBN 0-948749-56-3. Finite element procedures. 1996. Upper Saddle River: Prentice Hall, 1037 p. ISBN 0-13-301458-4.HUTTON, David V. 2004. Fundamentals of finite element analysis. Boston: McGraw-Hill, 494 p. McGraw-Hill series in mechanical engineering. ISBN 0-07-112231-1. Fundamentals of Heat and Mass Transfer. 1996. 4th ed. New York: John Wiley & Sons, 886 p. ISBN 0-471-30460-3.ÇENGEL, Yunus A.; GHAJAR, Afshin J.; KANOGLU, Mehmet. Heat and mass transfer: fundamentals and applications. 4th ed. New York: McGraw-Hill, 902 p. ISBN 978-007-131112-0.JANÍČEK, Přemysl. 2007. Systémové pojetí vybraných oborů pro techniky : hledání souvislostí : učební texty I. 1st ed. Brno: Akademické nakladatelství CERM, 682 p. ISBN 978-80-7204-555-61.JANÍČEK, Přemysl. 2007. Systémové pojetí vybraných oborů pro techniky : hledání souvislostí : učební texty II. 1st ed. Brno: Akademické nakladatelství CERM, 683 p. ISBN 978-80-214-3544-5.Recommended:BORST, R. de., CRISFIELD, M. A., 2012. Nonlinear finite element analysis of solids and structures. 2nd ed. Chichester: Wiley, 516 s. ISBN 978-0-470-66644-9.SLAVÍK, J., 2003. Počítačové metody mechaniky I. Brno: Akademické nakladatelství CERM, 118 s. ISBN 80-214-2311-0."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "FEM - Principy a praxe metody konečných prvků. 1997. 1st ed. Praha: Computer Press, 401 p. ISBN 80-7226-021-9. The finite element method and applications in engineering using ANSYS. New York: Springer, 686 p. ISBN 0-387-28289-0. Finite elements analysis: theory and application with ANSYS. 1999. Upper Saddle River: Prentice Hall, 527 p. ISBN 0-13-785098-0.PETRUŠKA, J. 2003. Počítačové metody mechaniky II – Metoda konečných prvků. Brno: VUT v Brně, 88 p. Advances in finite element procedures and techniques. Edinburgh: Civil-Comp, 298 p. ISBN 0-948749-56-3. Finite element procedures. 1996. Upper Saddle River: Prentice Hall, 1037 p. ISBN 0-13-301458-4.HUTTON, David V. 2004. Fundamentals of finite element analysis. Boston: McGraw-Hill, 494 p. McGraw-Hill series in mechanical engineering. ISBN 0-07-112231-1. Fundamentals of Heat and Mass Transfer. 1996. 4th ed. New York: John Wiley & Sons, 886 p. ISBN 0-471-30460-3.ÇENGEL, Yunus A.; GHAJAR, Afshin J.; KANOGLU, Mehmet. Heat and mass transfer: fundamentals and applications. 4th ed. New York: McGraw-Hill, 902 p. ISBN 978-007-131112-0.JANÍČEK, Přemysl. 2007. Systémové pojetí vybraných oborů pro techniky : hledání souvislostí : učební texty I. 1st ed. Brno: Akademické nakladatelství CERM, 682 p. ISBN 978-80-7204-555-61.JANÍČEK, Přemysl. 2007. Systémové pojetí vybraných oborů pro techniky : hledání souvislostí : učební texty II. 1st ed. Brno: Akademické nakladatelství CERM, 683 p. ISBN 978-80-214-3544-5."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "BORST, R. de., CRISFIELD, M. A., 2012. Nonlinear finite element analysis of solids and structures. 2nd ed. Chichester: Wiley, 516 s. ISBN 978-0-470-66644-9.SLAVÍK, J., 2003. Počítačové metody mechaniky I. Brno: Akademické nakladatelství CERM, 118 s. ISBN 80-214-2311-0."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-TBD Technical Biology of Plants, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:35:25",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

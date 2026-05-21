@@ -1,0 +1,601 @@
+{
+  "courseCode": "EFDR",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EFDR"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Ekofyziologie dřevin"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Ecophysiology of Woody Plants"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Student obdrží nahrávky přednášek a cvičení. Musí vytvořil protokol na téma Růstová analýza makroblastu jehličnanu a seminární práci Fenologické pozorování vybraného druhu dřeviny. Zkouška bude ústní - online."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Josef Urban, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav lesnické botaniky, dendrologie a geobiocenologie (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Zuzana Špinlerová, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Josef Urban, Ph.D. (cvičící, garant, přednášející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Ekofyziologie lesních dřevin a ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do ekofyziologie dřevin, konstrukční typy dřevin (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Dřevina, polodřevina, strom, keř, výhody dřevin, principy stromovitého vzrůstu, typy ontogenie, konstrukční principy"
+    },
+    {
+      "label": "2.",
+      "content": "Pro nás nezvyklé stromovité druhy (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Kapradiny, palmy, třezalky, lobelky, starčky, sekvojovce, baobaby, mangrove"
+    },
+    {
+      "label": "3.",
+      "content": "Stromy a stres (dotace 4/12)"
+    },
+    {
+      "label": "a.",
+      "content": "Stresory, stresové odpovědi, symptomy, endogenní faktory, stres a fáze ontogeneze, dynamika aktivity dřevin"
+    },
+    {
+      "label": "b.",
+      "content": "Růstové analýzy dřevin - jehličnatá dřevina, listnatá dřevina, parametry, příklady analýz, vazba ke klimatickým podmínkám"
+    },
+    {
+      "label": "c.",
+      "content": "Dendrochronologická (letokruhová) analýza - Dendrochronologie, dendroekologie, dendrochronologie sensu stricto, letokruh, parametry, vazba ke klimatickým podmínkám"
+    },
+    {
+      "label": "d.",
+      "content": "Ontogenie stromů - období, fáze, stádia ontogenie stromů, 10 ukázek vývojových stádií"
+    },
+    {
+      "label": "4.",
+      "content": "Stromoví veteráni (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Růst a stárnutí, optimum, suboptimum, supraoptimum, znaky veterána, příklady charakteristických vlastností veteránů, věk, adaptace k prostředí"
+    },
+    {
+      "label": "b.",
+      "content": "Reakce starých stromů na řez a změny v okolí - řez, potřeba řezu, starý strom, veterán, vliv řezu, rizika řezu, vliv řezu stromu na okolí, příklad řezu koruny topolu a následného vývoje"
+    },
+    {
+      "label": "5.",
+      "content": "Voda, vodní provoz (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Funkce vody, vlastnosti vody - fyzikální, chemické, příjem vody, vedení vody, výdej vody, vodní potenciál, vodní bilance, fyziologicko-ekologické typy rostlin ve vztahu k vodnímu provozu"
+    },
+    {
+      "label": "b.",
+      "content": "Vodní stres - nadbytek vody - Záplavy, příčiny stresu, důsledky, poruchy, adaptace"
+    },
+    {
+      "label": "c.",
+      "content": "Vodní stres - nedostatek vody - Sucho, příčiny, důsledky, poruchy, adaptace"
+    },
+    {
+      "label": "6.",
+      "content": "Světlo - sluneční záření a rostliny (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Světlo v historii, vlastnosti světla, fotobiologické procesy, obranné reakce při vysoké insolaci, nedostatek záření"
+    },
+    {
+      "label": "7.",
+      "content": "Teplo a rostliny (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Vlastnosti, teplotní klima porostu, chlad, mráz, rostliny v zimě, otužování, supraoptimální teploty, extrémně vysoké teploty, snášenlivost"
+    },
+    {
+      "label": "8.",
+      "content": "Fenologie (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Fenologické fáze, příklady fenologických pozorování, roční cyklus.Předmět fenologie, metody fenologie, zpracování fenologických podkladů, fenologická období, vědy zabývající se fenologií, grafické symboly fenofází, ukázka studia fenofází."
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Ekofyziologie dřevin"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Ecophysiology of Woody Plants"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Student obdrží nahrávky přednášek a cvičení. Musí vytvořil protokol na téma Růstová analýza makroblastu jehličnanu a seminární práci Fenologické pozorování vybraného druhu dřeviny. Zkouška bude ústní - online."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Josef Urban, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav lesnické botaniky, dendrologie a geobiocenologie (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Zuzana Špinlerová, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Josef Urban, Ph.D. (cvičící, garant, přednášející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Ekofyziologie lesních dřevin a ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Pochopit chování dřevin v komplexu faktorů vnějšího prostředí včetně záměrných i neúmyslných antropogenních změn."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do ekofyziologie dřevin, konstrukční typy dřevin (dotace 4/2) a.Dřevina, polodřevina, strom, keř, výhody dřevin, principy stromovitého vzrůstu, typy ontogenie, konstrukční principy2.Pro nás nezvyklé stromovité druhy (dotace 2/0) a.Kapradiny, palmy, třezalky, lobelky, starčky, sekvojovce, baobaby, mangrove3.Stromy a stres (dotace 4/12) a.Stresory, stresové odpovědi, symptomy, endogenní faktory, stres a fáze ontogeneze, dynamika aktivity dřevinb.Růstové analýzy dřevin - jehličnatá dřevina, listnatá dřevina, parametry, příklady analýz, vazba ke klimatickým podmínkámc.Dendrochronologická (letokruhová) analýza - Dendrochronologie, dendroekologie, dendrochronologie sensu stricto, letokruh, parametry, vazba ke klimatickým podmínkámd.Ontogenie stromů - období, fáze, stádia ontogenie stromů, 10 ukázek vývojových stádií4.Stromoví veteráni (dotace 4/2) a.Růst a stárnutí, optimum, suboptimum, supraoptimum, znaky veterána, příklady charakteristických vlastností veteránů, věk, adaptace k prostředíb.Reakce starých stromů na řez a změny v okolí - řez, potřeba řezu, starý strom, veterán, vliv řezu, rizika řezu, vliv řezu stromu na okolí, příklad řezu koruny topolu a následného vývoje5.Voda, vodní provoz (dotace 4/2) a.Funkce vody, vlastnosti vody - fyzikální, chemické, příjem vody, vedení vody, výdej vody, vodní potenciál, vodní bilance, fyziologicko-ekologické typy rostlin ve vztahu k vodnímu provozub.Vodní stres - nadbytek vody - Záplavy, příčiny stresu, důsledky, poruchy, adaptacec.Vodní stres - nedostatek vody - Sucho, příčiny, důsledky, poruchy, adaptace6.Světlo - sluneční záření a rostliny (dotace 2/2) a.Světlo v historii, vlastnosti světla, fotobiologické procesy, obranné reakce při vysoké insolaci, nedostatek záření7.Teplo a rostliny (dotace 2/0) a.Vlastnosti, teplotní klima porostu, chlad, mráz, rostliny v zimě, otužování, supraoptimální teploty, extrémně vysoké teploty, snášenlivost8.Fenologie (dotace 2/4) a.Fenologické fáze, příklady fenologických pozorování, roční cyklus.Předmět fenologie, metody fenologie, zpracování fenologických podkladů, fenologická období, vědy zabývající se fenologií, grafické symboly fenofází, ukázka studia fenofází."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Dřevina, polodřevina, strom, keř, výhody dřevin, principy stromovitého vzrůstu, typy ontogenie, konstrukční principy"
+    },
+    {
+      "label": "[section] Úvod do ekofyziologie dřevin, konstrukční typy dřevin",
+      "content": "a.Dřevina, polodřevina, strom, keř, výhody dřevin, principy stromovitého vzrůstu, typy ontogenie, konstrukční principy"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Kapradiny, palmy, třezalky, lobelky, starčky, sekvojovce, baobaby, mangrove"
+    },
+    {
+      "label": "[section] Pro nás nezvyklé stromovité druhy",
+      "content": "a.Kapradiny, palmy, třezalky, lobelky, starčky, sekvojovce, baobaby, mangrove"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Stresory, stresové odpovědi, symptomy, endogenní faktory, stres a fáze ontogeneze, dynamika aktivity dřevinb.Růstové analýzy dřevin - jehličnatá dřevina, listnatá dřevina, parametry, příklady analýz, vazba ke klimatickým podmínkámc.Dendrochronologická (letokruhová) analýza - Dendrochronologie, dendroekologie, dendrochronologie sensu stricto, letokruh, parametry, vazba ke klimatickým podmínkámd.Ontogenie stromů - období, fáze, stádia ontogenie stromů, 10 ukázek vývojových stádií"
+    },
+    {
+      "label": "[section] Stromy a stres",
+      "content": "a.Stresory, stresové odpovědi, symptomy, endogenní faktory, stres a fáze ontogeneze, dynamika aktivity dřevinb.Růstové analýzy dřevin - jehličnatá dřevina, listnatá dřevina, parametry, příklady analýz, vazba ke klimatickým podmínkámc.Dendrochronologická (letokruhová) analýza - Dendrochronologie, dendroekologie, dendrochronologie sensu stricto, letokruh, parametry, vazba ke klimatickým podmínkámd.Ontogenie stromů - období, fáze, stádia ontogenie stromů, 10 ukázek vývojových stádií"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Růst a stárnutí, optimum, suboptimum, supraoptimum, znaky veterána, příklady charakteristických vlastností veteránů, věk, adaptace k prostředíb.Reakce starých stromů na řez a změny v okolí - řez, potřeba řezu, starý strom, veterán, vliv řezu, rizika řezu, vliv řezu stromu na okolí, příklad řezu koruny topolu a následného vývoje"
+    },
+    {
+      "label": "[section] Stromoví veteráni",
+      "content": "a.Růst a stárnutí, optimum, suboptimum, supraoptimum, znaky veterána, příklady charakteristických vlastností veteránů, věk, adaptace k prostředíb.Reakce starých stromů na řez a změny v okolí - řez, potřeba řezu, starý strom, veterán, vliv řezu, rizika řezu, vliv řezu stromu na okolí, příklad řezu koruny topolu a následného vývoje"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Funkce vody, vlastnosti vody - fyzikální, chemické, příjem vody, vedení vody, výdej vody, vodní potenciál, vodní bilance, fyziologicko-ekologické typy rostlin ve vztahu k vodnímu provozub.Vodní stres - nadbytek vody - Záplavy, příčiny stresu, důsledky, poruchy, adaptacec.Vodní stres - nedostatek vody - Sucho, příčiny, důsledky, poruchy, adaptace"
+    },
+    {
+      "label": "[section] Voda, vodní provoz",
+      "content": "a.Funkce vody, vlastnosti vody - fyzikální, chemické, příjem vody, vedení vody, výdej vody, vodní potenciál, vodní bilance, fyziologicko-ekologické typy rostlin ve vztahu k vodnímu provozub.Vodní stres - nadbytek vody - Záplavy, příčiny stresu, důsledky, poruchy, adaptacec.Vodní stres - nedostatek vody - Sucho, příčiny, důsledky, poruchy, adaptace"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Světlo v historii, vlastnosti světla, fotobiologické procesy, obranné reakce při vysoké insolaci, nedostatek záření"
+    },
+    {
+      "label": "[section] Světlo - sluneční záření a rostliny",
+      "content": "a.Světlo v historii, vlastnosti světla, fotobiologické procesy, obranné reakce při vysoké insolaci, nedostatek záření"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Vlastnosti, teplotní klima porostu, chlad, mráz, rostliny v zimě, otužování, supraoptimální teploty, extrémně vysoké teploty, snášenlivost"
+    },
+    {
+      "label": "[section] Teplo a rostliny",
+      "content": "a.Vlastnosti, teplotní klima porostu, chlad, mráz, rostliny v zimě, otužování, supraoptimální teploty, extrémně vysoké teploty, snášenlivost"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Fenologické fáze, příklady fenologických pozorování, roční cyklus.Předmět fenologie, metody fenologie, zpracování fenologických podkladů, fenologická období, vědy zabývající se fenologií, grafické symboly fenofází, ukázka studia fenofází."
+    },
+    {
+      "label": "[section] Fenologie",
+      "content": "a.Fenologické fáze, příklady fenologických pozorování, roční cyklus.Předmět fenologie, metody fenologie, zpracování fenologických podkladů, fenologická období, vědy zabývající se fenologií, grafické symboly fenofází, ukázka studia fenofází."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška24 h19 hcvičení24 h0 hpráce v terénu14 h2 hodborná praxe0 h4 hkonzultace4 h19 hveřejná prezentace (ústní)1 h0 hpříprava na zkoušku30 h80 hpříprava na průběžné hodnocení18 h16 hzpracování protokolů5 h0 hzpracování seminární práce20 h0 hCelkem140 h140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zápočet - povinná účast na cvičení (80%) - odevzdání protokolu - růstová analýza dřeviny - odevzdání seminární práce s fenologickou tématikou a ústní prezentace dosažených výsledků. Zkouška - písemná zkouška znalostí získaných z přednášek a cvičení (udělení zkoušky při dosažení 25 bodů z maximálních 45 bodů)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích10 %50 %Vypracování semestrální práce30 %0 %Prezentace nebo obhajoba25 %0 %Absolvování závěrečného testu35 %50 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:ŠPINLEROVÁ, Zuzana. 2014. Ekofyziologie dřevin. 1. vyd. Brno: Mendelova univerzita v Brně, 109 s. ISBN 978-80-7509-158-1.KOLAŘÍK, Jaroslav a kol. 2005. Péče o dřeviny rostoucí mimo les II. 1. vyd. Vlašim: Český svaz ochránců přírody, 720 s. II. ISBN 80-86327-44-2.BLÁHA, Ladislav a kol. 2003. Rostlina a stres. 1. vyd. Praha: Výzkumný ústav rostlinné výroby, 156 s. ISBN 80-86555-32-1.LARCHER, Walter; BAUER, Václav. 1988. Fyziologická ekologie rostlin. 1. vyd. Praha: Academia, 361 s.PROCHÁZKA, Stanislav a kol. 2005. Botanika: morfologie a fyziologie rostlin. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita, 242 s. ISBN 80-7157-870-3."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "ŠPINLEROVÁ, Zuzana. 2014. Ekofyziologie dřevin. 1. vyd. Brno: Mendelova univerzita v Brně, 109 s. ISBN 978-80-7509-158-1.KOLAŘÍK, Jaroslav a kol. 2005. Péče o dřeviny rostoucí mimo les II. 1. vyd. Vlašim: Český svaz ochránců přírody, 720 s. II. ISBN 80-86327-44-2.BLÁHA, Ladislav a kol. 2003. Rostlina a stres. 1. vyd. Praha: Výzkumný ústav rostlinné výroby, 156 s. ISBN 80-86555-32-1.LARCHER, Walter; BAUER, Václav. 1988. Fyziologická ekologie rostlin. 1. vyd. Praha: Academia, 361 s.PROCHÁZKA, Stanislav a kol. 2005. Botanika: morfologie a fyziologie rostlin. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita, 242 s. ISBN 80-7157-870-3."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-ARBO Arboristika, kombinovaná forma, počáteční období ZS 2024/2025Program B-ARBO Arboristika, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EFDR"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Ekofyziologie dřevin"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Ecophysiology of Woody Plants"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 20/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "Student will receive records of lectures and exercises. Student must submit protocol on the topic of growth analysis of a conifer macroblast and seminar work Phenological observation of a selected tree species. The exam will be oral - online."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Josef Urban, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Forest Botany, Dendrology and Geobiocoenology (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Zuzana Špinlerová, Ph.D. (examiner, instructor, lecturer)doc. Ing. Josef Urban, Ph.D. (instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Ecophysiology of Forest Tree Species and not State Bachelor Examination"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to ecophysiology of woody species, constructional types of woody species (allowance 4/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Curious arborescent species (allowance 2/0)"
+    },
+    {
+      "label": "3.",
+      "content": "Trees and stress (allowance 4/12)"
+    },
+    {
+      "label": "4.",
+      "content": "Veteran trees (allowance 4/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Water, plant water relations (allowance 4/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Light, solar radiation and plants (allowance 2/2)"
+    },
+    {
+      "label": "7.",
+      "content": "Heat and plants (allowance 2/0)"
+    },
+    {
+      "label": "8.",
+      "content": "Phenology (allowance 2/4)"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Ekofyziologie dřevin"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Ecophysiology of Woody Plants"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 20/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 20/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: Student will receive records of lectures and exercises. Student must submit protocol on the topic of growth analysis of a conifer macroblast and seminar work Phenological observation of a selected tree species. The exam will be oral - online."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Josef Urban, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Forest Botany, Dendrology and Geobiocoenology (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Zuzana Špinlerová, Ph.D. (examiner, instructor, lecturer)doc. Ing. Josef Urban, Ph.D. (instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Ecophysiology of Forest Tree Species and not State Bachelor Examination"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "To undestand the behaviour of woody plants in their changed, arteficial environment, namely in cities."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to ecophysiology of woody species, constructional types of woody species (allowance 4/2)2.Curious arborescent species (allowance 2/0)3.Trees and stress (allowance 4/12)4.Veteran trees (allowance 4/2)5.Water, plant water relations (allowance 4/2)6.Light, solar radiation and plants (allowance 2/2)7.Heat and plants (allowance 2/0)8.Phenology (allowance 2/4)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Curious arborescent species (allowance 2/0)"
+    },
+    {
+      "label": "[section] Introduction to ecophysiology of woody species, constructional types of woody species",
+      "content": "2.Curious arborescent species (allowance 2/0)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Trees and stress (allowance 4/12)"
+    },
+    {
+      "label": "[section] Curious arborescent species",
+      "content": "3.Trees and stress (allowance 4/12)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Veteran trees (allowance 4/2)"
+    },
+    {
+      "label": "[section] Trees and stress",
+      "content": "4.Veteran trees (allowance 4/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Water, plant water relations (allowance 4/2)"
+    },
+    {
+      "label": "[section] Veteran trees",
+      "content": "5.Water, plant water relations (allowance 4/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Light, solar radiation and plants (allowance 2/2)"
+    },
+    {
+      "label": "[section] Water, plant water relations",
+      "content": "6.Light, solar radiation and plants (allowance 2/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Heat and plants (allowance 2/0)"
+    },
+    {
+      "label": "[section] Light, solar radiation and plants",
+      "content": "7.Heat and plants (allowance 2/0)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Phenology (allowance 2/4)"
+    },
+    {
+      "label": "[section] Heat and plants",
+      "content": "8.Phenology (allowance 2/4)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture24 h19 hpractice24 h0 hfield work14 h2 hpractical training0 h4 hconsultation4 h19 hpublic presentation (oral)1 h0 hpreparation for exam30 h80 hpreparation for regular assessment18 h16 helaboration of reports5 h0 hwriting of seminar paper20 h0 hTotal140 h140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Credit - compulsory participation in seminars (80%) - submission of protocol - growth analysis of tree species - submission of a seminar work with phonological topic and oral presentation of results. Exam - written exam of knowledge obtained from lectures and seminars (maximal total receive points could be 45, for obtaining exam is necessary to have at least 25 points)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation10 %50 %Term paper30 %0 %Presentation or defence25 %0 %Final test35 %50 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:ŠPINLEROVÁ, Zuzana. 2014. Ekofyziologie dřevin. 1st ed. Brno: Mendelova univerzita v Brně, 109 p. ISBN 978-80-7509-158-1.KOLAŘÍK, Jaroslav et al. 2005. Péče o dřeviny rostoucí mimo les II. 1st ed. Vlašim: Český svaz ochránců přírody, 720 p. II. ISBN 80-86327-44-2.BLÁHA, Ladislav et al. 2003. Rostlina a stres. 1st ed. Praha: Výzkumný ústav rostlinné výroby, 156 p. ISBN 80-86555-32-1.LARCHER, Walter; BAUER, Václav. 1988. Fyziologická ekologie rostlin. 1st ed. Praha: Academia, 361 p.PROCHÁZKA, Stanislav et al. 2005. Botanika: morfologie a fyziologie rostlin. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita, 242 p. ISBN 80-7157-870-3."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "ŠPINLEROVÁ, Zuzana. 2014. Ekofyziologie dřevin. 1st ed. Brno: Mendelova univerzita v Brně, 109 p. ISBN 978-80-7509-158-1.KOLAŘÍK, Jaroslav et al. 2005. Péče o dřeviny rostoucí mimo les II. 1st ed. Vlašim: Český svaz ochránců přírody, 720 p. II. ISBN 80-86327-44-2.BLÁHA, Ladislav et al. 2003. Rostlina a stres. 1st ed. Praha: Výzkumný ústav rostlinné výroby, 156 p. ISBN 80-86555-32-1.LARCHER, Walter; BAUER, Václav. 1988. Fyziologická ekologie rostlin. 1st ed. Praha: Academia, 361 p.PROCHÁZKA, Stanislav et al. 2005. Botanika: morfologie a fyziologie rostlin. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita, 242 p. ISBN 80-7157-870-3."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-ARBO Arboristics, part-time form, initial period WS 2024/2025Programme B-ARBO Arboristics, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:47:42",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

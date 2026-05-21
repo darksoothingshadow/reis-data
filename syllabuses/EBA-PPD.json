@@ -1,0 +1,793 @@
+{
+  "courseCode": "EBA-PPD",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBA-PPD"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Pokročilá práce s daty v AJ"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Advanced Work with Data"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "konzultační"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "angličtina"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Mgr. Jana Dannhoferová, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Mgr. Jana Dannhoferová, Ph.D. (garant)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška a (Moderní informační technologie v AJ nebo nyní Moderní informační technologie v AJ)"
+    },
+    {
+      "label": "1.",
+      "content": "Automatizace rutinních úkolů (dotace 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Stručné zopakování základních principů práce v tabulkovém procesoru"
+    },
+    {
+      "label": "b.",
+      "content": "Oblast dat versus inteligentní tabulka Excelu"
+    },
+    {
+      "label": "c.",
+      "content": "Dynamické doplňování a rozšířené možnosti schránky Office"
+    },
+    {
+      "label": "d.",
+      "content": "Tipy a triky při použití podmíněného formátování"
+    },
+    {
+      "label": "e.",
+      "content": "Tvorba vlastních formátů a hromadné formátování listů"
+    },
+    {
+      "label": "f.",
+      "content": "Pokročilé možnosti řazení a filtrování"
+    },
+    {
+      "label": "2.",
+      "content": "Připojení k datovým zdrojům a importování dat (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Datové typy a formáty pro ukládání tabulkových dat"
+    },
+    {
+      "label": "b.",
+      "content": "Databázové uspořádání dat, koncept používání primárního a cizího klíče"
+    },
+    {
+      "label": "c.",
+      "content": "Principy připojení k interním a externím datovým zdrojům"
+    },
+    {
+      "label": "d.",
+      "content": "Čištění, transformace a import dat pomocí doplňku Power Query"
+    },
+    {
+      "label": "e.",
+      "content": "Používání, připojování a slučování dotazů"
+    },
+    {
+      "label": "f.",
+      "content": "Jazyk M a základy práce s ním"
+    },
+    {
+      "label": "g.",
+      "content": "Správa externích odkazů, možnosti sdílení a zabezpečení dat"
+    },
+    {
+      "label": "h.",
+      "content": "Fungování propojení v Google Sheets"
+    },
+    {
+      "label": "3.",
+      "content": "Konsolidace dat (dotace 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Konsolidace dat pomocí vzorců, pokročilé využití a kombinace funkcí"
+    },
+    {
+      "label": "b.",
+      "content": "Princip použití maticových vzorců"
+    },
+    {
+      "label": "c.",
+      "content": "Pojmenování oblastí buněk a jejich použití ve vzorcích"
+    },
+    {
+      "label": "d.",
+      "content": "Práce s pojmenovanými oblastmi"
+    },
+    {
+      "label": "e.",
+      "content": "Ověřování, porovnávání a slučování dat"
+    },
+    {
+      "label": "f.",
+      "content": "Sledování závislostí"
+    },
+    {
+      "label": "g.",
+      "content": "Vytváření souhrnů, přehledů a seskupení dat"
+    },
+    {
+      "label": "h.",
+      "content": "Tvorba datového modelu a relací mezi tabulkami"
+    },
+    {
+      "label": "i.",
+      "content": "Možnosti pokročilých kontingenční tabulek"
+    },
+    {
+      "label": "4.",
+      "content": "Vizualizace dat (dotace 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Interaktivní metody vizualizace a prezentace dat"
+    },
+    {
+      "label": "b.",
+      "content": "Tipy a triky pro pokročilé použití diagramů"
+    },
+    {
+      "label": "c.",
+      "content": "Ganttovy diagramy využívající podmíněné formátování"
+    },
+    {
+      "label": "d.",
+      "content": "Vytvoření řídicího panelu pomocí nástrojů Excelu"
+    },
+    {
+      "label": "e.",
+      "content": "Ovládací prvky formulářů a jejich praktické využití"
+    },
+    {
+      "label": "f.",
+      "content": "Zpracování a vizualizace business dat pomocí Power Pivot"
+    },
+    {
+      "label": "g.",
+      "content": "Vizualizace dat pomocí doplňku Power View"
+    },
+    {
+      "label": "h.",
+      "content": "Vytváření reportů v Power BI"
+    },
+    {
+      "label": "5.",
+      "content": "Prognózy dat a automatizace procesů (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Pochopení podstaty prognóz"
+    },
+    {
+      "label": "b.",
+      "content": "Tvorba pohledů a prognóz ve formě scénářů"
+    },
+    {
+      "label": "c.",
+      "content": "Analýza časových řad"
+    },
+    {
+      "label": "d.",
+      "content": "Modelování pomocí funkce TREND()"
+    },
+    {
+      "label": "e.",
+      "content": "Citlivostní analýza a hledání řešení optimalizačních úloh v Excelu"
+    },
+    {
+      "label": "f.",
+      "content": "Princip vytváření maker ve VBA a v Google Apps Script"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "100 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024, ZS 2023/2024, LS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Pokročilá práce s daty v AJ"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Advanced Work with Data"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: konzultační"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: angličtina"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Mgr. Jana Dannhoferová, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Mgr. Jana Dannhoferová, Ph.D. (garant)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a (Moderní informační technologie v AJ nebo nyní Moderní informační technologie v AJ)"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět rozvíjí kompetence v oblasti pokročilé práce s daty. Studenti se naučí automatizovat rutinní úkoly, spravovat připojení k různým interním a externím datovým zdrojům, pracovat s velkými objemy dat, čistit a transformovat data, konsolidovat, analyzovat a vizualizovat data, vytvářet datové podklady pro rozhodování, optimalizovat řešení složitých problémů, vytvářet prognózy dat a také automatizovat složitější procesy."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Automatizace rutinních úkolů (dotace 6/6) a.Stručné zopakování základních principů práce v tabulkovém procesorub.Oblast dat versus inteligentní tabulka Exceluc.Dynamické doplňování a rozšířené možnosti schránky Officed.Tipy a triky při použití podmíněného formátováníe.Tvorba vlastních formátů a hromadné formátování listůf.Pokročilé možnosti řazení a filtrování2.Připojení k datovým zdrojům a importování dat (dotace 4/4) a.Datové typy a formáty pro ukládání tabulkových datb.Databázové uspořádání dat, koncept používání primárního a cizího klíčec.Principy připojení k interním a externím datovým zdrojůmd.Čištění, transformace a import dat pomocí doplňku Power Querye.Používání, připojování a slučování dotazůf.Jazyk M a základy práce s nímg.Správa externích odkazů, možnosti sdílení a zabezpečení dath.Fungování propojení v Google Sheets3.Konsolidace dat (dotace 6/6) a.Konsolidace dat pomocí vzorců, pokročilé využití a kombinace funkcíb.Princip použití maticových vzorcůc.Pojmenování oblastí buněk a jejich použití ve vzorcíchd.Práce s pojmenovanými oblastmie.Ověřování, porovnávání a slučování datf.Sledování závislostíg.Vytváření souhrnů, přehledů a seskupení dath.Tvorba datového modelu a relací mezi tabulkamii.Možnosti pokročilých kontingenční tabulek4.Vizualizace dat (dotace 8/8) a.Interaktivní metody vizualizace a prezentace datb.Tipy a triky pro pokročilé použití diagramůc.Ganttovy diagramy využívající podmíněné formátováníd.Vytvoření řídicího panelu pomocí nástrojů Excelue.Ovládací prvky formulářů a jejich praktické využitíf.Zpracování a vizualizace business dat pomocí Power Pivotg.Vizualizace dat pomocí doplňku Power Viewh.Vytváření reportů v Power BI5.Prognózy dat a automatizace procesů (dotace 4/4) a.Pochopení podstaty prognózb.Tvorba pohledů a prognóz ve formě scénářůc.Analýza časových řadd.Modelování pomocí funkce TREND()e.Citlivostní analýza a hledání řešení optimalizačních úloh v Exceluf.Princip vytváření maker ve VBA a v Google Apps Script"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Stručné zopakování základních principů práce v tabulkovém procesorub.Oblast dat versus inteligentní tabulka Exceluc.Dynamické doplňování a rozšířené možnosti schránky Officed.Tipy a triky při použití podmíněného formátováníe.Tvorba vlastních formátů a hromadné formátování listůf.Pokročilé možnosti řazení a filtrování"
+    },
+    {
+      "label": "[section] Automatizace rutinních úkolů",
+      "content": "a.Stručné zopakování základních principů práce v tabulkovém procesorub.Oblast dat versus inteligentní tabulka Exceluc.Dynamické doplňování a rozšířené možnosti schránky Officed.Tipy a triky při použití podmíněného formátováníe.Tvorba vlastních formátů a hromadné formátování listůf.Pokročilé možnosti řazení a filtrování"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Datové typy a formáty pro ukládání tabulkových datb.Databázové uspořádání dat, koncept používání primárního a cizího klíčec.Principy připojení k interním a externím datovým zdrojůmd.Čištění, transformace a import dat pomocí doplňku Power Querye.Používání, připojování a slučování dotazůf.Jazyk M a základy práce s nímg.Správa externích odkazů, možnosti sdílení a zabezpečení dath.Fungování propojení v Google Sheets"
+    },
+    {
+      "label": "[section] Připojení k datovým zdrojům a importování dat",
+      "content": "a.Datové typy a formáty pro ukládání tabulkových datb.Databázové uspořádání dat, koncept používání primárního a cizího klíčec.Principy připojení k interním a externím datovým zdrojůmd.Čištění, transformace a import dat pomocí doplňku Power Querye.Používání, připojování a slučování dotazůf.Jazyk M a základy práce s nímg.Správa externích odkazů, možnosti sdílení a zabezpečení dath.Fungování propojení v Google Sheets"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Konsolidace dat pomocí vzorců, pokročilé využití a kombinace funkcíb.Princip použití maticových vzorcůc.Pojmenování oblastí buněk a jejich použití ve vzorcíchd.Práce s pojmenovanými oblastmie.Ověřování, porovnávání a slučování datf.Sledování závislostíg.Vytváření souhrnů, přehledů a seskupení dath.Tvorba datového modelu a relací mezi tabulkamii.Možnosti pokročilých kontingenční tabulek"
+    },
+    {
+      "label": "[section] Konsolidace dat",
+      "content": "a.Konsolidace dat pomocí vzorců, pokročilé využití a kombinace funkcíb.Princip použití maticových vzorcůc.Pojmenování oblastí buněk a jejich použití ve vzorcíchd.Práce s pojmenovanými oblastmie.Ověřování, porovnávání a slučování datf.Sledování závislostíg.Vytváření souhrnů, přehledů a seskupení dath.Tvorba datového modelu a relací mezi tabulkamii.Možnosti pokročilých kontingenční tabulek"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Interaktivní metody vizualizace a prezentace datb.Tipy a triky pro pokročilé použití diagramůc.Ganttovy diagramy využívající podmíněné formátováníd.Vytvoření řídicího panelu pomocí nástrojů Excelue.Ovládací prvky formulářů a jejich praktické využitíf.Zpracování a vizualizace business dat pomocí Power Pivotg.Vizualizace dat pomocí doplňku Power Viewh.Vytváření reportů v Power BI"
+    },
+    {
+      "label": "[section] Vizualizace dat",
+      "content": "a.Interaktivní metody vizualizace a prezentace datb.Tipy a triky pro pokročilé použití diagramůc.Ganttovy diagramy využívající podmíněné formátováníd.Vytvoření řídicího panelu pomocí nástrojů Excelue.Ovládací prvky formulářů a jejich praktické využitíf.Zpracování a vizualizace business dat pomocí Power Pivotg.Vizualizace dat pomocí doplňku Power Viewh.Vytváření reportů v Power BI"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Pochopení podstaty prognózb.Tvorba pohledů a prognóz ve formě scénářůc.Analýza časových řadd.Modelování pomocí funkce TREND()e.Citlivostní analýza a hledání řešení optimalizačních úloh v Exceluf.Princip vytváření maker ve VBA a v Google Apps Script"
+    },
+    {
+      "label": "[section] Prognózy dat a automatizace procesů",
+      "content": "a.Pochopení podstaty prognózb.Tvorba pohledů a prognóz ve formě scénářůc.Analýza časových řadd.Modelování pomocí funkce TREND()e.Citlivostní analýza a hledání řešení optimalizačních úloh v Exceluf.Princip vytváření maker ve VBA a v Google Apps Script"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hkonzultace4 hpříprava na zkoušku80 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Předmět se skládá ze cvičení a přednášek (účast není povinná, ale žádoucí). Pro úspěšné ukončení tohoto předmětu je nutné absolvovat průběžnou kontrolu studijních povinností ve formě praktického testu (test 1) a dále závěrečný zkouškový test (test 2). Po každém testu proběhne ústní rozprava nad dosaženými výsledky, jejímž cílem bude ověřit, zda student dané problematice opravdu rozumí. Student je povinen absolvovat obě části. Každý test je ohodnocen maximálně 50 body a pro jeho úspěšné absolvování je potřeba získat minimálně 30 bodů. V opačném případě je nutné daný test opakovat. Každý test lze opakovat maximálně dvakrát, platný je vždy poslední získaný výsledek. Součet bodů z obou testů určuje celkové hodnocení úspěchu studenta v tomto předmětu. Výsledná známka je dána klasifikační stupnicí dle ECTS, tedy méně než 60 bodů F, 60 bodů a více E, 68 bodů a více D, 75 bodů a více C, 83 bodů a více B a 90 bodů a více A. V případě podvodného jednání bude student hodnocen známkou F a bude s ním zahájeno disciplinární řízení."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAbsolvování průběžného testu (testů)100 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní: Beginning Power BI: A Practical Guide to Self-Service Data Analytics with Excel 2016 and Power BI Desktop. 2017. ISBN 9781484225776. http://dx.doi.org/10.1007/978-1-4842-2577-6.JELEN, Bill; ALEXANDER, Michael. Excel 2016: pivot table data crunching. Indianapolis, Indiana: QUE, 417 s. ISBN 978-0-7897-5629-9."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "Beginning Power BI: A Practical Guide to Self-Service Data Analytics with Excel 2016 and Power BI Desktop. 2017. ISBN 9781484225776. http://dx.doi.org/10.1007/978-1-4842-2577-6.JELEN, Bill; ALEXANDER, Michael. Excel 2016: pivot table data crunching. Indianapolis, Indiana: QUE, 417 s. ISBN 978-0-7897-5629-9."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBA-PPD"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Pokročilá práce s daty v AJ"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Advanced Work with Data"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "consulting"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "Cannot be studied during the study placement."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "English"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Mgr. Jana Dannhoferová, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Mgr. Jana Dannhoferová, Ph.D. (supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam and (Modern Information Technologies or now Modern Information Technologies)"
+    },
+    {
+      "label": "1.",
+      "content": "Automation of routine tasks (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Briefly review the basic principles of spreadsheet work"
+    },
+    {
+      "label": "b.",
+      "content": "Data range vs. Excel smart spreadsheet"
+    },
+    {
+      "label": "c.",
+      "content": "Dynamic completion and advanced Office clipboard features"
+    },
+    {
+      "label": "d.",
+      "content": "Tips and tricks for using conditional formatting"
+    },
+    {
+      "label": "e.",
+      "content": "Creating custom formats and bulk sheet formatting"
+    },
+    {
+      "label": "f.",
+      "content": "Advanced sorting and filtering"
+    },
+    {
+      "label": "2.",
+      "content": "Connecting to data sources and importing data (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Data types and formats for storing tabular data"
+    },
+    {
+      "label": "b.",
+      "content": "Database organisation of data, concept of using primary and foreign keys"
+    },
+    {
+      "label": "c.",
+      "content": "Principles of linking to internal and external data sources"
+    },
+    {
+      "label": "d.",
+      "content": "Cleanse, transform, and import data using the Power Query add-in"
+    },
+    {
+      "label": "e.",
+      "content": "Use, join and merge queries"
+    },
+    {
+      "label": "f.",
+      "content": "The M language and the basics of working with it"
+    },
+    {
+      "label": "g.",
+      "content": "Managing external links, sharing options and data security"
+    },
+    {
+      "label": "h.",
+      "content": "How links work in Google Sheets"
+    },
+    {
+      "label": "3.",
+      "content": "Data consolidation (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Data consolidation using formulas, advanced use and combination of functions"
+    },
+    {
+      "label": "b.",
+      "content": "Principles of using matrix formulas"
+    },
+    {
+      "label": "c.",
+      "content": "Naming cell ranges and using them in formulas"
+    },
+    {
+      "label": "d.",
+      "content": "Working with named regions"
+    },
+    {
+      "label": "e.",
+      "content": "Verify, compare and merge data"
+    },
+    {
+      "label": "f.",
+      "content": "Trace dependencies"
+    },
+    {
+      "label": "g.",
+      "content": "Create summaries, reports and groupings of data"
+    },
+    {
+      "label": "h.",
+      "content": "Create a data model and relationships between tables"
+    },
+    {
+      "label": "i.",
+      "content": "Advanced contingency table options"
+    },
+    {
+      "label": "4.",
+      "content": "Data visualisation (allowance 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Interactive methods of data visualisation and presentation"
+    },
+    {
+      "label": "b.",
+      "content": "Tips and tricks for advanced use of graphs"
+    },
+    {
+      "label": "c.",
+      "content": "Gantt charts using conditional formatting"
+    },
+    {
+      "label": "d.",
+      "content": "Create a dashboard using Excel tools"
+    },
+    {
+      "label": "e.",
+      "content": "Form controls and their practical use"
+    },
+    {
+      "label": "f.",
+      "content": "Manipulating and visualising business data using Power Pivot"
+    },
+    {
+      "label": "g.",
+      "content": "Visualising data using the Power View add-in"
+    },
+    {
+      "label": "h.",
+      "content": "Create reports in Power BI"
+    },
+    {
+      "label": "5.",
+      "content": "Data forecasting and process automation (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Understanding the nature of forecasts"
+    },
+    {
+      "label": "b.",
+      "content": "Creating views and forecasts in the form of scenarios"
+    },
+    {
+      "label": "c.",
+      "content": "Time series analysis"
+    },
+    {
+      "label": "d.",
+      "content": "Modelling using the TREND() function"
+    },
+    {
+      "label": "e.",
+      "content": "Sensitivity analysis and solving optimisation problems in Excel"
+    },
+    {
+      "label": "f.",
+      "content": "Principles of creating macros in VBA and Google Apps Script"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "100 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024, WS 2023/2024, SS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Pokročilá práce s daty v AJ"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Advanced Work with Data"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: consulting"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: Cannot be studied during the study placement."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: English"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Mgr. Jana Dannhoferová, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Mgr. Jana Dannhoferová, Ph.D. (supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam and (Modern Information Technologies or now Modern Information Technologies)"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The course develops skills in advanced data handling. Students will learn to automate routine tasks, manage connections to a variety of internal and external data sources, work with large volumes of data, cleanse and transform data, consolidate, analyse and visualise data, create data to support decision making, optimise solutions to complex problems, create data forecasts and automate more complex processes."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Automation of routine tasks (allowance 6/6) a.Briefly review the basic principles of spreadsheet workb.Data range vs. Excel smart spreadsheetc.Dynamic completion and advanced Office clipboard featuresd.Tips and tricks for using conditional formattinge.Creating custom formats and bulk sheet formattingf.Advanced sorting and filtering2.Connecting to data sources and importing data (allowance 4/4) a.Data types and formats for storing tabular datab.Database organisation of data, concept of using primary and foreign keysc.Principles of linking to internal and external data sourcesd.Cleanse, transform, and import data using the Power Query add-ine.Use, join and merge queriesf.The M language and the basics of working with itg.Managing external links, sharing options and data securityh.How links work in Google Sheets3.Data consolidation (allowance 6/6) a.Data consolidation using formulas, advanced use and combination of functionsb.Principles of using matrix formulasc.Naming cell ranges and using them in formulasd.Working with named regionse.Verify, compare and merge dataf.Trace dependenciesg.Create summaries, reports and groupings of datah.Create a data model and relationships between tablesi.Advanced contingency table options4.Data visualisation (allowance 8/8) a.Interactive methods of data visualisation and presentationb.Tips and tricks for advanced use of graphsc.Gantt charts using conditional formattingd.Create a dashboard using Excel toolse.Form controls and their practical usef.Manipulating and visualising business data using Power Pivotg.Visualising data using the Power View add-inh.Create reports in Power BI5.Data forecasting and process automation (allowance 4/4) a.Understanding the nature of forecastsb.Creating views and forecasts in the form of scenariosc.Time series analysisd.Modelling using the TREND() functione.Sensitivity analysis and solving optimisation problems in Excelf.Principles of creating macros in VBA and Google Apps Script"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Briefly review the basic principles of spreadsheet workb.Data range vs. Excel smart spreadsheetc.Dynamic completion and advanced Office clipboard featuresd.Tips and tricks for using conditional formattinge.Creating custom formats and bulk sheet formattingf.Advanced sorting and filtering"
+    },
+    {
+      "label": "[section] Automation of routine tasks",
+      "content": "a.Briefly review the basic principles of spreadsheet workb.Data range vs. Excel smart spreadsheetc.Dynamic completion and advanced Office clipboard featuresd.Tips and tricks for using conditional formattinge.Creating custom formats and bulk sheet formattingf.Advanced sorting and filtering"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Data types and formats for storing tabular datab.Database organisation of data, concept of using primary and foreign keysc.Principles of linking to internal and external data sourcesd.Cleanse, transform, and import data using the Power Query add-ine.Use, join and merge queriesf.The M language and the basics of working with itg.Managing external links, sharing options and data securityh.How links work in Google Sheets"
+    },
+    {
+      "label": "[section] Connecting to data sources and importing data",
+      "content": "a.Data types and formats for storing tabular datab.Database organisation of data, concept of using primary and foreign keysc.Principles of linking to internal and external data sourcesd.Cleanse, transform, and import data using the Power Query add-ine.Use, join and merge queriesf.The M language and the basics of working with itg.Managing external links, sharing options and data securityh.How links work in Google Sheets"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Data consolidation using formulas, advanced use and combination of functionsb.Principles of using matrix formulasc.Naming cell ranges and using them in formulasd.Working with named regionse.Verify, compare and merge dataf.Trace dependenciesg.Create summaries, reports and groupings of datah.Create a data model and relationships between tablesi.Advanced contingency table options"
+    },
+    {
+      "label": "[section] Data consolidation",
+      "content": "a.Data consolidation using formulas, advanced use and combination of functionsb.Principles of using matrix formulasc.Naming cell ranges and using them in formulasd.Working with named regionse.Verify, compare and merge dataf.Trace dependenciesg.Create summaries, reports and groupings of datah.Create a data model and relationships between tablesi.Advanced contingency table options"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Interactive methods of data visualisation and presentationb.Tips and tricks for advanced use of graphsc.Gantt charts using conditional formattingd.Create a dashboard using Excel toolse.Form controls and their practical usef.Manipulating and visualising business data using Power Pivotg.Visualising data using the Power View add-inh.Create reports in Power BI"
+    },
+    {
+      "label": "[section] Data visualisation",
+      "content": "a.Interactive methods of data visualisation and presentationb.Tips and tricks for advanced use of graphsc.Gantt charts using conditional formattingd.Create a dashboard using Excel toolse.Form controls and their practical usef.Manipulating and visualising business data using Power Pivotg.Visualising data using the Power View add-inh.Create reports in Power BI"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Understanding the nature of forecastsb.Creating views and forecasts in the form of scenariosc.Time series analysisd.Modelling using the TREND() functione.Sensitivity analysis and solving optimisation problems in Excelf.Principles of creating macros in VBA and Google Apps Script"
+    },
+    {
+      "label": "[section] Data forecasting and process automation",
+      "content": "a.Understanding the nature of forecastsb.Creating views and forecasts in the form of scenariosc.Time series analysisd.Modelling using the TREND() functione.Sensitivity analysis and solving optimisation problems in Excelf.Principles of creating macros in VBA and Google Apps Script"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hconsultation4 hpreparation for exam80 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "The course consists of seminars and lectures (attendance is not compulsory but desirable). In order to successfully complete this course, it is necessary to pass a continuous assessment of study obligations in the form of a practical test (test 1) and a final examination test (test 2). After each test, there is an oral discussion of the results to check that the student has really understood the subject. Each student is obliged to pass both parts. Each test is marked out of 50 points and a minimum of 30 points is required to pass. Otherwise the test must be repeated. Each test can be repeated a maximum of twice, the last result obtained always being valid. The student's overal grade for this course will be the sum of the scores from both tests. The final evaluation is given by the total number of points as follows: A (at least 90 points), B (83 points), C (75 points), D (68 points), E (60 points). In the case of fraudulent conduct, the verification of knowledge will be assessed as unsuccessful and disciplinary proceedings will be initiated."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceMid-term test(s)100 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic: Beginning Power BI: A Practical Guide to Self-Service Data Analytics with Excel 2016 and Power BI Desktop. 2017. ISBN 9781484225776. http://dx.doi.org/10.1007/978-1-4842-2577-6.JELEN, Bill; ALEXANDER, Michael. Excel 2016: pivot table data crunching. Indianapolis, Indiana: QUE, 417 p. ISBN 978-0-7897-5629-9."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "Beginning Power BI: A Practical Guide to Self-Service Data Analytics with Excel 2016 and Power BI Desktop. 2017. ISBN 9781484225776. http://dx.doi.org/10.1007/978-1-4842-2577-6.JELEN, Bill; ALEXANDER, Michael. Excel 2016: pivot table data crunching. Indianapolis, Indiana: QUE, 417 p. ISBN 978-0-7897-5629-9."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:37:23",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

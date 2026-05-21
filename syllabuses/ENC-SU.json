@@ -1,0 +1,681 @@
+{
+  "courseCode": "ENC-SU",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENC-SU"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Strojové učení"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Machine Learning"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět je možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. František Dařena, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. František Dařena, Ph.D. (garant, přednášející)Ing. Roman Valovič (cvičící)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do strojového učení (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "data, informace, znalost"
+    },
+    {
+      "label": "b.",
+      "content": "typy učení"
+    },
+    {
+      "label": "c.",
+      "content": "typy modelů"
+    },
+    {
+      "label": "d.",
+      "content": "programové nástroje"
+    },
+    {
+      "label": "2.",
+      "content": "Data pro strojové učení (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "instance, atributy, datové typy"
+    },
+    {
+      "label": "b.",
+      "content": "chybějící hodnoty, transformace atributů, závislost atributů"
+    },
+    {
+      "label": "c.",
+      "content": "redukce dat, výběr atributů"
+    },
+    {
+      "label": "3.",
+      "content": "Klasifikace (dotace 10/10)"
+    },
+    {
+      "label": "a.",
+      "content": "instance based learning (k-NN)"
+    },
+    {
+      "label": "b.",
+      "content": "support vector machine"
+    },
+    {
+      "label": "c.",
+      "content": "Bayesovký klasifikátor"
+    },
+    {
+      "label": "d.",
+      "content": "rozhodovací stromy"
+    },
+    {
+      "label": "e.",
+      "content": "vyhodnocení klasifikátorů"
+    },
+    {
+      "label": "4.",
+      "content": "Shlukování (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "k-means"
+    },
+    {
+      "label": "b.",
+      "content": "hierarchické shlukování"
+    },
+    {
+      "label": "5.",
+      "content": "Hledání asociačních pravidel (dotace 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Pokročilé metody strojového učení (dotace 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "komise klasifikátorů – random forest, boosting"
+    },
+    {
+      "label": "b.",
+      "content": "semi-supervised learning"
+    },
+    {
+      "label": "c.",
+      "content": "online learning"
+    },
+    {
+      "label": "7.",
+      "content": "Konzultace k semestrálním projektům (dotace 2/2)"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "50 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "50 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, LS 2024/2025, LS 2023/2024, LS 2022/2023, LS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Strojové učení"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Machine Learning"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. František Dařena, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. František Dařena, Ph.D. (garant, přednášející)Ing. Roman Valovič (cvičící)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaÚterý7.00-8.50Q05N-OIR. ValovičCvičeníKaždý týden22Úterý15.00-16.50Q16N-OIF. DařenaPřednáškaKaždý týden22"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Student získá teoretický základ i praktické dovednosti z oblasti získávání znalostí pro podporu rozhodování z velkého množství dat (data mining) se zaměřením na využití metod strojového učení. Student se naučí realizovat celý proces dolování dat od definování problému a přípravu dat až po aplikaci vybraných algoritmů ze základních tříd strojového učení. Pozornost je věnována i pokročilým metodám, které souvisejí s rozvojem oblasti strojového učení."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do strojového učení (dotace 2/2) a.data, informace, znalostb.typy učeníc.typy modelůd.programové nástroje2.Data pro strojové učení (dotace 2/2) a.instance, atributy, datové typyb.chybějící hodnoty, transformace atributů, závislost atributůc.redukce dat, výběr atributů3.Klasifikace (dotace 10/10) a.instance based learning (k-NN)b.support vector machinec.Bayesovký klasifikátord.rozhodovací stromye.vyhodnocení klasifikátorů4.Shlukování (dotace 4/4) a.k-meansb.hierarchické shlukování5.Hledání asociačních pravidel (dotace 2/2)6.Pokročilé metody strojového učení (dotace 6/6) a.komise klasifikátorů – random forest, boostingb.semi-supervised learningc.online learning7.Konzultace k semestrálním projektům (dotace 2/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.data, informace, znalostb.typy učeníc.typy modelůd.programové nástroje"
+    },
+    {
+      "label": "[section] Úvod do strojového učení",
+      "content": "a.data, informace, znalostb.typy učeníc.typy modelůd.programové nástroje"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.instance, atributy, datové typyb.chybějící hodnoty, transformace atributů, závislost atributůc.redukce dat, výběr atributů"
+    },
+    {
+      "label": "[section] Data pro strojové učení",
+      "content": "a.instance, atributy, datové typyb.chybějící hodnoty, transformace atributů, závislost atributůc.redukce dat, výběr atributů"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.instance based learning (k-NN)b.support vector machinec.Bayesovký klasifikátord.rozhodovací stromye.vyhodnocení klasifikátorů"
+    },
+    {
+      "label": "[section] Klasifikace",
+      "content": "a.instance based learning (k-NN)b.support vector machinec.Bayesovký klasifikátord.rozhodovací stromye.vyhodnocení klasifikátorů"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.k-meansb.hierarchické shlukování"
+    },
+    {
+      "label": "[section] Shlukování",
+      "content": "a.k-meansb.hierarchické shlukování"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Pokročilé metody strojového učení (dotace 6/6)"
+    },
+    {
+      "label": "[section] Hledání asociačních pravidel",
+      "content": "6.Pokročilé metody strojového učení (dotace 6/6)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.komise klasifikátorů – random forest, boostingb.semi-supervised learningc.online learning"
+    },
+    {
+      "label": "[section] Pokročilé metody strojového učení",
+      "content": "a.komise klasifikátorů – random forest, boostingb.semi-supervised learningc.online learning"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku30 hzpracování projektů54 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Předpokladem získání zápočtu je realizace projektu, ve kterém studenti prokáží svoji schopnost poskytnout informace pro rozhodování založené na analýze velkého množství dat v jimi zvolené oblasti. Projekt zahrnuje definování rozhodovacího problému, získání a přípravu potřebných dat, výběr vhodného modelu, včetně nalezení jeho vhodného nastavení, získání výsledků a jejich interpretace a zhodnocení, to vše ve vztahu k obsahu předmětu. U ústní zkoušky studenti prokazují zejména znalosti principů fungování jednotlivých algoritmů a metod. Výsledná známka je založena na hodnocení semestrální práce (max. 50 bodů) a ústní zkoušky (max. 50 bodů). Zápočet je udělen za alespoň 25 bodů získaných za semestrální práci. Známka bude určena podle následující stupnice: méně než 60 bodů F, 60 bodů a více E, 68 bodů a více D, 75 bodů a více C, 83 bodů a více B a 90 bodů a více A."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumVypracování semestrální práce50 %Absolvování závěrečné ústní zkoušky50 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:HALL, Mark; FRANK, Eibe; WITTEN, Ian. 2011. Data Mining: Practical Machine Learning Tools and Techniques (Third Edition). USA: Morgan Kaufmann, ISBN 978-0-12-374856-0.KUBÁT, M. 2017. An Introduction to Machine Learning. 2. vyd. Springer, ISBN 978-3-319-34886-5.Doporučená:FLACH, P. 2012. Machine learning: the art and science of algorithms that make sense of data. Cambridge: Cambridge University Press, 396 s. ISBN 978-1-107-42222-3.HAN, Jiawei; PEI, Jian; KAMBER, Micheline. 2012. Data Mining: Concepts and Techniques. Waltham: Morgan Kaufman, ISBN 978-0-12-381479-1."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "HALL, Mark; FRANK, Eibe; WITTEN, Ian. 2011. Data Mining: Practical Machine Learning Tools and Techniques (Third Edition). USA: Morgan Kaufmann, ISBN 978-0-12-374856-0.KUBÁT, M. 2017. An Introduction to Machine Learning. 2. vyd. Springer, ISBN 978-3-319-34886-5."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "FLACH, P. 2012. Machine learning: the art and science of algorithms that make sense of data. Cambridge: Cambridge University Press, 396 s. ISBN 978-1-107-42222-3.HAN, Jiawei; PEI, Jian; KAMBER, Micheline. 2012. Data Mining: Concepts and Techniques. Waltham: Morgan Kaufman, ISBN 978-0-12-381479-1."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Zaměření ZNDASU Datová analýza a stroj. učení, prezenční forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENC-SU"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Strojové učení"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Machine Learning"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course can be studied during a student's mobility abroad."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. František Dařena, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. František Dařena, Ph.D. (lecturer, supervisor)Ing. Roman Valovič (instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to Machine Learning (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "data, information, knowledge"
+    },
+    {
+      "label": "b.",
+      "content": "types of learning"
+    },
+    {
+      "label": "c.",
+      "content": "types of models"
+    },
+    {
+      "label": "d.",
+      "content": "software tools"
+    },
+    {
+      "label": "2.",
+      "content": "Data for machine learning (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "instances, attributes, data types"
+    },
+    {
+      "label": "b.",
+      "content": "missing values, attribute transformations, attribute dependence"
+    },
+    {
+      "label": "c.",
+      "content": "data reduction, feature selection"
+    },
+    {
+      "label": "3.",
+      "content": "Classification (allowance 10/10)"
+    },
+    {
+      "label": "a.",
+      "content": "instance based learning (k-NN)"
+    },
+    {
+      "label": "b.",
+      "content": "support vector machine"
+    },
+    {
+      "label": "c.",
+      "content": "Bayesian classifier"
+    },
+    {
+      "label": "d.",
+      "content": "decision trees"
+    },
+    {
+      "label": "e.",
+      "content": "evaluation of classifiers"
+    },
+    {
+      "label": "4.",
+      "content": "Clustering (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "k-means"
+    },
+    {
+      "label": "b.",
+      "content": "hierarchical clustering"
+    },
+    {
+      "label": "5.",
+      "content": "Association rules mining (allowance 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Advanced Machine Learning methods (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "classifier committees - random forest, boosting"
+    },
+    {
+      "label": "b.",
+      "content": "semi-supervised learning"
+    },
+    {
+      "label": "c.",
+      "content": "online learning"
+    },
+    {
+      "label": "7.",
+      "content": "Semester projects consultations (allowance 2/2)"
+    },
+    {
+      "label": "Term paper",
+      "content": "50 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "50 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, SS 2024/2025, SS 2023/2024, SS 2022/2023, SS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Strojové učení"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Machine Learning"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course can be studied during a student's mobility abroad."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. František Dařena, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. František Dařena, Ph.D. (lecturer, supervisor)Ing. Roman Valovič (instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityTuesday7.00-8.50Q05N-OIR. ValovičSeminarEvery week22Tuesday15.00-16.50Q16N-OIF. DařenaLectureEvery week22"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The student will gain a theoretical background and practical skills in the field of knowledge discovery in a large amount of data (data mining) to support decision making with a focus on the application of machine learning methods. The student will learn to implement the whole process of data mining from a problem definition and data preparation to the application of selected algorithms belonging to the basic categories of machine learning. Attention is also paid to advanced methods related to the development of the machine learning domain."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to Machine Learning (allowance 2/2) a.data, information, knowledgeb.types of learningc.types of modelsd.software tools2.Data for machine learning (allowance 2/2) a.instances, attributes, data typesb.missing values, attribute transformations, attribute dependencec.data reduction, feature selection3.Classification (allowance 10/10) a.instance based learning (k-NN)b.support vector machinec.Bayesian classifierd.decision treese.evaluation of classifiers4.Clustering (allowance 4/4) a.k-meansb.hierarchical clustering5.Association rules mining (allowance 2/2)6.Advanced Machine Learning methods (allowance 6/6) a.classifier committees - random forest, boostingb.semi-supervised learningc.online learning7.Semester projects consultations (allowance 2/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.data, information, knowledgeb.types of learningc.types of modelsd.software tools"
+    },
+    {
+      "label": "[section] Introduction to Machine Learning",
+      "content": "a.data, information, knowledgeb.types of learningc.types of modelsd.software tools"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.instances, attributes, data typesb.missing values, attribute transformations, attribute dependencec.data reduction, feature selection"
+    },
+    {
+      "label": "[section] Data for machine learning",
+      "content": "a.instances, attributes, data typesb.missing values, attribute transformations, attribute dependencec.data reduction, feature selection"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.instance based learning (k-NN)b.support vector machinec.Bayesian classifierd.decision treese.evaluation of classifiers"
+    },
+    {
+      "label": "[section] Classification",
+      "content": "a.instance based learning (k-NN)b.support vector machinec.Bayesian classifierd.decision treese.evaluation of classifiers"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.k-meansb.hierarchical clustering"
+    },
+    {
+      "label": "[section] Clustering",
+      "content": "a.k-meansb.hierarchical clustering"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Advanced Machine Learning methods (allowance 6/6)"
+    },
+    {
+      "label": "[section] Association rules mining",
+      "content": "6.Advanced Machine Learning methods (allowance 6/6)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.classifier committees - random forest, boostingb.semi-supervised learningc.online learning"
+    },
+    {
+      "label": "[section] Advanced Machine Learning methods",
+      "content": "a.classifier committees - random forest, boostingb.semi-supervised learningc.online learning"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam30 helaboration and execution of projects54 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "A prerequisite for obtaining a small credit is the elaboration of a project where students demonstrate their ability to provide useful information for decision making based on the analysis of a large amount of data. The project includes defining the decision problem, obtaining and preparing the necessary data, selecting a suitable model including finding its appropriate settings, obtaining results, and their interpretation and evaluation, everything with respect to the course content. In the oral exam, students demonstrate mainly their knowledge of the principles of individual algorithms and methods. The final grade is based on the evaluation of the semestral project (max. 50 points) and the oral exam (max. 50 points). A small credit is awarded when achieving at least 25 points for the semestral project. The grade will be determined according to the following scale: less than 60 points F, 60 points and more E, 68 points and more D, 75 points and more C, 83 points and more B, and 90 points and more A."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTerm paper50 %Final oral exam50 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:HALL, Mark; FRANK, Eibe; WITTEN, Ian. 2011. Data Mining: Practical Machine Learning Tools and Techniques (Third Edition). USA: Morgan Kaufmann, ISBN 978-0-12-374856-0.KUBÁT, M. 2017. An Introduction to Machine Learning. 2nd ed. Springer, ISBN 978-3-319-34886-5.Recommended:FLACH, P. 2012. Machine learning: the art and science of algorithms that make sense of data. Cambridge: Cambridge University Press, 396 p. ISBN 978-1-107-42222-3.HAN, Jiawei; PEI, Jian; KAMBER, Micheline. 2012. Data Mining: Concepts and Techniques. Waltham: Morgan Kaufman, ISBN 978-0-12-381479-1."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "HALL, Mark; FRANK, Eibe; WITTEN, Ian. 2011. Data Mining: Practical Machine Learning Tools and Techniques (Third Edition). USA: Morgan Kaufmann, ISBN 978-0-12-374856-0.KUBÁT, M. 2017. An Introduction to Machine Learning. 2nd ed. Springer, ISBN 978-3-319-34886-5."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "FLACH, P. 2012. Machine learning: the art and science of algorithms that make sense of data. Cambridge: Cambridge University Press, 396 p. ISBN 978-1-107-42222-3.HAN, Jiawei; PEI, Jian; KAMBER, Micheline. 2012. Data Mining: Concepts and Techniques. Waltham: Morgan Kaufman, ISBN 978-0-12-381479-1."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Scope ZNDASU Datová analýza a stroj. učení, full-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:01:22",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

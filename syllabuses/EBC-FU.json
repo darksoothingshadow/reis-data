@@ -1,0 +1,653 @@
+{
+  "courseCode": "EBC-FU",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-FU"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Finanční účetnictví 1"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Financial Accounting 1"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Ano."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Břetislav Andrlík, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav financí a účetnictví (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Břetislav Andrlík, Ph.D. (cvičící, garant, přednášející, zkoušející)Mgr. Ing. Lucie Formanová, Ph.D. (cvičící, zkoušející)Dr. Ing. Jana Gláserová (cvičící, zkoušející)Ing. Iva Hasíková (cvičící, zkoušející)doc. Ing. Patrik Svoboda, Ph.D. (cvičící, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Finanční účetnictví I"
+    },
+    {
+      "label": "1.",
+      "content": "Základy finančního účetnictví (dotace 6/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Vymezení potřeby, podstata a postavení účetnictví v informačním systému podniku. Význam rozvahy (bilance), možnosti uspořádání jejich položek. Hospodářské operace - účetní případy, jejich vliv na změny položek rozvahy. Metodické prostředky účetnictví (účetní dokumentace, chronologie, systematika a výkaznictví)."
+    },
+    {
+      "label": "b.",
+      "content": "Kontrolní systém účetnictví (věcná a formální správnost). Uzavírání rozvahových a výsledkových účtů, zjištění výsledku hospodaření a sestavení účetní závěrky."
+    },
+    {
+      "label": "2.",
+      "content": "Právní úprava účetnictví pro podnikatele (zákon o účetnictví, vyhláška MF, české účetní standardy, vnitropodnikové směrnice) (dotace 2/0)"
+    },
+    {
+      "label": "3.",
+      "content": "Zásoby (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Vymezení, členění a oceňování zásob. Metoda A (průběžný způsob) účtování o nakupovaných zásobách. Metody pro oceňování úbytků zásob stejného druhu na skladě. Metoda B (periodický způsob) účtování o nakupovaných zásobách. Metodické postupy účtování o nakupovaných zásobách k rozvahovému dni (inventarizace, dočasné snížení ceny zásob)."
+    },
+    {
+      "label": "4.",
+      "content": "Krátkodobý finanční majetek a peněžní prostředky (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Účtování o peněžních prostředcích na pokladně a ceninách. Bankovní účty, peníze na cestě a ostatní krátkodobý finanční majetek. Krátkodobé úvěry a krátkodobé finanční výpomoci."
+    },
+    {
+      "label": "5.",
+      "content": "Zúčtovací vztahy (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Pohledávky a závazky z obchodního styku včetně poskytnutých a přijatých záloh. Zúčtovací vztahy k zaměstnancům. Účtování o daňových povinnostech účetní jednotky. Význam a použití účtů časového rozlišení. Dohadné účty."
+    },
+    {
+      "label": "6.",
+      "content": "Dlouhodobý majetek (dotace 6/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Vymezení a oceňování hmotného a nehmotného dlouhodobého majetku. Účtování o pořízení, opotřebení a vyřazení dlouhodobého hmotného a nehmotného majetku. Účetní postupy v rámci inventarizace dlouhodobého hmotného a nehmotného majetku."
+    },
+    {
+      "label": "7.",
+      "content": "Kapitálové účty a dlouhodobé závazky (dotace 3/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní kapitál a možnosti jeho zvyšování a snižování. Fondy tvořené ze zisku a kapitálové fondy. Výsledek hospodaření jako součást vlastního kapitálu (rozdělování disponibilní části výsledku hospodaření a úhrada ztráty). Rezervy z účetního a daňového hlediska. Dlouhodobé závazky k úvěrovým institucím a ostatní dlouhodobé závazky."
+    },
+    {
+      "label": "8.",
+      "content": "Náklady a výnosy (dotace 1/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Vymezení a klasifikace nákladů a výnosů. Základní postupy účtování."
+    },
+    {
+      "label": "9.",
+      "content": "Účetní uzávěrka (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Metodický postup při účetní uzávěrce, zjišťování a vykazování výsledku hospodaření."
+    },
+    {
+      "label": "10.",
+      "content": "Účetní závěrka (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Druhy a obsah účetní závěrky. Formální podoba a obsahové uspořádání položek účetní závěrky. Vymezení vzájemných vztahů mezi jednotlivými částmi účetní závěrky."
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, LS 2024/2025, ZS 2024/2025, LS 2023/2024, ZS 2023/2024, LS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Finanční účetnictví 1"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Financial Accounting 1"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Ano."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Břetislav Andrlík, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav financí a účetnictví (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Břetislav Andrlík, Ph.D. (cvičící, garant, přednášející, zkoušející)Mgr. Ing. Lucie Formanová, Ph.D. (cvičící, zkoušející)Dr. Ing. Jana Gláserová (cvičící, zkoušející)Ing. Iva Hasíková (cvičící, zkoušející)doc. Ing. Patrik Svoboda, Ph.D. (cvičící, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Finanční účetnictví I"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkSkupinaVyučujícíAkceČetnostKapacitaPondělí11.00-12.50Q01 23 B. AndrlíkPřednáškaKaždý týden361Pondělí15.00-16.50Q48L. FormanováCvičeníSudý týden30Pondělí15.00-16.50Q48L. FormanováCvičeníLichý týden30Úterý9.00-10.50Q03B-MOSB-FS 1123 B. AndrlíkPřednáškaKaždý týden170Úterý11.00-12.50Q41B-FS 121 B. AndrlíkCvičeníSudý týden30Úterý11.00-12.50Q41B-FS12B. AndrlíkCvičeníLichý týden30Úterý13.00-14.50Q46B-MOS 121 I. HasíkováCvičeníSudý týden30Úterý13.00-14.50Q46I. HasíkováCvičeníLichý týden30Středa11.00-12.50Q31P. SvobodaCvičeníLichý týden30Středa11.00-12.50Q31P. SvobodaCvičeníSudý týden30Středa13.00-14.50Q14I. HasíkováCvičeníLichý týden30Středa13.00-14.50Q14I. HasíkováCvičeníSudý týden30Středa15.00-16.50Q46I. HasíkováCvičeníSudý týden30Středa15.00-16.50Q46I. HasíkováCvičeníLichý týden30Čtvrtek9.00-10.50Q48J. GláserováCvičeníLichý týden30Čtvrtek9.00-10.50Q48J. GláserováCvičeníSudý týden30Pátek9.00-10.50Q45B-MOS 123 P. SvobodaCvičeníSudý týden30Pátek11.00-12.50Q31B-MOS 122 P. SvobodaCvičeníLichý týden30Pátek11.00-12.50Q31B-MOS 124 P. SvobodaCvičeníSudý týden30Sobota8.00-11.50Q45B. AndrlíkPřednáškaNepravidelně30"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Seznámit studenty s významem a postavením účetnictví v podniku, s principy bilancování a metodickými prostředky účetnictví a jejich využitím při zobrazení aktiv, pasiv, nákladů, výnosů a výsledku hospodaření. Studenti si osvojí praktické dovednosti účetních postupů v běžném účetním období a také operace k rozvahovému dni, včetně sestavení účetní závěrky."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Základy finančního účetnictví (dotace 6/4) a.Vymezení potřeby, podstata a postavení účetnictví v informačním systému podniku. Význam rozvahy (bilance), možnosti uspořádání jejich položek. Hospodářské operace - účetní případy, jejich vliv na změny položek rozvahy. Metodické prostředky účetnictví (účetní dokumentace, chronologie, systematika a výkaznictví).b.Kontrolní systém účetnictví (věcná a formální správnost). Uzavírání rozvahových a výsledkových účtů, zjištění výsledku hospodaření a sestavení účetní závěrky.2.Právní úprava účetnictví pro podnikatele (zákon o účetnictví, vyhláška MF, české účetní standardy, vnitropodnikové směrnice) (dotace 2/0)3.Zásoby (dotace 4/2) a.Vymezení, členění a oceňování zásob. Metoda A (průběžný způsob) účtování o nakupovaných zásobách. Metody pro oceňování úbytků zásob stejného druhu na skladě. Metoda B (periodický způsob) účtování o nakupovaných zásobách. Metodické postupy účtování o nakupovaných zásobách k rozvahovému dni (inventarizace, dočasné snížení ceny zásob).4.Krátkodobý finanční majetek a peněžní prostředky (dotace 2/1) a.Účtování o peněžních prostředcích na pokladně a ceninách. Bankovní účty, peníze na cestě a ostatní krátkodobý finanční majetek. Krátkodobé úvěry a krátkodobé finanční výpomoci.5.Zúčtovací vztahy (dotace 1/1) a.Pohledávky a závazky z obchodního styku včetně poskytnutých a přijatých záloh. Zúčtovací vztahy k zaměstnancům. Účtování o daňových povinnostech účetní jednotky. Význam a použití účtů časového rozlišení. Dohadné účty.6.Dlouhodobý majetek (dotace 6/4) a.Vymezení a oceňování hmotného a nehmotného dlouhodobého majetku. Účtování o pořízení, opotřebení a vyřazení dlouhodobého hmotného a nehmotného majetku. Účetní postupy v rámci inventarizace dlouhodobého hmotného a nehmotného majetku.7.Kapitálové účty a dlouhodobé závazky (dotace 3/1) a.Základní kapitál a možnosti jeho zvyšování a snižování. Fondy tvořené ze zisku a kapitálové fondy. Výsledek hospodaření jako součást vlastního kapitálu (rozdělování disponibilní části výsledku hospodaření a úhrada ztráty). Rezervy z účetního a daňového hlediska. Dlouhodobé závazky k úvěrovým institucím a ostatní dlouhodobé závazky.8.Náklady a výnosy (dotace 1/0) a.Vymezení a klasifikace nákladů a výnosů. Základní postupy účtování.9.Účetní uzávěrka (dotace 1/1) a.Metodický postup při účetní uzávěrce, zjišťování a vykazování výsledku hospodaření.10.Účetní závěrka (dotace 2/0) a.Druhy a obsah účetní závěrky. Formální podoba a obsahové uspořádání položek účetní závěrky. Vymezení vzájemných vztahů mezi jednotlivými částmi účetní závěrky."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Vymezení potřeby, podstata a postavení účetnictví v informačním systému podniku. Význam rozvahy (bilance), možnosti uspořádání jejich položek. Hospodářské operace - účetní případy, jejich vliv na změny položek rozvahy. Metodické prostředky účetnictví (účetní dokumentace, chronologie, systematika a výkaznictví).b.Kontrolní systém účetnictví (věcná a formální správnost). Uzavírání rozvahových a výsledkových účtů, zjištění výsledku hospodaření a sestavení účetní závěrky."
+    },
+    {
+      "label": "[section] Základy finančního účetnictví",
+      "content": "a.Vymezení potřeby, podstata a postavení účetnictví v informačním systému podniku. Význam rozvahy (bilance), možnosti uspořádání jejich položek. Hospodářské operace - účetní případy, jejich vliv na změny položek rozvahy. Metodické prostředky účetnictví (účetní dokumentace, chronologie, systematika a výkaznictví).b.Kontrolní systém účetnictví (věcná a formální správnost). Uzavírání rozvahových a výsledkových účtů, zjištění výsledku hospodaření a sestavení účetní závěrky."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Zásoby (dotace 4/2)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Vymezení, členění a oceňování zásob. Metoda A (průběžný způsob) účtování o nakupovaných zásobách. Metody pro oceňování úbytků zásob stejného druhu na skladě. Metoda B (periodický způsob) účtování o nakupovaných zásobách. Metodické postupy účtování o nakupovaných zásobách k rozvahovému dni (inventarizace, dočasné snížení ceny zásob)."
+    },
+    {
+      "label": "[section] Zásoby",
+      "content": "a.Vymezení, členění a oceňování zásob. Metoda A (průběžný způsob) účtování o nakupovaných zásobách. Metody pro oceňování úbytků zásob stejného druhu na skladě. Metoda B (periodický způsob) účtování o nakupovaných zásobách. Metodické postupy účtování o nakupovaných zásobách k rozvahovému dni (inventarizace, dočasné snížení ceny zásob)."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Účtování o peněžních prostředcích na pokladně a ceninách. Bankovní účty, peníze na cestě a ostatní krátkodobý finanční majetek. Krátkodobé úvěry a krátkodobé finanční výpomoci."
+    },
+    {
+      "label": "[section] Krátkodobý finanční majetek a peněžní prostředky",
+      "content": "a.Účtování o peněžních prostředcích na pokladně a ceninách. Bankovní účty, peníze na cestě a ostatní krátkodobý finanční majetek. Krátkodobé úvěry a krátkodobé finanční výpomoci."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Pohledávky a závazky z obchodního styku včetně poskytnutých a přijatých záloh. Zúčtovací vztahy k zaměstnancům. Účtování o daňových povinnostech účetní jednotky. Význam a použití účtů časového rozlišení. Dohadné účty."
+    },
+    {
+      "label": "[section] Zúčtovací vztahy",
+      "content": "a.Pohledávky a závazky z obchodního styku včetně poskytnutých a přijatých záloh. Zúčtovací vztahy k zaměstnancům. Účtování o daňových povinnostech účetní jednotky. Význam a použití účtů časového rozlišení. Dohadné účty."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Vymezení a oceňování hmotného a nehmotného dlouhodobého majetku. Účtování o pořízení, opotřebení a vyřazení dlouhodobého hmotného a nehmotného majetku. Účetní postupy v rámci inventarizace dlouhodobého hmotného a nehmotného majetku."
+    },
+    {
+      "label": "[section] Dlouhodobý majetek",
+      "content": "a.Vymezení a oceňování hmotného a nehmotného dlouhodobého majetku. Účtování o pořízení, opotřebení a vyřazení dlouhodobého hmotného a nehmotného majetku. Účetní postupy v rámci inventarizace dlouhodobého hmotného a nehmotného majetku."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Základní kapitál a možnosti jeho zvyšování a snižování. Fondy tvořené ze zisku a kapitálové fondy. Výsledek hospodaření jako součást vlastního kapitálu (rozdělování disponibilní části výsledku hospodaření a úhrada ztráty). Rezervy z účetního a daňového hlediska. Dlouhodobé závazky k úvěrovým institucím a ostatní dlouhodobé závazky."
+    },
+    {
+      "label": "[section] Kapitálové účty a dlouhodobé závazky",
+      "content": "a.Základní kapitál a možnosti jeho zvyšování a snižování. Fondy tvořené ze zisku a kapitálové fondy. Výsledek hospodaření jako součást vlastního kapitálu (rozdělování disponibilní části výsledku hospodaření a úhrada ztráty). Rezervy z účetního a daňového hlediska. Dlouhodobé závazky k úvěrovým institucím a ostatní dlouhodobé závazky."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Vymezení a klasifikace nákladů a výnosů. Základní postupy účtování."
+    },
+    {
+      "label": "[section] Náklady a výnosy",
+      "content": "a.Vymezení a klasifikace nákladů a výnosů. Základní postupy účtování."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Metodický postup při účetní uzávěrce, zjišťování a vykazování výsledku hospodaření."
+    },
+    {
+      "label": "[section] Účetní uzávěrka",
+      "content": "a.Metodický postup při účetní uzávěrce, zjišťování a vykazování výsledku hospodaření."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Druhy a obsah účetní závěrky. Formální podoba a obsahové uspořádání položek účetní závěrky. Vymezení vzájemných vztahů mezi jednotlivými částmi účetní závěrky."
+    },
+    {
+      "label": "[section] Účetní závěrka",
+      "content": "a.Druhy a obsah účetní závěrky. Formální podoba a obsahové uspořádání položek účetní závěrky. Vymezení vzájemných vztahů mezi jednotlivými částmi účetní závěrky."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h0 hcvičení14 h0 hkonzultace10 h16 hpříprava na zkoušku62 h90 hpříprava na průběžné hodnocení26 h34 hCelkem140 h140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zápočet je udělen na základě úspěšného splnění e-testu. Předmět je zakončen absolvováním zkoušky, která se skládá z následujících částí - části příklady a části teorie. Úspěšné absolvování předmětu je podmíněno minimálně 60 % správných odpovědí. Závěrečné hodnocení předmětu: 20% podíl body ze zápočtového e-testu (max 20 bodů), 80% podíl body ze zkouškové písemky (max 80 bodů). Klasifikační stupnice: méně než 60 bodů F, 60 až 67 E, 68 až 74 D, 75 až 82 C, 83 až 89 B, 90 až 100 A."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAbsolvování průběžného testu (testů)20 %20 %Absolvování závěrečného testu80 %80 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Doporučená:ANDRLÍK, Břetislav; FORMANOVÁ, Lucie; 2025. Finanční účetnictví podnikatelského sektoru. Praha: Wolters Kluwer a.s., 240 s. ISBN 978-80-7676-859-8.BRYCHTA, I. a kol. 2023. MERITUM Účetnictví podnikatelů 2023. Praha: Wolters Kluwer, 540 s. ISBN 978-80-7676-641-9.FORMANOVÁ, L., ANDRLÍK, B. 2024. Finanční účetnictví v příkladech včetně řešení praktických příkladů k procvičování. 2. vyd. Brno: Akademické nakladatelství CERM, 116 s. ISBN 978-80-7623-128-3.FORMANOVÁ, L., SOLILOVÁ, V. 2024. Accounting and Taxation Terminology in Practice. Odborná účetní a daňová terminologie nejen pro studenty. Praha: Wolters Kluwer, 176 s. ISBN: 978-80-7676-863-5.RYNEŠ, Petr. 2024. Podvojné účetnictví a účetní závěrka – Průvodce podvojným účetnictvím k 1.1.2024. Praha: ANAG, 1296 s. ISBN 978–80–7554–405–6.SKÁLOVÁ, J. a kol. Podvojné účetnictví 2025. Praha: Grada, 2025. 200 s. ISBN 978-80-271-5660-3."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "ANDRLÍK, Břetislav; FORMANOVÁ, Lucie; 2025. Finanční účetnictví podnikatelského sektoru. Praha: Wolters Kluwer a.s., 240 s. ISBN 978-80-7676-859-8.BRYCHTA, I. a kol. 2023. MERITUM Účetnictví podnikatelů 2023. Praha: Wolters Kluwer, 540 s. ISBN 978-80-7676-641-9.FORMANOVÁ, L., ANDRLÍK, B. 2024. Finanční účetnictví v příkladech včetně řešení praktických příkladů k procvičování. 2. vyd. Brno: Akademické nakladatelství CERM, 116 s. ISBN 978-80-7623-128-3.FORMANOVÁ, L., SOLILOVÁ, V. 2024. Accounting and Taxation Terminology in Practice. Odborná účetní a daňová terminologie nejen pro studenty. Praha: Wolters Kluwer, 176 s. ISBN: 978-80-7676-863-5.RYNEŠ, Petr. 2024. Podvojné účetnictví a účetní závěrka – Průvodce podvojným účetnictvím k 1.1.2024. Praha: ANAG, 1296 s. ISBN 978–80–7554–405–6.SKÁLOVÁ, J. a kol. Podvojné účetnictví 2025. Praha: Grada, 2025. 200 s. ISBN 978-80-271-5660-3."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-EAM Ekonomika a management, kombinovaná forma, počáteční období ZS 2024/2025Program B-F Finance, prezenční forma, počáteční období ZS 2024/2025Program B-EAM Ekonomika a management, prezenční forma, počáteční období ZS 2024/2025Program B-FS Finanční služby, prezenční forma, počáteční období ZS 2025/2026Program B-MOS Management obchodu a služeb, prezenční forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-FU"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Finanční účetnictví 1"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Financial Accounting 1"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "Yes."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Břetislav Andrlík, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Finance and Accounting (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Břetislav Andrlík, Ph.D. (examiner, instructor, lecturer, supervisor)Mgr. Ing. Lucie Formanová, Ph.D. (examiner, instructor)Dr. Ing. Jana Gláserová (examiner, instructor)Ing. Iva Hasíková (examiner, instructor)doc. Ing. Patrik Svoboda, Ph.D. (examiner, instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Financial Accounting I"
+    },
+    {
+      "label": "1.",
+      "content": "Principles of accounting (allowance 6/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Definition of accounting, information needs of user of financial statements, nature and status of accounting information system. Balance sheet, balancing principle. Importance of the balance sheet, the form of balance sheet. Economic and accounting operations, their influence on items of balance sheet. Methodological instruments of accounting (accounting documents, chronology, synthetic and analytical accounts. Eduction of asset and liability accounts and profit or loss account, synthetic and analytical accounts, recording of economic transactions using accounts. The control system of accounting (material and nominal correctness.Closing accounts, recognition of profit or loss. Reporting - financial statements (form and content)."
+    },
+    {
+      "label": "2.",
+      "content": "Legislation in the area of accounting (Accounting Act, Publice Notice Nr. 500 of HM Treasury, Czech Accounting Standards, Internal Accounting rules) (allowance 2/0)"
+    },
+    {
+      "label": "3.",
+      "content": "Financial accounting for entrepreneurs - Account Class 1 - Inventories (allowance 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Identification and valuation of inventories. Method A - continuous method of booking of inventories purchased. Methods for valuation of inventories of the same kind of stock. Method B - periodical method of booking of inventories purchased. Booking of materials and merchandise at the closing day."
+    },
+    {
+      "label": "4.",
+      "content": "Financial accounting for entrepreneurs - Account Class 2 - Short-term financial assets and bank loans and financial accomodations (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Booking of cash and valuables (duty stamps and others. Bank accounts, cash in transit. Short-term securities and ownership interests. Short-term bank loans and short-term accomodations."
+    },
+    {
+      "label": "5.",
+      "content": "Financial accounting for entrepreneurs - Account Class 3 - Receivables and liabilities (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Trade receivables and payables. Payroll, payables from partners, cooperative members and association members. Tax duties. Estimated receivable and estimated payables."
+    },
+    {
+      "label": "6.",
+      "content": "Financial accounting for entrepreneurs - Account Class 0 - Fixed assets (allowance 6/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Tangible and intangible fixed assets - definition and valuation. Booking of acquisition, depreciation and ammmortization and disposals of tangible and intangible fixed assets. Inventory of tangible and intangible fixed assets and booking at the closing day. Leasing contracts. Long-term financial assets (securities). Acquisition and valuation at the balancing day."
+    },
+    {
+      "label": "7.",
+      "content": "Financial accounting for entrepreneurs - Account Class 4 - Recording of equity (allowance 3/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Establishment of a capital company"
+    },
+    {
+      "label": "b.",
+      "content": "Increases and reductions in capital"
+    },
+    {
+      "label": "c.",
+      "content": "Provisions"
+    },
+    {
+      "label": "d.",
+      "content": "Long-term payables"
+    },
+    {
+      "label": "8.",
+      "content": "Costs, expenses nad revenues, classification, methods of booking. (allowance 1/0)"
+    },
+    {
+      "label": "9.",
+      "content": "Closing entries, profit or loss calculation in personal and capital companies, profit or loss allocation. (allowance 1/1)"
+    },
+    {
+      "label": "10.",
+      "content": "Accounting statements (contents and form) (allowance 2/0)"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, SS 2024/2025, WS 2024/2025, SS 2023/2024, WS 2023/2024, SS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Finanční účetnictví 1"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Financial Accounting 1"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: Yes."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Břetislav Andrlík, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Finance and Accounting (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Břetislav Andrlík, Ph.D. (examiner, instructor, lecturer, supervisor)Mgr. Ing. Lucie Formanová, Ph.D. (examiner, instructor)Dr. Ing. Jana Gláserová (examiner, instructor)Ing. Iva Hasíková (examiner, instructor)doc. Ing. Patrik Svoboda, Ph.D. (examiner, instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Financial Accounting I"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyGroupTeacherEntryFrequencyCapacityMonday11.00-12.50Q01 23 B. AndrlíkLectureEvery week361Monday15.00-16.50Q48L. FormanováSeminarOdd week30Monday15.00-16.50Q48L. FormanováSeminarEven week30Tuesday9.00-10.50Q03B-MOSB-FS 1123 B. AndrlíkLectureEvery week170Tuesday11.00-12.50Q41B-FS12B. AndrlíkSeminarOdd week30Tuesday11.00-12.50Q41B-FS 121 B. AndrlíkSeminarEven week30Tuesday13.00-14.50Q46I. HasíkováSeminarOdd week30Tuesday13.00-14.50Q46B-MOS 121 I. HasíkováSeminarEven week30Wednesday11.00-12.50Q31P. SvobodaSeminarEven week30Wednesday11.00-12.50Q31P. SvobodaSeminarOdd week30Wednesday13.00-14.50Q14I. HasíkováSeminarEven week30Wednesday13.00-14.50Q14I. HasíkováSeminarOdd week30Wednesday15.00-16.50Q46I. HasíkováSeminarOdd week30Wednesday15.00-16.50Q46I. HasíkováSeminarEven week30Thursday9.00-10.50Q48J. GláserováSeminarEven week30Thursday9.00-10.50Q48J. GláserováSeminarOdd week30Friday9.00-10.50Q45B-MOS 123 P. SvobodaSeminarEven week30Friday11.00-12.50Q31B-MOS 124 P. SvobodaSeminarEven week30Friday11.00-12.50Q31B-MOS 122 P. SvobodaSeminarOdd week30Saturday8.00-11.50Q45B. AndrlíkLectureOccasionally30"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Students will be acquainted with the importance and positioning of accounting in the company, with the principles of balancing and methodical means of accounting and their use in view of assets, liabilities, costs, revenues and profit. Students will acquire practical accounting skills in the current accounting period as well as operations at the balance sheet date including the preparation of financial statements."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Principles of accounting (allowance 6/4) a.Definition of accounting, information needs of user of financial statements, nature and status of accounting information system. Balance sheet, balancing principle. Importance of the balance sheet, the form of balance sheet. Economic and accounting operations, their influence on items of balance sheet. Methodological instruments of accounting (accounting documents, chronology, synthetic and analytical accounts. Eduction of asset and liability accounts and profit or loss account, synthetic and analytical accounts, recording of economic transactions using accounts. The control system of accounting (material and nominal correctness.Closing accounts, recognition of profit or loss. Reporting - financial statements (form and content).2.Legislation in the area of accounting (Accounting Act, Publice Notice Nr. 500 of HM Treasury, Czech Accounting Standards, Internal Accounting rules) (allowance 2/0)3.Financial accounting for entrepreneurs - Account Class 1 - Inventories (allowance 4/2) a.Identification and valuation of inventories. Method A - continuous method of booking of inventories purchased. Methods for valuation of inventories of the same kind of stock. Method B - periodical method of booking of inventories purchased. Booking of materials and merchandise at the closing day.4.Financial accounting for entrepreneurs - Account Class 2 - Short-term financial assets and bank loans and financial accomodations (allowance 2/1) a.Booking of cash and valuables (duty stamps and others. Bank accounts, cash in transit. Short-term securities and ownership interests. Short-term bank loans and short-term accomodations.5.Financial accounting for entrepreneurs - Account Class 3 - Receivables and liabilities (allowance 1/1) a.Trade receivables and payables. Payroll, payables from partners, cooperative members and association members. Tax duties. Estimated receivable and estimated payables.6.Financial accounting for entrepreneurs - Account Class 0 - Fixed assets (allowance 6/4) a.Tangible and intangible fixed assets - definition and valuation. Booking of acquisition, depreciation and ammmortization and disposals of tangible and intangible fixed assets. Inventory of tangible and intangible fixed assets and booking at the closing day. Leasing contracts. Long-term financial assets (securities). Acquisition and valuation at the balancing day.7.Financial accounting for entrepreneurs - Account Class 4 - Recording of equity (allowance 3/1) a.Establishment of a capital companyb.Increases and reductions in capitalc.Provisionsd.Long-term payables8.Costs, expenses nad revenues, classification, methods of booking. (allowance 1/0)9.Closing entries, profit or loss calculation in personal and capital companies, profit or loss allocation. (allowance 1/1)10.Accounting statements (contents and form) (allowance 2/0)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Definition of accounting, information needs of user of financial statements, nature and status of accounting information system. Balance sheet, balancing principle. Importance of the balance sheet, the form of balance sheet. Economic and accounting operations, their influence on items of balance sheet. Methodological instruments of accounting (accounting documents, chronology, synthetic and analytical accounts. Eduction of asset and liability accounts and profit or loss account, synthetic and analytical accounts, recording of economic transactions using accounts. The control system of accounting (material and nominal correctness.Closing accounts, recognition of profit or loss. Reporting - financial statements (form and content)."
+    },
+    {
+      "label": "[section] Principles of accounting",
+      "content": "a.Definition of accounting, information needs of user of financial statements, nature and status of accounting information system. Balance sheet, balancing principle. Importance of the balance sheet, the form of balance sheet. Economic and accounting operations, their influence on items of balance sheet. Methodological instruments of accounting (accounting documents, chronology, synthetic and analytical accounts. Eduction of asset and liability accounts and profit or loss account, synthetic and analytical accounts, recording of economic transactions using accounts. The control system of accounting (material and nominal correctness.Closing accounts, recognition of profit or loss. Reporting - financial statements (form and content)."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Financial accounting for entrepreneurs - Account Class 1 - Inventories (allowance 4/2)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Identification and valuation of inventories. Method A - continuous method of booking of inventories purchased. Methods for valuation of inventories of the same kind of stock. Method B - periodical method of booking of inventories purchased. Booking of materials and merchandise at the closing day."
+    },
+    {
+      "label": "[section] Financial accounting for entrepreneurs - Account Class 1 - Inventories",
+      "content": "a.Identification and valuation of inventories. Method A - continuous method of booking of inventories purchased. Methods for valuation of inventories of the same kind of stock. Method B - periodical method of booking of inventories purchased. Booking of materials and merchandise at the closing day."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Booking of cash and valuables (duty stamps and others. Bank accounts, cash in transit. Short-term securities and ownership interests. Short-term bank loans and short-term accomodations."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Trade receivables and payables. Payroll, payables from partners, cooperative members and association members. Tax duties. Estimated receivable and estimated payables."
+    },
+    {
+      "label": "[section] Financial accounting for entrepreneurs - Account Class 3 - Receivables and liabilities",
+      "content": "a.Trade receivables and payables. Payroll, payables from partners, cooperative members and association members. Tax duties. Estimated receivable and estimated payables."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Tangible and intangible fixed assets - definition and valuation. Booking of acquisition, depreciation and ammmortization and disposals of tangible and intangible fixed assets. Inventory of tangible and intangible fixed assets and booking at the closing day. Leasing contracts. Long-term financial assets (securities). Acquisition and valuation at the balancing day."
+    },
+    {
+      "label": "[section] Financial accounting for entrepreneurs - Account Class 0 - Fixed assets",
+      "content": "a.Tangible and intangible fixed assets - definition and valuation. Booking of acquisition, depreciation and ammmortization and disposals of tangible and intangible fixed assets. Inventory of tangible and intangible fixed assets and booking at the closing day. Leasing contracts. Long-term financial assets (securities). Acquisition and valuation at the balancing day."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Establishment of a capital companyb.Increases and reductions in capitalc.Provisionsd.Long-term payables"
+    },
+    {
+      "label": "[section] Financial accounting for entrepreneurs - Account Class 4 - Recording of equity",
+      "content": "a.Establishment of a capital companyb.Increases and reductions in capitalc.Provisionsd.Long-term payables"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Closing entries, profit or loss calculation in personal and capital companies, profit or loss allocation. (allowance 1/1)"
+    },
+    {
+      "label": "[section] Costs, expenses nad revenues, classification, methods of booking.",
+      "content": "9.Closing entries, profit or loss calculation in personal and capital companies, profit or loss allocation. (allowance 1/1)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Accounting statements (contents and form) (allowance 2/0)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h0 hpractice14 h0 hconsultation10 h16 hpreparation for exam62 h90 hpreparation for regular assessment26 h34 hTotal140 h140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Credit is awarded upon successful passing e-test. The course is completed by passing an examination, which consists following parts - part \"examples\" and part \"theory\". Successful completion subject requires minimalized 60% of correct answers. The final grade: 20% credit e-test, 80% written exam. The clasification: less than 60 points F, 60-67 E, 68-74 D, 75-82 C, 83-89 B and 90-100 A."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formMid-term test(s)20 %20 %Final test80 %80 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Recommended:ANDRLÍK, Břetislav; FORMANOVÁ, Lucie; 2025. Finanční účetnictví podnikatelského sektoru. Praha: Wolters Kluwer a.s., 240 s. ISBN 978-80-7676-859-8.BRYCHTA, I. a kol. 2023. MERITUM Účetnictví podnikatelů 2023. Praha: Wolters Kluwer, 540 s. ISBN 978-80-7676-641-9.FORMANOVÁ, L., ANDRLÍK, B. 2024. Finanční účetnictví v příkladech včetně řešení praktických příkladů k procvičování. 2. vyd. Brno: Akademické nakladatelství CERM, 116 s. ISBN 978-80-7623-128-3.FORMANOVÁ, L., SOLILOVÁ, V. 2024. Accounting and Taxation Terminology in Practice. Odborná účetní a daňová terminologie nejen pro studenty. Praha: Wolters Kluwer, 176 s. ISBN: 978-80-7676-863-5.RYNEŠ, Petr. 2024. Podvojné účetnictví a účetní závěrka – Průvodce podvojným účetnictvím k 1.1.2024. Praha: ANAG, 1296 s. ISBN 978–80–7554–405–6.SKÁLOVÁ, J. a kol. Podvojné účetnictví 2025. Praha: Grada, 2025. 200 s. ISBN 978-80-271-5660-3."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "ANDRLÍK, Břetislav; FORMANOVÁ, Lucie; 2025. Finanční účetnictví podnikatelského sektoru. Praha: Wolters Kluwer a.s., 240 s. ISBN 978-80-7676-859-8.BRYCHTA, I. a kol. 2023. MERITUM Účetnictví podnikatelů 2023. Praha: Wolters Kluwer, 540 s. ISBN 978-80-7676-641-9.FORMANOVÁ, L., ANDRLÍK, B. 2024. Finanční účetnictví v příkladech včetně řešení praktických příkladů k procvičování. 2. vyd. Brno: Akademické nakladatelství CERM, 116 s. ISBN 978-80-7623-128-3.FORMANOVÁ, L., SOLILOVÁ, V. 2024. Accounting and Taxation Terminology in Practice. Odborná účetní a daňová terminologie nejen pro studenty. Praha: Wolters Kluwer, 176 s. ISBN: 978-80-7676-863-5.RYNEŠ, Petr. 2024. Podvojné účetnictví a účetní závěrka – Průvodce podvojným účetnictvím k 1.1.2024. Praha: ANAG, 1296 s. ISBN 978–80–7554–405–6.SKÁLOVÁ, J. a kol. Podvojné účetnictví 2025. Praha: Grada, 2025. 200 s. ISBN 978-80-271-5660-3."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-EAM Economics and Management, part-time form, initial period WS 2024/2025Programme B-F Finances, full-time form, initial period WS 2024/2025Programme B-EAM Economics and Management, full-time form, initial period WS 2024/2025Programme B-FS Financial Services, full-time form, initial period WS 2025/2026Programme B-MOS Trade and Services Management, full-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:40:22",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

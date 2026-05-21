@@ -1,5 +1,16 @@
 {
   "courseCode": "EKMZ",
+  "name": "Ekonomika životního prostředí",
+  "nameCs": "Ekonomika životního prostředí",
+  "nameEn": "Environmental Economics",
+  "predmetId": "156884",
+  "facultyId": 38,
+  "aliases": [
+    "EZPR"
+  ],
+  "teachers": [
+    "doc. Ing. Petra Hlaváčková, Ph.D."
+  ],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - LDF",
@@ -7,7 +18,7 @@
       "year": 2024,
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156884;lang=cz",
-      "totalPass": 29,
+      "totalPass": 28,
       "totalFail": 1,
       "terms": [
         {
@@ -17,11 +28,11 @@
             "B": 0,
             "C": 1,
             "D": 0,
-            "E": 1,
+            "E": 0,
             "F": 1,
             "FN": 0
           },
-          "pass": 2,
+          "pass": 1,
           "fail": 1
         },
         {
@@ -31,11 +42,11 @@
             "B": 9,
             "C": 6,
             "D": 3,
-            "E": 2,
+            "E": 1,
             "F": 1,
             "FN": 0
           },
-          "pass": 29,
+          "pass": 28,
           "fail": 1
         },
         {
@@ -46,11 +57,11 @@
             "C": 5,
             "D": 3,
             "E": 1,
-            "F": 3,
+            "F": 2,
             "FN": 0
           },
           "pass": 27,
-          "fail": 3
+          "fail": 2
         }
       ]
     },
@@ -175,5 +186,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-03-07T08:18:27.369Z"
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
 }

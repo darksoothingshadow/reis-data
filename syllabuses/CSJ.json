@@ -1,0 +1,921 @@
+{
+  "courseCode": "CSJ",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "CSJ"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Části strojů"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Machine Components"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zápočet (3 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Studium předmětu je možné během zahraniční mobility po individuální domluvě s garantem předmětu"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Zdeněk Kopecký, CSc."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Zdeněk Kopecký, CSc. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "(Fyzika nebo FYT) a (Matematika nebo Matematika) a Technické kreslení a ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Technické materiály (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Železné a neželezné kovy"
+    },
+    {
+      "label": "b.",
+      "content": "Nekovové materiály(přírodní a umělé)"
+    },
+    {
+      "label": "2.",
+      "content": "Namáhání a zkoušky strojních součástí (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Způsoby namáhání a pevnostní výpočty strojních součástí"
+    },
+    {
+      "label": "b.",
+      "content": "Zkoušky materiálů pro strojní součásti a nástroje"
+    },
+    {
+      "label": "3.",
+      "content": "Nástrojové materiály a jejich tepelné zpracování (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Materiály pro dřevoobráběcí nástroje"
+    },
+    {
+      "label": "b.",
+      "content": "Tepelné zpracování a super tvrdé vrstvy"
+    },
+    {
+      "label": "4.",
+      "content": "Rozebíratelné spoje (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Klíny, pera a svěrné spoje"
+    },
+    {
+      "label": "b.",
+      "content": "Šroubové, kolíkové a čepové spoje, výpočet šroubového spoje"
+    },
+    {
+      "label": "5.",
+      "content": "Nerozebíratelné spoje (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Svarové, pajené a lepené spoje"
+    },
+    {
+      "label": "b.",
+      "content": "Nýtované a nalisované spoje"
+    },
+    {
+      "label": "6.",
+      "content": "Části pružící a přenosové části (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Pružiny"
+    },
+    {
+      "label": "b.",
+      "content": "Hřídele a vřetena, výpočet kritických otáček"
+    },
+    {
+      "label": "c.",
+      "content": "Valivá a kluzná ložiska"
+    },
+    {
+      "label": "7.",
+      "content": "Hřídelové spojky (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Mechanicky rozpojované a nerozpojované spojky, základní výpočet"
+    },
+    {
+      "label": "b.",
+      "content": "Hydrodynamické a elektrodynamické spojky"
+    },
+    {
+      "label": "8.",
+      "content": "Třecí převody (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Třecí převody přímé"
+    },
+    {
+      "label": "b.",
+      "content": "Opásané převody řemenové a lanové"
+    },
+    {
+      "label": "c.",
+      "content": "Návrh řemenového převodu kotoučové pily"
+    },
+    {
+      "label": "9.",
+      "content": "Řetězové převody a řetězy (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Řetězy zdvihací, transportní a převodové"
+    },
+    {
+      "label": "b.",
+      "content": "Návrh řetězového převodu dopravníku"
+    },
+    {
+      "label": "10.",
+      "content": "Ozubené převody a převodovky (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Konstrukční typy ozubených převodů"
+    },
+    {
+      "label": "b.",
+      "content": "Převodovky"
+    },
+    {
+      "label": "11.",
+      "content": "Kinematické mechanismy (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Klikový,kulisový, vačkový, šroubový mechanismus"
+    },
+    {
+      "label": "b.",
+      "content": "Maltézský mechanismus, rohatka a západka"
+    },
+    {
+      "label": "c.",
+      "content": "Výpočet kinematiky rámové pily"
+    },
+    {
+      "label": "12.",
+      "content": "Pohony dřevařských strojů (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Zdroje energie a přenos energie u dřevařského stroje"
+    },
+    {
+      "label": "b.",
+      "content": "Spalovací motory"
+    },
+    {
+      "label": "c.",
+      "content": "Elektromotory"
+    },
+    {
+      "label": "13.",
+      "content": "Základní funkční celky strojů (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Rámy a základy strojů"
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2021/2022, ZS 2020/2021, ZS 2019/2020, ZS 2018/2019 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Části strojů"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Machine Components"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zápočet (3 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zápočet (3 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Studium předmětu je možné během zahraniční mobility po individuální domluvě s garantem předmětu"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Zdeněk Kopecký, CSc."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Zdeněk Kopecký, CSc. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: (Fyzika nebo FYT) a (Matematika nebo Matematika) a Technické kreslení a ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Je předmětem aplikovaného základu, je předmětem povinným. Předmět dává základní informace o strojních součástech nábytkářských strojů."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Technické materiály (dotace 2/1) a.Železné a neželezné kovyb.Nekovové materiály(přírodní a umělé)2.Namáhání a zkoušky strojních součástí (dotace 2/1) a.Způsoby namáhání a pevnostní výpočty strojních součástíb.Zkoušky materiálů pro strojní součásti a nástroje3.Nástrojové materiály a jejich tepelné zpracování (dotace 2/1) a.Materiály pro dřevoobráběcí nástrojeb.Tepelné zpracování a super tvrdé vrstvy4.Rozebíratelné spoje (dotace 2/1) a.Klíny, pera a svěrné spojeb.Šroubové, kolíkové a čepové spoje, výpočet šroubového spoje5.Nerozebíratelné spoje (dotace 2/1) a.Svarové, pajené a lepené spojeb.Nýtované a nalisované spoje6.Části pružící a přenosové části (dotace 2/1) a.Pružinyb.Hřídele a vřetena, výpočet kritických otáčekc.Valivá a kluzná ložiska7.Hřídelové spojky (dotace 2/1) a.Mechanicky rozpojované a nerozpojované spojky, základní výpočetb.Hydrodynamické a elektrodynamické spojky8.Třecí převody (dotace 2/1) a.Třecí převody příméb.Opásané převody řemenové a lanovéc.Návrh řemenového převodu kotoučové pily9.Řetězové převody a řetězy (dotace 2/1) a.Řetězy zdvihací, transportní a převodovéb.Návrh řetězového převodu dopravníku10.Ozubené převody a převodovky (dotace 2/1) a.Konstrukční typy ozubených převodůb.Převodovky11.Kinematické mechanismy (dotace 2/1) a.Klikový,kulisový, vačkový, šroubový mechanismusb.Maltézský mechanismus, rohatka a západkac.Výpočet kinematiky rámové pily12.Pohony dřevařských strojů (dotace 4/2) a.Zdroje energie a přenos energie u dřevařského strojeb.Spalovací motoryc.Elektromotory13.Základní funkční celky strojů (dotace 2/1) a.Rámy a základy strojů"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Železné a neželezné kovyb.Nekovové materiály(přírodní a umělé)"
+    },
+    {
+      "label": "[section] Technické materiály",
+      "content": "a.Železné a neželezné kovyb.Nekovové materiály(přírodní a umělé)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Způsoby namáhání a pevnostní výpočty strojních součástíb.Zkoušky materiálů pro strojní součásti a nástroje"
+    },
+    {
+      "label": "[section] Namáhání a zkoušky strojních součástí",
+      "content": "a.Způsoby namáhání a pevnostní výpočty strojních součástíb.Zkoušky materiálů pro strojní součásti a nástroje"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Materiály pro dřevoobráběcí nástrojeb.Tepelné zpracování a super tvrdé vrstvy"
+    },
+    {
+      "label": "[section] Nástrojové materiály a jejich tepelné zpracování",
+      "content": "a.Materiály pro dřevoobráběcí nástrojeb.Tepelné zpracování a super tvrdé vrstvy"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Klíny, pera a svěrné spojeb.Šroubové, kolíkové a čepové spoje, výpočet šroubového spoje"
+    },
+    {
+      "label": "[section] Rozebíratelné spoje",
+      "content": "a.Klíny, pera a svěrné spojeb.Šroubové, kolíkové a čepové spoje, výpočet šroubového spoje"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Svarové, pajené a lepené spojeb.Nýtované a nalisované spoje"
+    },
+    {
+      "label": "[section] Nerozebíratelné spoje",
+      "content": "a.Svarové, pajené a lepené spojeb.Nýtované a nalisované spoje"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Pružinyb.Hřídele a vřetena, výpočet kritických otáčekc.Valivá a kluzná ložiska"
+    },
+    {
+      "label": "[section] Části pružící a přenosové části",
+      "content": "a.Pružinyb.Hřídele a vřetena, výpočet kritických otáčekc.Valivá a kluzná ložiska"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Mechanicky rozpojované a nerozpojované spojky, základní výpočetb.Hydrodynamické a elektrodynamické spojky"
+    },
+    {
+      "label": "[section] Hřídelové spojky",
+      "content": "a.Mechanicky rozpojované a nerozpojované spojky, základní výpočetb.Hydrodynamické a elektrodynamické spojky"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Třecí převody příméb.Opásané převody řemenové a lanovéc.Návrh řemenového převodu kotoučové pily"
+    },
+    {
+      "label": "[section] Třecí převody",
+      "content": "a.Třecí převody příméb.Opásané převody řemenové a lanovéc.Návrh řemenového převodu kotoučové pily"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Řetězy zdvihací, transportní a převodovéb.Návrh řetězového převodu dopravníku"
+    },
+    {
+      "label": "[section] Řetězové převody a řetězy",
+      "content": "a.Řetězy zdvihací, transportní a převodovéb.Návrh řetězového převodu dopravníku"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Konstrukční typy ozubených převodůb.Převodovky"
+    },
+    {
+      "label": "[section] Ozubené převody a převodovky",
+      "content": "a.Konstrukční typy ozubených převodůb.Převodovky"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Klikový,kulisový, vačkový, šroubový mechanismusb.Maltézský mechanismus, rohatka a západkac.Výpočet kinematiky rámové pily"
+    },
+    {
+      "label": "[section] Kinematické mechanismy",
+      "content": "a.Klikový,kulisový, vačkový, šroubový mechanismusb.Maltézský mechanismus, rohatka a západkac.Výpočet kinematiky rámové pily"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Zdroje energie a přenos energie u dřevařského strojeb.Spalovací motoryc.Elektromotory"
+    },
+    {
+      "label": "[section] Pohony dřevařských strojů",
+      "content": "a.Zdroje energie a přenos energie u dřevařského strojeb.Spalovací motoryc.Elektromotory"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Rámy a základy strojů"
+    },
+    {
+      "label": "[section] Základní funkční celky strojů",
+      "content": "a.Rámy a základy strojů"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení14 hpříprava na průběžné hodnocení8 hpříprava na průběžný test14 hzpracování projektů20 hCelkem84 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zápočet - semestrální program (výpočet a konstrukce převodu)25 bodů (min. 17 bodů) - zápočtový test 20 bodů (min. 12 bodů) - udělení zápočtu účast na cvičení a získání min. 29 bodů"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:PERNICA, Jaroslav. 2001. Části strojů. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 139 s. ISBN 80-7157-492-9.ROUSEK, Miroslav; NOVÁK, Vít; KOPECKÝ, Zdeněk. 2007. Elektrické a strojní mechanismy. 1. vyd. Brno: MZLU v Brně, 156 s. 1. ISBN 978-80-7375-062-6.SKOUPÝ, Alois; KOPECKÝ, Zdeněk. 2004. Základy techniky: (cvičení). 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 117 s. ISBN 80-7157-800-2.Doporučená:LEINVEBER, Jan; VÁVRA, Pavel. 2005. Strojnické tabulky. Úvaly: Albra, 908 s. ISBN 80-7361-011-6."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "PERNICA, Jaroslav. 2001. Části strojů. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 139 s. ISBN 80-7157-492-9.ROUSEK, Miroslav; NOVÁK, Vít; KOPECKÝ, Zdeněk. 2007. Elektrické a strojní mechanismy. 1. vyd. Brno: MZLU v Brně, 156 s. 1. ISBN 978-80-7375-062-6.SKOUPÝ, Alois; KOPECKÝ, Zdeněk. 2004. Základy techniky: (cvičení). 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 117 s. ISBN 80-7157-800-2."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "LEINVEBER, Jan; VÁVRA, Pavel. 2005. Strojnické tabulky. Úvaly: Albra, 908 s. ISBN 80-7361-011-6."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Specializace B-TVN-VYR Výroba nábytku, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "CSJ"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Části strojů"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Machine Components"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Pass credit (3 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The study of the subject is possible during foreign mobility after individualagreement with the subject guarantor"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Zdeněk Kopecký, CSc."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Zdeněk Kopecký, CSc. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "(Physics or FYT) and (Mathematics or Mathematics) and Technical Drawing and not State Bachelor Examination"
+    },
+    {
+      "label": "1.",
+      "content": "Technical materials (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Ferrous and nonferrous metals"
+    },
+    {
+      "label": "b.",
+      "content": "Non-metallic matrials (natural and synthetic)"
+    },
+    {
+      "label": "2.",
+      "content": "Tension and tests machine components (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Mode stress and strength calculations machine components"
+    },
+    {
+      "label": "b.",
+      "content": "Material tests of machine components and tools"
+    },
+    {
+      "label": "3.",
+      "content": "Tool materials and it's heat treatment (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Materials for woodworking tools"
+    },
+    {
+      "label": "b.",
+      "content": "Heat treatment and super hard layer"
+    },
+    {
+      "label": "4.",
+      "content": "Demountable joints (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Screwed, pinned and housed jonts, calculation of screwed joint"
+    },
+    {
+      "label": "b.",
+      "content": "Wedges, slip tongues and clam joints"
+    },
+    {
+      "label": "5.",
+      "content": "Non-demontable joints (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Welded, soldered and glued joints"
+    },
+    {
+      "label": "b.",
+      "content": "Riveted and pressed joints"
+    },
+    {
+      "label": "6.",
+      "content": "Spring parts and transfer parts (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Springs"
+    },
+    {
+      "label": "b.",
+      "content": "Roller and friction bearings"
+    },
+    {
+      "label": "c.",
+      "content": "Shafts and spindles, calculation of critical revolutions"
+    },
+    {
+      "label": "7.",
+      "content": "Shaft clutchs (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Mechanically uncouple and pernament clutchs, basic calculation"
+    },
+    {
+      "label": "b.",
+      "content": "Hydrodynamic and electrodynamic clutchs"
+    },
+    {
+      "label": "8.",
+      "content": "Friction drives (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Friction direct drives"
+    },
+    {
+      "label": "b.",
+      "content": "Belted and cabled drives"
+    },
+    {
+      "label": "c.",
+      "content": "Project - Belted drive of circular saw"
+    },
+    {
+      "label": "9.",
+      "content": "Chain gearings and chains (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Lifting, transport and gearing chains"
+    },
+    {
+      "label": "b.",
+      "content": "Project - Chain gearing of conveyer"
+    },
+    {
+      "label": "10.",
+      "content": "Gear-type transmission and gearboxes (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Desing of gear-type transmission"
+    },
+    {
+      "label": "b.",
+      "content": "Gearboxes"
+    },
+    {
+      "label": "11.",
+      "content": "Kinematic mechanisms (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Cranked, sliding-block, camed, screved mechanisms"
+    },
+    {
+      "label": "b.",
+      "content": "Maltese mechanism, ratched wheel and ratch"
+    },
+    {
+      "label": "c.",
+      "content": "Calculation - Kinematics of frame saw"
+    },
+    {
+      "label": "12.",
+      "content": "Drives woodworking machines (allowance 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Power sources and energy transfer in woodworking machines"
+    },
+    {
+      "label": "b.",
+      "content": "Gas-engines"
+    },
+    {
+      "label": "c.",
+      "content": "Electric motors"
+    },
+    {
+      "label": "13.",
+      "content": "Fundamental functional machine's unit (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Frames and foundations of machnes"
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2021/2022, WS 2020/2021, WS 2019/2020, WS 2018/2019 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Části strojů"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Machine Components"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Pass credit (3 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Pass credit (3 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The study of the subject is possible during foreign mobility after individualagreement with the subject guarantor"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Zdeněk Kopecký, CSc."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Zdeněk Kopecký, CSc. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: (Physics or FYT) and (Mathematics or Mathematics) and Technical Drawing and not State Bachelor Examination"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The subject is obligatory. The subject behoves to application basis. The subject gives basic information about machine components of furniture machines."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Technical materials (allowance 2/1) a.Ferrous and nonferrous metalsb.Non-metallic matrials (natural and synthetic)2.Tension and tests machine components (allowance 2/1) a.Mode stress and strength calculations machine componentsb.Material tests of machine components and tools3.Tool materials and it's heat treatment (allowance 2/1) a.Materials for woodworking toolsb.Heat treatment and super hard layer4.Demountable joints (allowance 2/1) a.Screwed, pinned and housed jonts, calculation of screwed jointb.Wedges, slip tongues and clam joints5.Non-demontable joints (allowance 2/1) a.Welded, soldered and glued jointsb.Riveted and pressed joints6.Spring parts and transfer parts (allowance 2/1) a.Springsb.Roller and friction bearingsc.Shafts and spindles, calculation of critical revolutions7.Shaft clutchs (allowance 2/1) a.Mechanically uncouple and pernament clutchs, basic calculationb.Hydrodynamic and electrodynamic clutchs8.Friction drives (allowance 2/1) a.Friction direct drivesb.Belted and cabled drivesc.Project - Belted drive of circular saw9.Chain gearings and chains (allowance 2/1) a.Lifting, transport and gearing chainsb.Project - Chain gearing of conveyer10.Gear-type transmission and gearboxes (allowance 2/1) a.Desing of gear-type transmissionb.Gearboxes11.Kinematic mechanisms (allowance 2/1) a.Cranked, sliding-block, camed, screved mechanismsb.Maltese mechanism, ratched wheel and ratchc.Calculation - Kinematics of frame saw12.Drives woodworking machines (allowance 4/2) a.Power sources and energy transfer in woodworking machinesb.Gas-enginesc.Electric motors13.Fundamental functional machine's unit (allowance 2/1) a.Frames and foundations of machnes"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Ferrous and nonferrous metalsb.Non-metallic matrials (natural and synthetic)"
+    },
+    {
+      "label": "[section] Technical materials",
+      "content": "a.Ferrous and nonferrous metalsb.Non-metallic matrials (natural and synthetic)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Mode stress and strength calculations machine componentsb.Material tests of machine components and tools"
+    },
+    {
+      "label": "[section] Tension and tests machine components",
+      "content": "a.Mode stress and strength calculations machine componentsb.Material tests of machine components and tools"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Materials for woodworking toolsb.Heat treatment and super hard layer"
+    },
+    {
+      "label": "[section] Tool materials and it's heat treatment",
+      "content": "a.Materials for woodworking toolsb.Heat treatment and super hard layer"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Screwed, pinned and housed jonts, calculation of screwed jointb.Wedges, slip tongues and clam joints"
+    },
+    {
+      "label": "[section] Demountable joints",
+      "content": "a.Screwed, pinned and housed jonts, calculation of screwed jointb.Wedges, slip tongues and clam joints"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Welded, soldered and glued jointsb.Riveted and pressed joints"
+    },
+    {
+      "label": "[section] Non-demontable joints",
+      "content": "a.Welded, soldered and glued jointsb.Riveted and pressed joints"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Springsb.Roller and friction bearingsc.Shafts and spindles, calculation of critical revolutions"
+    },
+    {
+      "label": "[section] Spring parts and transfer parts",
+      "content": "a.Springsb.Roller and friction bearingsc.Shafts and spindles, calculation of critical revolutions"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Mechanically uncouple and pernament clutchs, basic calculationb.Hydrodynamic and electrodynamic clutchs"
+    },
+    {
+      "label": "[section] Shaft clutchs",
+      "content": "a.Mechanically uncouple and pernament clutchs, basic calculationb.Hydrodynamic and electrodynamic clutchs"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Friction direct drivesb.Belted and cabled drivesc.Project - Belted drive of circular saw"
+    },
+    {
+      "label": "[section] Friction drives",
+      "content": "a.Friction direct drivesb.Belted and cabled drivesc.Project - Belted drive of circular saw"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Lifting, transport and gearing chainsb.Project - Chain gearing of conveyer"
+    },
+    {
+      "label": "[section] Chain gearings and chains",
+      "content": "a.Lifting, transport and gearing chainsb.Project - Chain gearing of conveyer"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Desing of gear-type transmissionb.Gearboxes"
+    },
+    {
+      "label": "[section] Gear-type transmission and gearboxes",
+      "content": "a.Desing of gear-type transmissionb.Gearboxes"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Cranked, sliding-block, camed, screved mechanismsb.Maltese mechanism, ratched wheel and ratchc.Calculation - Kinematics of frame saw"
+    },
+    {
+      "label": "[section] Kinematic mechanisms",
+      "content": "a.Cranked, sliding-block, camed, screved mechanismsb.Maltese mechanism, ratched wheel and ratchc.Calculation - Kinematics of frame saw"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Power sources and energy transfer in woodworking machinesb.Gas-enginesc.Electric motors"
+    },
+    {
+      "label": "[section] Drives woodworking machines",
+      "content": "a.Power sources and energy transfer in woodworking machinesb.Gas-enginesc.Electric motors"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Frames and foundations of machnes"
+    },
+    {
+      "label": "[section] Fundamental functional machine's unit",
+      "content": "a.Frames and foundations of machnes"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice14 hpreparation for regular assessment8 hpreparation for regular testing14 helaboration and execution of projects20 hTotal84 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Inclusion - semestral project (calculation and design of transmission) 25 marks (min. 17 marks) - inclusion test 20 marks (min. 12 marks) - conferment of inclusion - participation on practice and obtaining min. 29 marks"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:PERNICA, Jaroslav. 2001. Části strojů. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 139 p. ISBN 80-7157-492-9.ROUSEK, Miroslav; NOVÁK, Vít; KOPECKÝ, Zdeněk. 2007. Elektrické a strojní mechanismy. 1st ed. Brno: MZLU v Brně, 156 p. 1. ISBN 978-80-7375-062-6.SKOUPÝ, Alois; KOPECKÝ, Zdeněk. 2004. Základy techniky: (cvičení). 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 117 p. ISBN 80-7157-800-2.Recommended:LEINVEBER, Jan; VÁVRA, Pavel. 2005. Strojnické tabulky. Úvaly: Albra, 908 p. ISBN 80-7361-011-6."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "PERNICA, Jaroslav. 2001. Části strojů. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 139 p. ISBN 80-7157-492-9.ROUSEK, Miroslav; NOVÁK, Vít; KOPECKÝ, Zdeněk. 2007. Elektrické a strojní mechanismy. 1st ed. Brno: MZLU v Brně, 156 p. 1. ISBN 978-80-7375-062-6.SKOUPÝ, Alois; KOPECKÝ, Zdeněk. 2004. Základy techniky: (cvičení). 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 117 p. ISBN 80-7157-800-2."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "LEINVEBER, Jan; VÁVRA, Pavel. 2005. Strojnické tabulky. Úvaly: Albra, 908 p. ISBN 80-7361-011-6."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Track B-TVN-FPD Furniture Production, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 04:48:35",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

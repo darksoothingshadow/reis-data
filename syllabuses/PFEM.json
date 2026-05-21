@@ -1,0 +1,549 @@
+{
+  "courseCode": "PFEM",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "PFEM"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Pokročilé techniky FEM"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Advanced Techniques of FEM"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zápočet (3 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 0/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský; magisterský; magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "V případě že student má základní znalosti FEM a dovednosti práce se SW využívajícím FEM, pak je studium možné dostančně formou vypracování vzorových úloh a závěrečného projektu v plném rozsahu (obhajoba online, dle dohody)."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Jan Tippner, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. David Děcký, Ph.D. (cvičící)doc. Ing. Václav Sebera, Ph.D. (cvičící)Ing. Jan Tippner, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Barbora Vojáčková, Ph.D., DiS. (cvičící)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška a ne Výpočtové postupy v technické praxi a ne Statická analýza konstrukcí a ne Numerické simulace a ne Numerická optimalizace dřevařského výrobku a ne Numerická optimalizace nábytkářského výrobku"
+    },
+    {
+      "label": "1.",
+      "content": "Pokročilá aplikace mechaniky a termodynamiky kontinua, vazba na problematiku CAE, numerické metody, MKP. Možnosti řešení problému – analytické/numerické řešení. SW a HW pro MKP, aplikace v oboru nábytku. (dotace 0/3)"
+    },
+    {
+      "label": "2.",
+      "content": "Geometrické degradace úlohy, mechanická lineární analýza - cíle, možnosti a postup. Úloha č. 1. (dotace 0/3)"
+    },
+    {
+      "label": "3.",
+      "content": "Modelování pokročilých strukturálních, termodynamických nelineárních úloh v prostředí ANSYS. (dotace 0/3)"
+    },
+    {
+      "label": "4.",
+      "content": "Témata semestrálního projektu. Modelování pokročilých strukturálních, termodynamických nelineárních úloh v prostředí ANSYS, materiálové modely. (dotace 0/3)"
+    },
+    {
+      "label": "5.",
+      "content": "Implementace a interpretace nelinearit, mechanická nelineární analýza. Úloha č. 2. (dotace 0/3)"
+    },
+    {
+      "label": "6.",
+      "content": "Pokročilá teplotní analýza, stacionární/nestacionární, řešení vázaných úloh - cíle, možnosti a postup. Úloha č. 3. (dotace 0/3)"
+    },
+    {
+      "label": "7.",
+      "content": "Mechanické dynamické analýzy. Úloha č. 4. (dotace 0/3)"
+    },
+    {
+      "label": "8.",
+      "content": "Pravděpodobnostní modelování a optimalizace v designu nábytku. Zadání seminárních projektů – fyzikální podstata problem, concept modelů. (dotace 0/3)"
+    },
+    {
+      "label": "9.",
+      "content": "Parametrické modelování (ANSYS vč. skriptování v APDL). (dotace 0/3)"
+    },
+    {
+      "label": "10.",
+      "content": "Konzultace a řešení projektů. Opakování – postupy řešení úloh, degradace, tvorba geometrického modelu. Diskretizace, typy sítě, tvorba FE modelů seminárních projektů. Aplikace okrajových podmínek, řešení. Postprocessing. (dotace 0/9)"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Pokročilé techniky FEM"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Advanced Techniques of FEM"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zápočet (3 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zápočet (3 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský; magisterský; magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: V případě že student má základní znalosti FEM a dovednosti práce se SW využívajícím FEM, pak je studium možné dostančně formou vypracování vzorových úloh a závěrečného projektu v plném rozsahu (obhajoba online, dle dohody)."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Jan Tippner, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. David Děcký, Ph.D. (cvičící)doc. Ing. Václav Sebera, Ph.D. (cvičící)Ing. Jan Tippner, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Barbora Vojáčková, Ph.D., DiS. (cvičící)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška a ne Výpočtové postupy v technické praxi a ne Statická analýza konstrukcí a ne Numerické simulace a ne Numerická optimalizace dřevařského výrobku a ne Numerická optimalizace nábytkářského výrobku"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkVyučujícíAkceČetnostKapacitaPondělí8.00-11.50B514N-TMZD1J. TippnerPřednáškaNepravidelně20Pondělí17.00-19.50B514J. Tippner, D. Děcký, V. Sebera, B. VojáčkováCvičeníKaždý týden21Středa15.00-17.50B46J. Tippner, D. Děcký, V. Sebera, B. VojáčkováCvičeníKaždý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Znát informace o pokročilých metodách fyzikálního modelování a numerických simulací od typických po komplexní fyzikální problémy specifické pro design (konstrukci, materiál), výrobu a užití výrobků (zejména ze dřeva a materiálů na bázi dřeva). Znát teoretická východiska numerické analýzy, metody konečných prvků, metodické postupy tvorby výpočtového modelu a simulace. Naučit se pokročilým dovednostem v praktické aplikaci numerických výpočtů v oboru designu, výroby a užití materiálu, výrobků, konstrukcí."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Pokročilá aplikace mechaniky a termodynamiky kontinua, vazba na problematiku CAE, numerické metody, MKP. Možnosti řešení problému – analytické/numerické řešení. SW a HW pro MKP, aplikace v oboru nábytku. (dotace 0/3)2.Geometrické degradace úlohy, mechanická lineární analýza - cíle, možnosti a postup. Úloha č. 1. (dotace 0/3)3.Modelování pokročilých strukturálních, termodynamických nelineárních úloh v prostředí ANSYS. (dotace 0/3)4.Témata semestrálního projektu. Modelování pokročilých strukturálních, termodynamických nelineárních úloh v prostředí ANSYS, materiálové modely. (dotace 0/3)5.Implementace a interpretace nelinearit, mechanická nelineární analýza. Úloha č. 2. (dotace 0/3)6.Pokročilá teplotní analýza, stacionární/nestacionární, řešení vázaných úloh - cíle, možnosti a postup. Úloha č. 3. (dotace 0/3)7.Mechanické dynamické analýzy. Úloha č. 4. (dotace 0/3)8.Pravděpodobnostní modelování a optimalizace v designu nábytku. Zadání seminárních projektů – fyzikální podstata problem, concept modelů. (dotace 0/3)9.Parametrické modelování (ANSYS vč. skriptování v APDL). (dotace 0/3)10.Konzultace a řešení projektů. Opakování – postupy řešení úloh, degradace, tvorba geometrického modelu. Diskretizace, typy sítě, tvorba FE modelů seminárních projektů. Aplikace okrajových podmínek, řešení. Postprocessing. (dotace 0/9)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Geometrické degradace úlohy, mechanická lineární analýza - cíle, možnosti a postup. Úloha č. 1. (dotace 0/3)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Modelování pokročilých strukturálních, termodynamických nelineárních úloh v prostředí ANSYS. (dotace 0/3)"
+    },
+    {
+      "label": "[section] Geometrické degradace úlohy, mechanická lineární analýza - cíle, možnosti a postup. Úloha č. 1.",
+      "content": "3.Modelování pokročilých strukturálních, termodynamických nelineárních úloh v prostředí ANSYS. (dotace 0/3)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Témata semestrálního projektu. Modelování pokročilých strukturálních, termodynamických nelineárních úloh v prostředí ANSYS, materiálové modely. (dotace 0/3)"
+    },
+    {
+      "label": "[section] Modelování pokročilých strukturálních, termodynamických nelineárních úloh v prostředí ANSYS.",
+      "content": "4.Témata semestrálního projektu. Modelování pokročilých strukturálních, termodynamických nelineárních úloh v prostředí ANSYS, materiálové modely. (dotace 0/3)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Implementace a interpretace nelinearit, mechanická nelineární analýza. Úloha č. 2. (dotace 0/3)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Pokročilá teplotní analýza, stacionární/nestacionární, řešení vázaných úloh - cíle, možnosti a postup. Úloha č. 3. (dotace 0/3)"
+    },
+    {
+      "label": "[section] Implementace a interpretace nelinearit, mechanická nelineární analýza. Úloha č. 2.",
+      "content": "6.Pokročilá teplotní analýza, stacionární/nestacionární, řešení vázaných úloh - cíle, možnosti a postup. Úloha č. 3. (dotace 0/3)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Mechanické dynamické analýzy. Úloha č. 4. (dotace 0/3)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Pravděpodobnostní modelování a optimalizace v designu nábytku. Zadání seminárních projektů – fyzikální podstata problem, concept modelů. (dotace 0/3)"
+    },
+    {
+      "label": "[section] Mechanické dynamické analýzy. Úloha č. 4.",
+      "content": "8.Pravděpodobnostní modelování a optimalizace v designu nábytku. Zadání seminárních projektů – fyzikální podstata problem, concept modelů. (dotace 0/3)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Parametrické modelování (ANSYS vč. skriptování v APDL). (dotace 0/3)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Konzultace a řešení projektů. Opakování – postupy řešení úloh, degradace, tvorba geometrického modelu. Diskretizace, typy sítě, tvorba FE modelů seminárních projektů. Aplikace okrajových podmínek, řešení. Postprocessing. (dotace 0/9)"
+    },
+    {
+      "label": "[section] Parametrické modelování (ANSYS vč. skriptování v APDL).",
+      "content": "10.Konzultace a řešení projektů. Opakování – postupy řešení úloh, degradace, tvorba geometrického modelu. Diskretizace, typy sítě, tvorba FE modelů seminárních projektů. Aplikace okrajových podmínek, řešení. Postprocessing. (dotace 0/9)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumcvičení42 h15 hkonzultace0 h27 hprojektová práce40 h40 hzpracování projektů18 h18 hCelkem100 h100 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Znalost teoretického zázemí, znalost pokročilých technik modelování a práce v SW stvrzená samostatnou tvorbou projektu a jeho prezentací/obhajobou."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích10 %10 %Vypracování semestrální práce70 %70 %Prezentace nebo obhajoba20 %20 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:KOLÁŘ, Vladimír. 1997. FEM - Principy a praxe metody konečných prvků. 1. vyd. Praha: Computer Press, 401 s. ISBN 80-7226-021-9.JANÍČEK, Přemysl; MAREK, Jiří a kol. 2013. Expertní inženýrství v systémovém pojetí. 1. vyd. Praha: Grada, 592 s. Expert. ISBN 978-80-247-4127-7.PETRUŠKA, J. 2003. Počítačové metody mechaniky II – Metoda konečných prvků. Brno: VUT v Brně, 88 s.MOAVENI, Saeed. 2011. Engineering fundamentals: an inroduction to engineering. 4. vyd. Stamford, CT: Cengage Learning, 700 s. ISBN 978-1-4390-6210-4.HUTTON, David V. 2004. Fundamentals of finite element analysis. Boston: McGraw-Hill, 494 s. McGraw-Hill series in mechanical engineering. ISBN 0-07-112231-1.NAKASONE, Y.; YOSHIMOTO, S.; STOLARSKI, T. A. 2006. Engineering analysis with ANSYS software. Amsterdam: Butterworth-Heinemann, 456 s. ISBN 0-7506-6875-X.BARBERO, Ever J. Finite element analysis of composite materials. Boca Raton: CRC Press, 331 s. ISBN 978-1-4200-5433-0.GRIFFITHS, David. 2014. Programming the finite element method. 5. vyd. Chichester: Wiley, 664 s. ISBN 978-1-119-97334-8.CHAMPION, Edward R. 1992. Finite Element Analysis in Manufacturing Engineering. New York: McGraw-Hill, 21 s. ISBN 0-07-010510-3."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "KOLÁŘ, Vladimír. 1997. FEM - Principy a praxe metody konečných prvků. 1. vyd. Praha: Computer Press, 401 s. ISBN 80-7226-021-9.JANÍČEK, Přemysl; MAREK, Jiří a kol. 2013. Expertní inženýrství v systémovém pojetí. 1. vyd. Praha: Grada, 592 s. Expert. ISBN 978-80-247-4127-7.PETRUŠKA, J. 2003. Počítačové metody mechaniky II – Metoda konečných prvků. Brno: VUT v Brně, 88 s.MOAVENI, Saeed. 2011. Engineering fundamentals: an inroduction to engineering. 4. vyd. Stamford, CT: Cengage Learning, 700 s. ISBN 978-1-4390-6210-4.HUTTON, David V. 2004. Fundamentals of finite element analysis. Boston: McGraw-Hill, 494 s. McGraw-Hill series in mechanical engineering. ISBN 0-07-112231-1.NAKASONE, Y.; YOSHIMOTO, S.; STOLARSKI, T. A. 2006. Engineering analysis with ANSYS software. Amsterdam: Butterworth-Heinemann, 456 s. ISBN 0-7506-6875-X.BARBERO, Ever J. Finite element analysis of composite materials. Boca Raton: CRC Press, 331 s. ISBN 978-1-4200-5433-0.GRIFFITHS, David. 2014. Programming the finite element method. 5. vyd. Chichester: Wiley, 664 s. ISBN 978-1-119-97334-8.CHAMPION, Edward R. 1992. Finite Element Analysis in Manufacturing Engineering. New York: McGraw-Hill, 21 s. ISBN 0-07-010510-3."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-SNBD Stavby na bázi dřeva, prezenční forma, počáteční období ZS 2024/2025Program N-TMZD Technologie a management zpracování dřeva, prezenční forma, počáteční období ZS 2025/2026Program N-TMZD Technologie a management zpracování dřeva, kombinovaná forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: -- obsah této položky nebyl definován --"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "PFEM"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Pokročilé techniky FEM"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Advanced Techniques of FEM"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Pass credit (3 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 0/3 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor; master; master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "If the student has basic knowledge of FEM and skills in working with software using FEM, then the study is possible in the distance form of developing sample tasks and a final project in full (online defense, by agreement)."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Jan Tippner, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. David Děcký, Ph.D. (instructor)doc. Ing. Václav Sebera, Ph.D. (instructor)Ing. Jan Tippner, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Ing. Barbora Vojáčková, Ph.D., DiS. (instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "State Bachelor Examination and not Calculation Procedures in Technical Practice and not Static Analysis of Structures and not Numerical Simulations and not Numerical Optimalization of Wood Product and not Numerical Optimization of the Furniture Product"
+    },
+    {
+      "label": "1.",
+      "content": "Advanced application of continuum mechanics and thermodynamics, connection to CAE issues, numerical methods, FEM. Problem-solving options - analytical/numerical solution. SW and HW for FEM, applications in the furniture industry. (allowance 0/3)"
+    },
+    {
+      "label": "2.",
+      "content": "Geometric degradation of the problem, mechanical linear analysis - goals, options, and procedure. Task No. 1. (allowance 0/3)"
+    },
+    {
+      "label": "3.",
+      "content": "Modeling of advanced structural, thermodynamic nonlinear problems in the ANSYS environment. (allowance 0/3)"
+    },
+    {
+      "label": "4.",
+      "content": "Semester project topics. Modeling of advanced structural, thermodynamic nonlinear problems in the ANSYS environment, material models. (allowance 0/3)"
+    },
+    {
+      "label": "5.",
+      "content": "Implementation and interpretation of nonlinearities, mechanical nonlinear analysis. Task No. 2. (allowance 0/0)"
+    },
+    {
+      "label": "6.",
+      "content": "Advanced thermal analysis, stationary/non-stationary, solution of coupled problems - goals, options and procedure. Task No. 3. (allowance 0/3)"
+    },
+    {
+      "label": "7.",
+      "content": "Mechanical dynamic analyses. Task No. 4. (allowance 0/3)"
+    },
+    {
+      "label": "8.",
+      "content": "Probabilistic modeling and optimization in furniture design. Seminar project assignment – ​​physical nature of the problem, concept models. (allowance 0/3)"
+    },
+    {
+      "label": "9.",
+      "content": "Parametric modeling (ANSYS incl. scripting in APDL). (allowance 0/3)"
+    },
+    {
+      "label": "10.",
+      "content": "Consultation and project solution. Repetition – problem solving procedures, degradation, creation of a geometric model. Discretization, mesh types, creation of FE models of seminar projects. Application of boundary conditions, solution. Postprocessing. (allowance 0/9)"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Pokročilé techniky FEM"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Advanced Techniques of FEM"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Pass credit (3 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/3 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Pass credit (3 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/3 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor; master; master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: If the student has basic knowledge of FEM and skills in working with software using FEM, then the study is possible in the distance form of developing sample tasks and a final project in full (online defense, by agreement)."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Jan Tippner, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. David Děcký, Ph.D. (instructor)doc. Ing. Václav Sebera, Ph.D. (instructor)Ing. Jan Tippner, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Ing. Barbora Vojáčková, Ph.D., DiS. (instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: State Bachelor Examination and not Calculation Procedures in Technical Practice and not Static Analysis of Structures and not Numerical Simulations and not Numerical Optimalization of Wood Product and not Numerical Optimization of the Furniture Product"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyTeacherEntryFrequencyCapacityMonday8.00-11.50B514N-TMZD1J. TippnerLectureOccasionally20Monday17.00-19.50B514J. Tippner, D. Děcký, V. Sebera, B. VojáčkováSeminarEvery week21Wednesday15.00-17.50B46J. Tippner, D. Děcký, V. Sebera, B. VojáčkováSeminarEvery week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "To know information about advanced methods of physical modeling and numerical simulations from typical to complex physical problems specific to the design (construction, material), production, and use of products (especially from wood and wood-based materials). To know the theoretical foundations of numerical analysis, finite element methods, methodological procedures for creating a computational model and simulation. To learn advanced skills in the practical application of numerical calculations in the field of design, production, and use of materials, products, structures."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Advanced application of continuum mechanics and thermodynamics, connection to CAE issues, numerical methods, FEM. Problem-solving options - analytical/numerical solution. SW and HW for FEM, applications in the furniture industry. (allowance 0/3)2.Geometric degradation of the problem, mechanical linear analysis - goals, options, and procedure. Task No. 1. (allowance 0/3)3.Modeling of advanced structural, thermodynamic nonlinear problems in the ANSYS environment. (allowance 0/3)4.Semester project topics. Modeling of advanced structural, thermodynamic nonlinear problems in the ANSYS environment, material models. (allowance 0/3)5.Implementation and interpretation of nonlinearities, mechanical nonlinear analysis. Task No. 2. (allowance 0/0)6.Advanced thermal analysis, stationary/non-stationary, solution of coupled problems - goals, options and procedure. Task No. 3. (allowance 0/3)7.Mechanical dynamic analyses. Task No. 4. (allowance 0/3)8.Probabilistic modeling and optimization in furniture design. Seminar project assignment – ​​physical nature of the problem, concept models. (allowance 0/3)9.Parametric modeling (ANSYS incl. scripting in APDL). (allowance 0/3)10.Consultation and project solution. Repetition – problem solving procedures, degradation, creation of a geometric model. Discretization, mesh types, creation of FE models of seminar projects. Application of boundary conditions, solution. Postprocessing. (allowance 0/9)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Geometric degradation of the problem, mechanical linear analysis - goals, options, and procedure. Task No. 1. (allowance 0/3)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Modeling of advanced structural, thermodynamic nonlinear problems in the ANSYS environment. (allowance 0/3)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Semester project topics. Modeling of advanced structural, thermodynamic nonlinear problems in the ANSYS environment, material models. (allowance 0/3)"
+    },
+    {
+      "label": "[section] Modeling of advanced structural, thermodynamic nonlinear problems in the ANSYS environment.",
+      "content": "4.Semester project topics. Modeling of advanced structural, thermodynamic nonlinear problems in the ANSYS environment, material models. (allowance 0/3)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Implementation and interpretation of nonlinearities, mechanical nonlinear analysis. Task No. 2. (allowance 0/0)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Advanced thermal analysis, stationary/non-stationary, solution of coupled problems - goals, options and procedure. Task No. 3. (allowance 0/3)"
+    },
+    {
+      "label": "[section] Implementation and interpretation of nonlinearities, mechanical nonlinear analysis. Task No. 2.",
+      "content": "6.Advanced thermal analysis, stationary/non-stationary, solution of coupled problems - goals, options and procedure. Task No. 3. (allowance 0/3)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Mechanical dynamic analyses. Task No. 4. (allowance 0/3)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Probabilistic modeling and optimization in furniture design. Seminar project assignment – ​​physical nature of the problem, concept models. (allowance 0/3)"
+    },
+    {
+      "label": "[section] Mechanical dynamic analyses. Task No. 4.",
+      "content": "8.Probabilistic modeling and optimization in furniture design. Seminar project assignment – ​​physical nature of the problem, concept models. (allowance 0/3)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Parametric modeling (ANSYS incl. scripting in APDL). (allowance 0/3)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Consultation and project solution. Repetition – problem solving procedures, degradation, creation of a geometric model. Discretization, mesh types, creation of FE models of seminar projects. Application of boundary conditions, solution. Postprocessing. (allowance 0/9)"
+    },
+    {
+      "label": "[section] Parametric modeling (ANSYS incl. scripting in APDL).",
+      "content": "10.Consultation and project solution. Repetition – problem solving procedures, degradation, creation of a geometric model. Discretization, mesh types, creation of FE models of seminar projects. Application of boundary conditions, solution. Postprocessing. (allowance 0/9)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formpractice42 h15 hconsultation0 h27 hproject work40 h40 helaboration and execution of projects18 h18 hTotal100 h100 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Knowledge of theoretical background, knowledge of advanced modeling techniques and work in SW confirmed by independent project creation and its presentation/defense."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation10 %10 %Term paper70 %70 %Presentation or defence20 %20 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:KOLÁŘ, Vladimír. 1997. FEM - Principy a praxe metody konečných prvků. 1st ed. Praha: Computer Press, 401 p. ISBN 80-7226-021-9.JANÍČEK, Přemysl; MAREK, Jiří et al. 2013. Expertní inženýrství v systémovém pojetí. 1st ed. Praha: Grada, 592 p. Expert. ISBN 978-80-247-4127-7.PETRUŠKA, J. 2003. Počítačové metody mechaniky II – Metoda konečných prvků. Brno: VUT v Brně, 88 p.MOAVENI, Saeed. 2011. Engineering fundamentals: an inroduction to engineering. 4th ed. Stamford, CT: Cengage Learning, 700 p. ISBN 978-1-4390-6210-4.HUTTON, David V. 2004. Fundamentals of finite element analysis. Boston: McGraw-Hill, 494 p. McGraw-Hill series in mechanical engineering. ISBN 0-07-112231-1.NAKASONE, Y.; YOSHIMOTO, S.; STOLARSKI, T. A. 2006. Engineering analysis with ANSYS software. Amsterdam: Butterworth-Heinemann, 456 p. ISBN 0-7506-6875-X.BARBERO, Ever J. Finite element analysis of composite materials. Boca Raton: CRC Press, 331 p. ISBN 978-1-4200-5433-0.GRIFFITHS, David. 2014. Programming the finite element method. 5th ed. Chichester: Wiley, 664 p. ISBN 978-1-119-97334-8.CHAMPION, Edward R. 1992. Finite Element Analysis in Manufacturing Engineering. New York: McGraw-Hill, 21 p. ISBN 0-07-010510-3."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "KOLÁŘ, Vladimír. 1997. FEM - Principy a praxe metody konečných prvků. 1st ed. Praha: Computer Press, 401 p. ISBN 80-7226-021-9.JANÍČEK, Přemysl; MAREK, Jiří et al. 2013. Expertní inženýrství v systémovém pojetí. 1st ed. Praha: Grada, 592 p. Expert. ISBN 978-80-247-4127-7.PETRUŠKA, J. 2003. Počítačové metody mechaniky II – Metoda konečných prvků. Brno: VUT v Brně, 88 p.MOAVENI, Saeed. 2011. Engineering fundamentals: an inroduction to engineering. 4th ed. Stamford, CT: Cengage Learning, 700 p. ISBN 978-1-4390-6210-4.HUTTON, David V. 2004. Fundamentals of finite element analysis. Boston: McGraw-Hill, 494 p. McGraw-Hill series in mechanical engineering. ISBN 0-07-112231-1.NAKASONE, Y.; YOSHIMOTO, S.; STOLARSKI, T. A. 2006. Engineering analysis with ANSYS software. Amsterdam: Butterworth-Heinemann, 456 p. ISBN 0-7506-6875-X.BARBERO, Ever J. Finite element analysis of composite materials. Boca Raton: CRC Press, 331 p. ISBN 978-1-4200-5433-0.GRIFFITHS, David. 2014. Programming the finite element method. 5th ed. Chichester: Wiley, 664 p. ISBN 978-1-119-97334-8.CHAMPION, Edward R. 1992. Finite Element Analysis in Manufacturing Engineering. New York: McGraw-Hill, 21 p. ISBN 0-07-010510-3."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-SNBD Timber Structures and Wood Building Construction, full-time form, initial period WS 2024/2025Programme C-TMZD Technology and Management in Wood Processing, full-time form, initial period WS 2025/2026Programme C-TMZD Technology and Management in Wood Processing, part-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: -- item not defined --"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:46:06",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

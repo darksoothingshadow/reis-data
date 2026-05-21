@@ -1,0 +1,681 @@
+{
+  "courseCode": "EBC-ZKB",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-ZKB"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Základy kybernetické bezpečnosti"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Basics of Cybersecurity"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "prof. Ing. Cyril Klimeš, CSc. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Stratos Zerdaloglu (cvičící, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Principy bezpečnosti IS/IT (dotace 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Komponenty IT, objekt IT, subjekt IT. Autorizace a autentizace."
+    },
+    {
+      "label": "b.",
+      "content": "Pojmy: aktivum, zranitelné místo, hrozba, riziko, útok. ."
+    },
+    {
+      "label": "c.",
+      "content": "Bezpečnostní funkce. Bezpečnostní mechanismy."
+    },
+    {
+      "label": "d.",
+      "content": "Typy útoků a jejich cíle."
+    },
+    {
+      "label": "2.",
+      "content": "Metody zabezpečení podnikových IS/IT (dotace 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Bezpečnostní politika podniku a bezpečnostní cíle."
+    },
+    {
+      "label": "b.",
+      "content": "Analýza rizik, havarijní plán, bezpečnostní audit."
+    },
+    {
+      "label": "c.",
+      "content": "Principy hodnoceni bezpečnosti IS/IT. Přehled standardů pro hodnocení IS/IT."
+    },
+    {
+      "label": "d.",
+      "content": "Standard ISO/IEC 15408 (Common Criteria)."
+    },
+    {
+      "label": "e.",
+      "content": "Dopady GDPR do IT systémů"
+    },
+    {
+      "label": "f.",
+      "content": "Zákon o kybernetické bezpečnosti a jeho aplikace"
+    },
+    {
+      "label": "3.",
+      "content": "Sociální inženýrství (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam sociálního inženýrství v podnikové praxi"
+    },
+    {
+      "label": "b.",
+      "content": "Metody sociotechniky (pretxting, phishing, pharming atd.)"
+    },
+    {
+      "label": "c.",
+      "content": "Obranné mechanismy"
+    },
+    {
+      "label": "4.",
+      "content": "Monitoring IT infrastruktury / IT systémů (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Monitorovací systémy"
+    },
+    {
+      "label": "b.",
+      "content": "Systémy hlášení incidentů"
+    },
+    {
+      "label": "5.",
+      "content": "Forenzní analýza a zajišťování digitálních stop (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Forenzní postupy"
+    },
+    {
+      "label": "b.",
+      "content": "Uchovávání digitálních stop"
+    },
+    {
+      "label": "c.",
+      "content": "Analýza logů"
+    },
+    {
+      "label": "6.",
+      "content": "Základy moderní kryptografie (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Principy moderní kryptografie. Proces šifrování a dešifrování, šifrovací klíč, kryptoanalýza."
+    },
+    {
+      "label": "b.",
+      "content": "Bezpečnostní funkcionalita kryptografických mechanismů."
+    },
+    {
+      "label": "c.",
+      "content": "Symetrické a asymetrické kryptografické algoritmy, jejich výhody a nevýhody. Známé standardy a implementace. Hash funkce."
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Základy kybernetické bezpečnosti"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Basics of Cybersecurity"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: prof. Ing. Cyril Klimeš, CSc. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Stratos Zerdaloglu (cvičící, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí15.00-18.50Q15C. KlimešPřednáškaSudý týden36Pondělí15.00-18.50Q15S. ZerdalogluCvičeníLichý týden36Sobota14.00-17.50Q15B-AIIC. KlimešPřednáškaNepravidelně20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět má za cíl naučit studenty základy kybernetické bezpečnosti a výkon funkce manažera informační bezpečnosti. Předmět pokrývá relevantní normy (ISO/IEC 15408, ISO/IEC 27001, ISO/IEC 27037), zákony (GDPR, ZoKB) a procesy bezpečnostního auditu."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Principy bezpečnosti IS/IT (dotace 6/6) a.Komponenty IT, objekt IT, subjekt IT. Autorizace a autentizace.b.Pojmy: aktivum, zranitelné místo, hrozba, riziko, útok. .c.Bezpečnostní funkce. Bezpečnostní mechanismy.d.Typy útoků a jejich cíle.2.Metody zabezpečení podnikových IS/IT (dotace 6/6) a.Bezpečnostní politika podniku a bezpečnostní cíle.b.Analýza rizik, havarijní plán, bezpečnostní audit.c.Principy hodnoceni bezpečnosti IS/IT. Přehled standardů pro hodnocení IS/IT.d.Standard ISO/IEC 15408 (Common Criteria).e.Dopady GDPR do IT systémůf.Zákon o kybernetické bezpečnosti a jeho aplikace3.Sociální inženýrství (dotace 4/4) a.Význam sociálního inženýrství v podnikové praxib.Metody sociotechniky (pretxting, phishing, pharming atd.)c.Obranné mechanismy4.Monitoring IT infrastruktury / IT systémů (dotace 4/4) a.Monitorovací systémyb.Systémy hlášení incidentů5.Forenzní analýza a zajišťování digitálních stop (dotace 4/4) a.Forenzní postupyb.Uchovávání digitálních stopc.Analýza logů6.Základy moderní kryptografie (dotace 4/4) a.Principy moderní kryptografie. Proces šifrování a dešifrování, šifrovací klíč, kryptoanalýza.b.Bezpečnostní funkcionalita kryptografických mechanismů.c.Symetrické a asymetrické kryptografické algoritmy, jejich výhody a nevýhody. Známé standardy a implementace. Hash funkce."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Komponenty IT, objekt IT, subjekt IT. Autorizace a autentizace.b.Pojmy: aktivum, zranitelné místo, hrozba, riziko, útok. .c.Bezpečnostní funkce. Bezpečnostní mechanismy.d.Typy útoků a jejich cíle."
+    },
+    {
+      "label": "[section] Principy bezpečnosti IS/IT",
+      "content": "a.Komponenty IT, objekt IT, subjekt IT. Autorizace a autentizace.b.Pojmy: aktivum, zranitelné místo, hrozba, riziko, útok. .c.Bezpečnostní funkce. Bezpečnostní mechanismy.d.Typy útoků a jejich cíle."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Bezpečnostní politika podniku a bezpečnostní cíle.b.Analýza rizik, havarijní plán, bezpečnostní audit.c.Principy hodnoceni bezpečnosti IS/IT. Přehled standardů pro hodnocení IS/IT.d.Standard ISO/IEC 15408 (Common Criteria).e.Dopady GDPR do IT systémůf.Zákon o kybernetické bezpečnosti a jeho aplikace"
+    },
+    {
+      "label": "[section] Metody zabezpečení podnikových IS/IT",
+      "content": "a.Bezpečnostní politika podniku a bezpečnostní cíle.b.Analýza rizik, havarijní plán, bezpečnostní audit.c.Principy hodnoceni bezpečnosti IS/IT. Přehled standardů pro hodnocení IS/IT.d.Standard ISO/IEC 15408 (Common Criteria).e.Dopady GDPR do IT systémůf.Zákon o kybernetické bezpečnosti a jeho aplikace"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Význam sociálního inženýrství v podnikové praxib.Metody sociotechniky (pretxting, phishing, pharming atd.)c.Obranné mechanismy"
+    },
+    {
+      "label": "[section] Sociální inženýrství",
+      "content": "a.Význam sociálního inženýrství v podnikové praxib.Metody sociotechniky (pretxting, phishing, pharming atd.)c.Obranné mechanismy"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Monitorovací systémyb.Systémy hlášení incidentů"
+    },
+    {
+      "label": "[section] Monitoring IT infrastruktury / IT systémů",
+      "content": "a.Monitorovací systémyb.Systémy hlášení incidentů"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Forenzní postupyb.Uchovávání digitálních stopc.Analýza logů"
+    },
+    {
+      "label": "[section] Forenzní analýza a zajišťování digitálních stop",
+      "content": "a.Forenzní postupyb.Uchovávání digitálních stopc.Analýza logů"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Principy moderní kryptografie. Proces šifrování a dešifrování, šifrovací klíč, kryptoanalýza.b.Bezpečnostní funkcionalita kryptografických mechanismů.c.Symetrické a asymetrické kryptografické algoritmy, jejich výhody a nevýhody. Známé standardy a implementace. Hash funkce."
+    },
+    {
+      "label": "[section] Základy moderní kryptografie",
+      "content": "a.Principy moderní kryptografie. Proces šifrování a dešifrování, šifrovací klíč, kryptoanalýza.b.Bezpečnostní funkcionalita kryptografických mechanismů.c.Symetrické a asymetrické kryptografické algoritmy, jejich výhody a nevýhody. Známé standardy a implementace. Hash funkce."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení28 h0 hpříprava na zkoušku42 h82 hpříprava na průběžné hodnocení42 h42 hCelkem140 h140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Písemná zkouška (60 bodů), vypracování a obhajoba seminární práce (40 bodů). Známka: A 90-100, B 83-89, C 75-82, D 68-74, E 60-67 bodů."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumVypracování semestrální práce40 %40 %Absolvování závěrečného testu60 %60 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní: Open Source Systems Security Certification. 2009. Boston, MA. ISBN 9780387773247. http://dx.doi.org/10.1007/978-0-387-77324-7. ČSN EN ISO/IEC 27001 (369797) A Informační technologie - Bezpečnostní techniky - Systémy řízení bezpečnosti informací - Požadavky = Information technology - Security techniques - Information security management systems - Requirements. 2014. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 28 s. ČSN EN ISO/IEC 27002 (369798) A Informační technologie - Bezpečnostní techniky - Soubor postupů pro opatření bezpečnosti informací = Information Technology - Security techniques - Information security management systems - Code of practice for information security controls. 2014. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 76 s. ČSN EN ISO/IEC 27000 (369790) A Informační technologie - Bezpečnostní techniky - Systémy řízení bezpečnosti informací - Přehled a slovník = Information technology - Security techniques - Information security management systems - Overview and vocabulary. 2017. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 36 s. ČSN ISO/IEC 27005 (369790) A Informační technologie - Bezpečnostní techniky - Řízení rizik bezpečnosti informací = Information technology - Security techniques - Information security risk management. 2013. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 64 s. ČSN EN ISO 19011 (01 0330) Směrnice pro auditování systému managementu jakosti a/nebo systému environmentálního managementu. 2003. Praha: Český normalizační ústav, 68 s.ZERDALOGLU, Stratos. 2019. Základy kybernetické bezpečnosti. Brno: Mendelova univerzita, 44 s. ISBN 978-80-7509-648-7.Doporučená:KURTZ, George; MCCLURE, Stuart; SCAMBRAY, Joel. 2012. Hacking Exposed 7: Network Security Secrets & Solutions. New York: The McGraw-Hill Companies Inc., 768 s. ISBN 978-0-07-178029-2."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "Open Source Systems Security Certification. 2009. Boston, MA. ISBN 9780387773247. http://dx.doi.org/10.1007/978-0-387-77324-7. ČSN EN ISO/IEC 27001 (369797) A Informační technologie - Bezpečnostní techniky - Systémy řízení bezpečnosti informací - Požadavky = Information technology - Security techniques - Information security management systems - Requirements. 2014. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 28 s. ČSN EN ISO/IEC 27002 (369798) A Informační technologie - Bezpečnostní techniky - Soubor postupů pro opatření bezpečnosti informací = Information Technology - Security techniques - Information security management systems - Code of practice for information security controls. 2014. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 76 s. ČSN EN ISO/IEC 27000 (369790) A Informační technologie - Bezpečnostní techniky - Systémy řízení bezpečnosti informací - Přehled a slovník = Information technology - Security techniques - Information security management systems - Overview and vocabulary. 2017. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 36 s. ČSN ISO/IEC 27005 (369790) A Informační technologie - Bezpečnostní techniky - Řízení rizik bezpečnosti informací = Information technology - Security techniques - Information security risk management. 2013. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 64 s. ČSN EN ISO 19011 (01 0330) Směrnice pro auditování systému managementu jakosti a/nebo systému environmentálního managementu. 2003. Praha: Český normalizační ústav, 68 s.ZERDALOGLU, Stratos. 2019. Základy kybernetické bezpečnosti. Brno: Mendelova univerzita, 44 s. ISBN 978-80-7509-648-7."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "KURTZ, George; MCCLURE, Stuart; SCAMBRAY, Joel. 2012. Hacking Exposed 7: Network Security Secrets & Solutions. New York: The McGraw-Hill Companies Inc., 768 s. ISBN 978-0-07-178029-2."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-AII Administrace IS/ICT, prezenční forma, počáteční období ZS 2023/2024Program B-AII Administrace IS/ICT, kombinovaná forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-ZKB"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Základy kybernetické bezpečnosti"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Basics of Cybersecurity"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course cannot be studied during abroad internship."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, supervisor, tutor)Ing. Stratos Zerdaloglu (examiner, instructor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "IS / IT security principles (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "IT components, IT object, IT subject. Authorization and authentication."
+    },
+    {
+      "label": "b.",
+      "content": "Terms: asset, vulnerability, threat, risk, attack."
+    },
+    {
+      "label": "c.",
+      "content": "Security features. Security mechanisms."
+    },
+    {
+      "label": "d.",
+      "content": "Types of attacks and their targets."
+    },
+    {
+      "label": "2.",
+      "content": "Methods of securing corporate IS / IT (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Company security policy and security goals."
+    },
+    {
+      "label": "b.",
+      "content": "Risk analysis, emergency plan, safety audit."
+    },
+    {
+      "label": "c.",
+      "content": "Principles of IS / IT security assessment. Overview of standards for IS / IT evaluation."
+    },
+    {
+      "label": "d.",
+      "content": "Standard ISO / IEC 15408 (Common Criteria)."
+    },
+    {
+      "label": "e.",
+      "content": "Impacts of GDPR on IT systems"
+    },
+    {
+      "label": "f.",
+      "content": "Cyber Security Act and its applications"
+    },
+    {
+      "label": "3.",
+      "content": "Social engineering (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "The importance of social engineering in business practice"
+    },
+    {
+      "label": "b.",
+      "content": "Sociotechnical methods (pretxting, phishing, pharming, etc.)"
+    },
+    {
+      "label": "c.",
+      "content": "Defense mechanisms"
+    },
+    {
+      "label": "4.",
+      "content": "Monitoring of IT infrastructure / IT systems (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Monitoring systems"
+    },
+    {
+      "label": "b.",
+      "content": "Incident reporting systems"
+    },
+    {
+      "label": "5.",
+      "content": "Forensic analysis and provision of digital tracks (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Forensic procedures"
+    },
+    {
+      "label": "b.",
+      "content": "Digital track storage"
+    },
+    {
+      "label": "c.",
+      "content": "Log analysis"
+    },
+    {
+      "label": "6.",
+      "content": "Basics of modern cryptography (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Principles of modern cryptography. Encryption and decryption process, encryption key, cryptanalysis."
+    },
+    {
+      "label": "b.",
+      "content": "Security functionality of cryptographic mechanisms."
+    },
+    {
+      "label": "c.",
+      "content": "Symmetric and asymmetric cryptographic algorithms, their advantages and disadvantages. Known standards and implementations. Hash function."
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Základy kybernetické bezpečnosti"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Basics of Cybersecurity"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course cannot be studied during abroad internship."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, supervisor, tutor)Ing. Stratos Zerdaloglu (examiner, instructor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday15.00-18.50Q15S. ZerdalogluSeminarOdd week36Monday15.00-18.50Q15C. KlimešLectureEven week36Saturday14.00-17.50Q15B-AIIC. KlimešLectureOccasionally20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim is to acquire skills in cyber security basics and IT manager skills. This course contains relevant standards (ISO/IEC 15408, ISO/IEC 27001, ISO/IEC 27037), laws (GDPR, ZoKB) and security audit processes."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.IS / IT security principles (allowance 6/6) a.IT components, IT object, IT subject. Authorization and authentication.b.Terms: asset, vulnerability, threat, risk, attack.c.Security features. Security mechanisms.d.Types of attacks and their targets.2.Methods of securing corporate IS / IT (allowance 6/6) a.Company security policy and security goals.b.Risk analysis, emergency plan, safety audit.c.Principles of IS / IT security assessment. Overview of standards for IS / IT evaluation.d.Standard ISO / IEC 15408 (Common Criteria).e.Impacts of GDPR on IT systemsf.Cyber Security Act and its applications3.Social engineering (allowance 4/4) a.The importance of social engineering in business practiceb.Sociotechnical methods (pretxting, phishing, pharming, etc.)c.Defense mechanisms4.Monitoring of IT infrastructure / IT systems (allowance 4/4) a.Monitoring systemsb.Incident reporting systems5.Forensic analysis and provision of digital tracks (allowance 4/4) a.Forensic proceduresb.Digital track storagec.Log analysis6.Basics of modern cryptography (allowance 4/4) a.Principles of modern cryptography. Encryption and decryption process, encryption key, cryptanalysis.b.Security functionality of cryptographic mechanisms.c.Symmetric and asymmetric cryptographic algorithms, their advantages and disadvantages. Known standards and implementations. Hash function."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.IT components, IT object, IT subject. Authorization and authentication.b.Terms: asset, vulnerability, threat, risk, attack.c.Security features. Security mechanisms.d.Types of attacks and their targets."
+    },
+    {
+      "label": "[section] IS / IT security principles",
+      "content": "a.IT components, IT object, IT subject. Authorization and authentication.b.Terms: asset, vulnerability, threat, risk, attack.c.Security features. Security mechanisms.d.Types of attacks and their targets."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Company security policy and security goals.b.Risk analysis, emergency plan, safety audit.c.Principles of IS / IT security assessment. Overview of standards for IS / IT evaluation.d.Standard ISO / IEC 15408 (Common Criteria).e.Impacts of GDPR on IT systemsf.Cyber Security Act and its applications"
+    },
+    {
+      "label": "[section] Methods of securing corporate IS / IT",
+      "content": "a.Company security policy and security goals.b.Risk analysis, emergency plan, safety audit.c.Principles of IS / IT security assessment. Overview of standards for IS / IT evaluation.d.Standard ISO / IEC 15408 (Common Criteria).e.Impacts of GDPR on IT systemsf.Cyber Security Act and its applications"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.The importance of social engineering in business practiceb.Sociotechnical methods (pretxting, phishing, pharming, etc.)c.Defense mechanisms"
+    },
+    {
+      "label": "[section] Social engineering",
+      "content": "a.The importance of social engineering in business practiceb.Sociotechnical methods (pretxting, phishing, pharming, etc.)c.Defense mechanisms"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Monitoring systemsb.Incident reporting systems"
+    },
+    {
+      "label": "[section] Monitoring of IT infrastructure / IT systems",
+      "content": "a.Monitoring systemsb.Incident reporting systems"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Forensic proceduresb.Digital track storagec.Log analysis"
+    },
+    {
+      "label": "[section] Forensic analysis and provision of digital tracks",
+      "content": "a.Forensic proceduresb.Digital track storagec.Log analysis"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Principles of modern cryptography. Encryption and decryption process, encryption key, cryptanalysis.b.Security functionality of cryptographic mechanisms.c.Symmetric and asymmetric cryptographic algorithms, their advantages and disadvantages. Known standards and implementations. Hash function."
+    },
+    {
+      "label": "[section] Basics of modern cryptography",
+      "content": "a.Principles of modern cryptography. Encryption and decryption process, encryption key, cryptanalysis.b.Security functionality of cryptographic mechanisms.c.Symmetric and asymmetric cryptographic algorithms, their advantages and disadvantages. Known standards and implementations. Hash function."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice28 h0 hpreparation for exam42 h82 hpreparation for regular assessment42 h42 hTotal140 h140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Written exam (60 points), preparation and defense of the seminar project for the topic assigned by the teacher (40 points). Evaluation: A 90-100, B 83-89, C 75-82, D 68-74, E 60-67 points."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTerm paper40 %40 %Final test60 %60 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic: Open Source Systems Security Certification. 2009. Boston, MA. ISBN 9780387773247. http://dx.doi.org/10.1007/978-0-387-77324-7. ČSN EN ISO/IEC 27001 (369797) A Informační technologie - Bezpečnostní techniky - Systémy řízení bezpečnosti informací - Požadavky = Information technology - Security techniques - Information security management systems - Requirements. 2014. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 28 p. ČSN EN ISO/IEC 27002 (369798) A Informační technologie - Bezpečnostní techniky - Soubor postupů pro opatření bezpečnosti informací = Information Technology - Security techniques - Information security management systems - Code of practice for information security controls. 2014. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 76 p. ČSN EN ISO/IEC 27000 (369790) A Informační technologie - Bezpečnostní techniky - Systémy řízení bezpečnosti informací - Přehled a slovník = Information technology - Security techniques - Information security management systems - Overview and vocabulary. 2017. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 36 p. ČSN ISO/IEC 27005 (369790) A Informační technologie - Bezpečnostní techniky - Řízení rizik bezpečnosti informací = Information technology - Security techniques - Information security risk management. 2013. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 64 p. ČSN EN ISO 19011 (01 0330) Směrnice pro auditování systému managementu jakosti a/nebo systému environmentálního managementu. 2003. Praha: Český normalizační ústav, 68 p.ZERDALOGLU, Stratos. 2019. Základy kybernetické bezpečnosti. Brno: Mendelova univerzita, 44 p. ISBN 978-80-7509-648-7.Recommended:KURTZ, George; MCCLURE, Stuart; SCAMBRAY, Joel. 2012. Hacking Exposed 7: Network Security Secrets & Solutions. New York: The McGraw-Hill Companies Inc., 768 p. ISBN 978-0-07-178029-2."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "Open Source Systems Security Certification. 2009. Boston, MA. ISBN 9780387773247. http://dx.doi.org/10.1007/978-0-387-77324-7. ČSN EN ISO/IEC 27001 (369797) A Informační technologie - Bezpečnostní techniky - Systémy řízení bezpečnosti informací - Požadavky = Information technology - Security techniques - Information security management systems - Requirements. 2014. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 28 p. ČSN EN ISO/IEC 27002 (369798) A Informační technologie - Bezpečnostní techniky - Soubor postupů pro opatření bezpečnosti informací = Information Technology - Security techniques - Information security management systems - Code of practice for information security controls. 2014. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 76 p. ČSN EN ISO/IEC 27000 (369790) A Informační technologie - Bezpečnostní techniky - Systémy řízení bezpečnosti informací - Přehled a slovník = Information technology - Security techniques - Information security management systems - Overview and vocabulary. 2017. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 36 p. ČSN ISO/IEC 27005 (369790) A Informační technologie - Bezpečnostní techniky - Řízení rizik bezpečnosti informací = Information technology - Security techniques - Information security risk management. 2013. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 64 p. ČSN EN ISO 19011 (01 0330) Směrnice pro auditování systému managementu jakosti a/nebo systému environmentálního managementu. 2003. Praha: Český normalizační ústav, 68 p.ZERDALOGLU, Stratos. 2019. Základy kybernetické bezpečnosti. Brno: Mendelova univerzita, 44 p. ISBN 978-80-7509-648-7."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "KURTZ, George; MCCLURE, Stuart; SCAMBRAY, Joel. 2012. Hacking Exposed 7: Network Security Secrets & Solutions. New York: The McGraw-Hill Companies Inc., 768 p. ISBN 978-0-07-178029-2."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-AII Administration IS/ICT, full-time form, initial period WS 2023/2024Programme B-AII Administration IS/ICT, part-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:47:11",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

@@ -1,0 +1,773 @@
+{
+  "courseCode": "ENC-PO",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENC-PO"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Pojišťovnictví 2"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Insurance 2"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Po domluvě s garantem předmětu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Daniel Pastorek, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav financí a účetnictví (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Luděk Benada, Ph.D. (cvičící, přednášející, zkoušející)Ing. Daniel Pastorek, Ph.D. (cvičící, garant, přednášející, zkoušející)Mgr. Ing. Martin Stachoň, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Model úmrtnosti, komutační čísla a jejich aplikace/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Model úmrtnosti, délka života – distribuční funkce, funkce přežití, intenzita úmrtnosti, úmrtnostní tabulky."
+    },
+    {
+      "label": "b.",
+      "content": "Odvození vzorců pro výpočet jednorázového netto pojistného jako střední hodnoty budoucích nákladů pojišťovny, rovnice ekvivalence – aplikace na modelových příkladech."
+    },
+    {
+      "label": "2.",
+      "content": "Výpočet jednorázového netto pojistného pro případ smrti a pro případ dožití/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Pojistné, princip fiktivního souboru, princip ekvivalence, pojištění pro případ dožití a pojištění pro případ smrti; doživotního, dočasného, odloženého."
+    },
+    {
+      "label": "3.",
+      "content": "Výpočet jednorázového netto pojistného pro smíšené pojištění, důchodové pojištění/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Podstata smíšeného a důchodového pojištění dle forem (předlhůtní, polhůtní, doživotní, dočasná, odložená, rostoucí, klesající pojistná částka, garantované důchody)."
+    },
+    {
+      "label": "b.",
+      "content": "Odvození parciálních vzorců s aplikací na modelových příkladech."
+    },
+    {
+      "label": "4.",
+      "content": "Výpočet běžného netto pojistného, všeobecná rovnice ekvivalence/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Odvození vzorců pro pojistné placené jedenkrát ročně s aplikací na modelových příkladech."
+    },
+    {
+      "label": "5.",
+      "content": "Brutto pojistné u životního pojištění/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Náklady pojišťovny a jejich dopad na cenu pojistného – počáteční náklady, běžné správní náklady, inkasní náklady, výpočet brutto pojistného, rovnice pro výpočet jednorázového a běžného brutto pojistného s aplikací na modelových příkladech."
+    },
+    {
+      "label": "6.",
+      "content": "Technické rezervy v pojištění osob/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Dělení technických rezerv, rezerva pojistného životního pojištění, výpočet netto rezervy, ukládací a riziková část pojistného."
+    },
+    {
+      "label": "7.",
+      "content": "Zillmerova rezerva, pojistně matematické výpočty založené na netto rezervě a brutto rezervě/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Výpočet Zillmerovy rezervy, odkupné, výpočet redukované pojistné částky, změna typu pojištění, dynamizace."
+    },
+    {
+      "label": "8.",
+      "content": "Tarifní skupiny a základní ukazatele, netto pojistné/NEŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "a. Příklady tarifování, statistické ukazatele pojištění, průměrné pojistné plnění, škodní frekvence, škodní stupeň, obecný vzorec netto pojistného, výpočet pojistného – ryzí zájmové pojištění, pojištění na plnou hodnotu, pojištění na první riziko, spoluúčast; podílová, excedentní, integrální."
+    },
+    {
+      "label": "9.",
+      "content": "Bonus-malus systém, Markovská analýza/NEŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní pojmy, markovská analýza, matice pravděpodobnosti přechodu mezi skupinami, stav systému po t letech, stacionární vektor – ustálený stav systému, „hlad po bonusu“."
+    },
+    {
+      "label": "10.",
+      "content": "Behaviorální finance v rámci pojišťovnictví (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "eorie užitku v rámci rozhodování o pojištění, rozhodování za podmínek rizika a nejistoty, aplikace behaviorálních teorií v pojišťovnictví."
+    },
+    {
+      "label": "11.",
+      "content": "Současné trendy v pojišťovnictví (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Principy designu pojištění, strategie pro řešení anomálií souvisejících s pojištěním, inovace na pojistných trzích."
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "10 %"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "40 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "50 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2023/2024 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Pojišťovnictví 2"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Insurance 2"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Po domluvě s garantem předmětu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Daniel Pastorek, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav financí a účetnictví (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Luděk Benada, Ph.D. (cvičící, přednášející, zkoušející)Ing. Daniel Pastorek, Ph.D. (cvičící, garant, přednášející, zkoušející)Mgr. Ing. Martin Stachoň, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek11.00-12.50Q24L. Benada, D. Pastorek, M. StachoňPřednáškaKaždý týden24Čtvrtek15.00-16.50Q24M. Stachoň, L. Benada, D. PastorekCvičeníKaždý týden22"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Student získá a rozvine si znalosti a dovednosti pro aplikaci matematické reprezentace finančních operací v oblasti rizika se zaměřením na pojistný sektor životního a neživotního pojištění. Student se v kurzu obeznámí s teorií a osvojí si praktické dovednosti u výpočtu pojistného. Po úspěšném absolvování předmětu získá student schopnost vysvětlit elementární koncept pojistné matematiky s důrazem na časovou hodnotu kapitálu a pravděpodobnost a schopnost aplikovat vhodné metody a postupy kalkulace vybraných produktů pojištění. Student se připraví na samostatné řešení partikulárních i nestandardních problémů v oblasti pojištění."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Model úmrtnosti, komutační čísla a jejich aplikace/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Model úmrtnosti, délka života – distribuční funkce, funkce přežití, intenzita úmrtnosti, úmrtnostní tabulky.b.Odvození vzorců pro výpočet jednorázového netto pojistného jako střední hodnoty budoucích nákladů pojišťovny, rovnice ekvivalence – aplikace na modelových příkladech.2.Výpočet jednorázového netto pojistného pro případ smrti a pro případ dožití/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Pojistné, princip fiktivního souboru, princip ekvivalence, pojištění pro případ dožití a pojištění pro případ smrti; doživotního, dočasného, odloženého.3.Výpočet jednorázového netto pojistného pro smíšené pojištění, důchodové pojištění/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Podstata smíšeného a důchodového pojištění dle forem (předlhůtní, polhůtní, doživotní, dočasná, odložená, rostoucí, klesající pojistná částka, garantované důchody).b.Odvození parciálních vzorců s aplikací na modelových příkladech.4.Výpočet běžného netto pojistného, všeobecná rovnice ekvivalence/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Odvození vzorců pro pojistné placené jedenkrát ročně s aplikací na modelových příkladech.5.Brutto pojistné u životního pojištění/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Náklady pojišťovny a jejich dopad na cenu pojistného – počáteční náklady, běžné správní náklady, inkasní náklady, výpočet brutto pojistného, rovnice pro výpočet jednorázového a běžného brutto pojistného s aplikací na modelových příkladech.6.Technické rezervy v pojištění osob/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Dělení technických rezerv, rezerva pojistného životního pojištění, výpočet netto rezervy, ukládací a riziková část pojistného.7.Zillmerova rezerva, pojistně matematické výpočty založené na netto rezervě a brutto rezervě/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Výpočet Zillmerovy rezervy, odkupné, výpočet redukované pojistné částky, změna typu pojištění, dynamizace.8.Tarifní skupiny a základní ukazatele, netto pojistné/NEŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.a. Příklady tarifování, statistické ukazatele pojištění, průměrné pojistné plnění, škodní frekvence, škodní stupeň, obecný vzorec netto pojistného, výpočet pojistného – ryzí zájmové pojištění, pojištění na plnou hodnotu, pojištění na první riziko, spoluúčast; podílová, excedentní, integrální.9.Bonus-malus systém, Markovská analýza/NEŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Základní pojmy, markovská analýza, matice pravděpodobnosti přechodu mezi skupinami, stav systému po t letech, stacionární vektor – ustálený stav systému, „hlad po bonusu“.10.Behaviorální finance v rámci pojišťovnictví (dotace 2/2) a.eorie užitku v rámci rozhodování o pojištění, rozhodování za podmínek rizika a nejistoty, aplikace behaviorálních teorií v pojišťovnictví.11.Současné trendy v pojišťovnictví (dotace 2/2) a.Principy designu pojištění, strategie pro řešení anomálií souvisejících s pojištěním, inovace na pojistných trzích."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Model úmrtnosti, délka života – distribuční funkce, funkce přežití, intenzita úmrtnosti, úmrtnostní tabulky.b.Odvození vzorců pro výpočet jednorázového netto pojistného jako střední hodnoty budoucích nákladů pojišťovny, rovnice ekvivalence – aplikace na modelových příkladech."
+    },
+    {
+      "label": "[section] Model úmrtnosti, komutační čísla a jejich aplikace/ŽIVOTNÍ POJIŠTĚNÍ",
+      "content": "a.Model úmrtnosti, délka života – distribuční funkce, funkce přežití, intenzita úmrtnosti, úmrtnostní tabulky.b.Odvození vzorců pro výpočet jednorázového netto pojistného jako střední hodnoty budoucích nákladů pojišťovny, rovnice ekvivalence – aplikace na modelových příkladech."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Pojistné, princip fiktivního souboru, princip ekvivalence, pojištění pro případ dožití a pojištění pro případ smrti; doživotního, dočasného, odloženého."
+    },
+    {
+      "label": "[section] Výpočet jednorázového netto pojistného pro případ smrti a pro případ dožití/ŽIVOTNÍ POJIŠTĚNÍ",
+      "content": "a.Pojistné, princip fiktivního souboru, princip ekvivalence, pojištění pro případ dožití a pojištění pro případ smrti; doživotního, dočasného, odloženého."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Podstata smíšeného a důchodového pojištění dle forem (předlhůtní, polhůtní, doživotní, dočasná, odložená, rostoucí, klesající pojistná částka, garantované důchody).b.Odvození parciálních vzorců s aplikací na modelových příkladech."
+    },
+    {
+      "label": "[section] Výpočet jednorázového netto pojistného pro smíšené pojištění, důchodové pojištění/ŽIVOTNÍ POJIŠTĚNÍ",
+      "content": "a.Podstata smíšeného a důchodového pojištění dle forem (předlhůtní, polhůtní, doživotní, dočasná, odložená, rostoucí, klesající pojistná částka, garantované důchody).b.Odvození parciálních vzorců s aplikací na modelových příkladech."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Odvození vzorců pro pojistné placené jedenkrát ročně s aplikací na modelových příkladech."
+    },
+    {
+      "label": "[section] Výpočet běžného netto pojistného, všeobecná rovnice ekvivalence/ŽIVOTNÍ POJIŠTĚNÍ",
+      "content": "a.Odvození vzorců pro pojistné placené jedenkrát ročně s aplikací na modelových příkladech."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Náklady pojišťovny a jejich dopad na cenu pojistného – počáteční náklady, běžné správní náklady, inkasní náklady, výpočet brutto pojistného, rovnice pro výpočet jednorázového a běžného brutto pojistného s aplikací na modelových příkladech."
+    },
+    {
+      "label": "[section] Brutto pojistné u životního pojištění/ŽIVOTNÍ POJIŠTĚNÍ",
+      "content": "a.Náklady pojišťovny a jejich dopad na cenu pojistného – počáteční náklady, běžné správní náklady, inkasní náklady, výpočet brutto pojistného, rovnice pro výpočet jednorázového a běžného brutto pojistného s aplikací na modelových příkladech."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Dělení technických rezerv, rezerva pojistného životního pojištění, výpočet netto rezervy, ukládací a riziková část pojistného."
+    },
+    {
+      "label": "[section] Technické rezervy v pojištění osob/ŽIVOTNÍ POJIŠTĚNÍ",
+      "content": "a.Dělení technických rezerv, rezerva pojistného životního pojištění, výpočet netto rezervy, ukládací a riziková část pojistného."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Výpočet Zillmerovy rezervy, odkupné, výpočet redukované pojistné částky, změna typu pojištění, dynamizace."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.a. Příklady tarifování, statistické ukazatele pojištění, průměrné pojistné plnění, škodní frekvence, škodní stupeň, obecný vzorec netto pojistného, výpočet pojistného – ryzí zájmové pojištění, pojištění na plnou hodnotu, pojištění na první riziko, spoluúčast; podílová, excedentní, integrální."
+    },
+    {
+      "label": "[section] Tarifní skupiny a základní ukazatele, netto pojistné/NEŽIVOTNÍ POJIŠTĚNÍ",
+      "content": "a.a. Příklady tarifování, statistické ukazatele pojištění, průměrné pojistné plnění, škodní frekvence, škodní stupeň, obecný vzorec netto pojistného, výpočet pojistného – ryzí zájmové pojištění, pojištění na plnou hodnotu, pojištění na první riziko, spoluúčast; podílová, excedentní, integrální."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Základní pojmy, markovská analýza, matice pravděpodobnosti přechodu mezi skupinami, stav systému po t letech, stacionární vektor – ustálený stav systému, „hlad po bonusu“."
+    },
+    {
+      "label": "[section] Bonus-malus systém, Markovská analýza/NEŽIVOTNÍ POJIŠTĚNÍ",
+      "content": "a.Základní pojmy, markovská analýza, matice pravděpodobnosti přechodu mezi skupinami, stav systému po t letech, stacionární vektor – ustálený stav systému, „hlad po bonusu“."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.eorie užitku v rámci rozhodování o pojištění, rozhodování za podmínek rizika a nejistoty, aplikace behaviorálních teorií v pojišťovnictví."
+    },
+    {
+      "label": "[section] Behaviorální finance v rámci pojišťovnictví",
+      "content": "a.eorie užitku v rámci rozhodování o pojištění, rozhodování za podmínek rizika a nejistoty, aplikace behaviorálních teorií v pojišťovnictví."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Principy designu pojištění, strategie pro řešení anomálií souvisejících s pojištěním, inovace na pojistných trzích."
+    },
+    {
+      "label": "[section] Současné trendy v pojišťovnictví",
+      "content": "a.Principy designu pojištění, strategie pro řešení anomálií souvisejících s pojištěním, inovace na pojistných trzích."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hseminář28 hkonzultace15 hpříprava na zkoušku51 hpříprava na průběžný test46 hCelkem168 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "V průběhu semestru budou studenti psát dva kontrolní testy. Konkrétní harmonogram bude upřesněn na začátku semestru. V průměru musí student získat minimálně 60 % úspěšnosti. Pokud student ze závažných důvodů test psát nemůže, bude mu po domluvě s vyučujícím umožněno psát náhradní test. Vyžaduje se aktivní účast na seminářích, povoleny jsou tři absence. Po splnění výše uvedených podmínek je student připuštěn k závěrečné písemné zkoušce. Výsledná známka je součtem získaných bodů za aktivitu na seminářích (10b), průběžný test (40 bodů) a závěrečný test (50 bodů). Dílčí hodnotící škála zahrnuje: A: 100-90, B: 89-83, C: 82-75, D: 74-68, E: 67-60, F: 59 a méně. Jakékoliv podvádění a porušení pravidel u zkoušení povede k výsledku “F” a vyučující zváží návrh na disciplinární řízení."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích10 %Absolvování průběžného testu (testů)40 %Absolvování závěrečného testu50 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:CIPRA, Tomáš. 2006. Finanční a pojistné vzorce. 1. vyd. Praha: Grada, 374 s. Finance. ISBN 80-247-1633-X.ČÁMSKÝ, František. 2005. Pojistná matematika I: distanční studijní opora. 1. vyd. Brno: Masarykova univerzita v Brně, Ekonomicko-správní fakulta, 122 s. ISBN 80-210-3651-6. Life insurance mathematics. 2013. Gerber, Hans U, Springer Science & Business Media. Introduction to insurance mathematics: technical and financial features of risk transfers. 2015. Springer. Insurance and behavioral economics: Improving decisions in the most misunderstood industry. 2013. Cambridge: Cambridge University Press."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "CIPRA, Tomáš. 2006. Finanční a pojistné vzorce. 1. vyd. Praha: Grada, 374 s. Finance. ISBN 80-247-1633-X.ČÁMSKÝ, František. 2005. Pojistná matematika I: distanční studijní opora. 1. vyd. Brno: Masarykova univerzita v Brně, Ekonomicko-správní fakulta, 122 s. ISBN 80-210-3651-6. Life insurance mathematics. 2013. Gerber, Hans U, Springer Science & Business Media. Introduction to insurance mathematics: technical and financial features of risk transfers. 2015. Springer. Insurance and behavioral economics: Improving decisions in the most misunderstood industry. 2013. Cambridge: Cambridge University Press."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Specializace ENIM Investiční management, prezenční forma, počáteční období ZS 2023/2024Specializace ENIM Investiční management, prezenční forma, počáteční období ZS 2024/2025Specializace ENIM Investiční management, prezenční forma, počáteční období LS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENC-PO"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Pojišťovnictví 2"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Insurance 2"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "By previous arrangement with the course supervisor."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Daniel Pastorek, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Finance and Accounting (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Luděk Benada, Ph.D. (examiner, instructor, lecturer)Ing. Daniel Pastorek, Ph.D. (examiner, instructor, lecturer, supervisor)Mgr. Ing. Martin Stachoň, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Mortality model, commutation numbers and their applications / LIFE INSURANCE (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Mortality model, life expectancy - distribution function, survival function, mortality intensity, mortality tables."
+    },
+    {
+      "label": "b.",
+      "content": "Derivation of formulas for the calculation of one-time net premium as the mean value of future costs of the insurance company, equivalence equation - application on model examples."
+    },
+    {
+      "label": "2.",
+      "content": "Calculation of one - off net premium in case of death and in case of survival / LIFE INSURANCE (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Premiums, fictitious set principle, equivalence principle, survival insurance and death insurance; lifetime, temporary, deferred."
+    },
+    {
+      "label": "3.",
+      "content": "Calculation of one - off net premium for mixed insurance, pension insurance / LIFE INSURANCE (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "The essence of mixed and pension insurance according to forms (pre-term, half-term, lifetime, temporary, deferred, increasing, decreasing sum insured, guaranteed pensions)."
+    },
+    {
+      "label": "b.",
+      "content": "Derivation of partial formulas with application on model examples."
+    },
+    {
+      "label": "4.",
+      "content": "Gross premiums for life insurance / LIFE INSURANCE (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Costs of insurance company and their impact on the price of premiums - initial costs, current administrative costs, collection costs, calculation of gross premiums, equations for calculating one-off and current gross premiums with application on model examples."
+    },
+    {
+      "label": "5.",
+      "content": "Calculation of current net premiums, general equation of equivalence / LIFE INSURANCE (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Derivation of formulas for premiums paid once a year with application to model examples."
+    },
+    {
+      "label": "6.",
+      "content": "Technical reserves in personal insurance / LIFE INSURANCE (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Division of technical reserves, life insurance premium reserve, calculation of net reserves, storage and risk part of premiums."
+    },
+    {
+      "label": "7.",
+      "content": "Zillmer's reserve, actuarial calculations based on net reserve and gross reserve / LIFE INSURANCE (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Calculation of Zillmer's reserve, redemption, calculation of reduced sum insured, change of insurance type, dynamization."
+    },
+    {
+      "label": "8.",
+      "content": "Tariff groups and basic indicators, net premiums / NON - LIFE INSURANCE (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Examples of tariffing, statistical indicators of insurance, average insurance indemnity, claims frequency, claims level, general formula of net premiums, calculation of premiums - pure interest insurance, full value insurance, first risk insurance, co - participation; share, excellent, integral."
+    },
+    {
+      "label": "9.",
+      "content": "Bonus-malus system, Markov analysis / NON-LIFE INSURANCE (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic concepts, Markov analysis, matrix of transition probability between groups, state of the system after t years, stationary vector - steady state of the system, \"hunger for bonus\"."
+    },
+    {
+      "label": "10.",
+      "content": "Behavioral finance within the insurance industry (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Theory of utility in insurance decision-making, decision-making under conditions of risk and uncertainty, application of behavioral theories in the insurance industry."
+    },
+    {
+      "label": "11.",
+      "content": "Understanding consumer and insurance behavior (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Insurance demand, descriptive models of insurance supply, supply-side anomalies."
+    },
+    {
+      "label": "12.",
+      "content": "Current trends in the insurance industry (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Principles of insurance design, strategies for dealing with insurance-related anomalies, innovation in insurance markets."
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "10 %"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "40 %"
+    },
+    {
+      "label": "Final test",
+      "content": "50 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2023/2024 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Pojišťovnictví 2"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Insurance 2"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: By previous arrangement with the course supervisor."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Daniel Pastorek, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Finance and Accounting (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Luděk Benada, Ph.D. (examiner, instructor, lecturer)Ing. Daniel Pastorek, Ph.D. (examiner, instructor, lecturer, supervisor)Mgr. Ing. Martin Stachoň, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday11.00-12.50Q24L. Benada, D. Pastorek, M. StachoňLectureEvery week24Thursday15.00-16.50Q24M. Stachoň, L. Benada, D. PastorekSeminarEvery week22"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to acquire and develop the student´s knowledge and skills for the application of mathematical representation of financial operations to the area of ​​risk. The subject of the study is the insurance sector of life and non-life insurance. The course provides the student with theoretical knowledge and helps him to acquire practical skills in the calculation of insurance premiums. Upon successful completion of the course, students will be able to explain the basic concept of actuarial mathematics with emphasis on the time value of capital and probabilities. Students will understand how to apply appropriate methods and procedures for calculating selected insurance products. Further, students are also ready for independent solution of particular and non-standard problems in the field of insurance."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Mortality model, commutation numbers and their applications / LIFE INSURANCE (allowance 2/2) a.Mortality model, life expectancy - distribution function, survival function, mortality intensity, mortality tables.b.Derivation of formulas for the calculation of one-time net premium as the mean value of future costs of the insurance company, equivalence equation - application on model examples.2.Calculation of one - off net premium in case of death and in case of survival / LIFE INSURANCE (allowance 2/2) a.Premiums, fictitious set principle, equivalence principle, survival insurance and death insurance; lifetime, temporary, deferred.3.Calculation of one - off net premium for mixed insurance, pension insurance / LIFE INSURANCE (allowance 2/2) a.The essence of mixed and pension insurance according to forms (pre-term, half-term, lifetime, temporary, deferred, increasing, decreasing sum insured, guaranteed pensions).b.Derivation of partial formulas with application on model examples.4.Gross premiums for life insurance / LIFE INSURANCE (allowance 2/2) a.Costs of insurance company and their impact on the price of premiums - initial costs, current administrative costs, collection costs, calculation of gross premiums, equations for calculating one-off and current gross premiums with application on model examples.5.Calculation of current net premiums, general equation of equivalence / LIFE INSURANCE (allowance 2/2) a.Derivation of formulas for premiums paid once a year with application to model examples.6.Technical reserves in personal insurance / LIFE INSURANCE (allowance 2/2) a.Division of technical reserves, life insurance premium reserve, calculation of net reserves, storage and risk part of premiums.7.Zillmer's reserve, actuarial calculations based on net reserve and gross reserve / LIFE INSURANCE (allowance 2/2) a.Calculation of Zillmer's reserve, redemption, calculation of reduced sum insured, change of insurance type, dynamization.8.Tariff groups and basic indicators, net premiums / NON - LIFE INSURANCE (allowance 2/2) a.Examples of tariffing, statistical indicators of insurance, average insurance indemnity, claims frequency, claims level, general formula of net premiums, calculation of premiums - pure interest insurance, full value insurance, first risk insurance, co - participation; share, excellent, integral.9.Bonus-malus system, Markov analysis / NON-LIFE INSURANCE (allowance 2/2) a.Basic concepts, Markov analysis, matrix of transition probability between groups, state of the system after t years, stationary vector - steady state of the system, \"hunger for bonus\".10.Behavioral finance within the insurance industry (allowance 2/2) a.Theory of utility in insurance decision-making, decision-making under conditions of risk and uncertainty, application of behavioral theories in the insurance industry.11.Understanding consumer and insurance behavior (allowance 2/2) a.Insurance demand, descriptive models of insurance supply, supply-side anomalies.12.Current trends in the insurance industry (allowance 2/2) a.Principles of insurance design, strategies for dealing with insurance-related anomalies, innovation in insurance markets."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Mortality model, life expectancy - distribution function, survival function, mortality intensity, mortality tables.b.Derivation of formulas for the calculation of one-time net premium as the mean value of future costs of the insurance company, equivalence equation - application on model examples."
+    },
+    {
+      "label": "[section] Mortality model, commutation numbers and their applications / LIFE INSURANCE",
+      "content": "a.Mortality model, life expectancy - distribution function, survival function, mortality intensity, mortality tables.b.Derivation of formulas for the calculation of one-time net premium as the mean value of future costs of the insurance company, equivalence equation - application on model examples."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Premiums, fictitious set principle, equivalence principle, survival insurance and death insurance; lifetime, temporary, deferred."
+    },
+    {
+      "label": "[section] Calculation of one - off net premium in case of death and in case of survival / LIFE INSURANCE",
+      "content": "a.Premiums, fictitious set principle, equivalence principle, survival insurance and death insurance; lifetime, temporary, deferred."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.The essence of mixed and pension insurance according to forms (pre-term, half-term, lifetime, temporary, deferred, increasing, decreasing sum insured, guaranteed pensions).b.Derivation of partial formulas with application on model examples."
+    },
+    {
+      "label": "[section] Calculation of one - off net premium for mixed insurance, pension insurance / LIFE INSURANCE",
+      "content": "a.The essence of mixed and pension insurance according to forms (pre-term, half-term, lifetime, temporary, deferred, increasing, decreasing sum insured, guaranteed pensions).b.Derivation of partial formulas with application on model examples."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Costs of insurance company and their impact on the price of premiums - initial costs, current administrative costs, collection costs, calculation of gross premiums, equations for calculating one-off and current gross premiums with application on model examples."
+    },
+    {
+      "label": "[section] Gross premiums for life insurance / LIFE INSURANCE",
+      "content": "a.Costs of insurance company and their impact on the price of premiums - initial costs, current administrative costs, collection costs, calculation of gross premiums, equations for calculating one-off and current gross premiums with application on model examples."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Derivation of formulas for premiums paid once a year with application to model examples."
+    },
+    {
+      "label": "[section] Calculation of current net premiums, general equation of equivalence / LIFE INSURANCE",
+      "content": "a.Derivation of formulas for premiums paid once a year with application to model examples."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Division of technical reserves, life insurance premium reserve, calculation of net reserves, storage and risk part of premiums."
+    },
+    {
+      "label": "[section] Technical reserves in personal insurance / LIFE INSURANCE",
+      "content": "a.Division of technical reserves, life insurance premium reserve, calculation of net reserves, storage and risk part of premiums."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Calculation of Zillmer's reserve, redemption, calculation of reduced sum insured, change of insurance type, dynamization."
+    },
+    {
+      "label": "[section] Zillmer's reserve, actuarial calculations based on net reserve and gross reserve / LIFE INSURANCE",
+      "content": "a.Calculation of Zillmer's reserve, redemption, calculation of reduced sum insured, change of insurance type, dynamization."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Examples of tariffing, statistical indicators of insurance, average insurance indemnity, claims frequency, claims level, general formula of net premiums, calculation of premiums - pure interest insurance, full value insurance, first risk insurance, co - participation; share, excellent, integral."
+    },
+    {
+      "label": "[section] Tariff groups and basic indicators, net premiums / NON - LIFE INSURANCE",
+      "content": "a.Examples of tariffing, statistical indicators of insurance, average insurance indemnity, claims frequency, claims level, general formula of net premiums, calculation of premiums - pure interest insurance, full value insurance, first risk insurance, co - participation; share, excellent, integral."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Basic concepts, Markov analysis, matrix of transition probability between groups, state of the system after t years, stationary vector - steady state of the system, \"hunger for bonus\"."
+    },
+    {
+      "label": "[section] Bonus-malus system, Markov analysis / NON-LIFE INSURANCE",
+      "content": "a.Basic concepts, Markov analysis, matrix of transition probability between groups, state of the system after t years, stationary vector - steady state of the system, \"hunger for bonus\"."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Theory of utility in insurance decision-making, decision-making under conditions of risk and uncertainty, application of behavioral theories in the insurance industry."
+    },
+    {
+      "label": "[section] Behavioral finance within the insurance industry",
+      "content": "a.Theory of utility in insurance decision-making, decision-making under conditions of risk and uncertainty, application of behavioral theories in the insurance industry."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Insurance demand, descriptive models of insurance supply, supply-side anomalies."
+    },
+    {
+      "label": "[section] Understanding consumer and insurance behavior",
+      "content": "a.Insurance demand, descriptive models of insurance supply, supply-side anomalies."
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Principles of insurance design, strategies for dealing with insurance-related anomalies, innovation in insurance markets."
+    },
+    {
+      "label": "[section] Current trends in the insurance industry",
+      "content": "a.Principles of insurance design, strategies for dealing with insurance-related anomalies, innovation in insurance markets."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hseminar28 hconsultation15 hpreparation for exam51 hpreparation for regular testing46 hTotal168 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "There are two compulsory tests during the semester. The specific schedule wil be given at the beginning of the semester. Student must obtain at least 60 % to succeed in average from both tests. In the case that the student cannot participate on the test for serious reasoons, he/she will be allowed to write a substitute test after agreement with the teacher. Active participation in seminars is required. There are allowed only three absences. After fulfilling the above conditions, student is admitted to the final written exam. The final grade is the sum of the all obtained points for activity in seminars (10p.), preliminary test (40p) and the final test(50p). The particular grates are based on following scale: A: 100-90, B: 89-83, C: 82-75, D: 74-68, E: 67-60, F: 59 and less. Any form of cheating and violation of the rules for testing will result in the completion of the exam and valuation of “F”. Further, the teacher will consider a proposal for disciplinary action."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation10 %Mid-term test(s)40 %Final test50 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:CIPRA, Tomáš. 2006. Finanční a pojistné vzorce. 1st ed. Praha: Grada, 374 p. Finance. ISBN 80-247-1633-X.ČÁMSKÝ, František. 2005. Pojistná matematika I: distanční studijní opora. 1st ed. Brno: Masarykova univerzita v Brně, Ekonomicko-správní fakulta, 122 p. ISBN 80-210-3651-6. Life insurance mathematics. 2013. Gerber, Hans U, Springer Science & Business Media. Introduction to insurance mathematics: technical and financial features of risk transfers. 2015. Springer. Insurance and behavioral economics: Improving decisions in the most misunderstood industry. 2013. Cambridge: Cambridge University Press."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "CIPRA, Tomáš. 2006. Finanční a pojistné vzorce. 1st ed. Praha: Grada, 374 p. Finance. ISBN 80-247-1633-X.ČÁMSKÝ, František. 2005. Pojistná matematika I: distanční studijní opora. 1st ed. Brno: Masarykova univerzita v Brně, Ekonomicko-správní fakulta, 122 p. ISBN 80-210-3651-6. Life insurance mathematics. 2013. Gerber, Hans U, Springer Science & Business Media. Introduction to insurance mathematics: technical and financial features of risk transfers. 2015. Springer. Insurance and behavioral economics: Improving decisions in the most misunderstood industry. 2013. Cambridge: Cambridge University Press."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Track ENIM Investment Management, full-time form, initial period WS 2023/2024Track ENIM Investment Management, full-time form, initial period WS 2024/2025Track ENIM Investment Management, full-time form, initial period SS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:59:54",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

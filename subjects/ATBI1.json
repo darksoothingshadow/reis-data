@@ -1,5 +1,16 @@
 {
   "courseCode": "ATBI1",
+  "name": "Ateliér biotechniky I",
+  "nameCs": "Ateliér biotechniky I",
+  "nameEn": "Design Studio I",
+  "predmetId": "159210",
+  "facultyId": 60,
+  "aliases": [
+    "ATB"
+  ],
+  "teachers": [
+    "doc. Ing. Petr Kučera, Ph.D."
+  ],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - ZF",
@@ -8,7 +19,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=794;predmet=159210;lang=cz",
       "totalPass": 30,
-      "totalFail": 6,
+      "totalFail": 5,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -18,11 +29,11 @@
             "C": 8,
             "D": 3,
             "E": 0,
-            "F": 6,
+            "F": 5,
             "FN": 0
           },
           "pass": 30,
-          "fail": 6
+          "fail": 5
         },
         {
           "term": "Řádný termín",
@@ -32,11 +43,11 @@
             "C": 8,
             "D": 3,
             "E": 0,
-            "F": 6,
+            "F": 5,
             "FN": 0
           },
           "pass": 30,
-          "fail": 6
+          "fail": 5
         }
       ]
     },
@@ -211,5 +222,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-03-07T08:18:26.865Z"
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
 }

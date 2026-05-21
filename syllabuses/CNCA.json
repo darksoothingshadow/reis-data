@@ -1,0 +1,761 @@
+{
+  "courseCode": "CNCA",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "CNCA"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "CNC technika a automatizace"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "CNC Technology and Automation"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2/2 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0/0 (h/h/dny v semestru) (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Studium předmětu je možné během zahraniční mobility po individuální domluvě s garantem předmětu"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Luďka Hanincová, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Luďka Hanincová, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Vít Novák, Ph.D. (cvičící, přednášející, zkoušející)Ing. Jiří Procházka (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Fyzika a ne Státní bakalářská zkouška a ne CNC technika"
+    },
+    {
+      "label": "1.",
+      "content": "Elektrické napětí, elektrický proud, ohmův zákon, základní obvodové prvky (R,L,C), výkon a příkon, ochrana před úrazem a požárem (dotace 2/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Základní pojmy (ovládání, řízení), automatizovaný řetězec (komponenty a vazby), rozdělení průmyslových komponent (elektrické, pneumatické, tepelné) (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní elektrické komponenty pro automatizaci (relé, stykač, motory), základy kreslení schémat"
+    },
+    {
+      "label": "3.",
+      "content": "Měření (parametry, vlastnosti), senzory (typy, principy, vlastnosti, použití, připojení) (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Praktické cvičení, přípravky"
+    },
+    {
+      "label": "4.",
+      "content": "Mechanické systémy (páka, kloubové, zarážky, dorazy, kyvné), roboty (dotace 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Pneumatické systémy (válec, ventil, kompresor, dmychadlo, logika), hydraulika (dotace 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Komunikace (přenos, hardware, relace, zástupci) (dotace 2/2)"
+    },
+    {
+      "label": "7.",
+      "content": "Logické systémy, PLC workshop (dotace 2/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Řídící systémy. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Struktura, části, jejich účel a funkce."
+    },
+    {
+      "label": "9.",
+      "content": "Úvod do CNC obrábění (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Vývojové stupně"
+    },
+    {
+      "label": "b.",
+      "content": "Rozdělení CNC strojů dle různých hledisek"
+    },
+    {
+      "label": "10.",
+      "content": "Souřadnicové systémy CNC strojů (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Pracovní prostor stroje"
+    },
+    {
+      "label": "b.",
+      "content": "Nulové body"
+    },
+    {
+      "label": "11.",
+      "content": "Polohování nástrojů a obrobku, úlohy servopohonů u CNC strojů (dotace 2/2)"
+    },
+    {
+      "label": "12.",
+      "content": "Konstrukce CNC strojů (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Rámy, obráběcí hlavy, výměna nástrojů, pracovní stoly"
+    },
+    {
+      "label": "b.",
+      "content": "Pohonné a převodové jednotky"
+    },
+    {
+      "label": "c.",
+      "content": "Lineární posuvové soustavy, odměřovací zařízení"
+    },
+    {
+      "label": "13.",
+      "content": "Základy programování CNC strojů (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "ISO kód"
+    },
+    {
+      "label": "b.",
+      "content": "Dílenské programování"
+    },
+    {
+      "label": "c.",
+      "content": "Systémy CAD/CAM"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: CNC technika a automatizace"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: CNC Technology and Automation"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2/2 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0/0 (h/h/dny v semestru) (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2/2 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0/0 (h/h/dny v semestru) (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Studium předmětu je možné během zahraniční mobility po individuální domluvě s garantem předmětu"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Luďka Hanincová, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Luďka Hanincová, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Vít Novák, Ph.D. (cvičící, přednášející, zkoušející)Ing. Jiří Procházka (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Fyzika a ne Státní bakalářská zkouška a ne CNC technika"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkVyučujícíAkceČetnostKapacitaPoznámkaPondělí12.00-14.50T28B-TMZD3J. Procházka, L. HanincováPřednáškaNepravidelně16 Pátek10.00-10.50B21J. Procházka, L. Hanincová, V. NovákPřednáškaKaždý týden72spol. s COCPátek11.00-12.50T28J. Procházka, L. Hanincová, V. NovákCvičeníKaždý týden23 Pátek13.00-14.50T28J. Procházka, L. Hanincová, V. NovákCvičeníKaždý týden23"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Seznámit studenty s principy činnosti, možnostmi i omezeními automatizační techniky obecně i v jednotlivých typech dřevařských výrob. Důraz je kladen na schopnost partnersky komunikovat s výrobci a dodavateli automatizovaných systémů a posoudit vhodnost uplatnění daných systémů v daných podmínkách."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Elektrické napětí, elektrický proud, ohmův zákon, základní obvodové prvky (R,L,C), výkon a příkon, ochrana před úrazem a požárem (dotace 2/2)2.Základní pojmy (ovládání, řízení), automatizovaný řetězec (komponenty a vazby), rozdělení průmyslových komponent (elektrické, pneumatické, tepelné) (dotace 2/2) a.Základní elektrické komponenty pro automatizaci (relé, stykač, motory), základy kreslení schémat3.Měření (parametry, vlastnosti), senzory (typy, principy, vlastnosti, použití, připojení) (dotace 2/2) a.Praktické cvičení, přípravky4.Mechanické systémy (páka, kloubové, zarážky, dorazy, kyvné), roboty (dotace 2/2) a.Praktické cvičení, přípravky5.Pneumatické systémy (válec, ventil, kompresor, dmychadlo, logika), hydraulika (dotace 2/2) a.Praktické cvičení, přípravky6.Komunikace (přenos, hardware, relace, zástupci) (dotace 2/2) a.Praktické cvičení, přípravky7.Logické systémy, PLC workshop (dotace 2/2) a.Praktické cvičení, přípravky8.Řídící systémy. (dotace 2/2) a.Struktura, části, jejich účel a funkce.9.Úvod do CNC obrábění (dotace 2/2) a.Vývojové stupněb.Rozdělení CNC strojů dle různých hledisek10.Souřadnicové systémy CNC strojů (dotace 2/2) a.Pracovní prostor strojeb.Nulové body11.Polohování nástrojů a obrobku, úlohy servopohonů u CNC strojů (dotace 2/2)12.Konstrukce CNC strojů (dotace 2/2) a.Rámy, obráběcí hlavy, výměna nástrojů, pracovní stolyb.Pohonné a převodové jednotkyc.Lineární posuvové soustavy, odměřovací zařízení13.Základy programování CNC strojů (dotace 2/2) a.ISO kódb.Dílenské programováníc.Systémy CAD/CAM"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Základní pojmy (ovládání, řízení), automatizovaný řetězec (komponenty a vazby), rozdělení průmyslových komponent (elektrické, pneumatické, tepelné) (dotace 2/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Základní elektrické komponenty pro automatizaci (relé, stykač, motory), základy kreslení schémat"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Praktické cvičení, přípravky"
+    },
+    {
+      "label": "[section] Měření (parametry, vlastnosti), senzory (typy, principy, vlastnosti, použití, připojení)",
+      "content": "a.Praktické cvičení, přípravky"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Praktické cvičení, přípravky"
+    },
+    {
+      "label": "[section] Mechanické systémy (páka, kloubové, zarážky, dorazy, kyvné), roboty",
+      "content": "a.Praktické cvičení, přípravky"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Praktické cvičení, přípravky"
+    },
+    {
+      "label": "[section] Pneumatické systémy (válec, ventil, kompresor, dmychadlo, logika), hydraulika",
+      "content": "a.Praktické cvičení, přípravky"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Praktické cvičení, přípravky"
+    },
+    {
+      "label": "[section] Komunikace (přenos, hardware, relace, zástupci)",
+      "content": "a.Praktické cvičení, přípravky"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Praktické cvičení, přípravky"
+    },
+    {
+      "label": "[section] Logické systémy, PLC workshop",
+      "content": "a.Praktické cvičení, přípravky"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Struktura, části, jejich účel a funkce."
+    },
+    {
+      "label": "[section] Řídící systémy.",
+      "content": "a.Struktura, části, jejich účel a funkce."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Vývojové stupněb.Rozdělení CNC strojů dle různých hledisek"
+    },
+    {
+      "label": "[section] Úvod do CNC obrábění",
+      "content": "a.Vývojové stupněb.Rozdělení CNC strojů dle různých hledisek"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Pracovní prostor strojeb.Nulové body"
+    },
+    {
+      "label": "[section] Souřadnicové systémy CNC strojů",
+      "content": "a.Pracovní prostor strojeb.Nulové body"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Konstrukce CNC strojů (dotace 2/2)"
+    },
+    {
+      "label": "[section] Polohování nástrojů a obrobku, úlohy servopohonů u CNC strojů",
+      "content": "12.Konstrukce CNC strojů (dotace 2/2)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Rámy, obráběcí hlavy, výměna nástrojů, pracovní stolyb.Pohonné a převodové jednotkyc.Lineární posuvové soustavy, odměřovací zařízení"
+    },
+    {
+      "label": "[section] Konstrukce CNC strojů",
+      "content": "a.Rámy, obráběcí hlavy, výměna nástrojů, pracovní stolyb.Pohonné a převodové jednotkyc.Lineární posuvové soustavy, odměřovací zařízení"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.ISO kódb.Dílenské programováníc.Systémy CAD/CAM"
+    },
+    {
+      "label": "[section] Základy programování CNC strojů",
+      "content": "a.ISO kódb.Dílenské programováníc.Systémy CAD/CAM"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h0 hcvičení28 h0 hprojektová práce8 h0 hpříprava na zkoušku18 h0 hpříprava na průběžné hodnocení8 h0 hpříprava na průběžný test8 h0 hzpracování protokolů4 h0 hzpracování projektů4 h0 hCelkem106 h0 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "účast na praktických cvičení, 2 znalostní testy z přednášené látky, písemná zkouška"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumCelkem0 %0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:JANÁK, Karel. 2003. Automatizace pro dřevařské inženýrství. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita, 296 s. ISBN 80-7157-710-3.BALDA, M.; BOŠEK, B. Základy automatizace..BALÁTĚ, Jaroslav. 2004. Automatické řízení. 2. vyd. Praha: BEN - technická literatura, 663 s. ISBN 80-7300-148-9.NAŠČÁK, Ľubomír; KOLEDA, P. 2014. Riadiace systémy strojov a zariadení. Zvolen: Technická univerzita Zvolen, ISBN 978-80-228-2667-9.BENEŠ, Pavel; MAIXNER, Ladislav; LACKO, Branislav. 2014. Automatizace a automatizační technika. Brno: Computer Press, 224 s. ISBN 978-80-251-3628-7.MAIXNER, Ladislav a kol. 2006. Mechatronika: učebnice. 1. vyd. Brno: Computer Press, 280 s. Učebnice. ISBN 80-251-1299-3."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "JANÁK, Karel. 2003. Automatizace pro dřevařské inženýrství. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita, 296 s. ISBN 80-7157-710-3.BALDA, M.; BOŠEK, B. Základy automatizace..BALÁTĚ, Jaroslav. 2004. Automatické řízení. 2. vyd. Praha: BEN - technická literatura, 663 s. ISBN 80-7300-148-9.NAŠČÁK, Ľubomír; KOLEDA, P. 2014. Riadiace systémy strojov a zariadení. Zvolen: Technická univerzita Zvolen, ISBN 978-80-228-2667-9.BENEŠ, Pavel; MAIXNER, Ladislav; LACKO, Branislav. 2014. Automatizace a automatizační technika. Brno: Computer Press, 224 s. ISBN 978-80-251-3628-7.MAIXNER, Ladislav a kol. 2006. Mechatronika: učebnice. 1. vyd. Brno: Computer Press, 280 s. Učebnice. ISBN 80-251-1299-3."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-TMZD Technologie a management zpracování dřeva, prezenční forma, počáteční období ZS 2023/2024Program B-TMZD Technologie a management zpracování dřeva, kombinovaná forma, počáteční období ZS 2023/2024Specializace B-TVN-VYR Výroba nábytku, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "CNCA"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "CNC technika a automatizace"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "CNC Technology and Automation"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2/2 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)part-time, 18/0/0 (h/h/days in semester) (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The study of the subject is possible during foreign mobility after individualagreement with the subject guarantor"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Luďka Hanincová, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Luďka Hanincová, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Vít Novák, Ph.D. (examiner, instructor, lecturer)Ing. Jiří Procházka (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Physics and not State Bachelor Examination and not CNC Technology"
+    },
+    {
+      "label": "1.",
+      "content": "Control systems - basic terms and definitions, connections, properties (allowance 2/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Sensors of quantities, their characteristics, properties, use. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Measurement - methods and goals. Indication and registration devices - types of principles of operation, properties"
+    },
+    {
+      "label": "3.",
+      "content": "Regulation - members, systems, their properties, characteristics. Types of members. Continuous, discontinuous regulators. (allowance 2/2)"
+    },
+    {
+      "label": "4.",
+      "content": "The course of the regulatory process (allowance 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Logic control - logic system, logic circuits, their types and properties. (allowance 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Mechanical systems - stops, cams, copying. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Hydraulic and pneumatic control systems continuous and logic, control elements and circuits."
+    },
+    {
+      "label": "7.",
+      "content": "Continuous and logical electrical systems. Transmission, signal processing. Interference. (allowance 2/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Control systems. Structure, parts, their purpose and function. (allowance 2/2)"
+    },
+    {
+      "label": "9.",
+      "content": "Coordinate systems of CNC machines (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Machine workspace"
+    },
+    {
+      "label": "b.",
+      "content": "Zero points"
+    },
+    {
+      "label": "10.",
+      "content": "Positioning of tools and workpiece, tasks of servo drives for CNC machines (allowance 2/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Construction of CNC machine (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Frames, machining heads, tool change, workbenches"
+    },
+    {
+      "label": "b.",
+      "content": "Drive and transmission units"
+    },
+    {
+      "label": "c.",
+      "content": "Linear displacement systems, measuring devices"
+    },
+    {
+      "label": "12.",
+      "content": "Basics of CNC machine programming (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "ISO code"
+    },
+    {
+      "label": "b.",
+      "content": "WOP - workshop oriented programming"
+    },
+    {
+      "label": "c.",
+      "content": "CAD/CAM systems"
+    },
+    {
+      "label": "13.",
+      "content": "Introduction to CNC machining (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Developmental stages"
+    },
+    {
+      "label": "b.",
+      "content": "Division of CNC machines according to various aspects"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: CNC technika a automatizace"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: CNC Technology and Automation"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2/2 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)part-time, 18/0/0 (h/h/days in semester) (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2/2 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)part-time, 18/0/0 (h/h/days in semester) (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The study of the subject is possible during foreign mobility after individualagreement with the subject guarantor"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Luďka Hanincová, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Luďka Hanincová, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Vít Novák, Ph.D. (examiner, instructor, lecturer)Ing. Jiří Procházka (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Physics and not State Bachelor Examination and not CNC Technology"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyTeacherEntryFrequencyCapacityNoteMonday12.00-14.50T28B-TMZD3J. Procházka, L. HanincováLectureOccasionally16 Friday10.00-10.50B21J. Procházka, L. Hanincová, V. NovákLectureEvery week72spol. s COCFriday11.00-12.50T28J. Procházka, L. Hanincová, V. NovákSeminarEvery week23 Friday13.00-14.50T28J. Procházka, L. Hanincová, V. NovákSeminarEvery week23"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Aim of the course is to acquaint students with the principles of operation, possibilities and limitations of automation technology in general and in various types of wood production. Emphasis is placed on the ability to communicate in partnership with manufacturers and suppliers of automated systems and assess the suitability of the application of the systems in the given conditions."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Control systems - basic terms and definitions, connections, properties (allowance 2/2)2.Sensors of quantities, their characteristics, properties, use. (allowance 2/2) a.Measurement - methods and goals. Indication and registration devices - types of principles of operation, properties3.Regulation - members, systems, their properties, characteristics. Types of members. Continuous, discontinuous regulators. (allowance 2/2)4.The course of the regulatory process (allowance 2/2)5.Logic control - logic system, logic circuits, their types and properties. (allowance 2/2)6.Mechanical systems - stops, cams, copying. (allowance 2/2) a.Hydraulic and pneumatic control systems continuous and logic, control elements and circuits.7.Continuous and logical electrical systems. Transmission, signal processing. Interference. (allowance 2/2)8.Control systems. Structure, parts, their purpose and function. (allowance 2/2)9.Coordinate systems of CNC machines (allowance 2/2) a.Machine workspaceb.Zero points10.Positioning of tools and workpiece, tasks of servo drives for CNC machines (allowance 2/2)11.Construction of CNC machine (allowance 2/2) a.Frames, machining heads, tool change, workbenchesb.Drive and transmission unitsc.Linear displacement systems, measuring devices12.Basics of CNC machine programming (allowance 2/2) a.ISO codeb.WOP - workshop oriented programmingc.CAD/CAM systems13.Introduction to CNC machining (allowance 2/2) a.Developmental stagesb.Division of CNC machines according to various aspects"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Sensors of quantities, their characteristics, properties, use. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Control systems - basic terms and definitions, connections, properties",
+      "content": "2.Sensors of quantities, their characteristics, properties, use. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Measurement - methods and goals. Indication and registration devices - types of principles of operation, properties"
+    },
+    {
+      "label": "[section] Sensors of quantities, their characteristics, properties, use.",
+      "content": "a.Measurement - methods and goals. Indication and registration devices - types of principles of operation, properties"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.The course of the regulatory process (allowance 2/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Logic control - logic system, logic circuits, their types and properties. (allowance 2/2)"
+    },
+    {
+      "label": "[section] The course of the regulatory process",
+      "content": "5.Logic control - logic system, logic circuits, their types and properties. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Mechanical systems - stops, cams, copying. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Logic control - logic system, logic circuits, their types and properties.",
+      "content": "6.Mechanical systems - stops, cams, copying. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Hydraulic and pneumatic control systems continuous and logic, control elements and circuits."
+    },
+    {
+      "label": "[section] Mechanical systems - stops, cams, copying.",
+      "content": "a.Hydraulic and pneumatic control systems continuous and logic, control elements and circuits."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Control systems. Structure, parts, their purpose and function. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Continuous and logical electrical systems. Transmission, signal processing. Interference.",
+      "content": "8.Control systems. Structure, parts, their purpose and function. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Coordinate systems of CNC machines (allowance 2/2)"
+    },
+    {
+      "label": "[section] Control systems. Structure, parts, their purpose and function.",
+      "content": "9.Coordinate systems of CNC machines (allowance 2/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Machine workspaceb.Zero points"
+    },
+    {
+      "label": "[section] Coordinate systems of CNC machines",
+      "content": "a.Machine workspaceb.Zero points"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Construction of CNC machine (allowance 2/2)"
+    },
+    {
+      "label": "[section] Positioning of tools and workpiece, tasks of servo drives for CNC machines",
+      "content": "11.Construction of CNC machine (allowance 2/2)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Frames, machining heads, tool change, workbenchesb.Drive and transmission unitsc.Linear displacement systems, measuring devices"
+    },
+    {
+      "label": "[section] Construction of CNC machine",
+      "content": "a.Frames, machining heads, tool change, workbenchesb.Drive and transmission unitsc.Linear displacement systems, measuring devices"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.ISO codeb.WOP - workshop oriented programmingc.CAD/CAM systems"
+    },
+    {
+      "label": "[section] Basics of CNC machine programming",
+      "content": "a.ISO codeb.WOP - workshop oriented programmingc.CAD/CAM systems"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Developmental stagesb.Division of CNC machines according to various aspects"
+    },
+    {
+      "label": "[section] Introduction to CNC machining",
+      "content": "a.Developmental stagesb.Division of CNC machines according to various aspects"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h0 hpractice28 h0 hproject work8 h0 hpreparation for exam18 h0 hpreparation for regular assessment8 h0 hpreparation for regular testing8 h0 helaboration of reports4 h0 helaboration and execution of projects4 h0 hTotal106 h0 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "exercise attendance, 2 knowledge tests of the lecture topics, written exam"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTotal0 %0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:JANÁK, Karel. 2003. Automatizace pro dřevařské inženýrství. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita, 296 p. ISBN 80-7157-710-3.BALDA, M.; BOŠEK, B. Základy automatizace..BALÁTĚ, Jaroslav. 2004. Automatické řízení. 2nd ed. Praha: BEN - technická literatura, 663 p. ISBN 80-7300-148-9.NAŠČÁK, Ľubomír; KOLEDA, P. 2014. Riadiace systémy strojov a zariadení. Zvolen: Technická univerzita Zvolen, ISBN 978-80-228-2667-9.BENEŠ, Pavel; MAIXNER, Ladislav; LACKO, Branislav. 2014. Automatizace a automatizační technika. Brno: Computer Press, 224 p. ISBN 978-80-251-3628-7.MAIXNER, Ladislav et al. 2006. Mechatronika: učebnice. 1st ed. Brno: Computer Press, 280 p. Učebnice. ISBN 80-251-1299-3."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "JANÁK, Karel. 2003. Automatizace pro dřevařské inženýrství. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita, 296 p. ISBN 80-7157-710-3.BALDA, M.; BOŠEK, B. Základy automatizace..BALÁTĚ, Jaroslav. 2004. Automatické řízení. 2nd ed. Praha: BEN - technická literatura, 663 p. ISBN 80-7300-148-9.NAŠČÁK, Ľubomír; KOLEDA, P. 2014. Riadiace systémy strojov a zariadení. Zvolen: Technická univerzita Zvolen, ISBN 978-80-228-2667-9.BENEŠ, Pavel; MAIXNER, Ladislav; LACKO, Branislav. 2014. Automatizace a automatizační technika. Brno: Computer Press, 224 p. ISBN 978-80-251-3628-7.MAIXNER, Ladislav et al. 2006. Mechatronika: učebnice. 1st ed. Brno: Computer Press, 280 p. Učebnice. ISBN 80-251-1299-3."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-TMZD Technology and Management in Wood Processing, full-time form, initial period WS 2023/2024Programme B-TMZD Technology and Management in Wood Processing, part-time form, initial period WS 2023/2024Track B-TVN-FPD Furniture Production, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:26:57",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

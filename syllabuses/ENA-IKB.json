@@ -1,0 +1,661 @@
+{
+  "courseCode": "ENA-IKB",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENA-IKB"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Implementace kybernetické bezpečnosti v AJ"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Implementation of Cyber Security"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "angličtina"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. RNDr. Tomáš Pitner, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jiří Balej, Ph.D. (cvičící, přednášející, tutor, zkoušející)prof. Ing. Cyril Klimeš, CSc. (cvičící, přednášející, tutor, zkoušející)prof. RNDr. Tomáš Pitner, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Systému řízení bezpečnosti informací. Řízení aktiv. (dotace 1/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Řízení rizik. Organizační bezpečnost. (dotace 1/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Bezpečnostní role. Řízení dodavatelů. (dotace 1/2)"
+    },
+    {
+      "label": "4.",
+      "content": "Bezpečnost lidských zdrojů. Řízení provozu a komunikací. (dotace 1/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Řízení změn. Řízení přístupu. (dotace 1/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Akvizice, vývoj a údržba. Zvládání kybernetických bezpečnostních událostí a incidentů. (dotace 1/2)"
+    },
+    {
+      "label": "7.",
+      "content": "Řízení kontinuity činností. Audit kybernetické bezpečnosti. (dotace 1/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Implementace nástrojů pro ochranu komunikačních sítí. Implementace nástrojů pro ověřování identity uživatelů. (dotace 1/2)"
+    },
+    {
+      "label": "9.",
+      "content": "Implementace nástrojů pro řízení přístupových oprávnění. Implementace nástrojů pro ochranu před škodlivým kódem. (dotace 1/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Implementace nástrojů pro zaznamenávání událostí informačního a komunikačního systému. Implementace nástrojů pro detekci bezpečnostních událostí. (dotace 1/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Implementace nástrojů pro sběr a vyhodnocování kybernetických bezpečnostních událostí. Implementace nástrojů aplikační bezpečnosti. (dotace 1/2)"
+    },
+    {
+      "label": "12.",
+      "content": "Implementace kryptografických prostředků. Implementace nástrojů pro zajištění úrovně dostupnosti informací. (dotace 1/2)"
+    },
+    {
+      "label": "13.",
+      "content": "Implementace nástrojů průmyslových a řídících systémů. Implementace digitálních služeb. (dotace 1/2)"
+    },
+    {
+      "label": "14.",
+      "content": "Realizace penetračního testování. Realizace forenzních analýz. (dotace 1/2)"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "40 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "60 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, LS 2024/2025 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Implementace kybernetické bezpečnosti v AJ"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Implementation of Cyber Security"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: angličtina"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. RNDr. Tomáš Pitner, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jiří Balej, Ph.D. (cvičící, přednášející, tutor, zkoušející)prof. Ing. Cyril Klimeš, CSc. (cvičící, přednášející, tutor, zkoušející)prof. RNDr. Tomáš Pitner, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí13.00-14.50Q16N-OIN-OIAT. PitnerPřednáškaLichý týden25Středa16.00-17.50Q01.48N-OIN-OIAJ. BalejCvičeníKaždý týden25"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět poskytuje komplexní orientaci v oblasti implementace opatření kybernetické bezpečnosti do IS a ICT."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Systému řízení bezpečnosti informací. Řízení aktiv. (dotace 1/2)2.Řízení rizik. Organizační bezpečnost. (dotace 1/2)3.Bezpečnostní role. Řízení dodavatelů. (dotace 1/2)4.Bezpečnost lidských zdrojů. Řízení provozu a komunikací. (dotace 1/2)5.Řízení změn. Řízení přístupu. (dotace 1/2)6.Akvizice, vývoj a údržba. Zvládání kybernetických bezpečnostních událostí a incidentů. (dotace 1/2)7.Řízení kontinuity činností. Audit kybernetické bezpečnosti. (dotace 1/2)8.Implementace nástrojů pro ochranu komunikačních sítí. Implementace nástrojů pro ověřování identity uživatelů. (dotace 1/2)9.Implementace nástrojů pro řízení přístupových oprávnění. Implementace nástrojů pro ochranu před škodlivým kódem. (dotace 1/2)10.Implementace nástrojů pro zaznamenávání událostí informačního a komunikačního systému. Implementace nástrojů pro detekci bezpečnostních událostí. (dotace 1/2)11.Implementace nástrojů pro sběr a vyhodnocování kybernetických bezpečnostních událostí. Implementace nástrojů aplikační bezpečnosti. (dotace 1/2)12.Implementace kryptografických prostředků. Implementace nástrojů pro zajištění úrovně dostupnosti informací. (dotace 1/2)13.Implementace nástrojů průmyslových a řídících systémů. Implementace digitálních služeb. (dotace 1/2)14.Realizace penetračního testování. Realizace forenzních analýz. (dotace 1/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Řízení rizik. Organizační bezpečnost. (dotace 1/2)"
+    },
+    {
+      "label": "[section] Systému řízení bezpečnosti informací. Řízení aktiv.",
+      "content": "2.Řízení rizik. Organizační bezpečnost. (dotace 1/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Bezpečnostní role. Řízení dodavatelů. (dotace 1/2)"
+    },
+    {
+      "label": "[section] Řízení rizik. Organizační bezpečnost.",
+      "content": "3.Bezpečnostní role. Řízení dodavatelů. (dotace 1/2)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Bezpečnost lidských zdrojů. Řízení provozu a komunikací. (dotace 1/2)"
+    },
+    {
+      "label": "[section] Bezpečnostní role. Řízení dodavatelů.",
+      "content": "4.Bezpečnost lidských zdrojů. Řízení provozu a komunikací. (dotace 1/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Řízení změn. Řízení přístupu. (dotace 1/2)"
+    },
+    {
+      "label": "[section] Bezpečnost lidských zdrojů. Řízení provozu a komunikací.",
+      "content": "5.Řízení změn. Řízení přístupu. (dotace 1/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Akvizice, vývoj a údržba. Zvládání kybernetických bezpečnostních událostí a incidentů. (dotace 1/2)"
+    },
+    {
+      "label": "[section] Řízení změn. Řízení přístupu.",
+      "content": "6.Akvizice, vývoj a údržba. Zvládání kybernetických bezpečnostních událostí a incidentů. (dotace 1/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Řízení kontinuity činností. Audit kybernetické bezpečnosti. (dotace 1/2)"
+    },
+    {
+      "label": "[section] Akvizice, vývoj a údržba. Zvládání kybernetických bezpečnostních událostí a incidentů.",
+      "content": "7.Řízení kontinuity činností. Audit kybernetické bezpečnosti. (dotace 1/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Implementace nástrojů pro ochranu komunikačních sítí. Implementace nástrojů pro ověřování identity uživatelů. (dotace 1/2)"
+    },
+    {
+      "label": "[section] Řízení kontinuity činností. Audit kybernetické bezpečnosti.",
+      "content": "8.Implementace nástrojů pro ochranu komunikačních sítí. Implementace nástrojů pro ověřování identity uživatelů. (dotace 1/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Implementace nástrojů pro řízení přístupových oprávnění. Implementace nástrojů pro ochranu před škodlivým kódem. (dotace 1/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Implementace nástrojů pro zaznamenávání událostí informačního a komunikačního systému. Implementace nástrojů pro detekci bezpečnostních událostí. (dotace 1/2)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Implementace nástrojů pro sběr a vyhodnocování kybernetických bezpečnostních událostí. Implementace nástrojů aplikační bezpečnosti. (dotace 1/2)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Implementace kryptografických prostředků. Implementace nástrojů pro zajištění úrovně dostupnosti informací. (dotace 1/2)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Implementace nástrojů průmyslových a řídících systémů. Implementace digitálních služeb. (dotace 1/2)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "14.Realizace penetračního testování. Realizace forenzních analýz. (dotace 1/2)"
+    },
+    {
+      "label": "[section] Implementace nástrojů průmyslových a řídících systémů. Implementace digitálních služeb.",
+      "content": "14.Realizace penetračního testování. Realizace forenzních analýz. (dotace 1/2)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení28 hpříprava na zkoušku35 hzpracování projektů35 hCelkem112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Písemná zkouška (60 bodů), vypracování a obhajoba seminární práce (40 bodů). Známka: A 90-100, B 83-89, C 75-82, D 68-74, E 60-67 bodů."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumVypracování semestrální práce40 %Absolvování závěrečného testu60 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:DIOGENES, Yuri; OZKAYA, Erdal. 2018. Cybersecurity - Attack and Defense Strategies: infrastructure security with Red Team and Blue Team tactics. 1. vyd. Packt publishing, 384 s. ISBN 978-1-78-84-7529-7. https://www.packtpub.com/free-ebook/cybersecurity-attack-and-defense-strategies/9781788475297KOHNKE, Anne; SIGLER, Ken; SHOEMAKER, Dan. 2017. Moje knihovna Moje historie Implementing Cybersecurity: A Guide to the National Institute of Standards and Technology Risk Management Framework. Boca Raton: Taylor, 309 s. ISBN 978-1-4987-8514-3."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "DIOGENES, Yuri; OZKAYA, Erdal. 2018. Cybersecurity - Attack and Defense Strategies: infrastructure security with Red Team and Blue Team tactics. 1. vyd. Packt publishing, 384 s. ISBN 978-1-78-84-7529-7. https://www.packtpub.com/free-ebook/cybersecurity-attack-and-defense-strategies/9781788475297KOHNKE, Anne; SIGLER, Ken; SHOEMAKER, Dan. 2017. Moje knihovna Moje historie Implementing Cybersecurity: A Guide to the National Institute of Standards and Technology Risk Management Framework. Boca Raton: Taylor, 309 s. ISBN 978-1-4987-8514-3."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Zaměření ZNOIA Zaměření pro Otevřenou informatiku v AJ, prezenční forma, počáteční období ZS 2024/2025Zaměření ZNOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENA-IKB"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Implementace kybernetické bezpečnosti v AJ"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Implementation of Cyber Security"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course cannot be studied during abroad internship."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "English"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. RNDr. Tomáš Pitner, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jiří Balej, Ph.D. (examiner, instructor, lecturer, tutor)prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, tutor)prof. RNDr. Tomáš Pitner, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Information Security Management System. Asset Management. (allowance 1/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Risk Management. Organizational Security. (allowance 1/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Security Roles. Supplier Management. (allowance 1/2)"
+    },
+    {
+      "label": "4.",
+      "content": "Human Resource Security. Operations and Communications Management. (allowance 1/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Change Management. Access Management. (allowance 1/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Acquisition, Development and Maintenance. Cybersecurity Event and Incident Management. (allowance 1/2)"
+    },
+    {
+      "label": "7.",
+      "content": "Business Continuity Management. Cybersecurity Audit. Exercises Focusing on Technical Measures and Their Implementation (allowance 1/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Implementation of Tools for Protecting Communication Networks. Implementation of Tools for Verifying User Identity. (allowance 1/2)"
+    },
+    {
+      "label": "9.",
+      "content": "Implementation of Tools for Managing Access Permissions. Implementation of Tools for Protecting Against Malicious Code. (allowance 1/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Implementation of Tools for Recording Information and Communication System Events. Implementation of tools for detecting security events. (allowance 1/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Implementation of tools for collecting and evaluating cyber security events. Implementation of application security tools. (allowance 1/2)"
+    },
+    {
+      "label": "12.",
+      "content": "Implementation of cryptographic means. Implementation of tools for ensuring the level of information availability. (allowance 1/2)"
+    },
+    {
+      "label": "13.",
+      "content": "Implementation of industrial and control systems tools. Implementation of digital services. (allowance 1/2)"
+    },
+    {
+      "label": "14.",
+      "content": "Implementation of penetration testing. Implementation of forensic analyses. (allowance 1/2)"
+    },
+    {
+      "label": "Term paper",
+      "content": "40 %"
+    },
+    {
+      "label": "Final test",
+      "content": "60 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, SS 2024/2025 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Implementace kybernetické bezpečnosti v AJ"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Implementation of Cyber Security"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course cannot be studied during abroad internship."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: English"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. RNDr. Tomáš Pitner, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jiří Balej, Ph.D. (examiner, instructor, lecturer, tutor)prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, tutor)prof. RNDr. Tomáš Pitner, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday13.00-14.50Q16N-OIN-OIAT. PitnerLectureOdd week25Wednesday16.00-17.50Q01.48N-OIN-OIAJ. BalejSeminarEvery week25"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The course provides comprehensive orientation in the area of ​​implementing cybersecurity measures into IS and ICT."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Information Security Management System. Asset Management. (allowance 1/2)2.Risk Management. Organizational Security. (allowance 1/2)3.Security Roles. Supplier Management. (allowance 1/2)4.Human Resource Security. Operations and Communications Management. (allowance 1/2)5.Change Management. Access Management. (allowance 1/2)6.Acquisition, Development and Maintenance. Cybersecurity Event and Incident Management. (allowance 1/2)7.Business Continuity Management. Cybersecurity Audit. Exercises Focusing on Technical Measures and Their Implementation (allowance 1/2)8.Implementation of Tools for Protecting Communication Networks. Implementation of Tools for Verifying User Identity. (allowance 1/2)9.Implementation of Tools for Managing Access Permissions. Implementation of Tools for Protecting Against Malicious Code. (allowance 1/2)10.Implementation of Tools for Recording Information and Communication System Events. Implementation of tools for detecting security events. (allowance 1/2)11.Implementation of tools for collecting and evaluating cyber security events. Implementation of application security tools. (allowance 1/2)12.Implementation of cryptographic means. Implementation of tools for ensuring the level of information availability. (allowance 1/2)13.Implementation of industrial and control systems tools. Implementation of digital services. (allowance 1/2)14.Implementation of penetration testing. Implementation of forensic analyses. (allowance 1/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Risk Management. Organizational Security. (allowance 1/2)"
+    },
+    {
+      "label": "[section] Information Security Management System. Asset Management.",
+      "content": "2.Risk Management. Organizational Security. (allowance 1/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Security Roles. Supplier Management. (allowance 1/2)"
+    },
+    {
+      "label": "[section] Risk Management. Organizational Security.",
+      "content": "3.Security Roles. Supplier Management. (allowance 1/2)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Human Resource Security. Operations and Communications Management. (allowance 1/2)"
+    },
+    {
+      "label": "[section] Security Roles. Supplier Management.",
+      "content": "4.Human Resource Security. Operations and Communications Management. (allowance 1/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Change Management. Access Management. (allowance 1/2)"
+    },
+    {
+      "label": "[section] Human Resource Security. Operations and Communications Management.",
+      "content": "5.Change Management. Access Management. (allowance 1/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Acquisition, Development and Maintenance. Cybersecurity Event and Incident Management. (allowance 1/2)"
+    },
+    {
+      "label": "[section] Change Management. Access Management.",
+      "content": "6.Acquisition, Development and Maintenance. Cybersecurity Event and Incident Management. (allowance 1/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Business Continuity Management. Cybersecurity Audit. Exercises Focusing on Technical Measures and Their Implementation (allowance 1/2)"
+    },
+    {
+      "label": "[section] Acquisition, Development and Maintenance. Cybersecurity Event and Incident Management.",
+      "content": "7.Business Continuity Management. Cybersecurity Audit. Exercises Focusing on Technical Measures and Their Implementation (allowance 1/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Implementation of Tools for Protecting Communication Networks. Implementation of Tools for Verifying User Identity. (allowance 1/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Implementation of Tools for Managing Access Permissions. Implementation of Tools for Protecting Against Malicious Code. (allowance 1/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Implementation of Tools for Recording Information and Communication System Events. Implementation of tools for detecting security events. (allowance 1/2)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Implementation of tools for collecting and evaluating cyber security events. Implementation of application security tools. (allowance 1/2)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Implementation of cryptographic means. Implementation of tools for ensuring the level of information availability. (allowance 1/2)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Implementation of industrial and control systems tools. Implementation of digital services. (allowance 1/2)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "14.Implementation of penetration testing. Implementation of forensic analyses. (allowance 1/2)"
+    },
+    {
+      "label": "[section] Implementation of industrial and control systems tools. Implementation of digital services.",
+      "content": "14.Implementation of penetration testing. Implementation of forensic analyses. (allowance 1/2)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice28 hpreparation for exam35 helaboration and execution of projects35 hTotal112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Written exam (60 points), preparation and defense of the seminar project for the topic assigned by the teacher (40 points). Evaluation: A 90-100, B 83-89, C 75-82, D 68-74, E 60-67 points."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTerm paper40 %Final test60 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:DIOGENES, Yuri; OZKAYA, Erdal. 2018. Cybersecurity - Attack and Defense Strategies: infrastructure security with Red Team and Blue Team tactics. 1st ed. Packt publishing, 384 p. ISBN 978-1-78-84-7529-7. https://www.packtpub.com/free-ebook/cybersecurity-attack-and-defense-strategies/9781788475297KOHNKE, Anne; SIGLER, Ken; SHOEMAKER, Dan. 2017. Moje knihovna Moje historie Implementing Cybersecurity: A Guide to the National Institute of Standards and Technology Risk Management Framework. Boca Raton: Taylor, 309 p. ISBN 978-1-4987-8514-3."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "DIOGENES, Yuri; OZKAYA, Erdal. 2018. Cybersecurity - Attack and Defense Strategies: infrastructure security with Red Team and Blue Team tactics. 1st ed. Packt publishing, 384 p. ISBN 978-1-78-84-7529-7. https://www.packtpub.com/free-ebook/cybersecurity-attack-and-defense-strategies/9781788475297KOHNKE, Anne; SIGLER, Ken; SHOEMAKER, Dan. 2017. Moje knihovna Moje historie Implementing Cybersecurity: A Guide to the National Institute of Standards and Technology Risk Management Framework. Boca Raton: Taylor, 309 p. ISBN 978-1-4987-8514-3."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Scope ZNOIA Scope for Open Informatics, full-time form, initial period WS 2024/2025Scope ZNOI Scope for Open Informatics, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:52:08",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

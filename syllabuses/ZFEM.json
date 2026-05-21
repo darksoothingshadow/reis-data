@@ -1,0 +1,537 @@
+{
+  "courseCode": "ZFEM",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ZFEM"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Základy využití FEM"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Basic Use of Finite Element Method"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zápočet (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 0/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský; magisterský; magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Distanční studium podkladů z přednášek, samostatné zpracování turoriálů - práce v SW (možnost instalace studentské verze SW), samostatné zpracování projektu , on-line a emailové konzultace projektu, on-line prezentace projektu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Jan Tippner, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. David Děcký, Ph.D. (cvičící)doc. Ing. Václav Sebera, Ph.D. (cvičící, přednášející)Ing. Jan Tippner, Ph.D. (cvičící, garant, přednášející)Ing. Barbora Vojáčková, Ph.D., DiS. (cvičící)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška a ne Výpočtové postupy v technické praxi (CAD/CAE)"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do FEM (dotace 0/9)"
+    },
+    {
+      "label": "a.",
+      "content": "Úvod do problematiky CAE, numerických metod a MKP, numerická analýza, historie, možnosti řešení obecného problému – analytické a numerické řešení. SW a HW pro MKP; aplikace MKP v oboru."
+    },
+    {
+      "label": "b.",
+      "content": "Výpočetní systém (ANSYS); GUI, správa souborů, tvorba geometrického modelu; volba prvku a sítě; síťování."
+    },
+    {
+      "label": "c.",
+      "content": "Materiálové modely, zadání okrajových podmínek řešení, postprocessing výsledků; témata semestrálního projektu."
+    },
+    {
+      "label": "2.",
+      "content": "Analýzy FEM (dotace 0/18)"
+    },
+    {
+      "label": "a.",
+      "content": "Mechanická lineární analýza – cíle, možnosti a postup."
+    },
+    {
+      "label": "b.",
+      "content": "Mech. nelineární analýza – cíle, možnosti, implementace a interpretace materiál. modelů, postup kontaktní analýzy."
+    },
+    {
+      "label": "c.",
+      "content": "Stacionární tepelná analýza – cíle, možnosti a postup."
+    },
+    {
+      "label": "d.",
+      "content": "Nestacionární tepelná analýza a vázané úlohy – cíle, možnosti a postup."
+    },
+    {
+      "label": "e.",
+      "content": "Mech. dynamická analýza – cíle, možnosti a postup; zadání seminárních projektů – fyzikální podstata problému."
+    },
+    {
+      "label": "f.",
+      "content": "Parametrické modelování (ANSYS, úvod do skriptování v APDL)."
+    },
+    {
+      "label": "3.",
+      "content": "Tvorba výpočtových modelů a výpočty (dotace 0/15)"
+    },
+    {
+      "label": "a.",
+      "content": "Konzultace a řešení seminárních projektů; opakování – základní postupy řešení úloh, zjednodušení, volba dimenze."
+    },
+    {
+      "label": "b.",
+      "content": "Konzultace a řešení seminárních projektů; tvorba geometrického a konečněprvkového modelu semin. projektů."
+    },
+    {
+      "label": "c.",
+      "content": "Konzultace a řešení seminárních projektů; aplikace okrajových podmínek, řešení; postprocessing semin. projektů."
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Základy využití FEM"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Basic Use of Finite Element Method"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zápočet (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zápočet (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský; magisterský; magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Distanční studium podkladů z přednášek, samostatné zpracování turoriálů - práce v SW (možnost instalace studentské verze SW), samostatné zpracování projektu , on-line a emailové konzultace projektu, on-line prezentace projektu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Jan Tippner, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. David Děcký, Ph.D. (cvičící)doc. Ing. Václav Sebera, Ph.D. (cvičící, přednášející)Ing. Jan Tippner, Ph.D. (cvičící, garant, přednášející)Ing. Barbora Vojáčková, Ph.D., DiS. (cvičící)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a ne Výpočtové postupy v technické praxi (CAD/CAE)"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Znát základní informace o pokročilých metodách fyzikálního modelování a numerických simulací od jednoduchých (typických) úloh až po komplexní vázané fyzikální děje specifické pro dřevo, materiály na bázi dřeva a výrobky ze dřeva (např. konstrukční prvky, nábytek, speciální výrobky). Znát teoretická východiska numerické analýzy, metody konečných prvků, metodické postupy tvorby výpočtového modelu a simulace. Naučit se dovednostem v praktické oblasti numerických výpočtů fyzikálních úloh v oboru dřeva, materiálu na bázi dřeva a výrobků ze ze dřeva (např. konstrukční prvky, nábytek, speciální výrobky)."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do FEM (dotace 0/9) a.Úvod do problematiky CAE, numerických metod a MKP, numerická analýza, historie, možnosti řešení obecného problému – analytické a numerické řešení. SW a HW pro MKP; aplikace MKP v oboru.b.Výpočetní systém (ANSYS); GUI, správa souborů, tvorba geometrického modelu; volba prvku a sítě; síťování.c.Materiálové modely, zadání okrajových podmínek řešení, postprocessing výsledků; témata semestrálního projektu.2.Analýzy FEM (dotace 0/18) a.Mechanická lineární analýza – cíle, možnosti a postup.b.Mech. nelineární analýza – cíle, možnosti, implementace a interpretace materiál. modelů, postup kontaktní analýzy.c.Stacionární tepelná analýza – cíle, možnosti a postup.d.Nestacionární tepelná analýza a vázané úlohy – cíle, možnosti a postup.e.Mech. dynamická analýza – cíle, možnosti a postup; zadání seminárních projektů – fyzikální podstata problému.f.Parametrické modelování (ANSYS, úvod do skriptování v APDL).3.Tvorba výpočtových modelů a výpočty (dotace 0/15) a.Konzultace a řešení seminárních projektů; opakování – základní postupy řešení úloh, zjednodušení, volba dimenze.b.Konzultace a řešení seminárních projektů; tvorba geometrického a konečněprvkového modelu semin. projektů.c.Konzultace a řešení seminárních projektů; aplikace okrajových podmínek, řešení; postprocessing semin. projektů."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Úvod do problematiky CAE, numerických metod a MKP, numerická analýza, historie, možnosti řešení obecného problému – analytické a numerické řešení. SW a HW pro MKP; aplikace MKP v oboru.b.Výpočetní systém (ANSYS); GUI, správa souborů, tvorba geometrického modelu; volba prvku a sítě; síťování.c.Materiálové modely, zadání okrajových podmínek řešení, postprocessing výsledků; témata semestrálního projektu."
+    },
+    {
+      "label": "[section] Úvod do FEM",
+      "content": "a.Úvod do problematiky CAE, numerických metod a MKP, numerická analýza, historie, možnosti řešení obecného problému – analytické a numerické řešení. SW a HW pro MKP; aplikace MKP v oboru.b.Výpočetní systém (ANSYS); GUI, správa souborů, tvorba geometrického modelu; volba prvku a sítě; síťování.c.Materiálové modely, zadání okrajových podmínek řešení, postprocessing výsledků; témata semestrálního projektu."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Mechanická lineární analýza – cíle, možnosti a postup.b.Mech. nelineární analýza – cíle, možnosti, implementace a interpretace materiál. modelů, postup kontaktní analýzy.c.Stacionární tepelná analýza – cíle, možnosti a postup.d.Nestacionární tepelná analýza a vázané úlohy – cíle, možnosti a postup.e.Mech. dynamická analýza – cíle, možnosti a postup; zadání seminárních projektů – fyzikální podstata problému.f.Parametrické modelování (ANSYS, úvod do skriptování v APDL)."
+    },
+    {
+      "label": "[section] Analýzy FEM",
+      "content": "a.Mechanická lineární analýza – cíle, možnosti a postup.b.Mech. nelineární analýza – cíle, možnosti, implementace a interpretace materiál. modelů, postup kontaktní analýzy.c.Stacionární tepelná analýza – cíle, možnosti a postup.d.Nestacionární tepelná analýza a vázané úlohy – cíle, možnosti a postup.e.Mech. dynamická analýza – cíle, možnosti a postup; zadání seminárních projektů – fyzikální podstata problému.f.Parametrické modelování (ANSYS, úvod do skriptování v APDL)."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Konzultace a řešení seminárních projektů; opakování – základní postupy řešení úloh, zjednodušení, volba dimenze.b.Konzultace a řešení seminárních projektů; tvorba geometrického a konečněprvkového modelu semin. projektů.c.Konzultace a řešení seminárních projektů; aplikace okrajových podmínek, řešení; postprocessing semin. projektů."
+    },
+    {
+      "label": "[section] Tvorba výpočtových modelů a výpočty",
+      "content": "a.Konzultace a řešení seminárních projektů; opakování – základní postupy řešení úloh, zjednodušení, volba dimenze.b.Konzultace a řešení seminárních projektů; tvorba geometrického a konečněprvkového modelu semin. projektů.c.Konzultace a řešení seminárních projektů; aplikace okrajových podmínek, řešení; postprocessing semin. projektů."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška42 h15 hkonzultace0 h27 hprojektová práce50 h50 hzpracování seminární práce40 h40 hCelkem132 h132 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Znalost základů teorie, znalost základních technik modelování a práce v SW stvrzená samostatnou tvorbou projektu a jeho prezentace/obhajoby."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích20 %20 %Vypracování semestrální práce60 %60 %Prezentace nebo obhajoba20 %20 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:KOLÁŘ, Vladimír. 1997. FEM - Principy a praxe metody konečných prvků. 1. vyd. Praha: Computer Press, 401 s. ISBN 80-7226-021-9.PETRUŠKA, J. 2003. Počítačové metody mechaniky II – Metoda konečných prvků. Brno: VUT v Brně, 88 s.MOAVENI, Saeed. 2011. Engineering fundamentals: an inroduction to engineering. 4. vyd. Stamford, CT: Cengage Learning, 700 s. ISBN 978-1-4390-6210-4.HUTTON, David V. 2004. Fundamentals of finite element analysis. Boston: McGraw-Hill, 494 s. McGraw-Hill series in mechanical engineering. ISBN 0-07-112231-1.NAKASONE, Y.; YOSHIMOTO, S.; STOLARSKI, T. A. 2006. Engineering analysis with ANSYS software. Amsterdam: Butterworth-Heinemann, 456 s. ISBN 0-7506-6875-X.Doporučená:BARBERO, Ever J. Finite element analysis of composite materials. Boca Raton: CRC Press, 331 s. ISBN 978-1-4200-5433-0.GRIFFITHS, David. 2014. Programming the finite element method. 5. vyd. Chichester: Wiley, 664 s. ISBN 978-1-119-97334-8.CHAMPION, Edward R. 1992. Finite Element Analysis in Manufacturing Engineering. New York: McGraw-Hill, 21 s. ISBN 0-07-010510-3."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "KOLÁŘ, Vladimír. 1997. FEM - Principy a praxe metody konečných prvků. 1. vyd. Praha: Computer Press, 401 s. ISBN 80-7226-021-9.PETRUŠKA, J. 2003. Počítačové metody mechaniky II – Metoda konečných prvků. Brno: VUT v Brně, 88 s.MOAVENI, Saeed. 2011. Engineering fundamentals: an inroduction to engineering. 4. vyd. Stamford, CT: Cengage Learning, 700 s. ISBN 978-1-4390-6210-4.HUTTON, David V. 2004. Fundamentals of finite element analysis. Boston: McGraw-Hill, 494 s. McGraw-Hill series in mechanical engineering. ISBN 0-07-112231-1.NAKASONE, Y.; YOSHIMOTO, S.; STOLARSKI, T. A. 2006. Engineering analysis with ANSYS software. Amsterdam: Butterworth-Heinemann, 456 s. ISBN 0-7506-6875-X."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "BARBERO, Ever J. Finite element analysis of composite materials. Boca Raton: CRC Press, 331 s. ISBN 978-1-4200-5433-0.GRIFFITHS, David. 2014. Programming the finite element method. 5. vyd. Chichester: Wiley, 664 s. ISBN 978-1-119-97334-8.CHAMPION, Edward R. 1992. Finite Element Analysis in Manufacturing Engineering. New York: McGraw-Hill, 21 s. ISBN 0-07-010510-3."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-TMZD Technologie a management zpracování dřeva, prezenční forma, počáteční období ZS 2023/2024Program B-TMZD Technologie a management zpracování dřeva, kombinovaná forma, počáteční období ZS 2023/2024Program B-SNBD Stavby na bázi dřeva, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: -- obsah této položky nebyl definován --"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ZFEM"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Základy využití FEM"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Basic Use of Finite Element Method"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Pass credit (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 0/3 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor; master; master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "Distance study of materials from lectures, independent processing of tours - work in SW (possibility to install student version of SW), independent project processing, online and email consultations of the project, online presentation of the project."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Jan Tippner, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. David Děcký, Ph.D. (instructor)doc. Ing. Václav Sebera, Ph.D. (instructor, lecturer)Ing. Jan Tippner, Ph.D. (instructor, lecturer, supervisor)Ing. Barbora Vojáčková, Ph.D., DiS. (instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not State Bachelor Examination and not Calculation Methods in Engineering (CAD/CAE)"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to FEM (allowance 0/9)"
+    },
+    {
+      "label": "a.",
+      "content": "Introduction to CAE, numerical methods and FEM, numerical analysis, history, possibilities of solving a general problem - analytical and numerical solution. SW and HW for FEM; applications of FEM in the field."
+    },
+    {
+      "label": "b.",
+      "content": "Computing system (ANSYS); GUI, file management, geometric model; element and mesh selection; meshing."
+    },
+    {
+      "label": "c.",
+      "content": "Materiálové modely, zadání okrajových podmínek řešení, postprocessing výsledků; témata semestrálního projektu."
+    },
+    {
+      "label": "2.",
+      "content": "FEM Analyzes (allowance 0/18)"
+    },
+    {
+      "label": "a.",
+      "content": "Mechanics: Structural linear analysis – goals, possibilities, and procedure"
+    },
+    {
+      "label": "b.",
+      "content": "Mech. nonlinear analysis – goals, possibilities, implementation and interpretation of material models, contact analysis procedure."
+    },
+    {
+      "label": "c.",
+      "content": "Stationary thermal analysis – goals, possibilities, and procedure."
+    },
+    {
+      "label": "d.",
+      "content": "Unsteady thermal analysis and related problems – goals, possibilities, and procedure."
+    },
+    {
+      "label": "e.",
+      "content": "Mech. dynamic analysis – goals, possibilities, and procedure; seminar project assignment – ​​physical nature of the problem."
+    },
+    {
+      "label": "f.",
+      "content": "Parametric modeling (ANSYS, introduction to scripting in APDL)."
+    },
+    {
+      "label": "3.",
+      "content": "Modeling and simulation (allowance 0/15)"
+    },
+    {
+      "label": "a.",
+      "content": "Consultation and solution of seminar projects; repetition – basic problem-solving procedures, simplification, choice of dimension."
+    },
+    {
+      "label": "b.",
+      "content": "Consultation and solution of seminar projects; creation of geometric and finite element models of seminar projects."
+    },
+    {
+      "label": "c.",
+      "content": "Consultation and solution of seminar projects; application of boundary conditions, and solution; postprocessing of seminar projects."
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Základy využití FEM"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Basic Use of Finite Element Method"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Pass credit (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/3 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Pass credit (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/3 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor; master; master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: Distance study of materials from lectures, independent processing of tours - work in SW (possibility to install student version of SW), independent project processing, online and email consultations of the project, online presentation of the project."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Jan Tippner, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. David Děcký, Ph.D. (instructor)doc. Ing. Václav Sebera, Ph.D. (instructor, lecturer)Ing. Jan Tippner, Ph.D. (instructor, lecturer, supervisor)Ing. Barbora Vojáčková, Ph.D., DiS. (instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not State Bachelor Examination and not Calculation Methods in Engineering (CAD/CAE)"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "To know basic information about advanced methods of physical modeling and numerical simulations from simple (typical) tasks to complex coupled physical processes specific to wood, wood-based materials, and wood products (e.g. structural elements, furniture, special products). Know the theoretical foundations of numerical analysis, finite element methods, and methodological procedures for creating a computational model and simulation. Learn practical skills in ​​numerical calculations of physical tasks in wood, wood-based materials, and wood products (e.g. structural elements, furniture, special products)."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to FEM (allowance 0/9) a.Introduction to CAE, numerical methods and FEM, numerical analysis, history, possibilities of solving a general problem - analytical and numerical solution. SW and HW for FEM; applications of FEM in the field.b.Computing system (ANSYS); GUI, file management, geometric model; element and mesh selection; meshing.c.Materiálové modely, zadání okrajových podmínek řešení, postprocessing výsledků; témata semestrálního projektu.2.FEM Analyzes (allowance 0/18) a.Mechanics: Structural linear analysis – goals, possibilities, and procedureb.Mech. nonlinear analysis – goals, possibilities, implementation and interpretation of material models, contact analysis procedure.c.Stationary thermal analysis – goals, possibilities, and procedure.d.Unsteady thermal analysis and related problems – goals, possibilities, and procedure.e.Mech. dynamic analysis – goals, possibilities, and procedure; seminar project assignment – ​​physical nature of the problem.f.Parametric modeling (ANSYS, introduction to scripting in APDL).3.Modeling and simulation (allowance 0/15) a.Consultation and solution of seminar projects; repetition – basic problem-solving procedures, simplification, choice of dimension.b.Consultation and solution of seminar projects; creation of geometric and finite element models of seminar projects.c.Consultation and solution of seminar projects; application of boundary conditions, and solution; postprocessing of seminar projects."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Introduction to CAE, numerical methods and FEM, numerical analysis, history, possibilities of solving a general problem - analytical and numerical solution. SW and HW for FEM; applications of FEM in the field.b.Computing system (ANSYS); GUI, file management, geometric model; element and mesh selection; meshing.c.Materiálové modely, zadání okrajových podmínek řešení, postprocessing výsledků; témata semestrálního projektu."
+    },
+    {
+      "label": "[section] Introduction to FEM",
+      "content": "a.Introduction to CAE, numerical methods and FEM, numerical analysis, history, possibilities of solving a general problem - analytical and numerical solution. SW and HW for FEM; applications of FEM in the field.b.Computing system (ANSYS); GUI, file management, geometric model; element and mesh selection; meshing.c.Materiálové modely, zadání okrajových podmínek řešení, postprocessing výsledků; témata semestrálního projektu."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Mechanics: Structural linear analysis – goals, possibilities, and procedureb.Mech. nonlinear analysis – goals, possibilities, implementation and interpretation of material models, contact analysis procedure.c.Stationary thermal analysis – goals, possibilities, and procedure.d.Unsteady thermal analysis and related problems – goals, possibilities, and procedure.e.Mech. dynamic analysis – goals, possibilities, and procedure; seminar project assignment – ​​physical nature of the problem.f.Parametric modeling (ANSYS, introduction to scripting in APDL)."
+    },
+    {
+      "label": "[section] FEM Analyzes",
+      "content": "a.Mechanics: Structural linear analysis – goals, possibilities, and procedureb.Mech. nonlinear analysis – goals, possibilities, implementation and interpretation of material models, contact analysis procedure.c.Stationary thermal analysis – goals, possibilities, and procedure.d.Unsteady thermal analysis and related problems – goals, possibilities, and procedure.e.Mech. dynamic analysis – goals, possibilities, and procedure; seminar project assignment – ​​physical nature of the problem.f.Parametric modeling (ANSYS, introduction to scripting in APDL)."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Consultation and solution of seminar projects; repetition – basic problem-solving procedures, simplification, choice of dimension.b.Consultation and solution of seminar projects; creation of geometric and finite element models of seminar projects.c.Consultation and solution of seminar projects; application of boundary conditions, and solution; postprocessing of seminar projects."
+    },
+    {
+      "label": "[section] Modeling and simulation",
+      "content": "a.Consultation and solution of seminar projects; repetition – basic problem-solving procedures, simplification, choice of dimension.b.Consultation and solution of seminar projects; creation of geometric and finite element models of seminar projects.c.Consultation and solution of seminar projects; application of boundary conditions, and solution; postprocessing of seminar projects."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture42 h15 hconsultation0 h27 hproject work50 h50 hwriting of seminar paper40 h40 hTotal132 h132 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Knowledge of the basics of theory, knowledge of basic modeling techniques and work in SW confirmed by the independent creation of the project and its presentation/defense."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation20 %20 %Term paper60 %60 %Presentation or defence20 %20 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:KOLÁŘ, Vladimír. 1997. FEM - Principy a praxe metody konečných prvků. 1st ed. Praha: Computer Press, 401 p. ISBN 80-7226-021-9.PETRUŠKA, J. 2003. Počítačové metody mechaniky II – Metoda konečných prvků. Brno: VUT v Brně, 88 p.MOAVENI, Saeed. 2011. Engineering fundamentals: an inroduction to engineering. 4th ed. Stamford, CT: Cengage Learning, 700 p. ISBN 978-1-4390-6210-4.HUTTON, David V. 2004. Fundamentals of finite element analysis. Boston: McGraw-Hill, 494 p. McGraw-Hill series in mechanical engineering. ISBN 0-07-112231-1.NAKASONE, Y.; YOSHIMOTO, S.; STOLARSKI, T. A. 2006. Engineering analysis with ANSYS software. Amsterdam: Butterworth-Heinemann, 456 p. ISBN 0-7506-6875-X.Recommended:BARBERO, Ever J. Finite element analysis of composite materials. Boca Raton: CRC Press, 331 p. ISBN 978-1-4200-5433-0.GRIFFITHS, David. 2014. Programming the finite element method. 5th ed. Chichester: Wiley, 664 p. ISBN 978-1-119-97334-8.CHAMPION, Edward R. 1992. Finite Element Analysis in Manufacturing Engineering. New York: McGraw-Hill, 21 p. ISBN 0-07-010510-3."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "KOLÁŘ, Vladimír. 1997. FEM - Principy a praxe metody konečných prvků. 1st ed. Praha: Computer Press, 401 p. ISBN 80-7226-021-9.PETRUŠKA, J. 2003. Počítačové metody mechaniky II – Metoda konečných prvků. Brno: VUT v Brně, 88 p.MOAVENI, Saeed. 2011. Engineering fundamentals: an inroduction to engineering. 4th ed. Stamford, CT: Cengage Learning, 700 p. ISBN 978-1-4390-6210-4.HUTTON, David V. 2004. Fundamentals of finite element analysis. Boston: McGraw-Hill, 494 p. McGraw-Hill series in mechanical engineering. ISBN 0-07-112231-1.NAKASONE, Y.; YOSHIMOTO, S.; STOLARSKI, T. A. 2006. Engineering analysis with ANSYS software. Amsterdam: Butterworth-Heinemann, 456 p. ISBN 0-7506-6875-X."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "BARBERO, Ever J. Finite element analysis of composite materials. Boca Raton: CRC Press, 331 p. ISBN 978-1-4200-5433-0.GRIFFITHS, David. 2014. Programming the finite element method. 5th ed. Chichester: Wiley, 664 p. ISBN 978-1-119-97334-8.CHAMPION, Edward R. 1992. Finite Element Analysis in Manufacturing Engineering. New York: McGraw-Hill, 21 p. ISBN 0-07-010510-3."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-TMZD Technology and Management in Wood Processing, full-time form, initial period WS 2023/2024Programme B-TMZD Technology and Management in Wood Processing, part-time form, initial period WS 2023/2024Programme B-SNBD Timber Structures and Wood Building Construction, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: -- item not defined --"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:44:16",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

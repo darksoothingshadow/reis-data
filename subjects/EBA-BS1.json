@@ -1,5 +1,24 @@
 {
   "courseCode": "EBA-BS1",
+  "name": "Bakalářský seminář 1 v AJ",
+  "nameCs": "Bakalářský seminář 1 v AJ",
+  "nameEn": "Bachelor's Thesis Seminar 1",
+  "predmetId": "159831",
+  "facultyId": 2,
+  "aliases": [],
+  "teachers": [
+    "Ing. Aleš Franc, Ph.D.",
+    "Ing. Andrea Králiková, Ph.D.",
+    "Ing. Klára Plecitá",
+    "Ing. Petr Jedlička, Ph.D.",
+    "Ing. Soňa Kukučková, Ph.D.",
+    "Mgr. Bc. Ondřej Pavelek, Ph.D.",
+    "Mgr. Tomáš Konderla, Ph.D.",
+    "Nataliia Tkalenko, DSc.",
+    "doc. Ing. Pavel Žufan, Ph.D.",
+    "prof. Ing. Lubor Lacina, Ph.D.",
+    "prof. RNDr. Jan Hanousek, CSc., DSc."
+  ],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - PEF",
@@ -8,7 +27,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=801;predmet=159831;lang=cz",
       "totalPass": 5,
-      "totalFail": 5,
+      "totalFail": 4,
       "terms": [
         {
           "term": "1. opravný",
@@ -41,10 +60,10 @@
             "FN": 0
           },
           "pass": 5,
-          "fail": 5,
+          "fail": 4,
           "creditGrades": {
             "zap": 5,
-            "nezap": 5,
+            "nezap": 4,
             "zapNedost": 0
           }
         },
@@ -60,10 +79,10 @@
             "FN": 0
           },
           "pass": 4,
-          "fail": 6,
+          "fail": 5,
           "creditGrades": {
             "zap": 4,
-            "nezap": 6,
+            "nezap": 5,
             "zapNedost": 0
           }
         }
@@ -541,5 +560,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-03-07T08:18:27.165Z"
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
 }

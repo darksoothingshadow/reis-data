@@ -1,0 +1,873 @@
+{
+  "courseCode": "ENA-EKM",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENA-EKM"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Ekonometrie 2 v AJ"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Econometrics 2"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "angličtina"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Václav Adamec, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav statistiky a operačního výzkumu (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Václav Adamec, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška a ne Ekonometrie II v AJ"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do ekonometrie (dotace 1/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Vymezení ekonometrie"
+    },
+    {
+      "label": "b.",
+      "content": "Typy ekonometrických dat, průřezová data, časové řady, panelová data"
+    },
+    {
+      "label": "c.",
+      "content": "Aplikovaná regresní analýza, etapy ekonometrického modelování, metody sestavení regresního modelu"
+    },
+    {
+      "label": "2.",
+      "content": "Klasický lineární regresní model a jeho předpoklady (dotace 3/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Klasický lineární regresní model s více vysvětlujícími proměnnými"
+    },
+    {
+      "label": "b.",
+      "content": "Obyčejné nejmenší čtverce a zobecněné nejmenší čtverce"
+    },
+    {
+      "label": "c.",
+      "content": "Testování hypotéz v lineárním regresním modelu"
+    },
+    {
+      "label": "d.",
+      "content": "Předpoklady klasického lineárního regresního modelu"
+    },
+    {
+      "label": "3.",
+      "content": "Porušení a náprava předpokladů klasického lineárního regresního modelu (dotace 4/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Sestavení vícerozměrného modelu, metody a kritéria, nadspecifikace, podspecifikace modelu"
+    },
+    {
+      "label": "b.",
+      "content": "Multikolinearita vysvětlujících proměnných, příčiny, důsledky, způsoby detekce, metody řešení"
+    },
+    {
+      "label": "c.",
+      "content": "Heteroskedasticita, příčiny, důsledky, způsoby detekce, metody řešení"
+    },
+    {
+      "label": "d.",
+      "content": "Sériová korelace, příčiny, důsledky, způsoby detekce, metody řešení"
+    },
+    {
+      "label": "4.",
+      "content": "Specifické problémy analýzy ekonomických časových řad (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Nelinearita časových řad"
+    },
+    {
+      "label": "b.",
+      "content": "Sezónnost a periodicita v časových řadách"
+    },
+    {
+      "label": "c.",
+      "content": "Nestacionarita časové řady"
+    },
+    {
+      "label": "d.",
+      "content": "Zdánlivá závislost v časových řadách"
+    },
+    {
+      "label": "e.",
+      "content": "Kointegrace časových řad"
+    },
+    {
+      "label": "5.",
+      "content": "Pokročilé metody analýzy a modelování jednorozměrných časových řad (dotace 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Modelování stochastických časových řad"
+    },
+    {
+      "label": "b.",
+      "content": "Box-Jenkinsova metodologie, princip"
+    },
+    {
+      "label": "c.",
+      "content": "Stacionární ARMA a integrované ARIMA procesy"
+    },
+    {
+      "label": "d.",
+      "content": "Modely volatility"
+    },
+    {
+      "label": "e.",
+      "content": "Regresní modely časových řad"
+    },
+    {
+      "label": "6.",
+      "content": "Pokročilé metody analýzy a modelování vícerozměrných časových řad (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Vektorový autoregresní model (VAR), specifikace, určení řádu zpoždění"
+    },
+    {
+      "label": "b.",
+      "content": "Kvantifikace a verifikace modelu VAR"
+    },
+    {
+      "label": "c.",
+      "content": "Grangerova kauzalita, testování Grangerovy kauzality"
+    },
+    {
+      "label": "d.",
+      "content": "Impulse-Response analýza"
+    },
+    {
+      "label": "e.",
+      "content": "Modely vektorových klouzavých průměrů (VMA)"
+    },
+    {
+      "label": "f.",
+      "content": "Modely vektorových autoregresních klouzavých průměrů (VARMA)"
+    },
+    {
+      "label": "7.",
+      "content": "Analýza panelových dat (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Modely panelových dat"
+    },
+    {
+      "label": "b.",
+      "content": "Panelová diagnostika"
+    },
+    {
+      "label": "c.",
+      "content": "Realizace analýzy v programu Gretl"
+    },
+    {
+      "label": "8.",
+      "content": "Nelineární modely (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Motivace, aplikace v Ekonometrii"
+    },
+    {
+      "label": "b.",
+      "content": "Nelineární nejmenší čtverce"
+    },
+    {
+      "label": "c.",
+      "content": "Odhadové metody (Gaussův-Newtonův algoritmus, Levenbergův-Marquardtův algoritmus), aplikace"
+    },
+    {
+      "label": "d.",
+      "content": "Modely binární závislé veličiny, binární logitový a probitový model"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "10 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "0 %"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "20 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "70 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, LS 2023/2024, ZS 2023/2024, LS 2022/2023, ZS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Ekonometrie 2 v AJ"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Econometrics 2"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: angličtina"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Václav Adamec, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav statistiky a operačního výzkumu (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Václav Adamec, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška a ne Ekonometrie II v AJ"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí13.00-14.50Q02V. AdamecPřednáškaKaždý týden74Pátek7.00-8.50Q24V. AdamecCvičeníKaždý týden22Pátek9.00-10.50Q24V. AdamecCvičeníKaždý týden22Pátek13.00-14.50Q36V. AdamecCvičeníKaždý týden22"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Zvládnutí teorie tvorby vícerozměrných ekonometrických modelů s využitím OLS metody, její předpoklady a problematika jejich porušení včetně praktického využití metodiky v oblasti průřezových dat, časových řad i panelových dat. Získání teoretických a praktických znalostí z oblasti pokročilých metod analýzy časových řad zahrnujících Boxovu-Jenkinsovu metodologii a metod na ni navazující. Získání teoretických a praktických znalostí z oblasti analýzy panelových dat. Studenti při analýze datových souborů využívají ekonometrický software. Předpokládáme, že nabyté znalosti a dovednosti budou studenty využity mj. při zpracování diplomových prací."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do ekonometrie (dotace 1/0) a.Vymezení ekonometrieb.Typy ekonometrických dat, průřezová data, časové řady, panelová datac.Aplikovaná regresní analýza, etapy ekonometrického modelování, metody sestavení regresního modelu2.Klasický lineární regresní model a jeho předpoklady (dotace 3/4) a.Klasický lineární regresní model s více vysvětlujícími proměnnýmib.Obyčejné nejmenší čtverce a zobecněné nejmenší čtvercec.Testování hypotéz v lineárním regresním modelud.Předpoklady klasického lineárního regresního modelu3.Porušení a náprava předpokladů klasického lineárního regresního modelu (dotace 4/6) a.Sestavení vícerozměrného modelu, metody a kritéria, nadspecifikace, podspecifikace modelub.Multikolinearita vysvětlujících proměnných, příčiny, důsledky, způsoby detekce, metody řešeníc.Heteroskedasticita, příčiny, důsledky, způsoby detekce, metody řešeníd.Sériová korelace, příčiny, důsledky, způsoby detekce, metody řešení4.Specifické problémy analýzy ekonomických časových řad (dotace 4/4) a.Nelinearita časových řadb.Sezónnost a periodicita v časových řadáchc.Nestacionarita časové řadyd.Zdánlivá závislost v časových řadáche.Kointegrace časových řad5.Pokročilé metody analýzy a modelování jednorozměrných časových řad (dotace 6/6) a.Modelování stochastických časových řadb.Box-Jenkinsova metodologie, principc.Stacionární ARMA a integrované ARIMA procesyd.Modely volatilitye.Regresní modely časových řad6.Pokročilé metody analýzy a modelování vícerozměrných časových řad (dotace 4/2) a.Vektorový autoregresní model (VAR), specifikace, určení řádu zpožděníb.Kvantifikace a verifikace modelu VARc.Grangerova kauzalita, testování Grangerovy kauzalityd.Impulse-Response analýzae.Modely vektorových klouzavých průměrů (VMA)f.Modely vektorových autoregresních klouzavých průměrů (VARMA)7.Analýza panelových dat (dotace 4/4) a.Modely panelových datb.Panelová diagnostikac.Realizace analýzy v programu Gretl8.Nelineární modely (dotace 2/2) a.Motivace, aplikace v Ekonometriib.Nelineární nejmenší čtvercec.Odhadové metody (Gaussův-Newtonův algoritmus, Levenbergův-Marquardtův algoritmus), aplikaced.Modely binární závislé veličiny, binární logitový a probitový model"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Vymezení ekonometrieb.Typy ekonometrických dat, průřezová data, časové řady, panelová datac.Aplikovaná regresní analýza, etapy ekonometrického modelování, metody sestavení regresního modelu"
+    },
+    {
+      "label": "[section] Úvod do ekonometrie",
+      "content": "a.Vymezení ekonometrieb.Typy ekonometrických dat, průřezová data, časové řady, panelová datac.Aplikovaná regresní analýza, etapy ekonometrického modelování, metody sestavení regresního modelu"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Klasický lineární regresní model s více vysvětlujícími proměnnýmib.Obyčejné nejmenší čtverce a zobecněné nejmenší čtvercec.Testování hypotéz v lineárním regresním modelud.Předpoklady klasického lineárního regresního modelu"
+    },
+    {
+      "label": "[section] Klasický lineární regresní model a jeho předpoklady",
+      "content": "a.Klasický lineární regresní model s více vysvětlujícími proměnnýmib.Obyčejné nejmenší čtverce a zobecněné nejmenší čtvercec.Testování hypotéz v lineárním regresním modelud.Předpoklady klasického lineárního regresního modelu"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Sestavení vícerozměrného modelu, metody a kritéria, nadspecifikace, podspecifikace modelub.Multikolinearita vysvětlujících proměnných, příčiny, důsledky, způsoby detekce, metody řešeníc.Heteroskedasticita, příčiny, důsledky, způsoby detekce, metody řešeníd.Sériová korelace, příčiny, důsledky, způsoby detekce, metody řešení"
+    },
+    {
+      "label": "[section] Porušení a náprava předpokladů klasického lineárního regresního modelu",
+      "content": "a.Sestavení vícerozměrného modelu, metody a kritéria, nadspecifikace, podspecifikace modelub.Multikolinearita vysvětlujících proměnných, příčiny, důsledky, způsoby detekce, metody řešeníc.Heteroskedasticita, příčiny, důsledky, způsoby detekce, metody řešeníd.Sériová korelace, příčiny, důsledky, způsoby detekce, metody řešení"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Nelinearita časových řadb.Sezónnost a periodicita v časových řadáchc.Nestacionarita časové řadyd.Zdánlivá závislost v časových řadáche.Kointegrace časových řad"
+    },
+    {
+      "label": "[section] Specifické problémy analýzy ekonomických časových řad",
+      "content": "a.Nelinearita časových řadb.Sezónnost a periodicita v časových řadáchc.Nestacionarita časové řadyd.Zdánlivá závislost v časových řadáche.Kointegrace časových řad"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Modelování stochastických časových řadb.Box-Jenkinsova metodologie, principc.Stacionární ARMA a integrované ARIMA procesyd.Modely volatilitye.Regresní modely časových řad"
+    },
+    {
+      "label": "[section] Pokročilé metody analýzy a modelování jednorozměrných časových řad",
+      "content": "a.Modelování stochastických časových řadb.Box-Jenkinsova metodologie, principc.Stacionární ARMA a integrované ARIMA procesyd.Modely volatilitye.Regresní modely časových řad"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Vektorový autoregresní model (VAR), specifikace, určení řádu zpožděníb.Kvantifikace a verifikace modelu VARc.Grangerova kauzalita, testování Grangerovy kauzalityd.Impulse-Response analýzae.Modely vektorových klouzavých průměrů (VMA)f.Modely vektorových autoregresních klouzavých průměrů (VARMA)"
+    },
+    {
+      "label": "[section] Pokročilé metody analýzy a modelování vícerozměrných časových řad",
+      "content": "a.Vektorový autoregresní model (VAR), specifikace, určení řádu zpožděníb.Kvantifikace a verifikace modelu VARc.Grangerova kauzalita, testování Grangerovy kauzalityd.Impulse-Response analýzae.Modely vektorových klouzavých průměrů (VMA)f.Modely vektorových autoregresních klouzavých průměrů (VARMA)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Modely panelových datb.Panelová diagnostikac.Realizace analýzy v programu Gretl"
+    },
+    {
+      "label": "[section] Analýza panelových dat",
+      "content": "a.Modely panelových datb.Panelová diagnostikac.Realizace analýzy v programu Gretl"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Motivace, aplikace v Ekonometriib.Nelineární nejmenší čtvercec.Odhadové metody (Gaussův-Newtonův algoritmus, Levenbergův-Marquardtův algoritmus), aplikaced.Modely binární závislé veličiny, binární logitový a probitový model"
+    },
+    {
+      "label": "[section] Nelineární modely",
+      "content": "a.Motivace, aplikace v Ekonometriib.Nelineární nejmenší čtvercec.Odhadové metody (Gaussův-Newtonův algoritmus, Levenbergův-Marquardtův algoritmus), aplikaced.Modely binární závislé veličiny, binární logitový a probitový model"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hkonzultace0 hpříprava na zkoušku60 hpříprava na průběžný test24 hzpracování projektů0 hprůběžná příprava na cvičení28 hCelkem168 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Tento předmět je téměř identický s Ekonometrií 2 (ENC-EKM) vyučovanou v češtině. Pro úspěšné absolvování předmětu je nutné splnění následujících podmínek: 1. Aktivní účast na cvičeních: účast na cvičeních je povinná, přičemž docházka je považována za splněnou při nejméně 9 aktivních účastí na výukových cvičeních, a to vždy na cvičení, kde je student řádně zapsán podle UIS (náhrady nejsou z kapacitních důvodů možné); aktivní účast znamená, že student je na daném cvičení schopen využít poznatky získané z přednášek i z předchozích cvičení při řešení praktických úkolů a na cvičení aktivně pracuje; v opačném případě je docházka neaktivní (= absence). Pozdní příchody > 30 minut se považují za absenci. 2. Splnění průběžného testu: test proběhne v předem oznámený čas v týdnech 7, 8 nebo 9. Ke splnění je nutné získat alespoň 10 z 20 možných bodů. V případě neúspěchu či řádně omluvené absence u řádného termínu je možné využít dvou opravných / náhradních termínů. 3. Úspěšně složená závěrečná písemná zkouška zahrnující teoretickou a praktickou část; pro úspěšné složení závěrečné zkoušky je nutné získat min. 40 bodů z max. 80 možných bodů. K přihlášení se ke zkoušce je nutný zápočet (\"Z\"). Bonusové body: za aktivní participaci ve cvičeních 1 až 12 se dále uděluje 1 bonusový bod ke zkoušce sloužící k vylepšení známky z předmětu. Student, který nesplnil některou z uvedených podmínek, je hodnocen z předmětu známkou \"nevyhověl (F)\". Dílčí podmínky 1. a 2. představují průběžnou kontrolu studijních povinností a jsou podkladem k udělení zápočtu. Bonusové body se nezapočítají z hlediska podmínek k zápočtu. Známka z předmětu je stanovena na základě součtu bodů z průběžného testu, závěrečné zkoušky a bonusových bodů podle tabulky: [90 – 100] A; [83 – 90) B; [75 – 83) C; [68 – 75) D; [60 – 68) E; [0 – 60) F. Během průběžných testů a závěrečné zkoušky lze použít psací potřeby, čistý list papíru a vědeckou kalkulačku. Pro identifikaci je nutné přinést studentskou kartu nebo jiný úřední doklad s fotkou. Jakékoli opisování, zaznamenávání nebo vynášení průběžných testů či zkouškových písemek, používání nedovolených pomůcek, mobilních telefonů či jiných komunikačních zařízení nebo jiné narušování objektivity zkoušky či průběžných testů bude považováno za nesplnění podmínek ukončení předmětu a za porušení studijních předpisů. Následkem toho uzavře vyučující klasifikaci v UIS hodnocením \"nevyhověl (F)\", případně se studentem zahájí disciplinární řízení."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích10 %Vypracování semestrální práce0 %Absolvování průběžného testu (testů)20 %Absolvování závěrečného testu70 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:ADAMEC, Václav. 2014. Econometry II. 1. vyd. Mendelova universita v Brně: Ediční středisko Mendelovy university v Brně, 134 s. ISBN 978-80-7509-159-8.GUJARATI, Damodar N.; PORTER, Dawn C. Basic econometrics. 5. vyd. Boston: McGraw-Hill Irwin, 922 s. ISBN 007-127625-4.Doporučená:GREENE, William H. 2012. Econometric analysis. 7. vyd. Boston [u.a.]: Pearson, 1238 s. ISBN 978-0-273-75356-8.KMENTA, Jan. 2011. Elements of econometrics. 2. vyd. Ann Arbor: University of Michigan Press, 786 s. ISBN 0-472-10886-7.WOOLDRIDGE, Jeffrey M. 2010. Econometric analysis of cross section and panel data. 2. vyd. Cambridge: MIT Press, 1064 s. ISBN 978-0-262-23258-6.WOOLDRIDGE, Jeffrey M. 2016. Introductory econometrics: a modern approach. 5. vyd. Mason, Ohio: South-Western, 789 s. ISBN 978-1-305-27010-7."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "ADAMEC, Václav. 2014. Econometry II. 1. vyd. Mendelova universita v Brně: Ediční středisko Mendelovy university v Brně, 134 s. ISBN 978-80-7509-159-8.GUJARATI, Damodar N.; PORTER, Dawn C. Basic econometrics. 5. vyd. Boston: McGraw-Hill Irwin, 922 s. ISBN 007-127625-4."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "GREENE, William H. 2012. Econometric analysis. 7. vyd. Boston [u.a.]: Pearson, 1238 s. ISBN 978-0-273-75356-8.KMENTA, Jan. 2011. Elements of econometrics. 2. vyd. Ann Arbor: University of Michigan Press, 786 s. ISBN 0-472-10886-7.WOOLDRIDGE, Jeffrey M. 2010. Econometric analysis of cross section and panel data. 2. vyd. Cambridge: MIT Press, 1064 s. ISBN 978-0-262-23258-6.WOOLDRIDGE, Jeffrey M. 2016. Introductory econometrics: a modern approach. 5. vyd. Mason, Ohio: South-Western, 789 s. ISBN 978-1-305-27010-7."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-EAMA Economics and Management, prezenční forma, počáteční období LS 2024/2025Program N-EAMA Economics and Management, prezenční forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENA-EKM"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Ekonometrie 2 v AJ"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Econometrics 2"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course cannot be taken during the mobility abroad."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "English"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Václav Adamec, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Statistics and Operation Analysis (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Václav Adamec, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam and not Econometrics II"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to Econometrics (allowance 1/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Definition of Econometrics"
+    },
+    {
+      "label": "b.",
+      "content": "Econometric data types, cross-sectional data, time series, panel data"
+    },
+    {
+      "label": "c.",
+      "content": "Applied regression analysis, steps of econometric analysis, ways to construct econometric model"
+    },
+    {
+      "label": "2.",
+      "content": "Classical linear regression model and its assumptions (allowance 3/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Classical linear regression model with multiple explanatory variables"
+    },
+    {
+      "label": "b.",
+      "content": "Ordinary Least Squares and Generalized Least Squares"
+    },
+    {
+      "label": "c.",
+      "content": "Hypothesis testing in the linear regression model"
+    },
+    {
+      "label": "d.",
+      "content": "Assumptions of classical linear regression model"
+    },
+    {
+      "label": "3.",
+      "content": "Violations and remedies of classical linear regression model assumptions (allowance 4/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Multiple model construction, methods and criteria, model overfitting, underfitting"
+    },
+    {
+      "label": "b.",
+      "content": "Multicollinearity, causes, consequences, methods of detection, remedy"
+    },
+    {
+      "label": "c.",
+      "content": "Heteroskedasticity, causes, consequences, methods of detection, remedy"
+    },
+    {
+      "label": "d.",
+      "content": "Serial correlation, causes, consequences, methods of detection, remedy"
+    },
+    {
+      "label": "4.",
+      "content": "Specific problems of economic time series analysis (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Nonlinearity of time series"
+    },
+    {
+      "label": "b.",
+      "content": "Seasonality and periodicity in time series"
+    },
+    {
+      "label": "c.",
+      "content": "Nonstationarity of time series"
+    },
+    {
+      "label": "d.",
+      "content": "Spurious regression in time series"
+    },
+    {
+      "label": "e.",
+      "content": "Cointegration of time series"
+    },
+    {
+      "label": "5.",
+      "content": "Advanced methods for the analysis and modelling of univariate time series (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Stochastic time series modelling"
+    },
+    {
+      "label": "b.",
+      "content": "Box-Jenkins methodolodgy, principle"
+    },
+    {
+      "label": "c.",
+      "content": "Stationary ARMA and integrated ARIMA processes"
+    },
+    {
+      "label": "d.",
+      "content": "Seasonal Box-Jenkins SARIMA processes"
+    },
+    {
+      "label": "e.",
+      "content": "Volatility models"
+    },
+    {
+      "label": "f.",
+      "content": "Regression models of time series"
+    },
+    {
+      "label": "6.",
+      "content": "Advanced methods for the analysis and modelling of multivariate time series (allowance 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Vector autoregressive models (VAR), specification, lag determination"
+    },
+    {
+      "label": "b.",
+      "content": "Granger causality, Granger causality testing"
+    },
+    {
+      "label": "c.",
+      "content": "Impulse-Response analysis"
+    },
+    {
+      "label": "d.",
+      "content": "Vector moving averages models (VMA)"
+    },
+    {
+      "label": "e.",
+      "content": "Vector autoregressive moving averages models (VARMA)"
+    },
+    {
+      "label": "7.",
+      "content": "Analysis of panel data (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Models of panel data"
+    },
+    {
+      "label": "b.",
+      "content": "Panel diagnostics"
+    },
+    {
+      "label": "c.",
+      "content": "Panel data analysis in software Gretl"
+    },
+    {
+      "label": "8.",
+      "content": "Nonlinear models (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Motivation, applications in Econometry"
+    },
+    {
+      "label": "b.",
+      "content": "Nonlinear least squares"
+    },
+    {
+      "label": "c.",
+      "content": "Estimation techniques (Gauss-Newton and Levenberg-Marquardt algorithms), applications"
+    },
+    {
+      "label": "d.",
+      "content": "Analysis of binary response, binary logit and probit models"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "10 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "0 %"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "20 %"
+    },
+    {
+      "label": "Final test",
+      "content": "70 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, SS 2023/2024, WS 2023/2024, SS 2022/2023, WS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Ekonometrie 2 v AJ"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Econometrics 2"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course cannot be taken during the mobility abroad."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: English"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Václav Adamec, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Statistics and Operation Analysis (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Václav Adamec, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam and not Econometrics II"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday13.00-14.50Q02V. AdamecLectureEvery week74Friday7.00-8.50Q24V. AdamecSeminarEvery week22Friday9.00-10.50Q24V. AdamecSeminarEvery week22Friday13.00-14.50Q36V. AdamecSeminarEvery week22"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Mastering the theory of multivariate econometric models formation using OLS method, its prerequisites and issue violations, including practical use of the methodology in the field of cross-sectional data, time series and panel data. Obtaining theoretical and practical knowledge of advanced methods of time series analysis involving the Box-Jenkins methodology and the related methods. Obtaining theoretical and practical knowledge of panel data analysis. Students can apply econometrics software. Knowledge and skills learned in this course are expected to be used during work on student diploma's thesis."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to Econometrics (allowance 1/0) a.Definition of Econometricsb.Econometric data types, cross-sectional data, time series, panel datac.Applied regression analysis, steps of econometric analysis, ways to construct econometric model2.Classical linear regression model and its assumptions (allowance 3/4) a.Classical linear regression model with multiple explanatory variablesb.Ordinary Least Squares and Generalized Least Squaresc.Hypothesis testing in the linear regression modeld.Assumptions of classical linear regression model3.Violations and remedies of classical linear regression model assumptions (allowance 4/6) a.Multiple model construction, methods and criteria, model overfitting, underfittingb.Multicollinearity, causes, consequences, methods of detection, remedyc.Heteroskedasticity, causes, consequences, methods of detection, remedyd.Serial correlation, causes, consequences, methods of detection, remedy4.Specific problems of economic time series analysis (allowance 4/4) a.Nonlinearity of time seriesb.Seasonality and periodicity in time seriesc.Nonstationarity of time seriesd.Spurious regression in time seriese.Cointegration of time series5.Advanced methods for the analysis and modelling of univariate time series (allowance 6/6) a.Stochastic time series modellingb.Box-Jenkins methodolodgy, principlec.Stationary ARMA and integrated ARIMA processesd.Seasonal Box-Jenkins SARIMA processese.Volatility modelsf.Regression models of time series6.Advanced methods for the analysis and modelling of multivariate time series (allowance 4/2) a.Vector autoregressive models (VAR), specification, lag determinationb.Granger causality, Granger causality testingc.Impulse-Response analysisd.Vector moving averages models (VMA)e.Vector autoregressive moving averages models (VARMA)7.Analysis of panel data (allowance 4/4) a.Models of panel datab.Panel diagnosticsc.Panel data analysis in software Gretl8.Nonlinear models (allowance 2/2) a.Motivation, applications in Econometryb.Nonlinear least squaresc.Estimation techniques (Gauss-Newton and Levenberg-Marquardt algorithms), applicationsd.Analysis of binary response, binary logit and probit models"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Definition of Econometricsb.Econometric data types, cross-sectional data, time series, panel datac.Applied regression analysis, steps of econometric analysis, ways to construct econometric model"
+    },
+    {
+      "label": "[section] Introduction to Econometrics",
+      "content": "a.Definition of Econometricsb.Econometric data types, cross-sectional data, time series, panel datac.Applied regression analysis, steps of econometric analysis, ways to construct econometric model"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Classical linear regression model with multiple explanatory variablesb.Ordinary Least Squares and Generalized Least Squaresc.Hypothesis testing in the linear regression modeld.Assumptions of classical linear regression model"
+    },
+    {
+      "label": "[section] Classical linear regression model and its assumptions",
+      "content": "a.Classical linear regression model with multiple explanatory variablesb.Ordinary Least Squares and Generalized Least Squaresc.Hypothesis testing in the linear regression modeld.Assumptions of classical linear regression model"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Multiple model construction, methods and criteria, model overfitting, underfittingb.Multicollinearity, causes, consequences, methods of detection, remedyc.Heteroskedasticity, causes, consequences, methods of detection, remedyd.Serial correlation, causes, consequences, methods of detection, remedy"
+    },
+    {
+      "label": "[section] Violations and remedies of classical linear regression model assumptions",
+      "content": "a.Multiple model construction, methods and criteria, model overfitting, underfittingb.Multicollinearity, causes, consequences, methods of detection, remedyc.Heteroskedasticity, causes, consequences, methods of detection, remedyd.Serial correlation, causes, consequences, methods of detection, remedy"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Nonlinearity of time seriesb.Seasonality and periodicity in time seriesc.Nonstationarity of time seriesd.Spurious regression in time seriese.Cointegration of time series"
+    },
+    {
+      "label": "[section] Specific problems of economic time series analysis",
+      "content": "a.Nonlinearity of time seriesb.Seasonality and periodicity in time seriesc.Nonstationarity of time seriesd.Spurious regression in time seriese.Cointegration of time series"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Stochastic time series modellingb.Box-Jenkins methodolodgy, principlec.Stationary ARMA and integrated ARIMA processesd.Seasonal Box-Jenkins SARIMA processese.Volatility modelsf.Regression models of time series"
+    },
+    {
+      "label": "[section] Advanced methods for the analysis and modelling of univariate time series",
+      "content": "a.Stochastic time series modellingb.Box-Jenkins methodolodgy, principlec.Stationary ARMA and integrated ARIMA processesd.Seasonal Box-Jenkins SARIMA processese.Volatility modelsf.Regression models of time series"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Vector autoregressive models (VAR), specification, lag determinationb.Granger causality, Granger causality testingc.Impulse-Response analysisd.Vector moving averages models (VMA)e.Vector autoregressive moving averages models (VARMA)"
+    },
+    {
+      "label": "[section] Advanced methods for the analysis and modelling of multivariate time series",
+      "content": "a.Vector autoregressive models (VAR), specification, lag determinationb.Granger causality, Granger causality testingc.Impulse-Response analysisd.Vector moving averages models (VMA)e.Vector autoregressive moving averages models (VARMA)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Models of panel datab.Panel diagnosticsc.Panel data analysis in software Gretl"
+    },
+    {
+      "label": "[section] Analysis of panel data",
+      "content": "a.Models of panel datab.Panel diagnosticsc.Panel data analysis in software Gretl"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Motivation, applications in Econometryb.Nonlinear least squaresc.Estimation techniques (Gauss-Newton and Levenberg-Marquardt algorithms), applicationsd.Analysis of binary response, binary logit and probit models"
+    },
+    {
+      "label": "[section] Nonlinear models",
+      "content": "a.Motivation, applications in Econometryb.Nonlinear least squaresc.Estimation techniques (Gauss-Newton and Levenberg-Marquardt algorithms), applicationsd.Analysis of binary response, binary logit and probit models"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hconsultation0 hpreparation for exam60 hpreparation for regular testing24 helaboration and execution of projects0 hcontinuous preparation for seminars28 hTotal168 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "This course is near identical to that of Ekonometrie 2 (ENC-EKM), lectured in Czech. To successfully complete ENA-EKM, the following conditions must be satisfied: 1. Active attendance in labs: at least 9 active participations in the computer labs are required. Active participation means that the student masters the previously lectured and practiced material and actively works on tasks and performs exercises specified in the lab task sheet (see DS). Otherwise, the attendance is considered inactive (i.e. absence). Students comming late to labs > 30 minutes are treated as absent. 2. Passing the mid-term test: mid-term test shall be administered at the announced time and place in weeks 7, 8 or 9. At least 10 points out of 20 are required. Two resits of the midterm test are available before semester ends. 3. Passing the final examination: at least 40 points out of 80 are needed, to pass the final. Two resits of the final exam are available. Partial conditions 1 and 2 represent the verification of student´s study obligations. Satisfying conditions 1 and 2 results in \"Z\" mark (zápočet, minor credit granted) in the UIS allowing student to register for the final exam. Failing leads to \"N\" mark and \"F\" grade. Bonus points: students working actively in the lab sessions No 1 through 12 receive 1 bonus point per attended lab. Only lab sessions where student has been properly registered in the UIS, count towards this benefit. Bonus points have no influence upon minor credit. Course grade is based on the scores of the midterm test, final exam (passing scores count) and bonus points. The following grade table shall be used: [90 – 100] A; [83 – 90) B; [75 – 83) C; [68 – 75) D; [60 – 68) E; [0 – 60) F. All tests and exams are closed-book. Students may use pencil (pen), blank sheet of paper and scientific calculator. Students are requested to present university ID card or any official ID with a photo. During tests and exams, students are not allowed to use mobile phones, cameras or any electronic communication, recording or viewing device. In case of proven violation of the university ethical code, student receives \"F\" grade and a motion is filed with the Dean´s Office for disciplinary proceedings."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation10 %Term paper0 %Mid-term test(s)20 %Final test70 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:ADAMEC, Václav. 2014. Econometry II. 1st ed. Mendelova universita v Brně: Ediční středisko Mendelovy university v Brně, 134 p. ISBN 978-80-7509-159-8.GUJARATI, Damodar N.; PORTER, Dawn C. Basic econometrics. 5th ed. Boston: McGraw-Hill Irwin, 922 p. ISBN 007-127625-4.Recommended:GREENE, William H. 2012. Econometric analysis. 7th ed. Boston [u.a.]: Pearson, 1238 p. ISBN 978-0-273-75356-8.KMENTA, Jan. 2011. Elements of econometrics. 2nd ed. Ann Arbor: University of Michigan Press, 786 p. ISBN 0-472-10886-7.WOOLDRIDGE, Jeffrey M. 2010. Econometric analysis of cross section and panel data. 2nd ed. Cambridge: MIT Press, 1064 p. ISBN 978-0-262-23258-6.WOOLDRIDGE, Jeffrey M. 2016. Introductory econometrics: a modern approach. 5th ed. Mason, Ohio: South-Western, 789 p. ISBN 978-1-305-27010-7."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "ADAMEC, Václav. 2014. Econometry II. 1st ed. Mendelova universita v Brně: Ediční středisko Mendelovy university v Brně, 134 p. ISBN 978-80-7509-159-8.GUJARATI, Damodar N.; PORTER, Dawn C. Basic econometrics. 5th ed. Boston: McGraw-Hill Irwin, 922 p. ISBN 007-127625-4."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "GREENE, William H. 2012. Econometric analysis. 7th ed. Boston [u.a.]: Pearson, 1238 p. ISBN 978-0-273-75356-8.KMENTA, Jan. 2011. Elements of econometrics. 2nd ed. Ann Arbor: University of Michigan Press, 786 p. ISBN 0-472-10886-7.WOOLDRIDGE, Jeffrey M. 2010. Econometric analysis of cross section and panel data. 2nd ed. Cambridge: MIT Press, 1064 p. ISBN 978-0-262-23258-6.WOOLDRIDGE, Jeffrey M. 2016. Introductory econometrics: a modern approach. 5th ed. Mason, Ohio: South-Western, 789 p. ISBN 978-1-305-27010-7."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-EAMA Economics and Management, full-time form, initial period SS 2024/2025Programme C-EAMA Economics and Management, full-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:51:55",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

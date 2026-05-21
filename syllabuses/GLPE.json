@@ -1,0 +1,621 @@
+{
+  "courseCode": "GLPE",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "GLPE"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Geodézie a pozemková evidence"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Geodesy and Land Records"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2/4 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0/0 (h/h/dny v semestru) (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Možnost studia během zahraniční mobility je omezená vzhledem k tomu, že výuka je zaměřena na praktická měření v terénu. Absenci ve cvičeních je možné nahradit samostatnou prací na dálku a zpracováním protokolů podle návodů připravených během online výuky. Účast na hlavním cvičení je však povinná."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Tomáš Mikita, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav hospodářské úpravy lesů a aplikované geoinformatiky (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Miloš Cibulka, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Tomáš Mikita, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Zdeněk Patočka, Ph.D. (cvičící, přednášející, zkoušející)Ing. Nikola Žižlavská (cvičící)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne (Geodézie a pozemková evidence nebo nyní Geodézie a pozemková evidence)"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod a význam předmětu, jeho rozdělení. (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Tvar a rozměry zemského tělesa, rozložení síly zemské tíže, zemský elipsoid, geoid."
+    },
+    {
+      "label": "b.",
+      "content": "Obecné souřadnicové soustavy, zeměpisné a kartézské pravoúhlé soustavy."
+    },
+    {
+      "label": "c.",
+      "content": "Jednotky měření délek, úhlů, ploch, převody úhlových jednotek."
+    },
+    {
+      "label": "d.",
+      "content": "Úvod ke kartografickým zobrazením."
+    },
+    {
+      "label": "2.",
+      "content": "Souřadnicové výpočty. (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní souřadnicové výpočty, výpočet směrníku a délky strany, výpočet polární a ortogonální metody."
+    },
+    {
+      "label": "b.",
+      "content": "Výpočet protínání z úhlů a z délek."
+    },
+    {
+      "label": "c.",
+      "content": "Výpočet polygonového pořadu."
+    },
+    {
+      "label": "d.",
+      "content": "Výpočet plochy ze souřadnic lomových bodů."
+    },
+    {
+      "label": "e.",
+      "content": "Transformace souřadnic."
+    },
+    {
+      "label": "3.",
+      "content": "Měřické metody (dotace 16/20)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní metody geodetických měření - měření délek, vytyčení přímky, pravého úhlu, měření ortogonální metodou."
+    },
+    {
+      "label": "b.",
+      "content": "Měření vodorovných a výškových úhlů teodolity. Měření magnetických azimutů."
+    },
+    {
+      "label": "c.",
+      "content": "Seznámení se základními metodami měření polohopisu a výškopisu."
+    },
+    {
+      "label": "d.",
+      "content": "Výpočet ploch grafickým, mechanickým a analytickým způsobem."
+    },
+    {
+      "label": "e.",
+      "content": "Měření metodou GNSS (Global Navigation Satellite System)."
+    },
+    {
+      "label": "f.",
+      "content": "Úvod do skenovacích systémů."
+    },
+    {
+      "label": "4.",
+      "content": "Pozemková evidence. (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Vývoj pozemkové evidence. Stabilní katastr. Pozemkový katastr.Pozemková kniha. Jednotná evidence půdy. Evidence nemovitostí."
+    },
+    {
+      "label": "b.",
+      "content": "Katastr nemovitostí. Katatrální mapy. Digitální zpracování. Struktura digitální katastrální mapy."
+    },
+    {
+      "label": "c.",
+      "content": "Základní druhy zápisů vlastnických a jiných práv do katastru nemovitostí. Orientace v údajích geometrického plánu."
+    },
+    {
+      "label": "d.",
+      "content": "Využití dokumentace katastru nemovitostí pro lesní hospodářské plánování."
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021, LS 2019/2020 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Geodézie a pozemková evidence"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Geodesy and Land Records"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2/4 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0/0 (h/h/dny v semestru) (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2/4 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0/0 (h/h/dny v semestru) (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Možnost studia během zahraniční mobility je omezená vzhledem k tomu, že výuka je zaměřena na praktická měření v terénu. Absenci ve cvičeních je možné nahradit samostatnou prací na dálku a zpracováním protokolů podle návodů připravených během online výuky. Účast na hlavním cvičení je však povinná."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Tomáš Mikita, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav hospodářské úpravy lesů a aplikované geoinformatiky (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Miloš Cibulka, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Tomáš Mikita, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Zdeněk Patočka, Ph.D. (cvičící, přednášející, zkoušející)Ing. Nikola Žižlavská (cvičící)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne (Geodézie a pozemková evidence nebo nyní Geodézie a pozemková evidence)"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Znalost aplikací geodézie v lesnictví, seznámení s počítačovým zpracováním a s pozemkovou evidencí. V případě online výuky formou komentovaných přednášek a manuálů do cvičení s konzultacemi."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod a význam předmětu, jeho rozdělení. (dotace 4/2) a.Tvar a rozměry zemského tělesa, rozložení síly zemské tíže, zemský elipsoid, geoid.b.Obecné souřadnicové soustavy, zeměpisné a kartézské pravoúhlé soustavy.c.Jednotky měření délek, úhlů, ploch, převody úhlových jednotek.d.Úvod ke kartografickým zobrazením.2.Souřadnicové výpočty. (dotace 4/2) a.Základní souřadnicové výpočty, výpočet směrníku a délky strany, výpočet polární a ortogonální metody.b.Výpočet protínání z úhlů a z délek.c.Výpočet polygonového pořadu.d.Výpočet plochy ze souřadnic lomových bodů.e.Transformace souřadnic.3.Měřické metody (dotace 16/20) a.Základní metody geodetických měření - měření délek, vytyčení přímky, pravého úhlu, měření ortogonální metodou.b.Měření vodorovných a výškových úhlů teodolity. Měření magnetických azimutů.c.Seznámení se základními metodami měření polohopisu a výškopisu.d.Výpočet ploch grafickým, mechanickým a analytickým způsobem.e.Měření metodou GNSS (Global Navigation Satellite System).f.Úvod do skenovacích systémů.4.Pozemková evidence. (dotace 4/4) a.Vývoj pozemkové evidence. Stabilní katastr. Pozemkový katastr.Pozemková kniha. Jednotná evidence půdy. Evidence nemovitostí.b.Katastr nemovitostí. Katatrální mapy. Digitální zpracování. Struktura digitální katastrální mapy.c.Základní druhy zápisů vlastnických a jiných práv do katastru nemovitostí. Orientace v údajích geometrického plánu.d.Využití dokumentace katastru nemovitostí pro lesní hospodářské plánování."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Tvar a rozměry zemského tělesa, rozložení síly zemské tíže, zemský elipsoid, geoid.b.Obecné souřadnicové soustavy, zeměpisné a kartézské pravoúhlé soustavy.c.Jednotky měření délek, úhlů, ploch, převody úhlových jednotek.d.Úvod ke kartografickým zobrazením."
+    },
+    {
+      "label": "[section] Úvod a význam předmětu, jeho rozdělení.",
+      "content": "a.Tvar a rozměry zemského tělesa, rozložení síly zemské tíže, zemský elipsoid, geoid.b.Obecné souřadnicové soustavy, zeměpisné a kartézské pravoúhlé soustavy.c.Jednotky měření délek, úhlů, ploch, převody úhlových jednotek.d.Úvod ke kartografickým zobrazením."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Základní souřadnicové výpočty, výpočet směrníku a délky strany, výpočet polární a ortogonální metody.b.Výpočet protínání z úhlů a z délek.c.Výpočet polygonového pořadu.d.Výpočet plochy ze souřadnic lomových bodů.e.Transformace souřadnic."
+    },
+    {
+      "label": "[section] Souřadnicové výpočty.",
+      "content": "a.Základní souřadnicové výpočty, výpočet směrníku a délky strany, výpočet polární a ortogonální metody.b.Výpočet protínání z úhlů a z délek.c.Výpočet polygonového pořadu.d.Výpočet plochy ze souřadnic lomových bodů.e.Transformace souřadnic."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Základní metody geodetických měření - měření délek, vytyčení přímky, pravého úhlu, měření ortogonální metodou.b.Měření vodorovných a výškových úhlů teodolity. Měření magnetických azimutů.c.Seznámení se základními metodami měření polohopisu a výškopisu.d.Výpočet ploch grafickým, mechanickým a analytickým způsobem.e.Měření metodou GNSS (Global Navigation Satellite System).f.Úvod do skenovacích systémů."
+    },
+    {
+      "label": "[section] Měřické metody",
+      "content": "a.Základní metody geodetických měření - měření délek, vytyčení přímky, pravého úhlu, měření ortogonální metodou.b.Měření vodorovných a výškových úhlů teodolity. Měření magnetických azimutů.c.Seznámení se základními metodami měření polohopisu a výškopisu.d.Výpočet ploch grafickým, mechanickým a analytickým způsobem.e.Měření metodou GNSS (Global Navigation Satellite System).f.Úvod do skenovacích systémů."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Vývoj pozemkové evidence. Stabilní katastr. Pozemkový katastr.Pozemková kniha. Jednotná evidence půdy. Evidence nemovitostí.b.Katastr nemovitostí. Katatrální mapy. Digitální zpracování. Struktura digitální katastrální mapy.c.Základní druhy zápisů vlastnických a jiných práv do katastru nemovitostí. Orientace v údajích geometrického plánu.d.Využití dokumentace katastru nemovitostí pro lesní hospodářské plánování."
+    },
+    {
+      "label": "[section] Pozemková evidence.",
+      "content": "a.Vývoj pozemkové evidence. Stabilní katastr. Pozemkový katastr.Pozemková kniha. Jednotná evidence půdy. Evidence nemovitostí.b.Katastr nemovitostí. Katatrální mapy. Digitální zpracování. Struktura digitální katastrální mapy.c.Základní druhy zápisů vlastnických a jiných práv do katastru nemovitostí. Orientace v údajích geometrického plánu.d.Využití dokumentace katastru nemovitostí pro lesní hospodářské plánování."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h20 hcvičení28 h0 hpráce v terénu32 h0 hkonzultace0 h22 hpříprava na zkoušku18 h44 hpříprava na průběžný test4 h10 hzpracování protokolů22 h36 hzpracování projektů8 h8 hCelkem140 h140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zápočet a zkouška. Podmínkou ke získání zápočtu je vypracování průběžně zadávaných protokolů (zpravidla 1 protokol z každého cvičení), účast alespoň 80% na semestrálních cvičeních a 100% účast na hlavním cvičení. Součástí hlavního cvičení je zpracování projektu (polohopisný a výškopisný plán zájmového území, nivelační zápisník, technická zpráva měřické náčrty). Zkouška je ústní."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích30 %30 %Vypracování semestrální práce30 %30 %Absolvování závěrečné ústní zkoušky40 %40 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:DOUŠEK, František; MATĚJÍK, Miroslav. 2005. Geodézie. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 310 s. ISBN 80-7157-913-0.MATĚJÍK, Miroslav; VITÁSKOVÁ, Jelena. 2002. Geodézie - katastr nemovitostí. Brno: MZLU v Brně, 99 s. ISBN 80-7157-568-2.Doporučená: Surveying: theory and practice. 7. vyd. Boston: WCB/McGraw-Hill, 1167 s. ISBN 0070159149.DOUŠEK, František. 1993. Geodezie: praktická cvičení. 1. vyd. Brno: Vysoká škola zemědělská, 146 s. ISBN 80-7157-076-1. Geodézia a fotogrametria. 1985. 1. vyd. Bratislava: Príroda, 546 s.ÚZ - Katastr nemovitostí, Zeměměřictví, Pozemkové úpravy a úřady, Sagit, a.s., Ostrava, 2012, 288 s., ISBN 978-80-7208-889-8"
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "DOUŠEK, František; MATĚJÍK, Miroslav. 2005. Geodézie. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 310 s. ISBN 80-7157-913-0.MATĚJÍK, Miroslav; VITÁSKOVÁ, Jelena. 2002. Geodézie - katastr nemovitostí. Brno: MZLU v Brně, 99 s. ISBN 80-7157-568-2."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "Surveying: theory and practice. 7. vyd. Boston: WCB/McGraw-Hill, 1167 s. ISBN 0070159149.DOUŠEK, František. 1993. Geodezie: praktická cvičení. 1. vyd. Brno: Vysoká škola zemědělská, 146 s. ISBN 80-7157-076-1. Geodézia a fotogrametria. 1985. 1. vyd. Bratislava: Príroda, 546 s.ÚZ - Katastr nemovitostí, Zeměměřictví, Pozemkové úpravy a úřady, Sagit, a.s., Ostrava, 2012, 288 s., ISBN 978-80-7208-889-8"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Specializace B-LESN-TROP Lesnictví tropů a subtropů, prezenční forma, počáteční období ZS 2023/2024Specializace B-LESN-LES Lesnictví, kombinovaná forma, počáteční období ZS 2023/2024Specializace B-LESN-LES Lesnictví, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "GLPE"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Geodézie a pozemková evidence"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Geodesy and Land Records"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2/4 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)part-time, 20/0/0 (h/h/days in semester) (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The possibility of studying during mobility abroad is limited due to the fact that the teaching is focused on practical measurements in the field. Absence in the exercises can be compensated by working independently at a distance and preparing protocols according to the instructions prepared during the online course. However, participation in the main terrain exercise is mandatory."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Tomáš Mikita, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Forest Management and Applied Geoinformatics (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Miloš Cibulka, Ph.D. (examiner, instructor, lecturer)doc. Ing. Tomáš Mikita, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Zdeněk Patočka, Ph.D. (examiner, instructor, lecturer)Ing. Nikola Žižlavská (instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not (Geodesy and Land Records or now Geodesy and Land Records)"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction and importance of the special suject. (allowance 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Shape and dimension of the Earth. Earth ellipsoid."
+    },
+    {
+      "label": "b.",
+      "content": "General coordinate systems."
+    },
+    {
+      "label": "c.",
+      "content": "Spatial Coordinate Calculations. Cartesian Coordinates."
+    },
+    {
+      "label": "d.",
+      "content": "Observational errors. Random quantity."
+    },
+    {
+      "label": "e.",
+      "content": "Units of measurement."
+    },
+    {
+      "label": "f.",
+      "content": "Preface to fartographic drawing. An overview of basic cartographic projection"
+    },
+    {
+      "label": "2.",
+      "content": "Coordinate geometry. (allowance 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Computation of bearing and length of sight line."
+    },
+    {
+      "label": "b.",
+      "content": "Computation of polar and orthogonal methods."
+    },
+    {
+      "label": "c.",
+      "content": "Analytic area calculation."
+    },
+    {
+      "label": "d.",
+      "content": "Polygonal traverse."
+    },
+    {
+      "label": "3.",
+      "content": "Surveying methods. (allowance 16/20)"
+    },
+    {
+      "label": "a.",
+      "content": "Horizontal and vertical measuring of directions and angles, methods, accuracy. Data analysis - introduction."
+    },
+    {
+      "label": "b.",
+      "content": "Surveying with use of simple devices. Orthogonal method, polar method."
+    },
+    {
+      "label": "c.",
+      "content": "Linear measurement - taping, setting out of straight line, perpendicular, surveying chart. Electronic distance measurement."
+    },
+    {
+      "label": "d.",
+      "content": "Tacheometry, contours and contour lines.Horizontal and vertical controls. Magnetic azimuth."
+    },
+    {
+      "label": "e.",
+      "content": "Measuring with GNSS (Global Navigation Satellite System)"
+    },
+    {
+      "label": "f.",
+      "content": "Introduction to Light Detection and Ranging (LIDAR) System."
+    },
+    {
+      "label": "4.",
+      "content": "Land records. (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "History of Land Records in Czech Republic."
+    },
+    {
+      "label": "b.",
+      "content": "Digital cadastral map. Elaboration of maps."
+    },
+    {
+      "label": "c.",
+      "content": "Cadastral documentation."
+    },
+    {
+      "label": "d.",
+      "content": "Utilization of the documantation to a Forest management plans."
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021, SS 2019/2020 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Geodézie a pozemková evidence"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Geodesy and Land Records"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2/4 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)part-time, 20/0/0 (h/h/days in semester) (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2/4 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)part-time, 20/0/0 (h/h/days in semester) (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The possibility of studying during mobility abroad is limited due to the fact that the teaching is focused on practical measurements in the field. Absence in the exercises can be compensated by working independently at a distance and preparing protocols according to the instructions prepared during the online course. However, participation in the main terrain exercise is mandatory."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Tomáš Mikita, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Forest Management and Applied Geoinformatics (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Miloš Cibulka, Ph.D. (examiner, instructor, lecturer)doc. Ing. Tomáš Mikita, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Zdeněk Patočka, Ph.D. (examiner, instructor, lecturer)Ing. Nikola Žižlavská (instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not (Geodesy and Land Records or now Geodesy and Land Records)"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Knowlege of the basic surveying methods. Students will get the basic information about survey mesurements, mappig, construction surveying, adjustments and computations with rectangular and polar coordinates and land records in CR. In the case of online lessons in the form of annotated lectures and manuals for exercises with consultations."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction and importance of the special suject. (allowance 4/2) a.Shape and dimension of the Earth. Earth ellipsoid.b.General coordinate systems.c.Spatial Coordinate Calculations. Cartesian Coordinates.d.Observational errors. Random quantity.e.Units of measurement.f.Preface to fartographic drawing. An overview of basic cartographic projection2.Coordinate geometry. (allowance 4/2) a.Computation of bearing and length of sight line.b.Computation of polar and orthogonal methods.c.Analytic area calculation.d.Polygonal traverse.3.Surveying methods. (allowance 16/20) a.Horizontal and vertical measuring of directions and angles, methods, accuracy. Data analysis - introduction.b.Surveying with use of simple devices. Orthogonal method, polar method.c.Linear measurement - taping, setting out of straight line, perpendicular, surveying chart. Electronic distance measurement.d.Tacheometry, contours and contour lines.Horizontal and vertical controls. Magnetic azimuth.e.Measuring with GNSS (Global Navigation Satellite System)f.Introduction to Light Detection and Ranging (LIDAR) System.4.Land records. (allowance 4/4) a.History of Land Records in Czech Republic.b.Digital cadastral map. Elaboration of maps.c.Cadastral documentation.d.Utilization of the documantation to a Forest management plans."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Shape and dimension of the Earth. Earth ellipsoid.b.General coordinate systems.c.Spatial Coordinate Calculations. Cartesian Coordinates.d.Observational errors. Random quantity.e.Units of measurement.f.Preface to fartographic drawing. An overview of basic cartographic projection"
+    },
+    {
+      "label": "[section] Introduction and importance of the special suject.",
+      "content": "a.Shape and dimension of the Earth. Earth ellipsoid.b.General coordinate systems.c.Spatial Coordinate Calculations. Cartesian Coordinates.d.Observational errors. Random quantity.e.Units of measurement.f.Preface to fartographic drawing. An overview of basic cartographic projection"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Computation of bearing and length of sight line.b.Computation of polar and orthogonal methods.c.Analytic area calculation.d.Polygonal traverse."
+    },
+    {
+      "label": "[section] Coordinate geometry.",
+      "content": "a.Computation of bearing and length of sight line.b.Computation of polar and orthogonal methods.c.Analytic area calculation.d.Polygonal traverse."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Horizontal and vertical measuring of directions and angles, methods, accuracy. Data analysis - introduction.b.Surveying with use of simple devices. Orthogonal method, polar method.c.Linear measurement - taping, setting out of straight line, perpendicular, surveying chart. Electronic distance measurement.d.Tacheometry, contours and contour lines.Horizontal and vertical controls. Magnetic azimuth.e.Measuring with GNSS (Global Navigation Satellite System)f.Introduction to Light Detection and Ranging (LIDAR) System."
+    },
+    {
+      "label": "[section] Surveying methods.",
+      "content": "a.Horizontal and vertical measuring of directions and angles, methods, accuracy. Data analysis - introduction.b.Surveying with use of simple devices. Orthogonal method, polar method.c.Linear measurement - taping, setting out of straight line, perpendicular, surveying chart. Electronic distance measurement.d.Tacheometry, contours and contour lines.Horizontal and vertical controls. Magnetic azimuth.e.Measuring with GNSS (Global Navigation Satellite System)f.Introduction to Light Detection and Ranging (LIDAR) System."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.History of Land Records in Czech Republic.b.Digital cadastral map. Elaboration of maps.c.Cadastral documentation.d.Utilization of the documantation to a Forest management plans."
+    },
+    {
+      "label": "[section] Land records.",
+      "content": "a.History of Land Records in Czech Republic.b.Digital cadastral map. Elaboration of maps.c.Cadastral documentation.d.Utilization of the documantation to a Forest management plans."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h20 hpractice28 h0 hfield work32 h0 hconsultation0 h22 hpreparation for exam18 h44 hpreparation for regular testing4 h10 helaboration of reports22 h36 helaboration and execution of projects8 h8 hTotal140 h140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "\"Credit and Exam. The condition for obtaining credit is the elaboration of continuously assigned protocols (usually 1 protocol from each exercise), attendance of at least 80% at semester exercises, and 100% attendance at the main exercise. The main exercise includes the processing of a project (planimetric and altimetric plan of the area of interest, leveling logbook, technical report, survey sketches). The exam is oral.\""
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation30 %30 %Term paper30 %30 %Final oral exam40 %40 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:DOUŠEK, František; MATĚJÍK, Miroslav. 2005. Geodézie. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 310 p. ISBN 80-7157-913-0.MATĚJÍK, Miroslav; VITÁSKOVÁ, Jelena. 2002. Geodézie - katastr nemovitostí. Brno: MZLU v Brně, 99 p. ISBN 80-7157-568-2.Recommended: Surveying: theory and practice. 7th ed. Boston: WCB/McGraw-Hill, 1167 p. ISBN 0070159149.DOUŠEK, František. 1993. Geodezie: praktická cvičení. 1st ed. Brno: Vysoká škola zemědělská, 146 p. ISBN 80-7157-076-1. Geodézia a fotogrametria. 1985. 1st ed. Bratislava: Príroda, 546 p.ÚZ - Katastr nemovitostí, Zeměměřictví, Pozemkové úpravy a úřady, Sagit, a.s., Ostrava, 2012, 288 s., ISBN 978-80-7208-889-8"
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "DOUŠEK, František; MATĚJÍK, Miroslav. 2005. Geodézie. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 310 p. ISBN 80-7157-913-0.MATĚJÍK, Miroslav; VITÁSKOVÁ, Jelena. 2002. Geodézie - katastr nemovitostí. Brno: MZLU v Brně, 99 p. ISBN 80-7157-568-2."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "Surveying: theory and practice. 7th ed. Boston: WCB/McGraw-Hill, 1167 p. ISBN 0070159149.DOUŠEK, František. 1993. Geodezie: praktická cvičení. 1st ed. Brno: Vysoká škola zemědělská, 146 p. ISBN 80-7157-076-1. Geodézia a fotogrametria. 1985. 1st ed. Bratislava: Príroda, 546 p.ÚZ - Katastr nemovitostí, Zeměměřictví, Pozemkové úpravy a úřady, Sagit, a.s., Ostrava, 2012, 288 s., ISBN 978-80-7208-889-8"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Track B-LESN-TROP Forestry of Tropics and Subtropics, full-time form, initial period WS 2023/2024Track B-LESN-FOR Forestry, part-time form, initial period WS 2023/2024Track B-LESN-FOR Forestry, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:13:34",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

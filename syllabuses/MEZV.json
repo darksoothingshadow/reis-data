@@ -1,0 +1,785 @@
+{
+  "courseCode": "MEZV",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "MEZV"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Mechanizace živočišné výroby"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Mechanization of Animal Production"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Bc. Ing. Jan Kudělka, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav zemědělské, potravinářské a environmentální techniky (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Jiří Fryč, CSc. (cvičící, přednášející, zkoušející)Bc. Ing. Jan Kudělka, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Doprava a manipulace v ŽV (dotace 4/9)"
+    },
+    {
+      "label": "a.",
+      "content": "Mechanické dopravníky a dávkovače"
+    },
+    {
+      "label": "b.",
+      "content": "Doprava kapalin"
+    },
+    {
+      "label": "c.",
+      "content": "Pneumatické dopravníky"
+    },
+    {
+      "label": "2.",
+      "content": "Větrání a klimatizace stájových objektů (dotace 4/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Přirozené a nucené větrání"
+    },
+    {
+      "label": "b.",
+      "content": "Výpočet množství vyměňovaného vzduchu"
+    },
+    {
+      "label": "c.",
+      "content": "Technické prostředky ke zmírnění tepelného stresu"
+    },
+    {
+      "label": "3.",
+      "content": "Stroje a zařízení ke krmení skotu (dotace 4/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Mobilní strojní linky s obsluhou."
+    },
+    {
+      "label": "b.",
+      "content": "Strojní linky částečnou automatizací"
+    },
+    {
+      "label": "c.",
+      "content": "Strojní linky s plnou automatizací"
+    },
+    {
+      "label": "4.",
+      "content": "Stroje a zařízení pro dojení (dotace 8/9)"
+    },
+    {
+      "label": "a.",
+      "content": "Fyziologická a technická podstata strojního dojení"
+    },
+    {
+      "label": "b.",
+      "content": "Funkční součásti dojicího stroje"
+    },
+    {
+      "label": "c.",
+      "content": "Automatizace a robotizace procesu dojení"
+    },
+    {
+      "label": "d.",
+      "content": "Dojírny a programy pro managemet stáda"
+    },
+    {
+      "label": "5.",
+      "content": "Chlazení mléka (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Kompresorové chladicí zařízení"
+    },
+    {
+      "label": "b.",
+      "content": "Technické řešení chladicích zařízení na mléko"
+    },
+    {
+      "label": "c.",
+      "content": "Energetické úspory při chlazení mléka"
+    },
+    {
+      "label": "6.",
+      "content": "Stroje a strojní linky v chovu prasat (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Zařízení k napájení prasat"
+    },
+    {
+      "label": "b.",
+      "content": "Stroje a strojní linky krmení prasat tekutými krmivy"
+    },
+    {
+      "label": "c.",
+      "content": "Stroje a strojní linky krmení prasat suchými krmivy"
+    },
+    {
+      "label": "7.",
+      "content": "Stroje a strojní linky v chovech drůbeže (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Strojní linky krmení drůbeže"
+    },
+    {
+      "label": "b.",
+      "content": "Zařízení k napájení drůbeže"
+    },
+    {
+      "label": "c.",
+      "content": "Zařízení pro manipulaci s vejci a technické líhnutí"
+    },
+    {
+      "label": "8.",
+      "content": "Stroje a zařízení k odklizu a zpracování výkalů (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Stroje a zařízení k odklizu chlévské mrvy a výkalů v chovech skotu"
+    },
+    {
+      "label": "b.",
+      "content": "Stroje a zařízení k odklizu chlévské mrvy a výkalů v chovech prasat"
+    },
+    {
+      "label": "c.",
+      "content": "Stroje a zařízení k odklizu trusu v chovech drůbeže"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "10 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "90 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, ZS 2021/2022, LS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Mechanizace živočišné výroby"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Mechanization of Animal Production"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Bc. Ing. Jan Kudělka, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav zemědělské, potravinářské a environmentální techniky (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Jiří Fryč, CSc. (cvičící, přednášející, zkoušející)Bc. Ing. Jan Kudělka, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý8.00-10.50Q01.02J. Kudělka, J. FryčCvičeníKaždý týden20Středa7.00-8.50C02J. Kudělka, J. FryčPřednáškaKaždý týden132Středa9.00-11.50Q01.02J. Kudělka, J. FryčCvičeníKaždý týden20Středa12.00-14.50Q01.02J. Kudělka, J. FryčCvičeníKaždý týden20Středa15.00-17.50Q01.02J. Kudělka, J. FryčCvičeníKaždý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cíl předmětu: 1. Získat znalosti o používaných strojích a strojních linkách v živočišné výrobě. 2. Získat dovednoti v oblasti stanovení základních technických parametrů některých strojních zařízení používaných v živočišné výrobě. 3. Získat kompetence v navrhování složení strojních linek pro technologické operace v živočišné výrobě."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Doprava a manipulace v ŽV (dotace 4/9) a.Mechanické dopravníky a dávkovačeb.Doprava kapalinc.Pneumatické dopravníky2.Větrání a klimatizace stájových objektů (dotace 4/6) a.Přirozené a nucené větráníb.Výpočet množství vyměňovaného vzduchuc.Technické prostředky ke zmírnění tepelného stresu3.Stroje a zařízení ke krmení skotu (dotace 4/6) a.Mobilní strojní linky s obsluhou.b.Strojní linky částečnou automatizacíc.Strojní linky s plnou automatizací4.Stroje a zařízení pro dojení (dotace 8/9) a.Fyziologická a technická podstata strojního dojeníb.Funkční součásti dojicího strojec.Automatizace a robotizace procesu dojeníd.Dojírny a programy pro managemet stáda5.Chlazení mléka (dotace 2/3) a.Kompresorové chladicí zařízeníb.Technické řešení chladicích zařízení na mlékoc.Energetické úspory při chlazení mléka6.Stroje a strojní linky v chovu prasat (dotace 2/3) a.Zařízení k napájení prasatb.Stroje a strojní linky krmení prasat tekutými krmivyc.Stroje a strojní linky krmení prasat suchými krmivy7.Stroje a strojní linky v chovech drůbeže (dotace 2/3) a.Strojní linky krmení drůbežeb.Zařízení k napájení drůbežec.Zařízení pro manipulaci s vejci a technické líhnutí8.Stroje a zařízení k odklizu a zpracování výkalů (dotace 2/3) a.Stroje a zařízení k odklizu chlévské mrvy a výkalů v chovech skotub.Stroje a zařízení k odklizu chlévské mrvy a výkalů v chovech prasatc.Stroje a zařízení k odklizu trusu v chovech drůbeže"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Mechanické dopravníky a dávkovačeb.Doprava kapalinc.Pneumatické dopravníky"
+    },
+    {
+      "label": "[section] Doprava a manipulace v ŽV",
+      "content": "a.Mechanické dopravníky a dávkovačeb.Doprava kapalinc.Pneumatické dopravníky"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Přirozené a nucené větráníb.Výpočet množství vyměňovaného vzduchuc.Technické prostředky ke zmírnění tepelného stresu"
+    },
+    {
+      "label": "[section] Větrání a klimatizace stájových objektů",
+      "content": "a.Přirozené a nucené větráníb.Výpočet množství vyměňovaného vzduchuc.Technické prostředky ke zmírnění tepelného stresu"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Mobilní strojní linky s obsluhou.b.Strojní linky částečnou automatizacíc.Strojní linky s plnou automatizací"
+    },
+    {
+      "label": "[section] Stroje a zařízení ke krmení skotu",
+      "content": "a.Mobilní strojní linky s obsluhou.b.Strojní linky částečnou automatizacíc.Strojní linky s plnou automatizací"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Fyziologická a technická podstata strojního dojeníb.Funkční součásti dojicího strojec.Automatizace a robotizace procesu dojeníd.Dojírny a programy pro managemet stáda"
+    },
+    {
+      "label": "[section] Stroje a zařízení pro dojení",
+      "content": "a.Fyziologická a technická podstata strojního dojeníb.Funkční součásti dojicího strojec.Automatizace a robotizace procesu dojeníd.Dojírny a programy pro managemet stáda"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Kompresorové chladicí zařízeníb.Technické řešení chladicích zařízení na mlékoc.Energetické úspory při chlazení mléka"
+    },
+    {
+      "label": "[section] Chlazení mléka",
+      "content": "a.Kompresorové chladicí zařízeníb.Technické řešení chladicích zařízení na mlékoc.Energetické úspory při chlazení mléka"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Zařízení k napájení prasatb.Stroje a strojní linky krmení prasat tekutými krmivyc.Stroje a strojní linky krmení prasat suchými krmivy"
+    },
+    {
+      "label": "[section] Stroje a strojní linky v chovu prasat",
+      "content": "a.Zařízení k napájení prasatb.Stroje a strojní linky krmení prasat tekutými krmivyc.Stroje a strojní linky krmení prasat suchými krmivy"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Strojní linky krmení drůbežeb.Zařízení k napájení drůbežec.Zařízení pro manipulaci s vejci a technické líhnutí"
+    },
+    {
+      "label": "[section] Stroje a strojní linky v chovech drůbeže",
+      "content": "a.Strojní linky krmení drůbežeb.Zařízení k napájení drůbežec.Zařízení pro manipulaci s vejci a technické líhnutí"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Stroje a zařízení k odklizu chlévské mrvy a výkalů v chovech skotub.Stroje a zařízení k odklizu chlévské mrvy a výkalů v chovech prasatc.Stroje a zařízení k odklizu trusu v chovech drůbeže"
+    },
+    {
+      "label": "[section] Stroje a zařízení k odklizu a zpracování výkalů",
+      "content": "a.Stroje a zařízení k odklizu chlévské mrvy a výkalů v chovech skotub.Stroje a zařízení k odklizu chlévské mrvy a výkalů v chovech prasatc.Stroje a zařízení k odklizu trusu v chovech drůbeže"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení30 hlaboratorní práce12 hpříprava na zkoušku60 hpříprava na průběžné hodnocení10 hzpracování protokolů20 hzpracování projektů36 hCelkem196 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Pro udělení zápočtu je nutná minimálně 75% účast na cvičeních, odevzdaná semestrální práce a protokoly z jednotlivých cvičení. Předmět je ukončen ústní zkouškou. Student si vylosuje tématický okruh. Poté má čas na přípravu. Po úspěšném složení zkoušky (minimálně 70%) je mu známka zapsána do UISu."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumVypracování semestrální práce10 %Absolvování závěrečné ústní zkoušky90 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:GÁLIK, Roman. 2015. Technika pre chov zvierat. Nitra: SPU Nitra, 225 s. ISBN 978-80-552-1407-8.GÁLÍK, Roman. 2012. Technika pre živočíšnu výrobu 1. Nitra: SPU v Nitre, 186 s. ISBN 978-80-552-0926-5.KEJÍK, Cyril; FRYČ, Jiří. 1998. Technika pro živočišnou výrobu. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita, 154 s. ISBN 80-7157-331-0.KEJÍK, Cyril; FRYČ, Jiří. 1997. Technika pro živočišnou výrobu II. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 153 s. ISBN 80-7157-252-7.Doporučená:GÁLIK, Roman; BOĎO, Štefan; FRYČ, Jiří. 2014. Technological systems for layer housing and their influence on products quality. 1. vyd. Nitra: Slovak university of agriculture in Nitra, 69 s. ISBN 978-80-552-1167-1.KEJÍK, Cyril. 1992. Mechanizace živočišné výroby: přednášky. 2. vyd. Brno: Vysoká škola zemědělská, 135 s. ISBN 80-7157-055-9.KEJÍK, Cyril; MAREČEK, Jan. 1993. Mechanizace živočišné výroby. 2. vyd. Brno: Vysoká škola zemědělská, 132 s. ISBN 80-7157-095-8.PŘIKRYL, Miroslav a kol. 1997. Technologická zařízení staveb živočišné výroby. Praha: Tempo Press II, 276 s. ISBN 80-901052-0-3."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "GÁLIK, Roman. 2015. Technika pre chov zvierat. Nitra: SPU Nitra, 225 s. ISBN 978-80-552-1407-8.GÁLÍK, Roman. 2012. Technika pre živočíšnu výrobu 1. Nitra: SPU v Nitre, 186 s. ISBN 978-80-552-0926-5.KEJÍK, Cyril; FRYČ, Jiří. 1998. Technika pro živočišnou výrobu. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita, 154 s. ISBN 80-7157-331-0.KEJÍK, Cyril; FRYČ, Jiří. 1997. Technika pro živočišnou výrobu II. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 153 s. ISBN 80-7157-252-7."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "GÁLIK, Roman; BOĎO, Štefan; FRYČ, Jiří. 2014. Technological systems for layer housing and their influence on products quality. 1. vyd. Nitra: Slovak university of agriculture in Nitra, 69 s. ISBN 978-80-552-1167-1.KEJÍK, Cyril. 1992. Mechanizace živočišné výroby: přednášky. 2. vyd. Brno: Vysoká škola zemědělská, 135 s. ISBN 80-7157-055-9.KEJÍK, Cyril; MAREČEK, Jan. 1993. Mechanizace živočišné výroby. 2. vyd. Brno: Vysoká škola zemědělská, 132 s. ISBN 80-7157-095-8.PŘIKRYL, Miroslav a kol. 1997. Technologická zařízení staveb živočišné výroby. Praha: Tempo Press II, 276 s. ISBN 80-901052-0-3."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-ZOT Zootechnika, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "MEZV"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Mechanizace živočišné výroby"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Mechanization of Animal Production"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Bc. Ing. Jan Kudělka, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Agricultural, Food and Environmental Engineering (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Jiří Fryč, CSc. (examiner, instructor, lecturer)Bc. Ing. Jan Kudělka, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Transport and handling in animal production (allowance 4/9)"
+    },
+    {
+      "label": "a.",
+      "content": "Mechanical conveyors"
+    },
+    {
+      "label": "b.",
+      "content": "Transportation and handling of liquids"
+    },
+    {
+      "label": "c.",
+      "content": "Pneumatic transport"
+    },
+    {
+      "label": "2.",
+      "content": "Ventilation and air conditioning of stable buildings (allowance 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Natural and forced ventilation"
+    },
+    {
+      "label": "b.",
+      "content": "Calculation of the amount of exchanged air"
+    },
+    {
+      "label": "c.",
+      "content": "Technical means to alleviate heat stress"
+    },
+    {
+      "label": "3.",
+      "content": "Machinery and equipment for cattle feeding (allowance 4/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Mobile machine lines with staff"
+    },
+    {
+      "label": "b.",
+      "content": "Machine lines with partial automation"
+    },
+    {
+      "label": "c.",
+      "content": "Machine lines with full automation"
+    },
+    {
+      "label": "4.",
+      "content": "Machinery and equipment for milking (allowance 8/9)"
+    },
+    {
+      "label": "a.",
+      "content": "Physiological and technical basis of the milking"
+    },
+    {
+      "label": "b.",
+      "content": "The functional components of the milking machine"
+    },
+    {
+      "label": "c.",
+      "content": "Automation and robotization of the milking process"
+    },
+    {
+      "label": "d.",
+      "content": "Milking parlors and herd management programs"
+    },
+    {
+      "label": "5.",
+      "content": "Milk cooling (allowance 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Compressor cooling device"
+    },
+    {
+      "label": "b.",
+      "content": "Technical methods of cooling milk"
+    },
+    {
+      "label": "c.",
+      "content": "Milk cooling and energy savings"
+    },
+    {
+      "label": "6.",
+      "content": "Machines and machine lines in pig farming (allowance 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Equipment for water supply in pigs farms"
+    },
+    {
+      "label": "b.",
+      "content": "Machines and machine lines for feeding pigs with liquid feed"
+    },
+    {
+      "label": "c.",
+      "content": "Machines and machine lines for feeding pigs with dry feed"
+    },
+    {
+      "label": "7.",
+      "content": "Machines and machine lines in poultry farming (allowance 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Equipment for water supply in poutry farms"
+    },
+    {
+      "label": "b.",
+      "content": "Poultry feeding machine lines"
+    },
+    {
+      "label": "c.",
+      "content": "Equipment for handling eggs and technical hatching"
+    },
+    {
+      "label": "8.",
+      "content": "Machinery and equipment for removing of manure and excrement (allowance 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Machines and equipment for the removal of manure and excrement in cattle farms"
+    },
+    {
+      "label": "b.",
+      "content": "Machines and equipment for the removal of manure and excrement in pig farms"
+    },
+    {
+      "label": "c.",
+      "content": "Machinery and equipment for removing droppings in poultry farms"
+    },
+    {
+      "label": "Term paper",
+      "content": "10 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "90 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, WS 2021/2022, SS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Mechanizace živočišné výroby"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Mechanization of Animal Production"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Bc. Ing. Jan Kudělka, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Agricultural, Food and Environmental Engineering (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Jiří Fryč, CSc. (examiner, instructor, lecturer)Bc. Ing. Jan Kudělka, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday8.00-10.50Q01.02J. Kudělka, J. FryčSeminarEvery week20Wednesday7.00-8.50C02J. Kudělka, J. FryčLectureEvery week132Wednesday9.00-11.50Q01.02J. Kudělka, J. FryčSeminarEvery week20Wednesday12.00-14.50Q01.02J. Kudělka, J. FryčSeminarEvery week20Wednesday15.00-17.50Q01.02J. Kudělka, J. FryčSeminarEvery week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Course objective: 1 To gain knowledge of machines and machinery used in animal production lines. 2. Get knowledge in setting some basic technical parameters of machinery used in animal production. 3. Get competencies in designing the composition of the machine lines for machining operations in livestock production."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Transport and handling in animal production (allowance 4/9) a.Mechanical conveyorsb.Transportation and handling of liquidsc.Pneumatic transport2.Ventilation and air conditioning of stable buildings (allowance 2/3) a.Natural and forced ventilationb.Calculation of the amount of exchanged airc.Technical means to alleviate heat stress3.Machinery and equipment for cattle feeding (allowance 4/6) a.Mobile machine lines with staffb.Machine lines with partial automationc.Machine lines with full automation4.Machinery and equipment for milking (allowance 8/9) a.Physiological and technical basis of the milkingb.The functional components of the milking machinec.Automation and robotization of the milking processd.Milking parlors and herd management programs5.Milk cooling (allowance 2/3) a.Compressor cooling deviceb.Technical methods of cooling milkc.Milk cooling and energy savings6.Machines and machine lines in pig farming (allowance 2/3) a.Equipment for water supply in pigs farmsb.Machines and machine lines for feeding pigs with liquid feedc.Machines and machine lines for feeding pigs with dry feed7.Machines and machine lines in poultry farming (allowance 2/3) a.Equipment for water supply in poutry farmsb.Poultry feeding machine linesc.Equipment for handling eggs and technical hatching8.Machinery and equipment for removing of manure and excrement (allowance 2/3) a.Machines and equipment for the removal of manure and excrement in cattle farmsb.Machines and equipment for the removal of manure and excrement in pig farmsc.Machinery and equipment for removing droppings in poultry farms"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Mechanical conveyorsb.Transportation and handling of liquidsc.Pneumatic transport"
+    },
+    {
+      "label": "[section] Transport and handling in animal production",
+      "content": "a.Mechanical conveyorsb.Transportation and handling of liquidsc.Pneumatic transport"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Natural and forced ventilationb.Calculation of the amount of exchanged airc.Technical means to alleviate heat stress"
+    },
+    {
+      "label": "[section] Ventilation and air conditioning of stable buildings",
+      "content": "a.Natural and forced ventilationb.Calculation of the amount of exchanged airc.Technical means to alleviate heat stress"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Mobile machine lines with staffb.Machine lines with partial automationc.Machine lines with full automation"
+    },
+    {
+      "label": "[section] Machinery and equipment for cattle feeding",
+      "content": "a.Mobile machine lines with staffb.Machine lines with partial automationc.Machine lines with full automation"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Physiological and technical basis of the milkingb.The functional components of the milking machinec.Automation and robotization of the milking processd.Milking parlors and herd management programs"
+    },
+    {
+      "label": "[section] Machinery and equipment for milking",
+      "content": "a.Physiological and technical basis of the milkingb.The functional components of the milking machinec.Automation and robotization of the milking processd.Milking parlors and herd management programs"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Compressor cooling deviceb.Technical methods of cooling milkc.Milk cooling and energy savings"
+    },
+    {
+      "label": "[section] Milk cooling",
+      "content": "a.Compressor cooling deviceb.Technical methods of cooling milkc.Milk cooling and energy savings"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Equipment for water supply in pigs farmsb.Machines and machine lines for feeding pigs with liquid feedc.Machines and machine lines for feeding pigs with dry feed"
+    },
+    {
+      "label": "[section] Machines and machine lines in pig farming",
+      "content": "a.Equipment for water supply in pigs farmsb.Machines and machine lines for feeding pigs with liquid feedc.Machines and machine lines for feeding pigs with dry feed"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Equipment for water supply in poutry farmsb.Poultry feeding machine linesc.Equipment for handling eggs and technical hatching"
+    },
+    {
+      "label": "[section] Machines and machine lines in poultry farming",
+      "content": "a.Equipment for water supply in poutry farmsb.Poultry feeding machine linesc.Equipment for handling eggs and technical hatching"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Machines and equipment for the removal of manure and excrement in cattle farmsb.Machines and equipment for the removal of manure and excrement in pig farmsc.Machinery and equipment for removing droppings in poultry farms"
+    },
+    {
+      "label": "[section] Machinery and equipment for removing of manure and excrement",
+      "content": "a.Machines and equipment for the removal of manure and excrement in cattle farmsb.Machines and equipment for the removal of manure and excrement in pig farmsc.Machinery and equipment for removing droppings in poultry farms"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice30 hlaboratory work12 hpreparation for exam60 hpreparation for regular assessment10 helaboration of reports20 helaboration and execution of projects36 hTotal196 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "For the award of credit is required at least 75% attendance at seminars, submitted semester project and the individual exercise protocols. The course is completed by oral exam. Students will draw topics. Then he has time to prepare. Upon successful completion of the examination (minimum 70%) is a mark entered into the UIS."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTerm paper10 %Final oral exam90 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:GÁLIK, Roman. 2015. Technika pre chov zvierat. Nitra: SPU Nitra, 225 p. ISBN 978-80-552-1407-8.GÁLÍK, Roman. 2012. Technika pre živočíšnu výrobu 1. Nitra: SPU v Nitre, 186 p. ISBN 978-80-552-0926-5.KEJÍK, Cyril; FRYČ, Jiří. 1998. Technika pro živočišnou výrobu. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita, 154 p. ISBN 80-7157-331-0.KEJÍK, Cyril; FRYČ, Jiří. 1997. Technika pro živočišnou výrobu II. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 153 p. ISBN 80-7157-252-7.Recommended:GÁLIK, Roman; BOĎO, Štefan; FRYČ, Jiří. 2014. Technological systems for layer housing and their influence on products quality. 1st ed. Nitra: Slovak university of agriculture in Nitra, 69 p. ISBN 978-80-552-1167-1.KEJÍK, Cyril. 1992. Mechanizace živočišné výroby: přednášky. 2nd ed. Brno: Vysoká škola zemědělská, 135 p. ISBN 80-7157-055-9.KEJÍK, Cyril; MAREČEK, Jan. 1993. Mechanizace živočišné výroby. 2nd ed. Brno: Vysoká škola zemědělská, 132 p. ISBN 80-7157-095-8.PŘIKRYL, Miroslav et al. 1997. Technologická zařízení staveb živočišné výroby. Praha: Tempo Press II, 276 p. ISBN 80-901052-0-3."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "GÁLIK, Roman. 2015. Technika pre chov zvierat. Nitra: SPU Nitra, 225 p. ISBN 978-80-552-1407-8.GÁLÍK, Roman. 2012. Technika pre živočíšnu výrobu 1. Nitra: SPU v Nitre, 186 p. ISBN 978-80-552-0926-5.KEJÍK, Cyril; FRYČ, Jiří. 1998. Technika pro živočišnou výrobu. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita, 154 p. ISBN 80-7157-331-0.KEJÍK, Cyril; FRYČ, Jiří. 1997. Technika pro živočišnou výrobu II. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 153 p. ISBN 80-7157-252-7."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "GÁLIK, Roman; BOĎO, Štefan; FRYČ, Jiří. 2014. Technological systems for layer housing and their influence on products quality. 1st ed. Nitra: Slovak university of agriculture in Nitra, 69 p. ISBN 978-80-552-1167-1.KEJÍK, Cyril. 1992. Mechanizace živočišné výroby: přednášky. 2nd ed. Brno: Vysoká škola zemědělská, 135 p. ISBN 80-7157-055-9.KEJÍK, Cyril; MAREČEK, Jan. 1993. Mechanizace živočišné výroby. 2nd ed. Brno: Vysoká škola zemědělská, 132 p. ISBN 80-7157-095-8.PŘIKRYL, Miroslav et al. 1997. Technologická zařízení staveb živočišné výroby. Praha: Tempo Press II, 276 p. ISBN 80-901052-0-3."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-ABG Animal Breeding, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:29:05",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

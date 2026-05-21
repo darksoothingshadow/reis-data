@@ -1,0 +1,557 @@
+{
+  "courseCode": "EBC-WIN",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-WIN"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Operační systém Windows"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Windows Operating System"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Mgr. Luděk Bártek, Ph.D. (cvičící, přednášející, zkoušející)prof. Ing. Cyril Klimeš, CSc. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška a Architektura operačních systémů"
+    },
+    {
+      "label": "1.",
+      "content": "Možnosti nasazení operačního systému (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Edice MS Windows."
+    },
+    {
+      "label": "b.",
+      "content": "Standardní instalace OS Windows."
+    },
+    {
+      "label": "c.",
+      "content": "Příprava silent instalace."
+    },
+    {
+      "label": "2.",
+      "content": "Správa a konfigurace operačního systému Windows (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Správa uživatelských účtů."
+    },
+    {
+      "label": "b.",
+      "content": "Oprávnění souborového systému."
+    },
+    {
+      "label": "c.",
+      "content": "Události systému."
+    },
+    {
+      "label": "3.",
+      "content": "Implementace Microsoft Active Directory a jeho využití ke správě (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Správa a nastavení uživatelů AD."
+    },
+    {
+      "label": "b.",
+      "content": "Organizační členění AD."
+    },
+    {
+      "label": "c.",
+      "content": "Koncepce správy systémů prostřednictvím GPO."
+    },
+    {
+      "label": "4.",
+      "content": "Windows server v roli File serveru (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Možnosti sdílení úložiště."
+    },
+    {
+      "label": "b.",
+      "content": "Distributed File System."
+    },
+    {
+      "label": "c.",
+      "content": "Konfigurace souborových úložišť pomocí PowerShellu."
+    },
+    {
+      "label": "5.",
+      "content": "Nástroje pro vzdálenou správu Windows (dotace 1/3)"
+    },
+    {
+      "label": "6.",
+      "content": "Konfigurace zabezpečení operačního systému Windows (dotace 1/3)"
+    },
+    {
+      "label": "7.",
+      "content": "Služba IIS a WSUS (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam služby IIS pro ostatní komponenty systému a její konfigurace."
+    },
+    {
+      "label": "b.",
+      "content": "Příprava služby WSUS."
+    },
+    {
+      "label": "8.",
+      "content": "Nasazení aplikačního softwaru (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Neinteraktivní instalace aplikačního softwaru."
+    },
+    {
+      "label": "b.",
+      "content": "MSI balíky."
+    },
+    {
+      "label": "c.",
+      "content": "Příprava balíků pro hromadnou instalaci softwaru."
+    },
+    {
+      "label": "9.",
+      "content": "Správa pomocí SCCM (dotace 3/9)"
+    },
+    {
+      "label": "a.",
+      "content": "Zapojení uživatelů a pracovních stanic do systému hromadné správy SCCM."
+    },
+    {
+      "label": "b.",
+      "content": "Příprava instalace OS Windows v prostředí SCCM."
+    },
+    {
+      "label": "c.",
+      "content": "Správa aplikačního softwaru prostřednictvím portálu Software Center."
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, LS 2022/2023, ZS 2022/2023, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Operační systém Windows"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Windows Operating System"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Mgr. Luděk Bártek, Ph.D. (cvičící, přednášející, zkoušející)prof. Ing. Cyril Klimeš, CSc. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a Architektura operačních systémů"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí15.00-15.50Q47B-AIIL. BártekPřednáškaKaždý týden21Pondělí16.00-18.50Q47B-AIIL. BártekCvičeníKaždý týden21Pátek14.00-17.50Q47B-AIIL. BártekPřednáškaNepravidelně20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět je zaměřen seznámení studenta s principem správy operačních systémů rodiny Windows. Při výuce jsou konfigurovány služby a nastavení desktopových i serverových edice OS Windows."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Možnosti nasazení operačního systému (dotace 1/3) a.Edice MS Windows.b.Standardní instalace OS Windows.c.Příprava silent instalace.2.Správa a konfigurace operačního systému Windows (dotace 2/6) a.Správa uživatelských účtů.b.Oprávnění souborového systému.c.Události systému.3.Implementace Microsoft Active Directory a jeho využití ke správě (dotace 2/6) a.Správa a nastavení uživatelů AD.b.Organizační členění AD.c.Koncepce správy systémů prostřednictvím GPO.4.Windows server v roli File serveru (dotace 1/3) a.Možnosti sdílení úložiště.b.Distributed File System.c.Konfigurace souborových úložišť pomocí PowerShellu.5.Nástroje pro vzdálenou správu Windows (dotace 1/3)6.Konfigurace zabezpečení operačního systému Windows (dotace 1/3)7.Služba IIS a WSUS (dotace 2/6) a.Význam služby IIS pro ostatní komponenty systému a její konfigurace.b.Příprava služby WSUS.8.Nasazení aplikačního softwaru (dotace 1/3) a.Neinteraktivní instalace aplikačního softwaru.b.MSI balíky.c.Příprava balíků pro hromadnou instalaci softwaru.9.Správa pomocí SCCM (dotace 3/9) a.Zapojení uživatelů a pracovních stanic do systému hromadné správy SCCM.b.Příprava instalace OS Windows v prostředí SCCM.c.Správa aplikačního softwaru prostřednictvím portálu Software Center."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Edice MS Windows.b.Standardní instalace OS Windows.c.Příprava silent instalace."
+    },
+    {
+      "label": "[section] Možnosti nasazení operačního systému",
+      "content": "a.Edice MS Windows.b.Standardní instalace OS Windows.c.Příprava silent instalace."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Správa uživatelských účtů.b.Oprávnění souborového systému.c.Události systému."
+    },
+    {
+      "label": "[section] Správa a konfigurace operačního systému Windows",
+      "content": "a.Správa uživatelských účtů.b.Oprávnění souborového systému.c.Události systému."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Správa a nastavení uživatelů AD.b.Organizační členění AD.c.Koncepce správy systémů prostřednictvím GPO."
+    },
+    {
+      "label": "[section] Implementace Microsoft Active Directory a jeho využití ke správě",
+      "content": "a.Správa a nastavení uživatelů AD.b.Organizační členění AD.c.Koncepce správy systémů prostřednictvím GPO."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Možnosti sdílení úložiště.b.Distributed File System.c.Konfigurace souborových úložišť pomocí PowerShellu."
+    },
+    {
+      "label": "[section] Windows server v roli File serveru",
+      "content": "a.Možnosti sdílení úložiště.b.Distributed File System.c.Konfigurace souborových úložišť pomocí PowerShellu."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Konfigurace zabezpečení operačního systému Windows (dotace 1/3)"
+    },
+    {
+      "label": "[section] Nástroje pro vzdálenou správu Windows",
+      "content": "6.Konfigurace zabezpečení operačního systému Windows (dotace 1/3)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Služba IIS a WSUS (dotace 2/6)"
+    },
+    {
+      "label": "[section] Konfigurace zabezpečení operačního systému Windows",
+      "content": "7.Služba IIS a WSUS (dotace 2/6)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Význam služby IIS pro ostatní komponenty systému a její konfigurace.b.Příprava služby WSUS."
+    },
+    {
+      "label": "[section] Služba IIS a WSUS",
+      "content": "a.Význam služby IIS pro ostatní komponenty systému a její konfigurace.b.Příprava služby WSUS."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Neinteraktivní instalace aplikačního softwaru.b.MSI balíky.c.Příprava balíků pro hromadnou instalaci softwaru."
+    },
+    {
+      "label": "[section] Nasazení aplikačního softwaru",
+      "content": "a.Neinteraktivní instalace aplikačního softwaru.b.MSI balíky.c.Příprava balíků pro hromadnou instalaci softwaru."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Zapojení uživatelů a pracovních stanic do systému hromadné správy SCCM.b.Příprava instalace OS Windows v prostředí SCCM.c.Správa aplikačního softwaru prostřednictvím portálu Software Center."
+    },
+    {
+      "label": "[section] Správa pomocí SCCM",
+      "content": "a.Zapojení uživatelů a pracovních stanic do systému hromadné správy SCCM.b.Příprava instalace OS Windows v prostředí SCCM.c.Správa aplikačního softwaru prostřednictvím portálu Software Center."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška14 h16 hcvičení42 h0 hlaboratorní práce40 h40 hkonzultace0 h40 hpříprava na zkoušku44 h44 hCelkem140 h140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Závěrečná zkouška se bude skládat z teoretické (test znalostí) a praktické části (test dovedností). Celkově lze získat z obou částí až 100 bodů, minimální počet je 60 bodů. Praktická část zkoušky prokazuje schopnost vyřešit laboratorní úlohy na reálných zařízeních s OS Windows."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAbsolvování závěrečného testu100 %100 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:KOUBEK, Tomáš; SMOLKA, Pavel. 2018. Operační systém Windows. Brno: Mendelova univerzita v Brně, 141 s. ISBN 978-80-7509-583-1.KEVIN, Greene; CHRISTIAN, Booth; MINASI, Mark. 2014. Mastering Windows Server 2012 R2. Indianapolis: Sybex, 1670 s. ISBN 978-1-118-28942-6.MELOSKI, Vladimir; SVIDERGOL, Brian; WRIGHT, Byron. 2018. Mastering Windows Server 2016. USA: John Wiley & Sons, 608 s. ISBN 978-1-119-40506-1.WILSON, Ed. 2015. PowerShell: průvodce skriptováním pro verzi 3.0. a vyšší. Brno: Computer Press, ISBN 978-80-251-4386-5.Doporučená:DAALMANS , Peter; BENNETT, Brett; MARTINEZ, Santos. 2014. Mastering System Center 2012 R2 Configuration Manager. : , 936 s. ISBN 978-1-118-82170-1.WILSON, Phil. 2004. The Definitive Guide to Windows Installer. Berkeley: CA: Apress, ISBN 978-1-59059-297-7."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "KOUBEK, Tomáš; SMOLKA, Pavel. 2018. Operační systém Windows. Brno: Mendelova univerzita v Brně, 141 s. ISBN 978-80-7509-583-1.KEVIN, Greene; CHRISTIAN, Booth; MINASI, Mark. 2014. Mastering Windows Server 2012 R2. Indianapolis: Sybex, 1670 s. ISBN 978-1-118-28942-6.MELOSKI, Vladimir; SVIDERGOL, Brian; WRIGHT, Byron. 2018. Mastering Windows Server 2016. USA: John Wiley & Sons, 608 s. ISBN 978-1-119-40506-1.WILSON, Ed. 2015. PowerShell: průvodce skriptováním pro verzi 3.0. a vyšší. Brno: Computer Press, ISBN 978-80-251-4386-5."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "DAALMANS , Peter; BENNETT, Brett; MARTINEZ, Santos. 2014. Mastering System Center 2012 R2 Configuration Manager. : , 936 s. ISBN 978-1-118-82170-1.WILSON, Phil. 2004. The Definitive Guide to Windows Installer. Berkeley: CA: Apress, ISBN 978-1-59059-297-7."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-AII Administrace IS/ICT, kombinovaná forma, počáteční období ZS 2024/2025Program B-AII Administrace IS/ICT, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-WIN"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Operační systém Windows"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Windows Operating System"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Mgr. Luděk Bártek, Ph.D. (examiner, instructor, lecturer)prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam and Operating Systems Architecture"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, SS 2022/2023, WS 2022/2023, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Operační systém Windows"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Windows Operating System"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Mgr. Luděk Bártek, Ph.D. (examiner, instructor, lecturer)prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam and Operating Systems Architecture"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday15.00-15.50Q47B-AIIL. BártekLectureEvery week21Monday16.00-18.50Q47B-AIIL. BártekSeminarEvery week21Friday14.00-17.50Q47B-AIIL. BártekLectureOccasionally20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Student is introduced into principles of Windows operating system configuration. The course is focused into configuring services and settings for desktop and server versions."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "The content of the course has not been saved in this language version."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture14 h16 hpractice42 h0 hlaboratory work40 h40 hconsultation0 h40 hpreparation for exam44 h44 hTotal140 h140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Final exam (written/oral and practical part). Maximum number of points is 100, minimum required is 60. The practical part of the exam proves the ability to solve laboratory tasks using real OS and Windows devices."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formFinal test100 %100 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:KOUBEK, Tomáš; SMOLKA, Pavel. 2018. Operační systém Windows. Brno: Mendelova univerzita v Brně, 141 p. ISBN 978-80-7509-583-1.KEVIN, Greene; CHRISTIAN, Booth; MINASI, Mark. 2014. Mastering Windows Server 2012 R2. Indianapolis: Sybex, 1670 p. ISBN 978-1-118-28942-6.MELOSKI, Vladimir; SVIDERGOL, Brian; WRIGHT, Byron. 2018. Mastering Windows Server 2016. USA: John Wiley & Sons, 608 p. ISBN 978-1-119-40506-1.WILSON, Ed. 2015. PowerShell: průvodce skriptováním pro verzi 3.0. a vyšší. Brno: Computer Press, ISBN 978-80-251-4386-5.Recommended:DAALMANS , Peter; BENNETT, Brett; MARTINEZ, Santos. 2014. Mastering System Center 2012 R2 Configuration Manager. : , 936 p. ISBN 978-1-118-82170-1.WILSON, Phil. 2004. The Definitive Guide to Windows Installer. Berkeley: CA: Apress, ISBN 978-1-59059-297-7."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "KOUBEK, Tomáš; SMOLKA, Pavel. 2018. Operační systém Windows. Brno: Mendelova univerzita v Brně, 141 p. ISBN 978-80-7509-583-1.KEVIN, Greene; CHRISTIAN, Booth; MINASI, Mark. 2014. Mastering Windows Server 2012 R2. Indianapolis: Sybex, 1670 p. ISBN 978-1-118-28942-6.MELOSKI, Vladimir; SVIDERGOL, Brian; WRIGHT, Byron. 2018. Mastering Windows Server 2016. USA: John Wiley & Sons, 608 p. ISBN 978-1-119-40506-1.WILSON, Ed. 2015. PowerShell: průvodce skriptováním pro verzi 3.0. a vyšší. Brno: Computer Press, ISBN 978-80-251-4386-5."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "DAALMANS , Peter; BENNETT, Brett; MARTINEZ, Santos. 2014. Mastering System Center 2012 R2 Configuration Manager. : , 936 p. ISBN 978-1-118-82170-1.WILSON, Phil. 2004. The Definitive Guide to Windows Installer. Berkeley: CA: Apress, ISBN 978-1-59059-297-7."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-AII Administration IS/ICT, part-time form, initial period WS 2024/2025Programme B-AII Administration IS/ICT, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:47:03",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

@@ -1,0 +1,981 @@
+{
+  "courseCode": "PFROS",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "PFROS"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Praktická fyziologie rostlin pro školkaře"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Practical plant physiology for nurserymans"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět je možné studovat během zahraniční mobility. Předpokladem je vysoká míra samostudia. Praktická cvičení budou nahrazena povinností vypracovat seminární práce zaměřené na nejnovejší trendy ve výzkumu nebo aplikacích souvisejícími s fyziologií dřevin. Příprva seminárních prací bude z hlediska časové zátěže odpovídat dotaci na cvičení v případě prezenčního studia. Témata jsou zadána ze strany garanta nebo administrátory předmětu, minimální počet jsou 2 seminární práce. V případě zahraniční mobility je podmínkou zápočtu úspěšně složený písemný test a odevzdané seminárních prací. Zkouška sestává z písemné části, po jejímž úspěšném složení následuje ústní ověření získaných vědomostí."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Jana Čechová, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Mendeleum - ústav genetiky (ZF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Zahradnická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jana Burgová, Ph.D. (cvičící, přednášející, zkoušející)Ing. Jana Čechová, Ph.D. (cvičící, garant, přednášející, zkoušející)Mgr. Jana Raddová, Ph.D. (cvičící)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Stavba rostlinného těla (základy se zaměřením se na dřeviny) (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Stavba rostlinné buňky, pletiva (rozdělení: pletiva meristematická, krycí, provzdušňovací, nasávací, vodivá)"
+    },
+    {
+      "label": "b.",
+      "content": "Kořen, stonek, list, pupen, květ (rozdělení, funkce, stavba, větvení, metamorfózy, opad listů apod.)"
+    },
+    {
+      "label": "c.",
+      "content": "Semeno a plod (stavba, vývin, klíčení, jarovizace, dormance)"
+    },
+    {
+      "label": "2.",
+      "content": "Vegetativní růst (2/1) (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Růst buňky a pletiv, dormance pupenů, růst (výhony, pupeny, listy), velikost listové plochy"
+    },
+    {
+      "label": "b.",
+      "content": "Apikální dominance, maximální výška"
+    },
+    {
+      "label": "c.",
+      "content": "Kambium (dělení buněk, růst kambia, produkce xylému a floému, hormonální ovlivnění kambiálního růstu)"
+    },
+    {
+      "label": "d.",
+      "content": "Růst kořenůProdlužování, rychlost růstu, sezónnost, opadavost listů, výhonů"
+    },
+    {
+      "label": "e.",
+      "content": "Možnosti měření růstových parametrůEndogenní a exogenní faktory ovlivňující vegetativní růstPraktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "3.",
+      "content": "Reprodukce rostlin (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Vztah mezi vegetativním růstem a reprodukcí"
+    },
+    {
+      "label": "b.",
+      "content": "Rozmnožování jehličnany – tvorba šišek, dozrávání, semena"
+    },
+    {
+      "label": "c.",
+      "content": "Rozmnožování dvouděložné – kvetení (sezónnost), opylení, oplodnění, partenokarpie, růst plodů, dozrávání"
+    },
+    {
+      "label": "d.",
+      "content": "Dozrávání semenEndogenní a exogenní faktory ovlivňující reprodukciPraktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "4.",
+      "content": "Enzymy, energie, respirace (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Enzymy (význam, funkce, třídění)"
+    },
+    {
+      "label": "b.",
+      "content": "Respirace (rostlinných částí, celé rostliny)"
+    },
+    {
+      "label": "c.",
+      "content": "Faktory ovlivňující respiraci (věk, dostupnost substrátu, světlo, voda, teplota, CO2, půdní vzduch, mechanické stimuly a poškození, emise)"
+    },
+    {
+      "label": "d.",
+      "content": "Asimilace"
+    },
+    {
+      "label": "5.",
+      "content": "Sacharidy (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Druhy sacharidů (mono-, oligo-, polysacharidy)"
+    },
+    {
+      "label": "b.",
+      "content": "Přeměny sacharidů (fosforilace, sacharóza, škrob)"
+    },
+    {
+      "label": "c.",
+      "content": "Využití sacharidů (respirace, růst, obrana, vylučování, regenerace)"
+    },
+    {
+      "label": "d.",
+      "content": "Akumulace (pupeny, kořeny, xylém, plody)"
+    },
+    {
+      "label": "e.",
+      "content": "Podzimní vybarvení (vztah: pigmenty – sacharidy)"
+    },
+    {
+      "label": "f.",
+      "content": "Praktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "6.",
+      "content": "Tuky, terpeny a další látky (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Tuky, vosky, kutin, suberin"
+    },
+    {
+      "label": "b.",
+      "content": "Fosfolipidy, glykolipidy, membránové lipidy (funkce a význam)"
+    },
+    {
+      "label": "c.",
+      "content": "Isoprenoidy a terpenoidy (esenciální oleje, monoterpeny, pryskyřice, karotenoidy, a další)"
+    },
+    {
+      "label": "d.",
+      "content": "Praktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "7.",
+      "content": "Fotosyntéza (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam fotosyntézy"
+    },
+    {
+      "label": "b.",
+      "content": "Chloroplasty"
+    },
+    {
+      "label": "c.",
+      "content": "Mechanismus fotosyntézy (světelné reakce, fotochemie, elektronový transport, NADP+, redukce, fosforylace, fotoinhibice, apod.)"
+    },
+    {
+      "label": "d.",
+      "content": "Příjem CO2"
+    },
+    {
+      "label": "e.",
+      "content": "Vnější faktory ovlivňující fotosyntézu (světlo, teplo, Co2, voda, vlhkost, živiny, polutanty)"
+    },
+    {
+      "label": "f.",
+      "content": "Vnitřní faktory ovlivňující fotosyntézu (druh, genotyp)"
+    },
+    {
+      "label": "g.",
+      "content": "Praktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "8.",
+      "content": "Příjem vody, proudění mízy a transport živin (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam vody, pohyb vody"
+    },
+    {
+      "label": "b.",
+      "content": "Měření vodního potenciálu"
+    },
+    {
+      "label": "c.",
+      "content": "Vztah půda-rostlina-atmosféra"
+    },
+    {
+      "label": "d.",
+      "content": "Absorpce přes list, stonek, kořeny"
+    },
+    {
+      "label": "e.",
+      "content": "Rozměry a využití kořenového systému"
+    },
+    {
+      "label": "f.",
+      "content": "Absorpce vody (půdní voda, půdní vzduch, teplota půdy, pasivní, osmóza)"
+    },
+    {
+      "label": "g.",
+      "content": "Kořenový vztlak, gutace, proudění mízy"
+    },
+    {
+      "label": "h.",
+      "content": "Embolie, choroby, mykorhiza a vodní režim"
+    },
+    {
+      "label": "9.",
+      "content": "Transpirace a vodní režim (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Proces transpirace, faktory ovlivňující transpiraci, vnější faktory ovlivňující transpiraci, rychlost transpirace"
+    },
+    {
+      "label": "b.",
+      "content": "Ztráty vody rostlinou"
+    },
+    {
+      "label": "c.",
+      "content": "Vodní bilance"
+    },
+    {
+      "label": "d.",
+      "content": "Vodní stres"
+    },
+    {
+      "label": "e.",
+      "content": "Adaptace na sucho"
+    },
+    {
+      "label": "10.",
+      "content": "Rostlinné hormony (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Auxiny, Cytokyniny, Gibereliny, Kys. abscisová, Etylen"
+    },
+    {
+      "label": "b.",
+      "content": "Další regulační sloučeniny (brassinosteroidy, jasmonáty, kys. salicylová, fenolické sloučeniny, polyaminy)"
+    },
+    {
+      "label": "c.",
+      "content": "Mechanismus jejich účinku"
+    },
+    {
+      "label": "d.",
+      "content": "Celistvost rostlin"
+    },
+    {
+      "label": "e.",
+      "content": "Praktické příklady ve vztahu ke školkařské produkci (řez, množení, růst)"
+    },
+    {
+      "label": "11.",
+      "content": "Postupy in vitro technik a jejich využití ke studiu fyziologických procesů a rozmnožování dřevin (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Regenerace rostlinných orgánů (kořenové kultury, pupenové kultury, stonkové řízky, buněčné kultury, aj.)"
+    },
+    {
+      "label": "b.",
+      "content": "Vliv fytohormonů na diferenciaci buněk a organogenezi"
+    },
+    {
+      "label": "c.",
+      "content": "Vegetativní rozmnožování - založení primární kultury, multiplikace, elongace, zakořeňování"
+    },
+    {
+      "label": "d.",
+      "content": "Převody do nesterilních podmínek"
+    },
+    {
+      "label": "e.",
+      "content": "Ozdravování rostlin v podmínkách in vitro"
+    },
+    {
+      "label": "12.",
+      "content": "Stresová fyziologie (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Teplo, Chlad, Mráz, Sucho"
+    },
+    {
+      "label": "b.",
+      "content": "Praktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "5 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "5 %"
+    },
+    {
+      "label": "Prezentace nebo obhajoba",
+      "content": "10 %"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "30 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "20 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "30 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Lednice"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Praktická fyziologie rostlin pro školkaře"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Practical plant physiology for nurserymans"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat během zahraniční mobility. Předpokladem je vysoká míra samostudia. Praktická cvičení budou nahrazena povinností vypracovat seminární práce zaměřené na nejnovejší trendy ve výzkumu nebo aplikacích souvisejícími s fyziologií dřevin. Příprva seminárních prací bude z hlediska časové zátěže odpovídat dotaci na cvičení v případě prezenčního studia. Témata jsou zadána ze strany garanta nebo administrátory předmětu, minimální počet jsou 2 seminární práce. V případě zahraniční mobility je podmínkou zápočtu úspěšně složený písemný test a odevzdané seminárních prací. Zkouška sestává z písemné části, po jejímž úspěšném složení následuje ústní ověření získaných vědomostí."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Jana Čechová, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Mendeleum - ústav genetiky (ZF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Zahradnická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jana Burgová, Ph.D. (cvičící, přednášející, zkoušející)Ing. Jana Čechová, Ph.D. (cvičící, garant, přednášející, zkoušející)Mgr. Jana Raddová, Ph.D. (cvičící)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaStředa10.00-11.50ZFD22 (Led)J. Čechová, J. BurgováPřednáškaKaždý týden15Čtvrtek14.00-16.50ZFEM2 (Mend)J. Burgová, J. Čechová, J. RaddováCvičeníJednou za 3 týdny12"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je seznámit studenty s fyziologickými funkcemi dřevin s důrazem na uplatnění teoretických poznatků v praktické činnosti, čemuž předchází seznámení se se stavbou rostlinného těla od buněčné úrovně až po úroveň celého organismu, látkovým složením, životním cyklem rostlin, aj. tématy níže uvedenými. Cvičení budou vyučovány ve 3 hodinových blocích slučujících vždy tři po sobě následující témata."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Stavba rostlinného těla (základy se zaměřením se na dřeviny) (dotace 2/1) a.Stavba rostlinné buňky, pletiva (rozdělení: pletiva meristematická, krycí, provzdušňovací, nasávací, vodivá)b.Kořen, stonek, list, pupen, květ (rozdělení, funkce, stavba, větvení, metamorfózy, opad listů apod.)c.Semeno a plod (stavba, vývin, klíčení, jarovizace, dormance)2.Vegetativní růst (2/1) (dotace 2/1) a.Růst buňky a pletiv, dormance pupenů, růst (výhony, pupeny, listy), velikost listové plochyb.Apikální dominance, maximální výškac.Kambium (dělení buněk, růst kambia, produkce xylému a floému, hormonální ovlivnění kambiálního růstu)d.Růst kořenůProdlužování, rychlost růstu, sezónnost, opadavost listů, výhonůe.Možnosti měření růstových parametrůEndogenní a exogenní faktory ovlivňující vegetativní růstPraktické příklady ve vztahu ke školkařské produkci3.Reprodukce rostlin (dotace 2/1) a.Vztah mezi vegetativním růstem a reprodukcíb.Rozmnožování jehličnany – tvorba šišek, dozrávání, semenac.Rozmnožování dvouděložné – kvetení (sezónnost), opylení, oplodnění, partenokarpie, růst plodů, dozráváníd.Dozrávání semenEndogenní a exogenní faktory ovlivňující reprodukciPraktické příklady ve vztahu ke školkařské produkci4.Enzymy, energie, respirace (dotace 2/1) a.Enzymy (význam, funkce, třídění)b.Respirace (rostlinných částí, celé rostliny)c.Faktory ovlivňující respiraci (věk, dostupnost substrátu, světlo, voda, teplota, CO2, půdní vzduch, mechanické stimuly a poškození, emise)d.Asimilace5.Sacharidy (dotace 2/1) a.Druhy sacharidů (mono-, oligo-, polysacharidy)b.Přeměny sacharidů (fosforilace, sacharóza, škrob)c.Využití sacharidů (respirace, růst, obrana, vylučování, regenerace)d.Akumulace (pupeny, kořeny, xylém, plody)e.Podzimní vybarvení (vztah: pigmenty – sacharidy)f.Praktické příklady ve vztahu ke školkařské produkci6.Tuky, terpeny a další látky (dotace 2/1) a.Tuky, vosky, kutin, suberinb.Fosfolipidy, glykolipidy, membránové lipidy (funkce a význam)c.Isoprenoidy a terpenoidy (esenciální oleje, monoterpeny, pryskyřice, karotenoidy, a další)d.Praktické příklady ve vztahu ke školkařské produkci7.Fotosyntéza (dotace 2/1) a.Význam fotosyntézyb.Chloroplastyc.Mechanismus fotosyntézy (světelné reakce, fotochemie, elektronový transport, NADP+, redukce, fosforylace, fotoinhibice, apod.)d.Příjem CO2e.Vnější faktory ovlivňující fotosyntézu (světlo, teplo, Co2, voda, vlhkost, živiny, polutanty)f.Vnitřní faktory ovlivňující fotosyntézu (druh, genotyp)g.Praktické příklady ve vztahu ke školkařské produkci8.Příjem vody, proudění mízy a transport živin (dotace 2/1) a.Význam vody, pohyb vodyb.Měření vodního potenciáluc.Vztah půda-rostlina-atmosférad.Absorpce přes list, stonek, kořenye.Rozměry a využití kořenového systémuf.Absorpce vody (půdní voda, půdní vzduch, teplota půdy, pasivní, osmóza)g.Kořenový vztlak, gutace, proudění mízyh.Embolie, choroby, mykorhiza a vodní režim9.Transpirace a vodní režim (dotace 2/1) a.Proces transpirace, faktory ovlivňující transpiraci, vnější faktory ovlivňující transpiraci, rychlost transpiraceb.Ztráty vody rostlinouc.Vodní bilanced.Vodní strese.Adaptace na suchof.Praktické příklady ve vztahu ke školkařské produkci10.Rostlinné hormony (dotace 2/1) a.Auxiny, Cytokyniny, Gibereliny, Kys. abscisová, Etylenb.Další regulační sloučeniny (brassinosteroidy, jasmonáty, kys. salicylová, fenolické sloučeniny, polyaminy)c.Mechanismus jejich účinkud.Celistvost rostline.Praktické příklady ve vztahu ke školkařské produkci (řez, množení, růst)11.Postupy in vitro technik a jejich využití ke studiu fyziologických procesů a rozmnožování dřevin (dotace 2/1) a.Regenerace rostlinných orgánů (kořenové kultury, pupenové kultury, stonkové řízky, buněčné kultury, aj.)b.Vliv fytohormonů na diferenciaci buněk a organogenezic.Vegetativní rozmnožování - založení primární kultury, multiplikace, elongace, zakořeňováníd.Převody do nesterilních podmíneke.Ozdravování rostlin v podmínkách in vitro12.Stresová fyziologie (dotace 2/1) a.Teplo, Chlad, Mráz, Suchob.Praktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Stavba rostlinné buňky, pletiva (rozdělení: pletiva meristematická, krycí, provzdušňovací, nasávací, vodivá)b.Kořen, stonek, list, pupen, květ (rozdělení, funkce, stavba, větvení, metamorfózy, opad listů apod.)c.Semeno a plod (stavba, vývin, klíčení, jarovizace, dormance)"
+    },
+    {
+      "label": "[section] Stavba rostlinného těla (základy se zaměřením se na dřeviny)",
+      "content": "a.Stavba rostlinné buňky, pletiva (rozdělení: pletiva meristematická, krycí, provzdušňovací, nasávací, vodivá)b.Kořen, stonek, list, pupen, květ (rozdělení, funkce, stavba, větvení, metamorfózy, opad listů apod.)c.Semeno a plod (stavba, vývin, klíčení, jarovizace, dormance)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Růst buňky a pletiv, dormance pupenů, růst (výhony, pupeny, listy), velikost listové plochyb.Apikální dominance, maximální výškac.Kambium (dělení buněk, růst kambia, produkce xylému a floému, hormonální ovlivnění kambiálního růstu)d.Růst kořenůProdlužování, rychlost růstu, sezónnost, opadavost listů, výhonůe.Možnosti měření růstových parametrůEndogenní a exogenní faktory ovlivňující vegetativní růstPraktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "[section] Vegetativní růst (2/1)",
+      "content": "a.Růst buňky a pletiv, dormance pupenů, růst (výhony, pupeny, listy), velikost listové plochyb.Apikální dominance, maximální výškac.Kambium (dělení buněk, růst kambia, produkce xylému a floému, hormonální ovlivnění kambiálního růstu)d.Růst kořenůProdlužování, rychlost růstu, sezónnost, opadavost listů, výhonůe.Možnosti měření růstových parametrůEndogenní a exogenní faktory ovlivňující vegetativní růstPraktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Vztah mezi vegetativním růstem a reprodukcíb.Rozmnožování jehličnany – tvorba šišek, dozrávání, semenac.Rozmnožování dvouděložné – kvetení (sezónnost), opylení, oplodnění, partenokarpie, růst plodů, dozráváníd.Dozrávání semenEndogenní a exogenní faktory ovlivňující reprodukciPraktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "[section] Reprodukce rostlin",
+      "content": "a.Vztah mezi vegetativním růstem a reprodukcíb.Rozmnožování jehličnany – tvorba šišek, dozrávání, semenac.Rozmnožování dvouděložné – kvetení (sezónnost), opylení, oplodnění, partenokarpie, růst plodů, dozráváníd.Dozrávání semenEndogenní a exogenní faktory ovlivňující reprodukciPraktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Enzymy (význam, funkce, třídění)b.Respirace (rostlinných částí, celé rostliny)c.Faktory ovlivňující respiraci (věk, dostupnost substrátu, světlo, voda, teplota, CO2, půdní vzduch, mechanické stimuly a poškození, emise)d.Asimilace"
+    },
+    {
+      "label": "[section] Enzymy, energie, respirace",
+      "content": "a.Enzymy (význam, funkce, třídění)b.Respirace (rostlinných částí, celé rostliny)c.Faktory ovlivňující respiraci (věk, dostupnost substrátu, světlo, voda, teplota, CO2, půdní vzduch, mechanické stimuly a poškození, emise)d.Asimilace"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Druhy sacharidů (mono-, oligo-, polysacharidy)b.Přeměny sacharidů (fosforilace, sacharóza, škrob)c.Využití sacharidů (respirace, růst, obrana, vylučování, regenerace)d.Akumulace (pupeny, kořeny, xylém, plody)e.Podzimní vybarvení (vztah: pigmenty – sacharidy)f.Praktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "[section] Sacharidy",
+      "content": "a.Druhy sacharidů (mono-, oligo-, polysacharidy)b.Přeměny sacharidů (fosforilace, sacharóza, škrob)c.Využití sacharidů (respirace, růst, obrana, vylučování, regenerace)d.Akumulace (pupeny, kořeny, xylém, plody)e.Podzimní vybarvení (vztah: pigmenty – sacharidy)f.Praktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Tuky, vosky, kutin, suberinb.Fosfolipidy, glykolipidy, membránové lipidy (funkce a význam)c.Isoprenoidy a terpenoidy (esenciální oleje, monoterpeny, pryskyřice, karotenoidy, a další)d.Praktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "[section] Tuky, terpeny a další látky",
+      "content": "a.Tuky, vosky, kutin, suberinb.Fosfolipidy, glykolipidy, membránové lipidy (funkce a význam)c.Isoprenoidy a terpenoidy (esenciální oleje, monoterpeny, pryskyřice, karotenoidy, a další)d.Praktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Význam fotosyntézyb.Chloroplastyc.Mechanismus fotosyntézy (světelné reakce, fotochemie, elektronový transport, NADP+, redukce, fosforylace, fotoinhibice, apod.)d.Příjem CO2e.Vnější faktory ovlivňující fotosyntézu (světlo, teplo, Co2, voda, vlhkost, živiny, polutanty)f.Vnitřní faktory ovlivňující fotosyntézu (druh, genotyp)g.Praktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "[section] Fotosyntéza",
+      "content": "a.Význam fotosyntézyb.Chloroplastyc.Mechanismus fotosyntézy (světelné reakce, fotochemie, elektronový transport, NADP+, redukce, fosforylace, fotoinhibice, apod.)d.Příjem CO2e.Vnější faktory ovlivňující fotosyntézu (světlo, teplo, Co2, voda, vlhkost, živiny, polutanty)f.Vnitřní faktory ovlivňující fotosyntézu (druh, genotyp)g.Praktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Význam vody, pohyb vodyb.Měření vodního potenciáluc.Vztah půda-rostlina-atmosférad.Absorpce přes list, stonek, kořenye.Rozměry a využití kořenového systémuf.Absorpce vody (půdní voda, půdní vzduch, teplota půdy, pasivní, osmóza)g.Kořenový vztlak, gutace, proudění mízyh.Embolie, choroby, mykorhiza a vodní režim"
+    },
+    {
+      "label": "[section] Příjem vody, proudění mízy a transport živin",
+      "content": "a.Význam vody, pohyb vodyb.Měření vodního potenciáluc.Vztah půda-rostlina-atmosférad.Absorpce přes list, stonek, kořenye.Rozměry a využití kořenového systémuf.Absorpce vody (půdní voda, půdní vzduch, teplota půdy, pasivní, osmóza)g.Kořenový vztlak, gutace, proudění mízyh.Embolie, choroby, mykorhiza a vodní režim"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Proces transpirace, faktory ovlivňující transpiraci, vnější faktory ovlivňující transpiraci, rychlost transpiraceb.Ztráty vody rostlinouc.Vodní bilanced.Vodní strese.Adaptace na suchof.Praktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "[section] Transpirace a vodní režim",
+      "content": "a.Proces transpirace, faktory ovlivňující transpiraci, vnější faktory ovlivňující transpiraci, rychlost transpiraceb.Ztráty vody rostlinouc.Vodní bilanced.Vodní strese.Adaptace na suchof.Praktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Auxiny, Cytokyniny, Gibereliny, Kys. abscisová, Etylenb.Další regulační sloučeniny (brassinosteroidy, jasmonáty, kys. salicylová, fenolické sloučeniny, polyaminy)c.Mechanismus jejich účinkud.Celistvost rostline.Praktické příklady ve vztahu ke školkařské produkci (řez, množení, růst)"
+    },
+    {
+      "label": "[section] Rostlinné hormony",
+      "content": "a.Auxiny, Cytokyniny, Gibereliny, Kys. abscisová, Etylenb.Další regulační sloučeniny (brassinosteroidy, jasmonáty, kys. salicylová, fenolické sloučeniny, polyaminy)c.Mechanismus jejich účinkud.Celistvost rostline.Praktické příklady ve vztahu ke školkařské produkci (řez, množení, růst)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Regenerace rostlinných orgánů (kořenové kultury, pupenové kultury, stonkové řízky, buněčné kultury, aj.)b.Vliv fytohormonů na diferenciaci buněk a organogenezic.Vegetativní rozmnožování - založení primární kultury, multiplikace, elongace, zakořeňováníd.Převody do nesterilních podmíneke.Ozdravování rostlin v podmínkách in vitro"
+    },
+    {
+      "label": "[section] Postupy in vitro technik a jejich využití ke studiu fyziologických procesů a rozmnožování dřevin",
+      "content": "a.Regenerace rostlinných orgánů (kořenové kultury, pupenové kultury, stonkové řízky, buněčné kultury, aj.)b.Vliv fytohormonů na diferenciaci buněk a organogenezic.Vegetativní rozmnožování - založení primární kultury, multiplikace, elongace, zakořeňováníd.Převody do nesterilních podmíneke.Ozdravování rostlin v podmínkách in vitro"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Teplo, Chlad, Mráz, Suchob.Praktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "[section] Stresová fyziologie",
+      "content": "a.Teplo, Chlad, Mráz, Suchob.Praktické příklady ve vztahu ke školkařské produkci"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení14 hodborná exkurze3 hveřejná prezentace (ústní)1 hpříprava na zkoušku40 hpříprava na průběžné hodnocení14 hpříprava prezentace2 hzpracování seminární práce10 hCelkem112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích5 %Vypracování semestrální práce5 %Prezentace nebo obhajoba10 %Absolvování průběžného testu (testů)30 %Absolvování závěrečného testu20 %Absolvování závěrečné ústní zkoušky30 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:BHATLA, SC; LAL, MA. 2018. Plant Physiology, Development and Metabolism. Singapore: Springer, 1237 s. ISBN 978-981-13-2022-4. Photosynthesis: Structures, Mechanisms, and Applications. 2017. ISBN 9783319488738. http://dx.doi.org/10.1007/978-3-319-48873-8. Plant Tolerance to Individual and Concurrent Stresses. 2017. ISBN 9788132237068. http://dx.doi.org/10.1007/978-81-322-3706-8.PROCHÁZKA, Stanislav; PROCHÁZKA, Stanislav. 2001. Botanika. Morfologie a fyziologie rostlin. Brno: Brno: Skriptum MZLU."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "BHATLA, SC; LAL, MA. 2018. Plant Physiology, Development and Metabolism. Singapore: Springer, 1237 s. ISBN 978-981-13-2022-4. Photosynthesis: Structures, Mechanisms, and Applications. 2017. ISBN 9783319488738. http://dx.doi.org/10.1007/978-3-319-48873-8. Plant Tolerance to Individual and Concurrent Stresses. 2017. ISBN 9788132237068. http://dx.doi.org/10.1007/978-81-322-3706-8.PROCHÁZKA, Stanislav; PROCHÁZKA, Stanislav. 2001. Botanika. Morfologie a fyziologie rostlin. Brno: Brno: Skriptum MZLU."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-SKO Školkařství, prezenční forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Lednice"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "PFROS"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Praktická fyziologie rostlin pro školkaře"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Practical plant physiology for nurserymans"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The subject can be studied during foreign mobility. A high level of self-study is a prerequisite. Practical exercises will be replaced by the obligation to prepare seminar papers focused on the latest trends in research or applications related to the physiology of woody plants. In terms of the time burden, the preparation of seminar papers will correspond to the subsidy for exercises in the case of full-time studies. Topics are assigned by the guarantor or subject administrators, the minimum number is 2 seminar theses. In the case of foreign mobility, the condition for credit is a successfully passed written test and submitted seminar papers. The exam consists of a written part, the successful completion of which is followed by an oral verification of the acquired knowledge."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Jana Čechová, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Mendeleum - Institute of Genetics and Plant Breeding (FH)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Horticulture"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jana Burgová, Ph.D. (examiner, instructor, lecturer)Ing. Jana Čechová, Ph.D. (examiner, instructor, lecturer, supervisor)Mgr. Jana Raddová, Ph.D. (instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Structure of the plant body (basics with a focus on woody plants) (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "- Plant cell structure, tissues (division: meristematic, covering, aerating, suction, conductive tissues)- Root, stem, leaf, bud, flower (division, function, structure, branching, metamorphosis, leaf abscission, etc.)- Seed and fruit (construction, development, germination, vernalization, dormancy)"
+    },
+    {
+      "label": "2.",
+      "content": "Vegetative growth (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "- Cell and tissue growth, bud dormancy, growth (shoots, buds, leaves), leaf area size- Apical dominance, maximum height- Cambium (cell division, cambium growth, production of xylem and phloem, hormonal influence of cambium growth)- Root growth- Elongation, growth rate, seasonality, shedding of leaves, shoots- Options for measuring growth parameters- Endogenous and exogenous factors affecting vegetative growth- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "3.",
+      "content": "Plant reproduction (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "- The relationship between vegetative growth and reproduction- Propagation of conifers - formation of cones, ripening, seeds- Dicotyledonous reproduction - flowering (seasonality), pollination, fertilization, parthenocarpy, fruit growth, ripening- Seed ripening- Endogenous and exogenous factors affecting reproduction- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "4.",
+      "content": "Enzymes, energy, respiration (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "- Enzymes (meaning, function, classification)- Respiration (plant parts, whole plant)- Factors affecting respiration (age, substrate availability, light, water, temperature, CO2, soil air, mechanical stimuli and damage, emissions)- Assimilation (formation of new tissues)"
+    },
+    {
+      "label": "5.",
+      "content": "Carbohydrates (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "- Types of carbohydrates (mono-, oligo-, polysaccharides)- Carbohydrate transformations (phosphorylation, sucrose, starch)- Utilization of carbohydrates (respiration, growth, defense, excretion, regeneration)- Accumulation (buds, roots, xylem, fruits)- Autumn coloring (relationship: pigments – carbohydrates)- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "6.",
+      "content": "Fats, terpenes and other substances (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "- Fats, waxes, cutin, suberin- Phospholipids, glycolipids, membrane lipids (function and meaning)- Isoprenoids and terpenoids (essential oils, monoterpenes, resins, carotenoids, and others)- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "7.",
+      "content": "Photosynthesis (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "- Importance of photosynthesis- Chloroplasts - Mechanism of photosynthesis (light reactions, photochemistry, electron transport, NADP+, reduction, phosphorylation, photoinhibition, etc.)- CO2 intake - External factors affecting photosynthesis (light, heat, Co2, water, moisture, nutrients, pollutants)- Internal factors influencing photosynthesis (species, genotype)- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "8.",
+      "content": "Water uptake, sap flow and nutrient transport (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "- Meaning of water, movement of water- Measurement of water potential- Soil-plant-atmosphere relationship- Absorption through leaf, stem, roots- Dimensions and use of the root system- Water absorption (soil water, soil air, soil temperature, passive, osmosis)- Root buoyancy, guttation, sap flow- Embolism, diseases, mycorrhiza and water regime"
+    },
+    {
+      "label": "9.",
+      "content": "Transpiration and water managemant (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "- The process of transpiration, factors influencing transpiration, external factors influencing transpiration, rate of transpiration- Water loss by the plant- Water balance- Water stress- Adaptation to drought- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "10.",
+      "content": "Phytohormones (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "- Auxins, Cytokinins, Gibberellins, Abscisic acid, Ethylene- Other regulatory compounds (brassinosteroids, jasmonates, salicylic acid, phenolic compounds, polyamines)- Mechanism of their action- Plant integrity- Practical examples in relation to nursery production (cutting, propagation, growth)"
+    },
+    {
+      "label": "11.",
+      "content": "Procedures of in vitro techniques and their use for the study of physiological processes and reproduction of woody plants (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "- Regeneration of plant organs (root cultures, bud cultures, stem cuttings, cell cultures, etc.)- Effect of phytohormones on cell differentiation and organogenesis- Vegetative reproduction - establishment of primary culture, multiplication, elongation, rooting- Transfers to non-sterile conditions- Healing of plants under in vitro conditions"
+    },
+    {
+      "label": "12.",
+      "content": "Stress physiology (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "- Heat- Cold- Frost- Dry- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "5 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "5 %"
+    },
+    {
+      "label": "Presentation or defence",
+      "content": "10 %"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "30 %"
+    },
+    {
+      "label": "Final test",
+      "content": "20 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "30 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Lednice"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Praktická fyziologie rostlin pro školkaře"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Practical plant physiology for nurserymans"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The subject can be studied during foreign mobility. A high level of self-study is a prerequisite. Practical exercises will be replaced by the obligation to prepare seminar papers focused on the latest trends in research or applications related to the physiology of woody plants. In terms of the time burden, the preparation of seminar papers will correspond to the subsidy for exercises in the case of full-time studies. Topics are assigned by the guarantor or subject administrators, the minimum number is 2 seminar theses. In the case of foreign mobility, the condition for credit is a successfully passed written test and submitted seminar papers. The exam consists of a written part, the successful completion of which is followed by an oral verification of the acquired knowledge."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Jana Čechová, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Mendeleum - Institute of Genetics and Plant Breeding (FH)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Horticulture"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jana Burgová, Ph.D. (examiner, instructor, lecturer)Ing. Jana Čechová, Ph.D. (examiner, instructor, lecturer, supervisor)Mgr. Jana Raddová, Ph.D. (instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityWednesday10.00-11.50ZFD22 (Led)J. Čechová, J. BurgováLectureEvery week15Thursday14.00-16.50ZFEM2 (Mend)J. Burgová, J. Čechová, J. RaddováSeminarJednou za 3 týdny12"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to acquaint students with the physiological functions of woody plants with an emphasis on the application of theoretical knowledge in practical activities, which is preceded by an introduction to the structure of the plant body from the cellular level to the level of the whole organism, substance composition, life cycle of plants, etc. topics listed below. The exercises will be taught in 3 regular blocks combining three consecutive topics."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Structure of the plant body (basics with a focus on woody plants) (allowance 2/1) a.- Plant cell structure, tissues (division: meristematic, covering, aerating, suction, conductive tissues)- Root, stem, leaf, bud, flower (division, function, structure, branching, metamorphosis, leaf abscission, etc.)- Seed and fruit (construction, development, germination, vernalization, dormancy)2.Vegetative growth (allowance 2/1) a.- Cell and tissue growth, bud dormancy, growth (shoots, buds, leaves), leaf area size- Apical dominance, maximum height- Cambium (cell division, cambium growth, production of xylem and phloem, hormonal influence of cambium growth)- Root growth- Elongation, growth rate, seasonality, shedding of leaves, shoots- Options for measuring growth parameters- Endogenous and exogenous factors affecting vegetative growth- Practical examples in relation to nursery production3.Plant reproduction (allowance 2/1) a.- The relationship between vegetative growth and reproduction- Propagation of conifers - formation of cones, ripening, seeds- Dicotyledonous reproduction - flowering (seasonality), pollination, fertilization, parthenocarpy, fruit growth, ripening- Seed ripening- Endogenous and exogenous factors affecting reproduction- Practical examples in relation to nursery production4.Enzymes, energy, respiration (allowance 2/1) a.- Enzymes (meaning, function, classification)- Respiration (plant parts, whole plant)- Factors affecting respiration (age, substrate availability, light, water, temperature, CO2, soil air, mechanical stimuli and damage, emissions)- Assimilation (formation of new tissues)5.Carbohydrates (allowance 2/1) a.- Types of carbohydrates (mono-, oligo-, polysaccharides)- Carbohydrate transformations (phosphorylation, sucrose, starch)- Utilization of carbohydrates (respiration, growth, defense, excretion, regeneration)- Accumulation (buds, roots, xylem, fruits)- Autumn coloring (relationship: pigments – carbohydrates)- Practical examples in relation to nursery production6.Fats, terpenes and other substances (allowance 2/1) a.- Fats, waxes, cutin, suberin- Phospholipids, glycolipids, membrane lipids (function and meaning)- Isoprenoids and terpenoids (essential oils, monoterpenes, resins, carotenoids, and others)- Practical examples in relation to nursery production7.Photosynthesis (allowance 2/1) a.- Importance of photosynthesis- Chloroplasts - Mechanism of photosynthesis (light reactions, photochemistry, electron transport, NADP+, reduction, phosphorylation, photoinhibition, etc.)- CO2 intake - External factors affecting photosynthesis (light, heat, Co2, water, moisture, nutrients, pollutants)- Internal factors influencing photosynthesis (species, genotype)- Practical examples in relation to nursery production8.Water uptake, sap flow and nutrient transport (allowance 2/1) a.- Meaning of water, movement of water- Measurement of water potential- Soil-plant-atmosphere relationship- Absorption through leaf, stem, roots- Dimensions and use of the root system- Water absorption (soil water, soil air, soil temperature, passive, osmosis)- Root buoyancy, guttation, sap flow- Embolism, diseases, mycorrhiza and water regime9.Transpiration and water managemant (allowance 2/1) a.- The process of transpiration, factors influencing transpiration, external factors influencing transpiration, rate of transpiration- Water loss by the plant- Water balance- Water stress- Adaptation to drought- Practical examples in relation to nursery production10.Phytohormones (allowance 2/1) a.- Auxins, Cytokinins, Gibberellins, Abscisic acid, Ethylene- Other regulatory compounds (brassinosteroids, jasmonates, salicylic acid, phenolic compounds, polyamines)- Mechanism of their action- Plant integrity- Practical examples in relation to nursery production (cutting, propagation, growth)11.Procedures of in vitro techniques and their use for the study of physiological processes and reproduction of woody plants (allowance 2/1) a.- Regeneration of plant organs (root cultures, bud cultures, stem cuttings, cell cultures, etc.)- Effect of phytohormones on cell differentiation and organogenesis- Vegetative reproduction - establishment of primary culture, multiplication, elongation, rooting- Transfers to non-sterile conditions- Healing of plants under in vitro conditions12.Stress physiology (allowance 2/1) a.- Heat- Cold- Frost- Dry- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.- Plant cell structure, tissues (division: meristematic, covering, aerating, suction, conductive tissues)- Root, stem, leaf, bud, flower (division, function, structure, branching, metamorphosis, leaf abscission, etc.)- Seed and fruit (construction, development, germination, vernalization, dormancy)"
+    },
+    {
+      "label": "[section] Structure of the plant body (basics with a focus on woody plants)",
+      "content": "a.- Plant cell structure, tissues (division: meristematic, covering, aerating, suction, conductive tissues)- Root, stem, leaf, bud, flower (division, function, structure, branching, metamorphosis, leaf abscission, etc.)- Seed and fruit (construction, development, germination, vernalization, dormancy)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.- Cell and tissue growth, bud dormancy, growth (shoots, buds, leaves), leaf area size- Apical dominance, maximum height- Cambium (cell division, cambium growth, production of xylem and phloem, hormonal influence of cambium growth)- Root growth- Elongation, growth rate, seasonality, shedding of leaves, shoots- Options for measuring growth parameters- Endogenous and exogenous factors affecting vegetative growth- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "[section] Vegetative growth",
+      "content": "a.- Cell and tissue growth, bud dormancy, growth (shoots, buds, leaves), leaf area size- Apical dominance, maximum height- Cambium (cell division, cambium growth, production of xylem and phloem, hormonal influence of cambium growth)- Root growth- Elongation, growth rate, seasonality, shedding of leaves, shoots- Options for measuring growth parameters- Endogenous and exogenous factors affecting vegetative growth- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.- The relationship between vegetative growth and reproduction- Propagation of conifers - formation of cones, ripening, seeds- Dicotyledonous reproduction - flowering (seasonality), pollination, fertilization, parthenocarpy, fruit growth, ripening- Seed ripening- Endogenous and exogenous factors affecting reproduction- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "[section] Plant reproduction",
+      "content": "a.- The relationship between vegetative growth and reproduction- Propagation of conifers - formation of cones, ripening, seeds- Dicotyledonous reproduction - flowering (seasonality), pollination, fertilization, parthenocarpy, fruit growth, ripening- Seed ripening- Endogenous and exogenous factors affecting reproduction- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.- Enzymes (meaning, function, classification)- Respiration (plant parts, whole plant)- Factors affecting respiration (age, substrate availability, light, water, temperature, CO2, soil air, mechanical stimuli and damage, emissions)- Assimilation (formation of new tissues)"
+    },
+    {
+      "label": "[section] Enzymes, energy, respiration",
+      "content": "a.- Enzymes (meaning, function, classification)- Respiration (plant parts, whole plant)- Factors affecting respiration (age, substrate availability, light, water, temperature, CO2, soil air, mechanical stimuli and damage, emissions)- Assimilation (formation of new tissues)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.- Types of carbohydrates (mono-, oligo-, polysaccharides)- Carbohydrate transformations (phosphorylation, sucrose, starch)- Utilization of carbohydrates (respiration, growth, defense, excretion, regeneration)- Accumulation (buds, roots, xylem, fruits)- Autumn coloring (relationship: pigments – carbohydrates)- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "[section] Carbohydrates",
+      "content": "a.- Types of carbohydrates (mono-, oligo-, polysaccharides)- Carbohydrate transformations (phosphorylation, sucrose, starch)- Utilization of carbohydrates (respiration, growth, defense, excretion, regeneration)- Accumulation (buds, roots, xylem, fruits)- Autumn coloring (relationship: pigments – carbohydrates)- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.- Fats, waxes, cutin, suberin- Phospholipids, glycolipids, membrane lipids (function and meaning)- Isoprenoids and terpenoids (essential oils, monoterpenes, resins, carotenoids, and others)- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "[section] Fats, terpenes and other substances",
+      "content": "a.- Fats, waxes, cutin, suberin- Phospholipids, glycolipids, membrane lipids (function and meaning)- Isoprenoids and terpenoids (essential oils, monoterpenes, resins, carotenoids, and others)- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.- Importance of photosynthesis- Chloroplasts - Mechanism of photosynthesis (light reactions, photochemistry, electron transport, NADP+, reduction, phosphorylation, photoinhibition, etc.)- CO2 intake - External factors affecting photosynthesis (light, heat, Co2, water, moisture, nutrients, pollutants)- Internal factors influencing photosynthesis (species, genotype)- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "[section] Photosynthesis",
+      "content": "a.- Importance of photosynthesis- Chloroplasts - Mechanism of photosynthesis (light reactions, photochemistry, electron transport, NADP+, reduction, phosphorylation, photoinhibition, etc.)- CO2 intake - External factors affecting photosynthesis (light, heat, Co2, water, moisture, nutrients, pollutants)- Internal factors influencing photosynthesis (species, genotype)- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.- Meaning of water, movement of water- Measurement of water potential- Soil-plant-atmosphere relationship- Absorption through leaf, stem, roots- Dimensions and use of the root system- Water absorption (soil water, soil air, soil temperature, passive, osmosis)- Root buoyancy, guttation, sap flow- Embolism, diseases, mycorrhiza and water regime"
+    },
+    {
+      "label": "[section] Water uptake, sap flow and nutrient transport",
+      "content": "a.- Meaning of water, movement of water- Measurement of water potential- Soil-plant-atmosphere relationship- Absorption through leaf, stem, roots- Dimensions and use of the root system- Water absorption (soil water, soil air, soil temperature, passive, osmosis)- Root buoyancy, guttation, sap flow- Embolism, diseases, mycorrhiza and water regime"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.- The process of transpiration, factors influencing transpiration, external factors influencing transpiration, rate of transpiration- Water loss by the plant- Water balance- Water stress- Adaptation to drought- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "[section] Transpiration and water managemant",
+      "content": "a.- The process of transpiration, factors influencing transpiration, external factors influencing transpiration, rate of transpiration- Water loss by the plant- Water balance- Water stress- Adaptation to drought- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.- Auxins, Cytokinins, Gibberellins, Abscisic acid, Ethylene- Other regulatory compounds (brassinosteroids, jasmonates, salicylic acid, phenolic compounds, polyamines)- Mechanism of their action- Plant integrity- Practical examples in relation to nursery production (cutting, propagation, growth)"
+    },
+    {
+      "label": "[section] Phytohormones",
+      "content": "a.- Auxins, Cytokinins, Gibberellins, Abscisic acid, Ethylene- Other regulatory compounds (brassinosteroids, jasmonates, salicylic acid, phenolic compounds, polyamines)- Mechanism of their action- Plant integrity- Practical examples in relation to nursery production (cutting, propagation, growth)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.- Regeneration of plant organs (root cultures, bud cultures, stem cuttings, cell cultures, etc.)- Effect of phytohormones on cell differentiation and organogenesis- Vegetative reproduction - establishment of primary culture, multiplication, elongation, rooting- Transfers to non-sterile conditions- Healing of plants under in vitro conditions"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.- Heat- Cold- Frost- Dry- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "[section] Stress physiology",
+      "content": "a.- Heat- Cold- Frost- Dry- Practical examples in relation to nursery production"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice14 hprofessional educational excursion3 hpublic presentation (oral)1 hpreparation for exam40 hpreparation for regular assessment14 hpreparation of presentation2 hwriting of seminar paper10 hTotal112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "exam (5 credits)"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation5 %Term paper5 %Presentation or defence10 %Mid-term test(s)30 %Final test20 %Final oral exam30 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:BHATLA, SC; LAL, MA. 2018. Plant Physiology, Development and Metabolism. Singapore: Springer, 1237 p. ISBN 978-981-13-2022-4. Photosynthesis: Structures, Mechanisms, and Applications. 2017. ISBN 9783319488738. http://dx.doi.org/10.1007/978-3-319-48873-8. Plant Tolerance to Individual and Concurrent Stresses. 2017. ISBN 9788132237068. http://dx.doi.org/10.1007/978-81-322-3706-8.PROCHÁZKA, Stanislav; PROCHÁZKA, Stanislav. 2001. Botanika. Morfologie a fyziologie rostlin. Brno: Brno: Skriptum MZLU."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "BHATLA, SC; LAL, MA. 2018. Plant Physiology, Development and Metabolism. Singapore: Springer, 1237 p. ISBN 978-981-13-2022-4. Photosynthesis: Structures, Mechanisms, and Applications. 2017. ISBN 9783319488738. http://dx.doi.org/10.1007/978-3-319-48873-8. Plant Tolerance to Individual and Concurrent Stresses. 2017. ISBN 9788132237068. http://dx.doi.org/10.1007/978-81-322-3706-8.PROCHÁZKA, Stanislav; PROCHÁZKA, Stanislav. 2001. Botanika. Morfologie a fyziologie rostlin. Brno: Brno: Skriptum MZLU."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-NUR Nursery, full-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Lednice"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:46:20",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

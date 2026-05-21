@@ -1,0 +1,537 @@
+{
+  "courseCode": "EBC-RTP",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-RTP"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Řízení technologických procesů"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Control of Technological Processes"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Využití on-line individuálních konzultací a průběžné testování znalostí prostřednictvím testů v UIS. Zpracování a obhajoba semestrálního projektu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Dr. Ing. Vladimír Kebo"
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Dr. Ing. Vladimír Kebo (garant, přednášející)Ing. Robert Rouš (cvičící, přednášející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Dekompozice systémů řízení a technologických procesů (dotace 10/8)"
+    },
+    {
+      "label": "a.",
+      "content": "1. Řízení, systémy řízení, hierarchie řízení, distribuované systémy řízení DSŘ2. Technologické procesy, systémový popis a analýza"
+    },
+    {
+      "label": "b.",
+      "content": "3. Identifikace technologických procesů, prvky a struktura4. Procesní vrstva řízení, HW infrastruktura řídicích systémů"
+    },
+    {
+      "label": "c.",
+      "content": "5. Instrumentace TP – napojení senzorických systémů, IO link, akční prvky a členy"
+    },
+    {
+      "label": "2.",
+      "content": "PLC – programovatelné logické automaty (dotace 10/12)"
+    },
+    {
+      "label": "a.",
+      "content": "6. PLC – programovatelné logické automaty, HW a SW komponenty7. Řešení projektu automatizace - Automation studio B&R"
+    },
+    {
+      "label": "b.",
+      "content": "8. Standardy pro programování PLC – norma IEC 61131-3, RLL žebříčková logika, strukturovaný text9. Řízení v RT, programové cykly, realizace dvoupolohové regulace a PID algoritmu"
+    },
+    {
+      "label": "c.",
+      "content": "10. Operátorské řízení - HMI a obsluha s využitím mappWiev, vybrané aplikace řízení, měření a testování"
+    },
+    {
+      "label": "3.",
+      "content": "Aplikace systémů řízení a kybernetických systémů (dotace 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "11. Enterprice Control System Integration – ANSI/ISA 9512. Příklady průmyslových aplikací PLC a virtuální instrumentace"
+    },
+    {
+      "label": "b.",
+      "content": "13. Aplikace robotických systémů v řízení TP, FarmBot, pomocné a logistické procesy a systémy automatické identifikace"
+    },
+    {
+      "label": "c.",
+      "content": "14. Kyberneticko – fyzikální systémy a roboty v řízení, podmínky jejich využití"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "20 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "20 %"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "10 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "20 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "30 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Řízení technologických procesů"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Control of Technological Processes"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Využití on-line individuálních konzultací a průběžné testování znalostí prostřednictvím testů v UIS. Zpracování a obhajoba semestrálního projektu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Dr. Ing. Vladimír Kebo"
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Dr. Ing. Vladimír Kebo (garant, přednášející)Ing. Robert Rouš (cvičící, přednášející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaStředa9.00-10.50Q01.53B-OIR. Rouš, V. KeboPřednáškaSudý týden12Středa11.00-12.50Q01.53B-OIR. RoušCvičeníKaždý týden12"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je, aby studenti získali znalosti a dovednosti vývoje řídicích systémů s aplikací programovatelných automatů a jejich programování v aplikačním prostředí pro potřeby budoucího navrhování řídicích aplikací z oblasti automatizace řízení. Důraz je kladen na pochopení problematiky, jejíž zvládnutí podmiňuje návrh řízení technologických procesů na základě jejich systémové analýzy a identifikace."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Dekompozice systémů řízení a technologických procesů (dotace 10/8) a.1. Řízení, systémy řízení, hierarchie řízení, distribuované systémy řízení DSŘ2. Technologické procesy, systémový popis a analýzab.3. Identifikace technologických procesů, prvky a struktura4. Procesní vrstva řízení, HW infrastruktura řídicích systémůc.5. Instrumentace TP – napojení senzorických systémů, IO link, akční prvky a členy2.PLC – programovatelné logické automaty (dotace 10/12) a.6. PLC – programovatelné logické automaty, HW a SW komponenty7. Řešení projektu automatizace - Automation studio B&Rb.8. Standardy pro programování PLC – norma IEC 61131-3, RLL žebříčková logika, strukturovaný text9. Řízení v RT, programové cykly, realizace dvoupolohové regulace a PID algoritmuc.10. Operátorské řízení - HMI a obsluha s využitím mappWiev, vybrané aplikace řízení, měření a testování3.Aplikace systémů řízení a kybernetických systémů (dotace 8/8) a.11. Enterprice Control System Integration – ANSI/ISA 9512. Příklady průmyslových aplikací PLC a virtuální instrumentaceb.13. Aplikace robotických systémů v řízení TP, FarmBot, pomocné a logistické procesy a systémy automatické identifikacec.14. Kyberneticko – fyzikální systémy a roboty v řízení, podmínky jejich využití"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.1. Řízení, systémy řízení, hierarchie řízení, distribuované systémy řízení DSŘ2. Technologické procesy, systémový popis a analýzab.3. Identifikace technologických procesů, prvky a struktura4. Procesní vrstva řízení, HW infrastruktura řídicích systémůc.5. Instrumentace TP – napojení senzorických systémů, IO link, akční prvky a členy"
+    },
+    {
+      "label": "[section] Dekompozice systémů řízení a technologických procesů",
+      "content": "a.1. Řízení, systémy řízení, hierarchie řízení, distribuované systémy řízení DSŘ2. Technologické procesy, systémový popis a analýzab.3. Identifikace technologických procesů, prvky a struktura4. Procesní vrstva řízení, HW infrastruktura řídicích systémůc.5. Instrumentace TP – napojení senzorických systémů, IO link, akční prvky a členy"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.6. PLC – programovatelné logické automaty, HW a SW komponenty7. Řešení projektu automatizace - Automation studio B&Rb.8. Standardy pro programování PLC – norma IEC 61131-3, RLL žebříčková logika, strukturovaný text9. Řízení v RT, programové cykly, realizace dvoupolohové regulace a PID algoritmuc.10. Operátorské řízení - HMI a obsluha s využitím mappWiev, vybrané aplikace řízení, měření a testování"
+    },
+    {
+      "label": "[section] PLC – programovatelné logické automaty",
+      "content": "a.6. PLC – programovatelné logické automaty, HW a SW komponenty7. Řešení projektu automatizace - Automation studio B&Rb.8. Standardy pro programování PLC – norma IEC 61131-3, RLL žebříčková logika, strukturovaný text9. Řízení v RT, programové cykly, realizace dvoupolohové regulace a PID algoritmuc.10. Operátorské řízení - HMI a obsluha s využitím mappWiev, vybrané aplikace řízení, měření a testování"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.11. Enterprice Control System Integration – ANSI/ISA 9512. Příklady průmyslových aplikací PLC a virtuální instrumentaceb.13. Aplikace robotických systémů v řízení TP, FarmBot, pomocné a logistické procesy a systémy automatické identifikacec.14. Kyberneticko – fyzikální systémy a roboty v řízení, podmínky jejich využití"
+    },
+    {
+      "label": "[section] Aplikace systémů řízení a kybernetických systémů",
+      "content": "a.11. Enterprice Control System Integration – ANSI/ISA 9512. Příklady průmyslových aplikací PLC a virtuální instrumentaceb.13. Aplikace robotických systémů v řízení TP, FarmBot, pomocné a logistické procesy a systémy automatické identifikacec.14. Kyberneticko – fyzikální systémy a roboty v řízení, podmínky jejich využití"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hseminář4 hkonzultace12 hpříprava na zkoušku24 hpříprava na průběžné hodnocení20 hpříprava na průběžný test8 hzpracování protokolů16 hzpracování seminární práce16 hCelkem156 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Pro udělení zápočtu je nutná minimálně 75% účast na cvičeních, odevzdané protokoly z jednotlivých cvičení a splněné testy. Předmět je ukončen zkouškou, která má dvě části. První písemná část je formou testu (40 % známky). Poté co student úspěšně složí test (minimálně 70 %), pokračuje ústní zkouškou. Následuje rozprava se zkoušejícím o konkrétním tématickém okruhu, který byl v průběhu semestru probírán (60 % známky). Po úspěšném složení ústní zkoušky (minimálně 70%) je mu výsledná známka zapsána do indexu / UISu."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích20 %Vypracování semestrální práce20 %Absolvování průběžného testu (testů)10 %Absolvování závěrečného testu20 %Absolvování závěrečné ústní zkoušky30 %Celkem100 %"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Zaměření ZBOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období ZS 2022/2023"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-RTP"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Řízení technologických procesů"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Control of Technological Processes"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "Use of online individual consultations and continuous testing of knowledge through tests in UIS. Elaboration and defense of a semester project."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Dr. Ing. Vladimír Kebo"
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Dr. Ing. Vladimír Kebo (lecturer, supervisor)Ing. Robert Rouš (instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Decomposition of control systems and technological processes (allowance 10/8)"
+    },
+    {
+      "label": "a.",
+      "content": "1. Control, control systems (CS), CS hierarchy, distributed CS (DCS)2. Technological processes, system description and analysis"
+    },
+    {
+      "label": "b.",
+      "content": "3. Identification of technological processes, elements and structures4. Process control layer, HW infrastructure of control systems"
+    },
+    {
+      "label": "c.",
+      "content": "5. TP instrumentation - connection of sensor systems, IO link, actuators and drivers"
+    },
+    {
+      "label": "2.",
+      "content": "PLC - programmable logic controllers (allowance 10/12)"
+    },
+    {
+      "label": "a.",
+      "content": "6. PLC - programmable logic controllers, HW and SW components7. Automation project solution - Automation studio B&R"
+    },
+    {
+      "label": "b.",
+      "content": "8. Standards for PLC programming - standard IEC 61131-3, RLL ladder logic, structured text9. Control in RT, program cycles, implementation of two-position control and PID algorithm"
+    },
+    {
+      "label": "c.",
+      "content": "10. Supervision control - HMI and supervision using mappWiev, selected control applications, measurement and testing"
+    },
+    {
+      "label": "3.",
+      "content": "Applications of control systems and cybernetic systems (allowance 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "11. Enterprice Control System Integration - ANSI / ISA 9512. Examples of industrial PLC applications and virtual instrumentation"
+    },
+    {
+      "label": "b.",
+      "content": "13. Application of robotic systems in TP control, FarmBot, auxiliary and logistic processes and automatic identification systems"
+    },
+    {
+      "label": "c.",
+      "content": "14. Cybernetic - physical systems and robots in control, conditions of their use"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "20 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "20 %"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "10 %"
+    },
+    {
+      "label": "Final test",
+      "content": "20 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "30 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Řízení technologických procesů"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Control of Technological Processes"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: Use of online individual consultations and continuous testing of knowledge through tests in UIS. Elaboration and defense of a semester project."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Dr. Ing. Vladimír Kebo"
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Dr. Ing. Vladimír Kebo (lecturer, supervisor)Ing. Robert Rouš (instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityWednesday9.00-10.50Q01.53B-OIR. Rouš, V. KeboLectureEven week12Wednesday11.00-12.50Q01.53B-OIR. RoušSeminarEvery week12"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is for students to gain knowledge and skills in the development of control systems with the application of programmable logic controllers and their programming in the application environment for the needs of future design of control applications in the field of control automation. Emphasis is placed on understanding the issues, the mastery of which is conditioned by the design of technological process control based on their system analysis and identification."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Decomposition of control systems and technological processes (allowance 10/8) a.1. Control, control systems (CS), CS hierarchy, distributed CS (DCS)2. Technological processes, system description and analysisb.3. Identification of technological processes, elements and structures4. Process control layer, HW infrastructure of control systemsc.5. TP instrumentation - connection of sensor systems, IO link, actuators and drivers2.PLC - programmable logic controllers (allowance 10/12) a.6. PLC - programmable logic controllers, HW and SW components7. Automation project solution - Automation studio B&Rb.8. Standards for PLC programming - standard IEC 61131-3, RLL ladder logic, structured text9. Control in RT, program cycles, implementation of two-position control and PID algorithmc.10. Supervision control - HMI and supervision using mappWiev, selected control applications, measurement and testing3.Applications of control systems and cybernetic systems (allowance 8/8) a.11. Enterprice Control System Integration - ANSI / ISA 9512. Examples of industrial PLC applications and virtual instrumentationb.13. Application of robotic systems in TP control, FarmBot, auxiliary and logistic processes and automatic identification systemsc.14. Cybernetic - physical systems and robots in control, conditions of their use"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.1. Control, control systems (CS), CS hierarchy, distributed CS (DCS)2. Technological processes, system description and analysisb.3. Identification of technological processes, elements and structures4. Process control layer, HW infrastructure of control systemsc.5. TP instrumentation - connection of sensor systems, IO link, actuators and drivers"
+    },
+    {
+      "label": "[section] Decomposition of control systems and technological processes",
+      "content": "a.1. Control, control systems (CS), CS hierarchy, distributed CS (DCS)2. Technological processes, system description and analysisb.3. Identification of technological processes, elements and structures4. Process control layer, HW infrastructure of control systemsc.5. TP instrumentation - connection of sensor systems, IO link, actuators and drivers"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.6. PLC - programmable logic controllers, HW and SW components7. Automation project solution - Automation studio B&Rb.8. Standards for PLC programming - standard IEC 61131-3, RLL ladder logic, structured text9. Control in RT, program cycles, implementation of two-position control and PID algorithmc.10. Supervision control - HMI and supervision using mappWiev, selected control applications, measurement and testing"
+    },
+    {
+      "label": "[section] PLC - programmable logic controllers",
+      "content": "a.6. PLC - programmable logic controllers, HW and SW components7. Automation project solution - Automation studio B&Rb.8. Standards for PLC programming - standard IEC 61131-3, RLL ladder logic, structured text9. Control in RT, program cycles, implementation of two-position control and PID algorithmc.10. Supervision control - HMI and supervision using mappWiev, selected control applications, measurement and testing"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.11. Enterprice Control System Integration - ANSI / ISA 9512. Examples of industrial PLC applications and virtual instrumentationb.13. Application of robotic systems in TP control, FarmBot, auxiliary and logistic processes and automatic identification systemsc.14. Cybernetic - physical systems and robots in control, conditions of their use"
+    },
+    {
+      "label": "[section] Applications of control systems and cybernetic systems",
+      "content": "a.11. Enterprice Control System Integration - ANSI / ISA 9512. Examples of industrial PLC applications and virtual instrumentationb.13. Application of robotic systems in TP control, FarmBot, auxiliary and logistic processes and automatic identification systemsc.14. Cybernetic - physical systems and robots in control, conditions of their use"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hseminar4 hconsultation12 hpreparation for exam24 hpreparation for regular assessment20 hpreparation for regular testing8 helaboration of reports16 hwriting of seminar paper16 hTotal156 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "For the award of credit is required at least 75% attendance at seminars, submitted individual exercise protocols and successful tests. The course is completed by exam which has two parts. The first part is written in the form of the test (40 % of the mark). After student passes the test (minimum 70 %), oral examination continues. Followed by a debate with the examiner about specific topics, which were discussed during the semester (60 % of the mark). Upon successful completion of the oral examination (minimum 70%) is a final mark entered into the index / UIS."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation20 %Term paper20 %Mid-term test(s)10 %Final test20 %Final oral exam30 %Total100 %"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Scope ZBOI Scope for Open Informatics, full-time form, initial period WS 2022/2023"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:44:36",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

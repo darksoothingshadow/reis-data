@@ -1,0 +1,597 @@
+{
+  "courseCode": "MPBR",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "MPBR"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Metody produkční biologie rostlin"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Methods of Production Plant Biology"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zápočet (3 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Ano, formou specifického studentského projektu zadaného vyučujícím."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Ing. Miloš Barták, CSc."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav ochrany lesů a myslivosti (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "prof. Ing. Miloš Barták, CSc. (garant, přednášející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Produktivita rostlinných ekosystémů na Zemi, globální cyklus uhlíku, dusíku v lesních ekosystémech. (dotace 1/0)"
+    },
+    {
+      "label": "2.",
+      "content": "Sluneční energie jako základní energetický zdroj, spektrální a energetické vlastnosti záření dopadajícího na rostlinná společenstva, fotosynteticky aktivní záření, UV záření. (dotace 1/0)"
+    },
+    {
+      "label": "3.",
+      "content": "Procesy záchytu a absorpce sluneční radiace rostlinami, porosty a rostlinnými společenstvy, optické vlastnosti listů, absorpce záření jednotlivými vrstvami lesního porostu, složky radiační bilance. Přehled metod měření. (dotace 1/0)"
+    },
+    {
+      "label": "4.",
+      "content": "Transport a ukládání asimilátů, koncept zdroje a místa spotřeby asimilátů (source-sink) rostlinami. (dotace 1/0)"
+    },
+    {
+      "label": "5.",
+      "content": "Tvorba biomasy v čase, fáze růstu, růstová sezóna, růstové S-křivky, principy růstové analýzy, fotosyntetické využití dusíku pro tvorbu biomasy (dotace 1/0)"
+    },
+    {
+      "label": "6.",
+      "content": "Limity produkce rostlin, dodatková energie, agrosystémy, lesní porosty s krátkým obmýtím (short-rotation forests), kultivace a produkce dřevin v umělých systémech. (dotace 1/0)"
+    },
+    {
+      "label": "7.",
+      "content": "Laboratorní a terénní metody studia produkce dřevin (od úrovně buňky po ekosystém) – přehled teoretických základů metod a typické příklady jejich využití. (dotace 1/0)"
+    },
+    {
+      "label": "8.",
+      "content": "Principy odhadu produkce jednotlivce a porostu. Matematická simulace a modelování produkce - základní terminologie. (dotace 1/0)"
+    },
+    {
+      "label": "9.",
+      "content": "Modelování produkčních procesů rostlin, základní typy modelů. (dotace 1/0)"
+    },
+    {
+      "label": "10.",
+      "content": "Modely produkce, příklady aplikace v praxi, výhody a nevýhody nejčastěji využívaných modelů. (dotace 1/0)"
+    },
+    {
+      "label": "11.",
+      "content": "Využití metod produkční biologie rostlin v lesnickém výzkumu a praxi. Produkce rostlin v globálně se měnících podmínkách prostředí (teoretická východiska a příklady dlouhodobých produkčních studií). Produkce lesních dřevin v podmínkách stresu. (dotace 1/0)"
+    },
+    {
+      "label": "12.",
+      "content": "Úvod, seznámení s náplní a organizací cvičení, přehled terminologie, používaných jednotek a základních vztahů. (dotace 0/1)"
+    },
+    {
+      "label": "13.",
+      "content": "Metody měření mikroklima stanoviště (práce s hromadnými daty na modelových druzích a porostech), fyzikální parametry prostředí vyhodnocení denních chodů radiace (PAR), denní úhrny záření, průměry a sumy teplot, srážky, relativní vhlkost vzduchu, vlhkost půdy, termální čas. (dotace 0/1)"
+    },
+    {
+      "label": "14.",
+      "content": "Absorpce záření listem a porostem, Lambert-Beer zákon, výpočet extinkce radiace v lesním porostu v závislosti na distribuci listové plochy, měření radiace. (dotace 0/1)"
+    },
+    {
+      "label": "15.",
+      "content": "Založení laboratorního experimentu (růst semenáčků lesních dřevinv řízených podmínách světla: LL a HL různých režimech ozářenosti. (dotace 0/1)"
+    },
+    {
+      "label": "16.",
+      "content": "Metody měření aklimace fotosyntetických procesů na podmínky HL a LL (fluorometricky) u semenáčků lesních dřevin. (dotace 0/1)"
+    },
+    {
+      "label": "17.",
+      "content": "Fotosyntéza jako produkční proces (metody meření konverze energie) kvantový výtěžek fotochemických procesů fotosystému II, jeho závislost na ozářenosti (dotace 0/1)"
+    },
+    {
+      "label": "18.",
+      "content": "Fotoinhibice jako proces limitující produkci na osluněných stanovištích. Metody kvantifikace fotoinhibice na úrovni listu pomocí pokročilých metod fluorescence chlorofylu. (dotace 0/1)"
+    },
+    {
+      "label": "19.",
+      "content": "Vyhodnocení experimentu. Destrukční analýzy. Vyhodnocení kultivačního experimentu (biomasa orgánů, relativní rychlost růstu, poměr S/R, specifická a poměrná listová plocha, LAR, LWR), nadzemní a podzemní biomasa. (dotace 0/1)"
+    },
+    {
+      "label": "20.",
+      "content": "Rozbor růstových křivek biomasy. (dotace 0/1)"
+    },
+    {
+      "label": "21.",
+      "content": "Automatizovaný a poloautomatizovaný sběr dat v lesním porostu, práce s čidly a měřící ústřednou. (dotace 0/1)"
+    },
+    {
+      "label": "22.",
+      "content": "Modelování produkce - seznámení se strukturou a simulačním během modelů AFRCWHEAT, MACROS, biochemický model Farquhar - von Caemerrer, výpočet pro různé klimatické situace. Modelování produkce. (dotace 0/1)"
+    },
+    {
+      "label": "23.",
+      "content": "Produkční biologie dřevin (stav a perspektivy, moderní metody a jejich potenciální uplatnění, georadar apod): Závěrečné kolokvium, zápočet. (dotace 0/1)"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "60 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "20 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "20 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Metody produkční biologie rostlin"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Methods of Production Plant Biology"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zápočet (3 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zápočet (3 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Ano, formou specifického studentského projektu zadaného vyučujícím."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Ing. Miloš Barták, CSc."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav ochrany lesů a myslivosti (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: prof. Ing. Miloš Barták, CSc. (garant, přednášející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Hlavními cílem tohoto kurzu je seznámit studenty se základními metodami, pomocí kterých se studují mechanismy a faktory ovlivňující produkci biomasy rostlin. Výuka je zaměřena tak, aby studenti byli seznámeni s principy měřících metod. Dále je cílem předmětu prezentovat typické aplikace jednotlivých metod u lesních dřevin a rostlin tvořících lesní ekosystémy. Výstupy z učení Výstupem předmětu je osvojená znalost studentů v oblasti produkční biologie rostlin. Po absolvování kurzu budou studenti schopni objasnit souvislosti mezi velikostí produkce rostlin a faktory vnějšího prostředí a posoudit možnosti měření produkce v různých typech lesních ekosystémů. Přednášky: (1) Produktivita rostlinných ekosystémů na Zemi, globální cyklus uhlíku, dusíku v lesních ekosystémech. (2) Sluneční energie jako základní energetický zdroj, spektrální a energetické vlastnosti záření dopadajícího na rostlinná společenstva, fotosynteticky aktivní záření, UV záření. (3) Procesy záchytu a absorpce sluneční radiace rostlinami, porosty a rostlinnými společenstvy, optické vlastnosti listů, absorpce záření jednotlivými vrstvami lesního porostu, složky radiační bilance. Přehled metod měření. (4) Transport a ukládání asimilátů, koncept zdroje a místa spotřeby asimilátů (source-sink) rostlinami. (5) Tvorba biomasy v čase, fáze růstu, růstová sezóna, růstové S-křivky, principy růstové analýzy, fotosyntetické využití dusíku pro tvorbu biomasy. (6) Limity produkce rostlin, dodatková energie, agrosystémy, lesní porosty s krátkým obmýtím (short-rotation forests), kultivace a produkce dřevin v umělých systémech. (7) Laboratorní a terénní metody studia produkce dřevin (od úrovně buňky po ekosystém) – přehled teoretických základů metod a typické příklady jejich využití. (8) Principy odhadu produkce jednotlivce a porostu. Matematická simulace a modelování produkce - základní terminologie. (9) Modelování produkčních procesů rostlin, základní typy modelů. (10) Modely produkce, příklady aplikace v praxi, výhody a nevýhody nejčastěji využívaných modelů. (11) Využití metod produkční biologie rostlin v lesnickém výzkumu a praxi. Produkce rostlin v globálně se měnících podmínkách prostředí (teoretická východiska a příklady dlouhodobých produkčních studií). Produkce lesních dřevin v podmínkách stresu. Cvičení: (1) Úvod, seznámení s náplní a organizací cvičení, přehled terminologie, používaných jednotek a základních vztahů. (2) Metody měření mikroklima stanoviště (práce s hromadnými daty na modelových druzích a porostech), fyzikální parametry prostředí vyhodnocení denních chodů radiace (PAR), denní úhrny záření, průměry a sumy teplot, srážky, relativní vhlkost vzduchu, vlhkost půdy, termální čas. (3) Absorpce záření listem a porostem, Lambert-Beer zákon, výpočet extinkce radiace v lesním porostu v závislosti na distribuci listové plochy, měření radiace. (4) Založení laboratorního experimentu (růst semenáčků lesních dřevinv řízených podmínách světla: LL a HL různých režimech ozářenosti. (5) Metody měření aklimace fotosyntetických procesů na podmínky HL a LL (fluorometricky) u semenáčků lesních dřevin. (6) Fotosyntéza jako produkční proces (metody meření konverze energie) kvantový výtěžek fotochemických procesů fotosystému II, jeho závislost na ozářenosti. (7) Fotoinhibice jako proces limitující produkci na osluněných stanovištích. Metody kvantifikace fotoinhibice na úrovni listu pomocí pokročilých metod fluorescence chlorofylu. (8) Vyhodnocení experimentu. Destrukční analýzy. Vyhodnocení kultivačního experimentu (biomasa orgánů, relativní rychlost růstu, poměr S/R, specifická a poměrná listová plocha, LAR, LWR), nadzemní a podzemní biomasa. (9) Rozbor růstových křivek biomasy. (10) Automatizovaný a poloautomatizovaný sběr dat v lesním porostu, práce s čidly a měřící ústřednou. (11) Modelování produkce - seznámení se strukturou a simulačním během modelů AFRCWHEAT, MACROS, biochemický model Farquhar - von Caemerrer, výpočet pro různé klimatické situace. Modelování produkce. (12) Produkční biologie dřevin (stav a perspektivy, moderní metody a jejich potenciální uplatnění, georadar apod): Závěrečné kolokvium, zápočet."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Produktivita rostlinných ekosystémů na Zemi, globální cyklus uhlíku, dusíku v lesních ekosystémech. (dotace 1/0)2.Sluneční energie jako základní energetický zdroj, spektrální a energetické vlastnosti záření dopadajícího na rostlinná společenstva, fotosynteticky aktivní záření, UV záření. (dotace 1/0)3.Procesy záchytu a absorpce sluneční radiace rostlinami, porosty a rostlinnými společenstvy, optické vlastnosti listů, absorpce záření jednotlivými vrstvami lesního porostu, složky radiační bilance. Přehled metod měření. (dotace 1/0)4.Transport a ukládání asimilátů, koncept zdroje a místa spotřeby asimilátů (source-sink) rostlinami. (dotace 1/0)5.Tvorba biomasy v čase, fáze růstu, růstová sezóna, růstové S-křivky, principy růstové analýzy, fotosyntetické využití dusíku pro tvorbu biomasy (dotace 1/0)6.Limity produkce rostlin, dodatková energie, agrosystémy, lesní porosty s krátkým obmýtím (short-rotation forests), kultivace a produkce dřevin v umělých systémech. (dotace 1/0)7.Laboratorní a terénní metody studia produkce dřevin (od úrovně buňky po ekosystém) – přehled teoretických základů metod a typické příklady jejich využití. (dotace 1/0)8.Principy odhadu produkce jednotlivce a porostu. Matematická simulace a modelování produkce - základní terminologie. (dotace 1/0)9.Modelování produkčních procesů rostlin, základní typy modelů. (dotace 1/0)10.Modely produkce, příklady aplikace v praxi, výhody a nevýhody nejčastěji využívaných modelů. (dotace 1/0)11.Využití metod produkční biologie rostlin v lesnickém výzkumu a praxi. Produkce rostlin v globálně se měnících podmínkách prostředí (teoretická východiska a příklady dlouhodobých produkčních studií). Produkce lesních dřevin v podmínkách stresu. (dotace 1/0)12.Úvod, seznámení s náplní a organizací cvičení, přehled terminologie, používaných jednotek a základních vztahů. (dotace 0/1)13.Metody měření mikroklima stanoviště (práce s hromadnými daty na modelových druzích a porostech), fyzikální parametry prostředí vyhodnocení denních chodů radiace (PAR), denní úhrny záření, průměry a sumy teplot, srážky, relativní vhlkost vzduchu, vlhkost půdy, termální čas. (dotace 0/1)14.Absorpce záření listem a porostem, Lambert-Beer zákon, výpočet extinkce radiace v lesním porostu v závislosti na distribuci listové plochy, měření radiace. (dotace 0/1)15.Založení laboratorního experimentu (růst semenáčků lesních dřevinv řízených podmínách světla: LL a HL různých režimech ozářenosti. (dotace 0/1)16.Metody měření aklimace fotosyntetických procesů na podmínky HL a LL (fluorometricky) u semenáčků lesních dřevin. (dotace 0/1)17.Fotosyntéza jako produkční proces (metody meření konverze energie) kvantový výtěžek fotochemických procesů fotosystému II, jeho závislost na ozářenosti (dotace 0/1)18.Fotoinhibice jako proces limitující produkci na osluněných stanovištích. Metody kvantifikace fotoinhibice na úrovni listu pomocí pokročilých metod fluorescence chlorofylu. (dotace 0/1)19.Vyhodnocení experimentu. Destrukční analýzy. Vyhodnocení kultivačního experimentu (biomasa orgánů, relativní rychlost růstu, poměr S/R, specifická a poměrná listová plocha, LAR, LWR), nadzemní a podzemní biomasa. (dotace 0/1)20.Rozbor růstových křivek biomasy. (dotace 0/1)21.Automatizovaný a poloautomatizovaný sběr dat v lesním porostu, práce s čidly a měřící ústřednou. (dotace 0/1)22.Modelování produkce - seznámení se strukturou a simulačním během modelů AFRCWHEAT, MACROS, biochemický model Farquhar - von Caemerrer, výpočet pro různé klimatické situace. Modelování produkce. (dotace 0/1)23.Produkční biologie dřevin (stav a perspektivy, moderní metody a jejich potenciální uplatnění, georadar apod): Závěrečné kolokvium, zápočet. (dotace 0/1)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Sluneční energie jako základní energetický zdroj, spektrální a energetické vlastnosti záření dopadajícího na rostlinná společenstva, fotosynteticky aktivní záření, UV záření. (dotace 1/0)"
+    },
+    {
+      "label": "[section] Produktivita rostlinných ekosystémů na Zemi, globální cyklus uhlíku, dusíku v lesních ekosystémech.",
+      "content": "2.Sluneční energie jako základní energetický zdroj, spektrální a energetické vlastnosti záření dopadajícího na rostlinná společenstva, fotosynteticky aktivní záření, UV záření. (dotace 1/0)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Procesy záchytu a absorpce sluneční radiace rostlinami, porosty a rostlinnými společenstvy, optické vlastnosti listů, absorpce záření jednotlivými vrstvami lesního porostu, složky radiační bilance. Přehled metod měření. (dotace 1/0)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Transport a ukládání asimilátů, koncept zdroje a místa spotřeby asimilátů (source-sink) rostlinami. (dotace 1/0)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Tvorba biomasy v čase, fáze růstu, růstová sezóna, růstové S-křivky, principy růstové analýzy, fotosyntetické využití dusíku pro tvorbu biomasy (dotace 1/0)"
+    },
+    {
+      "label": "[section] Transport a ukládání asimilátů, koncept zdroje a místa spotřeby asimilátů (source-sink) rostlinami.",
+      "content": "5.Tvorba biomasy v čase, fáze růstu, růstová sezóna, růstové S-křivky, principy růstové analýzy, fotosyntetické využití dusíku pro tvorbu biomasy (dotace 1/0)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Limity produkce rostlin, dodatková energie, agrosystémy, lesní porosty s krátkým obmýtím (short-rotation forests), kultivace a produkce dřevin v umělých systémech. (dotace 1/0)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Laboratorní a terénní metody studia produkce dřevin (od úrovně buňky po ekosystém) – přehled teoretických základů metod a typické příklady jejich využití. (dotace 1/0)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Principy odhadu produkce jednotlivce a porostu. Matematická simulace a modelování produkce - základní terminologie. (dotace 1/0)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Modelování produkčních procesů rostlin, základní typy modelů. (dotace 1/0)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Modely produkce, příklady aplikace v praxi, výhody a nevýhody nejčastěji využívaných modelů. (dotace 1/0)"
+    },
+    {
+      "label": "[section] Modelování produkčních procesů rostlin, základní typy modelů.",
+      "content": "10.Modely produkce, příklady aplikace v praxi, výhody a nevýhody nejčastěji využívaných modelů. (dotace 1/0)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Využití metod produkční biologie rostlin v lesnickém výzkumu a praxi. Produkce rostlin v globálně se měnících podmínkách prostředí (teoretická východiska a příklady dlouhodobých produkčních studií). Produkce lesních dřevin v podmínkách stresu. (dotace 1/0)"
+    },
+    {
+      "label": "[section] Modely produkce, příklady aplikace v praxi, výhody a nevýhody nejčastěji využívaných modelů.",
+      "content": "11.Využití metod produkční biologie rostlin v lesnickém výzkumu a praxi. Produkce rostlin v globálně se měnících podmínkách prostředí (teoretická východiska a příklady dlouhodobých produkčních studií). Produkce lesních dřevin v podmínkách stresu. (dotace 1/0)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Úvod, seznámení s náplní a organizací cvičení, přehled terminologie, používaných jednotek a základních vztahů. (dotace 0/1)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Metody měření mikroklima stanoviště (práce s hromadnými daty na modelových druzích a porostech), fyzikální parametry prostředí vyhodnocení denních chodů radiace (PAR), denní úhrny záření, průměry a sumy teplot, srážky, relativní vhlkost vzduchu, vlhkost půdy, termální čas. (dotace 0/1)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "14.Absorpce záření listem a porostem, Lambert-Beer zákon, výpočet extinkce radiace v lesním porostu v závislosti na distribuci listové plochy, měření radiace. (dotace 0/1)"
+    },
+    {
+      "label": "[section] 14.",
+      "content": "15.Založení laboratorního experimentu (růst semenáčků lesních dřevinv řízených podmínách světla: LL a HL různých režimech ozářenosti. (dotace 0/1)"
+    },
+    {
+      "label": "[section] 15.",
+      "content": "16.Metody měření aklimace fotosyntetických procesů na podmínky HL a LL (fluorometricky) u semenáčků lesních dřevin. (dotace 0/1)"
+    },
+    {
+      "label": "[section] 16.",
+      "content": "17.Fotosyntéza jako produkční proces (metody meření konverze energie) kvantový výtěžek fotochemických procesů fotosystému II, jeho závislost na ozářenosti (dotace 0/1)"
+    },
+    {
+      "label": "[section] 17.",
+      "content": "18.Fotoinhibice jako proces limitující produkci na osluněných stanovištích. Metody kvantifikace fotoinhibice na úrovni listu pomocí pokročilých metod fluorescence chlorofylu. (dotace 0/1)"
+    },
+    {
+      "label": "[section] 18.",
+      "content": "19.Vyhodnocení experimentu. Destrukční analýzy. Vyhodnocení kultivačního experimentu (biomasa orgánů, relativní rychlost růstu, poměr S/R, specifická a poměrná listová plocha, LAR, LWR), nadzemní a podzemní biomasa. (dotace 0/1)"
+    },
+    {
+      "label": "[section] 19.",
+      "content": "20.Rozbor růstových křivek biomasy. (dotace 0/1)"
+    },
+    {
+      "label": "[section] 20.",
+      "content": "21.Automatizovaný a poloautomatizovaný sběr dat v lesním porostu, práce s čidly a měřící ústřednou. (dotace 0/1)"
+    },
+    {
+      "label": "[section] Rozbor růstových křivek biomasy.",
+      "content": "21.Automatizovaný a poloautomatizovaný sběr dat v lesním porostu, práce s čidly a měřící ústřednou. (dotace 0/1)"
+    },
+    {
+      "label": "[section] 21.",
+      "content": "22.Modelování produkce - seznámení se strukturou a simulačním během modelů AFRCWHEAT, MACROS, biochemický model Farquhar - von Caemerrer, výpočet pro různé klimatické situace. Modelování produkce. (dotace 0/1)"
+    },
+    {
+      "label": "[section] Automatizovaný a poloautomatizovaný sběr dat v lesním porostu, práce s čidly a měřící ústřednou.",
+      "content": "22.Modelování produkce - seznámení se strukturou a simulačním během modelů AFRCWHEAT, MACROS, biochemický model Farquhar - von Caemerrer, výpočet pro různé klimatické situace. Modelování produkce. (dotace 0/1)"
+    },
+    {
+      "label": "[section] 22.",
+      "content": "23.Produkční biologie dřevin (stav a perspektivy, moderní metody a jejich potenciální uplatnění, georadar apod): Závěrečné kolokvium, zápočet. (dotace 0/1)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení14 hCelkem28 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "(1) Alespoň 70% účast na přednáškách (2) Alespoň 70% účast na cvičeních (3) Zpracování protokolu ze cvičení (Termín odevzdání: poslední týden v semestru) (4) Věcná a formální správnost protokolu (5) Absolvování závěrečné rozpravy (15 minut) s vyučujícím předmětu"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích60 %Vypracování semestrální práce20 %Absolvování závěrečné ústní zkoušky20 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:THOMAS, Peter; HIRONS, Andrew. 2018. Applied Tree Biology. http://ISBN: 978-1-118-29640-0.CHROUST, Luděk. 1997. Ekologie výchovy lesních porostů: smrk obecný, borovice lesní, dub letní: porostní prostředí, růst stromů, produkce porostu. Opočno: Výzkumný ústav lesního hospodářství a myslivosti, Výzkumná stanice Opočno, 277 s."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "THOMAS, Peter; HIRONS, Andrew. 2018. Applied Tree Biology. http://ISBN: 978-1-118-29640-0.CHROUST, Luděk. 1997. Ekologie výchovy lesních porostů: smrk obecný, borovice lesní, dub letní: porostní prostředí, růst stromů, produkce porostu. Opočno: Výzkumný ústav lesního hospodářství a myslivosti, Výzkumná stanice Opočno, 277 s."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-TBD Technická biologie dřevin, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "MPBR"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Metody produkční biologie rostlin"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Methods of Production Plant Biology"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Pass credit (3 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "Yes. It is allowed. When abroad, a student may pass the course in the form of a specific student project assigned by the teacher."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Ing. Miloš Barták, CSc."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Forest Protection and Wildlife Management (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "prof. Ing. Miloš Barták, CSc. (lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "State Bachelor Examination"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "60 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "20 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "20 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Metody produkční biologie rostlin"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Methods of Production Plant Biology"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Pass credit (3 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Pass credit (3 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: Yes. It is allowed. When abroad, a student may pass the course in the form of a specific student project assigned by the teacher."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Ing. Miloš Barták, CSc."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Forest Protection and Wildlife Management (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. Ing. Miloš Barták, CSc. (lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: State Bachelor Examination"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Objectives of the course The main objectives of this course are (1) to introduce students to the basic methods by which the mechanisms and factors affecting plant biomass production are studied. The course is designed (2) to familiarize students with the principles of measurement methods. Furthermore, the course aims (3) to present typical applications of each method in forest tree species and the plants forming forest ecosystems. Educational outcomes The educational outcome of the course is the students' knowledge of the principals of production plant biology. Upon completion of the course, students will be able to explain the relationship between the extent of plant production and different environmental factors and to assess the suitability of measuring production by different methods in contrasting types of forest ecosystems. Topics of lectures: (1) Productivity of plant ecosystems on the Earth, global carbon and nitrogen cycles in forest ecosystems. (2) Solar energy as a basic energy source for plant production, spectral and energetic properties of the radiation incident on plant communities, photosynthetically active radiation, UV radiation. (3) Capture and absorption of solar radiation by individual plants, stands and plant communities. Optical properties of leaves, absorption of radiation by individual layers of forest stand. Components of radiation balance. Overview of measurement methods. (4) Transport and storage of assimilates, the concept of source and source-sink in plants. (5) Biomass formation over time, growth phase, growth season, growth S-curves. Principles of growth analysis, photosynthetic use of nitrogen for biomass production. (6) Limits of plant production, additional energy, agrosystems, short-rotation forests, cultivation and production of woody plants in artificial systems. (7) Laboratory and field methods of studying tree production (from the cell to the ecosystem level) - an overview of the theoretical foundations of the methods and typical examples of their use. (8) Principles of estimating individual and stand production. Mathematical simulation and production modeling - basic terminology. (9) Modeling of plant production processes, basic types of growth and production models. (10) Production models, examples of application in practice, advantages and disadvantages of the most frequently used models. (11) Use of methods of production biology of plants in forest research and practice. Plant production in globally changing environmental conditions (theoretical background and examples of long-term production studies). Production under stressors. Topics of practical training: (1) Introduction: (a) overview of the organization of exercises, (b) overview of terminology, (c) units used and (d) basic formulas. (2) Methods of measuring the microclimate of the habitat (practical training with bulk data on model species and stands), physical parameters of the environment, evaluation of daily courses of PAR, daily radiation totals, averages and sums of temperatures, precipitation, relative air humidity, soil moisture, thermal time. (3) Absorption of incident radiation by leaves and stands, Lambert-Beer law, calculation of radiation extinction in forest stands depending on leaf area distribution, radiation measurements. (4) Establishment of a laboratory experiment (growth of forest tree seedlings in controlled light conditions: Different irradiation regimes (Low light /LL/ and high /HL/ treatment). (5) Methods for measuring the acclimatization of photosynthetic processes to HL and LL conditions (fluorometrically) in forest tree seedlings. (6) Photosynthesis as a production process (methods of measuring energy conversion) quantum yield of photochemical processes of photosystem II, its dependence on irradiation. (7) Photoinhibition as a process limiting production in sunny habitats. Methods for quantification of photoinhibition at the leaf level using advanced chlorophyll fluorescence methods. (8) Evaluation of the experiment. Destructive analyzes. Evaluation of cultivation experiment (organ biomass, relative growth rate, S/R ratio, specific and relative leaf area, LAR, LWR), above-ground and below-ground biomass. (9) Analysis of biomass growth curves. (10) Automated and semi-automated data collection in the forest stand, work with sensors and data loggers. (11) Production modelling - introduction to structure and simulation during AFRCWHEAT, MACROS models, biochemical model Farquhar - von Caemerrer, calculation for different climatic situations. Production modeling. (12) Production biology of woody plants (state and perspectives, modern methods and their potential application, georadar, etc.): Final colloquium, credit."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "The content of the course has not been saved in this language version."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice14 hTotal28 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "(1) At least 70% participation in lectures (2) At least 70% participation in the practices (3) Completion of the protocol from practice (Due date: last week of the semester) (4) Substantive and formal correctness of the protocol (5) Completion of a final discussion (15 minutes) with the course teacher"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation60 %Term paper20 %Final oral exam20 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:THOMAS, Peter; HIRONS, Andrew. 2018. Applied Tree Biology. http://ISBN: 978-1-118-29640-0.CHROUST, Luděk. 1997. Ekologie výchovy lesních porostů: smrk obecný, borovice lesní, dub letní: porostní prostředí, růst stromů, produkce porostu. Opočno: Výzkumný ústav lesního hospodářství a myslivosti, Výzkumná stanice Opočno, 277 p."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "THOMAS, Peter; HIRONS, Andrew. 2018. Applied Tree Biology. http://ISBN: 978-1-118-29640-0.CHROUST, Luděk. 1997. Ekologie výchovy lesních porostů: smrk obecný, borovice lesní, dub letní: porostní prostředí, růst stromů, produkce porostu. Opočno: Výzkumný ústav lesního hospodářství a myslivosti, Výzkumná stanice Opočno, 277 p."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-TBD Technical Biology of Plants, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:31:40",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

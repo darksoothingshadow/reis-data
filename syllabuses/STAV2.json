@@ -1,0 +1,853 @@
+{
+  "courseCode": "STAV2",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "STAV2"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Stavebnictví II"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Civil engineering II"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Není umožněno."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Jiří Dohnal, Ph.D., DiS."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav zahradní a krajinářské architektury (ZF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Zahradnická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jiří Dohnal, Ph.D., DiS. (cvičící, garant, přednášející, zkoušející)Ing. Jaromír Skoupil, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Stavebnictví I a AKR19"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do problematiky projektování staveb (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Proces projektování, stupně projektové dokumentace, autorizace, standardy služeb architekta, zapojené profese"
+    },
+    {
+      "label": "b.",
+      "content": "Zákon 283/2021 Sb. a jeho prováděcí předpisy, portál stavebníka"
+    },
+    {
+      "label": "c.",
+      "content": "Struktura projektové dokumentace"
+    },
+    {
+      "label": "d.",
+      "content": "Zadání seminární práce, ukázky studentských prací z minulých let"
+    },
+    {
+      "label": "e.",
+      "content": "Ve cvičení bude následovat praktická ukázka stavebních materiálů – opakování z letního semestru"
+    },
+    {
+      "label": "2.",
+      "content": "Terénní úpravy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "definice, základní pojmy, návaznost na zákon 283/2001 Sb."
+    },
+    {
+      "label": "b.",
+      "content": "zemní práce – typologie, pojmy, návaznost na ceníky RTS"
+    },
+    {
+      "label": "c.",
+      "content": "zdroje dat pro projektování terénních úprav, potřebné průzkumy a rozbory"
+    },
+    {
+      "label": "d.",
+      "content": "geodetické zaměření jako nutný předpoklad návrhu terénních úprav"
+    },
+    {
+      "label": "e.",
+      "content": "kreslení TÚ, 3D model terénu, sklony svahů, řezy terénem, vyrovnaná bilance TÚ …"
+    },
+    {
+      "label": "3.",
+      "content": "Komunikace a zpevněné povrchy I (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "typologie a názvosloví, druhy povrchů dle účelu, logika tvorby cestní sítě"
+    },
+    {
+      "label": "b.",
+      "content": "spády zpevněných ploch a komunikací, šikmých ramp"
+    },
+    {
+      "label": "c.",
+      "content": "požadavky na přístupnost a bezbariérové užívání (zákon 283/2021 Sb., ČSN 73 4001)"
+    },
+    {
+      "label": "d.",
+      "content": "odvodnění, odvodňovací prvky a zařízení"
+    },
+    {
+      "label": "e.",
+      "content": "kreslení komunikací v situačním výkresu a příčných řezech, podélný profil komunikace"
+    },
+    {
+      "label": "4.",
+      "content": "Komunikace a zpevněné povrchy II (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "ukázky konkrétních příkladů správného i chybného konstrukčního řešení, rozličného materiálového provedení, zkušenosti z praxe"
+    },
+    {
+      "label": "b.",
+      "content": "specifika nestmelených povrchů, praktická ukázka materiálů"
+    },
+    {
+      "label": "c.",
+      "content": "ukázka výkresové dokumentace"
+    },
+    {
+      "label": "5.",
+      "content": "Drobná architektura II (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "zdi, schodiště, rampy, zábradlí, ploty – prohloubení učiva z letního semestru formou ukázky konkrétních příkladů správného i chybného konstrukčního řešení, rozličného materiálového provedení, zkušenosti z praxe"
+    },
+    {
+      "label": "b.",
+      "content": "ukázka výkresové dokumentace"
+    },
+    {
+      "label": "6.",
+      "content": "Drobná architektura III (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Stavby v KA: pergoly, přístřešky, altánky, mola, lávky, vyhlídky aj. - specifika konstrukčního řešení pro různé materiály"
+    },
+    {
+      "label": "b.",
+      "content": "základy statiky a zatížení konstrukcí; základové, nosné a nenosné konstrukce"
+    },
+    {
+      "label": "c.",
+      "content": "spolupráce s architektem, stavebním inženýrem, statikem"
+    },
+    {
+      "label": "d.",
+      "content": "návaznost na stavební zákon (povolování staveb)"
+    },
+    {
+      "label": "7.",
+      "content": "Drobná architektura IV (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "- pergoly, přístřešky, altánky, mola, lávky, vyhlídky aj. – příklady různých řešení a zkušenosti z praxe"
+    },
+    {
+      "label": "8.",
+      "content": "Zastřešené konstrukce, zelené střechy, konstrukce pro stínění (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "problematika stínění a ochlazování staveb v návaznosti na změnu klimatu"
+    },
+    {
+      "label": "b.",
+      "content": "role zeleně, zeleň na konstrukci, stínící stavební konstrukce, lankové konstrukce, plachty atd."
+    },
+    {
+      "label": "c.",
+      "content": "detaily řešení střešních konstrukcí z různých materiálů, zatížení střech, klempířské prvky atd."
+    },
+    {
+      "label": "9.",
+      "content": "Hospodaření s dešťovou vodou na pozemku (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "problematika HDV v návaznosti na změnu klimatu, souvislosti s MZI"
+    },
+    {
+      "label": "b.",
+      "content": "odvodňovací soustava a její prvky, dimenzování vpustí a potrubí"
+    },
+    {
+      "label": "c.",
+      "content": "zařízení a prvky pro akumulaci a zasakování srážkových vod"
+    },
+    {
+      "label": "d.",
+      "content": "stavební zákon, normy ČSN 75 9010 a ČSN TNV 75 9011"
+    },
+    {
+      "label": "e.",
+      "content": "vzorečky pro výpočet dimenzí vsakovacího zařízení"
+    },
+    {
+      "label": "f.",
+      "content": "ukázka výkresové dokumentace"
+    },
+    {
+      "label": "10.",
+      "content": "Vodní prvky (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "typologie vodních prvků"
+    },
+    {
+      "label": "b.",
+      "content": "principy konstrukčního řešení, specifika obnovy vodních prvků v památkově chráněných objektech"
+    },
+    {
+      "label": "c.",
+      "content": "spolupráce se specialistou na vodní prvky"
+    },
+    {
+      "label": "d.",
+      "content": "příklady z praxe, ukázka výkresové dokumentace"
+    },
+    {
+      "label": "11.",
+      "content": "Mobiliář, umělecká díla, herní prvky (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "typologie, principy konstrukčního a materiálového řešení"
+    },
+    {
+      "label": "b.",
+      "content": "normy, registrace užitného vzoru"
+    },
+    {
+      "label": "c.",
+      "content": "příklady z praxe, ukázka výkresové dokumentace"
+    },
+    {
+      "label": "12.",
+      "content": "Osvětlení v krajinářské architektuře (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "světlo a jeho fyzikální vlastnosti, cirkadiánní režim člověka"
+    },
+    {
+      "label": "b.",
+      "content": "přirozené/ umělé osvětlení, jejich příklady a využití v KA"
+    },
+    {
+      "label": "c.",
+      "content": "provozní / scénografické osvětlení, principy správného používání svítidel"
+    },
+    {
+      "label": "d.",
+      "content": "spolupráce s osvětlovacím specialistou, kniha svítidel, světelná zkouška"
+    },
+    {
+      "label": "e.",
+      "content": "příklady z praxe, ukázka výkresové dokumentace"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "80 %"
+    },
+    {
+      "label": "Prezentace nebo obhajoba",
+      "content": "10 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "10 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Lednice"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Stavebnictví II"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Civil engineering II"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Není umožněno."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Jiří Dohnal, Ph.D., DiS."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav zahradní a krajinářské architektury (ZF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Zahradnická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jiří Dohnal, Ph.D., DiS. (cvičící, garant, přednášející, zkoušející)Ing. Jaromír Skoupil, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Stavebnictví I a AKR19"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý8.00-9.50ZFAA1 (Led)J. Dohnal, J. SkoupilPřednáškaKaždý týden42Úterý10.00-11.50ZFD21 (Led)J. DohnalCvičeníKaždý týden22Úterý13.00-14.50ZFD21 (Led)J. SkoupilCvičeníKaždý týden22"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět posluchače seznamuje s problematikou navrhování nejběžněji využívaných stavebních konstrukcí v krajinářské architektuře - jejich stavebně-technickým, materiálovým a výtvarným řešením včetně zásad zpracování projektové dokumentace. Po absolvování předmětu bude student schopen vytvořit projektovou dokumentaci jednoduché stavby v krajinářské architektuře dle vyhlášky 131/2024 Sb. o dokumentaci staveb."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do problematiky projektování staveb (dotace 2/2) a.Proces projektování, stupně projektové dokumentace, autorizace, standardy služeb architekta, zapojené profeseb.Zákon 283/2021 Sb. a jeho prováděcí předpisy, portál stavebníkac.Struktura projektové dokumentaced.Zadání seminární práce, ukázky studentských prací z minulých lete.Ve cvičení bude následovat praktická ukázka stavebních materiálů – opakování z letního semestru2.Terénní úpravy (dotace 2/2) a.definice, základní pojmy, návaznost na zákon 283/2001 Sb.b.zemní práce – typologie, pojmy, návaznost na ceníky RTSc.zdroje dat pro projektování terénních úprav, potřebné průzkumy a rozboryd.geodetické zaměření jako nutný předpoklad návrhu terénních úprave.kreslení TÚ, 3D model terénu, sklony svahů, řezy terénem, vyrovnaná bilance TÚ …3.Komunikace a zpevněné povrchy I (dotace 2/2) a.typologie a názvosloví, druhy povrchů dle účelu, logika tvorby cestní sítěb.spády zpevněných ploch a komunikací, šikmých rampc.požadavky na přístupnost a bezbariérové užívání (zákon 283/2021 Sb., ČSN 73 4001)d.odvodnění, odvodňovací prvky a zařízeníe.kreslení komunikací v situačním výkresu a příčných řezech, podélný profil komunikace4.Komunikace a zpevněné povrchy II (dotace 2/2) a.ukázky konkrétních příkladů správného i chybného konstrukčního řešení, rozličného materiálového provedení, zkušenosti z praxeb.specifika nestmelených povrchů, praktická ukázka materiálůc.ukázka výkresové dokumentace5.Drobná architektura II (dotace 2/2) a.zdi, schodiště, rampy, zábradlí, ploty – prohloubení učiva z letního semestru formou ukázky konkrétních příkladů správného i chybného konstrukčního řešení, rozličného materiálového provedení, zkušenosti z praxeb.ukázka výkresové dokumentace6.Drobná architektura III (dotace 4/4) a.Stavby v KA: pergoly, přístřešky, altánky, mola, lávky, vyhlídky aj. - specifika konstrukčního řešení pro různé materiályb.základy statiky a zatížení konstrukcí; základové, nosné a nenosné konstrukcec.spolupráce s architektem, stavebním inženýrem, statikemd.návaznost na stavební zákon (povolování staveb)7.Drobná architektura IV (dotace 4/4) a.- pergoly, přístřešky, altánky, mola, lávky, vyhlídky aj. – příklady různých řešení a zkušenosti z praxeb.ukázka výkresové dokumentace8.Zastřešené konstrukce, zelené střechy, konstrukce pro stínění (dotace 4/4) a.problematika stínění a ochlazování staveb v návaznosti na změnu klimatub.role zeleně, zeleň na konstrukci, stínící stavební konstrukce, lankové konstrukce, plachty atd.c.detaily řešení střešních konstrukcí z různých materiálů, zatížení střech, klempířské prvky atd.9.Hospodaření s dešťovou vodou na pozemku (dotace 2/2) a.problematika HDV v návaznosti na změnu klimatu, souvislosti s MZIb.odvodňovací soustava a její prvky, dimenzování vpustí a potrubíc.zařízení a prvky pro akumulaci a zasakování srážkových vodd.stavební zákon, normy ČSN 75 9010 a ČSN TNV 75 9011e.vzorečky pro výpočet dimenzí vsakovacího zařízeníf.ukázka výkresové dokumentace10.Vodní prvky (dotace 2/2) a.typologie vodních prvkůb.principy konstrukčního řešení, specifika obnovy vodních prvků v památkově chráněných objektechc.spolupráce se specialistou na vodní prvkyd.příklady z praxe, ukázka výkresové dokumentace11.Mobiliář, umělecká díla, herní prvky (dotace 2/2) a.typologie, principy konstrukčního a materiálového řešeníb.normy, registrace užitného vzoruc.příklady z praxe, ukázka výkresové dokumentace12.Osvětlení v krajinářské architektuře (dotace 2/2) a.světlo a jeho fyzikální vlastnosti, cirkadiánní režim člověkab.přirozené/ umělé osvětlení, jejich příklady a využití v KAc.provozní / scénografické osvětlení, principy správného používání svítideld.spolupráce s osvětlovacím specialistou, kniha svítidel, světelná zkouškae.příklady z praxe, ukázka výkresové dokumentace"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Proces projektování, stupně projektové dokumentace, autorizace, standardy služeb architekta, zapojené profeseb.Zákon 283/2021 Sb. a jeho prováděcí předpisy, portál stavebníkac.Struktura projektové dokumentaced.Zadání seminární práce, ukázky studentských prací z minulých lete.Ve cvičení bude následovat praktická ukázka stavebních materiálů – opakování z letního semestru"
+    },
+    {
+      "label": "[section] Úvod do problematiky projektování staveb",
+      "content": "a.Proces projektování, stupně projektové dokumentace, autorizace, standardy služeb architekta, zapojené profeseb.Zákon 283/2021 Sb. a jeho prováděcí předpisy, portál stavebníkac.Struktura projektové dokumentaced.Zadání seminární práce, ukázky studentských prací z minulých lete.Ve cvičení bude následovat praktická ukázka stavebních materiálů – opakování z letního semestru"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.definice, základní pojmy, návaznost na zákon 283/2001 Sb.b.zemní práce – typologie, pojmy, návaznost na ceníky RTSc.zdroje dat pro projektování terénních úprav, potřebné průzkumy a rozboryd.geodetické zaměření jako nutný předpoklad návrhu terénních úprave.kreslení TÚ, 3D model terénu, sklony svahů, řezy terénem, vyrovnaná bilance TÚ …"
+    },
+    {
+      "label": "[section] Terénní úpravy",
+      "content": "a.definice, základní pojmy, návaznost na zákon 283/2001 Sb.b.zemní práce – typologie, pojmy, návaznost na ceníky RTSc.zdroje dat pro projektování terénních úprav, potřebné průzkumy a rozboryd.geodetické zaměření jako nutný předpoklad návrhu terénních úprave.kreslení TÚ, 3D model terénu, sklony svahů, řezy terénem, vyrovnaná bilance TÚ …"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.typologie a názvosloví, druhy povrchů dle účelu, logika tvorby cestní sítěb.spády zpevněných ploch a komunikací, šikmých rampc.požadavky na přístupnost a bezbariérové užívání (zákon 283/2021 Sb., ČSN 73 4001)d.odvodnění, odvodňovací prvky a zařízeníe.kreslení komunikací v situačním výkresu a příčných řezech, podélný profil komunikace"
+    },
+    {
+      "label": "[section] Komunikace a zpevněné povrchy I",
+      "content": "a.typologie a názvosloví, druhy povrchů dle účelu, logika tvorby cestní sítěb.spády zpevněných ploch a komunikací, šikmých rampc.požadavky na přístupnost a bezbariérové užívání (zákon 283/2021 Sb., ČSN 73 4001)d.odvodnění, odvodňovací prvky a zařízeníe.kreslení komunikací v situačním výkresu a příčných řezech, podélný profil komunikace"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.ukázky konkrétních příkladů správného i chybného konstrukčního řešení, rozličného materiálového provedení, zkušenosti z praxeb.specifika nestmelených povrchů, praktická ukázka materiálůc.ukázka výkresové dokumentace"
+    },
+    {
+      "label": "[section] Komunikace a zpevněné povrchy II",
+      "content": "a.ukázky konkrétních příkladů správného i chybného konstrukčního řešení, rozličného materiálového provedení, zkušenosti z praxeb.specifika nestmelených povrchů, praktická ukázka materiálůc.ukázka výkresové dokumentace"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.zdi, schodiště, rampy, zábradlí, ploty – prohloubení učiva z letního semestru formou ukázky konkrétních příkladů správného i chybného konstrukčního řešení, rozličného materiálového provedení, zkušenosti z praxeb.ukázka výkresové dokumentace"
+    },
+    {
+      "label": "[section] Drobná architektura II",
+      "content": "a.zdi, schodiště, rampy, zábradlí, ploty – prohloubení učiva z letního semestru formou ukázky konkrétních příkladů správného i chybného konstrukčního řešení, rozličného materiálového provedení, zkušenosti z praxeb.ukázka výkresové dokumentace"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Stavby v KA: pergoly, přístřešky, altánky, mola, lávky, vyhlídky aj. - specifika konstrukčního řešení pro různé materiályb.základy statiky a zatížení konstrukcí; základové, nosné a nenosné konstrukcec.spolupráce s architektem, stavebním inženýrem, statikemd.návaznost na stavební zákon (povolování staveb)"
+    },
+    {
+      "label": "[section] Drobná architektura III",
+      "content": "a.Stavby v KA: pergoly, přístřešky, altánky, mola, lávky, vyhlídky aj. - specifika konstrukčního řešení pro různé materiályb.základy statiky a zatížení konstrukcí; základové, nosné a nenosné konstrukcec.spolupráce s architektem, stavebním inženýrem, statikemd.návaznost na stavební zákon (povolování staveb)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.- pergoly, přístřešky, altánky, mola, lávky, vyhlídky aj. – příklady různých řešení a zkušenosti z praxeb.ukázka výkresové dokumentace"
+    },
+    {
+      "label": "[section] Drobná architektura IV",
+      "content": "a.- pergoly, přístřešky, altánky, mola, lávky, vyhlídky aj. – příklady různých řešení a zkušenosti z praxeb.ukázka výkresové dokumentace"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.problematika stínění a ochlazování staveb v návaznosti na změnu klimatub.role zeleně, zeleň na konstrukci, stínící stavební konstrukce, lankové konstrukce, plachty atd.c.detaily řešení střešních konstrukcí z různých materiálů, zatížení střech, klempířské prvky atd."
+    },
+    {
+      "label": "[section] Zastřešené konstrukce, zelené střechy, konstrukce pro stínění",
+      "content": "a.problematika stínění a ochlazování staveb v návaznosti na změnu klimatub.role zeleně, zeleň na konstrukci, stínící stavební konstrukce, lankové konstrukce, plachty atd.c.detaily řešení střešních konstrukcí z různých materiálů, zatížení střech, klempířské prvky atd."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.problematika HDV v návaznosti na změnu klimatu, souvislosti s MZIb.odvodňovací soustava a její prvky, dimenzování vpustí a potrubíc.zařízení a prvky pro akumulaci a zasakování srážkových vodd.stavební zákon, normy ČSN 75 9010 a ČSN TNV 75 9011e.vzorečky pro výpočet dimenzí vsakovacího zařízeníf.ukázka výkresové dokumentace"
+    },
+    {
+      "label": "[section] Hospodaření s dešťovou vodou na pozemku",
+      "content": "a.problematika HDV v návaznosti na změnu klimatu, souvislosti s MZIb.odvodňovací soustava a její prvky, dimenzování vpustí a potrubíc.zařízení a prvky pro akumulaci a zasakování srážkových vodd.stavební zákon, normy ČSN 75 9010 a ČSN TNV 75 9011e.vzorečky pro výpočet dimenzí vsakovacího zařízeníf.ukázka výkresové dokumentace"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.typologie vodních prvkůb.principy konstrukčního řešení, specifika obnovy vodních prvků v památkově chráněných objektechc.spolupráce se specialistou na vodní prvkyd.příklady z praxe, ukázka výkresové dokumentace"
+    },
+    {
+      "label": "[section] Vodní prvky",
+      "content": "a.typologie vodních prvkůb.principy konstrukčního řešení, specifika obnovy vodních prvků v památkově chráněných objektechc.spolupráce se specialistou na vodní prvkyd.příklady z praxe, ukázka výkresové dokumentace"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.typologie, principy konstrukčního a materiálového řešeníb.normy, registrace užitného vzoruc.příklady z praxe, ukázka výkresové dokumentace"
+    },
+    {
+      "label": "[section] Mobiliář, umělecká díla, herní prvky",
+      "content": "a.typologie, principy konstrukčního a materiálového řešeníb.normy, registrace užitného vzoruc.příklady z praxe, ukázka výkresové dokumentace"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.světlo a jeho fyzikální vlastnosti, cirkadiánní režim člověkab.přirozené/ umělé osvětlení, jejich příklady a využití v KAc.provozní / scénografické osvětlení, principy správného používání svítideld.spolupráce s osvětlovacím specialistou, kniha svítidel, světelná zkouškae.příklady z praxe, ukázka výkresové dokumentace"
+    },
+    {
+      "label": "[section] Osvětlení v krajinářské architektuře",
+      "content": "a.světlo a jeho fyzikální vlastnosti, cirkadiánní režim člověkab.přirozené/ umělé osvětlení, jejich příklady a využití v KAc.provozní / scénografické osvětlení, principy správného používání svítideld.spolupráce s osvětlovacím specialistou, kniha svítidel, světelná zkouškae.příklady z praxe, ukázka výkresové dokumentace"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hveřejná prezentace (ústní)2 hpříprava na zkoušku30 hpříprava na průběžné hodnocení10 hpříprava na průběžný test12 hpříprava prezentace5 hzpracování projektů25 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zápočet: - povinná účast na cvičeních v rozsahu minimálně 80% - průběžné konzultace seminární práce - povinná prezentace 1. části seminární práce se zpětnou vazbou od vyučujících - odevzdání hotové seminární práce Zkouška: Výsledná známka odpovídá součtu bodů z dílčích částí přepočtených dle systému ECTS: - prezentace 1. části seminární práce - maximálně 30 bodů - hotová seminární práce v tištěné i digitální podobě - maximálně 30 bodů - Písemný test - 20 otázek, maximálně 40 bodů Celkem maximálně 100 bodů, hodnocení dle ECTS: A: 90 - 100 bodů B: 80 - 89 bodů C: 70 - 79 bodů D: 60 - 69 bodů E: 50 - 59 bodů F: 0 - 49 bodů"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumVypracování semestrální práce80 %Prezentace nebo obhajoba10 %Absolvování závěrečného testu10 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:HÁJEK, Václav. 1999. Pozemní stavitelství I.: pro 1.ročník SPŠ stavebních. 4. vyd. Praha: Sobotáles, 150 s. ISBN 80-85920-45-X.ZIMMERMANN, Astrid. 2011. Constructing landscape: materials, techniques, structural components. 2. vyd. Basel: Birkhäuser, 533 s. ISBN 978-3-0346-0720-9.ZIMMERMANN, Astrid. 2015. Planning landscape : dimensions, elements, typologies. Basel: Birkhäuser Verlag, 381 s. ISBN 978-3-0346-0761-2.PETSCHEK, Peter. Constructing Shadows: Pergolas, pavilions, tents, cables andplants. 2011: Birkhäuser, 247 s. ISBN 978-3-0346-0714-8.PETSCHEK, Peter; GASS, Siegfried. Constructing shadows: pergolas, pavilions, tents, cables, plants. ISBN 9783034610735. http://site.ebrary.com/lib/mendelu/Doc?id=10634530.Doporučená:HÁJEK, Václav. 2002. Betonujeme. 2. vyd. Praha: Grada Publishing, 107 s. ISBN 80-247-0344-0.HÁJEK, Václav. 1999. Obklady stěn a stropů. Praha: GRADA Publishing, 104 s. ISBN 80-7169-835-0.HÁJEK, Václav. 2000. Ploty. 1. vyd. Praha: Grada Publishing, 103 s. ISBN 80-247-9033-5.HÁJEK, Václav. 2000. Podlahy. 1. vyd. Praha: Grada Publishing, 81 s. ISBN 80-7169-923-3.HÁJEK, Václav a kol. 1999. Pozemní stavitelství II: pro 2. ročník SPŠ stavebních. 2. vyd. Praha: Sobotáles, 218 s. ISBN 80-85920-59-X.HÁJEK, Václav a kol. 2004. Pozemní stavitelství III: pro 3. ročník SPŠ stavebních. 3. vyd. Praha: Sobotáles, 328 s. ISBN 80-86817-04-0.HÁJEK, Václav a kol. 1996. Pozemní stavitelství IV: pro 4. ročník SPŠ stavebních. 2. vyd. Praha: Sobotáles, 197 s. ISBN 80-85920-24-7.HÁJEK, Václav. 2000. Pracujeme na střeše. 2. vyd. Praha: 299 s. ISBN 80-85920-68-9.HÁJEK, Václav. 1993. Pracujeme se dřevem. 1. vyd. Praha: Svoboda-Libertas, 369 s. ISBN 80-205-0323-4.HÁJEK, Václav. 1997. Stavíme ze dřeva. 1. vyd. Praha: Sobotáles, 153 s. ISBN 80-85920-44-1.HÁJEK, Václav. 1996. Upravujeme zahradu. 1. vyd. Praha: Grada, 73 s. Profi & hobby ;. ISBN 80-7169-060-0.HÁJEK, Václav. 1998. Upravujeme zahradu III: Architektura, skalky, návrhy, příklady. 1. vyd. Praha: Grada Publishing, 96 s. ISBN 80-7169-721-4.HÁJEK, Václav. 2001. Upravujeme zahradu III: malá zahradní architektura. Praha: Grada, 104 s. Profi & hobby ;. ISBN 80-247-0172-3.HÁJEK, Václav. 1982. Záhradné stavby a úprava záhrady. 1. vyd. Bratislava: Alfa, vydavateĺstvo technickej a ekonomickej literatúry, 159 s. Urob si sám.NEUFERT, P. 2000. Navrhování staveb . Praha: Consulinvest .PETSCHEK, Peter. Geländemodellierung für Landschaftsarchitekten und Architekten. 1. vyd. Basel [u.a.: Birkhäuser, 221 s. ISBN 3-7643-8501-4.PETSCHEK, Peter. 2014. Grading: landscapingSMART, 3D machine control systems, stormwater management. Basel: Birkhäuser, 285 s. ISBN 978-3-03821-508-0."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "HÁJEK, Václav. 1999. Pozemní stavitelství I.: pro 1.ročník SPŠ stavebních. 4. vyd. Praha: Sobotáles, 150 s. ISBN 80-85920-45-X.ZIMMERMANN, Astrid. 2011. Constructing landscape: materials, techniques, structural components. 2. vyd. Basel: Birkhäuser, 533 s. ISBN 978-3-0346-0720-9.ZIMMERMANN, Astrid. 2015. Planning landscape : dimensions, elements, typologies. Basel: Birkhäuser Verlag, 381 s. ISBN 978-3-0346-0761-2.PETSCHEK, Peter. Constructing Shadows: Pergolas, pavilions, tents, cables andplants. 2011: Birkhäuser, 247 s. ISBN 978-3-0346-0714-8.PETSCHEK, Peter; GASS, Siegfried. Constructing shadows: pergolas, pavilions, tents, cables, plants. ISBN 9783034610735. http://site.ebrary.com/lib/mendelu/Doc?id=10634530."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "HÁJEK, Václav. 2002. Betonujeme. 2. vyd. Praha: Grada Publishing, 107 s. ISBN 80-247-0344-0.HÁJEK, Václav. 1999. Obklady stěn a stropů. Praha: GRADA Publishing, 104 s. ISBN 80-7169-835-0.HÁJEK, Václav. 2000. Ploty. 1. vyd. Praha: Grada Publishing, 103 s. ISBN 80-247-9033-5.HÁJEK, Václav. 2000. Podlahy. 1. vyd. Praha: Grada Publishing, 81 s. ISBN 80-7169-923-3.HÁJEK, Václav a kol. 1999. Pozemní stavitelství II: pro 2. ročník SPŠ stavebních. 2. vyd. Praha: Sobotáles, 218 s. ISBN 80-85920-59-X.HÁJEK, Václav a kol. 2004. Pozemní stavitelství III: pro 3. ročník SPŠ stavebních. 3. vyd. Praha: Sobotáles, 328 s. ISBN 80-86817-04-0.HÁJEK, Václav a kol. 1996. Pozemní stavitelství IV: pro 4. ročník SPŠ stavebních. 2. vyd. Praha: Sobotáles, 197 s. ISBN 80-85920-24-7.HÁJEK, Václav. 2000. Pracujeme na střeše. 2. vyd. Praha: 299 s. ISBN 80-85920-68-9.HÁJEK, Václav. 1993. Pracujeme se dřevem. 1. vyd. Praha: Svoboda-Libertas, 369 s. ISBN 80-205-0323-4.HÁJEK, Václav. 1997. Stavíme ze dřeva. 1. vyd. Praha: Sobotáles, 153 s. ISBN 80-85920-44-1.HÁJEK, Václav. 1996. Upravujeme zahradu. 1. vyd. Praha: Grada, 73 s. Profi & hobby ;. ISBN 80-7169-060-0.HÁJEK, Václav. 1998. Upravujeme zahradu III: Architektura, skalky, návrhy, příklady. 1. vyd. Praha: Grada Publishing, 96 s. ISBN 80-7169-721-4.HÁJEK, Václav. 2001. Upravujeme zahradu III: malá zahradní architektura. Praha: Grada, 104 s. Profi & hobby ;. ISBN 80-247-0172-3.HÁJEK, Václav. 1982. Záhradné stavby a úprava záhrady. 1. vyd. Bratislava: Alfa, vydavateĺstvo technickej a ekonomickej literatúry, 159 s. Urob si sám.NEUFERT, P. 2000. Navrhování staveb . Praha: Consulinvest .PETSCHEK, Peter. Geländemodellierung für Landschaftsarchitekten und Architekten. 1. vyd. Basel [u.a.: Birkhäuser, 221 s. ISBN 3-7643-8501-4.PETSCHEK, Peter. 2014. Grading: landscapingSMART, 3D machine control systems, stormwater management. Basel: Birkhäuser, 285 s. ISBN 978-3-03821-508-0."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-KA Krajinářská architektura, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Lednice"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "STAV2"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Stavebnictví II"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Civil engineering II"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "not possible"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Jiří Dohnal, Ph.D., DiS."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Garden and Landscape Architecture (FH)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Horticulture"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jiří Dohnal, Ph.D., DiS. (examiner, instructor, lecturer, supervisor)Ing. Jaromír Skoupil, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Civil engineering I and AKR19"
+    },
+    {
+      "label": "1.",
+      "content": "Stairs, ramps (allowance 2/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Tiles (allowance 2/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Paths, paving (allowance 2/2)"
+    },
+    {
+      "label": "4.",
+      "content": "Fences, walls (allowance 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Carpentry construction, roofs (allowance 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Pergolas, small buildings (allowance 4/4)"
+    },
+    {
+      "label": "7.",
+      "content": "Water elements (allowance 4/4)"
+    },
+    {
+      "label": "8.",
+      "content": "Garden furniture (allowance 2/2)"
+    },
+    {
+      "label": "9.",
+      "content": "Garden lightening (allowance 2/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Playgrounds, play elements (allowance 2/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Landscape realizations (allowance 4/4)"
+    },
+    {
+      "label": "Term paper",
+      "content": "80 %"
+    },
+    {
+      "label": "Presentation or defence",
+      "content": "10 %"
+    },
+    {
+      "label": "Final test",
+      "content": "10 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Lednice"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Stavebnictví II"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Civil engineering II"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: not possible"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Jiří Dohnal, Ph.D., DiS."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Garden and Landscape Architecture (FH)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Horticulture"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jiří Dohnal, Ph.D., DiS. (examiner, instructor, lecturer, supervisor)Ing. Jaromír Skoupil, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Civil engineering I and AKR19"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday8.00-9.50ZFAA1 (Led)J. Dohnal, J. SkoupilLectureEvery week42Tuesday10.00-11.50ZFD21 (Led)J. DohnalSeminarEvery week22Tuesday13.00-14.50ZFD21 (Led)J. SkoupilSeminarEvery week22"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The course focuses on the issue of designing the most commonly used building structures in landscape architecture - their technical, material and artistic solutions, including the principles of project documentation processing."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Stairs, ramps (allowance 2/2)2.Tiles (allowance 2/2)3.Paths, paving (allowance 2/2)4.Fences, walls (allowance 2/2)5.Carpentry construction, roofs (allowance 2/2)6.Pergolas, small buildings (allowance 4/4)7.Water elements (allowance 4/4)8.Garden furniture (allowance 2/2)9.Garden lightening (allowance 2/2)10.Playgrounds, play elements (allowance 2/2)11.Landscape realizations (allowance 4/4)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Tiles (allowance 2/2)"
+    },
+    {
+      "label": "[section] Stairs, ramps",
+      "content": "2.Tiles (allowance 2/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Paths, paving (allowance 2/2)"
+    },
+    {
+      "label": "[section] Tiles",
+      "content": "3.Paths, paving (allowance 2/2)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Fences, walls (allowance 2/2)"
+    },
+    {
+      "label": "[section] Paths, paving",
+      "content": "4.Fences, walls (allowance 2/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Carpentry construction, roofs (allowance 2/2)"
+    },
+    {
+      "label": "[section] Fences, walls",
+      "content": "5.Carpentry construction, roofs (allowance 2/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Pergolas, small buildings (allowance 4/4)"
+    },
+    {
+      "label": "[section] Carpentry construction, roofs",
+      "content": "6.Pergolas, small buildings (allowance 4/4)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Water elements (allowance 4/4)"
+    },
+    {
+      "label": "[section] Pergolas, small buildings",
+      "content": "7.Water elements (allowance 4/4)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Garden furniture (allowance 2/2)"
+    },
+    {
+      "label": "[section] Water elements",
+      "content": "8.Garden furniture (allowance 2/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Garden lightening (allowance 2/2)"
+    },
+    {
+      "label": "[section] Garden furniture",
+      "content": "9.Garden lightening (allowance 2/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Playgrounds, play elements (allowance 2/2)"
+    },
+    {
+      "label": "[section] Garden lightening",
+      "content": "10.Playgrounds, play elements (allowance 2/2)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Landscape realizations (allowance 4/4)"
+    },
+    {
+      "label": "[section] Playgrounds, play elements",
+      "content": "11.Landscape realizations (allowance 4/4)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hpublic presentation (oral)2 hpreparation for exam30 hpreparation for regular assessment10 hpreparation for regular testing12 hpreparation of presentation5 helaboration and execution of projects25 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Exam mark is made by sum of points, maximum 100 points. Presentation of 1. part of seminary work: max. 30 points, final seminary work: max. 30 points, written test max. 40 points. Exam marks: A: 90 - 100 pt B: 80 - 89 pt C: 70 - 79 pt D: 60 - 69 pt E: 50 - 59 pt F: 0 - 49 pt"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTerm paper80 %Presentation or defence10 %Final test10 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:HÁJEK, Václav. 1999. Pozemní stavitelství I.: pro 1.ročník SPŠ stavebních. 4th ed. Praha: Sobotáles, 150 p. ISBN 80-85920-45-X.ZIMMERMANN, Astrid. 2011. Constructing landscape: materials, techniques, structural components. 2nd ed. Basel: Birkhäuser, 533 p. ISBN 978-3-0346-0720-9.ZIMMERMANN, Astrid. 2015. Planning landscape : dimensions, elements, typologies. Basel: Birkhäuser Verlag, 381 p. ISBN 978-3-0346-0761-2.PETSCHEK, Peter. Constructing Shadows: Pergolas, pavilions, tents, cables andplants. 2011: Birkhäuser, 247 p. ISBN 978-3-0346-0714-8.PETSCHEK, Peter; GASS, Siegfried. Constructing shadows: pergolas, pavilions, tents, cables, plants. ISBN 9783034610735. http://site.ebrary.com/lib/mendelu/Doc?id=10634530.Recommended:HÁJEK, Václav. 2002. Betonujeme. 2nd ed. Praha: Grada Publishing, 107 p. ISBN 80-247-0344-0.HÁJEK, Václav. 1999. Obklady stěn a stropů. Praha: GRADA Publishing, 104 p. ISBN 80-7169-835-0.HÁJEK, Václav. 2000. Ploty. 1st ed. Praha: Grada Publishing, 103 p. ISBN 80-247-9033-5.HÁJEK, Václav. 2000. Podlahy. 1st ed. Praha: Grada Publishing, 81 p. ISBN 80-7169-923-3.HÁJEK, Václav et al. 1999. Pozemní stavitelství II: pro 2. ročník SPŠ stavebních. 2nd ed. Praha: Sobotáles, 218 p. ISBN 80-85920-59-X.HÁJEK, Václav et al. 2004. Pozemní stavitelství III: pro 3. ročník SPŠ stavebních. 3rd ed. Praha: Sobotáles, 328 p. ISBN 80-86817-04-0.HÁJEK, Václav et al. 1996. Pozemní stavitelství IV: pro 4. ročník SPŠ stavebních. 2nd ed. Praha: Sobotáles, 197 p. ISBN 80-85920-24-7.HÁJEK, Václav. 2000. Pracujeme na střeše. 2nd ed. Praha: 299 p. ISBN 80-85920-68-9.HÁJEK, Václav. 1993. Pracujeme se dřevem. 1st ed. Praha: Svoboda-Libertas, 369 p. ISBN 80-205-0323-4.HÁJEK, Václav. 1997. Stavíme ze dřeva. 1st ed. Praha: Sobotáles, 153 p. ISBN 80-85920-44-1.HÁJEK, Václav. 1996. Upravujeme zahradu. 1st ed. Praha: Grada, 73 p. Profi & hobby ;. ISBN 80-7169-060-0.HÁJEK, Václav. 1998. Upravujeme zahradu III: Architektura, skalky, návrhy, příklady. 1st ed. Praha: Grada Publishing, 96 p. ISBN 80-7169-721-4.HÁJEK, Václav. 2001. Upravujeme zahradu III: malá zahradní architektura. Praha: Grada, 104 p. Profi & hobby ;. ISBN 80-247-0172-3.HÁJEK, Václav. 1982. Záhradné stavby a úprava záhrady. 1st ed. Bratislava: Alfa, vydavateĺstvo technickej a ekonomickej literatúry, 159 p. Urob si sám.NEUFERT, P. 2000. Navrhování staveb . Praha: Consulinvest .PETSCHEK, Peter. Geländemodellierung für Landschaftsarchitekten und Architekten. 1st ed. Basel [u.a.: Birkhäuser, 221 p. ISBN 3-7643-8501-4.PETSCHEK, Peter. 2014. Grading: landscapingSMART, 3D machine control systems, stormwater management. Basel: Birkhäuser, 285 p. ISBN 978-3-03821-508-0."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "HÁJEK, Václav. 1999. Pozemní stavitelství I.: pro 1.ročník SPŠ stavebních. 4th ed. Praha: Sobotáles, 150 p. ISBN 80-85920-45-X.ZIMMERMANN, Astrid. 2011. Constructing landscape: materials, techniques, structural components. 2nd ed. Basel: Birkhäuser, 533 p. ISBN 978-3-0346-0720-9.ZIMMERMANN, Astrid. 2015. Planning landscape : dimensions, elements, typologies. Basel: Birkhäuser Verlag, 381 p. ISBN 978-3-0346-0761-2.PETSCHEK, Peter. Constructing Shadows: Pergolas, pavilions, tents, cables andplants. 2011: Birkhäuser, 247 p. ISBN 978-3-0346-0714-8.PETSCHEK, Peter; GASS, Siegfried. Constructing shadows: pergolas, pavilions, tents, cables, plants. ISBN 9783034610735. http://site.ebrary.com/lib/mendelu/Doc?id=10634530."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "HÁJEK, Václav. 2002. Betonujeme. 2nd ed. Praha: Grada Publishing, 107 p. ISBN 80-247-0344-0.HÁJEK, Václav. 1999. Obklady stěn a stropů. Praha: GRADA Publishing, 104 p. ISBN 80-7169-835-0.HÁJEK, Václav. 2000. Ploty. 1st ed. Praha: Grada Publishing, 103 p. ISBN 80-247-9033-5.HÁJEK, Václav. 2000. Podlahy. 1st ed. Praha: Grada Publishing, 81 p. ISBN 80-7169-923-3.HÁJEK, Václav et al. 1999. Pozemní stavitelství II: pro 2. ročník SPŠ stavebních. 2nd ed. Praha: Sobotáles, 218 p. ISBN 80-85920-59-X.HÁJEK, Václav et al. 2004. Pozemní stavitelství III: pro 3. ročník SPŠ stavebních. 3rd ed. Praha: Sobotáles, 328 p. ISBN 80-86817-04-0.HÁJEK, Václav et al. 1996. Pozemní stavitelství IV: pro 4. ročník SPŠ stavebních. 2nd ed. Praha: Sobotáles, 197 p. ISBN 80-85920-24-7.HÁJEK, Václav. 2000. Pracujeme na střeše. 2nd ed. Praha: 299 p. ISBN 80-85920-68-9.HÁJEK, Václav. 1993. Pracujeme se dřevem. 1st ed. Praha: Svoboda-Libertas, 369 p. ISBN 80-205-0323-4.HÁJEK, Václav. 1997. Stavíme ze dřeva. 1st ed. Praha: Sobotáles, 153 p. ISBN 80-85920-44-1.HÁJEK, Václav. 1996. Upravujeme zahradu. 1st ed. Praha: Grada, 73 p. Profi & hobby ;. ISBN 80-7169-060-0.HÁJEK, Václav. 1998. Upravujeme zahradu III: Architektura, skalky, návrhy, příklady. 1st ed. Praha: Grada Publishing, 96 p. ISBN 80-7169-721-4.HÁJEK, Václav. 2001. Upravujeme zahradu III: malá zahradní architektura. Praha: Grada, 104 p. Profi & hobby ;. ISBN 80-247-0172-3.HÁJEK, Václav. 1982. Záhradné stavby a úprava záhrady. 1st ed. Bratislava: Alfa, vydavateĺstvo technickej a ekonomickej literatúry, 159 p. Urob si sám.NEUFERT, P. 2000. Navrhování staveb . Praha: Consulinvest .PETSCHEK, Peter. Geländemodellierung für Landschaftsarchitekten und Architekten. 1st ed. Basel [u.a.: Birkhäuser, 221 p. ISBN 3-7643-8501-4.PETSCHEK, Peter. 2014. Grading: landscapingSMART, 3D machine control systems, stormwater management. Basel: Birkhäuser, 285 p. ISBN 978-3-03821-508-0."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-LAA Landscape architecture, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Lednice"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:17:48",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

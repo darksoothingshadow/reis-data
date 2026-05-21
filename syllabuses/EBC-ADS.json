@@ -1,0 +1,881 @@
+{
+  "courseCode": "EBC-ADS",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-ADS"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Administrace databázových systémů"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Database Systems Administration"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Tuto možnost je nutné konzultovat před zahájením výuky."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Pavel Turčínek, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Pavel Turčínek, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška a Databázové systémy a návrh databází"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do výuky. Příprava pracovního prostředí a základy práce s Dockerem (dotace 1/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Relační databáze a MySQL (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Opakování z předmětu Databázové systémy a návrh databází"
+    },
+    {
+      "label": "b.",
+      "content": "Spuštění MySQL a nástroje Adminer pomocí docker-compose"
+    },
+    {
+      "label": "c.",
+      "content": "Základní operace v MySQL"
+    },
+    {
+      "label": "3.",
+      "content": "Konfigurace a správa uživatelů v MySQL (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Konfigurace MySQL"
+    },
+    {
+      "label": "b.",
+      "content": "Správa uživatelů v MySQL"
+    },
+    {
+      "label": "4.",
+      "content": "Mysqldump a asychnonní replikace v MySQL (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Import a export dat pomocí mysqldump"
+    },
+    {
+      "label": "b.",
+      "content": "Asychnronní replikace v MySQL"
+    },
+    {
+      "label": "5.",
+      "content": "HA cluster v MySQL (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Synchronní replikace v MySQL"
+    },
+    {
+      "label": "b.",
+      "content": "Vytvoření Galera clusteru"
+    },
+    {
+      "label": "c.",
+      "content": "Nástroj ProxySQL"
+    },
+    {
+      "label": "6.",
+      "content": "Shrnutí problematiky administrace relačních databází (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Práce na prvním projektu"
+    },
+    {
+      "label": "b.",
+      "content": "Konzultace"
+    },
+    {
+      "label": "7.",
+      "content": "Úvod do problematiky NoSQL (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní pojmy, principy NoSQL, CAP teorém"
+    },
+    {
+      "label": "b.",
+      "content": "Rozdělení podle jednotlivých typů, seznámení se rozdíly"
+    },
+    {
+      "label": "c.",
+      "content": "Práce s nástrojem Ansible"
+    },
+    {
+      "label": "8.",
+      "content": "Key-value databáze (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Představení NoSQL databází tohoto typu"
+    },
+    {
+      "label": "b.",
+      "content": "Práce s databází Redis"
+    },
+    {
+      "label": "9.",
+      "content": "Dokumentové a fulltextové databáze (dotace 1/2)"
+    },
+    {
+      "label": "b.",
+      "content": "Práce s databází MongoDB"
+    },
+    {
+      "label": "c.",
+      "content": "Práce s databází Elasticsearch"
+    },
+    {
+      "label": "10.",
+      "content": "Provozování databází v Kubernetes (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Představení prostředí Kubernetes"
+    },
+    {
+      "label": "b.",
+      "content": "Specifika provozování databází v K8s"
+    },
+    {
+      "label": "11.",
+      "content": "Sloupcové databáze (dotace 1/2)"
+    },
+    {
+      "label": "b.",
+      "content": "Práce s databází Apache HBase"
+    },
+    {
+      "label": "c.",
+      "content": "Práce s databází Apache Druid"
+    },
+    {
+      "label": "12.",
+      "content": "Grafové databáze (dotace 1/2)"
+    },
+    {
+      "label": "b.",
+      "content": "Práce s databází NebulaGraph"
+    },
+    {
+      "label": "13.",
+      "content": "Shrnutí problematiky NoSQL databází (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Práce na druhém projektu"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, ZS 2019/2020 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Administrace databázových systémů"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Database Systems Administration"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Tuto možnost je nutné konzultovat před zahájením výuky."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Pavel Turčínek, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Pavel Turčínek, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a Databázové systémy a návrh databází"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaČtvrtek9.00-10.50Q04B-AIIP. TurčínekPřednáškaSudý týden31Čtvrtek11.00-12.50Q04B-AIIP. TurčínekCvičeníKaždý týden31Pátek9.00-12.50Q47B-AIIP. TurčínekPřednáškaNepravidelně20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je představit možnosti soudobých databázových systémů při vývoji vlastních aplikací v praxi. Předmět se především zaměří na instalaci, nastavení a správu různých databázových systémů (relační, NoSQL). Po absolvování předmětu je tedy student schopen naistalovat, nastavit a spravovat relační i NoSQL databázové systémy."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do výuky. Příprava pracovního prostředí a základy práce s Dockerem (dotace 1/2)2.Relační databáze a MySQL (dotace 1/2) a.Opakování z předmětu Databázové systémy a návrh databázíb.Spuštění MySQL a nástroje Adminer pomocí docker-composec.Základní operace v MySQL3.Konfigurace a správa uživatelů v MySQL (dotace 1/2) a.Konfigurace MySQLb.Správa uživatelů v MySQL4.Mysqldump a asychnonní replikace v MySQL (dotace 1/2) a.Import a export dat pomocí mysqldumpb.Asychnronní replikace v MySQL5.HA cluster v MySQL (dotace 1/2) a.Synchronní replikace v MySQLb.Vytvoření Galera clusteruc.Nástroj ProxySQL6.Shrnutí problematiky administrace relačních databází (dotace 1/2) a.Práce na prvním projektub.Konzultace7.Úvod do problematiky NoSQL (dotace 1/2) a.Základní pojmy, principy NoSQL, CAP teorémb.Rozdělení podle jednotlivých typů, seznámení se rozdílyc.Práce s nástrojem Ansible8.Key-value databáze (dotace 1/2) a.Představení NoSQL databází tohoto typub.Práce s databází Redis9.Dokumentové a fulltextové databáze (dotace 1/2) a.Představení NoSQL databází tohoto typub.Práce s databází MongoDBc.Práce s databází Elasticsearch10.Provozování databází v Kubernetes (dotace 1/2) a.Představení prostředí Kubernetesb.Specifika provozování databází v K8s11.Sloupcové databáze (dotace 1/2) a.Představení NoSQL databází tohoto typub.Práce s databází Apache HBasec.Práce s databází Apache Druid12.Grafové databáze (dotace 1/2) a.Představení NoSQL databází tohoto typub.Práce s databází NebulaGraph13.Shrnutí problematiky NoSQL databází (dotace 2/4) a.Práce na druhém projektub.Konzultace"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Relační databáze a MySQL (dotace 1/2)"
+    },
+    {
+      "label": "[section] Úvod do výuky. Příprava pracovního prostředí a základy práce s Dockerem",
+      "content": "2.Relační databáze a MySQL (dotace 1/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Opakování z předmětu Databázové systémy a návrh databázíb.Spuštění MySQL a nástroje Adminer pomocí docker-composec.Základní operace v MySQL"
+    },
+    {
+      "label": "[section] Relační databáze a MySQL",
+      "content": "a.Opakování z předmětu Databázové systémy a návrh databázíb.Spuštění MySQL a nástroje Adminer pomocí docker-composec.Základní operace v MySQL"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Konfigurace MySQLb.Správa uživatelů v MySQL"
+    },
+    {
+      "label": "[section] Konfigurace a správa uživatelů v MySQL",
+      "content": "a.Konfigurace MySQLb.Správa uživatelů v MySQL"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Import a export dat pomocí mysqldumpb.Asychnronní replikace v MySQL"
+    },
+    {
+      "label": "[section] Mysqldump a asychnonní replikace v MySQL",
+      "content": "a.Import a export dat pomocí mysqldumpb.Asychnronní replikace v MySQL"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Synchronní replikace v MySQLb.Vytvoření Galera clusteruc.Nástroj ProxySQL"
+    },
+    {
+      "label": "[section] HA cluster v MySQL",
+      "content": "a.Synchronní replikace v MySQLb.Vytvoření Galera clusteruc.Nástroj ProxySQL"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Práce na prvním projektub.Konzultace"
+    },
+    {
+      "label": "[section] Shrnutí problematiky administrace relačních databází",
+      "content": "a.Práce na prvním projektub.Konzultace"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Základní pojmy, principy NoSQL, CAP teorémb.Rozdělení podle jednotlivých typů, seznámení se rozdílyc.Práce s nástrojem Ansible"
+    },
+    {
+      "label": "[section] Úvod do problematiky NoSQL",
+      "content": "a.Základní pojmy, principy NoSQL, CAP teorémb.Rozdělení podle jednotlivých typů, seznámení se rozdílyc.Práce s nástrojem Ansible"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Představení NoSQL databází tohoto typub.Práce s databází Redis"
+    },
+    {
+      "label": "[section] Key-value databáze",
+      "content": "a.Představení NoSQL databází tohoto typub.Práce s databází Redis"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Představení NoSQL databází tohoto typub.Práce s databází MongoDBc.Práce s databází Elasticsearch"
+    },
+    {
+      "label": "[section] Dokumentové a fulltextové databáze",
+      "content": "a.Představení NoSQL databází tohoto typub.Práce s databází MongoDBc.Práce s databází Elasticsearch"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Představení prostředí Kubernetesb.Specifika provozování databází v K8s"
+    },
+    {
+      "label": "[section] Provozování databází v Kubernetes",
+      "content": "a.Představení prostředí Kubernetesb.Specifika provozování databází v K8s"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Představení NoSQL databází tohoto typub.Práce s databází Apache HBasec.Práce s databází Apache Druid"
+    },
+    {
+      "label": "[section] Sloupcové databáze",
+      "content": "a.Představení NoSQL databází tohoto typub.Práce s databází Apache HBasec.Práce s databází Apache Druid"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Představení NoSQL databází tohoto typub.Práce s databází NebulaGraph"
+    },
+    {
+      "label": "[section] Grafové databáze",
+      "content": "a.Představení NoSQL databází tohoto typub.Práce s databází NebulaGraph"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Práce na druhém projektub.Konzultace"
+    },
+    {
+      "label": "[section] Shrnutí problematiky NoSQL databází",
+      "content": "a.Práce na druhém projektub.Konzultace"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška14 h16 hcvičení28 h0 hkonzultace0 h26 hpříprava na zkoušku30 h30 hpříprava prezentace10 h10 hzpracování protokolů8 h8 hzpracování projektů50 h50 hCelkem140 h140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "V rámci předmětu studenti vypracovávají dva projekty zaměřené na problematiku relačních a NoSQL databází. Za každý z nich je možné získat až 50 bodů (30 bodů za vypracování projektu + 20 bodů za prezentaci a obhajobu). Celkové hodnocení je dáno součtem bodů za oba průběžné projekty: A (alespoň 90 bodů), B (83 bodů), C (75 bodů), D (68 bodů), E (60 bodů)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumVypracování semestrální práce60 %60 %Prezentace nebo obhajoba40 %40 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:HARRISON, Guy. 2016. Next Generation Databases: NoSQL, NewSQL, and Big Data. New York: Apress, ISBN 978-1-484213-30-8.JONES, Don. 2014. Learn SQL Server Administration in a Month of Lunches. Shelter Island: Manning, ISBN 978-1-617292-13-2.PŘICHYSTAL, Jan; TURČÍNEK, Pavel. 2018. Administrace databázových systémů. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-581-7.Doporučená:FERNANDEZ, Ignatius. 2015. Beginning Oracle Database 12c Administration. New York: Apress, 384 s. ISBN 978-1-484201-94-7.MCCREARY, Daniel; KELLY, Ann. 2013. Making Sense of NoSQL. : Manning Publications, 312 s. ISBN 978-1-61729-107-4."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "HARRISON, Guy. 2016. Next Generation Databases: NoSQL, NewSQL, and Big Data. New York: Apress, ISBN 978-1-484213-30-8.JONES, Don. 2014. Learn SQL Server Administration in a Month of Lunches. Shelter Island: Manning, ISBN 978-1-617292-13-2.PŘICHYSTAL, Jan; TURČÍNEK, Pavel. 2018. Administrace databázových systémů. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-581-7."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "FERNANDEZ, Ignatius. 2015. Beginning Oracle Database 12c Administration. New York: Apress, 384 s. ISBN 978-1-484201-94-7.MCCREARY, Daniel; KELLY, Ann. 2013. Making Sense of NoSQL. : Manning Publications, 312 s. ISBN 978-1-61729-107-4."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-AII Administrace IS/ICT, prezenční forma, počáteční období ZS 2023/2024Program B-AII Administrace IS/ICT, kombinovaná forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-ADS"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Administrace databázových systémů"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Database Systems Administration"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "This option must be consulted before the start of teaching."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Pavel Turčínek, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Pavel Turčínek, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam and Database Systems and Database Design"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to the course. Preparing the work environment and the basics of working with Docker (allowance 1/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Relational Database and MySQL (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Review of Database Systems and Database Design"
+    },
+    {
+      "label": "b.",
+      "content": "Running MySQL and Adminer using docker-compose"
+    },
+    {
+      "label": "c.",
+      "content": "Basic operations in MySQL"
+    },
+    {
+      "label": "3.",
+      "content": "Configuring and managing users in MySQL (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "MySQL configuration"
+    },
+    {
+      "label": "b.",
+      "content": "Managing users in MySQL"
+    },
+    {
+      "label": "4.",
+      "content": "Mysqldump and asynchronous replication in MySQL (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Import and export data using mysqldump"
+    },
+    {
+      "label": "b.",
+      "content": "Asynchronous replication in MySQL"
+    },
+    {
+      "label": "5.",
+      "content": "HA cluster in MySQL (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Synchronous Replication in MySQL"
+    },
+    {
+      "label": "b.",
+      "content": "Creating a Galera cluster"
+    },
+    {
+      "label": "c.",
+      "content": "ProxySQL tool"
+    },
+    {
+      "label": "6.",
+      "content": "Summary of relational database administration issues (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Work on the first project"
+    },
+    {
+      "label": "b.",
+      "content": "Consultation"
+    },
+    {
+      "label": "7.",
+      "content": "Introduction to NoSQL issues (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic terms, principles of NoSQL, CAP theorem"
+    },
+    {
+      "label": "b.",
+      "content": "Division by individual types, getting to know the differences"
+    },
+    {
+      "label": "c.",
+      "content": "Working with Ansible"
+    },
+    {
+      "label": "8.",
+      "content": "Key-value database (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "An introduction to NoSQL databases of this type"
+    },
+    {
+      "label": "b.",
+      "content": "Working with the Redis database"
+    },
+    {
+      "label": "9.",
+      "content": "Document and full-text databases (allowance 1/2)"
+    },
+    {
+      "label": "b.",
+      "content": "Working with MongoDB database"
+    },
+    {
+      "label": "c.",
+      "content": "Working with Elasticsearch database"
+    },
+    {
+      "label": "10.",
+      "content": "Running databases in Kubernetes (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Introducing the Kubernetes environment"
+    },
+    {
+      "label": "b.",
+      "content": "Specifics of running databases in K8s"
+    },
+    {
+      "label": "11.",
+      "content": "Column databases (allowance 1/2)"
+    },
+    {
+      "label": "b.",
+      "content": "Working with Apache HBase"
+    },
+    {
+      "label": "c.",
+      "content": "Working with Apache Druid"
+    },
+    {
+      "label": "12.",
+      "content": "Graph databases (allowance 1/2)"
+    },
+    {
+      "label": "b.",
+      "content": "Working with NebulaGraph"
+    },
+    {
+      "label": "13.",
+      "content": "Summary of the issue of NoSQL databases (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Work on the second project"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, WS 2019/2020 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Administrace databázových systémů"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Database Systems Administration"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: This option must be consulted before the start of teaching."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Pavel Turčínek, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Pavel Turčínek, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam and Database Systems and Database Design"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityThursday9.00-10.50Q04B-AIIP. TurčínekLectureEven week31Thursday11.00-12.50Q04B-AIIP. TurčínekSeminarEvery week31Friday9.00-12.50Q47B-AIIP. TurčínekLectureOccasionally20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to introduce the possibilities of contemporary database systems in the development of own applications in practice. The course focuses on installation, setup, and management of various database systems (relational, NoSQL). After completing the course, the student is able to install, set up and manage relational and NoSQL database systems."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to the course. Preparing the work environment and the basics of working with Docker (allowance 1/2)2.Relational Database and MySQL (allowance 1/2) a.Review of Database Systems and Database Designb.Running MySQL and Adminer using docker-composec.Basic operations in MySQL3.Configuring and managing users in MySQL (allowance 1/2) a.MySQL configurationb.Managing users in MySQL4.Mysqldump and asynchronous replication in MySQL (allowance 1/2) a.Import and export data using mysqldumpb.Asynchronous replication in MySQL5.HA cluster in MySQL (allowance 1/2) a.Synchronous Replication in MySQLb.Creating a Galera clusterc.ProxySQL tool6.Summary of relational database administration issues (allowance 1/2) a.Work on the first projectb.Consultation7.Introduction to NoSQL issues (allowance 1/2) a.Basic terms, principles of NoSQL, CAP theoremb.Division by individual types, getting to know the differencesc.Working with Ansible8.Key-value database (allowance 1/2) a.An introduction to NoSQL databases of this typeb.Working with the Redis database9.Document and full-text databases (allowance 1/2) a.An introduction to NoSQL databases of this typeb.Working with MongoDB databasec.Working with Elasticsearch database10.Running databases in Kubernetes (allowance 1/2) a.Introducing the Kubernetes environmentb.Specifics of running databases in K8s11.Column databases (allowance 1/2) a.An introduction to NoSQL databases of this typeb.Working with Apache HBasec.Working with Apache Druid12.Graph databases (allowance 1/2) a.An introduction to NoSQL databases of this typeb.Working with NebulaGraph13.Summary of the issue of NoSQL databases (allowance 2/4) a.Work on the second projectb.Consultation"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Relational Database and MySQL (allowance 1/2)"
+    },
+    {
+      "label": "[section] Introduction to the course. Preparing the work environment and the basics of working with Docker",
+      "content": "2.Relational Database and MySQL (allowance 1/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Review of Database Systems and Database Designb.Running MySQL and Adminer using docker-composec.Basic operations in MySQL"
+    },
+    {
+      "label": "[section] Relational Database and MySQL",
+      "content": "a.Review of Database Systems and Database Designb.Running MySQL and Adminer using docker-composec.Basic operations in MySQL"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.MySQL configurationb.Managing users in MySQL"
+    },
+    {
+      "label": "[section] Configuring and managing users in MySQL",
+      "content": "a.MySQL configurationb.Managing users in MySQL"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Import and export data using mysqldumpb.Asynchronous replication in MySQL"
+    },
+    {
+      "label": "[section] Mysqldump and asynchronous replication in MySQL",
+      "content": "a.Import and export data using mysqldumpb.Asynchronous replication in MySQL"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Synchronous Replication in MySQLb.Creating a Galera clusterc.ProxySQL tool"
+    },
+    {
+      "label": "[section] HA cluster in MySQL",
+      "content": "a.Synchronous Replication in MySQLb.Creating a Galera clusterc.ProxySQL tool"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Work on the first projectb.Consultation"
+    },
+    {
+      "label": "[section] Summary of relational database administration issues",
+      "content": "a.Work on the first projectb.Consultation"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Basic terms, principles of NoSQL, CAP theoremb.Division by individual types, getting to know the differencesc.Working with Ansible"
+    },
+    {
+      "label": "[section] Introduction to NoSQL issues",
+      "content": "a.Basic terms, principles of NoSQL, CAP theoremb.Division by individual types, getting to know the differencesc.Working with Ansible"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.An introduction to NoSQL databases of this typeb.Working with the Redis database"
+    },
+    {
+      "label": "[section] Key-value database",
+      "content": "a.An introduction to NoSQL databases of this typeb.Working with the Redis database"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.An introduction to NoSQL databases of this typeb.Working with MongoDB databasec.Working with Elasticsearch database"
+    },
+    {
+      "label": "[section] Document and full-text databases",
+      "content": "a.An introduction to NoSQL databases of this typeb.Working with MongoDB databasec.Working with Elasticsearch database"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Introducing the Kubernetes environmentb.Specifics of running databases in K8s"
+    },
+    {
+      "label": "[section] Running databases in Kubernetes",
+      "content": "a.Introducing the Kubernetes environmentb.Specifics of running databases in K8s"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.An introduction to NoSQL databases of this typeb.Working with Apache HBasec.Working with Apache Druid"
+    },
+    {
+      "label": "[section] Column databases",
+      "content": "a.An introduction to NoSQL databases of this typeb.Working with Apache HBasec.Working with Apache Druid"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.An introduction to NoSQL databases of this typeb.Working with NebulaGraph"
+    },
+    {
+      "label": "[section] Graph databases",
+      "content": "a.An introduction to NoSQL databases of this typeb.Working with NebulaGraph"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Work on the second projectb.Consultation"
+    },
+    {
+      "label": "[section] Summary of the issue of NoSQL databases",
+      "content": "a.Work on the second projectb.Consultation"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture14 h16 hpractice28 h0 hconsultation0 h26 hpreparation for exam30 h30 hpreparation of presentation10 h10 helaboration of reports8 h8 helaboration and execution of projects50 h50 hTotal140 h140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Within the course, students develop two projects focused on relational and NoSQL databases. You can get up to 50 points for each of them (30 points for project development + 20 points for presentation and defense). The overall evaluation is given by the sum of points for both ongoing projects: A (at least 90 points), B (83 points), C (75 points), D (68 points), E (60 points)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTerm paper60 %60 %Presentation or defence40 %40 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:HARRISON, Guy. 2016. Next Generation Databases: NoSQL, NewSQL, and Big Data. New York: Apress, ISBN 978-1-484213-30-8.JONES, Don. 2014. Learn SQL Server Administration in a Month of Lunches. Shelter Island: Manning, ISBN 978-1-617292-13-2.PŘICHYSTAL, Jan; TURČÍNEK, Pavel. 2018. Administrace databázových systémů. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-581-7.Recommended:FERNANDEZ, Ignatius. 2015. Beginning Oracle Database 12c Administration. New York: Apress, 384 p. ISBN 978-1-484201-94-7.MCCREARY, Daniel; KELLY, Ann. 2013. Making Sense of NoSQL. : Manning Publications, 312 p. ISBN 978-1-61729-107-4."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "HARRISON, Guy. 2016. Next Generation Databases: NoSQL, NewSQL, and Big Data. New York: Apress, ISBN 978-1-484213-30-8.JONES, Don. 2014. Learn SQL Server Administration in a Month of Lunches. Shelter Island: Manning, ISBN 978-1-617292-13-2.PŘICHYSTAL, Jan; TURČÍNEK, Pavel. 2018. Administrace databázových systémů. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-581-7."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "FERNANDEZ, Ignatius. 2015. Beginning Oracle Database 12c Administration. New York: Apress, 384 p. ISBN 978-1-484201-94-7.MCCREARY, Daniel; KELLY, Ann. 2013. Making Sense of NoSQL. : Manning Publications, 312 p. ISBN 978-1-61729-107-4."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-AII Administration IS/ICT, full-time form, initial period WS 2023/2024Programme B-AII Administration IS/ICT, part-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:37:50",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

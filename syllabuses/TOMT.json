@@ -1,0 +1,965 @@
+{
+  "courseCode": "TOMT",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "TOMT"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Teorie obrábění materiálů"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Machining of Materials"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Studium předmětu je možné během zahraniční mobility po individuální domluvě s garantem předmětu"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Zdeněk Kopecký, CSc."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Luďka Hanincová, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Zdeněk Kopecký, CSc. (cvičící, garant, přednášející, zkoušející)Ing. Vít Novák, Ph.D. (cvičící, přednášející)Ing. Petr Rokoský (cvičící, přednášející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Stavba dřeva a (ne Státní bakalářská zkouška a ne Teorie obrábění materiálu a ne Teorie obrábění materiálů I (modul V) a ne Teorie obrábění materiálů)"
+    },
+    {
+      "label": "1.",
+      "content": "Terminologie a charakteristika dělení a obrábění dřeva (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní terminologie"
+    },
+    {
+      "label": "b.",
+      "content": "Mechanické technologie s porušením vazby dřevních vláken"
+    },
+    {
+      "label": "c.",
+      "content": "Mechanické technologie bez porušení vazby dřevních vláken"
+    },
+    {
+      "label": "2.",
+      "content": "Nástroj a obrobek v procesu dělení a obrábění materiálů na bázi dřeva (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Charakteristika obráběných materiálů"
+    },
+    {
+      "label": "b.",
+      "content": "Mechanické, fyzikální, tepelné a elektrické jevy v procesu obrábění dřeva"
+    },
+    {
+      "label": "c.",
+      "content": "Materiál a opotřebení břitu nástroje"
+    },
+    {
+      "label": "d.",
+      "content": "Morfologie třísek"
+    },
+    {
+      "label": "3.",
+      "content": "Klasifikace řezného procesu (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Souřadnicové soustavy - nástrojové a pracovní úhly"
+    },
+    {
+      "label": "b.",
+      "content": "Geometrické veličiny při řezání"
+    },
+    {
+      "label": "c.",
+      "content": "Určování modelů obrábění rostlého dřeva, transformace pracovních úhlů"
+    },
+    {
+      "label": "4.",
+      "content": "Kinematika procesů dělení a obrábění dřeva (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Kinematika řezání kotoučovými pilami"
+    },
+    {
+      "label": "b.",
+      "content": "Kinematika řezání pásovými a rámovými pilami"
+    },
+    {
+      "label": "c.",
+      "content": "Kinematika válcového frézování"
+    },
+    {
+      "label": "5.",
+      "content": "Silové a energetické účinky při interakci nástroj-obrobek (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Teoretický výpočet řezné síly a výkonu"
+    },
+    {
+      "label": "b.",
+      "content": "Principy výpočetních metod řezných sil a výkonu"
+    },
+    {
+      "label": "6.",
+      "content": "Technologicky statistická metoda výpočtu řezných odporů a sil (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Výpočet řezných odporů pro dělení dřeva kotoučovou pilou"
+    },
+    {
+      "label": "b.",
+      "content": "Výpočet řezných odporů pro obrábění dřeva válcovou frézou"
+    },
+    {
+      "label": "c.",
+      "content": "Zadání semestrálního projektu"
+    },
+    {
+      "label": "7.",
+      "content": "Analytická metoda výpočtu řezných odporů a sil (dotace 2/1)"
+    },
+    {
+      "label": "b.",
+      "content": "Výpočet řezných odporů pro dělení dřeva pásovou pilou"
+    },
+    {
+      "label": "8.",
+      "content": "Objemová metoda a Metoda tabulkové síly pro výpočty řezných sil a odporů (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Analýza řezného procesu kotoučové pily - Objemová metoda"
+    },
+    {
+      "label": "b.",
+      "content": "Analýza řezného procesu rámové pily - Metoda tabulkové síly"
+    },
+    {
+      "label": "9.",
+      "content": "Ernst-Merchant teorie a lomová mechanika při určování řezných odporů rostlého dřeva (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Rozklad sil v Ernst-Merchant diagramu při řezání dřeva kotoučovou pilou"
+    },
+    {
+      "label": "b.",
+      "content": "Metodika určení řezných odporů a sil při řezání rostlého dřeva"
+    },
+    {
+      "label": "10.",
+      "content": "Řezání rostlého dřeva kotoučovou pilou - porovnání výpočetních metod s experimentem (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Metodika výpočtu řezných sil při řezání kotoučovou pilou"
+    },
+    {
+      "label": "b.",
+      "content": "Experiment - měření řezné a podávací síly na zkušenbním stendu, analýza naměřených dat, porovnání s výpočetním modelem, diskuse výsledků"
+    },
+    {
+      "label": "11.",
+      "content": "Technologie bez porušení dřevních vláken (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Lisování dřeva"
+    },
+    {
+      "label": "b.",
+      "content": "Ohýbání dřeva"
+    },
+    {
+      "label": "12.",
+      "content": "Nekonvenční metody dělení dřeva koncentrovanou energií (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Dělení rostlého dřeva a materiálů na bázi dřeva laserem"
+    },
+    {
+      "label": "b.",
+      "content": "Dělení materiálů na bázi dřeva vodním paprskem"
+    },
+    {
+      "label": "13.",
+      "content": "Přesnost a kvalita obrobku – vliv řezných podmínek a parametrů nástroje (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Teoretické výpočty vlnitosti povrchu po frézování válcovou frézou a hloubky nerovností v řezné spáře po řezání pilovým kotoučem"
+    },
+    {
+      "label": "b.",
+      "content": "Metody pro experimentální hodnocení kvality obrobeného povrchu"
+    },
+    {
+      "label": "14.",
+      "content": "Zápočtový týden (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Zápočtový test z přednášené problematiky"
+    },
+    {
+      "label": "b.",
+      "content": "Odevzdání a hodnocení semestrálního projektu"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021, LS 2019/2020 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Teorie obrábění materiálů"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Machining of Materials"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Studium předmětu je možné během zahraniční mobility po individuální domluvě s garantem předmětu"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Zdeněk Kopecký, CSc."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Luďka Hanincová, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Zdeněk Kopecký, CSc. (cvičící, garant, přednášející, zkoušející)Ing. Vít Novák, Ph.D. (cvičící, přednášející)Ing. Petr Rokoský (cvičící, přednášející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Stavba dřeva a (ne Státní bakalářská zkouška a ne Teorie obrábění materiálu a ne Teorie obrábění materiálů I (modul V) a ne Teorie obrábění materiálů)"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je objasnit studentům základní metody výpočtů kinematických a energetických veličin v procesu obrábění, dělení a tváření materiálů na bázi dřeva, schopnost analyzovat technologický proces obrábění a dělení dřeva z hlediska přesnosti a kvality povrchu obrobku a určení mezních podmínek obrábění z hlediska možností stroje a nástroje, umět určit silové působení na břit nástroje a pracovní části dřevoobráběcích strojů."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Terminologie a charakteristika dělení a obrábění dřeva (dotace 2/1) a.Základní terminologieb.Mechanické technologie s porušením vazby dřevních vlákenc.Mechanické technologie bez porušení vazby dřevních vláken2.Nástroj a obrobek v procesu dělení a obrábění materiálů na bázi dřeva (dotace 2/1) a.Charakteristika obráběných materiálůb.Mechanické, fyzikální, tepelné a elektrické jevy v procesu obrábění dřevac.Materiál a opotřebení břitu nástrojed.Morfologie třísek3.Klasifikace řezného procesu (dotace 2/1) a.Souřadnicové soustavy - nástrojové a pracovní úhlyb.Geometrické veličiny při řezáníc.Určování modelů obrábění rostlého dřeva, transformace pracovních úhlů4.Kinematika procesů dělení a obrábění dřeva (dotace 2/1) a.Kinematika řezání kotoučovými pilamib.Kinematika řezání pásovými a rámovými pilamic.Kinematika válcového frézování5.Silové a energetické účinky při interakci nástroj-obrobek (dotace 2/1) a.Teoretický výpočet řezné síly a výkonub.Principy výpočetních metod řezných sil a výkonu6.Technologicky statistická metoda výpočtu řezných odporů a sil (dotace 2/1) a.Výpočet řezných odporů pro dělení dřeva kotoučovou piloub.Výpočet řezných odporů pro obrábění dřeva válcovou frézouc.Zadání semestrálního projektu7.Analytická metoda výpočtu řezných odporů a sil (dotace 2/1) a.Výpočet řezných odporů pro dělení dřeva rámovou piloub.Výpočet řezných odporů pro dělení dřeva pásovou pilou8.Objemová metoda a Metoda tabulkové síly pro výpočty řezných sil a odporů (dotace 2/1) a.Analýza řezného procesu kotoučové pily - Objemová metodab.Analýza řezného procesu rámové pily - Metoda tabulkové síly9.Ernst-Merchant teorie a lomová mechanika při určování řezných odporů rostlého dřeva (dotace 2/1) a.Rozklad sil v Ernst-Merchant diagramu při řezání dřeva kotoučovou piloub.Metodika určení řezných odporů a sil při řezání rostlého dřeva10.Řezání rostlého dřeva kotoučovou pilou - porovnání výpočetních metod s experimentem (dotace 2/1) a.Metodika výpočtu řezných sil při řezání kotoučovou piloub.Experiment - měření řezné a podávací síly na zkušenbním stendu, analýza naměřených dat, porovnání s výpočetním modelem, diskuse výsledků11.Technologie bez porušení dřevních vláken (dotace 2/1) a.Lisování dřevab.Ohýbání dřeva12.Nekonvenční metody dělení dřeva koncentrovanou energií (dotace 2/1) a.Dělení rostlého dřeva a materiálů na bázi dřeva laseremb.Dělení materiálů na bázi dřeva vodním paprskem13.Přesnost a kvalita obrobku – vliv řezných podmínek a parametrů nástroje (dotace 2/1) a.Teoretické výpočty vlnitosti povrchu po frézování válcovou frézou a hloubky nerovností v řezné spáře po řezání pilovým kotoučemb.Metody pro experimentální hodnocení kvality obrobeného povrchu14.Zápočtový týden (dotace 2/1) a.Zápočtový test z přednášené problematikyb.Odevzdání a hodnocení semestrálního projektu"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Základní terminologieb.Mechanické technologie s porušením vazby dřevních vlákenc.Mechanické technologie bez porušení vazby dřevních vláken"
+    },
+    {
+      "label": "[section] Terminologie a charakteristika dělení a obrábění dřeva",
+      "content": "a.Základní terminologieb.Mechanické technologie s porušením vazby dřevních vlákenc.Mechanické technologie bez porušení vazby dřevních vláken"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Charakteristika obráběných materiálůb.Mechanické, fyzikální, tepelné a elektrické jevy v procesu obrábění dřevac.Materiál a opotřebení břitu nástrojed.Morfologie třísek"
+    },
+    {
+      "label": "[section] Nástroj a obrobek v procesu dělení a obrábění materiálů na bázi dřeva",
+      "content": "a.Charakteristika obráběných materiálůb.Mechanické, fyzikální, tepelné a elektrické jevy v procesu obrábění dřevac.Materiál a opotřebení břitu nástrojed.Morfologie třísek"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Souřadnicové soustavy - nástrojové a pracovní úhlyb.Geometrické veličiny při řezáníc.Určování modelů obrábění rostlého dřeva, transformace pracovních úhlů"
+    },
+    {
+      "label": "[section] Klasifikace řezného procesu",
+      "content": "a.Souřadnicové soustavy - nástrojové a pracovní úhlyb.Geometrické veličiny při řezáníc.Určování modelů obrábění rostlého dřeva, transformace pracovních úhlů"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Kinematika řezání kotoučovými pilamib.Kinematika řezání pásovými a rámovými pilamic.Kinematika válcového frézování"
+    },
+    {
+      "label": "[section] Kinematika procesů dělení a obrábění dřeva",
+      "content": "a.Kinematika řezání kotoučovými pilamib.Kinematika řezání pásovými a rámovými pilamic.Kinematika válcového frézování"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Teoretický výpočet řezné síly a výkonub.Principy výpočetních metod řezných sil a výkonu"
+    },
+    {
+      "label": "[section] Silové a energetické účinky při interakci nástroj-obrobek",
+      "content": "a.Teoretický výpočet řezné síly a výkonub.Principy výpočetních metod řezných sil a výkonu"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Výpočet řezných odporů pro dělení dřeva kotoučovou piloub.Výpočet řezných odporů pro obrábění dřeva válcovou frézouc.Zadání semestrálního projektu"
+    },
+    {
+      "label": "[section] Technologicky statistická metoda výpočtu řezných odporů a sil",
+      "content": "a.Výpočet řezných odporů pro dělení dřeva kotoučovou piloub.Výpočet řezných odporů pro obrábění dřeva válcovou frézouc.Zadání semestrálního projektu"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Výpočet řezných odporů pro dělení dřeva rámovou piloub.Výpočet řezných odporů pro dělení dřeva pásovou pilou"
+    },
+    {
+      "label": "[section] Analytická metoda výpočtu řezných odporů a sil",
+      "content": "a.Výpočet řezných odporů pro dělení dřeva rámovou piloub.Výpočet řezných odporů pro dělení dřeva pásovou pilou"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Analýza řezného procesu kotoučové pily - Objemová metodab.Analýza řezného procesu rámové pily - Metoda tabulkové síly"
+    },
+    {
+      "label": "[section] Objemová metoda a Metoda tabulkové síly pro výpočty řezných sil a odporů",
+      "content": "a.Analýza řezného procesu kotoučové pily - Objemová metodab.Analýza řezného procesu rámové pily - Metoda tabulkové síly"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Rozklad sil v Ernst-Merchant diagramu při řezání dřeva kotoučovou piloub.Metodika určení řezných odporů a sil při řezání rostlého dřeva"
+    },
+    {
+      "label": "[section] Ernst-Merchant teorie a lomová mechanika při určování řezných odporů rostlého dřeva",
+      "content": "a.Rozklad sil v Ernst-Merchant diagramu při řezání dřeva kotoučovou piloub.Metodika určení řezných odporů a sil při řezání rostlého dřeva"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Metodika výpočtu řezných sil při řezání kotoučovou piloub.Experiment - měření řezné a podávací síly na zkušenbním stendu, analýza naměřených dat, porovnání s výpočetním modelem, diskuse výsledků"
+    },
+    {
+      "label": "[section] Řezání rostlého dřeva kotoučovou pilou - porovnání výpočetních metod s experimentem",
+      "content": "a.Metodika výpočtu řezných sil při řezání kotoučovou piloub.Experiment - měření řezné a podávací síly na zkušenbním stendu, analýza naměřených dat, porovnání s výpočetním modelem, diskuse výsledků"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Lisování dřevab.Ohýbání dřeva"
+    },
+    {
+      "label": "[section] Technologie bez porušení dřevních vláken",
+      "content": "a.Lisování dřevab.Ohýbání dřeva"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Dělení rostlého dřeva a materiálů na bázi dřeva laseremb.Dělení materiálů na bázi dřeva vodním paprskem"
+    },
+    {
+      "label": "[section] Nekonvenční metody dělení dřeva koncentrovanou energií",
+      "content": "a.Dělení rostlého dřeva a materiálů na bázi dřeva laseremb.Dělení materiálů na bázi dřeva vodním paprskem"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Teoretické výpočty vlnitosti povrchu po frézování válcovou frézou a hloubky nerovností v řezné spáře po řezání pilovým kotoučemb.Metody pro experimentální hodnocení kvality obrobeného povrchu"
+    },
+    {
+      "label": "[section] Přesnost a kvalita obrobku – vliv řezných podmínek a parametrů nástroje",
+      "content": "a.Teoretické výpočty vlnitosti povrchu po frézování válcovou frézou a hloubky nerovností v řezné spáře po řezání pilovým kotoučemb.Metody pro experimentální hodnocení kvality obrobeného povrchu"
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Zápočtový test z přednášené problematikyb.Odevzdání a hodnocení semestrálního projektu"
+    },
+    {
+      "label": "[section] Zápočtový týden",
+      "content": "a.Zápočtový test z přednášené problematikyb.Odevzdání a hodnocení semestrálního projektu"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h18 hcvičení14 h0 hkonzultace5 h20 hpříprava na zkoušku25 h30 hpříprava na průběžný test10 h14 hzpracování protokolů5 h5 hzpracování seminární práce25 h25 hCelkem112 h112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Účast na přednáškách a cvičeních. Zpracování elaborátu z laboratorního cvičení \"Měření a výpočet řezných sil na kotoučové pile\" - 10%. Zpracování semestrálního projektu \"Výpočty kinematických a energetických veličin pro zadané technologie obrábění\" - 40%. Absolvování zápočtového testu - 20%. Absolvování písemné zkoušky - 30%."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumCelkem0 %0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:VARKOČEK, Jan; HOLOPÍREK, Jindřich; ROUSEK, Miroslav. 2004. Dělení, obrábění a tváření materiálů. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 117 s. ISBN 80-7157-759-6.HOLOPÍREK, Jindřich. 2001. Teorie obrábění dřeva: (návody do cvičení). 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 52 s. ISBN 80-7157-503-8.Doporučená:SIKLIENKA, Mikuláš; KMINIAK, Richard. 2013. Delenie a obrabanie dreva. Zvolen: TU Zvolen, 209 s. ISBN 978-80-228-2618-1.LISIČAN, Jozef. 1966. Teória a technika spracovania dreva. Zvolen: Matcentrum, 1996. 625 s. Zvolen: Matcentrum, 625 s. Obrábění dřeva a nových hmot ze dřeva Inž. Stanislav Prokeš.."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "VARKOČEK, Jan; HOLOPÍREK, Jindřich; ROUSEK, Miroslav. 2004. Dělení, obrábění a tváření materiálů. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 117 s. ISBN 80-7157-759-6.HOLOPÍREK, Jindřich. 2001. Teorie obrábění dřeva: (návody do cvičení). 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 52 s. ISBN 80-7157-503-8."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "SIKLIENKA, Mikuláš; KMINIAK, Richard. 2013. Delenie a obrabanie dreva. Zvolen: TU Zvolen, 209 s. ISBN 978-80-228-2618-1.LISIČAN, Jozef. 1966. Teória a technika spracovania dreva. Zvolen: Matcentrum, 1996. 625 s. Zvolen: Matcentrum, 625 s. Obrábění dřeva a nových hmot ze dřeva Inž. Stanislav Prokeš.."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-TMZD Technologie a management zpracování dřeva, kombinovaná forma, počáteční období ZS 2024/2025Program B-TMZD Technologie a management zpracování dřeva, prezenční forma, počáteční období ZS 2024/2025Specializace B-TVN-VYR Výroba nábytku, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "TOMT"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Teorie obrábění materiálů"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Machining of Materials"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The study of the subject is possible during foreign mobility after individualagreement with the subject guarantor"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Zdeněk Kopecký, CSc."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Luďka Hanincová, Ph.D. (examiner, instructor, lecturer)doc. Ing. Zdeněk Kopecký, CSc. (examiner, instructor, lecturer, supervisor)Ing. Vít Novák, Ph.D. (instructor, lecturer)Ing. Petr Rokoský (instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Wood Anatomy and (not State Bachelor Examination and not Machining of Materials and not Machining of Materials I. and not Machining of Materials)"
+    },
+    {
+      "label": "1.",
+      "content": "Terminology and characteristics of wood cutting and machining (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic terminology"
+    },
+    {
+      "label": "b.",
+      "content": "Mechanical technologies with breaking of wood fiber"
+    },
+    {
+      "label": "c.",
+      "content": "Mechanical technologies without breaking the wood fiber"
+    },
+    {
+      "label": "2.",
+      "content": "Tool and workpiece in the process of cutting and machining wood-based materials (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Characteristics of machined materials"
+    },
+    {
+      "label": "b.",
+      "content": "Mechanical, physical, thermal and electrical phenomena in the woodworking process"
+    },
+    {
+      "label": "c.",
+      "content": "Material and tool edge wear"
+    },
+    {
+      "label": "d.",
+      "content": "Chip morphology"
+    },
+    {
+      "label": "3.",
+      "content": "Classification of cutting process (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Coordinate systems - tool and working angles"
+    },
+    {
+      "label": "b.",
+      "content": "Geometric quantities during cutting"
+    },
+    {
+      "label": "c.",
+      "content": "Determination of solid wood machining models, transformation of working angles"
+    },
+    {
+      "label": "4.",
+      "content": "Kinematics of wood cutting and machining processes (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Kinematics of circular saw blade sawing"
+    },
+    {
+      "label": "b.",
+      "content": "Kinematics of band and frame saw sawing"
+    },
+    {
+      "label": "c.",
+      "content": "Kinematics of cylindrical milling"
+    },
+    {
+      "label": "5.",
+      "content": "Force and energy effects in tool-workpiece interaction (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Theoretical calculation of cutting force and power"
+    },
+    {
+      "label": "b.",
+      "content": "Principles of calculation methods of cutting forces and power"
+    },
+    {
+      "label": "6.",
+      "content": "Technologically statistical method for calculating cutting forces and resistances (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Calculation of cutting resistances for wood cutting with circular saw blade"
+    },
+    {
+      "label": "b.",
+      "content": "Calculation of cutting resistances for woodworking by cylindrical cutter"
+    },
+    {
+      "label": "c.",
+      "content": "Assignment of semester project"
+    },
+    {
+      "label": "7.",
+      "content": "Analytical method for calculating cutting forces and resistances (allowance 2/1)"
+    },
+    {
+      "label": "8.",
+      "content": "Volumetric method and Table force method for calculating cutting forces and resistances (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Circular saw cutting process analysis - Volumetric method"
+    },
+    {
+      "label": "b.",
+      "content": "Frame saw cutting process analysis - Table force method"
+    },
+    {
+      "label": "9.",
+      "content": "Ernst-Merchant theory and fracture mechanics in determining the cutting resistance of solid wood (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Decomposition of forces in the Ernst-Merchant diagram when sawing wood by a circular saw"
+    },
+    {
+      "label": "b.",
+      "content": "Methodology determination of cutting resistances and forces when cutting solid wood"
+    },
+    {
+      "label": "10.",
+      "content": "Circular sawing of solid wood - comparison of calculation methods with experiment (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Calculation methodology of cutting forces when circular sawing"
+    },
+    {
+      "label": "b.",
+      "content": "Experiment - measurement of cutting and feed force on experimental stand, analysis of measured data, comparison with calculation model, discussion"
+    },
+    {
+      "label": "11.",
+      "content": "Technology without breaking wood fibers (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Wood pressing"
+    },
+    {
+      "label": "b.",
+      "content": "Wood bending"
+    },
+    {
+      "label": "12.",
+      "content": "Unconventional methods of cutting wood with concentrated energy (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Laser cutting of solid wood and wood-based materials"
+    },
+    {
+      "label": "b.",
+      "content": "Water jet cutting of wood-based materials"
+    },
+    {
+      "label": "13.",
+      "content": "Accuracy and quality of workpiece - influence of cutting conditions and tool parameters (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Theoretical calculations of surface waviness after milling with cylindrical milling cutter and depth of unevenness in the cutting gap after circular saw blade cutting"
+    },
+    {
+      "label": "b.",
+      "content": "Methods for experimental evaluation of machined surface quality"
+    },
+    {
+      "label": "14.",
+      "content": "Credit week (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Credit test"
+    },
+    {
+      "label": "b.",
+      "content": "Submission and evaluation of semestral project"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021, SS 2019/2020 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Teorie obrábění materiálů"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Machining of Materials"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The study of the subject is possible during foreign mobility after individualagreement with the subject guarantor"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Zdeněk Kopecký, CSc."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Luďka Hanincová, Ph.D. (examiner, instructor, lecturer)doc. Ing. Zdeněk Kopecký, CSc. (examiner, instructor, lecturer, supervisor)Ing. Vít Novák, Ph.D. (instructor, lecturer)Ing. Petr Rokoský (instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Wood Anatomy and (not State Bachelor Examination and not Machining of Materials and not Machining of Materials I. and not Machining of Materials)"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to explain the basic methods of calculating kinematic and energetic quantities in the process of machining, cutting and forming wood-based materials, the ability to analyze the technological process of machining and cutting wood in terms of accuracy and quality, be able to determine the force acting on the cutting edge of tools and working parts of woodworking machines."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Terminology and characteristics of wood cutting and machining (allowance 2/1) a.Basic terminologyb.Mechanical technologies with breaking of wood fiberc.Mechanical technologies without breaking the wood fiber2.Tool and workpiece in the process of cutting and machining wood-based materials (allowance 2/1) a.Characteristics of machined materialsb.Mechanical, physical, thermal and electrical phenomena in the woodworking processc.Material and tool edge weard.Chip morphology3.Classification of cutting process (allowance 2/1) a.Coordinate systems - tool and working anglesb.Geometric quantities during cuttingc.Determination of solid wood machining models, transformation of working angles4.Kinematics of wood cutting and machining processes (allowance 2/1) a.Kinematics of circular saw blade sawingb.Kinematics of band and frame saw sawingc.Kinematics of cylindrical milling5.Force and energy effects in tool-workpiece interaction (allowance 2/1) a.Theoretical calculation of cutting force and powerb.Principles of calculation methods of cutting forces and power6.Technologically statistical method for calculating cutting forces and resistances (allowance 2/1) a.Calculation of cutting resistances for wood cutting with circular saw bladeb.Calculation of cutting resistances for woodworking by cylindrical cutterc.Assignment of semester project7.Analytical method for calculating cutting forces and resistances (allowance 2/1) a.Calculation of cutting resistances for wood cutting with a frame sawb.Calculation of cutting resistances for wood cutting with band saw8.Volumetric method and Table force method for calculating cutting forces and resistances (allowance 2/1) a.Circular saw cutting process analysis - Volumetric methodb.Frame saw cutting process analysis - Table force method9.Ernst-Merchant theory and fracture mechanics in determining the cutting resistance of solid wood (allowance 2/1) a.Decomposition of forces in the Ernst-Merchant diagram when sawing wood by a circular sawb.Methodology determination of cutting resistances and forces when cutting solid wood10.Circular sawing of solid wood - comparison of calculation methods with experiment (allowance 2/1) a.Calculation methodology of cutting forces when circular sawingb.Experiment - measurement of cutting and feed force on experimental stand, analysis of measured data, comparison with calculation model, discussion11.Technology without breaking wood fibers (allowance 2/1) a.Wood pressingb.Wood bending12.Unconventional methods of cutting wood with concentrated energy (allowance 2/1) a.Laser cutting of solid wood and wood-based materialsb.Water jet cutting of wood-based materials13.Accuracy and quality of workpiece - influence of cutting conditions and tool parameters (allowance 2/1) a.Theoretical calculations of surface waviness after milling with cylindrical milling cutter and depth of unevenness in the cutting gap after circular saw blade cuttingb.Methods for experimental evaluation of machined surface quality14.Credit week (allowance 2/1) a.Credit testb.Submission and evaluation of semestral project"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Basic terminologyb.Mechanical technologies with breaking of wood fiberc.Mechanical technologies without breaking the wood fiber"
+    },
+    {
+      "label": "[section] Terminology and characteristics of wood cutting and machining",
+      "content": "a.Basic terminologyb.Mechanical technologies with breaking of wood fiberc.Mechanical technologies without breaking the wood fiber"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Characteristics of machined materialsb.Mechanical, physical, thermal and electrical phenomena in the woodworking processc.Material and tool edge weard.Chip morphology"
+    },
+    {
+      "label": "[section] Tool and workpiece in the process of cutting and machining wood-based materials",
+      "content": "a.Characteristics of machined materialsb.Mechanical, physical, thermal and electrical phenomena in the woodworking processc.Material and tool edge weard.Chip morphology"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Coordinate systems - tool and working anglesb.Geometric quantities during cuttingc.Determination of solid wood machining models, transformation of working angles"
+    },
+    {
+      "label": "[section] Classification of cutting process",
+      "content": "a.Coordinate systems - tool and working anglesb.Geometric quantities during cuttingc.Determination of solid wood machining models, transformation of working angles"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Kinematics of circular saw blade sawingb.Kinematics of band and frame saw sawingc.Kinematics of cylindrical milling"
+    },
+    {
+      "label": "[section] Kinematics of wood cutting and machining processes",
+      "content": "a.Kinematics of circular saw blade sawingb.Kinematics of band and frame saw sawingc.Kinematics of cylindrical milling"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Theoretical calculation of cutting force and powerb.Principles of calculation methods of cutting forces and power"
+    },
+    {
+      "label": "[section] Force and energy effects in tool-workpiece interaction",
+      "content": "a.Theoretical calculation of cutting force and powerb.Principles of calculation methods of cutting forces and power"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Calculation of cutting resistances for wood cutting with circular saw bladeb.Calculation of cutting resistances for woodworking by cylindrical cutterc.Assignment of semester project"
+    },
+    {
+      "label": "[section] Technologically statistical method for calculating cutting forces and resistances",
+      "content": "a.Calculation of cutting resistances for wood cutting with circular saw bladeb.Calculation of cutting resistances for woodworking by cylindrical cutterc.Assignment of semester project"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Calculation of cutting resistances for wood cutting with a frame sawb.Calculation of cutting resistances for wood cutting with band saw"
+    },
+    {
+      "label": "[section] Analytical method for calculating cutting forces and resistances",
+      "content": "a.Calculation of cutting resistances for wood cutting with a frame sawb.Calculation of cutting resistances for wood cutting with band saw"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Circular saw cutting process analysis - Volumetric methodb.Frame saw cutting process analysis - Table force method"
+    },
+    {
+      "label": "[section] Volumetric method and Table force method for calculating cutting forces and resistances",
+      "content": "a.Circular saw cutting process analysis - Volumetric methodb.Frame saw cutting process analysis - Table force method"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Decomposition of forces in the Ernst-Merchant diagram when sawing wood by a circular sawb.Methodology determination of cutting resistances and forces when cutting solid wood"
+    },
+    {
+      "label": "[section] Ernst-Merchant theory and fracture mechanics in determining the cutting resistance of solid wood",
+      "content": "a.Decomposition of forces in the Ernst-Merchant diagram when sawing wood by a circular sawb.Methodology determination of cutting resistances and forces when cutting solid wood"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Calculation methodology of cutting forces when circular sawingb.Experiment - measurement of cutting and feed force on experimental stand, analysis of measured data, comparison with calculation model, discussion"
+    },
+    {
+      "label": "[section] Circular sawing of solid wood - comparison of calculation methods with experiment",
+      "content": "a.Calculation methodology of cutting forces when circular sawingb.Experiment - measurement of cutting and feed force on experimental stand, analysis of measured data, comparison with calculation model, discussion"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Wood pressingb.Wood bending"
+    },
+    {
+      "label": "[section] Technology without breaking wood fibers",
+      "content": "a.Wood pressingb.Wood bending"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Laser cutting of solid wood and wood-based materialsb.Water jet cutting of wood-based materials"
+    },
+    {
+      "label": "[section] Unconventional methods of cutting wood with concentrated energy",
+      "content": "a.Laser cutting of solid wood and wood-based materialsb.Water jet cutting of wood-based materials"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Theoretical calculations of surface waviness after milling with cylindrical milling cutter and depth of unevenness in the cutting gap after circular saw blade cuttingb.Methods for experimental evaluation of machined surface quality"
+    },
+    {
+      "label": "[section] Accuracy and quality of workpiece - influence of cutting conditions and tool parameters",
+      "content": "a.Theoretical calculations of surface waviness after milling with cylindrical milling cutter and depth of unevenness in the cutting gap after circular saw blade cuttingb.Methods for experimental evaluation of machined surface quality"
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Credit testb.Submission and evaluation of semestral project"
+    },
+    {
+      "label": "[section] Credit week",
+      "content": "a.Credit testb.Submission and evaluation of semestral project"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h18 hpractice14 h0 hconsultation5 h20 hpreparation for exam25 h30 hpreparation for regular testing10 h14 helaboration of reports5 h5 hwriting of seminar paper25 h25 hTotal112 h112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Attendance at lectures and seminars. Elaboration of laboratory work \"Measurement and calculation of cutting forces on circular saw\" - 10%. Elaboration of semestral project \"Calculation of kinematic and energetic quantities for specified machining technologies\" - 40%. Passing the credit test - 20%. Written exam - 30%."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTotal0 %0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:VARKOČEK, Jan; HOLOPÍREK, Jindřich; ROUSEK, Miroslav. 2004. Dělení, obrábění a tváření materiálů. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 117 p. ISBN 80-7157-759-6.HOLOPÍREK, Jindřich. 2001. Teorie obrábění dřeva: (návody do cvičení). 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 52 p. ISBN 80-7157-503-8.Recommended:SIKLIENKA, Mikuláš; KMINIAK, Richard. 2013. Delenie a obrabanie dreva. Zvolen: TU Zvolen, 209 p. ISBN 978-80-228-2618-1.LISIČAN, Jozef. 1966. Teória a technika spracovania dreva. Zvolen: Matcentrum, 1996. 625 s. Zvolen: Matcentrum, 625 p. Obrábění dřeva a nových hmot ze dřeva Inž. Stanislav Prokeš.."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "VARKOČEK, Jan; HOLOPÍREK, Jindřich; ROUSEK, Miroslav. 2004. Dělení, obrábění a tváření materiálů. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 117 p. ISBN 80-7157-759-6.HOLOPÍREK, Jindřich. 2001. Teorie obrábění dřeva: (návody do cvičení). 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 52 p. ISBN 80-7157-503-8."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "SIKLIENKA, Mikuláš; KMINIAK, Richard. 2013. Delenie a obrabanie dreva. Zvolen: TU Zvolen, 209 p. ISBN 978-80-228-2618-1.LISIČAN, Jozef. 1966. Teória a technika spracovania dreva. Zvolen: Matcentrum, 1996. 625 s. Zvolen: Matcentrum, 625 p. Obrábění dřeva a nových hmot ze dřeva Inž. Stanislav Prokeš.."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-TMZD Technology and Management in Wood Processing, part-time form, initial period WS 2024/2025Programme B-TMZD Technology and Management in Wood Processing, full-time form, initial period WS 2024/2025Track B-TVN-FPD Furniture Production, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:25:06",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

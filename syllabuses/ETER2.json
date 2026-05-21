@@ -1,0 +1,601 @@
+{
+  "courseCode": "ETER2",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ETER2"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Elektrotechnika II"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Electrical Engineering 1"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Využití on-line individuálních konzultací a průběžné testování znalostí prostřednictvím testů v UIS. Zpracování a obhajoba semestrálního projektu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Vlastimil Slaný, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav zemědělské, potravinářské a environmentální techniky (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Tomáš Hejtmánek (cvičící, přednášející)Ing. Petr Koudelka, Ph.D. (přednášející)Ing. Vlastimil Slaný, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do předmětu ELE 2 (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Hodnotící kritéria v předmětu"
+    },
+    {
+      "label": "b.",
+      "content": "Seznámení s laboratořemi a bezpečnost"
+    },
+    {
+      "label": "c.",
+      "content": "Základy pájení"
+    },
+    {
+      "label": "2.",
+      "content": "Praktická elektrotechnika, technologie pájení a základní pojmy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Typy a pouzdra součástek"
+    },
+    {
+      "label": "b.",
+      "content": "Základy osazování desek plošných spojů"
+    },
+    {
+      "label": "c.",
+      "content": "Čištění desek plošných spojů, koroze a oxidace DPS"
+    },
+    {
+      "label": "3.",
+      "content": "Praktická elektrotechnika 2, základní pojmy pro elektrické obvody (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Pájení a odpájení součástek, zařízení pro ruční pájení"
+    },
+    {
+      "label": "b.",
+      "content": "Reball, reflow, 3D rentgen"
+    },
+    {
+      "label": "c.",
+      "content": "Bezpečnost materiálů, ROHS, chemie pro pájení"
+    },
+    {
+      "label": "4.",
+      "content": "Zásady navrhování elektrických obvodů a DPS (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Simulační nástroje elektrotechnických obvodů (MicroCAP)"
+    },
+    {
+      "label": "b.",
+      "content": "Návrh DPS pomocí k tomu určených SW nástrojů (např. Eagle)"
+    },
+    {
+      "label": "5.",
+      "content": "Schámata a značky silnoproudých obvodů (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Bloková schémata"
+    },
+    {
+      "label": "b.",
+      "content": "Schéma zapojení"
+    },
+    {
+      "label": "c.",
+      "content": "Značení jednotlivých silnoproudých prvků ve schématech"
+    },
+    {
+      "label": "6.",
+      "content": "Jistící a přepínací prvky prvky silnoproudých obvodů (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Jističe, pojistky, stykače"
+    },
+    {
+      "label": "b.",
+      "content": "Proudový chránič"
+    },
+    {
+      "label": "c.",
+      "content": "Přepínací prvky"
+    },
+    {
+      "label": "7.",
+      "content": "Druhy zásuvek a jejich zapojení (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Bezpečnostní normy"
+    },
+    {
+      "label": "b.",
+      "content": "Zapojení"
+    },
+    {
+      "label": "c.",
+      "content": "Barvy a průřezy vodičů"
+    },
+    {
+      "label": "8.",
+      "content": "Baterie a akumulátory (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Parametry a technologické typy"
+    },
+    {
+      "label": "b.",
+      "content": "Praktické využití a údržba"
+    },
+    {
+      "label": "c.",
+      "content": "Zacházení v elektrotechnice, recyklace"
+    },
+    {
+      "label": "9.",
+      "content": "Řízení simulačních experimentů (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "vyhodnocování výsledků simulace"
+    },
+    {
+      "label": "b.",
+      "content": "verifikace a validace simulačních modelů"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "10 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "40 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "50 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Elektrotechnika II"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Electrical Engineering 1"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Využití on-line individuálních konzultací a průběžné testování znalostí prostřednictvím testů v UIS. Zpracování a obhajoba semestrálního projektu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Vlastimil Slaný, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav zemědělské, potravinářské a environmentální techniky (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Tomáš Hejtmánek (cvičící, přednášející)Ing. Petr Koudelka, Ph.D. (přednášející)Ing. Vlastimil Slaný, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí15.00-16.50Q01.39V. Slaný, T. HejtmánekCvičeníKaždý týden13Pondělí17.00-18.50Q01.39V. Slaný, T. HejtmánekCvičeníKaždý týden13Středa15.00-16.50Q17P. Koudelka, V. SlanýPřednáškaKaždý týden42"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Rozvoj teoretických a zvláště praktických znalostí, dovedností a návyků z oblasti elektrotechniky a elektroniky a mikroprocesorové techniky"
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do předmětu ELE 2 (dotace 2/2) a.Hodnotící kritéria v předmětub.Seznámení s laboratořemi a bezpečnostc.Základy pájení2.Praktická elektrotechnika, technologie pájení a základní pojmy (dotace 2/2) a.Typy a pouzdra součástekb.Základy osazování desek plošných spojůc.Čištění desek plošných spojů, koroze a oxidace DPS3.Praktická elektrotechnika 2, základní pojmy pro elektrické obvody (dotace 2/2) a.Pájení a odpájení součástek, zařízení pro ruční pájeníb.Reball, reflow, 3D rentgenc.Bezpečnost materiálů, ROHS, chemie pro pájení4.Zásady navrhování elektrických obvodů a DPS (dotace 4/4) a.Simulační nástroje elektrotechnických obvodů (MicroCAP)b.Návrh DPS pomocí k tomu určených SW nástrojů (např. Eagle)5.Schámata a značky silnoproudých obvodů (dotace 4/4) a.Bloková schématab.Schéma zapojeníc.Značení jednotlivých silnoproudých prvků ve schématech6.Jistící a přepínací prvky prvky silnoproudých obvodů (dotace 4/4) a.Jističe, pojistky, stykačeb.Proudový chráničc.Přepínací prvky7.Druhy zásuvek a jejich zapojení (dotace 2/2) a.Bezpečnostní normyb.Zapojeníc.Barvy a průřezy vodičů8.Baterie a akumulátory (dotace 4/4) a.Parametry a technologické typyb.Praktické využití a údržbac.Zacházení v elektrotechnice, recyklace9.Řízení simulačních experimentů (dotace 4/4) a.vyhodnocování výsledků simulaceb.verifikace a validace simulačních modelů"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Hodnotící kritéria v předmětub.Seznámení s laboratořemi a bezpečnostc.Základy pájení"
+    },
+    {
+      "label": "[section] Úvod do předmětu ELE 2",
+      "content": "a.Hodnotící kritéria v předmětub.Seznámení s laboratořemi a bezpečnostc.Základy pájení"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Typy a pouzdra součástekb.Základy osazování desek plošných spojůc.Čištění desek plošných spojů, koroze a oxidace DPS"
+    },
+    {
+      "label": "[section] Praktická elektrotechnika, technologie pájení a základní pojmy",
+      "content": "a.Typy a pouzdra součástekb.Základy osazování desek plošných spojůc.Čištění desek plošných spojů, koroze a oxidace DPS"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Pájení a odpájení součástek, zařízení pro ruční pájeníb.Reball, reflow, 3D rentgenc.Bezpečnost materiálů, ROHS, chemie pro pájení"
+    },
+    {
+      "label": "[section] Praktická elektrotechnika 2, základní pojmy pro elektrické obvody",
+      "content": "a.Pájení a odpájení součástek, zařízení pro ruční pájeníb.Reball, reflow, 3D rentgenc.Bezpečnost materiálů, ROHS, chemie pro pájení"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Simulační nástroje elektrotechnických obvodů (MicroCAP)b.Návrh DPS pomocí k tomu určených SW nástrojů (např. Eagle)"
+    },
+    {
+      "label": "[section] Zásady navrhování elektrických obvodů a DPS",
+      "content": "a.Simulační nástroje elektrotechnických obvodů (MicroCAP)b.Návrh DPS pomocí k tomu určených SW nástrojů (např. Eagle)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Bloková schématab.Schéma zapojeníc.Značení jednotlivých silnoproudých prvků ve schématech"
+    },
+    {
+      "label": "[section] Schámata a značky silnoproudých obvodů",
+      "content": "a.Bloková schématab.Schéma zapojeníc.Značení jednotlivých silnoproudých prvků ve schématech"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Jističe, pojistky, stykačeb.Proudový chráničc.Přepínací prvky"
+    },
+    {
+      "label": "[section] Jistící a přepínací prvky prvky silnoproudých obvodů",
+      "content": "a.Jističe, pojistky, stykačeb.Proudový chráničc.Přepínací prvky"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Bezpečnostní normyb.Zapojeníc.Barvy a průřezy vodičů"
+    },
+    {
+      "label": "[section] Druhy zásuvek a jejich zapojení",
+      "content": "a.Bezpečnostní normyb.Zapojeníc.Barvy a průřezy vodičů"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Parametry a technologické typyb.Praktické využití a údržbac.Zacházení v elektrotechnice, recyklace"
+    },
+    {
+      "label": "[section] Baterie a akumulátory",
+      "content": "a.Parametry a technologické typyb.Praktické využití a údržbac.Zacházení v elektrotechnice, recyklace"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.vyhodnocování výsledků simulaceb.verifikace a validace simulačních modelů"
+    },
+    {
+      "label": "[section] Řízení simulačních experimentů",
+      "content": "a.vyhodnocování výsledků simulaceb.verifikace a validace simulačních modelů"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku20 hpříprava na průběžné hodnocení10 hpříprava na průběžný test10 hzpracování protokolů20 hCelkem116 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Za celý běh předmětu je možno získat 100 bodů (50 bodů cvičení a 50 bodů zkouška). Pro udělení zápočtu je nutná aktivní účast na cvičeních a splněné požadavky cvičících (vypracované úkoly z cvičení). Dalším nutným kritériem pro udělení zápočtu je splnění závěrečného testu alespoň s úspěšností 60 %. Úspěšně splněné a bodované úkoly ze cvičení se podílejí na celkové známce z předmětu z 50 % (max 50 bodů). Předmět je ukončen zkouškou, která má dvě části. První písemná část je formou testu (30 bodů). Poté co student úspěšně složí test (minimálně 60 % správných odpovědí), pokračuje ústní zkouškou, která je nepovinná. Následuje rozprava se zkoušejícím o konkrétním tématickém okruhu, který byl v průběhu semestru probírán (20 bodů). Po úspěšném složení zkoušky je mu zanesena výsledná známka dle stupnice (E60--D68--C75--B83--A90) zapsána do indexu / UISu."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích10 %Absolvování závěrečného testu40 %Absolvování závěrečné ústní zkoušky50 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Doporučená:Bajer, A.,Škyřík,J., Automatizace, Návody do cvičení, Brno: Skriptum VŠZ, 1983Hradil, ,F. ,Schieblová, J., Elektrotechnika I, Návody do cvičení, Brno: Skriptum VŠZ, 1980Schieblová, J., Škyřík, J., Elektrotechnika a mikroelektronika, Brno: Skriptum VŠZ, 1988Voženílek, L., Kurz elektrotechniky, SNTL Praha 1988"
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "Bajer, A.,Škyřík,J., Automatizace, Návody do cvičení, Brno: Skriptum VŠZ, 1983Hradil, ,F. ,Schieblová, J., Elektrotechnika I, Návody do cvičení, Brno: Skriptum VŠZ, 1980Schieblová, J., Škyřík, J., Elektrotechnika a mikroelektronika, Brno: Skriptum VŠZ, 1988Voženílek, L., Kurz elektrotechniky, SNTL Praha 1988"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Specializace SBPT Provoz techniky, prezenční forma, počáteční období ZS 2022/2023"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ETER2"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Elektrotechnika II"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Electrical Engineering 1"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "Use of online individual consultations and continuous testing of knowledge through tests in UIS. Elaboration and defense of a semester project."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Vlastimil Slaný, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Agricultural, Food and Environmental Engineering (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Tomáš Hejtmánek (instructor, lecturer)Ing. Petr Koudelka, Ph.D. (lecturer)Ing. Vlastimil Slaný, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "10 %"
+    },
+    {
+      "label": "Final test",
+      "content": "40 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "50 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Elektrotechnika II"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Electrical Engineering 1"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: Use of online individual consultations and continuous testing of knowledge through tests in UIS. Elaboration and defense of a semester project."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Vlastimil Slaný, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Agricultural, Food and Environmental Engineering (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Tomáš Hejtmánek (instructor, lecturer)Ing. Petr Koudelka, Ph.D. (lecturer)Ing. Vlastimil Slaný, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday15.00-16.50Q01.39V. Slaný, T. HejtmánekSeminarEvery week13Monday17.00-18.50Q01.39V. Slaný, T. HejtmánekSeminarEvery week13Wednesday15.00-16.50Q17P. Koudelka, V. SlanýLectureEvery week42"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "The content of the course has not been saved in this language version."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam20 hpreparation for regular assessment10 hpreparation for regular testing10 helaboration of reports20 hTotal116 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "It is possible to get 100 points for the whole course (50 points from the exercises and 50 points from the exam). For the award of credit, active participation in the exercises and fulfilled requirements of the practitioners (completed exercise tasks) are necessary. Another necessary criterion for the award of credit is the completion of the final test with a success rate of at least 60%. Successfully completed and scored exercise tasks contribute to the overall course grade of 50 % (max 50 points). The course ends with an examination, which has two parts. The first written part is in the form of a test (30 points). After the student successfully passes the test (at least 60% correct answers), he/she continues with an oral examination, which is optional. This is followed by a discussion with the examiner on a specific topic covered during the semester (20 points). Upon successful completion of the examination, the final grade according to the scale (E60--D68--C75--B83--A90) is entered in the index/UIS."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation10 %Final test40 %Final oral exam50 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Recommended:Bajer, A.,Škyřík,J., Automatizace, Návody do cvičení, Brno: Skriptum VŠZ, 1983Hradil, ,F. ,Schieblová, J., Elektrotechnika I, Návody do cvičení, Brno: Skriptum VŠZ, 1980Schieblová, J., Škyřík, J., Elektrotechnika a mikroelektronika, Brno: Skriptum VŠZ, 1988Voženílek, L., Kurz elektrotechniky, SNTL Praha 1988"
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "Bajer, A.,Škyřík,J., Automatizace, Návody do cvičení, Brno: Skriptum VŠZ, 1983Hradil, ,F. ,Schieblová, J., Elektrotechnika I, Návody do cvičení, Brno: Skriptum VŠZ, 1980Schieblová, J., Škyřík, J., Elektrotechnika a mikroelektronika, Brno: Skriptum VŠZ, 1988Voženílek, L., Kurz elektrotechniky, SNTL Praha 1988"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Track SBPT Machinery Management, full-time form, initial period WS 2022/2023"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:04:58",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

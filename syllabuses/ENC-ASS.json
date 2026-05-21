@@ -1,0 +1,633 @@
+{
+  "courseCode": "ENC-ASS",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENC-ASS"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Architektury software a služeb"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Software and Services Architectures"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, etapa A 2/4, etapa B 0/0 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Student prezenční formy si může předmět zapsat i během zahraničního výjezdu. V tomto případě nemusí splnit podmínku docházky, tj. semestrální projekt a praktické úkoly jsou konzultovány a odevzdány prostředky umožňujícími vzdálenou komunikaci."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Oldřich Trenz, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Oldřich Faldík, Ph.D. (přednášející, tutor)Ing. Miroslav Jaroš (cvičící, přednášející)Ing. David Klepáček (cvičící, tutor)doc. Ing. Oldřich Trenz, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Ing. et Ing. Michaela Veselá (cvičící, tutor)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do softwarové architektury a vývoje softwaru (dotace 2/0)"
+    },
+    {
+      "label": "2.",
+      "content": "Architektura software (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Klasické softwarové architektury"
+    },
+    {
+      "label": "b.",
+      "content": "Komponentová architektura"
+    },
+    {
+      "label": "c.",
+      "content": "Aplikace založené na mikroslužbách (microservices)"
+    },
+    {
+      "label": "3.",
+      "content": "Integrace služeb softwarových systémů (dotace 6/10)"
+    },
+    {
+      "label": "a.",
+      "content": "Servisně orientovaná architektura (SOA)"
+    },
+    {
+      "label": "b.",
+      "content": "Serverové služby založené na REST a SOAP"
+    },
+    {
+      "label": "c.",
+      "content": "Cloudové služby, virtualizace a bezpečnost"
+    },
+    {
+      "label": "d.",
+      "content": "Komunikace mezi službami v cloudu"
+    },
+    {
+      "label": "4.",
+      "content": "Domain drive model/programing (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Model driven design"
+    },
+    {
+      "label": "b.",
+      "content": "Refaktoring modelu"
+    },
+    {
+      "label": "c.",
+      "content": "Dokumentace API"
+    },
+    {
+      "label": "5.",
+      "content": "Aktuální trendy a přístupy (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Vývoj Open Source projektů"
+    },
+    {
+      "label": "b.",
+      "content": "Prostředí Git/GitHub (best practice)"
+    },
+    {
+      "label": "c.",
+      "content": "Component software design"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "30 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "55 %"
+    },
+    {
+      "label": "Prezentace nebo obhajoba",
+      "content": "10 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "5 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Architektury software a služeb"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Software and Services Architectures"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, etapa A 2/4, etapa B 0/0 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, etapa A 2/4, etapa B 0/0 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Student prezenční formy si může předmět zapsat i během zahraničního výjezdu. V tomto případě nemusí splnit podmínku docházky, tj. semestrální projekt a praktické úkoly jsou konzultovány a odevzdány prostředky umožňujícími vzdálenou komunikaci."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Oldřich Trenz, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Oldřich Faldík, Ph.D. (přednášející, tutor)Ing. Miroslav Jaroš (cvičící, přednášející)Ing. David Klepáček (cvičící, tutor)doc. Ing. Oldřich Trenz, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Ing. et Ing. Michaela Veselá (cvičící, tutor)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPoznámkaÚterý15.00-16.50Q16N-OIO. Trenz, O. Faldík, M. JarošPřednáškaKaždý týden80 Středa13.00-16.50Q05N-OIO. Trenz, M. Jaroš, D. KlepáčekCvičeníKaždý týden22Cvičení z NSS zvolte ve stejnou dobu.Čtvrtek11.00-14.50Q05N-OIO. Trenz, M. Jaroš, D. KlepáčekCvičeníKaždý týden22Cvičení z NSS zvolte ve stejnou dobu."
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Student získá teoretický základ i praktické dovednosti z oblasti architektury a vývoje softwaru s důrazem na současné pojetí vývoje software progresivní vývojová prostředí, metody, techniky a nástroje. Důraz je kladen nejen na podobu softwarové architektury, tedy architektonický styl, ale i používaná softwarová rozhraní, tvorbu rozsáhlých softwarových systémů orientovaných zejména do cloud oblasti a vybrané podpůrné softwarové nástroje pro analýzu, návrh, vývoj softwaru a softwarové nástroje pro návrh architektury. Obsah cvičení je orientován na aplikaci získaných znalostí, osvojení si praktických dovedností."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do softwarové architektury a vývoje softwaru (dotace 2/0)2.Architektura software (dotace 2/6) a.Klasické softwarové architekturyb.Komponentová architekturac.Aplikace založené na mikroslužbách (microservices)3.Integrace služeb softwarových systémů (dotace 6/10) a.Servisně orientovaná architektura (SOA)b.Serverové služby založené na REST a SOAPc.Cloudové služby, virtualizace a bezpečnostd.Komunikace mezi službami v cloudu4.Domain drive model/programing (dotace 2/6) a.Model driven designb.Refaktoring modeluc.Dokumentace API5.Aktuální trendy a přístupy (dotace 2/6) a.Vývoj Open Source projektůb.Prostředí Git/GitHub (best practice)c.Component software design"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Architektura software (dotace 2/6)"
+    },
+    {
+      "label": "[section] Úvod do softwarové architektury a vývoje softwaru",
+      "content": "2.Architektura software (dotace 2/6)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Klasické softwarové architekturyb.Komponentová architekturac.Aplikace založené na mikroslužbách (microservices)"
+    },
+    {
+      "label": "[section] Architektura software",
+      "content": "a.Klasické softwarové architekturyb.Komponentová architekturac.Aplikace založené na mikroslužbách (microservices)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Servisně orientovaná architektura (SOA)b.Serverové služby založené na REST a SOAPc.Cloudové služby, virtualizace a bezpečnostd.Komunikace mezi službami v cloudu"
+    },
+    {
+      "label": "[section] Integrace služeb softwarových systémů",
+      "content": "a.Servisně orientovaná architektura (SOA)b.Serverové služby založené na REST a SOAPc.Cloudové služby, virtualizace a bezpečnostd.Komunikace mezi službami v cloudu"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Model driven designb.Refaktoring modeluc.Dokumentace API"
+    },
+    {
+      "label": "[section] Domain drive model/programing",
+      "content": "a.Model driven designb.Refaktoring modeluc.Dokumentace API"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Vývoj Open Source projektůb.Prostředí Git/GitHub (best practice)c.Component software design"
+    },
+    {
+      "label": "[section] Aktuální trendy a přístupy",
+      "content": "a.Vývoj Open Source projektůb.Prostředí Git/GitHub (best practice)c.Component software design"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení28 hkonzultace8 hprojektová práce50 hpříprava na zkoušku12 hCelkem112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Semestrální týmový projekt (protokol, studenti řeší téma z oblasti předmětu) s důrazem na osvojení si dané problematiky (součástí je analytická a návrhová část). Zkouška v písemné a ústní podobě ověřuje u studentů získané znalosti z oblasti moderního vývoje softwarových systémů a osvojené dovednosti v oblasti jejich návrhu. Podmínky pro udělení zápočtu, bodové hodnocení: - Jednotlivá cvičení z předmětu jsou hodnocená, na cvičení lze získat celkem 14 bodů (min. 50 %). - Vypracovat týmový semestrální projekt dle zadání a tento projekt prezentovat (25 bodů, min. 50 %) - Účast na cvičení je povinná (docházka min. 80 %) - Vybrané přednášky (celkem 4) jsou hodnocené, lze na nich získat celkem 6 bodů. Podmínky pro udělení zkoušky: - Na zkoušce je možné získat 55 bodů. Předmět je ukončen písemnou zkouškou a ústní obhajobou (min. 50 %). Klasifikační bodová stupnice: A 90–-100 B 83–-89 C 75–-82 D 68–-74 E 60–-67 F < 60"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích30 %Vypracování semestrální práce55 %Prezentace nebo obhajoba10 %Absolvování závěrečné ústní zkoušky5 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:PRESSMAN, Roger. 2010. Software engineering: a practitioner's approach. Boston: McGraw-Hill Education, 895 s. ISBN 978-007-1267-82-3.SOMMERVILLE, Ian. 2013. Softwarové inženýrství. Praha: Computer Press, 680 s. ISBN 978-80-251-3826-7.WIEGERS, Karl Eugene. 2008. Požadavky na software. 1. vyd. Brno: Computer Press, 448 s. ISBN 978-80-251-1877-1.Doporučená:ARLOW, Jim; NEUSTADT, Ila. 2007. UML 2 a unifikovaný proces vývoje aplikací: objektově orientovaná analýza a návrh prakticky. 2. vyd. Brno: Computer Press, 567 s. ISBN 978-80-251-1503-9."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "PRESSMAN, Roger. 2010. Software engineering: a practitioner's approach. Boston: McGraw-Hill Education, 895 s. ISBN 978-007-1267-82-3.SOMMERVILLE, Ian. 2013. Softwarové inženýrství. Praha: Computer Press, 680 s. ISBN 978-80-251-3826-7.WIEGERS, Karl Eugene. 2008. Požadavky na software. 1. vyd. Brno: Computer Press, 448 s. ISBN 978-80-251-1877-1."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "ARLOW, Jim; NEUSTADT, Ila. 2007. UML 2 a unifikovaný proces vývoje aplikací: objektově orientovaná analýza a návrh prakticky. 2. vyd. Brno: Computer Press, 567 s. ISBN 978-80-251-1503-9."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-OI Otevřená informatika, prezenční forma, počáteční období ZS 2024/2025Program N-OI Otevřená informatika, prezenční forma, počáteční období LS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENC-ASS"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Architektury software a služeb"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Software and Services Architectures"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, period A 2/4, period B 0/0 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "Student of the full-time form can enroll the course during a foreign trip. In this case, the attendance condition does not have to be fulfilled, ie the semester project and the practical tasks are consulted and handed over by means of remote communication."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Oldřich Trenz, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Oldřich Faldík, Ph.D. (lecturer, tutor)Ing. Miroslav Jaroš (instructor, lecturer)Ing. David Klepáček (instructor, tutor)doc. Ing. Oldřich Trenz, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Ing. et Ing. Michaela Veselá (instructor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to software architecture and software development (allowance 2/0)"
+    },
+    {
+      "label": "2.",
+      "content": "Software Architecture (allowance 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Classical software architectures"
+    },
+    {
+      "label": "b.",
+      "content": "Component-based architecture"
+    },
+    {
+      "label": "c.",
+      "content": "Microservices-based applications"
+    },
+    {
+      "label": "3.",
+      "content": "Integration of software system services (allowance 6/10)"
+    },
+    {
+      "label": "a.",
+      "content": "Service Oriented Architecture (SOA)"
+    },
+    {
+      "label": "b.",
+      "content": "Server services based on REST and SOAP"
+    },
+    {
+      "label": "c.",
+      "content": "Cloud services, virtualization and security"
+    },
+    {
+      "label": "d.",
+      "content": "Communication between services in the cloud"
+    },
+    {
+      "label": "4.",
+      "content": "Domain drive model/programming (allowance 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Model driven design"
+    },
+    {
+      "label": "b.",
+      "content": "Model refactoring"
+    },
+    {
+      "label": "c.",
+      "content": "API documentation"
+    },
+    {
+      "label": "5.",
+      "content": "Current trends and approaches (allowance 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Open Source project development"
+    },
+    {
+      "label": "b.",
+      "content": "Git/GitHub environment (best practice)"
+    },
+    {
+      "label": "c.",
+      "content": "Component software design"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "30 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "55 %"
+    },
+    {
+      "label": "Presentation or defence",
+      "content": "10 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "5 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Architektury software a služeb"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Software and Services Architectures"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, period A 2/4, period B 0/0 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, period A 2/4, period B 0/0 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: Student of the full-time form can enroll the course during a foreign trip. In this case, the attendance condition does not have to be fulfilled, ie the semester project and the practical tasks are consulted and handed over by means of remote communication."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Oldřich Trenz, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Oldřich Faldík, Ph.D. (lecturer, tutor)Ing. Miroslav Jaroš (instructor, lecturer)Ing. David Klepáček (instructor, tutor)doc. Ing. Oldřich Trenz, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Ing. et Ing. Michaela Veselá (instructor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityNoteTuesday15.00-16.50Q16N-OIO. Trenz, O. Faldík, M. JarošLectureEvery week80 Wednesday13.00-16.50Q05N-OIO. Trenz, M. Jaroš, D. KlepáčekSeminarEvery week22Cvičení z NSS zvolte ve stejnou dobu.Thursday11.00-14.50Q05N-OIO. Trenz, M. Jaroš, D. KlepáčekSeminarEvery week22Cvičení z NSS zvolte ve stejnou dobu."
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The student will gain a theoretical basis and practical skills in the field of architecture and software development with emphasis on the current concept of software development, progressive development environments, methods, techniques and tools. Emphasis is placed not only on the form of software architecture, ie architectural style, but also the software interfaces used, the creation of large software systems focused mainly on the cloud and selected supporting software tools for analysis, design, software development and software tools for architecture design. The content of the exercise is focused on the application of acquired knowledge, the acquisition of practical skills."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to software architecture and software development (allowance 2/0)2.Software Architecture (allowance 2/6) a.Classical software architecturesb.Component-based architecturec.Microservices-based applications3.Integration of software system services (allowance 6/10) a.Service Oriented Architecture (SOA)b.Server services based on REST and SOAPc.Cloud services, virtualization and securityd.Communication between services in the cloud4.Domain drive model/programming (allowance 2/6) a.Model driven designb.Model refactoringc.API documentation5.Current trends and approaches (allowance 2/6) a.Open Source project developmentb.Git/GitHub environment (best practice)c.Component software design"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Software Architecture (allowance 2/6)"
+    },
+    {
+      "label": "[section] Introduction to software architecture and software development",
+      "content": "2.Software Architecture (allowance 2/6)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Classical software architecturesb.Component-based architecturec.Microservices-based applications"
+    },
+    {
+      "label": "[section] Software Architecture",
+      "content": "a.Classical software architecturesb.Component-based architecturec.Microservices-based applications"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Service Oriented Architecture (SOA)b.Server services based on REST and SOAPc.Cloud services, virtualization and securityd.Communication between services in the cloud"
+    },
+    {
+      "label": "[section] Integration of software system services",
+      "content": "a.Service Oriented Architecture (SOA)b.Server services based on REST and SOAPc.Cloud services, virtualization and securityd.Communication between services in the cloud"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Model driven designb.Model refactoringc.API documentation"
+    },
+    {
+      "label": "[section] Domain drive model/programming",
+      "content": "a.Model driven designb.Model refactoringc.API documentation"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Open Source project developmentb.Git/GitHub environment (best practice)c.Component software design"
+    },
+    {
+      "label": "[section] Current trends and approaches",
+      "content": "a.Open Source project developmentb.Git/GitHub environment (best practice)c.Component software design"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice28 hconsultation8 hproject work50 hpreparation for exam12 hTotal112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Semester team project (protocol, students solve a topic from the subject area) with an emphasis on mastering the issue (includes analytical and design part). The written and verbal exam verifies the students' acquired knowledge in the field of modern software systems development and acquired skills in the field of their design. Criteria for receiving credit, the credit-based evaluation: - The individual tutorials from the subject are assessed – you can receive up to 14 points at each tutorial (min. 50 %). - To develop a team semester project according to the assignment and present this project (25 points, min. 50 %) - Participation at tutorials is mandatory (a minimum attendance of 80 %) - Selected lectures (total of 4) are assessed, you can receive a total of 6 points for these. Criteria for receiving exam credit: - For the exam, you can receive up to 55 points. The course is completed by a written exam and verbal defense (min. 50%). Classification degree: A 90–-100 B 83–-89 C 75–-82 D 68–-74 E 60–-67 F < 60"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation30 %Term paper55 %Presentation or defence10 %Final oral exam5 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:PRESSMAN, Roger. 2010. Software engineering: a practitioner's approach. Boston: McGraw-Hill Education, 895 p. ISBN 978-007-1267-82-3.SOMMERVILLE, Ian. 2013. Softwarové inženýrství. Praha: Computer Press, 680 p. ISBN 978-80-251-3826-7.WIEGERS, Karl Eugene. 2008. Požadavky na software. 1st ed. Brno: Computer Press, 448 p. ISBN 978-80-251-1877-1.Recommended:ARLOW, Jim; NEUSTADT, Ila. 2007. UML 2 a unifikovaný proces vývoje aplikací: objektově orientovaná analýza a návrh prakticky. 2nd ed. Brno: Computer Press, 567 p. ISBN 978-80-251-1503-9."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "PRESSMAN, Roger. 2010. Software engineering: a practitioner's approach. Boston: McGraw-Hill Education, 895 p. ISBN 978-007-1267-82-3.SOMMERVILLE, Ian. 2013. Softwarové inženýrství. Praha: Computer Press, 680 p. ISBN 978-80-251-3826-7.WIEGERS, Karl Eugene. 2008. Požadavky na software. 1st ed. Brno: Computer Press, 448 p. ISBN 978-80-251-1877-1."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "ARLOW, Jim; NEUSTADT, Ila. 2007. UML 2 a unifikovaný proces vývoje aplikací: objektově orientovaná analýza a návrh prakticky. 2nd ed. Brno: Computer Press, 567 p. ISBN 978-80-251-1503-9."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-OI Open Informatics, full-time form, initial period WS 2024/2025Programme C-OI Open Informatics, full-time form, initial period SS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:55:10",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

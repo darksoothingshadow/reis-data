@@ -1,0 +1,845 @@
+{
+  "courseCode": "KRMO",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "KRMO"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Krajinné monumenty"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Landscape monuments"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Dr. Ing. Milada Šťastná"
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav aplikované a krajinné ekologie (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jozef Sedláček, Ph.D. (cvičící, přednášející)prof. Dr. Ing. Milada Šťastná (garant, přednášející, zkoušející)Ing. Martina Urbanová (cvičící, přednášející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Základy GIS"
+    },
+    {
+      "label": "1.",
+      "content": "Krajina a její změny v historických souvislostech. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Úvod do problematiky, terminologie, významné osobnosti."
+    },
+    {
+      "label": "b.",
+      "content": "Vývoj kulturní krajiny v České republice, včetně identifikace krajinných monumentů."
+    },
+    {
+      "label": "c.",
+      "content": "Seznámení se strukturou projektu v prostředí ArcGIS Pro."
+    },
+    {
+      "label": "2.",
+      "content": "Přirozené a uměle vytvořené krajinné prvky. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Procesy formování krajinných monumentů a jejich členění."
+    },
+    {
+      "label": "b.",
+      "content": "Tvorba atributových dat a jejich kategorizace v GIS."
+    },
+    {
+      "label": "3.",
+      "content": "Krajinný ráz a jeho ochrana. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Legislativní rámec ochrany krajinného rázu v České republice, metodiky jeho hodnocení."
+    },
+    {
+      "label": "b.",
+      "content": "Základy práce s nástrojem Viewshed."
+    },
+    {
+      "label": "4.",
+      "content": "Kategorizace krajinných monumentů. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Úrovně významnosti a hodnotící kritéria."
+    },
+    {
+      "label": "b.",
+      "content": "Analýza viditelnosti v krajině pomocí nástroje Viewshed."
+    },
+    {
+      "label": "5.",
+      "content": "Ověření analýzy viditelnosti ve vybraném zájmovém území. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Praktické příklady."
+    },
+    {
+      "label": "6.",
+      "content": "Přírodní monumenty. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Geoparky a přírodní památky – příklady z praxe."
+    },
+    {
+      "label": "b.",
+      "content": "Sběr dat pomocí nástrojů Survey123 a Field Maps – plánování a metodika."
+    },
+    {
+      "label": "7.",
+      "content": "Sběr dat pomocí nástrojů Survey123 a Field Maps. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Práce v terénu."
+    },
+    {
+      "label": "8.",
+      "content": "Sakrální krajinné monumenty. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Kapličky, kříže, poutní místa – kulturní význam, památková péče."
+    },
+    {
+      "label": "b.",
+      "content": "Příklady z praxe."
+    },
+    {
+      "label": "9.",
+      "content": "Monumenty industriálního charakteru. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Památky industriálního dědictví."
+    },
+    {
+      "label": "b.",
+      "content": "Mapování a vizualizace shromážděných dat v prostředí ArcGIS Pro."
+    },
+    {
+      "label": "10.",
+      "content": "Historická zeleň. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Zahrady, parky, aleje – kulturní a ekologický význam."
+    },
+    {
+      "label": "b.",
+      "content": "Prostorová analýza přírodních a antropogenních dominant v prostředí ArcGIS Pro."
+    },
+    {
+      "label": "11.",
+      "content": "Sídla v krajině. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Historický vývoj a současné výzvy. Typologie sídel."
+    },
+    {
+      "label": "b.",
+      "content": "Tvorba tematických map a příběhové prezentace ve Story Maps."
+    },
+    {
+      "label": "12.",
+      "content": "Evropské dědictví v krajině. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam evropského kulturního dědictví v krajině z hlediska historického vývoje a současných přístupů k jeho ochraně a interpretaci."
+    },
+    {
+      "label": "b.",
+      "content": "Role UNESCO, Evropské úmluvy o krajině a národní legislativy v ochraně těchto hodnot."
+    },
+    {
+      "label": "c.",
+      "content": "Prezentace studentských projektů ve Story Maps – ucelený pohled na vybrané území."
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, LS 2024/2025, LS 2023/2024, LS 2022/2023, ZS 2022/2023, ZS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Krajinné monumenty"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Landscape monuments"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Dr. Ing. Milada Šťastná"
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav aplikované a krajinné ekologie (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jozef Sedláček, Ph.D. (cvičící, přednášející)prof. Dr. Ing. Milada Šťastná (garant, přednášející, zkoušející)Ing. Martina Urbanová (cvičící, přednášející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Základy GIS"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý9.00-10.50Q112M. Urbanová, J. SedláčekCvičeníKaždý týden22Úterý11.00-12.50Q112M. Šťastná, J. Sedláček, M. UrbanováPřednáškaKaždý týden27Úterý13.00-14.50Q112M. Urbanová, J. SedláčekCvičeníKaždý týden22"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je rozvíjet u studentů schopnost komplexního vnímání krajiny v kulturně-historických souvislostech a osvojit si metody identifikace, hodnocení a prezentace krajinných monumentů. Studenti se naučí využívat moderní geoinformační technologie k analýze a vizualizaci krajinných prvků ve vybraném katastrálním území. Výstupem bude ucelený projekt, který propojí teoretické poznatky s praktickými dovednostmi."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Krajina a její změny v historických souvislostech. (dotace 2/2) a.Úvod do problematiky, terminologie, významné osobnosti.b.Vývoj kulturní krajiny v České republice, včetně identifikace krajinných monumentů.c.Seznámení se strukturou projektu v prostředí ArcGIS Pro.2.Přirozené a uměle vytvořené krajinné prvky. (dotace 2/2) a.Procesy formování krajinných monumentů a jejich členění.b.Tvorba atributových dat a jejich kategorizace v GIS.3.Krajinný ráz a jeho ochrana. (dotace 2/2) a.Legislativní rámec ochrany krajinného rázu v České republice, metodiky jeho hodnocení.b.Základy práce s nástrojem Viewshed.4.Kategorizace krajinných monumentů. (dotace 2/2) a.Úrovně významnosti a hodnotící kritéria.b.Analýza viditelnosti v krajině pomocí nástroje Viewshed.5.Ověření analýzy viditelnosti ve vybraném zájmovém území. (dotace 2/2) a.Praktické příklady.6.Přírodní monumenty. (dotace 2/2) a.Geoparky a přírodní památky – příklady z praxe.b.Sběr dat pomocí nástrojů Survey123 a Field Maps – plánování a metodika.7.Sběr dat pomocí nástrojů Survey123 a Field Maps. (dotace 2/2) a.Práce v terénu.8.Sakrální krajinné monumenty. (dotace 2/2) a.Kapličky, kříže, poutní místa – kulturní význam, památková péče.b.Příklady z praxe.9.Monumenty industriálního charakteru. (dotace 2/2) a.Památky industriálního dědictví.b.Mapování a vizualizace shromážděných dat v prostředí ArcGIS Pro.10.Historická zeleň. (dotace 2/2) a.Zahrady, parky, aleje – kulturní a ekologický význam.b.Prostorová analýza přírodních a antropogenních dominant v prostředí ArcGIS Pro.11.Sídla v krajině. (dotace 2/2) a.Historický vývoj a současné výzvy. Typologie sídel.b.Tvorba tematických map a příběhové prezentace ve Story Maps.12.Evropské dědictví v krajině. (dotace 2/2) a.Význam evropského kulturního dědictví v krajině z hlediska historického vývoje a současných přístupů k jeho ochraně a interpretaci.b.Role UNESCO, Evropské úmluvy o krajině a národní legislativy v ochraně těchto hodnot.c.Prezentace studentských projektů ve Story Maps – ucelený pohled na vybrané území."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Úvod do problematiky, terminologie, významné osobnosti.b.Vývoj kulturní krajiny v České republice, včetně identifikace krajinných monumentů.c.Seznámení se strukturou projektu v prostředí ArcGIS Pro."
+    },
+    {
+      "label": "[section] Krajina a její změny v historických souvislostech.",
+      "content": "a.Úvod do problematiky, terminologie, významné osobnosti.b.Vývoj kulturní krajiny v České republice, včetně identifikace krajinných monumentů.c.Seznámení se strukturou projektu v prostředí ArcGIS Pro."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Procesy formování krajinných monumentů a jejich členění.b.Tvorba atributových dat a jejich kategorizace v GIS."
+    },
+    {
+      "label": "[section] Přirozené a uměle vytvořené krajinné prvky.",
+      "content": "a.Procesy formování krajinných monumentů a jejich členění.b.Tvorba atributových dat a jejich kategorizace v GIS."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Legislativní rámec ochrany krajinného rázu v České republice, metodiky jeho hodnocení.b.Základy práce s nástrojem Viewshed."
+    },
+    {
+      "label": "[section] Krajinný ráz a jeho ochrana.",
+      "content": "a.Legislativní rámec ochrany krajinného rázu v České republice, metodiky jeho hodnocení.b.Základy práce s nástrojem Viewshed."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Úrovně významnosti a hodnotící kritéria.b.Analýza viditelnosti v krajině pomocí nástroje Viewshed."
+    },
+    {
+      "label": "[section] Kategorizace krajinných monumentů.",
+      "content": "a.Úrovně významnosti a hodnotící kritéria.b.Analýza viditelnosti v krajině pomocí nástroje Viewshed."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Praktické příklady."
+    },
+    {
+      "label": "[section] Ověření analýzy viditelnosti ve vybraném zájmovém území.",
+      "content": "a.Praktické příklady."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Geoparky a přírodní památky – příklady z praxe.b.Sběr dat pomocí nástrojů Survey123 a Field Maps – plánování a metodika."
+    },
+    {
+      "label": "[section] Přírodní monumenty.",
+      "content": "a.Geoparky a přírodní památky – příklady z praxe.b.Sběr dat pomocí nástrojů Survey123 a Field Maps – plánování a metodika."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Práce v terénu."
+    },
+    {
+      "label": "[section] Sběr dat pomocí nástrojů Survey123 a Field Maps.",
+      "content": "a.Práce v terénu."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Kapličky, kříže, poutní místa – kulturní význam, památková péče.b.Příklady z praxe."
+    },
+    {
+      "label": "[section] Sakrální krajinné monumenty.",
+      "content": "a.Kapličky, kříže, poutní místa – kulturní význam, památková péče.b.Příklady z praxe."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Památky industriálního dědictví.b.Mapování a vizualizace shromážděných dat v prostředí ArcGIS Pro."
+    },
+    {
+      "label": "[section] Monumenty industriálního charakteru.",
+      "content": "a.Památky industriálního dědictví.b.Mapování a vizualizace shromážděných dat v prostředí ArcGIS Pro."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Zahrady, parky, aleje – kulturní a ekologický význam.b.Prostorová analýza přírodních a antropogenních dominant v prostředí ArcGIS Pro."
+    },
+    {
+      "label": "[section] Historická zeleň.",
+      "content": "a.Zahrady, parky, aleje – kulturní a ekologický význam.b.Prostorová analýza přírodních a antropogenních dominant v prostředí ArcGIS Pro."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Historický vývoj a současné výzvy. Typologie sídel.b.Tvorba tematických map a příběhové prezentace ve Story Maps."
+    },
+    {
+      "label": "[section] Sídla v krajině.",
+      "content": "a.Historický vývoj a současné výzvy. Typologie sídel.b.Tvorba tematických map a příběhové prezentace ve Story Maps."
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Význam evropského kulturního dědictví v krajině z hlediska historického vývoje a současných přístupů k jeho ochraně a interpretaci.b.Role UNESCO, Evropské úmluvy o krajině a národní legislativy v ochraně těchto hodnot.c.Prezentace studentských projektů ve Story Maps – ucelený pohled na vybrané území."
+    },
+    {
+      "label": "[section] Evropské dědictví v krajině.",
+      "content": "a.Význam evropského kulturního dědictví v krajině z hlediska historického vývoje a současných přístupů k jeho ochraně a interpretaci.b.Role UNESCO, Evropské úmluvy o krajině a národní legislativy v ochraně těchto hodnot.c.Prezentace studentských projektů ve Story Maps – ucelený pohled na vybrané území."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška24 hcvičení24 hpráce v terénu16 hveřejná prezentace (ústní)2 hpříprava na zkoušku30 hpříprava prezentace10 hzpracování projektů32 hCelkem138 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Účast na exkurzi, odevzdání a prezentace semestrálního projektu, ústní zkouška."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:PEJCHAL, Miloš. 2011. Creativity in Care of Landscape Architecture Monuments. In: SUPUKA, Ján (ed.). Settlement-Park-Landscape V.: Revitalisation of Green Urban Open Spaces with Consideration to Changing Environment. 1. vyd. Nitra: Slovak University of Agriculture in Nitra, 227–239. ISBN 978-80-552-0540-3.SALAŠOVÁ, Alena. 2015. Krajinný ráz - poznámky k procesu a aplikaci posuzování charakteru krajiny. In: ČERNUŠÁKOVÁ, Linda (ed.). Venkovská krajina 2015. 1. vyd. Kostelec nad Černými lesy: CZ-IALE a Lesnická práce,s.r.o., 80–100. ISBN 978-80-7458-070-3.SALAŠOVÁ, Alena. 2015. Krajinné plánování II.: vybraná témata krajinného plánování. 1. vyd. Brno: Mendelova univerzita v Brně, 103 s. ISBN 978-80-7509-243-4.SALAŠOVÁ, Alena. 2015. Krajinné plánování II.: vybraná témata krajinného plánování. 1. vyd. Brno: Mendelova univerzita v Brně, 103 s. ISBN 978-80-7509-243-4.HOMOLA, Aleš; CZAJKOWSKI, Petr; MARKEL, Martin; PONEŠOVÁ, Barbora. 2016. Krajina jako dílo: barokní krajinou od Mikulova po Znojmo. 1. vyd. Brno: Národní památkový ústav, územní odborné pracoviště v Brně, ve spolupráci s Vysokým učením technickým v Brně, Fakultou architektury a Masarykovou univerzitou, Ekonomicko-správní a Filozofickou fakultou, 347 s. ISBN 978-80-87967-08-9.KLVAČ, Pavel. 2009. Člověk, krajina, krajinný ráz. 1. vyd. Brno: Masarykova univerzita, Fakulta sociálních studií, katedra environmentálních studií, 91 s. ISBN 978-80-210-5090-7.ROCA, Zoran; CLAVAL, Paul; AGNEW, John. 2016. Landscapes, identities and development. New York: Routledge, 508 s.STARKE, BW; SIMONDS, JO. 2013. Landscape architecture: A manual of environmental planning and design. New York: McGraw-Hill Education, 409 s. ISBN 978-0-07-179765-8.PEŠTA, Jan. 2011. Encyklopedie českých vesnic: vesnické památkové rezervace, zóny a ostatní památkově hodnotná vesnická sídla v Čechách. 1. vyd. Praha: Libri, 399 s. ISBN 80-7277-147-7."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "PEJCHAL, Miloš. 2011. Creativity in Care of Landscape Architecture Monuments. In: SUPUKA, Ján (ed.). Settlement-Park-Landscape V.: Revitalisation of Green Urban Open Spaces with Consideration to Changing Environment. 1. vyd. Nitra: Slovak University of Agriculture in Nitra, 227–239. ISBN 978-80-552-0540-3.SALAŠOVÁ, Alena. 2015. Krajinný ráz - poznámky k procesu a aplikaci posuzování charakteru krajiny. In: ČERNUŠÁKOVÁ, Linda (ed.). Venkovská krajina 2015. 1. vyd. Kostelec nad Černými lesy: CZ-IALE a Lesnická práce,s.r.o., 80–100. ISBN 978-80-7458-070-3.SALAŠOVÁ, Alena. 2015. Krajinné plánování II.: vybraná témata krajinného plánování. 1. vyd. Brno: Mendelova univerzita v Brně, 103 s. ISBN 978-80-7509-243-4.SALAŠOVÁ, Alena. 2015. Krajinné plánování II.: vybraná témata krajinného plánování. 1. vyd. Brno: Mendelova univerzita v Brně, 103 s. ISBN 978-80-7509-243-4.HOMOLA, Aleš; CZAJKOWSKI, Petr; MARKEL, Martin; PONEŠOVÁ, Barbora. 2016. Krajina jako dílo: barokní krajinou od Mikulova po Znojmo. 1. vyd. Brno: Národní památkový ústav, územní odborné pracoviště v Brně, ve spolupráci s Vysokým učením technickým v Brně, Fakultou architektury a Masarykovou univerzitou, Ekonomicko-správní a Filozofickou fakultou, 347 s. ISBN 978-80-87967-08-9.KLVAČ, Pavel. 2009. Člověk, krajina, krajinný ráz. 1. vyd. Brno: Masarykova univerzita, Fakulta sociálních studií, katedra environmentálních studií, 91 s. ISBN 978-80-210-5090-7.ROCA, Zoran; CLAVAL, Paul; AGNEW, John. 2016. Landscapes, identities and development. New York: Routledge, 508 s.STARKE, BW; SIMONDS, JO. 2013. Landscape architecture: A manual of environmental planning and design. New York: McGraw-Hill Education, 409 s. ISBN 978-0-07-179765-8.PEŠTA, Jan. 2011. Encyklopedie českých vesnic: vesnické památkové rezervace, zóny a ostatní památkově hodnotná vesnická sídla v Čechách. 1. vyd. Praha: Libri, 399 s. ISBN 80-7277-147-7."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-AEG Agroekologie, prezenční forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "KRMO"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Krajinné monumenty"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Landscape monuments"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The subject cannot be studied during foreign mobility."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Dr. Ing. Milada Šťastná"
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Applied and Landscape Ecology (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jozef Sedláček, Ph.D. (instructor, lecturer)prof. Dr. Ing. Milada Šťastná (examiner, lecturer, supervisor)Ing. Martina Urbanová (instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Basics of GIS"
+    },
+    {
+      "label": "1.",
+      "content": "Landscape and its changes in historical context. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Introduction to problems, terminology, important personalities."
+    },
+    {
+      "label": "b.",
+      "content": "Cross-section of individual phases / stages of cultural landscape development in the Czech Republic, including identification of landscape monuments."
+    },
+    {
+      "label": "c.",
+      "content": "Introduction to project structure in ArcGIS Pro."
+    },
+    {
+      "label": "2.",
+      "content": "Natural and artificially created landscape elements. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Formation of landscape monuments (processes, breakdowns)."
+    },
+    {
+      "label": "b.",
+      "content": "Creation and categorization of attribute data in GIS."
+    },
+    {
+      "label": "3.",
+      "content": "Landscape Character and its protection (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Legislative framework for landscape character protection in the Czech Republic, assessment methodologies."
+    },
+    {
+      "label": "b.",
+      "content": "Basics of working with the Viewshed tool."
+    },
+    {
+      "label": "4.",
+      "content": "Categorization of Landscape Monuments. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Levels of significance and evaluation criteria."
+    },
+    {
+      "label": "b.",
+      "content": "Visibility analysis using the Viewshed tool and field verification."
+    },
+    {
+      "label": "5.",
+      "content": "Verification of visibility analysis in the selected area of interest. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Practical examples."
+    },
+    {
+      "label": "6.",
+      "content": "Natural monuments. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Geoparks and natural landmarks – practical examples."
+    },
+    {
+      "label": "b.",
+      "content": "Data collection using Survey123 and Field Maps – planning and methodology."
+    },
+    {
+      "label": "7.",
+      "content": "Data collection using Survey123 and Field Maps tools. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Field work."
+    },
+    {
+      "label": "8.",
+      "content": "Artificially created monuments of sacral character. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Chapels, crosses, pilgrimage sites – cultural significance and heritage care."
+    },
+    {
+      "label": "9.",
+      "content": "Artificially created monuments of industrial character. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Industrial heritage sites."
+    },
+    {
+      "label": "b.",
+      "content": "Mapping and visualization of collected data in ArcGIS Pro."
+    },
+    {
+      "label": "10.",
+      "content": "Historic landscape vegetation. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Gardens, parks, alleys – cultural and ecological significance."
+    },
+    {
+      "label": "b.",
+      "content": "Spatial analysis of natural and anthropogenic landmarks in ArcGIS Pro."
+    },
+    {
+      "label": "11.",
+      "content": "Settlements in the Landscape. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Historical development and current challenges. Settlement typologies."
+    },
+    {
+      "label": "b.",
+      "content": "Creation of thematic maps and storytelling presentations in Story Maps."
+    },
+    {
+      "label": "12.",
+      "content": "European heritage in the Landscape. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Importance of European cultural heritage in the landscape from historical and contemporary perspectives on its protection and interpretation."
+    },
+    {
+      "label": "b.",
+      "content": "Role of UNESCO, the European Landscape Convention, and national legislation in protecting these values."
+    },
+    {
+      "label": "c.",
+      "content": "Presentation of student projects in Story Maps – a comprehensive view of the selected area."
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, SS 2024/2025, SS 2023/2024, SS 2022/2023, WS 2022/2023, WS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Krajinné monumenty"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Landscape monuments"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The subject cannot be studied during foreign mobility."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Dr. Ing. Milada Šťastná"
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Applied and Landscape Ecology (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jozef Sedláček, Ph.D. (instructor, lecturer)prof. Dr. Ing. Milada Šťastná (examiner, lecturer, supervisor)Ing. Martina Urbanová (instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Basics of GIS"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday9.00-10.50Q112M. Urbanová, J. SedláčekSeminarEvery week22Tuesday11.00-12.50Q112M. Šťastná, J. Sedláček, M. UrbanováLectureEvery week27Tuesday13.00-14.50Q112M. Urbanová, J. SedláčekSeminarEvery week22"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the subject is to develop students' ability to perceive landscapes within cultural and historical contexts, and to teach them methods for identifying, evaluating and presenting landscape monuments. Students will learn to use modern geoinformation technologies to analyse and visualise landscape features within a selected cadastral area. The outcome will be a final project that combines theoretical knowledge with practical skills."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Landscape and its changes in historical context. (allowance 2/2) a.Introduction to problems, terminology, important personalities.b.Cross-section of individual phases / stages of cultural landscape development in the Czech Republic, including identification of landscape monuments.c.Introduction to project structure in ArcGIS Pro.2.Natural and artificially created landscape elements. (allowance 2/2) a.Formation of landscape monuments (processes, breakdowns).b.Creation and categorization of attribute data in GIS.3.Landscape Character and its protection (allowance 2/2) a.Legislative framework for landscape character protection in the Czech Republic, assessment methodologies.b.Basics of working with the Viewshed tool.4.Categorization of Landscape Monuments. (allowance 2/2) a.Levels of significance and evaluation criteria.b.Visibility analysis using the Viewshed tool and field verification.5.Verification of visibility analysis in the selected area of interest. (allowance 2/2) a.Practical examples.6.Natural monuments. (allowance 2/2) a.Geoparks and natural landmarks – practical examples.b.Data collection using Survey123 and Field Maps – planning and methodology.7.Data collection using Survey123 and Field Maps tools. (allowance 2/2) a.Field work.8.Artificially created monuments of sacral character. (allowance 2/2) a.Chapels, crosses, pilgrimage sites – cultural significance and heritage care.b.Data collection using Survey123 and Field Maps.9.Artificially created monuments of industrial character. (allowance 2/2) a.Industrial heritage sites.b.Mapping and visualization of collected data in ArcGIS Pro.10.Historic landscape vegetation. (allowance 2/2) a.Gardens, parks, alleys – cultural and ecological significance.b.Spatial analysis of natural and anthropogenic landmarks in ArcGIS Pro.11.Settlements in the Landscape. (allowance 2/2) a.Historical development and current challenges. Settlement typologies.b.Creation of thematic maps and storytelling presentations in Story Maps.12.European heritage in the Landscape. (allowance 2/2) a.Importance of European cultural heritage in the landscape from historical and contemporary perspectives on its protection and interpretation.b.Role of UNESCO, the European Landscape Convention, and national legislation in protecting these values.c.Presentation of student projects in Story Maps – a comprehensive view of the selected area."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Introduction to problems, terminology, important personalities.b.Cross-section of individual phases / stages of cultural landscape development in the Czech Republic, including identification of landscape monuments.c.Introduction to project structure in ArcGIS Pro."
+    },
+    {
+      "label": "[section] Landscape and its changes in historical context.",
+      "content": "a.Introduction to problems, terminology, important personalities.b.Cross-section of individual phases / stages of cultural landscape development in the Czech Republic, including identification of landscape monuments.c.Introduction to project structure in ArcGIS Pro."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Formation of landscape monuments (processes, breakdowns).b.Creation and categorization of attribute data in GIS."
+    },
+    {
+      "label": "[section] Natural and artificially created landscape elements.",
+      "content": "a.Formation of landscape monuments (processes, breakdowns).b.Creation and categorization of attribute data in GIS."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Legislative framework for landscape character protection in the Czech Republic, assessment methodologies.b.Basics of working with the Viewshed tool."
+    },
+    {
+      "label": "[section] Landscape Character and its protection",
+      "content": "a.Legislative framework for landscape character protection in the Czech Republic, assessment methodologies.b.Basics of working with the Viewshed tool."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Levels of significance and evaluation criteria.b.Visibility analysis using the Viewshed tool and field verification."
+    },
+    {
+      "label": "[section] Categorization of Landscape Monuments.",
+      "content": "a.Levels of significance and evaluation criteria.b.Visibility analysis using the Viewshed tool and field verification."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Practical examples."
+    },
+    {
+      "label": "[section] Verification of visibility analysis in the selected area of interest.",
+      "content": "a.Practical examples."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Geoparks and natural landmarks – practical examples.b.Data collection using Survey123 and Field Maps – planning and methodology."
+    },
+    {
+      "label": "[section] Natural monuments.",
+      "content": "a.Geoparks and natural landmarks – practical examples.b.Data collection using Survey123 and Field Maps – planning and methodology."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Field work."
+    },
+    {
+      "label": "[section] Data collection using Survey123 and Field Maps tools.",
+      "content": "a.Field work."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Chapels, crosses, pilgrimage sites – cultural significance and heritage care.b.Data collection using Survey123 and Field Maps."
+    },
+    {
+      "label": "[section] Artificially created monuments of sacral character.",
+      "content": "a.Chapels, crosses, pilgrimage sites – cultural significance and heritage care.b.Data collection using Survey123 and Field Maps."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Industrial heritage sites.b.Mapping and visualization of collected data in ArcGIS Pro."
+    },
+    {
+      "label": "[section] Artificially created monuments of industrial character.",
+      "content": "a.Industrial heritage sites.b.Mapping and visualization of collected data in ArcGIS Pro."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Gardens, parks, alleys – cultural and ecological significance.b.Spatial analysis of natural and anthropogenic landmarks in ArcGIS Pro."
+    },
+    {
+      "label": "[section] Historic landscape vegetation.",
+      "content": "a.Gardens, parks, alleys – cultural and ecological significance.b.Spatial analysis of natural and anthropogenic landmarks in ArcGIS Pro."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Historical development and current challenges. Settlement typologies.b.Creation of thematic maps and storytelling presentations in Story Maps."
+    },
+    {
+      "label": "[section] Settlements in the Landscape.",
+      "content": "a.Historical development and current challenges. Settlement typologies.b.Creation of thematic maps and storytelling presentations in Story Maps."
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Importance of European cultural heritage in the landscape from historical and contemporary perspectives on its protection and interpretation.b.Role of UNESCO, the European Landscape Convention, and national legislation in protecting these values.c.Presentation of student projects in Story Maps – a comprehensive view of the selected area."
+    },
+    {
+      "label": "[section] European heritage in the Landscape.",
+      "content": "a.Importance of European cultural heritage in the landscape from historical and contemporary perspectives on its protection and interpretation.b.Role of UNESCO, the European Landscape Convention, and national legislation in protecting these values.c.Presentation of student projects in Story Maps – a comprehensive view of the selected area."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture24 hpractice24 hfield work16 hpublic presentation (oral)2 hpreparation for exam30 hpreparation of presentation10 helaboration and execution of projects32 hTotal138 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Participation in excursion, final project, oral exam."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:PEJCHAL, Miloš. 2011. Creativity in Care of Landscape Architecture Monuments. In: SUPUKA, Ján (ed.). Settlement-Park-Landscape V.: Revitalisation of Green Urban Open Spaces with Consideration to Changing Environment. 1st ed. Nitra: Slovak University of Agriculture in Nitra, 227–239. ISBN 978-80-552-0540-3.SALAŠOVÁ, Alena. 2015. Krajinný ráz - poznámky k procesu a aplikaci posuzování charakteru krajiny. In: ČERNUŠÁKOVÁ, Linda (ed.). Venkovská krajina 2015. 1st ed. Kostelec nad Černými lesy: CZ-IALE a Lesnická práce,s.r.o., 80–100. ISBN 978-80-7458-070-3.SALAŠOVÁ, Alena. 2015. Krajinné plánování II.: vybraná témata krajinného plánování. 1st ed. Brno: Mendelova univerzita v Brně, 103 p. ISBN 978-80-7509-243-4.SALAŠOVÁ, Alena. 2015. Krajinné plánování II.: vybraná témata krajinného plánování. 1st ed. Brno: Mendelova univerzita v Brně, 103 p. ISBN 978-80-7509-243-4.HOMOLA, Aleš; CZAJKOWSKI, Petr; MARKEL, Martin; PONEŠOVÁ, Barbora. 2016. Krajina jako dílo: barokní krajinou od Mikulova po Znojmo. 1st ed. Brno: Národní památkový ústav, územní odborné pracoviště v Brně, ve spolupráci s Vysokým učením technickým v Brně, Fakultou architektury a Masarykovou univerzitou, Ekonomicko-správní a Filozofickou fakultou, 347 p. ISBN 978-80-87967-08-9.KLVAČ, Pavel. 2009. Člověk, krajina, krajinný ráz. 1st ed. Brno: Masarykova univerzita, Fakulta sociálních studií, katedra environmentálních studií, 91 p. ISBN 978-80-210-5090-7.ROCA, Zoran; CLAVAL, Paul; AGNEW, John. 2016. Landscapes, identities and development. New York: Routledge, 508 p.STARKE, BW; SIMONDS, JO. 2013. Landscape architecture: A manual of environmental planning and design. New York: McGraw-Hill Education, 409 p. ISBN 978-0-07-179765-8.PEŠTA, Jan. 2011. Encyklopedie českých vesnic: vesnické památkové rezervace, zóny a ostatní památkově hodnotná vesnická sídla v Čechách. 1st ed. Praha: Libri, 399 p. ISBN 80-7277-147-7."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "PEJCHAL, Miloš. 2011. Creativity in Care of Landscape Architecture Monuments. In: SUPUKA, Ján (ed.). Settlement-Park-Landscape V.: Revitalisation of Green Urban Open Spaces with Consideration to Changing Environment. 1st ed. Nitra: Slovak University of Agriculture in Nitra, 227–239. ISBN 978-80-552-0540-3.SALAŠOVÁ, Alena. 2015. Krajinný ráz - poznámky k procesu a aplikaci posuzování charakteru krajiny. In: ČERNUŠÁKOVÁ, Linda (ed.). Venkovská krajina 2015. 1st ed. Kostelec nad Černými lesy: CZ-IALE a Lesnická práce,s.r.o., 80–100. ISBN 978-80-7458-070-3.SALAŠOVÁ, Alena. 2015. Krajinné plánování II.: vybraná témata krajinného plánování. 1st ed. Brno: Mendelova univerzita v Brně, 103 p. ISBN 978-80-7509-243-4.SALAŠOVÁ, Alena. 2015. Krajinné plánování II.: vybraná témata krajinného plánování. 1st ed. Brno: Mendelova univerzita v Brně, 103 p. ISBN 978-80-7509-243-4.HOMOLA, Aleš; CZAJKOWSKI, Petr; MARKEL, Martin; PONEŠOVÁ, Barbora. 2016. Krajina jako dílo: barokní krajinou od Mikulova po Znojmo. 1st ed. Brno: Národní památkový ústav, územní odborné pracoviště v Brně, ve spolupráci s Vysokým učením technickým v Brně, Fakultou architektury a Masarykovou univerzitou, Ekonomicko-správní a Filozofickou fakultou, 347 p. ISBN 978-80-87967-08-9.KLVAČ, Pavel. 2009. Člověk, krajina, krajinný ráz. 1st ed. Brno: Masarykova univerzita, Fakulta sociálních studií, katedra environmentálních studií, 91 p. ISBN 978-80-210-5090-7.ROCA, Zoran; CLAVAL, Paul; AGNEW, John. 2016. Landscapes, identities and development. New York: Routledge, 508 p.STARKE, BW; SIMONDS, JO. 2013. Landscape architecture: A manual of environmental planning and design. New York: McGraw-Hill Education, 409 p. ISBN 978-0-07-179765-8.PEŠTA, Jan. 2011. Encyklopedie českých vesnic: vesnické památkové rezervace, zóny a ostatní památkově hodnotná vesnická sídla v Čechách. 1st ed. Praha: Libri, 399 p. ISBN 80-7277-147-7."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-AEG Agroecology, full-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:21:55",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

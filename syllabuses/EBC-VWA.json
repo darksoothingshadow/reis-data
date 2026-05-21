@@ -1,0 +1,569 @@
+{
+  "courseCode": "EBC-VWA",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-VWA"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Vývoj webových aplikací"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Web Applications Development"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Pavel Turčínek, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Ivo Pisařovic, Ph.D. (cvičící, zkoušející)Ing. Jan Turčínek, Ph.D. (cvičící, přednášející, zkoušející)Ing. Pavel Turčínek, Ph.D. (garant)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška a Databázové systémy a návrh databází"
+    },
+    {
+      "label": "1.",
+      "content": "Webové aplikace (dotace 16/16)"
+    },
+    {
+      "label": "a.",
+      "content": "Serverové skriptovací jazyky (Python), vývojové rámce a knihovny (Flask)"
+    },
+    {
+      "label": "b.",
+      "content": "Vytváření šablon"
+    },
+    {
+      "label": "c.",
+      "content": "Zpracování uživatelských dat"
+    },
+    {
+      "label": "d.",
+      "content": "Jazyk SQL – manipulace s daty"
+    },
+    {
+      "label": "e.",
+      "content": "Udržování stavu, propojení s DB systémem"
+    },
+    {
+      "label": "f.",
+      "content": "Webová aplikační rozhraní a webové služby"
+    },
+    {
+      "label": "g.",
+      "content": "Autentizace a autorizace uživatelů"
+    },
+    {
+      "label": "h.",
+      "content": "Zabezpečení"
+    },
+    {
+      "label": "2.",
+      "content": "Návrh webové aplikace (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Analýza požadavků"
+    },
+    {
+      "label": "b.",
+      "content": "Návrh funkcionality (UML)"
+    },
+    {
+      "label": "c.",
+      "content": "Návrh vzhledu aplikace (drátěné modely, informační architektura)"
+    },
+    {
+      "label": "3.",
+      "content": "HTML a Kaskádové styly (dotace 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní seznámení s technologiemi (jazyky)"
+    },
+    {
+      "label": "b.",
+      "content": "Strukturování dokumentu pomoci HTML"
+    },
+    {
+      "label": "c.",
+      "content": "Design pomocí CSS, rozložení stránky"
+    },
+    {
+      "label": "d.",
+      "content": "Pokročilé vlastnosti objektů, pozicování a plovoucí objekty"
+    },
+    {
+      "label": "e.",
+      "content": "Responsivní webdesign"
+    },
+    {
+      "label": "f.",
+      "content": "Knihovny (Bootstrap,...)"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, LS 2025/2026, ZS 2024/2025, LS 2023/2024, ZS 2023/2024, ZS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Vývoj webových aplikací"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Web Applications Development"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Pavel Turčínek, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Ivo Pisařovic, Ph.D. (cvičící, zkoušející)Ing. Jan Turčínek, Ph.D. (cvičící, přednášející, zkoušející)Ing. Pavel Turčínek, Ph.D. (garant)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a Databázové systémy a návrh databází"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaÚterý13.00-14.50Q05B-AIIB-OII. PisařovicCvičeníKaždý týden23Úterý15.00-16.50Q05B-AIIB-OII. PisařovicCvičeníKaždý týden23Úterý17.00-18.50Q05B-AIIB-OII. PisařovicCvičeníKaždý týden23Pátek7.00-8.50Q03B-AIIB-OIJ. TurčínekPřednáškaKaždý týden117Pátek9.00-10.50Q07B-AIIB-OIJ. TurčínekCvičeníKaždý týden24Pátek11.00-12.50Q07B-AIIB-OIJ. TurčínekCvičeníKaždý týden24Sobota14.00-17.50Q09B-AIIJ. TurčínekPřednáškaNepravidelně20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět shrnuje základní poznatky v oblasti tvorby webových aplikací z pohledu teoretického i praktického. Posluchači jsou seznámeni s jednotlivými aspekty tvorby webových aplikací. Důraz je kladen na vývoj webových aplikací s využitím relačních databázových systémů. Součástí kurzu je také seznámení se souvisejícími technologiemi - síťové služby, aplikační protokoly, aplikační frameworky apod."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Webové aplikace (dotace 16/16) a.Serverové skriptovací jazyky (Python), vývojové rámce a knihovny (Flask)b.Vytváření šablonc.Zpracování uživatelských datd.Jazyk SQL – manipulace s datye.Udržování stavu, propojení s DB systémemf.Webová aplikační rozhraní a webové službyg.Autentizace a autorizace uživatelůh.Zabezpečení2.Návrh webové aplikace (dotace 4/4) a.Analýza požadavkůb.Návrh funkcionality (UML)c.Návrh vzhledu aplikace (drátěné modely, informační architektura)3.HTML a Kaskádové styly (dotace 8/8) a.Základní seznámení s technologiemi (jazyky)b.Strukturování dokumentu pomoci HTMLc.Design pomocí CSS, rozložení stránkyd.Pokročilé vlastnosti objektů, pozicování a plovoucí objektye.Responsivní webdesignf.Knihovny (Bootstrap,...)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Serverové skriptovací jazyky (Python), vývojové rámce a knihovny (Flask)b.Vytváření šablonc.Zpracování uživatelských datd.Jazyk SQL – manipulace s datye.Udržování stavu, propojení s DB systémemf.Webová aplikační rozhraní a webové službyg.Autentizace a autorizace uživatelůh.Zabezpečení"
+    },
+    {
+      "label": "[section] Webové aplikace",
+      "content": "a.Serverové skriptovací jazyky (Python), vývojové rámce a knihovny (Flask)b.Vytváření šablonc.Zpracování uživatelských datd.Jazyk SQL – manipulace s datye.Udržování stavu, propojení s DB systémemf.Webová aplikační rozhraní a webové službyg.Autentizace a autorizace uživatelůh.Zabezpečení"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Analýza požadavkůb.Návrh funkcionality (UML)c.Návrh vzhledu aplikace (drátěné modely, informační architektura)"
+    },
+    {
+      "label": "[section] Návrh webové aplikace",
+      "content": "a.Analýza požadavkůb.Návrh funkcionality (UML)c.Návrh vzhledu aplikace (drátěné modely, informační architektura)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Základní seznámení s technologiemi (jazyky)b.Strukturování dokumentu pomoci HTMLc.Design pomocí CSS, rozložení stránkyd.Pokročilé vlastnosti objektů, pozicování a plovoucí objektye.Responsivní webdesignf.Knihovny (Bootstrap,...)"
+    },
+    {
+      "label": "[section] HTML a Kaskádové styly",
+      "content": "a.Základní seznámení s technologiemi (jazyky)b.Strukturování dokumentu pomoci HTMLc.Design pomocí CSS, rozložení stránkyd.Pokročilé vlastnosti objektů, pozicování a plovoucí objektye.Responsivní webdesignf.Knihovny (Bootstrap,...)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení28 h0 hseminář0 h20 hkonzultace0 h20 hpříprava na zkoušku44 h44 hzpracování projektů40 h40 hCelkem140 h140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Předmět je ukončen zkouškou, která se skládá z teoretického elektronického testu, doplněného ústním přezkoušením. Aby se studen mohl účastnit zkoušky, je nutné odevzdat projekt v řádném termínu a obhájit jej. Za obhájený projekt student obdrží malý zápočet, který jej oprávní jít ke zkoušce. Zkouška je bodována 60 body. Obhajoba projektu je také hodnocena maximálně 40 body. Zkouška může být doplněna ústním přezkoušením znalostí. Výsledná známka je součtem hodnocení z testu a hodnocení projektu (od 90 bodů hodnocení A, od 83 bodů hodnocení B, od 75 bodů hodnocení C, od 68 bodů hodnocení D od 60 bodů hodnocení E)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumVypracování semestrální práce40 %40 %Absolvování závěrečného testu60 %60 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:LÝSEK, Jiří. 2018. Vývoj webových aplikací. Brno: Mendelova Univerzita v Brně, 28 s. ISBN 978-80-7509-584-8.LÝSEK, Jiří; POPELKA, Ondřej. 2017. The Making of a Web Application. https://odinuv.cz/.WILTON, Paul; COLBY, John W. 2011. Beginning SQL. Wrox, 519 s. ISBN 978-0-764-57732-1. HTML5 a CSS3: výukový kurz webového vývojáře. 2011. 1. vyd. Brno: Computer Press, 272 s. ISBN 978-80-251-3576-1.LAVIN, Peter. 2009. PHP - objektově orientované: koncepty, techniky a kód. 1. vyd. Praha: Grada, 211 s. Průvodce. ISBN 978-80-247-2137-8.VRÁNA, Jakub. 2010. 1001 tipů a triků pro PHP. 1. vyd. Brno: Computer Press, 456 s. ISBN 978-80-251-2940-1.ZAKAS, Nicholas. 2014. The Principles of object-oriented JavaScript. San Francisco, CA: No Starch Press, 97 s. ISBN 978-1-59327-540-2.CROCKFORD, Douglas. 2008. JavaScript: The Good Parts. Sebastopol: O'Reilly Media, 172 s. ISBN 978-0-596-51774-8.PRETTYMAN, Steve. 2016. Learn PHP 7: Object Oriented Modular Programming using HTML5, CSS3, JavaScript, XML, JSON, and MySQL. New York: Apress Media, 308 s. ISBN 978-1-484217-29-0."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "LÝSEK, Jiří. 2018. Vývoj webových aplikací. Brno: Mendelova Univerzita v Brně, 28 s. ISBN 978-80-7509-584-8.LÝSEK, Jiří; POPELKA, Ondřej. 2017. The Making of a Web Application. https://odinuv.cz/.WILTON, Paul; COLBY, John W. 2011. Beginning SQL. Wrox, 519 s. ISBN 978-0-764-57732-1. HTML5 a CSS3: výukový kurz webového vývojáře. 2011. 1. vyd. Brno: Computer Press, 272 s. ISBN 978-80-251-3576-1.LAVIN, Peter. 2009. PHP - objektově orientované: koncepty, techniky a kód. 1. vyd. Praha: Grada, 211 s. Průvodce. ISBN 978-80-247-2137-8.VRÁNA, Jakub. 2010. 1001 tipů a triků pro PHP. 1. vyd. Brno: Computer Press, 456 s. ISBN 978-80-251-2940-1.ZAKAS, Nicholas. 2014. The Principles of object-oriented JavaScript. San Francisco, CA: No Starch Press, 97 s. ISBN 978-1-59327-540-2.CROCKFORD, Douglas. 2008. JavaScript: The Good Parts. Sebastopol: O'Reilly Media, 172 s. ISBN 978-0-596-51774-8.PRETTYMAN, Steve. 2016. Learn PHP 7: Object Oriented Modular Programming using HTML5, CSS3, JavaScript, XML, JSON, and MySQL. New York: Apress Media, 308 s. ISBN 978-1-484217-29-0."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-AII Administrace IS/ICT, prezenční forma, počáteční období ZS 2024/2025Program B-AII Administrace IS/ICT, kombinovaná forma, počáteční období ZS 2024/2025Program B-OI Otevřená informatika, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-VWA"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Vývoj webových aplikací"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Web Applications Development"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The class cannot be studied during foreign study stay."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Pavel Turčínek, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Ivo Pisařovic, Ph.D. (examiner, instructor)Ing. Jan Turčínek, Ph.D. (examiner, instructor, lecturer)Ing. Pavel Turčínek, Ph.D. (supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam and Database Systems and Database Design"
+    },
+    {
+      "label": "1.",
+      "content": "Web application design (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Analyze application requirements"
+    },
+    {
+      "label": "b.",
+      "content": "Functional Design (UML)"
+    },
+    {
+      "label": "c.",
+      "content": "Application design (wireframes, information architecture)"
+    },
+    {
+      "label": "2.",
+      "content": "HTML and Cascading Styles (allowance 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Introduction to HTML language, web standards"
+    },
+    {
+      "label": "b.",
+      "content": "HTML document structuring"
+    },
+    {
+      "label": "c.",
+      "content": "Css design, page layout"
+    },
+    {
+      "label": "d.",
+      "content": "Advanced object properties, positioning, and floating objects"
+    },
+    {
+      "label": "e.",
+      "content": "Responsivní webdesign"
+    },
+    {
+      "label": "f.",
+      "content": "Libraries and Extensions (Bootstrap,...)"
+    },
+    {
+      "label": "3.",
+      "content": "Web applications (allowance 16/16)"
+    },
+    {
+      "label": "a.",
+      "content": "Server scripting languages (Python), development frameworks and libraries (Flask)"
+    },
+    {
+      "label": "b.",
+      "content": "Templates creating"
+    },
+    {
+      "label": "c.",
+      "content": "Processing of user data"
+    },
+    {
+      "label": "d.",
+      "content": "SQL Language Data Manipulation"
+    },
+    {
+      "label": "e.",
+      "content": "Maintaining the state, connecting to the DB system"
+    },
+    {
+      "label": "f.",
+      "content": "Web application interfaces and web services"
+    },
+    {
+      "label": "g.",
+      "content": "User authentication and authorization"
+    },
+    {
+      "label": "h.",
+      "content": "Security"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, SS 2025/2026, WS 2024/2025, SS 2023/2024, WS 2023/2024, WS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Vývoj webových aplikací"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Web Applications Development"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The class cannot be studied during foreign study stay."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Pavel Turčínek, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Ivo Pisařovic, Ph.D. (examiner, instructor)Ing. Jan Turčínek, Ph.D. (examiner, instructor, lecturer)Ing. Pavel Turčínek, Ph.D. (supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam and Database Systems and Database Design"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityTuesday13.00-14.50Q05B-AIIB-OII. PisařovicSeminarEvery week23Tuesday15.00-16.50Q05B-AIIB-OII. PisařovicSeminarEvery week23Tuesday17.00-18.50Q05B-AIIB-OII. PisařovicSeminarEvery week23Friday7.00-8.50Q03B-AIIB-OIJ. TurčínekLectureEvery week117Friday9.00-10.50Q07B-AIIB-OIJ. TurčínekSeminarEvery week24Friday11.00-12.50Q07B-AIIB-OIJ. TurčínekSeminarEvery week24Saturday14.00-17.50Q09B-AIIJ. TurčínekLectureOccasionally20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The course aims to problems of web applications development from theoretical and especially practical point of view. Students explore various aspects of web, web technologies and possible approaches to development. Emphasis is given on development of web applications with use of relational database systems. Furthermore related technologies such as basics of network services, application protocols, application frameworks are included."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Web application design (allowance 4/4) a.Analyze application requirementsb.Functional Design (UML)c.Application design (wireframes, information architecture)2.HTML and Cascading Styles (allowance 8/8) a.Introduction to HTML language, web standardsb.HTML document structuringc.Css design, page layoutd.Advanced object properties, positioning, and floating objectse.Responsivní webdesignf.Libraries and Extensions (Bootstrap,...)3.Web applications (allowance 16/16) a.Server scripting languages (Python), development frameworks and libraries (Flask)b.Templates creatingc.Processing of user datad.SQL Language Data Manipulatione.Maintaining the state, connecting to the DB systemf.Web application interfaces and web servicesg.User authentication and authorizationh.Security"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Analyze application requirementsb.Functional Design (UML)c.Application design (wireframes, information architecture)"
+    },
+    {
+      "label": "[section] Web application design",
+      "content": "a.Analyze application requirementsb.Functional Design (UML)c.Application design (wireframes, information architecture)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Introduction to HTML language, web standardsb.HTML document structuringc.Css design, page layoutd.Advanced object properties, positioning, and floating objectse.Responsivní webdesignf.Libraries and Extensions (Bootstrap,...)"
+    },
+    {
+      "label": "[section] HTML and Cascading Styles",
+      "content": "a.Introduction to HTML language, web standardsb.HTML document structuringc.Css design, page layoutd.Advanced object properties, positioning, and floating objectse.Responsivní webdesignf.Libraries and Extensions (Bootstrap,...)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Server scripting languages (Python), development frameworks and libraries (Flask)b.Templates creatingc.Processing of user datad.SQL Language Data Manipulatione.Maintaining the state, connecting to the DB systemf.Web application interfaces and web servicesg.User authentication and authorizationh.Security"
+    },
+    {
+      "label": "[section] Web applications",
+      "content": "a.Server scripting languages (Python), development frameworks and libraries (Flask)b.Templates creatingc.Processing of user datad.SQL Language Data Manipulatione.Maintaining the state, connecting to the DB systemf.Web application interfaces and web servicesg.User authentication and authorizationh.Security"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice28 h0 hseminar0 h20 hconsultation0 h20 hpreparation for exam44 h44 helaboration and execution of projects40 h40 hTotal140 h140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "The course is completed with an exam consisting of a theoretical electronic test, supplemented by an oral examination. In order to take the exam, the student must submit the project on time and successfully defend it. A successfully defended project grants the student a small credit, which entitles them to take the exam. The exam may be supplemented by an oral knowledge test. The exam is graded with a maximum of 60 points. The project defense is also graded, with a maximum of 40 points. The final grade is the sum of the test score and the project score (90 points or more = grade A, 83 or more = grade B, 75 or more = grade C, 68 or more = grade D, 60 or more = grade E)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTerm paper40 %40 %Final test60 %60 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:LÝSEK, Jiří. 2018. Vývoj webových aplikací. Brno: Mendelova Univerzita v Brně, 28 p. ISBN 978-80-7509-584-8.LÝSEK, Jiří; POPELKA, Ondřej. 2017. The Making of a Web Application. https://odinuv.cz/.WILTON, Paul; COLBY, John W. 2011. Beginning SQL. Wrox, 519 p. ISBN 978-0-764-57732-1. HTML5 a CSS3: výukový kurz webového vývojáře. 2011. 1st ed. Brno: Computer Press, 272 p. ISBN 978-80-251-3576-1.LAVIN, Peter. 2009. PHP - objektově orientované: koncepty, techniky a kód. 1st ed. Praha: Grada, 211 p. Průvodce. ISBN 978-80-247-2137-8.VRÁNA, Jakub. 2010. 1001 tipů a triků pro PHP. 1st ed. Brno: Computer Press, 456 p. ISBN 978-80-251-2940-1.ZAKAS, Nicholas. 2014. The Principles of object-oriented JavaScript. San Francisco, CA: No Starch Press, 97 p. ISBN 978-1-59327-540-2.CROCKFORD, Douglas. 2008. JavaScript: The Good Parts. Sebastopol: O'Reilly Media, 172 p. ISBN 978-0-596-51774-8.PRETTYMAN, Steve. 2016. Learn PHP 7: Object Oriented Modular Programming using HTML5, CSS3, JavaScript, XML, JSON, and MySQL. New York: Apress Media, 308 p. ISBN 978-1-484217-29-0."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "LÝSEK, Jiří. 2018. Vývoj webových aplikací. Brno: Mendelova Univerzita v Brně, 28 p. ISBN 978-80-7509-584-8.LÝSEK, Jiří; POPELKA, Ondřej. 2017. The Making of a Web Application. https://odinuv.cz/.WILTON, Paul; COLBY, John W. 2011. Beginning SQL. Wrox, 519 p. ISBN 978-0-764-57732-1. HTML5 a CSS3: výukový kurz webového vývojáře. 2011. 1st ed. Brno: Computer Press, 272 p. ISBN 978-80-251-3576-1.LAVIN, Peter. 2009. PHP - objektově orientované: koncepty, techniky a kód. 1st ed. Praha: Grada, 211 p. Průvodce. ISBN 978-80-247-2137-8.VRÁNA, Jakub. 2010. 1001 tipů a triků pro PHP. 1st ed. Brno: Computer Press, 456 p. ISBN 978-80-251-2940-1.ZAKAS, Nicholas. 2014. The Principles of object-oriented JavaScript. San Francisco, CA: No Starch Press, 97 p. ISBN 978-1-59327-540-2.CROCKFORD, Douglas. 2008. JavaScript: The Good Parts. Sebastopol: O'Reilly Media, 172 p. ISBN 978-0-596-51774-8.PRETTYMAN, Steve. 2016. Learn PHP 7: Object Oriented Modular Programming using HTML5, CSS3, JavaScript, XML, JSON, and MySQL. New York: Apress Media, 308 p. ISBN 978-1-484217-29-0."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-AII Administration IS/ICT, full-time form, initial period WS 2024/2025Programme B-AII Administration IS/ICT, part-time form, initial period WS 2024/2025Programme B-OI Open Informatics, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:46:49",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

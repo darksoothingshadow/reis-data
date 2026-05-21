@@ -1,0 +1,609 @@
+{
+  "courseCode": "EBC-ZTP",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-ZTP"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Zpracování textů na počítači"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Computer Text Processing"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský; magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Dr. Ing. Jiří Rybička"
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Pavel Haluza, Ph.D. (cvičící, tutor, zkoušející)doc. Dr. Ing. Jiří Rybička (garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Dokument a metody jeho zpracování (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Princip dokumentních prvků, jejich identifikace a zpracování"
+    },
+    {
+      "label": "b.",
+      "content": "Typografický návrh prvků"
+    },
+    {
+      "label": "c.",
+      "content": "Technologie strukturního značkování"
+    },
+    {
+      "label": "d.",
+      "content": "Principy realizace strukturního značkování na bázi TeXu a na bázi interaktivních kancelářských systémů"
+    },
+    {
+      "label": "2.",
+      "content": "Typografické vlastnosti dokumentu a jejich realizace (dotace 10/10)"
+    },
+    {
+      "label": "a.",
+      "content": "Písma, klasifikace, možnosti využití"
+    },
+    {
+      "label": "b.",
+      "content": "Hladká sazba: speciální znaky, jazyková pravidla, technické řešení"
+    },
+    {
+      "label": "c.",
+      "content": "Smíšená sazba, písmové rodiny, využití a realizace písmových řezů a stupňů"
+    },
+    {
+      "label": "d.",
+      "content": "Odstavcová sazba, parametry, odstavcové prvky, realizace"
+    },
+    {
+      "label": "3.",
+      "content": "Prvky odborných dokumentů (dotace 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Matematické, fyzikální a chemické výrazy; realizace"
+    },
+    {
+      "label": "b.",
+      "content": "Pořadová sazba, tabulky"
+    },
+    {
+      "label": "c.",
+      "content": "Grafické prvky -- obrázky, schémata, grafy"
+    },
+    {
+      "label": "d.",
+      "content": "Barvy, barevná schémata, doplňkové prvky dokumentů"
+    },
+    {
+      "label": "4.",
+      "content": "Technologické nástroje (dotace 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Práce s číselnými prvky, křížové reference, obsahy, rejstříky, bibliografické citace"
+    },
+    {
+      "label": "b.",
+      "content": "Automatizace sazby (makropříkazy pro různé dokumentní prvky; tabulky, grafy apod.), šablony, styly"
+    },
+    {
+      "label": "c.",
+      "content": "Využití připravených šablon pro odborné a závěrečné práce"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "50 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "50 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, ZS 2022/2023, LS 2021/2022, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Zpracování textů na počítači"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Computer Text Processing"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský; magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Dr. Ing. Jiří Rybička"
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Pavel Haluza, Ph.D. (cvičící, tutor, zkoušející)doc. Dr. Ing. Jiří Rybička (garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek11.00-12.50Q06J. RybičkaPřednáškaKaždý týden20Čtvrtek13.00-14.50Q06P. HaluzaCvičeníKaždý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět poskytuje studentům přehled v nejrozšířenější aplikační oblasti -- zpracování textu všech druhu pomocí počítače. Získané vědomosti a dovednosti mohou studenti široce využít již po dobu studia při vytváření a úpravě různých dokumentů, od jednoduchých seminárních prací až po bakalářské a diplomové práce."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Dokument a metody jeho zpracování (dotace 4/4) a.Princip dokumentních prvků, jejich identifikace a zpracováníb.Typografický návrh prvkůc.Technologie strukturního značkováníd.Principy realizace strukturního značkování na bázi TeXu a na bázi interaktivních kancelářských systémů2.Typografické vlastnosti dokumentu a jejich realizace (dotace 10/10) a.Písma, klasifikace, možnosti využitíb.Hladká sazba: speciální znaky, jazyková pravidla, technické řešeníc.Smíšená sazba, písmové rodiny, využití a realizace písmových řezů a stupňůd.Odstavcová sazba, parametry, odstavcové prvky, realizace3.Prvky odborných dokumentů (dotace 8/8) a.Matematické, fyzikální a chemické výrazy; realizaceb.Pořadová sazba, tabulkyc.Grafické prvky -- obrázky, schémata, grafyd.Barvy, barevná schémata, doplňkové prvky dokumentů4.Technologické nástroje (dotace 6/6) a.Práce s číselnými prvky, křížové reference, obsahy, rejstříky, bibliografické citaceb.Automatizace sazby (makropříkazy pro různé dokumentní prvky; tabulky, grafy apod.), šablony, stylyc.Využití připravených šablon pro odborné a závěrečné práce"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Princip dokumentních prvků, jejich identifikace a zpracováníb.Typografický návrh prvkůc.Technologie strukturního značkováníd.Principy realizace strukturního značkování na bázi TeXu a na bázi interaktivních kancelářských systémů"
+    },
+    {
+      "label": "[section] Dokument a metody jeho zpracování",
+      "content": "a.Princip dokumentních prvků, jejich identifikace a zpracováníb.Typografický návrh prvkůc.Technologie strukturního značkováníd.Principy realizace strukturního značkování na bázi TeXu a na bázi interaktivních kancelářských systémů"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Písma, klasifikace, možnosti využitíb.Hladká sazba: speciální znaky, jazyková pravidla, technické řešeníc.Smíšená sazba, písmové rodiny, využití a realizace písmových řezů a stupňůd.Odstavcová sazba, parametry, odstavcové prvky, realizace"
+    },
+    {
+      "label": "[section] Typografické vlastnosti dokumentu a jejich realizace",
+      "content": "a.Písma, klasifikace, možnosti využitíb.Hladká sazba: speciální znaky, jazyková pravidla, technické řešeníc.Smíšená sazba, písmové rodiny, využití a realizace písmových řezů a stupňůd.Odstavcová sazba, parametry, odstavcové prvky, realizace"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Matematické, fyzikální a chemické výrazy; realizaceb.Pořadová sazba, tabulkyc.Grafické prvky -- obrázky, schémata, grafyd.Barvy, barevná schémata, doplňkové prvky dokumentů"
+    },
+    {
+      "label": "[section] Prvky odborných dokumentů",
+      "content": "a.Matematické, fyzikální a chemické výrazy; realizaceb.Pořadová sazba, tabulkyc.Grafické prvky -- obrázky, schémata, grafyd.Barvy, barevná schémata, doplňkové prvky dokumentů"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Práce s číselnými prvky, křížové reference, obsahy, rejstříky, bibliografické citaceb.Automatizace sazby (makropříkazy pro různé dokumentní prvky; tabulky, grafy apod.), šablony, stylyc.Využití připravených šablon pro odborné a závěrečné práce"
+    },
+    {
+      "label": "[section] Technologické nástroje",
+      "content": "a.Práce s číselnými prvky, křížové reference, obsahy, rejstříky, bibliografické citaceb.Automatizace sazby (makropříkazy pro různé dokumentní prvky; tabulky, grafy apod.), šablony, stylyc.Využití připravených šablon pro odborné a závěrečné práce"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hkonzultace0 hpříprava na zkoušku28 hpříprava na průběžný test28 hCelkem112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Studenti předmět úspěšně ukončí, získají-li alespoň 60 bodů z průběžných testů a závěrečné zkoušky z celkových 100 bodů. Žádná z uvedených aktivit nemá stanoveno povinné dílčí minimum. Průběžné testy ověřují praktické dovednosti v oblasti sazby textů systémem TeX/XeLaTeX (50 bodů). Během těchto testů lze používat originální výtisk učebnice LaTeX pro začátečníky. Na každý průběžný test je jeden řádný a jeden opravný termín. Závěrečná zkouška zahrnuje e-test v UIS a písemný úkol ověřující schopnost korektury textu. Za obě části je možné získat 50 bodů. Celkové hodnocení je dáno součtem výsledků z průběžných testů a závěrečné zkoušky: A (alespoň 90 bodů), B (83 bodů), C (75 bodů), D (68 bodů), E (60 bodů). V případě podvodného jednání bude student ohodnocen stupněm F a bude podán podnět k zahájení disciplinárního řízení."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAbsolvování průběžného testu (testů)50 %Absolvování závěrečného testu50 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:RYBIČKA, Jiří; ČAČKOVÁ, Petra; PŘICHYSTAL, Jan. 2011. Průvodce tvorbou dokumentů. 1. vyd. Bučovice: Martin Stříž, 224 s. ISBN 978-80-87106-43-3.RYBIČKA, Jiří. 2003. LATEX pro začátečníky. 3. vyd. Brno: Konvoj, 238 s. ISBN 80-7302-049-1.Doporučená:BERAN, Vladimír a kol. 2007. Aktualizovaný typografický manuál. 5. vyd. Praha: Kafka design, 1 s.KOČIČKA, Pavel; BLAŽEK, Filip. 2004. Praktická typografie. Brno: Computer Press, 288 s. ISBN 80-251-0232-7.LOZAN, Petr; PRAVDOVÁ, Markéta. 2014. ČSN 01 6910 -- Úprava písemností zpracovaných textovými editory. Praha: Český normalizační institut, 78 s."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "RYBIČKA, Jiří; ČAČKOVÁ, Petra; PŘICHYSTAL, Jan. 2011. Průvodce tvorbou dokumentů. 1. vyd. Bučovice: Martin Stříž, 224 s. ISBN 978-80-87106-43-3.RYBIČKA, Jiří. 2003. LATEX pro začátečníky. 3. vyd. Brno: Konvoj, 238 s. ISBN 80-7302-049-1."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "BERAN, Vladimír a kol. 2007. Aktualizovaný typografický manuál. 5. vyd. Praha: Kafka design, 1 s.KOČIČKA, Pavel; BLAŽEK, Filip. 2004. Praktická typografie. Brno: Computer Press, 288 s. ISBN 80-251-0232-7.LOZAN, Petr; PRAVDOVÁ, Markéta. 2014. ČSN 01 6910 -- Úprava písemností zpracovaných textovými editory. Praha: Český normalizační institut, 78 s."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-ZTP"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Zpracování textů na počítači"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Computer Text Processing"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor; master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course cannot be studied during the study foreign internship."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Dr. Ing. Jiří Rybička"
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Pavel Haluza, Ph.D. (examiner, instructor, tutor)doc. Dr. Ing. Jiří Rybička (examiner, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Document and methods of its processing (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic document elements, identification, processing"
+    },
+    {
+      "label": "b.",
+      "content": "Typographic proposal of document elements"
+    },
+    {
+      "label": "c.",
+      "content": "Technology of structured markup"
+    },
+    {
+      "label": "d.",
+      "content": "Principles of document processing based on TeX and based on interactive office systems"
+    },
+    {
+      "label": "2.",
+      "content": "Typographic properties and its realization (allowance 10/10)"
+    },
+    {
+      "label": "a.",
+      "content": "Fonts, classification, purpose"
+    },
+    {
+      "label": "b.",
+      "content": "Basic typesetting: special characters, language rules, technical solution"
+    },
+    {
+      "label": "c.",
+      "content": "Mixed typesetting: font families, purpose of font shapes and sizes"
+    },
+    {
+      "label": "d.",
+      "content": "Paragraph typesetting, parameters, paragraph elements and their processing"
+    },
+    {
+      "label": "3.",
+      "content": "Elements of scientific documents (allowance 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Math, physics and chemical expressions and its realization"
+    },
+    {
+      "label": "b.",
+      "content": "Vertical aligning, tables"
+    },
+    {
+      "label": "c.",
+      "content": "Graphics elements -- pictures, schemas, graphs"
+    },
+    {
+      "label": "d.",
+      "content": "Colours, schemas, additional document elements"
+    },
+    {
+      "label": "4.",
+      "content": "Technological tools (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Numbered elements, cross references, tables of contents, registers, bibliographic citations"
+    },
+    {
+      "label": "b.",
+      "content": "Automatization of typesetting (macros for various document elements -- tables, graphs etc.), templates, styles"
+    },
+    {
+      "label": "c.",
+      "content": "Predefined templates for scientific and final theses and its processing"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "50 %"
+    },
+    {
+      "label": "Final test",
+      "content": "50 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, WS 2022/2023, SS 2021/2022, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Zpracování textů na počítači"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Computer Text Processing"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor; master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course cannot be studied during the study foreign internship."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Dr. Ing. Jiří Rybička"
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Pavel Haluza, Ph.D. (examiner, instructor, tutor)doc. Dr. Ing. Jiří Rybička (examiner, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday11.00-12.50Q06J. RybičkaLectureEvery week20Thursday13.00-14.50Q06P. HaluzaSeminarEvery week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The course gives overview over the most widespread application field -- text processing on computers. Students can use the knowledge for design and creation of various types of documents -- from simple seminar project to their diploma."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Document and methods of its processing (allowance 4/4) a.Basic document elements, identification, processingb.Typographic proposal of document elementsc.Technology of structured markupd.Principles of document processing based on TeX and based on interactive office systems2.Typographic properties and its realization (allowance 10/10) a.Fonts, classification, purposeb.Basic typesetting: special characters, language rules, technical solutionc.Mixed typesetting: font families, purpose of font shapes and sizesd.Paragraph typesetting, parameters, paragraph elements and their processing3.Elements of scientific documents (allowance 8/8) a.Math, physics and chemical expressions and its realizationb.Vertical aligning, tablesc.Graphics elements -- pictures, schemas, graphsd.Colours, schemas, additional document elements4.Technological tools (allowance 6/6) a.Numbered elements, cross references, tables of contents, registers, bibliographic citationsb.Automatization of typesetting (macros for various document elements -- tables, graphs etc.), templates, stylesc.Predefined templates for scientific and final theses and its processing"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Basic document elements, identification, processingb.Typographic proposal of document elementsc.Technology of structured markupd.Principles of document processing based on TeX and based on interactive office systems"
+    },
+    {
+      "label": "[section] Document and methods of its processing",
+      "content": "a.Basic document elements, identification, processingb.Typographic proposal of document elementsc.Technology of structured markupd.Principles of document processing based on TeX and based on interactive office systems"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Fonts, classification, purposeb.Basic typesetting: special characters, language rules, technical solutionc.Mixed typesetting: font families, purpose of font shapes and sizesd.Paragraph typesetting, parameters, paragraph elements and their processing"
+    },
+    {
+      "label": "[section] Typographic properties and its realization",
+      "content": "a.Fonts, classification, purposeb.Basic typesetting: special characters, language rules, technical solutionc.Mixed typesetting: font families, purpose of font shapes and sizesd.Paragraph typesetting, parameters, paragraph elements and their processing"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Math, physics and chemical expressions and its realizationb.Vertical aligning, tablesc.Graphics elements -- pictures, schemas, graphsd.Colours, schemas, additional document elements"
+    },
+    {
+      "label": "[section] Elements of scientific documents",
+      "content": "a.Math, physics and chemical expressions and its realizationb.Vertical aligning, tablesc.Graphics elements -- pictures, schemas, graphsd.Colours, schemas, additional document elements"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Numbered elements, cross references, tables of contents, registers, bibliographic citationsb.Automatization of typesetting (macros for various document elements -- tables, graphs etc.), templates, stylesc.Predefined templates for scientific and final theses and its processing"
+    },
+    {
+      "label": "[section] Technological tools",
+      "content": "a.Numbered elements, cross references, tables of contents, registers, bibliographic citationsb.Automatization of typesetting (macros for various document elements -- tables, graphs etc.), templates, stylesc.Predefined templates for scientific and final theses and its processing"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hconsultation0 hpreparation for exam28 hpreparation for regular testing28 hTotal112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Students will pass the course after collecting at least 60 points in sum of ongoing tests and final exam out of 100 points. None of these activities has a minimum partial limit required. Ongoing tests verify practical skills in the filed of typesetting with TeX/XeLaTeX (50 points). An original copy of the textbook can be used during these tests. There is one repair possibility for each test. The exam consists of e-test and proof of the ability to correct text. It is evaluated by 50 points. The final evaluation is given by the sum of ongoing tests and final exam: A (at least 90 points), B (83 points), C (75 points), D (68 points), E (60 points). In the case of fraudulent conduct, student will be graded F and disciplinary proceedings will be initiated."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceMid-term test(s)50 %Final test50 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:RYBIČKA, Jiří; ČAČKOVÁ, Petra; PŘICHYSTAL, Jan. 2011. Průvodce tvorbou dokumentů. 1st ed. Bučovice: Martin Stříž, 224 p. ISBN 978-80-87106-43-3.RYBIČKA, Jiří. 2003. LATEX pro začátečníky. 3rd ed. Brno: Konvoj, 238 p. ISBN 80-7302-049-1.Recommended:BERAN, Vladimír et al. 2007. Aktualizovaný typografický manuál. 5th ed. Praha: Kafka design, 1 p.KOČIČKA, Pavel; BLAŽEK, Filip. 2004. Praktická typografie. Brno: Computer Press, 288 p. ISBN 80-251-0232-7.LOZAN, Petr; PRAVDOVÁ, Markéta. 2014. ČSN 01 6910 -- Úprava písemností zpracovaných textovými editory. Praha: Český normalizační institut, 78 p."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "RYBIČKA, Jiří; ČAČKOVÁ, Petra; PŘICHYSTAL, Jan. 2011. Průvodce tvorbou dokumentů. 1st ed. Bučovice: Martin Stříž, 224 p. ISBN 978-80-87106-43-3.RYBIČKA, Jiří. 2003. LATEX pro začátečníky. 3rd ed. Brno: Konvoj, 238 p. ISBN 80-7302-049-1."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "BERAN, Vladimír et al. 2007. Aktualizovaný typografický manuál. 5th ed. Praha: Kafka design, 1 p.KOČIČKA, Pavel; BLAŽEK, Filip. 2004. Praktická typografie. Brno: Computer Press, 288 p. ISBN 80-251-0232-7.LOZAN, Petr; PRAVDOVÁ, Markéta. 2014. ČSN 01 6910 -- Úprava písemností zpracovaných textovými editory. Praha: Český normalizační institut, 78 p."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:47:22",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

@@ -1,0 +1,665 @@
+{
+  "courseCode": "ENC-VGA",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENC-VGA"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Vývoj grafických aplikací"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Graphic Application Development"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Kurz může být studován v průběhu zahraničního výjezdu. Je nutné kontaktovat vyučujícího pro nastavení termínů písemných zkoušek a režimu studia."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. David Procházka, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Nicolas Nguyen (tutor)Ing. Ivo Pisařovic, Ph.D. (cvičící, přednášející, zkoušející)Ing. David Procházka, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do programování grafických aplikací (dotace 4/8)"
+    },
+    {
+      "label": "a.",
+      "content": "vykreslovací řetězec, architektura moderního grafického hardwaru"
+    },
+    {
+      "label": "b.",
+      "content": "struktura grafických aplikací, srovnání grafických API s důrazem na OpenGL"
+    },
+    {
+      "label": "c.",
+      "content": "vykreslování základních grafických primitiv, práce s vrcholy"
+    },
+    {
+      "label": "d.",
+      "content": "vertex a pixel shadery"
+    },
+    {
+      "label": "e.",
+      "content": "grafické knihovny a práce s modely"
+    },
+    {
+      "label": "2.",
+      "content": "Geometrické transformace (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "matematické základy geometrických transformací"
+    },
+    {
+      "label": "b.",
+      "content": "ortografická a perspektivní projekce"
+    },
+    {
+      "label": "c.",
+      "content": "skládání transformací"
+    },
+    {
+      "label": "3.",
+      "content": "Osvětlování a textury (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "ambientní, difůzní, zrcadlové a vyzářené světlo, vytváření zdrojů světla"
+    },
+    {
+      "label": "b.",
+      "content": "definice materiálových vlastností povrchů"
+    },
+    {
+      "label": "c.",
+      "content": "typy textur, multitexturování"
+    },
+    {
+      "label": "4.",
+      "content": "Programování grafických aplikací pro web (dotace 4/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Standard WebGL"
+    },
+    {
+      "label": "b.",
+      "content": "Knihovny pro rychlý vývoj webových aplikací"
+    },
+    {
+      "label": "c.",
+      "content": "Rozšířená a virtuální realita ve webovém prostředí"
+    },
+    {
+      "label": "5.",
+      "content": "Vysokoúrovňový návrh grafických aplikací (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Enginy pro tvorbu her s důrazem na Unreal Engine a jazyk Blueprint"
+    },
+    {
+      "label": "b.",
+      "content": "Příprava modelů, nastavení scény"
+    },
+    {
+      "label": "c.",
+      "content": "Skriptování funkcionality aplikace"
+    },
+    {
+      "label": "d.",
+      "content": "Nastavení enginu pro virtuální/rozšířenou realitu"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "40 %"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "20 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "40 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Vývoj grafických aplikací"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Graphic Application Development"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Kurz může být studován v průběhu zahraničního výjezdu. Je nutné kontaktovat vyučujícího pro nastavení termínů písemných zkoušek a režimu studia."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. David Procházka, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Nicolas Nguyen (tutor)Ing. Ivo Pisařovic, Ph.D. (cvičící, přednášející, zkoušející)Ing. David Procházka, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaČtvrtek9.00-10.50Q16N-OID. Procházka, I. PisařovicPřednáškaSudý týden80Čtvrtek15.00-16.50Q12N-OID. Procházka, I. PisařovicCvičeníKaždý týden19Čtvrtek17.00-18.50Q12N-OID. Procházka, I. PisařovicCvičeníKaždý týden19"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Student se v rámci kurzu naučí samostatně vytvářet aplikace za pomoci grafických knihoven i nízkoúrovňových API. V rámci kurzu student získá teoretické základy nezbytné pro tvorbu grafických aplikací: principy programování grafických karet, související matematické základy. Dále získá praktické dovednosti programování prostřednictvím různých technologií pro všechny běžné platformy (mobilní, webové, vestavěné i desktopové systémy)."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do programování grafických aplikací (dotace 4/8) a.vykreslovací řetězec, architektura moderního grafického hardwarub.struktura grafických aplikací, srovnání grafických API s důrazem na OpenGLc.vykreslování základních grafických primitiv, práce s vrcholyd.vertex a pixel shaderye.grafické knihovny a práce s modely2.Geometrické transformace (dotace 2/4) a.matematické základy geometrických transformacíb.ortografická a perspektivní projekcec.skládání transformací3.Osvětlování a textury (dotace 2/4) a.ambientní, difůzní, zrcadlové a vyzářené světlo, vytváření zdrojů světlab.definice materiálových vlastností povrchůc.typy textur, multitexturování4.Programování grafických aplikací pro web (dotace 4/6) a.Standard WebGLb.Knihovny pro rychlý vývoj webových aplikacíc.Rozšířená a virtuální realita ve webovém prostředí5.Vysokoúrovňový návrh grafických aplikací (dotace 2/6) a.Enginy pro tvorbu her s důrazem na Unreal Engine a jazyk Blueprintb.Příprava modelů, nastavení scényc.Skriptování funkcionality aplikaced.Nastavení enginu pro virtuální/rozšířenou realitu"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.vykreslovací řetězec, architektura moderního grafického hardwarub.struktura grafických aplikací, srovnání grafických API s důrazem na OpenGLc.vykreslování základních grafických primitiv, práce s vrcholyd.vertex a pixel shaderye.grafické knihovny a práce s modely"
+    },
+    {
+      "label": "[section] Úvod do programování grafických aplikací",
+      "content": "a.vykreslovací řetězec, architektura moderního grafického hardwarub.struktura grafických aplikací, srovnání grafických API s důrazem na OpenGLc.vykreslování základních grafických primitiv, práce s vrcholyd.vertex a pixel shaderye.grafické knihovny a práce s modely"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.matematické základy geometrických transformacíb.ortografická a perspektivní projekcec.skládání transformací"
+    },
+    {
+      "label": "[section] Geometrické transformace",
+      "content": "a.matematické základy geometrických transformacíb.ortografická a perspektivní projekcec.skládání transformací"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.ambientní, difůzní, zrcadlové a vyzářené světlo, vytváření zdrojů světlab.definice materiálových vlastností povrchůc.typy textur, multitexturování"
+    },
+    {
+      "label": "[section] Osvětlování a textury",
+      "content": "a.ambientní, difůzní, zrcadlové a vyzářené světlo, vytváření zdrojů světlab.definice materiálových vlastností povrchůc.typy textur, multitexturování"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Standard WebGLb.Knihovny pro rychlý vývoj webových aplikacíc.Rozšířená a virtuální realita ve webovém prostředí"
+    },
+    {
+      "label": "[section] Programování grafických aplikací pro web",
+      "content": "a.Standard WebGLb.Knihovny pro rychlý vývoj webových aplikacíc.Rozšířená a virtuální realita ve webovém prostředí"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Enginy pro tvorbu her s důrazem na Unreal Engine a jazyk Blueprintb.Příprava modelů, nastavení scényc.Skriptování funkcionality aplikaced.Nastavení enginu pro virtuální/rozšířenou realitu"
+    },
+    {
+      "label": "[section] Vysokoúrovňový návrh grafických aplikací",
+      "content": "a.Enginy pro tvorbu her s důrazem na Unreal Engine a jazyk Blueprintb.Příprava modelů, nastavení scényc.Skriptování funkcionality aplikaced.Nastavení enginu pro virtuální/rozšířenou realitu"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení28 hpříprava na zkoušku24 hpříprava na průběžný test20 hzpracování projektů54 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "V průběhu semestru může student za různé aktivity získat celkem až 100 bodů. 20 bodů získá za průběžný test (implementace grafické aplikace), 40 bodů za semestrální zkoušku (ověřování teorie i implementace principů) a 40 bodů za projekt. Pokud získá 60 bodů a více má hodnocení E, 68 bodů a více D, 75 bodů a více C, 83 bodů a více B a 90 bodů a více A. Na průběžný test a obhajobu projektu je jeden řádný termín. Při písemných pracech je zakázáno jakoukoliv formou komunikovat s jinými lidmi, využívat umělou inteligenci, nebo jakkoliv jinak sdílet zadání písemných prací nebo jejich částí."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumVypracování semestrální práce40 %Absolvování průběžného testu (testů)20 %Absolvování závěrečného testu40 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:KHRONOS, Group. 2017. OpenGL API documentation. https://www.khronos.org/opengl/.HAWKINS, Kevin; BENSTEAD, Luke; ASTLE, Dave. 2009. Beginning OpenGL: Game Programming Second Edition. USA: Course Technology PTR, 290 s. ISBN 1-59863-528-X.Doporučená:SHREINER, Dave; SELLERS, Graham; KESSENICH, John. 2016. OpenGL Programming Guide: The Official Guide to Learning OpenGL, Version 4.5 with SPIR-V (9th Edition). USA: Addison-Wesley Professional, 976 s. ISBN 01-344954-9-7.MATSUDA, Kouichi. 2013. WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL (OpenGL). Boston: Addison-Wesley Professional, 600 s. ISBN 978-0-3219-0292-4.MOZILLA WebGL: 2D and 3D graphics for the web. [online]. 2019. URL: https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/"
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "KHRONOS, Group. 2017. OpenGL API documentation. https://www.khronos.org/opengl/.HAWKINS, Kevin; BENSTEAD, Luke; ASTLE, Dave. 2009. Beginning OpenGL: Game Programming Second Edition. USA: Course Technology PTR, 290 s. ISBN 1-59863-528-X."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "SHREINER, Dave; SELLERS, Graham; KESSENICH, John. 2016. OpenGL Programming Guide: The Official Guide to Learning OpenGL, Version 4.5 with SPIR-V (9th Edition). USA: Addison-Wesley Professional, 976 s. ISBN 01-344954-9-7.MATSUDA, Kouichi. 2013. WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL (OpenGL). Boston: Addison-Wesley Professional, 600 s. ISBN 978-0-3219-0292-4.MOZILLA WebGL: 2D and 3D graphics for the web. [online]. 2019. URL: https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Zaměření ZNOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období ZS 2024/2025Zaměření ZNOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období LS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENC-VGA"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Vývoj grafických aplikací"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Graphic Application Development"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course can be studied by mobility students abroad. It is necessary to contact the teacher to set up the dates of written exams and study mode."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. David Procházka, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Nicolas Nguyen (tutor)Ing. Ivo Pisařovic, Ph.D. (examiner, instructor, lecturer)Ing. David Procházka, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to development of applications with GUI (allowance 4/8)"
+    },
+    {
+      "label": "a.",
+      "content": "rendering pipeline, structure of modern graphics hardware"
+    },
+    {
+      "label": "b.",
+      "content": "structure of graphical applications, comparison of graphical APIs"
+    },
+    {
+      "label": "c.",
+      "content": "rendering of basic primitives, vertices"
+    },
+    {
+      "label": "d.",
+      "content": "vertex and pixel shaders"
+    },
+    {
+      "label": "e.",
+      "content": "graphics libraries and work with models"
+    },
+    {
+      "label": "2.",
+      "content": "Geometrical transformations (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "mathematical foundations of geometrical transformations"
+    },
+    {
+      "label": "b.",
+      "content": "orthographic and perspective transformation"
+    },
+    {
+      "label": "c.",
+      "content": "composition of transformations"
+    },
+    {
+      "label": "3.",
+      "content": "Lighting and texture mapping (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "ambient, diffuse, specular and emissive light"
+    },
+    {
+      "label": "b.",
+      "content": "defining material properties"
+    },
+    {
+      "label": "c.",
+      "content": "kinds of textures, multitexturing"
+    },
+    {
+      "label": "4.",
+      "content": "Web application development (allowance 4/6)"
+    },
+    {
+      "label": "a.",
+      "content": "WebGL standard"
+    },
+    {
+      "label": "b.",
+      "content": "Libraries for fast web application development"
+    },
+    {
+      "label": "c.",
+      "content": "Augmented and virtual reality in web environment"
+    },
+    {
+      "label": "5.",
+      "content": "Hi-level design of graphical applications (allowance 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "game engines with emphasis on Unreal Engine and Blueprint language"
+    },
+    {
+      "label": "b.",
+      "content": "model preparation and scene settings"
+    },
+    {
+      "label": "c.",
+      "content": "scripting the game functionality"
+    },
+    {
+      "label": "d.",
+      "content": "usage of the engine for augmented and virtual reality applications"
+    },
+    {
+      "label": "Term paper",
+      "content": "40 %"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "20 %"
+    },
+    {
+      "label": "Final test",
+      "content": "40 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Vývoj grafických aplikací"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Graphic Application Development"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course can be studied by mobility students abroad. It is necessary to contact the teacher to set up the dates of written exams and study mode."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. David Procházka, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Nicolas Nguyen (tutor)Ing. Ivo Pisařovic, Ph.D. (examiner, instructor, lecturer)Ing. David Procházka, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityThursday9.00-10.50Q16N-OID. Procházka, I. PisařovicLectureEven week80Thursday15.00-16.50Q12N-OID. Procházka, I. PisařovicSeminarEvery week19Thursday17.00-18.50Q12N-OID. Procházka, I. PisařovicSeminarEvery week19"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Students will learn how to create applications using graphics libraries and low-level APIs. In the course, the student will acquire the theoretical foundations necessary for creating graphics applications: principles of graphics card programming, related mathematical foundations. He/she will also acquire practical programming skills through the application of various technologies for development for all common platforms (mobile, web, embedded and desktop systems)."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to development of applications with GUI (allowance 4/8) a.rendering pipeline, structure of modern graphics hardwareb.structure of graphical applications, comparison of graphical APIsc.rendering of basic primitives, verticesd.vertex and pixel shaderse.graphics libraries and work with models2.Geometrical transformations (allowance 2/4) a.mathematical foundations of geometrical transformationsb.orthographic and perspective transformationc.composition of transformations3.Lighting and texture mapping (allowance 2/4) a.ambient, diffuse, specular and emissive lightb.defining material propertiesc.kinds of textures, multitexturing4.Web application development (allowance 4/6) a.WebGL standardb.Libraries for fast web application developmentc.Augmented and virtual reality in web environment5.Hi-level design of graphical applications (allowance 2/6) a.game engines with emphasis on Unreal Engine and Blueprint languageb.model preparation and scene settingsc.scripting the game functionalityd.usage of the engine for augmented and virtual reality applications"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.rendering pipeline, structure of modern graphics hardwareb.structure of graphical applications, comparison of graphical APIsc.rendering of basic primitives, verticesd.vertex and pixel shaderse.graphics libraries and work with models"
+    },
+    {
+      "label": "[section] Introduction to development of applications with GUI",
+      "content": "a.rendering pipeline, structure of modern graphics hardwareb.structure of graphical applications, comparison of graphical APIsc.rendering of basic primitives, verticesd.vertex and pixel shaderse.graphics libraries and work with models"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.mathematical foundations of geometrical transformationsb.orthographic and perspective transformationc.composition of transformations"
+    },
+    {
+      "label": "[section] Geometrical transformations",
+      "content": "a.mathematical foundations of geometrical transformationsb.orthographic and perspective transformationc.composition of transformations"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.ambient, diffuse, specular and emissive lightb.defining material propertiesc.kinds of textures, multitexturing"
+    },
+    {
+      "label": "[section] Lighting and texture mapping",
+      "content": "a.ambient, diffuse, specular and emissive lightb.defining material propertiesc.kinds of textures, multitexturing"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.WebGL standardb.Libraries for fast web application developmentc.Augmented and virtual reality in web environment"
+    },
+    {
+      "label": "[section] Web application development",
+      "content": "a.WebGL standardb.Libraries for fast web application developmentc.Augmented and virtual reality in web environment"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.game engines with emphasis on Unreal Engine and Blueprint languageb.model preparation and scene settingsc.scripting the game functionalityd.usage of the engine for augmented and virtual reality applications"
+    },
+    {
+      "label": "[section] Hi-level design of graphical applications",
+      "content": "a.game engines with emphasis on Unreal Engine and Blueprint languageb.model preparation and scene settingsc.scripting the game functionalityd.usage of the engine for augmented and virtual reality applications"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice28 hpreparation for exam24 hpreparation for regular testing20 helaboration and execution of projects54 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "During the course, a student can gain 100 points. For a test, he/she gain 20 points, for exam 40 points and project 40 points. For successful accomplishment (grade E), it is necessary to have at least 60 points. Grade D is for 68 points, C is for 75 points, B is for 83 points and A grade is for 90 points or more. The exam is composed of theoretical questions and implementation tasks. There is one regular sit for test and project. It is prohibited to communicate in any form with other people, using artificial intelligence, or otherwise share the assignment or its parts during the tests and exams."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTerm paper40 %Mid-term test(s)20 %Final test40 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:KHRONOS, Group. 2017. OpenGL API documentation. https://www.khronos.org/opengl/.HAWKINS, Kevin; BENSTEAD, Luke; ASTLE, Dave. 2009. Beginning OpenGL: Game Programming Second Edition. USA: Course Technology PTR, 290 p. ISBN 1-59863-528-X.Recommended:SHREINER, Dave; SELLERS, Graham; KESSENICH, John. 2016. OpenGL Programming Guide: The Official Guide to Learning OpenGL, Version 4.5 with SPIR-V (9th Edition). USA: Addison-Wesley Professional, 976 p. ISBN 01-344954-9-7.MATSUDA, Kouichi. 2013. WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL (OpenGL). Boston: Addison-Wesley Professional, 600 p. ISBN 978-0-3219-0292-4.MOZILLA WebGL: 2D and 3D graphics for the web. [online]. 2019. URL: https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/"
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "KHRONOS, Group. 2017. OpenGL API documentation. https://www.khronos.org/opengl/.HAWKINS, Kevin; BENSTEAD, Luke; ASTLE, Dave. 2009. Beginning OpenGL: Game Programming Second Edition. USA: Course Technology PTR, 290 p. ISBN 1-59863-528-X."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "SHREINER, Dave; SELLERS, Graham; KESSENICH, John. 2016. OpenGL Programming Guide: The Official Guide to Learning OpenGL, Version 4.5 with SPIR-V (9th Edition). USA: Addison-Wesley Professional, 976 p. ISBN 01-344954-9-7.MATSUDA, Kouichi. 2013. WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL (OpenGL). Boston: Addison-Wesley Professional, 600 p. ISBN 978-0-3219-0292-4.MOZILLA WebGL: 2D and 3D graphics for the web. [online]. 2019. URL: https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Scope ZNOI Scope for Open Informatics, full-time form, initial period WS 2024/2025Scope ZNOI Scope for Open Informatics, full-time form, initial period SS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:01:58",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

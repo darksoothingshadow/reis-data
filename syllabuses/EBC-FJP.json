@@ -1,0 +1,633 @@
+{
+  "courseCode": "EBC-FJP",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-FJP"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Formální jazyky a překladače"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Formal Languages and Compilers"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět je možné studovat během zahraničního výjezdu po předchozí domluvě. Všechny testy je nutné psát prezenčně v individuálním termínu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Dr. Ing. Jiří Rybička"
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Pavel Haluza, Ph.D. (cvičící, přednášející, tutor, zkoušející)doc. Dr. Ing. Jiří Rybička (garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Opakování základních teoretických znalostí (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Matematická logika"
+    },
+    {
+      "label": "b.",
+      "content": "Teorie množin"
+    },
+    {
+      "label": "c.",
+      "content": "Teorie grafů"
+    },
+    {
+      "label": "2.",
+      "content": "Úvod do teorie formálních jazyků (dotace 4/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Formální jazyky jako nástroj pro popis dat"
+    },
+    {
+      "label": "b.",
+      "content": "Formální gramatiky a automaty"
+    },
+    {
+      "label": "c.",
+      "content": "Chomského klasifikace gramatik a jazyků"
+    },
+    {
+      "label": "3.",
+      "content": "Regulární jazyky (dotace 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Lineární a regulární gramatiky"
+    },
+    {
+      "label": "b.",
+      "content": "Algoritmy pro transformaci gramatik"
+    },
+    {
+      "label": "c.",
+      "content": "Regulární výrazy a jejich využití"
+    },
+    {
+      "label": "d.",
+      "content": "Konečné automaty"
+    },
+    {
+      "label": "4.",
+      "content": "Bezkontextové jazyky (dotace 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Bezkontextové gramatiky"
+    },
+    {
+      "label": "b.",
+      "content": "Normální formy bezkontextových gramatik"
+    },
+    {
+      "label": "c.",
+      "content": "Deterministické bezkontextové jazyky"
+    },
+    {
+      "label": "d.",
+      "content": "Zásobníkové automaty"
+    },
+    {
+      "label": "5.",
+      "content": "Konstrukce překladačů (dotace 8/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Pojem překladače, fáze překladu"
+    },
+    {
+      "label": "b.",
+      "content": "Lexikální analýza a její implementace"
+    },
+    {
+      "label": "c.",
+      "content": "Syntaktická analýza a její implementace"
+    },
+    {
+      "label": "d.",
+      "content": "Sémantická analýza a její implementace"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Formální jazyky a překladače"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Formal Languages and Compilers"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat během zahraničního výjezdu po předchozí domluvě. Všechny testy je nutné psát prezenčně v individuálním termínu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Dr. Ing. Jiří Rybička"
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Pavel Haluza, Ph.D. (cvičící, přednášející, tutor, zkoušející)doc. Dr. Ing. Jiří Rybička (garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaÚterý15.00-16.50Q02B-AIIB-OIJ. RybičkaPřednáškaKaždý týden170Čtvrtek9.00-10.50Q23B-AIIB-OIP. HaluzaCvičeníKaždý týden26Čtvrtek17.00-18.50Q23B-AIIB-OIP. HaluzaCvičeníKaždý týden26Pátek9.00-10.50Q46B-AIIB-OIP. HaluzaCvičeníKaždý týden26Pátek11.00-12.50Q46B-AIIB-OIP. HaluzaCvičeníKaždý týden26Sobota9.00-12.50Q25B-AIIP. Haluza, J. RybičkaPřednáškaNepravidelně20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je seznámit studenty se základními principy konstrukce a implementace běžně používaných programovacích jazyků a jejich překladačů. Student získá nezbytné teoretické základy formálních jazyků, gramatik a automatů a získá také přehled o možnostech analýzy textové komunikace člověka a počítače, aplikacích regulárních výrazů a vlastnostech překladačů a programovacích jazyků."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Opakování základních teoretických znalostí (dotace 0/2) a.Matematická logikab.Teorie množinc.Teorie grafů2.Úvod do teorie formálních jazyků (dotace 4/6) a.Formální jazyky jako nástroj pro popis datb.Formální gramatiky a automatyc.Chomského klasifikace gramatik a jazyků3.Regulární jazyky (dotace 8/8) a.Lineární a regulární gramatikyb.Algoritmy pro transformaci gramatikc.Regulární výrazy a jejich využitíd.Konečné automaty4.Bezkontextové jazyky (dotace 8/8) a.Bezkontextové gramatikyb.Normální formy bezkontextových gramatikc.Deterministické bezkontextové jazykyd.Zásobníkové automaty5.Konstrukce překladačů (dotace 8/4) a.Pojem překladače, fáze překladub.Lexikální analýza a její implementacec.Syntaktická analýza a její implementaced.Sémantická analýza a její implementace"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Matematická logikab.Teorie množinc.Teorie grafů"
+    },
+    {
+      "label": "[section] Opakování základních teoretických znalostí",
+      "content": "a.Matematická logikab.Teorie množinc.Teorie grafů"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Formální jazyky jako nástroj pro popis datb.Formální gramatiky a automatyc.Chomského klasifikace gramatik a jazyků"
+    },
+    {
+      "label": "[section] Úvod do teorie formálních jazyků",
+      "content": "a.Formální jazyky jako nástroj pro popis datb.Formální gramatiky a automatyc.Chomského klasifikace gramatik a jazyků"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Lineární a regulární gramatikyb.Algoritmy pro transformaci gramatikc.Regulární výrazy a jejich využitíd.Konečné automaty"
+    },
+    {
+      "label": "[section] Regulární jazyky",
+      "content": "a.Lineární a regulární gramatikyb.Algoritmy pro transformaci gramatikc.Regulární výrazy a jejich využitíd.Konečné automaty"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Bezkontextové gramatikyb.Normální formy bezkontextových gramatikc.Deterministické bezkontextové jazykyd.Zásobníkové automaty"
+    },
+    {
+      "label": "[section] Bezkontextové jazyky",
+      "content": "a.Bezkontextové gramatikyb.Normální formy bezkontextových gramatikc.Deterministické bezkontextové jazykyd.Zásobníkové automaty"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Pojem překladače, fáze překladub.Lexikální analýza a její implementacec.Syntaktická analýza a její implementaced.Sémantická analýza a její implementace"
+    },
+    {
+      "label": "[section] Konstrukce překladačů",
+      "content": "a.Pojem překladače, fáze překladub.Lexikální analýza a její implementacec.Syntaktická analýza a její implementaced.Sémantická analýza a její implementace"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení28 h0 hkonzultace0 h40 hpříprava na zkoušku20 h20 hpříprava na průběžný test36 h36 hCelkem112 h112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Studenti předmět úspěšně ukončí, získají-li alespoň 60 bodů z průběžných testů a závěrečné zkoušky. Žádná z uvedených aktivit nemá stanoveno povinné dílčí minimum. Náplní průběžných testů jsou regulární a bezkontextové jazyky (2×30 bodů). Na každý průběžný test jsou k dispozici dva termíny. Zkouška je zaměřena na teoretické principy a souvislosti (40 bodů). Celkové hodnocení je dáno součtem bodů z průběžných testů a zkoušky: A (alespoň 90 bodů), B (83 bodů), C (75 bodů), D (68 bodů), E (60 bodů). V případě podvodného jednání bude student ohodnocen stupněm F a bude podán podnět k zahájení disciplinárního řízení."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAbsolvování průběžného testu (testů)60 %60 %Absolvování závěrečného testu40 %40 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:MEDUNA, Alexander. Automata and languages: theory and applications. London: Springer, 916 s. ISBN 1-85233-074-0.MELICHAR, Bořivoj; MOLNÁR, Ľudovít; ČEŠKA, Milan. 1987. Gramatiky a jazyky. Bratislava: Alfa, 192 s.HOPCROFT, John Edward; ULLMAN, Jeffrey David. 1978. Formálne jazyky a gramatiky. Bratislava: Alfa, 343 s.Doporučená:ULLMAN, Jeffrey D. Compilers: principles, techniques, and tools. Essex: Pearson Education Limited, 942 s. Pearson new international edition. ISBN 978-1-292-02434-9.HOPCROFT, John E.; ULLMAN, Jeffrey D. Introduction to automata theory, languages, and computation. 3. vyd. Boston: Pearson/Addison Wesley, 535 s. ISBN 0-321-45536-3.ROZENBERG, Grzegorz; SALOMAA, Arto. 1997. Handbook of formal languages /. : Word, language, grammar . Volume 1. Berlin: Springer, 873 s. ISBN 3-540-60420-01."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "MEDUNA, Alexander. Automata and languages: theory and applications. London: Springer, 916 s. ISBN 1-85233-074-0.MELICHAR, Bořivoj; MOLNÁR, Ľudovít; ČEŠKA, Milan. 1987. Gramatiky a jazyky. Bratislava: Alfa, 192 s.HOPCROFT, John Edward; ULLMAN, Jeffrey David. 1978. Formálne jazyky a gramatiky. Bratislava: Alfa, 343 s."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "ULLMAN, Jeffrey D. Compilers: principles, techniques, and tools. Essex: Pearson Education Limited, 942 s. Pearson new international edition. ISBN 978-1-292-02434-9.HOPCROFT, John E.; ULLMAN, Jeffrey D. Introduction to automata theory, languages, and computation. 3. vyd. Boston: Pearson/Addison Wesley, 535 s. ISBN 0-321-45536-3.ROZENBERG, Grzegorz; SALOMAA, Arto. 1997. Handbook of formal languages /. : Word, language, grammar . Volume 1. Berlin: Springer, 873 s. ISBN 3-540-60420-01."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-OI Otevřená informatika, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-FJP"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Formální jazyky a překladače"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Formal Languages and Compilers"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course can be studied during the study foreign internship."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Dr. Ing. Jiří Rybička"
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Pavel Haluza, Ph.D. (examiner, instructor, lecturer, tutor)doc. Dr. Ing. Jiří Rybička (examiner, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Review of basic theoretical knowledge (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Mathematical logic"
+    },
+    {
+      "label": "b.",
+      "content": "Set theory"
+    },
+    {
+      "label": "c.",
+      "content": "Graph theory"
+    },
+    {
+      "label": "2.",
+      "content": "Introduction to the theory of formal languages (allowance 4/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Formal languages as a tool for data description"
+    },
+    {
+      "label": "b.",
+      "content": "Formal grammars and automata"
+    },
+    {
+      "label": "c.",
+      "content": "Chomsky classification of formal languages"
+    },
+    {
+      "label": "3.",
+      "content": "Regular languages (allowance 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Linear and regular grammar"
+    },
+    {
+      "label": "b.",
+      "content": "Algorithms for grammar transformation"
+    },
+    {
+      "label": "c.",
+      "content": "Regular expressions and their use"
+    },
+    {
+      "label": "d.",
+      "content": "Finite automata"
+    },
+    {
+      "label": "4.",
+      "content": "Context-free languages (allowance 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Context-free grammars"
+    },
+    {
+      "label": "b.",
+      "content": "Normal forms of context-free grammars"
+    },
+    {
+      "label": "c.",
+      "content": "Deterministic context-free languages"
+    },
+    {
+      "label": "d.",
+      "content": "Push-down automata"
+    },
+    {
+      "label": "5.",
+      "content": "Compilers construction (allowance 8/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Compilers and intepreters"
+    },
+    {
+      "label": "b.",
+      "content": "Lexical analysis and its implementation"
+    },
+    {
+      "label": "c.",
+      "content": "Syntax analysis and its implementation"
+    },
+    {
+      "label": "d.",
+      "content": "Semantic analysis and its implementation"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Formální jazyky a překladače"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Formal Languages and Compilers"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course can be studied during the study foreign internship."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Dr. Ing. Jiří Rybička"
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Pavel Haluza, Ph.D. (examiner, instructor, lecturer, tutor)doc. Dr. Ing. Jiří Rybička (examiner, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityTuesday15.00-16.50Q02B-AIIB-OIJ. RybičkaLectureEvery week170Thursday9.00-10.50Q23B-AIIB-OIP. HaluzaSeminarEvery week26Thursday17.00-18.50Q23B-AIIB-OIP. HaluzaSeminarEvery week26Friday9.00-10.50Q46B-AIIB-OIP. HaluzaSeminarEvery week26Friday11.00-12.50Q46B-AIIB-OIP. HaluzaSeminarEvery week26Saturday9.00-12.50Q25B-AIIP. Haluza, J. RybičkaLectureOccasionally20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to provide students with the basic principles of construction and implementation of commonly used programming languages and their compilers. Student will get the necessary theoretical foundations of formal languages, grammars and automata and he will also get an overview of the possibilities of analyzing human-computer textual communication, applications of regular expressions and features of translators and programming languages."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Review of basic theoretical knowledge (allowance 0/2) a.Mathematical logicb.Set theoryc.Graph theory2.Introduction to the theory of formal languages (allowance 4/6) a.Formal languages as a tool for data descriptionb.Formal grammars and automatac.Chomsky classification of formal languages3.Regular languages (allowance 8/8) a.Linear and regular grammarb.Algorithms for grammar transformationc.Regular expressions and their used.Finite automata4.Context-free languages (allowance 8/8) a.Context-free grammarsb.Normal forms of context-free grammarsc.Deterministic context-free languagesd.Push-down automata5.Compilers construction (allowance 8/4) a.Compilers and intepretersb.Lexical analysis and its implementationc.Syntax analysis and its implementationd.Semantic analysis and its implementation"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Mathematical logicb.Set theoryc.Graph theory"
+    },
+    {
+      "label": "[section] Review of basic theoretical knowledge",
+      "content": "a.Mathematical logicb.Set theoryc.Graph theory"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Formal languages as a tool for data descriptionb.Formal grammars and automatac.Chomsky classification of formal languages"
+    },
+    {
+      "label": "[section] Introduction to the theory of formal languages",
+      "content": "a.Formal languages as a tool for data descriptionb.Formal grammars and automatac.Chomsky classification of formal languages"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Linear and regular grammarb.Algorithms for grammar transformationc.Regular expressions and their used.Finite automata"
+    },
+    {
+      "label": "[section] Regular languages",
+      "content": "a.Linear and regular grammarb.Algorithms for grammar transformationc.Regular expressions and their used.Finite automata"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Context-free grammarsb.Normal forms of context-free grammarsc.Deterministic context-free languagesd.Push-down automata"
+    },
+    {
+      "label": "[section] Context-free languages",
+      "content": "a.Context-free grammarsb.Normal forms of context-free grammarsc.Deterministic context-free languagesd.Push-down automata"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Compilers and intepretersb.Lexical analysis and its implementationc.Syntax analysis and its implementationd.Semantic analysis and its implementation"
+    },
+    {
+      "label": "[section] Compilers construction",
+      "content": "a.Compilers and intepretersb.Lexical analysis and its implementationc.Syntax analysis and its implementationd.Semantic analysis and its implementation"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice28 h0 hconsultation0 h40 hpreparation for exam20 h20 hpreparation for regular testing36 h36 hTotal112 h112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Students will pass the course after collecting at least 60 points in sum of continuous tests and final exam. None of these activities has a minimum partial limit required. Ongoing tests consists of regular and context-free languages (2×30 points). There are two term possibilities for each test. Final exam focusing on theoretical principles and context (40 points). The final evaluation is given by the sum of ongoing tests and final exam: A (at least 90 points), B (83 points), C (75 points), D (68 points), E (60 points). In the case of fraudulent conduct, student will be graded F and disciplinary proceedings will be initiated."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formMid-term test(s)60 %60 %Final test40 %40 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:MEDUNA, Alexander. Automata and languages: theory and applications. London: Springer, 916 p. ISBN 1-85233-074-0.MELICHAR, Bořivoj; MOLNÁR, Ľudovít; ČEŠKA, Milan. 1987. Gramatiky a jazyky. Bratislava: Alfa, 192 p.HOPCROFT, John Edward; ULLMAN, Jeffrey David. 1978. Formálne jazyky a gramatiky. Bratislava: Alfa, 343 p.Recommended:ULLMAN, Jeffrey D. Compilers: principles, techniques, and tools. Essex: Pearson Education Limited, 942 p. Pearson new international edition. ISBN 978-1-292-02434-9.HOPCROFT, John E.; ULLMAN, Jeffrey D. Introduction to automata theory, languages, and computation. 3rd ed. Boston: Pearson/Addison Wesley, 535 p. ISBN 0-321-45536-3.ROZENBERG, Grzegorz; SALOMAA, Arto. 1997. Handbook of formal languages /. : Word, language, grammar . Volume 1. Berlin: Springer, 873 p. ISBN 3-540-60420-01."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "MEDUNA, Alexander. Automata and languages: theory and applications. London: Springer, 916 p. ISBN 1-85233-074-0.MELICHAR, Bořivoj; MOLNÁR, Ľudovít; ČEŠKA, Milan. 1987. Gramatiky a jazyky. Bratislava: Alfa, 192 p.HOPCROFT, John Edward; ULLMAN, Jeffrey David. 1978. Formálne jazyky a gramatiky. Bratislava: Alfa, 343 p."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "ULLMAN, Jeffrey D. Compilers: principles, techniques, and tools. Essex: Pearson Education Limited, 942 p. Pearson new international edition. ISBN 978-1-292-02434-9.HOPCROFT, John E.; ULLMAN, Jeffrey D. Introduction to automata theory, languages, and computation. 3rd ed. Boston: Pearson/Addison Wesley, 535 p. ISBN 0-321-45536-3.ROZENBERG, Grzegorz; SALOMAA, Arto. 1997. Handbook of formal languages /. : Word, language, grammar . Volume 1. Berlin: Springer, 873 p. ISBN 3-540-60420-01."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-OI Open Informatics, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:40:12",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

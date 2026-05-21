@@ -1,0 +1,549 @@
+{
+  "courseCode": "ENC-VAS",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENC-VAS"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Vyčíslitelnost a složitost"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Computability and Complexity"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět je možné studovat během zahraničního výjezdu pouze po předchozí domluvě s vyučujícími."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng. (cvičící, garant, přednášející, zkoušející)Ing. Pavel Haluza, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Opakování základních teoretických znalostí (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Matematická indukce"
+    },
+    {
+      "label": "b.",
+      "content": "Jazyky a gramatiky, Chomského klasifikace"
+    },
+    {
+      "label": "c.",
+      "content": "Regulární jazyky a konečné automaty"
+    },
+    {
+      "label": "d.",
+      "content": "Bezkontextové jazyky a zásobníkové automaty"
+    },
+    {
+      "label": "2.",
+      "content": "Teorie vyčíslitelnosti (dotace 12/12)"
+    },
+    {
+      "label": "a.",
+      "content": "Turingův stroj jako výpočetní model. Definice, varianty, výpočet funkcí"
+    },
+    {
+      "label": "b.",
+      "content": "Kódování Turingova stroje, Univerzální Turingův stroj, Churchova teze"
+    },
+    {
+      "label": "c.",
+      "content": "Redukce, diagonalizace"
+    },
+    {
+      "label": "d.",
+      "content": "Rozhodnutelné, částečně rozhodnutelné a nerozhodnutelné problémy"
+    },
+    {
+      "label": "3.",
+      "content": "Teorie složitosti (dotace 12/12)"
+    },
+    {
+      "label": "a.",
+      "content": "RAM stroj jako výpočetní model"
+    },
+    {
+      "label": "b.",
+      "content": "Definice složitosti, druhy složitosti, složitostní třídy"
+    },
+    {
+      "label": "c.",
+      "content": "NP úplné problémy"
+    },
+    {
+      "label": "d.",
+      "content": "Prostorová složitost"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "60 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "40 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, LS 2024/2025, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Vyčíslitelnost a složitost"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Computability and Complexity"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat během zahraničního výjezdu pouze po předchozí domluvě s vyučujícími."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: prof. Ing. Radim Farana, CSc., FEng. (cvičící, garant, přednášející, zkoušející)Ing. Pavel Haluza, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí9.00-10.50Q16N-OIP. Haluza, R. FaranaPřednáškaKaždý týden60Pondělí17.00-18.50Q23N-OIP. HaluzaCvičeníKaždý týden30Úterý17.00-18.50Q23N-OIP. HaluzaCvičeníKaždý týden30"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je objasnit základní přístupy a metody klasifikace problémů z hlediska možnosti jejich algoritmického řešení a provést základní klasifikaci, poukázat na teoretické a praktické meze využití počítačů a důsledky, které tato omezení mají pro rozvoj informačních technologií."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Opakování základních teoretických znalostí (dotace 4/4) a.Matematická indukceb.Jazyky a gramatiky, Chomského klasifikacec.Regulární jazyky a konečné automatyd.Bezkontextové jazyky a zásobníkové automaty2.Teorie vyčíslitelnosti (dotace 12/12) a.Turingův stroj jako výpočetní model. Definice, varianty, výpočet funkcíb.Kódování Turingova stroje, Univerzální Turingův stroj, Churchova tezec.Redukce, diagonalizaced.Rozhodnutelné, částečně rozhodnutelné a nerozhodnutelné problémy3.Teorie složitosti (dotace 12/12) a.RAM stroj jako výpočetní modelb.Definice složitosti, druhy složitosti, složitostní třídyc.NP úplné problémyd.Prostorová složitost"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Matematická indukceb.Jazyky a gramatiky, Chomského klasifikacec.Regulární jazyky a konečné automatyd.Bezkontextové jazyky a zásobníkové automaty"
+    },
+    {
+      "label": "[section] Opakování základních teoretických znalostí",
+      "content": "a.Matematická indukceb.Jazyky a gramatiky, Chomského klasifikacec.Regulární jazyky a konečné automatyd.Bezkontextové jazyky a zásobníkové automaty"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Turingův stroj jako výpočetní model. Definice, varianty, výpočet funkcíb.Kódování Turingova stroje, Univerzální Turingův stroj, Churchova tezec.Redukce, diagonalizaced.Rozhodnutelné, částečně rozhodnutelné a nerozhodnutelné problémy"
+    },
+    {
+      "label": "[section] Teorie vyčíslitelnosti",
+      "content": "a.Turingův stroj jako výpočetní model. Definice, varianty, výpočet funkcíb.Kódování Turingova stroje, Univerzální Turingův stroj, Churchova tezec.Redukce, diagonalizaced.Rozhodnutelné, částečně rozhodnutelné a nerozhodnutelné problémy"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.RAM stroj jako výpočetní modelb.Definice složitosti, druhy složitosti, složitostní třídyc.NP úplné problémyd.Prostorová složitost"
+    },
+    {
+      "label": "[section] Teorie složitosti",
+      "content": "a.RAM stroj jako výpočetní modelb.Definice složitosti, druhy složitosti, složitostní třídyc.NP úplné problémyd.Prostorová složitost"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku42 hpříprava na průběžný test42 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Studenti předmět úspěšně ukončí, získají-li alespoň 60 bodů z průběžných testů a závěrečné zkoušky. Žádná z uvedených aktivit nemá stanoveno povinné dílčí minimum. Dvěma průběžnými testy (každý za 30 bodů) studenti prokazují schopnost řešit praktické problémy. Na každý průběžný test jsou k dispozici dva termíny. Písemná a ústní zkouška je zaměřena na teoretické principy a souvislosti. Studenti si vylosují dvě otázky, za odpovědi mohou získat 40 bodů. Celkové hodnocení je dáno součtem bodů z průběžných testů a ústní zkoušky: A (alespoň 90 bodů), B (83 bodů), C (75 bodů), D (68 bodů), E (60 bodů). V případě podvodného jednání bude student ohodnocen stupněm F a bude podán podnět k zahájení disciplinárního řízení."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAbsolvování průběžného testu (testů)60 %Absolvování závěrečné ústní zkoušky40 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:ČEŠKA, Milan a kol. 1992. Vyčíslitelnost a složitost. Brno: CERM.HOPCROFT, John E.; ULLMAN, Jeffrey D. Introduction to automata theory, languages, and computation. 3. vyd. Boston: Pearson/Addison Wesley, 535 s. ISBN 0-321-45536-3. Introduction to the theory of computation. Boston: Thomson Course Technology, 431 s. ISBN 0-534-95097-3.KOZEN, Dexter C. 1999. Automata and computability. New York, NY: Springer, 400 s. ISBN 0-387-94907-0."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "ČEŠKA, Milan a kol. 1992. Vyčíslitelnost a složitost. Brno: CERM.HOPCROFT, John E.; ULLMAN, Jeffrey D. Introduction to automata theory, languages, and computation. 3. vyd. Boston: Pearson/Addison Wesley, 535 s. ISBN 0-321-45536-3. Introduction to the theory of computation. Boston: Thomson Course Technology, 431 s. ISBN 0-534-95097-3.KOZEN, Dexter C. 1999. Automata and computability. New York, NY: Springer, 400 s. ISBN 0-387-94907-0."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-OI Otevřená informatika, prezenční forma, počáteční období LS 2024/2025Program N-OI Otevřená informatika, prezenční forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENC-VAS"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Vyčíslitelnost a složitost"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Computability and Complexity"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course can be studied during international mobility only if discussed with teachers in advance."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng. (examiner, instructor, lecturer, supervisor)Ing. Pavel Haluza, Ph.D. (examiner, instructor, lecturer, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Review of basic theoretical knowledge (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Proof by induction"
+    },
+    {
+      "label": "b.",
+      "content": "Languages and grammars. Chomsky hierarchy"
+    },
+    {
+      "label": "c.",
+      "content": "Regular languages and finite automata"
+    },
+    {
+      "label": "d.",
+      "content": "Context-free languages and push-down automata"
+    },
+    {
+      "label": "2.",
+      "content": "Theory of computation (allowance 12/12)"
+    },
+    {
+      "label": "a.",
+      "content": "Turing machine as a computational model. Definiton, extensions, computation of functions"
+    },
+    {
+      "label": "b.",
+      "content": "Reduction, diagonalization"
+    },
+    {
+      "label": "c.",
+      "content": "Decidable, semi-decidable and undecidable problems"
+    },
+    {
+      "label": "3.",
+      "content": "Theory of complexity (allowance 12/12)"
+    },
+    {
+      "label": "a.",
+      "content": "RAM machine as a computational model"
+    },
+    {
+      "label": "b.",
+      "content": "Definition of complexity, types, complexity classes"
+    },
+    {
+      "label": "c.",
+      "content": "NP-complete problems"
+    },
+    {
+      "label": "d.",
+      "content": "Space complexity"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "60 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "40 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, SS 2024/2025, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Vyčíslitelnost a složitost"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Computability and Complexity"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course can be studied during international mobility only if discussed with teachers in advance."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. Ing. Radim Farana, CSc., FEng. (examiner, instructor, lecturer, supervisor)Ing. Pavel Haluza, Ph.D. (examiner, instructor, lecturer, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday9.00-10.50Q16N-OIP. Haluza, R. FaranaLectureEvery week60Monday17.00-18.50Q23N-OIP. HaluzaSeminarEvery week30Tuesday17.00-18.50Q23N-OIP. HaluzaSeminarEvery week30"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The objective of the course is to clarify basic approaches and methods for classifying problems from the point of view of the possibility of their algorithmic solution, and to make basic classification; to refer to theoretical and practical bounds of using computers and consequences of these limits for information technologies development."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Review of basic theoretical knowledge (allowance 4/4) a.Proof by inductionb.Languages and grammars. Chomsky hierarchyc.Regular languages and finite automatad.Context-free languages and push-down automata2.Theory of computation (allowance 12/12) a.Turing machine as a computational model. Definiton, extensions, computation of functionsb.Reduction, diagonalizationc.Decidable, semi-decidable and undecidable problems3.Theory of complexity (allowance 12/12) a.RAM machine as a computational modelb.Definition of complexity, types, complexity classesc.NP-complete problemsd.Space complexity"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Proof by inductionb.Languages and grammars. Chomsky hierarchyc.Regular languages and finite automatad.Context-free languages and push-down automata"
+    },
+    {
+      "label": "[section] Review of basic theoretical knowledge",
+      "content": "a.Proof by inductionb.Languages and grammars. Chomsky hierarchyc.Regular languages and finite automatad.Context-free languages and push-down automata"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Turing machine as a computational model. Definiton, extensions, computation of functionsb.Reduction, diagonalizationc.Decidable, semi-decidable and undecidable problems"
+    },
+    {
+      "label": "[section] Theory of computation",
+      "content": "a.Turing machine as a computational model. Definiton, extensions, computation of functionsb.Reduction, diagonalizationc.Decidable, semi-decidable and undecidable problems"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.RAM machine as a computational modelb.Definition of complexity, types, complexity classesc.NP-complete problemsd.Space complexity"
+    },
+    {
+      "label": "[section] Theory of complexity",
+      "content": "a.RAM machine as a computational modelb.Definition of complexity, types, complexity classesc.NP-complete problemsd.Space complexity"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam42 hpreparation for regular testing42 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Students will pass the course after collecting at least 60 points in sum of ongoing tests and final exam. None of these activities has a minimum partial limit required. Students demonstrate the ability to solve practical problems by two practical tests (30 points each). There is one repair possibility for each test. The exam verifies understanding of concepts and principles and understanding the context. Students choose two questions, the exam is evaluated by 40 points. The final evaluation is given by the sum of the results from tests and the exam as follows: A (at least 90 points), B (83 points), C (75 points), D (68 points), E (60 points). In the case of fraudulent conduct, the verification of knowledge will be assessed as unsuccessful and disciplinary proceedings will be initiated."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceMid-term test(s)60 %Final oral exam40 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:ČEŠKA, Milan et al. 1992. Vyčíslitelnost a složitost. Brno: CERM.HOPCROFT, John E.; ULLMAN, Jeffrey D. Introduction to automata theory, languages, and computation. 3rd ed. Boston: Pearson/Addison Wesley, 535 p. ISBN 0-321-45536-3. Introduction to the theory of computation. Boston: Thomson Course Technology, 431 p. ISBN 0-534-95097-3.KOZEN, Dexter C. 1999. Automata and computability. New York, NY: Springer, 400 p. ISBN 0-387-94907-0."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "ČEŠKA, Milan et al. 1992. Vyčíslitelnost a složitost. Brno: CERM.HOPCROFT, John E.; ULLMAN, Jeffrey D. Introduction to automata theory, languages, and computation. 3rd ed. Boston: Pearson/Addison Wesley, 535 p. ISBN 0-321-45536-3. Introduction to the theory of computation. Boston: Thomson Course Technology, 431 p. ISBN 0-534-95097-3.KOZEN, Dexter C. 1999. Automata and computability. New York, NY: Springer, 400 p. ISBN 0-387-94907-0."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-OI Open Informatics, full-time form, initial period SS 2024/2025Programme C-OI Open Informatics, full-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:01:46",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

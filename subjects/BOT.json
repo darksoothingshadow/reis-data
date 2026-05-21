@@ -1,5 +1,17 @@
 {
   "courseCode": "BOT",
+  "name": "Botanika",
+  "nameCs": "Botanika",
+  "nameEn": "Botany",
+  "predmetId": "158918",
+  "facultyId": 38,
+  "aliases": [
+    "BOTM"
+  ],
+  "teachers": [
+    "Ing. Jan Winkler, Ph.D.",
+    "Mgr. Magda Zdražílková, Ph.D."
+  ],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - AF",
@@ -635,31 +647,6 @@
       ]
     },
     {
-      "semesterName": "ZS 2020/2021 - LDF",
-      "semesterId": "588",
-      "year": 2020,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=124994;lang=cz",
-      "totalPass": 3,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 1,
-            "E": 2,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 3,
-          "fail": 0
-        }
-      ]
-    },
-    {
       "semesterName": "ZS 2020/2021 - ZF",
       "semesterId": "590",
       "year": 2020,
@@ -697,7 +684,32 @@
           "fail": 0
         }
       ]
+    },
+    {
+      "semesterName": "ZS 2020/2021 - LDF",
+      "semesterId": "588",
+      "year": 2020,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=124994;lang=cz",
+      "totalPass": 3,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-03-07T08:18:26.926Z"
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
 }

@@ -1,0 +1,981 @@
+{
+  "courseCode": "TMSK",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "TMSK"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Technická měření, sběr a analýza dat K"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Technical measurement, data collection and analysis K"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "kombinovaná, 8/4 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský; magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Jiří Čupera, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav techniky a automobilové dopravy (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Jiří Čupera, Ph.D. (cvičící, garant, přednášející, zkoušející)doc. Ing. Martin Fajman, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do předmětu (dotace 1/0)"
+    },
+    {
+      "label": "2.",
+      "content": "Kompendium fyziky (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Mechanika."
+    },
+    {
+      "label": "b.",
+      "content": "Hydro- a termomechanika."
+    },
+    {
+      "label": "c.",
+      "content": "Akustika a optika."
+    },
+    {
+      "label": "d.",
+      "content": "Elektřina a magnetismus."
+    },
+    {
+      "label": "3.",
+      "content": "Signály a soustavy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Teorie signálu."
+    },
+    {
+      "label": "b.",
+      "content": "Informační vlastnosti signálu."
+    },
+    {
+      "label": "c.",
+      "content": "Charakteristika signálu."
+    },
+    {
+      "label": "4.",
+      "content": "Měření analogových veličin I. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Měření teploty, tlaku, vlhkosti."
+    },
+    {
+      "label": "b.",
+      "content": "Tenzometry."
+    },
+    {
+      "label": "5.",
+      "content": "Měření analogových veličin II. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Elektrická měření stejnosměrných obvodů."
+    },
+    {
+      "label": "b.",
+      "content": "Elektrická měření střídavých obvodů."
+    },
+    {
+      "label": "6.",
+      "content": "Digitální signály (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Stavové veličiny."
+    },
+    {
+      "label": "b.",
+      "content": "Frekvenční signály."
+    },
+    {
+      "label": "c.",
+      "content": "Čítače, kvadraturní čítače."
+    },
+    {
+      "label": "7.",
+      "content": "Přenos informace (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Asynchronní a synchronní transfery dat."
+    },
+    {
+      "label": "b.",
+      "content": "Síťové protokoly - TCP/IP, UDP, EtherCAT."
+    },
+    {
+      "label": "c.",
+      "content": "Průmyslové sběrnice."
+    },
+    {
+      "label": "8.",
+      "content": "Měřicí instrumentace (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Ruční přístrojová technika."
+    },
+    {
+      "label": "b.",
+      "content": "Měření za podpory PC."
+    },
+    {
+      "label": "c.",
+      "content": "Integrované měřicí systémy."
+    },
+    {
+      "label": "9.",
+      "content": "Tvorba měřicích aplikací (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Algoritmizace měřicí úlohy."
+    },
+    {
+      "label": "b.",
+      "content": "Programování, optimalizace a kompilace programu."
+    },
+    {
+      "label": "10.",
+      "content": "FPGA v úlohách měřicích aplikací (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Teorie hradlových polí."
+    },
+    {
+      "label": "b.",
+      "content": "Možnosti signálových úprav na FPGA - filtry."
+    },
+    {
+      "label": "c.",
+      "content": "Kompilace FPGA."
+    },
+    {
+      "label": "11.",
+      "content": "Měřicí úlohy s podporou analýzy obrazu (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Rozpoznání tvarů objektu."
+    },
+    {
+      "label": "b.",
+      "content": "Analýza barev."
+    },
+    {
+      "label": "c.",
+      "content": "Komplexní systémy akustických a optických systémů."
+    },
+    {
+      "label": "12.",
+      "content": "Mikroprocesorové a embedded systémy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Mikroprocesorové a embedded platformy."
+    },
+    {
+      "label": "b.",
+      "content": "Tvorba ukázkové aplikace pro ARM."
+    },
+    {
+      "label": "13.",
+      "content": "Úvod do problematiky velkých dat (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Heterogenní datové matice."
+    },
+    {
+      "label": "b.",
+      "content": "Definice Big Data."
+    },
+    {
+      "label": "14.",
+      "content": "Cloudové služby pro analýzu dat (dotace 1/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Cloudové služby - definice, přístupy."
+    },
+    {
+      "label": "b.",
+      "content": "NI SystemLink"
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Technická měření, sběr a analýza dat K"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Technical measurement, data collection and analysis K"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: kombinovaná, 8/4 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: kombinovaná, 8/4 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský; magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Jiří Čupera, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav techniky a automobilové dopravy (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Jiří Čupera, Ph.D. (cvičící, garant, přednášející, zkoušející)doc. Ing. Martin Fajman, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPátek13.00-16.50R204J. ČuperaPřednáškaNepravidelně30Sobota13.00-16.50R204M. FajmanCvičeníNepravidelně22"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu \"Technická měření, sběr a analýza dat\" je seznámit studenty se základy měření za podpory technických prostředků a instrumentace s integrovanými elektronickými prvky, které umožňují pokročilejší signálové operace. Ve cvičeních studenti vyváří vlastní měřicí aplikace se sofistikovanými analytickými funkcemi a rozličnými způsoby ukládání a interpretací dat. Dále se studenti seznámí s inženýrskými nástroji automatizovaného měření včetně obrazových aplikací definujících geometrii či barvy objektů. Dále se studenti seznámí s možností programování vlastního mikroprocesorového systému pro měření a sběr dat."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do předmětu (dotace 1/0)2.Kompendium fyziky (dotace 2/0) a.Mechanika.b.Hydro- a termomechanika.c.Akustika a optika.d.Elektřina a magnetismus.3.Signály a soustavy (dotace 2/2) a.Teorie signálu.b.Informační vlastnosti signálu.c.Charakteristika signálu.4.Měření analogových veličin I. (dotace 2/2) a.Měření teploty, tlaku, vlhkosti.b.Tenzometry.5.Měření analogových veličin II. (dotace 2/2) a.Elektrická měření stejnosměrných obvodů.b.Elektrická měření střídavých obvodů.6.Digitální signály (dotace 2/2) a.Stavové veličiny.b.Frekvenční signály.c.Čítače, kvadraturní čítače.7.Přenos informace (dotace 2/2) a.Asynchronní a synchronní transfery dat.b.Síťové protokoly - TCP/IP, UDP, EtherCAT.c.Průmyslové sběrnice.8.Měřicí instrumentace (dotace 2/4) a.Ruční přístrojová technika.b.Měření za podpory PC.c.Integrované měřicí systémy.9.Tvorba měřicích aplikací (dotace 0/2) a.Algoritmizace měřicí úlohy.b.Programování, optimalizace a kompilace programu.10.FPGA v úlohách měřicích aplikací (dotace 2/2) a.Teorie hradlových polí.b.Možnosti signálových úprav na FPGA - filtry.c.Kompilace FPGA.11.Měřicí úlohy s podporou analýzy obrazu (dotace 2/2) a.Rozpoznání tvarů objektu.b.Analýza barev.c.Komplexní systémy akustických a optických systémů.12.Mikroprocesorové a embedded systémy (dotace 2/2) a.Mikroprocesorové a embedded platformy.b.Tvorba ukázkové aplikace pro ARM.13.Úvod do problematiky velkých dat (dotace 2/2) a.Heterogenní datové matice.b.Definice Big Data.14.Cloudové služby pro analýzu dat (dotace 1/0) a.Cloudové služby - definice, přístupy.b.NI SystemLink"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Kompendium fyziky (dotace 2/0)"
+    },
+    {
+      "label": "[section] Úvod do předmětu",
+      "content": "2.Kompendium fyziky (dotace 2/0)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Mechanika.b.Hydro- a termomechanika.c.Akustika a optika.d.Elektřina a magnetismus."
+    },
+    {
+      "label": "[section] Kompendium fyziky",
+      "content": "a.Mechanika.b.Hydro- a termomechanika.c.Akustika a optika.d.Elektřina a magnetismus."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Teorie signálu.b.Informační vlastnosti signálu.c.Charakteristika signálu."
+    },
+    {
+      "label": "[section] Signály a soustavy",
+      "content": "a.Teorie signálu.b.Informační vlastnosti signálu.c.Charakteristika signálu."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Měření teploty, tlaku, vlhkosti.b.Tenzometry."
+    },
+    {
+      "label": "[section] Měření analogových veličin I.",
+      "content": "a.Měření teploty, tlaku, vlhkosti.b.Tenzometry."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Elektrická měření stejnosměrných obvodů.b.Elektrická měření střídavých obvodů."
+    },
+    {
+      "label": "[section] Měření analogových veličin II.",
+      "content": "a.Elektrická měření stejnosměrných obvodů.b.Elektrická měření střídavých obvodů."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Stavové veličiny.b.Frekvenční signály.c.Čítače, kvadraturní čítače."
+    },
+    {
+      "label": "[section] Digitální signály",
+      "content": "a.Stavové veličiny.b.Frekvenční signály.c.Čítače, kvadraturní čítače."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Asynchronní a synchronní transfery dat.b.Síťové protokoly - TCP/IP, UDP, EtherCAT.c.Průmyslové sběrnice."
+    },
+    {
+      "label": "[section] Přenos informace",
+      "content": "a.Asynchronní a synchronní transfery dat.b.Síťové protokoly - TCP/IP, UDP, EtherCAT.c.Průmyslové sběrnice."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Ruční přístrojová technika.b.Měření za podpory PC.c.Integrované měřicí systémy."
+    },
+    {
+      "label": "[section] Měřicí instrumentace",
+      "content": "a.Ruční přístrojová technika.b.Měření za podpory PC.c.Integrované měřicí systémy."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Algoritmizace měřicí úlohy.b.Programování, optimalizace a kompilace programu."
+    },
+    {
+      "label": "[section] Tvorba měřicích aplikací",
+      "content": "a.Algoritmizace měřicí úlohy.b.Programování, optimalizace a kompilace programu."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Teorie hradlových polí.b.Možnosti signálových úprav na FPGA - filtry.c.Kompilace FPGA."
+    },
+    {
+      "label": "[section] FPGA v úlohách měřicích aplikací",
+      "content": "a.Teorie hradlových polí.b.Možnosti signálových úprav na FPGA - filtry.c.Kompilace FPGA."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Rozpoznání tvarů objektu.b.Analýza barev.c.Komplexní systémy akustických a optických systémů."
+    },
+    {
+      "label": "[section] Měřicí úlohy s podporou analýzy obrazu",
+      "content": "a.Rozpoznání tvarů objektu.b.Analýza barev.c.Komplexní systémy akustických a optických systémů."
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Mikroprocesorové a embedded platformy.b.Tvorba ukázkové aplikace pro ARM."
+    },
+    {
+      "label": "[section] Mikroprocesorové a embedded systémy",
+      "content": "a.Mikroprocesorové a embedded platformy.b.Tvorba ukázkové aplikace pro ARM."
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Heterogenní datové matice.b.Definice Big Data."
+    },
+    {
+      "label": "[section] Úvod do problematiky velkých dat",
+      "content": "a.Heterogenní datové matice.b.Definice Big Data."
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Cloudové služby - definice, přístupy.b.NI SystemLink"
+    },
+    {
+      "label": "[section] Cloudové služby pro analýzu dat",
+      "content": "a.Cloudové služby - definice, přístupy.b.NI SystemLink"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhKombinované studiumpřednáška0 hcvičení0 hveřejná prezentace (ústní)0 hpříprava na zkoušku0 hpříprava prezentace0 hzpracování protokolů0 hzpracování projektů0 hCelkem0 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zkouška bude probíhat praktickým řešením vybraného problému technického měření."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhKombinované studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:NEVŘIVA, Pavel. 2000. Analýza signálů a soustav. 1. vyd. Praha: BEN - technická literatura, 671 s. ISBN 80-7300-004-0. Elektromagnetická kompatibilita: principy a poznámky. 2001. 1. vyd. Brno: Vysoké učení technické, 156 s. ISBN 80-214-1873-7.ZAPLATÍLEK, Karel; DOŇAR, Bohuslav. 2006. MATLAB: začínáme se signály. 1. vyd. Praha: BEN - technická literatura, 271 s. ISBN 80-7300-200-0. Noise and vibration analysis: signal analysis and experimental procedures. ISBN 9780470978177. http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=354106.KADLEC, František. 2002. Zpracování akustických signálů. 1. vyd. Praha: Vydavatelství ČVUT, 189 s. ISBN 80-01-02588-8.KESHAV, Srinivsan. 1997. An engineering approach to computer networking : ATM networks, the internet, and the telephone network. Boston: Addison-Wesley, 660 s. Addison-Wesley professional computing series. ISBN 0-201-63442-2. Artificial neural networks: theory and applications. 1995. New York: Prentice Hall, 477 s. ISBN 0-13-295353-6.ŠTĚRBA, Pavel; ČUPERA, Jiří. 2010. Autoelektronika. 1. vyd. Brno: Computer Press, a.s., 280 s. ISBN 978-80-251-2414-7. IPng and the TCP/IP Protocols: Implementing the Next Generation Internet. 1996. New York: John Wiley & Sons, 481 s. ISBN 0-471-13088-5. An Introduction to Measurements using Strain Gages. 1989. Darmstadt: Hottinger Baldwin Messtechnik, 291 s."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "NEVŘIVA, Pavel. 2000. Analýza signálů a soustav. 1. vyd. Praha: BEN - technická literatura, 671 s. ISBN 80-7300-004-0. Elektromagnetická kompatibilita: principy a poznámky. 2001. 1. vyd. Brno: Vysoké učení technické, 156 s. ISBN 80-214-1873-7.ZAPLATÍLEK, Karel; DOŇAR, Bohuslav. 2006. MATLAB: začínáme se signály. 1. vyd. Praha: BEN - technická literatura, 271 s. ISBN 80-7300-200-0. Noise and vibration analysis: signal analysis and experimental procedures. ISBN 9780470978177. http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=354106.KADLEC, František. 2002. Zpracování akustických signálů. 1. vyd. Praha: Vydavatelství ČVUT, 189 s. ISBN 80-01-02588-8.KESHAV, Srinivsan. 1997. An engineering approach to computer networking : ATM networks, the internet, and the telephone network. Boston: Addison-Wesley, 660 s. Addison-Wesley professional computing series. ISBN 0-201-63442-2. Artificial neural networks: theory and applications. 1995. New York: Prentice Hall, 477 s. ISBN 0-13-295353-6.ŠTĚRBA, Pavel; ČUPERA, Jiří. 2010. Autoelektronika. 1. vyd. Brno: Computer Press, a.s., 280 s. ISBN 978-80-251-2414-7. IPng and the TCP/IP Protocols: Implementing the Next Generation Internet. 1996. New York: John Wiley & Sons, 481 s. ISBN 0-471-13088-5. An Introduction to Measurements using Strain Gages. 1989. Darmstadt: Hottinger Baldwin Messtechnik, 291 s."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-TZO Technické znalectví a oceňování, kombinovaná forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "TMSK"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Technická měření, sběr a analýza dat K"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Technical measurement, data collection and analysis K"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "part-time, 8/4 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master; master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Jiří Čupera, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Technology and Automobile Transport (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Jiří Čupera, Ph.D. (examiner, instructor, lecturer, supervisor)doc. Ing. Martin Fajman, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to course (allowance 1/0)"
+    },
+    {
+      "label": "2.",
+      "content": "Compendium of Physics (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Mechanics."
+    },
+    {
+      "label": "b.",
+      "content": "Hydro- and thermo-mechanics."
+    },
+    {
+      "label": "c.",
+      "content": "Acoustics."
+    },
+    {
+      "label": "d.",
+      "content": "Electricity and magnetism."
+    },
+    {
+      "label": "3.",
+      "content": "Signals and systems (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Signal theory."
+    },
+    {
+      "label": "b.",
+      "content": "Information and attributes of signal."
+    },
+    {
+      "label": "c.",
+      "content": "Signal characteristics."
+    },
+    {
+      "label": "4.",
+      "content": "Measurement of of analog values I. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Temperature, pressure and humidity measurement."
+    },
+    {
+      "label": "b.",
+      "content": "Strain measurement - strain gauges."
+    },
+    {
+      "label": "5.",
+      "content": "Measurement of of analog values II. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Electrical measurements of DC circuits."
+    },
+    {
+      "label": "b.",
+      "content": "Electrical measurements of AC circuits."
+    },
+    {
+      "label": "6.",
+      "content": "Digital signals (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "State variables."
+    },
+    {
+      "label": "b.",
+      "content": "Frequency signals."
+    },
+    {
+      "label": "c.",
+      "content": "Counters, quadrature counters."
+    },
+    {
+      "label": "7.",
+      "content": "Theory of information - data transfer (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Asynchronous and synchronous data transfers."
+    },
+    {
+      "label": "b.",
+      "content": "Network protocols - TCP / IP, UDP, EtherCAT."
+    },
+    {
+      "label": "c.",
+      "content": "Industrial Networking."
+    },
+    {
+      "label": "8.",
+      "content": "Measuring instrumentation (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Handheld instrumentation."
+    },
+    {
+      "label": "b.",
+      "content": "Measurement of supported by computer."
+    },
+    {
+      "label": "c.",
+      "content": "Integrated measurement systems."
+    },
+    {
+      "label": "9.",
+      "content": "Development of measurement applications (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Algorithm of measurement task."
+    },
+    {
+      "label": "b.",
+      "content": "Programming, optimization and compilation of measuring application."
+    },
+    {
+      "label": "10.",
+      "content": "FPGA in measurement applications (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "FPGA theory."
+    },
+    {
+      "label": "b.",
+      "content": "Signal analysis using FPGA - filters."
+    },
+    {
+      "label": "c.",
+      "content": "FPGA translation and compilation."
+    },
+    {
+      "label": "11.",
+      "content": "Measuring tasks with the support of image analysis (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Recognizing the shape of objects."
+    },
+    {
+      "label": "b.",
+      "content": "Colors analysis."
+    },
+    {
+      "label": "c.",
+      "content": "Complex systems - acoustic and optical systems."
+    },
+    {
+      "label": "12.",
+      "content": "Microprocessors and Embedded Systems (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Microprocessor platforms."
+    },
+    {
+      "label": "b.",
+      "content": "Tvorba ukázkové aplikace pro ARM."
+    },
+    {
+      "label": "c.",
+      "content": "Sample applications for ARM."
+    },
+    {
+      "label": "13.",
+      "content": "Introduction to Big Data (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Big Data definition."
+    },
+    {
+      "label": "b.",
+      "content": "Heterogenous data."
+    },
+    {
+      "label": "14.",
+      "content": "Cloud - additional data analyses (allowance 1/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Cloud - possibilities, performance."
+    },
+    {
+      "label": "b.",
+      "content": "NI SystemLink"
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Technická měření, sběr a analýza dat K"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Technical measurement, data collection and analysis K"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: part-time, 8/4 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: part-time, 8/4 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master; master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Jiří Čupera, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Technology and Automobile Transport (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Jiří Čupera, Ph.D. (examiner, instructor, lecturer, supervisor)doc. Ing. Martin Fajman, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityFriday13.00-16.50R204J. ČuperaLectureOccasionally30Saturday13.00-16.50R204M. FajmanSeminarOccasionally22"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the subject \" Technical measurement, data acquisition and analysis \" is to enlarge basic knowledge of measuring techniques with support of sophisticated technical equipment and instrumentation using in-built algorithms that allow advanced signal operations and analyses. Students will be familiar with measurement applications included data acquisition, processing as well as data storing and various possibilities of interpretation in charts or in tables. In addition, students learn about engineering tools for automated measurement applications including image processing defining the geometry of shapes and color of objects. Finally, students will try the possibility of programming selected microprocessor system for measurement and data collection."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to course (allowance 1/0)2.Compendium of Physics (allowance 2/0) a.Mechanics.b.Hydro- and thermo-mechanics.c.Acoustics.d.Electricity and magnetism.3.Signals and systems (allowance 2/2) a.Signal theory.b.Information and attributes of signal.c.Signal characteristics.4.Measurement of of analog values I. (allowance 2/2) a.Temperature, pressure and humidity measurement.b.Strain measurement - strain gauges.5.Measurement of of analog values II. (allowance 2/2) a.Electrical measurements of DC circuits.b.Electrical measurements of AC circuits.6.Digital signals (allowance 2/2) a.State variables.b.Frequency signals.c.Counters, quadrature counters.7.Theory of information - data transfer (allowance 2/2) a.Asynchronous and synchronous data transfers.b.Network protocols - TCP / IP, UDP, EtherCAT.c.Industrial Networking.8.Measuring instrumentation (allowance 2/2) a.Handheld instrumentation.b.Measurement of supported by computer.c.Integrated measurement systems.9.Development of measurement applications (allowance 0/2) a.Algorithm of measurement task.b.Programming, optimization and compilation of measuring application.10.FPGA in measurement applications (allowance 2/2) a.FPGA theory.b.Signal analysis using FPGA - filters.c.FPGA translation and compilation.11.Measuring tasks with the support of image analysis (allowance 2/2) a.Recognizing the shape of objects.b.Colors analysis.c.Complex systems - acoustic and optical systems.12.Microprocessors and Embedded Systems (allowance 2/2) a.Microprocessor platforms.b.Tvorba ukázkové aplikace pro ARM.c.Sample applications for ARM.13.Introduction to Big Data (allowance 2/2) a.Big Data definition.b.Heterogenous data.14.Cloud - additional data analyses (allowance 1/0) a.Cloud - possibilities, performance.b.NI SystemLink"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Compendium of Physics (allowance 2/0)"
+    },
+    {
+      "label": "[section] Introduction to course",
+      "content": "2.Compendium of Physics (allowance 2/0)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Mechanics.b.Hydro- and thermo-mechanics.c.Acoustics.d.Electricity and magnetism."
+    },
+    {
+      "label": "[section] Compendium of Physics",
+      "content": "a.Mechanics.b.Hydro- and thermo-mechanics.c.Acoustics.d.Electricity and magnetism."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Signal theory.b.Information and attributes of signal.c.Signal characteristics."
+    },
+    {
+      "label": "[section] Signals and systems",
+      "content": "a.Signal theory.b.Information and attributes of signal.c.Signal characteristics."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Temperature, pressure and humidity measurement.b.Strain measurement - strain gauges."
+    },
+    {
+      "label": "[section] Measurement of of analog values I.",
+      "content": "a.Temperature, pressure and humidity measurement.b.Strain measurement - strain gauges."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Electrical measurements of DC circuits.b.Electrical measurements of AC circuits."
+    },
+    {
+      "label": "[section] Measurement of of analog values II.",
+      "content": "a.Electrical measurements of DC circuits.b.Electrical measurements of AC circuits."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.State variables.b.Frequency signals.c.Counters, quadrature counters."
+    },
+    {
+      "label": "[section] Digital signals",
+      "content": "a.State variables.b.Frequency signals.c.Counters, quadrature counters."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Asynchronous and synchronous data transfers.b.Network protocols - TCP / IP, UDP, EtherCAT.c.Industrial Networking."
+    },
+    {
+      "label": "[section] Theory of information - data transfer",
+      "content": "a.Asynchronous and synchronous data transfers.b.Network protocols - TCP / IP, UDP, EtherCAT.c.Industrial Networking."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Handheld instrumentation.b.Measurement of supported by computer.c.Integrated measurement systems."
+    },
+    {
+      "label": "[section] Measuring instrumentation",
+      "content": "a.Handheld instrumentation.b.Measurement of supported by computer.c.Integrated measurement systems."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Algorithm of measurement task.b.Programming, optimization and compilation of measuring application."
+    },
+    {
+      "label": "[section] Development of measurement applications",
+      "content": "a.Algorithm of measurement task.b.Programming, optimization and compilation of measuring application."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.FPGA theory.b.Signal analysis using FPGA - filters.c.FPGA translation and compilation."
+    },
+    {
+      "label": "[section] FPGA in measurement applications",
+      "content": "a.FPGA theory.b.Signal analysis using FPGA - filters.c.FPGA translation and compilation."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Recognizing the shape of objects.b.Colors analysis.c.Complex systems - acoustic and optical systems."
+    },
+    {
+      "label": "[section] Measuring tasks with the support of image analysis",
+      "content": "a.Recognizing the shape of objects.b.Colors analysis.c.Complex systems - acoustic and optical systems."
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Microprocessor platforms.b.Tvorba ukázkové aplikace pro ARM.c.Sample applications for ARM."
+    },
+    {
+      "label": "[section] Microprocessors and Embedded Systems",
+      "content": "a.Microprocessor platforms.b.Tvorba ukázkové aplikace pro ARM.c.Sample applications for ARM."
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Big Data definition.b.Heterogenous data."
+    },
+    {
+      "label": "[section] Introduction to Big Data",
+      "content": "a.Big Data definition.b.Heterogenous data."
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Cloud - possibilities, performance.b.NI SystemLink"
+    },
+    {
+      "label": "[section] Cloud - additional data analyses",
+      "content": "a.Cloud - possibilities, performance.b.NI SystemLink"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodCombined formlecture0 hpractice0 hpublic presentation (oral)0 hpreparation for exam0 hpreparation of presentation0 helaboration of reports0 helaboration and execution of projects0 hTotal0 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "The course is finished by practical exam."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeCombined formTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:NEVŘIVA, Pavel. 2000. Analýza signálů a soustav. 1st ed. Praha: BEN - technická literatura, 671 p. ISBN 80-7300-004-0. Elektromagnetická kompatibilita: principy a poznámky. 2001. 1st ed. Brno: Vysoké učení technické, 156 p. ISBN 80-214-1873-7.ZAPLATÍLEK, Karel; DOŇAR, Bohuslav. 2006. MATLAB: začínáme se signály. 1st ed. Praha: BEN - technická literatura, 271 p. ISBN 80-7300-200-0. Noise and vibration analysis: signal analysis and experimental procedures. ISBN 9780470978177. http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=354106.KADLEC, František. 2002. Zpracování akustických signálů. 1st ed. Praha: Vydavatelství ČVUT, 189 p. ISBN 80-01-02588-8.KESHAV, Srinivsan. 1997. An engineering approach to computer networking : ATM networks, the internet, and the telephone network. Boston: Addison-Wesley, 660 p. Addison-Wesley professional computing series. ISBN 0-201-63442-2. Artificial neural networks: theory and applications. 1995. New York: Prentice Hall, 477 p. ISBN 0-13-295353-6.ŠTĚRBA, Pavel; ČUPERA, Jiří. 2010. Autoelektronika. 1st ed. Brno: Computer Press, a.s., 280 p. ISBN 978-80-251-2414-7. IPng and the TCP/IP Protocols: Implementing the Next Generation Internet. 1996. New York: John Wiley & Sons, 481 p. ISBN 0-471-13088-5. An Introduction to Measurements using Strain Gages. 1989. Darmstadt: Hottinger Baldwin Messtechnik, 291 p."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "NEVŘIVA, Pavel. 2000. Analýza signálů a soustav. 1st ed. Praha: BEN - technická literatura, 671 p. ISBN 80-7300-004-0. Elektromagnetická kompatibilita: principy a poznámky. 2001. 1st ed. Brno: Vysoké učení technické, 156 p. ISBN 80-214-1873-7.ZAPLATÍLEK, Karel; DOŇAR, Bohuslav. 2006. MATLAB: začínáme se signály. 1st ed. Praha: BEN - technická literatura, 271 p. ISBN 80-7300-200-0. Noise and vibration analysis: signal analysis and experimental procedures. ISBN 9780470978177. http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=354106.KADLEC, František. 2002. Zpracování akustických signálů. 1st ed. Praha: Vydavatelství ČVUT, 189 p. ISBN 80-01-02588-8.KESHAV, Srinivsan. 1997. An engineering approach to computer networking : ATM networks, the internet, and the telephone network. Boston: Addison-Wesley, 660 p. Addison-Wesley professional computing series. ISBN 0-201-63442-2. Artificial neural networks: theory and applications. 1995. New York: Prentice Hall, 477 p. ISBN 0-13-295353-6.ŠTĚRBA, Pavel; ČUPERA, Jiří. 2010. Autoelektronika. 1st ed. Brno: Computer Press, a.s., 280 p. ISBN 978-80-251-2414-7. IPng and the TCP/IP Protocols: Implementing the Next Generation Internet. 1996. New York: John Wiley & Sons, 481 p. ISBN 0-471-13088-5. An Introduction to Measurements using Strain Gages. 1989. Darmstadt: Hottinger Baldwin Messtechnik, 291 p."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-TZO Technical Expertise and Valuation, part-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:24:34",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

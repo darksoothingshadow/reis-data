@@ -1,0 +1,973 @@
+{
+  "courseCode": "GEOD",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "GEOD"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Geodézie AE"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Geodesy AE"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Výuka předmětu je pouze prezenční formou."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Miloš Cibulka, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav hospodářské úpravy lesů a aplikované geoinformatiky (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Miloš Cibulka, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Geodézie - úvod. (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní pojmy."
+    },
+    {
+      "label": "b.",
+      "content": "Historie."
+    },
+    {
+      "label": "c.",
+      "content": "Úkoly a rozdělení geodézie."
+    },
+    {
+      "label": "2.",
+      "content": "Tvar a rozměry zemského tělesa. (dotace 1/2)"
+    },
+    {
+      "label": "b.",
+      "content": "Vliv zakřivení zemského povrchu na měřené veličiny."
+    },
+    {
+      "label": "3.",
+      "content": "Náhradní plochy. (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní referenční plochy."
+    },
+    {
+      "label": "b.",
+      "content": "Souřadnice na referenčních plochách."
+    },
+    {
+      "label": "4.",
+      "content": "Soustavy měr. (dotace 1/2)"
+    },
+    {
+      "label": "b.",
+      "content": "Míry úhlové délkové a plošné."
+    },
+    {
+      "label": "5.",
+      "content": "Polohopisná měření. (dotace 1/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Přístroje a pomůcky."
+    },
+    {
+      "label": "b.",
+      "content": "Základní metody měření polohopisu."
+    },
+    {
+      "label": "c.",
+      "content": "Signalizace a stabilizace bodů."
+    },
+    {
+      "label": "6.",
+      "content": "Měření úhlů. (dotace 1/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Vodorovné a výškové úhly."
+    },
+    {
+      "label": "b.",
+      "content": "Magnetické azimuty."
+    },
+    {
+      "label": "c.",
+      "content": "Přístroje, metody měření úhlů."
+    },
+    {
+      "label": "7.",
+      "content": "Měření délek (dotace 1/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Princip měření."
+    },
+    {
+      "label": "b.",
+      "content": "Metody měření délek."
+    },
+    {
+      "label": "c.",
+      "content": "Dálkoměry a přesnost."
+    },
+    {
+      "label": "8.",
+      "content": "Výšková měření. (dotace 1/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Terminologie, základní pojmy."
+    },
+    {
+      "label": "b.",
+      "content": "Metody výškového měření."
+    },
+    {
+      "label": "c.",
+      "content": "Přístroje a pomůcky."
+    },
+    {
+      "label": "9.",
+      "content": "Souřadnicové soustavy. (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Systémy souřadnic na území našeho státu."
+    },
+    {
+      "label": "b.",
+      "content": "Transformace souřadnic."
+    },
+    {
+      "label": "10.",
+      "content": "Základní souřadnicové výpočty. (dotace 1/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Výpočet směrníku a délky."
+    },
+    {
+      "label": "b.",
+      "content": "Rajón, bod na přímce a na kolmici."
+    },
+    {
+      "label": "c.",
+      "content": "Protínání."
+    },
+    {
+      "label": "11.",
+      "content": "Kartografie. (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Definice, rozdělení kartografie."
+    },
+    {
+      "label": "b.",
+      "content": "Kartografická zobrazení."
+    },
+    {
+      "label": "12.",
+      "content": "Mapa, plán. (dotace 1/3)"
+    },
+    {
+      "label": "b.",
+      "content": "Dělení map, generalizace map."
+    },
+    {
+      "label": "13.",
+      "content": "Pozemková evidence. (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Úvod."
+    },
+    {
+      "label": "b.",
+      "content": "Vývoj pozemkové evidence."
+    },
+    {
+      "label": "14.",
+      "content": "Katastr nemovitostí. (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Úvod, předmět a obsah katastru."
+    },
+    {
+      "label": "b.",
+      "content": "Způsoby zápisu do KN."
+    },
+    {
+      "label": "c.",
+      "content": "Geometrický plán."
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021, ZS 2019/2020 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Geodézie AE"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Geodesy AE"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Výuka předmětu je pouze prezenční formou."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Miloš Cibulka, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav hospodářské úpravy lesů a aplikované geoinformatiky (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Miloš Cibulka, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí11.00-13.50B05 – Strojový sálM. CibulkaCvičeníKaždý týden20Úterý7.00-7.50B01M. CibulkaPřednáškaKaždý týden81Čtvrtek8.00-10.50B05 – Strojový sálM. CibulkaCvičeníKaždý týden17Čtvrtek13.00-15.50B05 – Strojový sálM. CibulkaCvičeníKaždý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Získání základních znalostí o geodézii. Seznámení studentů se základními měřickými postupy, přístroji, souřadnicovými systémy a výpočty. Orientace v problematice katastru nemovitostí a pozemkové evidence."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Geodézie - úvod. (dotace 1/1) a.Základní pojmy.b.Historie.c.Úkoly a rozdělení geodézie.2.Tvar a rozměry zemského tělesa. (dotace 1/2) a.Základní pojmy.b.Vliv zakřivení zemského povrchu na měřené veličiny.3.Náhradní plochy. (dotace 1/3) a.Základní referenční plochy.b.Souřadnice na referenčních plochách.4.Soustavy měr. (dotace 1/2) a.Základní pojmy.b.Míry úhlové délkové a plošné.5.Polohopisná měření. (dotace 1/4) a.Přístroje a pomůcky.b.Základní metody měření polohopisu.c.Signalizace a stabilizace bodů.6.Měření úhlů. (dotace 1/4) a.Vodorovné a výškové úhly.b.Magnetické azimuty.c.Přístroje, metody měření úhlů.7.Měření délek (dotace 1/4) a.Princip měření.b.Metody měření délek.c.Dálkoměry a přesnost.8.Výšková měření. (dotace 1/6) a.Terminologie, základní pojmy.b.Metody výškového měření.c.Přístroje a pomůcky.9.Souřadnicové soustavy. (dotace 1/3) a.Systémy souřadnic na území našeho státu.b.Transformace souřadnic.10.Základní souřadnicové výpočty. (dotace 1/4) a.Výpočet směrníku a délky.b.Rajón, bod na přímce a na kolmici.c.Protínání.11.Kartografie. (dotace 1/3) a.Definice, rozdělení kartografie.b.Kartografická zobrazení.12.Mapa, plán. (dotace 1/3) a.Základní pojmy.b.Dělení map, generalizace map.13.Pozemková evidence. (dotace 1/1) a.Úvod.b.Vývoj pozemkové evidence.14.Katastr nemovitostí. (dotace 1/2) a.Úvod, předmět a obsah katastru.b.Způsoby zápisu do KN.c.Geometrický plán."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Základní pojmy.b.Historie.c.Úkoly a rozdělení geodézie."
+    },
+    {
+      "label": "[section] Geodézie - úvod.",
+      "content": "a.Základní pojmy.b.Historie.c.Úkoly a rozdělení geodézie."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Základní pojmy.b.Vliv zakřivení zemského povrchu na měřené veličiny."
+    },
+    {
+      "label": "[section] Tvar a rozměry zemského tělesa.",
+      "content": "a.Základní pojmy.b.Vliv zakřivení zemského povrchu na měřené veličiny."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Základní referenční plochy.b.Souřadnice na referenčních plochách."
+    },
+    {
+      "label": "[section] Náhradní plochy.",
+      "content": "a.Základní referenční plochy.b.Souřadnice na referenčních plochách."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Základní pojmy.b.Míry úhlové délkové a plošné."
+    },
+    {
+      "label": "[section] Soustavy měr.",
+      "content": "a.Základní pojmy.b.Míry úhlové délkové a plošné."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Přístroje a pomůcky.b.Základní metody měření polohopisu.c.Signalizace a stabilizace bodů."
+    },
+    {
+      "label": "[section] Polohopisná měření.",
+      "content": "a.Přístroje a pomůcky.b.Základní metody měření polohopisu.c.Signalizace a stabilizace bodů."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Vodorovné a výškové úhly.b.Magnetické azimuty.c.Přístroje, metody měření úhlů."
+    },
+    {
+      "label": "[section] Měření úhlů.",
+      "content": "a.Vodorovné a výškové úhly.b.Magnetické azimuty.c.Přístroje, metody měření úhlů."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Princip měření.b.Metody měření délek.c.Dálkoměry a přesnost."
+    },
+    {
+      "label": "[section] Měření délek",
+      "content": "a.Princip měření.b.Metody měření délek.c.Dálkoměry a přesnost."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Terminologie, základní pojmy.b.Metody výškového měření.c.Přístroje a pomůcky."
+    },
+    {
+      "label": "[section] Výšková měření.",
+      "content": "a.Terminologie, základní pojmy.b.Metody výškového měření.c.Přístroje a pomůcky."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Systémy souřadnic na území našeho státu.b.Transformace souřadnic."
+    },
+    {
+      "label": "[section] Souřadnicové soustavy.",
+      "content": "a.Systémy souřadnic na území našeho státu.b.Transformace souřadnic."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Výpočet směrníku a délky.b.Rajón, bod na přímce a na kolmici.c.Protínání."
+    },
+    {
+      "label": "[section] Základní souřadnicové výpočty.",
+      "content": "a.Výpočet směrníku a délky.b.Rajón, bod na přímce a na kolmici.c.Protínání."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Definice, rozdělení kartografie.b.Kartografická zobrazení."
+    },
+    {
+      "label": "[section] Kartografie.",
+      "content": "a.Definice, rozdělení kartografie.b.Kartografická zobrazení."
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Základní pojmy.b.Dělení map, generalizace map."
+    },
+    {
+      "label": "[section] Mapa, plán.",
+      "content": "a.Základní pojmy.b.Dělení map, generalizace map."
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Úvod.b.Vývoj pozemkové evidence."
+    },
+    {
+      "label": "[section] Pozemková evidence.",
+      "content": "a.Úvod.b.Vývoj pozemkové evidence."
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Úvod, předmět a obsah katastru.b.Způsoby zápisu do KN.c.Geometrický plán."
+    },
+    {
+      "label": "[section] Katastr nemovitostí.",
+      "content": "a.Úvod, předmět a obsah katastru.b.Způsoby zápisu do KN.c.Geometrický plán."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení42 hkonzultace10 hpříprava na zkoušku55 hpříprava na průběžný test15 hzpracování protokolů32 hCelkem168 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zápočet a zkouška. Podmínkou pro získání zápočtu je vypracování průběžně zadávaných protokolů, účast alespoň na 80% semestrálních cvičeních a krátký praktický test. Zkouška se skládá z části písemné ve formě příkladu na aplikaci souřadnicové geometrie a z části ústní, teoretické. Požadované znalosti odpovídají rozsahem sylabu."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní: Geodézie pro dřevostavby. 2014. 1. vyd. Brno: Mendelova univerzita v Brně, 154 s. ISBN 978-80-7509-130-7.FORAL, Jakub; VONDRÁK, Jiří. 2007. Geodetická příručka - část I, úhly, délky a výšky. Valašské Meziříčí: Ing. Tomáš Šváb - GEFIS.ŠÍMA, Jiří. 2003. Geoinformační terminologie pro geodety a kartografy: výklad 200 základních termínů, anglické, německé a ruské ekvivalenty. 1. vyd. Zdiby: Výzkumný ústav geodetický, topografický a kartografický (VÚGTK), Odvětvové informační středisko, 87 s. ISBN 80-85881-20-9.MATĚJÍK, Miroslav; VITÁSKOVÁ, Jelena. 2002. Geodézie - katastr nemovitostí. Brno: MZLU v Brně, 99 s. ISBN 80-7157-568-2.Doporučená:NEVOSÁD, Zdeněk; VITÁSEK, Josef. 1999. Geodézie I. Brno: CERM.ANDERSON, J.M., MIKHAIL, E.M. Surveying: theory and practise. 7. vyd. Boston: WCB/McGraw-Hill, 1167 s. ISBN 0070159149.FORAL, J., KALVODA, P., KRATOCHVÍL, R., ŠVÁB, T., VONDRÁK, J. Geodetická příručka, část II, výpočty, mapy, katastr nemovitostí, fotogrammetrie, GPS, Ing. Šváb Tomáš-GEFIS, Karafiátova 1313, Valašské Meziříčí, 2008."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "Geodézie pro dřevostavby. 2014. 1. vyd. Brno: Mendelova univerzita v Brně, 154 s. ISBN 978-80-7509-130-7.FORAL, Jakub; VONDRÁK, Jiří. 2007. Geodetická příručka - část I, úhly, délky a výšky. Valašské Meziříčí: Ing. Tomáš Šváb - GEFIS.ŠÍMA, Jiří. 2003. Geoinformační terminologie pro geodety a kartografy: výklad 200 základních termínů, anglické, německé a ruské ekvivalenty. 1. vyd. Zdiby: Výzkumný ústav geodetický, topografický a kartografický (VÚGTK), Odvětvové informační středisko, 87 s. ISBN 80-85881-20-9.MATĚJÍK, Miroslav; VITÁSKOVÁ, Jelena. 2002. Geodézie - katastr nemovitostí. Brno: MZLU v Brně, 99 s. ISBN 80-7157-568-2."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "NEVOSÁD, Zdeněk; VITÁSEK, Josef. 1999. Geodézie I. Brno: CERM.ANDERSON, J.M., MIKHAIL, E.M. Surveying: theory and practise. 7. vyd. Boston: WCB/McGraw-Hill, 1167 s. ISBN 0070159149.FORAL, J., KALVODA, P., KRATOCHVÍL, R., ŠVÁB, T., VONDRÁK, J. Geodetická příručka, část II, výpočty, mapy, katastr nemovitostí, fotogrammetrie, GPS, Ing. Šváb Tomáš-GEFIS, Karafiátova 1313, Valašské Meziříčí, 2008."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-AEG Agroekologie, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "GEOD"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Geodézie AE"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Geodesy AE"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The teaching of the subject is only face-to-face."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Miloš Cibulka, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Forest Management and Applied Geoinformatics (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Miloš Cibulka, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Geodesy - introduction. (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic words."
+    },
+    {
+      "label": "b.",
+      "content": "History."
+    },
+    {
+      "label": "c.",
+      "content": "Objective and structure."
+    },
+    {
+      "label": "2.",
+      "content": "Shape and dimensions of the Earth. (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Terminology."
+    },
+    {
+      "label": "b.",
+      "content": "Influence of the Earth curvature to measuring (lenght, angle, height)."
+    },
+    {
+      "label": "3.",
+      "content": "Substitute surfaces. (allowance 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic reference surfaces (geoid, ellipsoid, sphere, plane)."
+    },
+    {
+      "label": "b.",
+      "content": "Coordinate - Geographical, Spatial Cartesian."
+    },
+    {
+      "label": "4.",
+      "content": "Systems of measures (units). (allowance 1/2)"
+    },
+    {
+      "label": "b.",
+      "content": "Lenght, angular and height altitude measure."
+    },
+    {
+      "label": "5.",
+      "content": "Planimetric survey. (allowance 1/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Apparatures, instruments."
+    },
+    {
+      "label": "b.",
+      "content": "Basic methods of measuring."
+    },
+    {
+      "label": "c.",
+      "content": "Benchmark and stabilization."
+    },
+    {
+      "label": "6.",
+      "content": "Measurrement of angles. (allowance 1/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Horizontal and vertical angles."
+    },
+    {
+      "label": "b.",
+      "content": "Magnetic azimuth."
+    },
+    {
+      "label": "c.",
+      "content": "Apparatures, methods of measuring."
+    },
+    {
+      "label": "7.",
+      "content": "Distances measurement. (allowance 1/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Measuring principle."
+    },
+    {
+      "label": "b.",
+      "content": "Methods of measuring."
+    },
+    {
+      "label": "c.",
+      "content": "Distances meter and accuracy."
+    },
+    {
+      "label": "8.",
+      "content": "Altimetric survey. (allowance 1/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Terminology, basic words."
+    },
+    {
+      "label": "b.",
+      "content": "Methods."
+    },
+    {
+      "label": "c.",
+      "content": "Apparatures and instruments."
+    },
+    {
+      "label": "9.",
+      "content": "Coordinate systems. (allowance 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Coordinate systems in Czech Republic."
+    },
+    {
+      "label": "b.",
+      "content": "Coordinate conversion."
+    },
+    {
+      "label": "10.",
+      "content": "Coordinate computation. (allowance 1/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Computation of bearing and lenght of sight line."
+    },
+    {
+      "label": "b.",
+      "content": "Polar and orthogonal methods."
+    },
+    {
+      "label": "c.",
+      "content": "Methods of intersection."
+    },
+    {
+      "label": "11.",
+      "content": "Cartography. (allowance 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Definition, structure of cartography."
+    },
+    {
+      "label": "b.",
+      "content": "An overview of basic maps projection."
+    },
+    {
+      "label": "12.",
+      "content": "Map, plan. (allowance 1/3)"
+    },
+    {
+      "label": "b.",
+      "content": "Division of maps. Generalization."
+    },
+    {
+      "label": "13.",
+      "content": "Land Records. (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Introduction."
+    },
+    {
+      "label": "b.",
+      "content": "History of Land Records."
+    },
+    {
+      "label": "14.",
+      "content": "Cadastre of Real Estate of the Czech Republic. (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Introduction, subject and content of the Real Estate Cadastre."
+    },
+    {
+      "label": "b.",
+      "content": "Notation of legal relations to Real Estate."
+    },
+    {
+      "label": "c.",
+      "content": "Survey sketch."
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021, WS 2019/2020 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Geodézie AE"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Geodesy AE"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The teaching of the subject is only face-to-face."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Miloš Cibulka, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Forest Management and Applied Geoinformatics (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Miloš Cibulka, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday11.00-13.50B05 – Strojový sálM. CibulkaSeminarEvery week20Tuesday7.00-7.50B01M. CibulkaLectureEvery week81Thursday8.00-10.50B05 – Strojový sálM. CibulkaSeminarEvery week17Thursday13.00-15.50B05 – Strojový sálM. CibulkaSeminarEvery week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Basic knowledges about geodesy. Students will get the basic information about survey methods and appartures, coordinate systems, computations with rectangular and polar coordinates, cadastre and land records."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Geodesy - introduction. (allowance 1/1) a.Basic words.b.History.c.Objective and structure.2.Shape and dimensions of the Earth. (allowance 1/2) a.Terminology.b.Influence of the Earth curvature to measuring (lenght, angle, height).3.Substitute surfaces. (allowance 1/3) a.Basic reference surfaces (geoid, ellipsoid, sphere, plane).b.Coordinate - Geographical, Spatial Cartesian.4.Systems of measures (units). (allowance 1/2) a.Terminology.b.Lenght, angular and height altitude measure.5.Planimetric survey. (allowance 1/4) a.Apparatures, instruments.b.Basic methods of measuring.c.Benchmark and stabilization.6.Measurrement of angles. (allowance 1/4) a.Horizontal and vertical angles.b.Magnetic azimuth.c.Apparatures, methods of measuring.7.Distances measurement. (allowance 1/4) a.Measuring principle.b.Methods of measuring.c.Distances meter and accuracy.8.Altimetric survey. (allowance 1/6) a.Terminology, basic words.b.Methods.c.Apparatures and instruments.9.Coordinate systems. (allowance 1/3) a.Coordinate systems in Czech Republic.b.Coordinate conversion.10.Coordinate computation. (allowance 1/4) a.Computation of bearing and lenght of sight line.b.Polar and orthogonal methods.c.Methods of intersection.11.Cartography. (allowance 1/3) a.Definition, structure of cartography.b.An overview of basic maps projection.12.Map, plan. (allowance 1/3) a.Terminology.b.Division of maps. Generalization.13.Land Records. (allowance 1/1) a.Introduction.b.History of Land Records.14.Cadastre of Real Estate of the Czech Republic. (allowance 1/2) a.Introduction, subject and content of the Real Estate Cadastre.b.Notation of legal relations to Real Estate.c.Survey sketch."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Basic words.b.History.c.Objective and structure."
+    },
+    {
+      "label": "[section] Geodesy - introduction.",
+      "content": "a.Basic words.b.History.c.Objective and structure."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Terminology.b.Influence of the Earth curvature to measuring (lenght, angle, height)."
+    },
+    {
+      "label": "[section] Shape and dimensions of the Earth.",
+      "content": "a.Terminology.b.Influence of the Earth curvature to measuring (lenght, angle, height)."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Basic reference surfaces (geoid, ellipsoid, sphere, plane).b.Coordinate - Geographical, Spatial Cartesian."
+    },
+    {
+      "label": "[section] Substitute surfaces.",
+      "content": "a.Basic reference surfaces (geoid, ellipsoid, sphere, plane).b.Coordinate - Geographical, Spatial Cartesian."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Terminology.b.Lenght, angular and height altitude measure."
+    },
+    {
+      "label": "[section] Systems of measures (units).",
+      "content": "a.Terminology.b.Lenght, angular and height altitude measure."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Apparatures, instruments.b.Basic methods of measuring.c.Benchmark and stabilization."
+    },
+    {
+      "label": "[section] Planimetric survey.",
+      "content": "a.Apparatures, instruments.b.Basic methods of measuring.c.Benchmark and stabilization."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Horizontal and vertical angles.b.Magnetic azimuth.c.Apparatures, methods of measuring."
+    },
+    {
+      "label": "[section] Measurrement of angles.",
+      "content": "a.Horizontal and vertical angles.b.Magnetic azimuth.c.Apparatures, methods of measuring."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Measuring principle.b.Methods of measuring.c.Distances meter and accuracy."
+    },
+    {
+      "label": "[section] Distances measurement.",
+      "content": "a.Measuring principle.b.Methods of measuring.c.Distances meter and accuracy."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Terminology, basic words.b.Methods.c.Apparatures and instruments."
+    },
+    {
+      "label": "[section] Altimetric survey.",
+      "content": "a.Terminology, basic words.b.Methods.c.Apparatures and instruments."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Coordinate systems in Czech Republic.b.Coordinate conversion."
+    },
+    {
+      "label": "[section] Coordinate systems.",
+      "content": "a.Coordinate systems in Czech Republic.b.Coordinate conversion."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Computation of bearing and lenght of sight line.b.Polar and orthogonal methods.c.Methods of intersection."
+    },
+    {
+      "label": "[section] Coordinate computation.",
+      "content": "a.Computation of bearing and lenght of sight line.b.Polar and orthogonal methods.c.Methods of intersection."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Definition, structure of cartography.b.An overview of basic maps projection."
+    },
+    {
+      "label": "[section] Cartography.",
+      "content": "a.Definition, structure of cartography.b.An overview of basic maps projection."
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Terminology.b.Division of maps. Generalization."
+    },
+    {
+      "label": "[section] Map, plan.",
+      "content": "a.Terminology.b.Division of maps. Generalization."
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Introduction.b.History of Land Records."
+    },
+    {
+      "label": "[section] Land Records.",
+      "content": "a.Introduction.b.History of Land Records."
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Introduction, subject and content of the Real Estate Cadastre.b.Notation of legal relations to Real Estate.c.Survey sketch."
+    },
+    {
+      "label": "[section] Cadastre of Real Estate of the Czech Republic.",
+      "content": "a.Introduction, subject and content of the Real Estate Cadastre.b.Notation of legal relations to Real Estate.c.Survey sketch."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice42 hconsultation10 hpreparation for exam55 hpreparation for regular testing15 helaboration of reports32 hTotal168 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Credit and exam. The condition for obtaining the credit is elaboration of continuously assigned protocols, participation at least 80% in semester exercises and short practical test. Exam is writing (focused on coordinate geometry) and oral (theory). The required knowledge corresponds to the scope of the syllabus."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic: Geodézie pro dřevostavby. 2014. 1st ed. Brno: Mendelova univerzita v Brně, 154 p. ISBN 978-80-7509-130-7.FORAL, Jakub; VONDRÁK, Jiří. 2007. Geodetická příručka - část I, úhly, délky a výšky. Valašské Meziříčí: Ing. Tomáš Šváb - GEFIS.ŠÍMA, Jiří. 2003. Geoinformační terminologie pro geodety a kartografy: výklad 200 základních termínů, anglické, německé a ruské ekvivalenty. 1st ed. Zdiby: Výzkumný ústav geodetický, topografický a kartografický (VÚGTK), Odvětvové informační středisko, 87 p. ISBN 80-85881-20-9.MATĚJÍK, Miroslav; VITÁSKOVÁ, Jelena. 2002. Geodézie - katastr nemovitostí. Brno: MZLU v Brně, 99 p. ISBN 80-7157-568-2.Recommended:NEVOSÁD, Zdeněk; VITÁSEK, Josef. 1999. Geodézie I. Brno: CERM.ANDERSON, J.M., MIKHAIL, E.M. Surveying: theory and practise. 7. vyd. Boston: WCB/McGraw-Hill, 1167 s. ISBN 0070159149.FORAL, J., KALVODA, P., KRATOCHVÍL, R., ŠVÁB, T., VONDRÁK, J. Geodetická příručka, část II, výpočty, mapy, katastr nemovitostí, fotogrammetrie, GPS, Ing. Šváb Tomáš-GEFIS, Karafiátova 1313, Valašské Meziříčí, 2008."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "Geodézie pro dřevostavby. 2014. 1st ed. Brno: Mendelova univerzita v Brně, 154 p. ISBN 978-80-7509-130-7.FORAL, Jakub; VONDRÁK, Jiří. 2007. Geodetická příručka - část I, úhly, délky a výšky. Valašské Meziříčí: Ing. Tomáš Šváb - GEFIS.ŠÍMA, Jiří. 2003. Geoinformační terminologie pro geodety a kartografy: výklad 200 základních termínů, anglické, německé a ruské ekvivalenty. 1st ed. Zdiby: Výzkumný ústav geodetický, topografický a kartografický (VÚGTK), Odvětvové informační středisko, 87 p. ISBN 80-85881-20-9.MATĚJÍK, Miroslav; VITÁSKOVÁ, Jelena. 2002. Geodézie - katastr nemovitostí. Brno: MZLU v Brně, 99 p. ISBN 80-7157-568-2."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "NEVOSÁD, Zdeněk; VITÁSEK, Josef. 1999. Geodézie I. Brno: CERM.ANDERSON, J.M., MIKHAIL, E.M. Surveying: theory and practise. 7. vyd. Boston: WCB/McGraw-Hill, 1167 s. ISBN 0070159149.FORAL, J., KALVODA, P., KRATOCHVÍL, R., ŠVÁB, T., VONDRÁK, J. Geodetická příručka, část II, výpočty, mapy, katastr nemovitostí, fotogrammetrie, GPS, Ing. Šváb Tomáš-GEFIS, Karafiátova 1313, Valašské Meziříčí, 2008."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-AEG Agroecology, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:12:26",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

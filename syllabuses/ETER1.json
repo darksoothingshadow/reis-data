@@ -1,0 +1,821 @@
+{
+  "courseCode": "ETER1",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ETER1"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Elektrotechnika I"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Electrical Engineering I"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "RNDr. Tomáš Ondro, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav techniky a automobilové dopravy (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jan Janča (cvičící)Ing. Tomáš Koutný, Ph.D. (cvičící)RNDr. Tomáš Ondro, Ph.D. (garant, přednášející, zkoušející)Ing. Vlastimil Slaný, Ph.D. (cvičící)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "ÚVOD (dotace 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Rozdělení látek podle elektrické vodivosti."
+    },
+    {
+      "label": "b.",
+      "content": "Fyzikální podstata elektrického proudu"
+    },
+    {
+      "label": "c.",
+      "content": "Bezpečnostní předpisy pro práci ve školní elektrotechnické laboratoři."
+    },
+    {
+      "label": "d.",
+      "content": "Přehled měřicích přístrojů a jejich praktické využití."
+    },
+    {
+      "label": "2.",
+      "content": "ELEKTROSTATIKA (dotace 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Vznik elektrostatického pole, jeho potenciál, kapacita a energie."
+    },
+    {
+      "label": "b.",
+      "content": "Písemné přezkoušení z bezpečnostních předpisů."
+    },
+    {
+      "label": "c.",
+      "content": "Způsoby ochrany neživých částí elektrických zařízení před nebezpečným dotykovým napětím."
+    },
+    {
+      "label": "d.",
+      "content": "Úvod do laboratorních cvičení."
+    },
+    {
+      "label": "3.",
+      "content": "STEJNOSMĚRNÝ PROUD (dotace 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Elektrický obvod, proud a odpor."
+    },
+    {
+      "label": "b.",
+      "content": "Ohmův zákon, Kirchhoffovy zákony, spojování rezistorů."
+    },
+    {
+      "label": "c.",
+      "content": "Metoda postupného zjednodušování, tranfigurace obvodu, děliče napětí."
+    },
+    {
+      "label": "d.",
+      "content": "Metoda náhradních zdrojů, řešení podle Kirchhoffových zákonů."
+    },
+    {
+      "label": "e.",
+      "content": "Měření výkonu stejnosměrného proudu a jeho přesnost. LC."
+    },
+    {
+      "label": "f.",
+      "content": "Princip napěťové kompenzace."
+    },
+    {
+      "label": "4.",
+      "content": "ŘEŠENÍ ELEKTRICKÝCH OBVODŮ (dotace 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Metoda smyčkových proudů, metoda uzlových napětí."
+    },
+    {
+      "label": "b.",
+      "content": "Práce, výkon a účinnost elektrického proudu."
+    },
+    {
+      "label": "c.",
+      "content": "Tepelné a chemické účinky elektrického proudu."
+    },
+    {
+      "label": "d.",
+      "content": "Typy, vlastnosti, užití a údržba primárních a akumulátorových článků."
+    },
+    {
+      "label": "e.",
+      "content": "Paralelní a sériové řazení elektrických zdrojů."
+    },
+    {
+      "label": "f.",
+      "content": "Elektrický odpor a jeho měření výchylkovými metodami. LC."
+    },
+    {
+      "label": "5.",
+      "content": "MAGNETISMUS (dotace 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Vlastnosti magnetického pole"
+    },
+    {
+      "label": "b.",
+      "content": "Intenzita pole přímého vodiče"
+    },
+    {
+      "label": "c.",
+      "content": "Intenzita pole cívky."
+    },
+    {
+      "label": "d.",
+      "content": "Magnetomotorické napětí"
+    },
+    {
+      "label": "e.",
+      "content": "Vlastnosti magnetických materiálů, hysterezní smyčka."
+    },
+    {
+      "label": "f.",
+      "content": "Měření odporů Wheatstoneovým můstkem. LC."
+    },
+    {
+      "label": "6.",
+      "content": "ŘEŠENÍ MAGNETICKÝCH OBVODŮ (dotace 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Silové účinky magnetického pole, elektromagnetická indukce."
+    },
+    {
+      "label": "b.",
+      "content": "Indukčnost a vzájemná indukčnost."
+    },
+    {
+      "label": "c.",
+      "content": "Spojování cívek, energie magnetického pole"
+    },
+    {
+      "label": "d.",
+      "content": "Řešení stejnosměrných obvodů - numerické cvičení."
+    },
+    {
+      "label": "7.",
+      "content": "STŘÍDAVÝ PROUD (dotace 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Vznik střídavého napětí a proudu, zápis střídavých hodnot."
+    },
+    {
+      "label": "b.",
+      "content": "Jednoduché obvody s pasivními prvky, fázorové diagramy."
+    },
+    {
+      "label": "c.",
+      "content": "Rezonance."
+    },
+    {
+      "label": "d.",
+      "content": "Výkon a práce střídavého proudu."
+    },
+    {
+      "label": "e.",
+      "content": "Vznik trojfázového proudu, zapojení hvězda, trojúhelník, souměrné a nesouměrné obvody"
+    },
+    {
+      "label": "f.",
+      "content": "Výkon a práce trojfázové soustavy, podstata kompenzace účiníku."
+    },
+    {
+      "label": "g.",
+      "content": "Řešení střídavých obvodů - numerické cvičení."
+    },
+    {
+      "label": "8.",
+      "content": "HARMONICKÁ ANALÝZA A PŘECHODOVÉ DĚJE (dotace 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Rozklad periodických neharmonických průběhů"
+    },
+    {
+      "label": "b.",
+      "content": "Určení koeficientů, grafické znázornění."
+    },
+    {
+      "label": "c.",
+      "content": "Výkony."
+    },
+    {
+      "label": "d.",
+      "content": "Fyzikální podstata přechodových dějů, metody řešení - klasická, operátorová."
+    },
+    {
+      "label": "e.",
+      "content": "Přechodové děje v základních obvodech"
+    },
+    {
+      "label": "f.",
+      "content": "Výkon jednofázového proudu a jeho měření. LC."
+    },
+    {
+      "label": "g.",
+      "content": "Impedance a indukčnost cívky s feromagetickým jádrem. LC."
+    },
+    {
+      "label": "9.",
+      "content": "POLOVODIČOVÁ TECHNIKA (dotace 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Vodivost polovodičových materiálů, vlastnosti PN přechodu."
+    },
+    {
+      "label": "b.",
+      "content": "Dioda jako usměrňující, stabilizující a spínací prvek."
+    },
+    {
+      "label": "c.",
+      "content": "Tranzistor a jeho použití"
+    },
+    {
+      "label": "d.",
+      "content": "Řízené usměrňovače a spínací prvky tyristor, triak, diak."
+    },
+    {
+      "label": "e.",
+      "content": "Unipolární vícevrstvé prvky."
+    },
+    {
+      "label": "f.",
+      "content": "Měření velmi malých odporů dvojitým Thomsonovým můstkem. LC."
+    },
+    {
+      "label": "g.",
+      "content": "Přesnost měřicích přístrojů a jejich hodnocení. Kontrola měřicího přístroje pomocí počítače. LC."
+    },
+    {
+      "label": "10.",
+      "content": "INTEGROVANÉ OBVODY (dotace 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní analogové a číslicové obvody."
+    },
+    {
+      "label": "b.",
+      "content": "Řešení logických funkcí."
+    },
+    {
+      "label": "c.",
+      "content": "Klopné obvody, čítače, registry."
+    },
+    {
+      "label": "d.",
+      "content": "Měřicí zesilovač. LC."
+    },
+    {
+      "label": "11.",
+      "content": "MIKROPOČÍTAČOVÁ TECHNIKA (dotace 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní mikroprocesorové obvody."
+    },
+    {
+      "label": "b.",
+      "content": "Konstrukce číslicových výpočetních systémů."
+    },
+    {
+      "label": "c.",
+      "content": "Spínací vlastnosti tyristoru. LC."
+    },
+    {
+      "label": "d.",
+      "content": "Přechodné děje na RC článku. LC."
+    },
+    {
+      "label": "12.",
+      "content": "OBECNÉ ASPEKTY ELEKTRICKÝCH MĚŘENÍ. (dotace 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Analogové měřicí přístroje. Druhy, konstrukce, užití."
+    },
+    {
+      "label": "b.",
+      "content": "Základní číslicové měřicí přístroje a jejich použití."
+    },
+    {
+      "label": "c.",
+      "content": "Základní druhy elektrických převodníků."
+    },
+    {
+      "label": "d.",
+      "content": "Chyby měřicích metod a chyby měřicích přístrojů."
+    },
+    {
+      "label": "e.",
+      "content": "Ověření metody smyčkových proudů. LC."
+    },
+    {
+      "label": "13.",
+      "content": "ZÁKLADY MĚŘENÍ ELEKTRICKÝCH A NEELEKTRICKÝCH VELIČIN (dotace 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Měření elektrického napětí, proudu a odporu."
+    },
+    {
+      "label": "b.",
+      "content": "Měření indukčnosti, kapacity, frekvence, účiníku, elektrického výkonu, elektrické energie."
+    },
+    {
+      "label": "c.",
+      "content": "Převod fyzikálních veličin na elektrický signál."
+    },
+    {
+      "label": "d.",
+      "content": "Zpracování naměřených dat."
+    },
+    {
+      "label": "e.",
+      "content": "Nahrazovací, konzultační a demonstrační cvičení."
+    },
+    {
+      "label": "14.",
+      "content": "ÚVOD DO STUDIA ELEKTRICKÝCH STROJŮ (dotace 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Elektrické stroje pro přeměnu úrovně a frekvence elektrického napětí a proudu."
+    },
+    {
+      "label": "b.",
+      "content": "Vyhodnocení zpracovaných protokolů, zápočet."
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Elektrotechnika I"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Electrical Engineering I"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: RNDr. Tomáš Ondro, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav techniky a automobilové dopravy (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jan Janča (cvičící)Ing. Tomáš Koutný, Ph.D. (cvičící)RNDr. Tomáš Ondro, Ph.D. (garant, přednášející, zkoušející)Ing. Vlastimil Slaný, Ph.D. (cvičící)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí7.00-8.50Q01.39V. SlanýCvičeníKaždý týden12Pondělí9.00-10.50Q01.39T. KoutnýCvičeníKaždý týden12Pondělí11.00-12.50Q01.39T. KoutnýCvičeníKaždý týden13Pondělí13.00-14.50Q01.39J. JančaCvičeníKaždý týden12Úterý7.00-8.50Q01.39V. SlanýCvičeníKaždý týden13Úterý15.00-16.50C02T. OndroPřednáškaKaždý týden132"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Rozvoj teoretických a zvláště praktických znalostí, dovedností a návyků z oblasti elektrotechniky a elektroniky a mikroprocesorové techniky"
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.ÚVOD (dotace 3/3) a.Rozdělení látek podle elektrické vodivosti.b.Fyzikální podstata elektrického prouduc.Bezpečnostní předpisy pro práci ve školní elektrotechnické laboratoři.d.Přehled měřicích přístrojů a jejich praktické využití.2.ELEKTROSTATIKA (dotace 3/3) a.Vznik elektrostatického pole, jeho potenciál, kapacita a energie.b.Písemné přezkoušení z bezpečnostních předpisů.c.Způsoby ochrany neživých částí elektrických zařízení před nebezpečným dotykovým napětím.d.Úvod do laboratorních cvičení.3.STEJNOSMĚRNÝ PROUD (dotace 3/3) a.Elektrický obvod, proud a odpor.b.Ohmův zákon, Kirchhoffovy zákony, spojování rezistorů.c.Metoda postupného zjednodušování, tranfigurace obvodu, děliče napětí.d.Metoda náhradních zdrojů, řešení podle Kirchhoffových zákonů.e.Měření výkonu stejnosměrného proudu a jeho přesnost. LC.f.Princip napěťové kompenzace.4.ŘEŠENÍ ELEKTRICKÝCH OBVODŮ (dotace 3/3) a.Metoda smyčkových proudů, metoda uzlových napětí.b.Práce, výkon a účinnost elektrického proudu.c.Tepelné a chemické účinky elektrického proudu.d.Typy, vlastnosti, užití a údržba primárních a akumulátorových článků.e.Paralelní a sériové řazení elektrických zdrojů.f.Elektrický odpor a jeho měření výchylkovými metodami. LC.5.MAGNETISMUS (dotace 3/3) a.Vlastnosti magnetického poleb.Intenzita pole přímého vodičec.Intenzita pole cívky.d.Magnetomotorické napětíe.Vlastnosti magnetických materiálů, hysterezní smyčka.f.Měření odporů Wheatstoneovým můstkem. LC.6.ŘEŠENÍ MAGNETICKÝCH OBVODŮ (dotace 3/3) a.Silové účinky magnetického pole, elektromagnetická indukce.b.Indukčnost a vzájemná indukčnost.c.Spojování cívek, energie magnetického poled.Řešení stejnosměrných obvodů - numerické cvičení.7.STŘÍDAVÝ PROUD (dotace 3/3) a.Vznik střídavého napětí a proudu, zápis střídavých hodnot.b.Jednoduché obvody s pasivními prvky, fázorové diagramy.c.Rezonance.d.Výkon a práce střídavého proudu.e.Vznik trojfázového proudu, zapojení hvězda, trojúhelník, souměrné a nesouměrné obvodyf.Výkon a práce trojfázové soustavy, podstata kompenzace účiníku.g.Řešení střídavých obvodů - numerické cvičení.8.HARMONICKÁ ANALÝZA A PŘECHODOVÉ DĚJE (dotace 3/3) a.Rozklad periodických neharmonických průběhůb.Určení koeficientů, grafické znázornění.c.Výkony.d.Fyzikální podstata přechodových dějů, metody řešení - klasická, operátorová.e.Přechodové děje v základních obvodechf.Výkon jednofázového proudu a jeho měření. LC.g.Impedance a indukčnost cívky s feromagetickým jádrem. LC.9.POLOVODIČOVÁ TECHNIKA (dotace 3/3) a.Vodivost polovodičových materiálů, vlastnosti PN přechodu.b.Dioda jako usměrňující, stabilizující a spínací prvek.c.Tranzistor a jeho použitíd.Řízené usměrňovače a spínací prvky tyristor, triak, diak.e.Unipolární vícevrstvé prvky.f.Měření velmi malých odporů dvojitým Thomsonovým můstkem. LC.g.Přesnost měřicích přístrojů a jejich hodnocení. Kontrola měřicího přístroje pomocí počítače. LC.10.INTEGROVANÉ OBVODY (dotace 3/3) a.Základní analogové a číslicové obvody.b.Řešení logických funkcí.c.Klopné obvody, čítače, registry.d.Měřicí zesilovač. LC.11.MIKROPOČÍTAČOVÁ TECHNIKA (dotace 3/3) a.Základní mikroprocesorové obvody.b.Konstrukce číslicových výpočetních systémů.c.Spínací vlastnosti tyristoru. LC.d.Přechodné děje na RC článku. LC.12.OBECNÉ ASPEKTY ELEKTRICKÝCH MĚŘENÍ. (dotace 3/3) a.Analogové měřicí přístroje. Druhy, konstrukce, užití.b.Základní číslicové měřicí přístroje a jejich použití.c.Základní druhy elektrických převodníků.d.Chyby měřicích metod a chyby měřicích přístrojů.e.Ověření metody smyčkových proudů. LC.13.ZÁKLADY MĚŘENÍ ELEKTRICKÝCH A NEELEKTRICKÝCH VELIČIN (dotace 3/3) a.Měření elektrického napětí, proudu a odporu.b.Měření indukčnosti, kapacity, frekvence, účiníku, elektrického výkonu, elektrické energie.c.Převod fyzikálních veličin na elektrický signál.d.Zpracování naměřených dat.e.Nahrazovací, konzultační a demonstrační cvičení.14.ÚVOD DO STUDIA ELEKTRICKÝCH STROJŮ (dotace 3/3) a.Elektrické stroje pro přeměnu úrovně a frekvence elektrického napětí a proudu.b.Vyhodnocení zpracovaných protokolů, zápočet."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Rozdělení látek podle elektrické vodivosti.b.Fyzikální podstata elektrického prouduc.Bezpečnostní předpisy pro práci ve školní elektrotechnické laboratoři.d.Přehled měřicích přístrojů a jejich praktické využití."
+    },
+    {
+      "label": "[section] ÚVOD",
+      "content": "a.Rozdělení látek podle elektrické vodivosti.b.Fyzikální podstata elektrického prouduc.Bezpečnostní předpisy pro práci ve školní elektrotechnické laboratoři.d.Přehled měřicích přístrojů a jejich praktické využití."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Vznik elektrostatického pole, jeho potenciál, kapacita a energie.b.Písemné přezkoušení z bezpečnostních předpisů.c.Způsoby ochrany neživých částí elektrických zařízení před nebezpečným dotykovým napětím.d.Úvod do laboratorních cvičení."
+    },
+    {
+      "label": "[section] ELEKTROSTATIKA",
+      "content": "a.Vznik elektrostatického pole, jeho potenciál, kapacita a energie.b.Písemné přezkoušení z bezpečnostních předpisů.c.Způsoby ochrany neživých částí elektrických zařízení před nebezpečným dotykovým napětím.d.Úvod do laboratorních cvičení."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Elektrický obvod, proud a odpor.b.Ohmův zákon, Kirchhoffovy zákony, spojování rezistorů.c.Metoda postupného zjednodušování, tranfigurace obvodu, děliče napětí.d.Metoda náhradních zdrojů, řešení podle Kirchhoffových zákonů.e.Měření výkonu stejnosměrného proudu a jeho přesnost. LC.f.Princip napěťové kompenzace."
+    },
+    {
+      "label": "[section] STEJNOSMĚRNÝ PROUD",
+      "content": "a.Elektrický obvod, proud a odpor.b.Ohmův zákon, Kirchhoffovy zákony, spojování rezistorů.c.Metoda postupného zjednodušování, tranfigurace obvodu, děliče napětí.d.Metoda náhradních zdrojů, řešení podle Kirchhoffových zákonů.e.Měření výkonu stejnosměrného proudu a jeho přesnost. LC.f.Princip napěťové kompenzace."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Metoda smyčkových proudů, metoda uzlových napětí.b.Práce, výkon a účinnost elektrického proudu.c.Tepelné a chemické účinky elektrického proudu.d.Typy, vlastnosti, užití a údržba primárních a akumulátorových článků.e.Paralelní a sériové řazení elektrických zdrojů.f.Elektrický odpor a jeho měření výchylkovými metodami. LC."
+    },
+    {
+      "label": "[section] ŘEŠENÍ ELEKTRICKÝCH OBVODŮ",
+      "content": "a.Metoda smyčkových proudů, metoda uzlových napětí.b.Práce, výkon a účinnost elektrického proudu.c.Tepelné a chemické účinky elektrického proudu.d.Typy, vlastnosti, užití a údržba primárních a akumulátorových článků.e.Paralelní a sériové řazení elektrických zdrojů.f.Elektrický odpor a jeho měření výchylkovými metodami. LC."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Vlastnosti magnetického poleb.Intenzita pole přímého vodičec.Intenzita pole cívky.d.Magnetomotorické napětíe.Vlastnosti magnetických materiálů, hysterezní smyčka.f.Měření odporů Wheatstoneovým můstkem. LC."
+    },
+    {
+      "label": "[section] MAGNETISMUS",
+      "content": "a.Vlastnosti magnetického poleb.Intenzita pole přímého vodičec.Intenzita pole cívky.d.Magnetomotorické napětíe.Vlastnosti magnetických materiálů, hysterezní smyčka.f.Měření odporů Wheatstoneovým můstkem. LC."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Silové účinky magnetického pole, elektromagnetická indukce.b.Indukčnost a vzájemná indukčnost.c.Spojování cívek, energie magnetického poled.Řešení stejnosměrných obvodů - numerické cvičení."
+    },
+    {
+      "label": "[section] ŘEŠENÍ MAGNETICKÝCH OBVODŮ",
+      "content": "a.Silové účinky magnetického pole, elektromagnetická indukce.b.Indukčnost a vzájemná indukčnost.c.Spojování cívek, energie magnetického poled.Řešení stejnosměrných obvodů - numerické cvičení."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Vznik střídavého napětí a proudu, zápis střídavých hodnot.b.Jednoduché obvody s pasivními prvky, fázorové diagramy.c.Rezonance.d.Výkon a práce střídavého proudu.e.Vznik trojfázového proudu, zapojení hvězda, trojúhelník, souměrné a nesouměrné obvodyf.Výkon a práce trojfázové soustavy, podstata kompenzace účiníku.g.Řešení střídavých obvodů - numerické cvičení."
+    },
+    {
+      "label": "[section] STŘÍDAVÝ PROUD",
+      "content": "a.Vznik střídavého napětí a proudu, zápis střídavých hodnot.b.Jednoduché obvody s pasivními prvky, fázorové diagramy.c.Rezonance.d.Výkon a práce střídavého proudu.e.Vznik trojfázového proudu, zapojení hvězda, trojúhelník, souměrné a nesouměrné obvodyf.Výkon a práce trojfázové soustavy, podstata kompenzace účiníku.g.Řešení střídavých obvodů - numerické cvičení."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Rozklad periodických neharmonických průběhůb.Určení koeficientů, grafické znázornění.c.Výkony.d.Fyzikální podstata přechodových dějů, metody řešení - klasická, operátorová.e.Přechodové děje v základních obvodechf.Výkon jednofázového proudu a jeho měření. LC.g.Impedance a indukčnost cívky s feromagetickým jádrem. LC."
+    },
+    {
+      "label": "[section] HARMONICKÁ ANALÝZA A PŘECHODOVÉ DĚJE",
+      "content": "a.Rozklad periodických neharmonických průběhůb.Určení koeficientů, grafické znázornění.c.Výkony.d.Fyzikální podstata přechodových dějů, metody řešení - klasická, operátorová.e.Přechodové děje v základních obvodechf.Výkon jednofázového proudu a jeho měření. LC.g.Impedance a indukčnost cívky s feromagetickým jádrem. LC."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Vodivost polovodičových materiálů, vlastnosti PN přechodu.b.Dioda jako usměrňující, stabilizující a spínací prvek.c.Tranzistor a jeho použitíd.Řízené usměrňovače a spínací prvky tyristor, triak, diak.e.Unipolární vícevrstvé prvky.f.Měření velmi malých odporů dvojitým Thomsonovým můstkem. LC.g.Přesnost měřicích přístrojů a jejich hodnocení. Kontrola měřicího přístroje pomocí počítače. LC."
+    },
+    {
+      "label": "[section] POLOVODIČOVÁ TECHNIKA",
+      "content": "a.Vodivost polovodičových materiálů, vlastnosti PN přechodu.b.Dioda jako usměrňující, stabilizující a spínací prvek.c.Tranzistor a jeho použitíd.Řízené usměrňovače a spínací prvky tyristor, triak, diak.e.Unipolární vícevrstvé prvky.f.Měření velmi malých odporů dvojitým Thomsonovým můstkem. LC.g.Přesnost měřicích přístrojů a jejich hodnocení. Kontrola měřicího přístroje pomocí počítače. LC."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Základní analogové a číslicové obvody.b.Řešení logických funkcí.c.Klopné obvody, čítače, registry.d.Měřicí zesilovač. LC."
+    },
+    {
+      "label": "[section] INTEGROVANÉ OBVODY",
+      "content": "a.Základní analogové a číslicové obvody.b.Řešení logických funkcí.c.Klopné obvody, čítače, registry.d.Měřicí zesilovač. LC."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Základní mikroprocesorové obvody.b.Konstrukce číslicových výpočetních systémů.c.Spínací vlastnosti tyristoru. LC.d.Přechodné děje na RC článku. LC."
+    },
+    {
+      "label": "[section] MIKROPOČÍTAČOVÁ TECHNIKA",
+      "content": "a.Základní mikroprocesorové obvody.b.Konstrukce číslicových výpočetních systémů.c.Spínací vlastnosti tyristoru. LC.d.Přechodné děje na RC článku. LC."
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Analogové měřicí přístroje. Druhy, konstrukce, užití.b.Základní číslicové měřicí přístroje a jejich použití.c.Základní druhy elektrických převodníků.d.Chyby měřicích metod a chyby měřicích přístrojů.e.Ověření metody smyčkových proudů. LC."
+    },
+    {
+      "label": "[section] OBECNÉ ASPEKTY ELEKTRICKÝCH MĚŘENÍ.",
+      "content": "a.Analogové měřicí přístroje. Druhy, konstrukce, užití.b.Základní číslicové měřicí přístroje a jejich použití.c.Základní druhy elektrických převodníků.d.Chyby měřicích metod a chyby měřicích přístrojů.e.Ověření metody smyčkových proudů. LC."
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Měření elektrického napětí, proudu a odporu.b.Měření indukčnosti, kapacity, frekvence, účiníku, elektrického výkonu, elektrické energie.c.Převod fyzikálních veličin na elektrický signál.d.Zpracování naměřených dat.e.Nahrazovací, konzultační a demonstrační cvičení."
+    },
+    {
+      "label": "[section] ZÁKLADY MĚŘENÍ ELEKTRICKÝCH A NEELEKTRICKÝCH VELIČIN",
+      "content": "a.Měření elektrického napětí, proudu a odporu.b.Měření indukčnosti, kapacity, frekvence, účiníku, elektrického výkonu, elektrické energie.c.Převod fyzikálních veličin na elektrický signál.d.Zpracování naměřených dat.e.Nahrazovací, konzultační a demonstrační cvičení."
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Elektrické stroje pro přeměnu úrovně a frekvence elektrického napětí a proudu.b.Vyhodnocení zpracovaných protokolů, zápočet."
+    },
+    {
+      "label": "[section] ÚVOD DO STUDIA ELEKTRICKÝCH STROJŮ",
+      "content": "a.Elektrické stroje pro přeměnu úrovně a frekvence elektrického napětí a proudu.b.Vyhodnocení zpracovaných protokolů, zápočet."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumCelkem0 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Pro udělení zápočtu je nutno odevzdat protokoly z jednotlivých cvičení. Předmět je ukončen zkouškou, která je písemná."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Doporučená:Bajer, A.,Škyřík,J., Automatizace, Návody do cvičení, Brno: Skriptum VŠZ, 1983Hradil, ,F. ,Schieblová, J., Elektrotechnika I, Návody do cvičení, Brno: Skriptum VŠZ, 1980Schieblová, J., Škyřík, J., Elektrotechnika a mikroelektronika, Brno: Skriptum VŠZ, 1988Voženílek, L., Kurz elektrotechniky, SNTL Praha 1988"
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "Bajer, A.,Škyřík,J., Automatizace, Návody do cvičení, Brno: Skriptum VŠZ, 1983Hradil, ,F. ,Schieblová, J., Elektrotechnika I, Návody do cvičení, Brno: Skriptum VŠZ, 1980Schieblová, J., Škyřík, J., Elektrotechnika a mikroelektronika, Brno: Skriptum VŠZ, 1988Voženílek, L., Kurz elektrotechniky, SNTL Praha 1988"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-ATE Aplikovaná technika, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ETER1"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Elektrotechnika I"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Electrical Engineering I"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "RNDr. Tomáš Ondro, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Technology and Automobile Transport (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jan Janča (instructor)Ing. Tomáš Koutný, Ph.D. (instructor)RNDr. Tomáš Ondro, Ph.D. (examiner, lecturer, supervisor)Ing. Vlastimil Slaný, Ph.D. (instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Elektrotechnika I"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Electrical Engineering I"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: RNDr. Tomáš Ondro, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Technology and Automobile Transport (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jan Janča (instructor)Ing. Tomáš Koutný, Ph.D. (instructor)RNDr. Tomáš Ondro, Ph.D. (examiner, lecturer, supervisor)Ing. Vlastimil Slaný, Ph.D. (instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday7.00-8.50Q01.39V. SlanýSeminarEvery week12Monday9.00-10.50Q01.39T. KoutnýSeminarEvery week12Monday11.00-12.50Q01.39T. KoutnýSeminarEvery week13Monday13.00-14.50Q01.39J. JančaSeminarEvery week12Tuesday7.00-8.50Q01.39V. SlanýSeminarEvery week13Tuesday15.00-16.50C02T. OndroLectureEvery week132"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "The content of the course has not been saved in this language version."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceTotal0 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "For the award of credit is required the submission of individual exercise protocols. The course is completed by exam in the written form."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Recommended:Bajer, A.,Škyřík,J., Automatizace, Návody do cvičení, Brno: Skriptum VŠZ, 1983Hradil, ,F. ,Schieblová, J., Elektrotechnika I, Návody do cvičení, Brno: Skriptum VŠZ, 1980Schieblová, J., Škyřík, J., Elektrotechnika a mikroelektronika, Brno: Skriptum VŠZ, 1988Voženílek, L., Kurz elektrotechniky, SNTL Praha 1988"
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "Bajer, A.,Škyřík,J., Automatizace, Návody do cvičení, Brno: Skriptum VŠZ, 1983Hradil, ,F. ,Schieblová, J., Elektrotechnika I, Návody do cvičení, Brno: Skriptum VŠZ, 1980Schieblová, J., Škyřík, J., Elektrotechnika a mikroelektronika, Brno: Skriptum VŠZ, 1988Voženílek, L., Kurz elektrotechniky, SNTL Praha 1988"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-ATE Applied Technology, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:04:55",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

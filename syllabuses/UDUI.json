@@ -1,0 +1,633 @@
+{
+  "courseCode": "UDUI",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "UDUI"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Úvod do umělé inteligence"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Elements of AI"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (1 kredit)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský; magisterský; magisterský navazující; doktorský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Individuální on-line studium s využitím on-line individuálních konzultací a průběžné testování znalostí prostřednictvím testů přes WEB. Hodnocení je založeno na cvičeních, včetně kvízů s výběrem z několika odpovědí, numerických cvičení a otázek, které vyžadují písemnou odpověď. Numerická cvičení s možností výběru z více možností jsou kontrolovány automaticky a cvičení s písemnými odpověďmi kontrolují ostatní studenti (vzájemné hodnocení) a v některých případech i instruktoři. Absolvování kurzu vyžaduje úspěšné vyhotovení minimálně 90 % cvičení a minimálně 50% správnost. Kurz je hodnocen známkou prospěl/neprospěl (žádné číselné hodnocení)."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Vlastimil Slaný, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav zemědělské, potravinářské a environmentální techniky (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Dr. Ing. Vladimír Kebo (cvičící, přednášející, zkoušející)Ing. Vlastimil Slaný, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "I. Co je umělá inteligence? Vezme mi robot práci? Jak moc je pravděpodobné, že umělá inteligence v dalších deseti letech změní mou práci? Kde se technologie umělé inteligence dnes používají a kam přijdou dále? (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "1. Jak definovat umělou inteligenci? V tomto úvodním oddíle se seznámíme s pojmem umělá inteligence a podíváme se na jeho definici a některé příklady."
+    },
+    {
+      "label": "b.",
+      "content": "2. Související oblastiKromě umělé inteligence existuje několik dalších s ní úzce souvisejících témat, která je dobré znát alespoň podle názvu. Patří sem strojové učení, datová věda a hluboké učení."
+    },
+    {
+      "label": "c.",
+      "content": "3. Filozofie umělé inteligenceSamotná povaha výrazu „umělá inteligence“ nastoluje filozofické otázky, zda inteligentní chování znamená nebo vyžaduje existenci mysli a do jaké míry je vědomí replikovatelné jako výpočet."
+    },
+    {
+      "label": "2.",
+      "content": "II. Řešení problémů pomocí umělé inteligence.Vyhledávací algoritmy nám nutně nemusí připadat jako úžasné metody umělé inteligence. Lze je však použít k řešení úkolů, které, jak by většina z nás uznala, vyžadují inteligenci; patří sem např. navigace a šachy. (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "1. Vyhledávání a řešení problémůMnoho problémů můžeme nazvat vyhledávacími problémy. Tyto problémy vyžadují, abychom začali formulováním alternativních voleb a jejich důsledků."
+    },
+    {
+      "label": "b.",
+      "content": "2. Řešení problémů pomocí umělé inteligenceUmělá inteligence je s velkou pravděpodobností tak stará jako kybernetika. Lidi napadla možnost automatického uvažování a inteligence dlouho před tím, než vznikly počítače. Jak jsme již zmínili v kapitole 1, jedním z velkých myslitelů, kteří se touto otázkou zabývali, byl Alan Turing. Kromě Turingova testu zahrnuje jeho přínos pro umělou inteligenci a obecněji pro informatiku také názor, že vše, co lze vypočítat (= vypočítat pomocí čísel nebo jiných symbolů), lze zautomatizovat."
+    },
+    {
+      "label": "c.",
+      "content": "3. Vyhledávání a hryV tomto oddíle budeme studovat klasický problém umělé inteligence: hry. Nejjednodušším scénářem, na který se zaměříme, abychom problematiku co nejlépe ozřejmili, jsou hry s úplnou informací pro dva hráče, jako jsou piškvorky a šachy."
+    },
+    {
+      "label": "3.",
+      "content": "III. Umělá inteligence v reálném světě.Jedním z důvodů, proč moderní metody umělé inteligence na rozdíl od většiny dřívějších zastaralých metod z 60. až 80. let 20. století v reálném světě skutečně fungují, je schopnost si poradit s nejistotou. (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "1. Šance a pravděpodobnostV předchozím oddíle jsme probírali vyhledávání a jeho uplatnění v případě, že máme úplné informace – například u her, jako jsou šachy. V reálném světě jsou však věci jen zřídkakdy tak jednoznačné."
+    },
+    {
+      "label": "b.",
+      "content": "2. Bayesova větaNebudeme zacházet příliš do detailů kalkulu pravděpodobnosti a všech způsobů, jak jej lze použít v různých aplikacích umělé inteligence, ale podíváme se na jeden důležitý vzorec."
+    },
+    {
+      "label": "c.",
+      "content": "3. Naivní Bayesovská klasifikaceJednou z nejužitečnějších aplikací Bayesovy věty je tzv. naivní Bayesovský klasifikátor."
+    },
+    {
+      "label": "4.",
+      "content": "IV. Strojové učeníJiž dlouho se bere za samozřejmé, že učení je klíčovým prvkem inteligence. Platí to jak pro přirozenou inteligenci – všichni jsme chytřejší díky učení – tak pro inteligenci umělou. (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "1. Typy strojového učeníRučně psané číslice jsou klasickým příkladem, který se často používá v diskusi o tom, proč strojové učení používáme. A ani my nebudeme výjimkou."
+    },
+    {
+      "label": "b.",
+      "content": "2. Klasifikace metodou nejbližšího sousedaMetoda klasifikací nejbližšího souseda patří mezi nejjednodušší možné klasifikátory. Když dostane položku ke klasifikaci, najde v trénovacích datech položku, která se nové položce nejvíce podobá, a poskytne její označení. Příklad je uveden v následujícím diagramu."
+    },
+    {
+      "label": "c.",
+      "content": "3. RegreseNaším hlavním cílem v tomto oddíle je naučit vás další pěkný příklad metod učení s učitelem, téměř tak jednoduchý jako klasifikace metodou nejbližšího souseda: lineární regrese. Rovněž představíme jejího blízkého příbuzného, logistickou regresi."
+    },
+    {
+      "label": "5.",
+      "content": "V. Neuronové sítěOblasti, jako jsou přirozený jazyk a zpracování obrazu, vždy byly citlivými místy umělé inteligence. Neuronové sítě a hluboké učení se v těchto oblastech využívají k dosahování výrazných pokroků. (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "1. Základy neuronových sítíNaše další téma, hluboké učení a neuronové sítě, zpravidla vzbuzuje větší zájem než většina ostatních."
+    },
+    {
+      "label": "b.",
+      "content": "2. Jak se tvoří neuronové sítěJak jsme již uvedli, neurony jsou velmi jednoduché „zpracovací“ jednotky. Poté, co jsme probrali lineární a logistickou regresi v kapitole 4, můžeme základní technické údaje o neuronových sítích vnímat jako drobné variace stejné myšlenky."
+    },
+    {
+      "label": "c.",
+      "content": "3. Pokročilé techniky neuronových sítíV předchozím oddílu jsme probírali základní myšlenky stojící za většinou metod založených na neuronových sítích: vícevrstvé sítě, nelineární aktivační funkce a pravidla učení, jako je algoritmus zpětného šíření."
+    },
+    {
+      "label": "6.",
+      "content": "VI. Důsledky UITheodore Roosevelt: „Domnívám se, že čím více toho víte o minulosti, tím lépe jste připraveni na budoucnost.“ (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "1. Předpovídání budoucnostiZačneme tím, co je známo jako jeden z největších problémů vůbec: předpovídání budoucnosti."
+    },
+    {
+      "label": "b.",
+      "content": "2. Společenské dopady umělé inteligenceNa samém začátku tohoto kurzu jsme se krátce zabývali významem umělé inteligence v dnešní a zítřejší společnosti, ale jen v omezeném rozsahu, protože jsme ještě neozřejmili dostatek technických pojmů a metod, abychom diskusi mohli postavit na konkrétních základech."
+    },
+    {
+      "label": "c.",
+      "content": "3. ShrnutíNejdůležitější rozhodnutí, která určují, jak dobře se naše společnost dokáže přizpůsobit změnám způsobeným umělou inteligencí, nejsou technologická. Jsou politická."
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "50 %"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "40 %"
+    },
+    {
+      "label": "Certifikát kurzu Elements of AI",
+      "content": "10 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, LS 2023/2024, ZS 2023/2024, LS 2022/2023, ZS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Úvod do umělé inteligence"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Elements of AI"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (1 kredit)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (1 kredit)",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský; magisterský; magisterský navazující; doktorský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Individuální on-line studium s využitím on-line individuálních konzultací a průběžné testování znalostí prostřednictvím testů přes WEB. Hodnocení je založeno na cvičeních, včetně kvízů s výběrem z několika odpovědí, numerických cvičení a otázek, které vyžadují písemnou odpověď. Numerická cvičení s možností výběru z více možností jsou kontrolovány automaticky a cvičení s písemnými odpověďmi kontrolují ostatní studenti (vzájemné hodnocení) a v některých případech i instruktoři. Absolvování kurzu vyžaduje úspěšné vyhotovení minimálně 90 % cvičení a minimálně 50% správnost. Kurz je hodnocen známkou prospěl/neprospěl (žádné číselné hodnocení)."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Vlastimil Slaný, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav zemědělské, potravinářské a environmentální techniky (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Dr. Ing. Vladimír Kebo (cvičící, přednášející, zkoušející)Ing. Vlastimil Slaný, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí15.00-16.50Q01.06V. SlanýCvičeníKaždý týden26"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Co to je umělá inteligence? Jak ovlivňuje naše životy? A co všechno je s umělou inteligencí možné? Online kurz vás uvede do tématu umělé inteligence (AI) bez nutnosti rozumět komplikované matematice a programování. Online kurz připravila Univerzita v Helsinkách ve spolupráci s firmou Reaktor a studenti AF MENDELU ho budou moci absolvovat v češtině nebo v angličtině. Další informace: https://www.elementsofai.cz."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.I. Co je umělá inteligence? Vezme mi robot práci? Jak moc je pravděpodobné, že umělá inteligence v dalších deseti letech změní mou práci? Kde se technologie umělé inteligence dnes používají a kam přijdou dále? (dotace 0/4) a.1. Jak definovat umělou inteligenci? V tomto úvodním oddíle se seznámíme s pojmem umělá inteligence a podíváme se na jeho definici a některé příklady.b.2. Související oblastiKromě umělé inteligence existuje několik dalších s ní úzce souvisejících témat, která je dobré znát alespoň podle názvu. Patří sem strojové učení, datová věda a hluboké učení.c.3. Filozofie umělé inteligenceSamotná povaha výrazu „umělá inteligence“ nastoluje filozofické otázky, zda inteligentní chování znamená nebo vyžaduje existenci mysli a do jaké míry je vědomí replikovatelné jako výpočet.2.II. Řešení problémů pomocí umělé inteligence.Vyhledávací algoritmy nám nutně nemusí připadat jako úžasné metody umělé inteligence. Lze je však použít k řešení úkolů, které, jak by většina z nás uznala, vyžadují inteligenci; patří sem např. navigace a šachy. (dotace 0/4) a.1. Vyhledávání a řešení problémůMnoho problémů můžeme nazvat vyhledávacími problémy. Tyto problémy vyžadují, abychom začali formulováním alternativních voleb a jejich důsledků.b.2. Řešení problémů pomocí umělé inteligenceUmělá inteligence je s velkou pravděpodobností tak stará jako kybernetika. Lidi napadla možnost automatického uvažování a inteligence dlouho před tím, než vznikly počítače. Jak jsme již zmínili v kapitole 1, jedním z velkých myslitelů, kteří se touto otázkou zabývali, byl Alan Turing. Kromě Turingova testu zahrnuje jeho přínos pro umělou inteligenci a obecněji pro informatiku také názor, že vše, co lze vypočítat (= vypočítat pomocí čísel nebo jiných symbolů), lze zautomatizovat.c.3. Vyhledávání a hryV tomto oddíle budeme studovat klasický problém umělé inteligence: hry. Nejjednodušším scénářem, na který se zaměříme, abychom problematiku co nejlépe ozřejmili, jsou hry s úplnou informací pro dva hráče, jako jsou piškvorky a šachy.3.III. Umělá inteligence v reálném světě.Jedním z důvodů, proč moderní metody umělé inteligence na rozdíl od většiny dřívějších zastaralých metod z 60. až 80. let 20. století v reálném světě skutečně fungují, je schopnost si poradit s nejistotou. (dotace 0/4) a.1. Šance a pravděpodobnostV předchozím oddíle jsme probírali vyhledávání a jeho uplatnění v případě, že máme úplné informace – například u her, jako jsou šachy. V reálném světě jsou však věci jen zřídkakdy tak jednoznačné.b.2. Bayesova větaNebudeme zacházet příliš do detailů kalkulu pravděpodobnosti a všech způsobů, jak jej lze použít v různých aplikacích umělé inteligence, ale podíváme se na jeden důležitý vzorec.c.3. Naivní Bayesovská klasifikaceJednou z nejužitečnějších aplikací Bayesovy věty je tzv. naivní Bayesovský klasifikátor.4.IV. Strojové učeníJiž dlouho se bere za samozřejmé, že učení je klíčovým prvkem inteligence. Platí to jak pro přirozenou inteligenci – všichni jsme chytřejší díky učení – tak pro inteligenci umělou. (dotace 0/4) a.1. Typy strojového učeníRučně psané číslice jsou klasickým příkladem, který se často používá v diskusi o tom, proč strojové učení používáme. A ani my nebudeme výjimkou.b.2. Klasifikace metodou nejbližšího sousedaMetoda klasifikací nejbližšího souseda patří mezi nejjednodušší možné klasifikátory. Když dostane položku ke klasifikaci, najde v trénovacích datech položku, která se nové položce nejvíce podobá, a poskytne její označení. Příklad je uveden v následujícím diagramu.c.3. RegreseNaším hlavním cílem v tomto oddíle je naučit vás další pěkný příklad metod učení s učitelem, téměř tak jednoduchý jako klasifikace metodou nejbližšího souseda: lineární regrese. Rovněž představíme jejího blízkého příbuzného, logistickou regresi.5.V. Neuronové sítěOblasti, jako jsou přirozený jazyk a zpracování obrazu, vždy byly citlivými místy umělé inteligence. Neuronové sítě a hluboké učení se v těchto oblastech využívají k dosahování výrazných pokroků. (dotace 0/4) a.1. Základy neuronových sítíNaše další téma, hluboké učení a neuronové sítě, zpravidla vzbuzuje větší zájem než většina ostatních.b.2. Jak se tvoří neuronové sítěJak jsme již uvedli, neurony jsou velmi jednoduché „zpracovací“ jednotky. Poté, co jsme probrali lineární a logistickou regresi v kapitole 4, můžeme základní technické údaje o neuronových sítích vnímat jako drobné variace stejné myšlenky.c.3. Pokročilé techniky neuronových sítíV předchozím oddílu jsme probírali základní myšlenky stojící za většinou metod založených na neuronových sítích: vícevrstvé sítě, nelineární aktivační funkce a pravidla učení, jako je algoritmus zpětného šíření.6.VI. Důsledky UITheodore Roosevelt: „Domnívám se, že čím více toho víte o minulosti, tím lépe jste připraveni na budoucnost.“ (dotace 0/4) a.1. Předpovídání budoucnostiZačneme tím, co je známo jako jeden z největších problémů vůbec: předpovídání budoucnosti.b.2. Společenské dopady umělé inteligenceNa samém začátku tohoto kurzu jsme se krátce zabývali významem umělé inteligence v dnešní a zítřejší společnosti, ale jen v omezeném rozsahu, protože jsme ještě neozřejmili dostatek technických pojmů a metod, abychom diskusi mohli postavit na konkrétních základech.c.3. ShrnutíNejdůležitější rozhodnutí, která určují, jak dobře se naše společnost dokáže přizpůsobit změnám způsobeným umělou inteligencí, nejsou technologická. Jsou politická."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.1. Jak definovat umělou inteligenci? V tomto úvodním oddíle se seznámíme s pojmem umělá inteligence a podíváme se na jeho definici a některé příklady.b.2. Související oblastiKromě umělé inteligence existuje několik dalších s ní úzce souvisejících témat, která je dobré znát alespoň podle názvu. Patří sem strojové učení, datová věda a hluboké učení.c.3. Filozofie umělé inteligenceSamotná povaha výrazu „umělá inteligence“ nastoluje filozofické otázky, zda inteligentní chování znamená nebo vyžaduje existenci mysli a do jaké míry je vědomí replikovatelné jako výpočet."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.1. Vyhledávání a řešení problémůMnoho problémů můžeme nazvat vyhledávacími problémy. Tyto problémy vyžadují, abychom začali formulováním alternativních voleb a jejich důsledků.b.2. Řešení problémů pomocí umělé inteligenceUmělá inteligence je s velkou pravděpodobností tak stará jako kybernetika. Lidi napadla možnost automatického uvažování a inteligence dlouho před tím, než vznikly počítače. Jak jsme již zmínili v kapitole 1, jedním z velkých myslitelů, kteří se touto otázkou zabývali, byl Alan Turing. Kromě Turingova testu zahrnuje jeho přínos pro umělou inteligenci a obecněji pro informatiku také názor, že vše, co lze vypočítat (= vypočítat pomocí čísel nebo jiných symbolů), lze zautomatizovat.c.3. Vyhledávání a hryV tomto oddíle budeme studovat klasický problém umělé inteligence: hry. Nejjednodušším scénářem, na který se zaměříme, abychom problematiku co nejlépe ozřejmili, jsou hry s úplnou informací pro dva hráče, jako jsou piškvorky a šachy."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.1. Šance a pravděpodobnostV předchozím oddíle jsme probírali vyhledávání a jeho uplatnění v případě, že máme úplné informace – například u her, jako jsou šachy. V reálném světě jsou však věci jen zřídkakdy tak jednoznačné.b.2. Bayesova větaNebudeme zacházet příliš do detailů kalkulu pravděpodobnosti a všech způsobů, jak jej lze použít v různých aplikacích umělé inteligence, ale podíváme se na jeden důležitý vzorec.c.3. Naivní Bayesovská klasifikaceJednou z nejužitečnějších aplikací Bayesovy věty je tzv. naivní Bayesovský klasifikátor."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.1. Typy strojového učeníRučně psané číslice jsou klasickým příkladem, který se často používá v diskusi o tom, proč strojové učení používáme. A ani my nebudeme výjimkou.b.2. Klasifikace metodou nejbližšího sousedaMetoda klasifikací nejbližšího souseda patří mezi nejjednodušší možné klasifikátory. Když dostane položku ke klasifikaci, najde v trénovacích datech položku, která se nové položce nejvíce podobá, a poskytne její označení. Příklad je uveden v následujícím diagramu.c.3. RegreseNaším hlavním cílem v tomto oddíle je naučit vás další pěkný příklad metod učení s učitelem, téměř tak jednoduchý jako klasifikace metodou nejbližšího souseda: lineární regrese. Rovněž představíme jejího blízkého příbuzného, logistickou regresi."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.1. Základy neuronových sítíNaše další téma, hluboké učení a neuronové sítě, zpravidla vzbuzuje větší zájem než většina ostatních.b.2. Jak se tvoří neuronové sítěJak jsme již uvedli, neurony jsou velmi jednoduché „zpracovací“ jednotky. Poté, co jsme probrali lineární a logistickou regresi v kapitole 4, můžeme základní technické údaje o neuronových sítích vnímat jako drobné variace stejné myšlenky.c.3. Pokročilé techniky neuronových sítíV předchozím oddílu jsme probírali základní myšlenky stojící za většinou metod založených na neuronových sítích: vícevrstvé sítě, nelineární aktivační funkce a pravidla učení, jako je algoritmus zpětného šíření."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.1. Předpovídání budoucnostiZačneme tím, co je známo jako jeden z největších problémů vůbec: předpovídání budoucnosti.b.2. Společenské dopady umělé inteligenceNa samém začátku tohoto kurzu jsme se krátce zabývali významem umělé inteligence v dnešní a zítřejší společnosti, ale jen v omezeném rozsahu, protože jsme ještě neozřejmili dostatek technických pojmů a metod, abychom diskusi mohli postavit na konkrétních základech.c.3. ShrnutíNejdůležitější rozhodnutí, která určují, jak dobře se naše společnost dokáže přizpůsobit změnám způsobeným umělou inteligencí, nejsou technologická. Jsou politická."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumcvičení20 hpříprava na průběžné hodnocení20 hCertifikát kurzu Elements of AI10 hCelkem50 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Za úspěšné absolvování online kurzu a vyplnění formuláře s odkazem na certifikát obdržíte zápočet a jeden kredit."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích50 %Absolvování průběžného testu (testů)40 %Certifikát kurzu Elements of AI10 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:HELSINKY, University of. 2020. Elements of AI. https://www.elementsofai.com/. Umělá inteligence. 2013. 1. vyd. Praha: Academia, 489 s. ISBN 978-80-200-2276-9.MAŘÍK, Vladimír; ŠTĚPÁNKOVÁ, Olga; LAŽANSKÝ, Jiří a kol. Umělá inteligence 2. 1. vyd. Praha: Academia, 373 s. ISBN 80-200-0502-1.MAŘÍK, Vladimír; ŠTĚPÁNKOVÁ, Olga; LAŽANSKÝ, Jiří. 2001. Umělá inteligence 3. 1. vyd. Praha: Academia, 328 s. ISBN 80-200-0472-6.MAŘÍK, Vladimír; ŠTĚPÁNKOVÁ, Olga; LAŽANSKÝ, Jiří a kol. 2003. Umělá inteligence 4. 1. vyd. Praha: Academia, 475 s. ISBN 80-200-0502-1.MAŘÍK, Vladimír; ŠTĚPÁNKOVÁ, Olga; LAŽANSKÝ, Jiří a kol. 2007. Umělá inteligence. 1. vyd. Praha: Academia, 544 s. ISBN 80-200-0502-1.RUSSELL, Stuart J.; NORVIG, Peter a kol. Artificial intelligence: a modern approach. 3. vyd. Upper Saddle River, N.J.: Prentice Hall, 1132 s. ISBN 978-0-13-604259-4."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "HELSINKY, University of. 2020. Elements of AI. https://www.elementsofai.com/. Umělá inteligence. 2013. 1. vyd. Praha: Academia, 489 s. ISBN 978-80-200-2276-9.MAŘÍK, Vladimír; ŠTĚPÁNKOVÁ, Olga; LAŽANSKÝ, Jiří a kol. Umělá inteligence 2. 1. vyd. Praha: Academia, 373 s. ISBN 80-200-0502-1.MAŘÍK, Vladimír; ŠTĚPÁNKOVÁ, Olga; LAŽANSKÝ, Jiří. 2001. Umělá inteligence 3. 1. vyd. Praha: Academia, 328 s. ISBN 80-200-0472-6.MAŘÍK, Vladimír; ŠTĚPÁNKOVÁ, Olga; LAŽANSKÝ, Jiří a kol. 2003. Umělá inteligence 4. 1. vyd. Praha: Academia, 475 s. ISBN 80-200-0502-1.MAŘÍK, Vladimír; ŠTĚPÁNKOVÁ, Olga; LAŽANSKÝ, Jiří a kol. 2007. Umělá inteligence. 1. vyd. Praha: Academia, 544 s. ISBN 80-200-0502-1.RUSSELL, Stuart J.; NORVIG, Peter a kol. Artificial intelligence: a modern approach. 3. vyd. Upper Saddle River, N.J.: Prentice Hall, 1132 s. ISBN 978-0-13-604259-4."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "UDUI"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Úvod do umělé inteligence"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Elements of AI"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (1 credit)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor; master; master continuing; doctor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "Individual on-line study with the use of on-line individual consultations and continuous testing of knowledge through tests via the WEB. Assessment is based on exercises, including multi-choice quizzes, numerical exercises, and questions that require a written answer. Numerical exercises with a choice of more options are checked automatically and exercises with written answers are checked by other students (mutual evaluation) and in some cases by instructors. Completion of the course requires successful completion of at least 90% of the exercises and at least 50% accuracy. The course is graded pass / failed (no numerical grade)."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Vlastimil Slaný, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Agricultural, Food and Environmental Engineering (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Dr. Ing. Vladimír Kebo (examiner, instructor, lecturer)Ing. Vlastimil Slaný, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "I. Introduction to AI Will a robot take my job? How is artificial intelligence likely to change my job in the next ten years? Where are AI technologies being used right now and where will they come next? (allowance 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "1. What is AI? How should we define AI?In our very first section, we'll become familiar with the concept of AI by looking into its definition and some examples."
+    },
+    {
+      "label": "b.",
+      "content": "2. Related fieldsIn addition to AI, there are several other closely related topics that are good to know at least by name. These include machine learning, data science, and deep learning."
+    },
+    {
+      "label": "c.",
+      "content": "3. Philosophy of AIThe very nature of the term “artificial intelligence” brings up philosophical questions whether intelligent behavior implies or requires the existence of a mind, and to what extent is consciousness replicable as computation."
+    },
+    {
+      "label": "2.",
+      "content": "II. AI problem solvingSearch algorithms don't necessarily feel like very cool AI methods. However, they can be used to solve tasks that most of us would admit require intelligence like navigation or playing chess. (allowance 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "1. Search and problem solvingMany problems can be phrased as search problems. This requires that we start by formulating the alternative choices and their consequences."
+    },
+    {
+      "label": "b.",
+      "content": "2. Solving problems with AIInterlude on the history of AI: starting from search"
+    },
+    {
+      "label": "c.",
+      "content": "3. Search and gamesIn this section, we will study a classic AI problem: games. The simplest scenario, which we will focus on for the sake of clarity, are two-player, perfect-information games such as tic-tac-toe and chess."
+    },
+    {
+      "label": "3.",
+      "content": "III. Real world AIOne of the reasons why modern AI methods actually work in the real world - as opposed to most of the earlier good old-fashioned methods in the 1960-1980s - is the ability to deal with uncertainty. (allowance 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "1. Odds and probabilityIn the previous section, we discussed search and its application where there is perfect information – such as in games like chess. However, in the real world things are rarely so clear cut."
+    },
+    {
+      "label": "b.",
+      "content": "2. The Bayes ruleWe will not go too far into the details of probability calculus and all the ways in which it can be used in various AI applications, but we will discuss one very important formula."
+    },
+    {
+      "label": "c.",
+      "content": "3. Naive Bayes classificationOne of the most useful applications of the Bayes rule is the so-called naive Bayes classifier."
+    },
+    {
+      "label": "4.",
+      "content": "IV. Machine learningIt has been long understood that learning is a key element of intelligence. This holds both for natural intelligence - we all get smarter by learning - and artificial intelligence. (allowance 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "1. The types of machine learningHandwritten digits are a classic case that is often used when discussing why we use machine learning, and we will make no exception."
+    },
+    {
+      "label": "b.",
+      "content": "2. The nearest neighbor classifierThe nearest neighbor classifier is among the simplest possible classifiers. When given an item to classify, it finds the training data item that is most similar to the new item, and outputs its label. An example is given in the following diagram."
+    },
+    {
+      "label": "c.",
+      "content": "3. RegressionOur main learning objective in this section is another nice example of supervised learning methods, and almost as simple as the nearest neighbor classifier too: linear regression. We'll introduce its close cousin, logistic regression as well."
+    },
+    {
+      "label": "5.",
+      "content": "V. Neural networksAreas like natural language and image processing have traditionally been sore points of AI. Neural networks and deep learning are being used to achieve significant improvements in these areas. (allowance 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "1. Neural network basicsOur next topic, deep learning and neural networks, tends to attract more interest than many of the other topics."
+    },
+    {
+      "label": "b.",
+      "content": "2. How neural networks are builtAs we said earlier, neurons are very simple processing units. Having discussed linear and logistic regression in Chapter 4, the essential technical details of neural networks can be seen as slight variations of the same idea."
+    },
+    {
+      "label": "c.",
+      "content": "3. Advanced neural network techniquesIn the previous section, we have discussed the basic ideas behind most neural network methods: multilayer networks, non-linear activation functions, and learning rules such as the backpropagation algorithm."
+    },
+    {
+      "label": "6.",
+      "content": "VI. ImplicationsTheodore Roosevelt: “I believe that the more you know about the past, the better you are prepared for the future.” (allowance 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "1. About predicting the futureWe will start by addressing what is known to be one of the hardest problems of all: predicting the future."
+    },
+    {
+      "label": "b.",
+      "content": "2. The societal implications of AIIn the very beginning of this course, we briefly discussed the importance of AI in today's and tomorrow's society but at that time, we could do so only to a limited extent because we hadn't introduced enough of the technical concepts and methods to ground the discussion on concrete terms."
+    },
+    {
+      "label": "c.",
+      "content": "3. ConclusionsThe most important decisions that determine how well our society can adapt to changes caused by artificial intelligence are not technological. They are political."
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "50 %"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "40 %"
+    },
+    {
+      "label": "Elements of AI course certificate",
+      "content": "10 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, SS 2023/2024, WS 2023/2024, SS 2022/2023, WS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Úvod do umělé inteligence"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Elements of AI"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (1 credit)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (1 credit)",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor; master; master continuing; doctor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: Individual on-line study with the use of on-line individual consultations and continuous testing of knowledge through tests via the WEB. Assessment is based on exercises, including multi-choice quizzes, numerical exercises, and questions that require a written answer. Numerical exercises with a choice of more options are checked automatically and exercises with written answers are checked by other students (mutual evaluation) and in some cases by instructors. Completion of the course requires successful completion of at least 90% of the exercises and at least 50% accuracy. The course is graded pass / failed (no numerical grade)."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Vlastimil Slaný, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Agricultural, Food and Environmental Engineering (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Dr. Ing. Vladimír Kebo (examiner, instructor, lecturer)Ing. Vlastimil Slaný, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday15.00-16.50Q01.06V. SlanýSeminarEvery week26"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "What is artificial intelligence? How does it affect our lives? And what is possible with artificial intelligence? The online course introduces you to the topic of artificial intelligence (AI) without the need to understand complicated mathematics and programming. The online course was prepared by the University of Helsinki in cooperation with Reaktor and students of AF MENDELU will be able to complete it in Czech or English. More information: https://www.elementsofai.cz."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.I. Introduction to AI Will a robot take my job? How is artificial intelligence likely to change my job in the next ten years? Where are AI technologies being used right now and where will they come next? (allowance 0/4) a.1. What is AI? How should we define AI?In our very first section, we'll become familiar with the concept of AI by looking into its definition and some examples.b.2. Related fieldsIn addition to AI, there are several other closely related topics that are good to know at least by name. These include machine learning, data science, and deep learning.c.3. Philosophy of AIThe very nature of the term “artificial intelligence” brings up philosophical questions whether intelligent behavior implies or requires the existence of a mind, and to what extent is consciousness replicable as computation.2.II. AI problem solvingSearch algorithms don't necessarily feel like very cool AI methods. However, they can be used to solve tasks that most of us would admit require intelligence like navigation or playing chess. (allowance 0/4) a.1. Search and problem solvingMany problems can be phrased as search problems. This requires that we start by formulating the alternative choices and their consequences.b.2. Solving problems with AIInterlude on the history of AI: starting from searchc.3. Search and gamesIn this section, we will study a classic AI problem: games. The simplest scenario, which we will focus on for the sake of clarity, are two-player, perfect-information games such as tic-tac-toe and chess.3.III. Real world AIOne of the reasons why modern AI methods actually work in the real world - as opposed to most of the earlier good old-fashioned methods in the 1960-1980s - is the ability to deal with uncertainty. (allowance 0/4) a.1. Odds and probabilityIn the previous section, we discussed search and its application where there is perfect information – such as in games like chess. However, in the real world things are rarely so clear cut.b.2. The Bayes ruleWe will not go too far into the details of probability calculus and all the ways in which it can be used in various AI applications, but we will discuss one very important formula.c.3. Naive Bayes classificationOne of the most useful applications of the Bayes rule is the so-called naive Bayes classifier.4.IV. Machine learningIt has been long understood that learning is a key element of intelligence. This holds both for natural intelligence - we all get smarter by learning - and artificial intelligence. (allowance 0/4) a.1. The types of machine learningHandwritten digits are a classic case that is often used when discussing why we use machine learning, and we will make no exception.b.2. The nearest neighbor classifierThe nearest neighbor classifier is among the simplest possible classifiers. When given an item to classify, it finds the training data item that is most similar to the new item, and outputs its label. An example is given in the following diagram.c.3. RegressionOur main learning objective in this section is another nice example of supervised learning methods, and almost as simple as the nearest neighbor classifier too: linear regression. We'll introduce its close cousin, logistic regression as well.5.V. Neural networksAreas like natural language and image processing have traditionally been sore points of AI. Neural networks and deep learning are being used to achieve significant improvements in these areas. (allowance 0/4) a.1. Neural network basicsOur next topic, deep learning and neural networks, tends to attract more interest than many of the other topics.b.2. How neural networks are builtAs we said earlier, neurons are very simple processing units. Having discussed linear and logistic regression in Chapter 4, the essential technical details of neural networks can be seen as slight variations of the same idea.c.3. Advanced neural network techniquesIn the previous section, we have discussed the basic ideas behind most neural network methods: multilayer networks, non-linear activation functions, and learning rules such as the backpropagation algorithm.6.VI. ImplicationsTheodore Roosevelt: “I believe that the more you know about the past, the better you are prepared for the future.” (allowance 0/4) a.1. About predicting the futureWe will start by addressing what is known to be one of the hardest problems of all: predicting the future.b.2. The societal implications of AIIn the very beginning of this course, we briefly discussed the importance of AI in today's and tomorrow's society but at that time, we could do so only to a limited extent because we hadn't introduced enough of the technical concepts and methods to ground the discussion on concrete terms.c.3. ConclusionsThe most important decisions that determine how well our society can adapt to changes caused by artificial intelligence are not technological. They are political."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.1. What is AI? How should we define AI?In our very first section, we'll become familiar with the concept of AI by looking into its definition and some examples.b.2. Related fieldsIn addition to AI, there are several other closely related topics that are good to know at least by name. These include machine learning, data science, and deep learning.c.3. Philosophy of AIThe very nature of the term “artificial intelligence” brings up philosophical questions whether intelligent behavior implies or requires the existence of a mind, and to what extent is consciousness replicable as computation."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.1. Search and problem solvingMany problems can be phrased as search problems. This requires that we start by formulating the alternative choices and their consequences.b.2. Solving problems with AIInterlude on the history of AI: starting from searchc.3. Search and gamesIn this section, we will study a classic AI problem: games. The simplest scenario, which we will focus on for the sake of clarity, are two-player, perfect-information games such as tic-tac-toe and chess."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.1. Odds and probabilityIn the previous section, we discussed search and its application where there is perfect information – such as in games like chess. However, in the real world things are rarely so clear cut.b.2. The Bayes ruleWe will not go too far into the details of probability calculus and all the ways in which it can be used in various AI applications, but we will discuss one very important formula.c.3. Naive Bayes classificationOne of the most useful applications of the Bayes rule is the so-called naive Bayes classifier."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.1. The types of machine learningHandwritten digits are a classic case that is often used when discussing why we use machine learning, and we will make no exception.b.2. The nearest neighbor classifierThe nearest neighbor classifier is among the simplest possible classifiers. When given an item to classify, it finds the training data item that is most similar to the new item, and outputs its label. An example is given in the following diagram.c.3. RegressionOur main learning objective in this section is another nice example of supervised learning methods, and almost as simple as the nearest neighbor classifier too: linear regression. We'll introduce its close cousin, logistic regression as well."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.1. Neural network basicsOur next topic, deep learning and neural networks, tends to attract more interest than many of the other topics.b.2. How neural networks are builtAs we said earlier, neurons are very simple processing units. Having discussed linear and logistic regression in Chapter 4, the essential technical details of neural networks can be seen as slight variations of the same idea.c.3. Advanced neural network techniquesIn the previous section, we have discussed the basic ideas behind most neural network methods: multilayer networks, non-linear activation functions, and learning rules such as the backpropagation algorithm."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.1. About predicting the futureWe will start by addressing what is known to be one of the hardest problems of all: predicting the future.b.2. The societal implications of AIIn the very beginning of this course, we briefly discussed the importance of AI in today's and tomorrow's society but at that time, we could do so only to a limited extent because we hadn't introduced enough of the technical concepts and methods to ground the discussion on concrete terms.c.3. ConclusionsThe most important decisions that determine how well our society can adapt to changes caused by artificial intelligence are not technological. They are political."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancepractice20 hpreparation for regular assessment20 hElements of AI course certificate10 hTotal50 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "For successful completion of the online course and filling out the form with a link to the certificate, you will receive a credit."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation50 %Mid-term test(s)40 %Elements of AI course certificate10 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:HELSINKY, University of. 2020. Elements of AI. https://www.elementsofai.com/. Umělá inteligence. 2013. 1st ed. Praha: Academia, 489 p. ISBN 978-80-200-2276-9.MAŘÍK, Vladimír; ŠTĚPÁNKOVÁ, Olga; LAŽANSKÝ, Jiří et al. Umělá inteligence 2. 1st ed. Praha: Academia, 373 p. ISBN 80-200-0502-1.MAŘÍK, Vladimír; ŠTĚPÁNKOVÁ, Olga; LAŽANSKÝ, Jiří. 2001. Umělá inteligence 3. 1st ed. Praha: Academia, 328 p. ISBN 80-200-0472-6.MAŘÍK, Vladimír; ŠTĚPÁNKOVÁ, Olga; LAŽANSKÝ, Jiří et al. 2003. Umělá inteligence 4. 1st ed. Praha: Academia, 475 p. ISBN 80-200-0502-1.MAŘÍK, Vladimír; ŠTĚPÁNKOVÁ, Olga; LAŽANSKÝ, Jiří et al. 2007. Umělá inteligence. 1st ed. Praha: Academia, 544 p. ISBN 80-200-0502-1.RUSSELL, Stuart J.; NORVIG, Peter et al. Artificial intelligence: a modern approach. 3rd ed. Upper Saddle River, N.J.: Prentice Hall, 1132 p. ISBN 978-0-13-604259-4."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "HELSINKY, University of. 2020. Elements of AI. https://www.elementsofai.com/. Umělá inteligence. 2013. 1st ed. Praha: Academia, 489 p. ISBN 978-80-200-2276-9.MAŘÍK, Vladimír; ŠTĚPÁNKOVÁ, Olga; LAŽANSKÝ, Jiří et al. Umělá inteligence 2. 1st ed. Praha: Academia, 373 p. ISBN 80-200-0502-1.MAŘÍK, Vladimír; ŠTĚPÁNKOVÁ, Olga; LAŽANSKÝ, Jiří. 2001. Umělá inteligence 3. 1st ed. Praha: Academia, 328 p. ISBN 80-200-0472-6.MAŘÍK, Vladimír; ŠTĚPÁNKOVÁ, Olga; LAŽANSKÝ, Jiří et al. 2003. Umělá inteligence 4. 1st ed. Praha: Academia, 475 p. ISBN 80-200-0502-1.MAŘÍK, Vladimír; ŠTĚPÁNKOVÁ, Olga; LAŽANSKÝ, Jiří et al. 2007. Umělá inteligence. 1st ed. Praha: Academia, 544 p. ISBN 80-200-0502-1.RUSSELL, Stuart J.; NORVIG, Peter et al. Artificial intelligence: a modern approach. 3rd ed. Upper Saddle River, N.J.: Prentice Hall, 1132 p. ISBN 978-0-13-604259-4."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:29:26",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

@@ -1,0 +1,949 @@
+{
+  "courseCode": "BIF",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "BIF"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Bioinformatika"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Bioinformatics"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Mgr. Jan Novák, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav molekulární biologie a radiobiologie (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Mgr. Martin Černý, Ph.D. (cvičící, přednášející)doc. Mgr. Jan Novák, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Bioinformatika a programování (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní pojmy"
+    },
+    {
+      "label": "b.",
+      "content": "Vymezení studia"
+    },
+    {
+      "label": "c.",
+      "content": "Programovací jazyky a programy určené pro bioinformatické analýzy"
+    },
+    {
+      "label": "2.",
+      "content": "Základní objekty v programování a operace s nimi (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Proměnné, řetězce, vektory, matice, tenzory a operace s nimi"
+    },
+    {
+      "label": "b.",
+      "content": "Příkazy, cykly, skripty"
+    },
+    {
+      "label": "3.",
+      "content": "Matlab a jeho využití (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Nástroje a rozšíření základních funkcí – statistics toolbox, bioinformatics toolbox"
+    },
+    {
+      "label": "b.",
+      "content": "Porovnání a analýza sekvencí nukleových kyselin a proteinů"
+    },
+    {
+      "label": "c.",
+      "content": "Fylogenetické stromy"
+    },
+    {
+      "label": "4.",
+      "content": "Analýza obrazu (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Zpracování, úprava a analýza snímků (ImageJ, Matlab)"
+    },
+    {
+      "label": "b.",
+      "content": "Automatická analýza (ImageJ, Java)"
+    },
+    {
+      "label": "c.",
+      "content": "Analýza hyperspektrálních dat (Matlab)"
+    },
+    {
+      "label": "5.",
+      "content": "Základy statistiky pro bioinformatiku 1 (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Pravděpodobnost"
+    },
+    {
+      "label": "b.",
+      "content": "Distribuce dat"
+    },
+    {
+      "label": "c.",
+      "content": "Odhady"
+    },
+    {
+      "label": "d.",
+      "content": "ANOVA a neparametrické testy"
+    },
+    {
+      "label": "6.",
+      "content": "Základy statistiky pro bioinformatiku 2 (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Regresní modely"
+    },
+    {
+      "label": "b.",
+      "content": "Korelace"
+    },
+    {
+      "label": "c.",
+      "content": "FDR a Benjamini-Hochbergova korekce"
+    },
+    {
+      "label": "7.",
+      "content": "Redukce komplexity dat a nalezení klíčových faktorů (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "PCA/ICA"
+    },
+    {
+      "label": "b.",
+      "content": "OPLS"
+    },
+    {
+      "label": "c.",
+      "content": "LDA"
+    },
+    {
+      "label": "8.",
+      "content": "Úvod do systémová biologie (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Booleovské sítě"
+    },
+    {
+      "label": "b.",
+      "content": "Enzymová kinetika a základy modelování metabolismu"
+    },
+    {
+      "label": "c.",
+      "content": "Jakobiho matice"
+    },
+    {
+      "label": "9.",
+      "content": "GWAS (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "principy metody"
+    },
+    {
+      "label": "b.",
+      "content": "užití GWAS v praxi"
+    },
+    {
+      "label": "10.",
+      "content": "Analýza RNA-seq dat (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Měření genové exprese, normalizace, sumarizace a diferenční exprese"
+    },
+    {
+      "label": "b.",
+      "content": "Statistické hodnocení dat z RNA-seq"
+    },
+    {
+      "label": "c.",
+      "content": "Aplikace a on-line nástroje pro analýzu dat"
+    },
+    {
+      "label": "11.",
+      "content": "Strojové učení (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Metody strojového učení"
+    },
+    {
+      "label": "b.",
+      "content": "Hluboké učení v pythonu"
+    },
+    {
+      "label": "12.",
+      "content": "Obrazová analýza pomocí strojového učení (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Příprava databáze snímků a její značení"
+    },
+    {
+      "label": "b.",
+      "content": "Příprava neuronové sítě pro klasifikaci objektů"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "30 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "20 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "50 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021, LS 2019/2020 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Bioinformatika"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Bioinformatics"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Mgr. Jan Novák, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav molekulární biologie a radiobiologie (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Mgr. Martin Černý, Ph.D. (cvičící, přednášející)doc. Mgr. Jan Novák, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPátek8.00-9.50C03J. Novák, M. ČernýPřednáškaLichý týden32Pátek10.00-13.50C03J. Novák, M. ČernýCvičeníLichý týden26"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět Bioinformatika je zaměřen na bioinformatické analýzy v oblasti analýzy obrazu, pokročilé statistické metody a analýzy genomických a transkriptomických dat. Studenti budou seznámeni s univerzitní licencí programu Matlab a základy programovacího jazyka python."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Bioinformatika a programování (dotace 1/1) a.Základní pojmyb.Vymezení studiac.Programovací jazyky a programy určené pro bioinformatické analýzy2.Základní objekty v programování a operace s nimi (dotace 1/1) a.Proměnné, řetězce, vektory, matice, tenzory a operace s nimib.Příkazy, cykly, skripty3.Matlab a jeho využití (dotace 1/3) a.Nástroje a rozšíření základních funkcí – statistics toolbox, bioinformatics toolboxb.Porovnání a analýza sekvencí nukleových kyselin a proteinůc.Fylogenetické stromy4.Analýza obrazu (dotace 1/3) a.Zpracování, úprava a analýza snímků (ImageJ, Matlab)b.Automatická analýza (ImageJ, Java)c.Analýza hyperspektrálních dat (Matlab)5.Základy statistiky pro bioinformatiku 1 (dotace 1/2) a.Pravděpodobnostb.Distribuce datc.Odhadyd.ANOVA a neparametrické testy6.Základy statistiky pro bioinformatiku 2 (dotace 1/2) a.Regresní modelyb.Korelacec.FDR a Benjamini-Hochbergova korekce7.Redukce komplexity dat a nalezení klíčových faktorů (dotace 1/2) a.PCA/ICAb.OPLSc.LDA8.Úvod do systémová biologie (dotace 1/2) a.Booleovské sítěb.Enzymová kinetika a základy modelování metabolismuc.Jakobiho matice9.GWAS (dotace 1/2) a.principy metodyb.užití GWAS v praxi10.Analýza RNA-seq dat (dotace 1/2) a.Měření genové exprese, normalizace, sumarizace a diferenční expreseb.Statistické hodnocení dat z RNA-seqc.Aplikace a on-line nástroje pro analýzu dat11.Strojové učení (dotace 1/2) a.Metody strojového učeníb.Hluboké učení v pythonu12.Obrazová analýza pomocí strojového učení (dotace 1/2) a.Příprava databáze snímků a její značeníb.Příprava neuronové sítě pro klasifikaci objektů"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Základní pojmyb.Vymezení studiac.Programovací jazyky a programy určené pro bioinformatické analýzy"
+    },
+    {
+      "label": "[section] Bioinformatika a programování",
+      "content": "a.Základní pojmyb.Vymezení studiac.Programovací jazyky a programy určené pro bioinformatické analýzy"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Proměnné, řetězce, vektory, matice, tenzory a operace s nimib.Příkazy, cykly, skripty"
+    },
+    {
+      "label": "[section] Základní objekty v programování a operace s nimi",
+      "content": "a.Proměnné, řetězce, vektory, matice, tenzory a operace s nimib.Příkazy, cykly, skripty"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Nástroje a rozšíření základních funkcí – statistics toolbox, bioinformatics toolboxb.Porovnání a analýza sekvencí nukleových kyselin a proteinůc.Fylogenetické stromy"
+    },
+    {
+      "label": "[section] Matlab a jeho využití",
+      "content": "a.Nástroje a rozšíření základních funkcí – statistics toolbox, bioinformatics toolboxb.Porovnání a analýza sekvencí nukleových kyselin a proteinůc.Fylogenetické stromy"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Zpracování, úprava a analýza snímků (ImageJ, Matlab)b.Automatická analýza (ImageJ, Java)c.Analýza hyperspektrálních dat (Matlab)"
+    },
+    {
+      "label": "[section] Analýza obrazu",
+      "content": "a.Zpracování, úprava a analýza snímků (ImageJ, Matlab)b.Automatická analýza (ImageJ, Java)c.Analýza hyperspektrálních dat (Matlab)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Pravděpodobnostb.Distribuce datc.Odhadyd.ANOVA a neparametrické testy"
+    },
+    {
+      "label": "[section] Základy statistiky pro bioinformatiku 1",
+      "content": "a.Pravděpodobnostb.Distribuce datc.Odhadyd.ANOVA a neparametrické testy"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Regresní modelyb.Korelacec.FDR a Benjamini-Hochbergova korekce"
+    },
+    {
+      "label": "[section] Základy statistiky pro bioinformatiku 2",
+      "content": "a.Regresní modelyb.Korelacec.FDR a Benjamini-Hochbergova korekce"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.PCA/ICAb.OPLSc.LDA"
+    },
+    {
+      "label": "[section] Redukce komplexity dat a nalezení klíčových faktorů",
+      "content": "a.PCA/ICAb.OPLSc.LDA"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Booleovské sítěb.Enzymová kinetika a základy modelování metabolismuc.Jakobiho matice"
+    },
+    {
+      "label": "[section] Úvod do systémová biologie",
+      "content": "a.Booleovské sítěb.Enzymová kinetika a základy modelování metabolismuc.Jakobiho matice"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.principy metodyb.užití GWAS v praxi"
+    },
+    {
+      "label": "[section] GWAS",
+      "content": "a.principy metodyb.užití GWAS v praxi"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Měření genové exprese, normalizace, sumarizace a diferenční expreseb.Statistické hodnocení dat z RNA-seqc.Aplikace a on-line nástroje pro analýzu dat"
+    },
+    {
+      "label": "[section] Analýza RNA-seq dat",
+      "content": "a.Měření genové exprese, normalizace, sumarizace a diferenční expreseb.Statistické hodnocení dat z RNA-seqc.Aplikace a on-line nástroje pro analýzu dat"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Metody strojového učeníb.Hluboké učení v pythonu"
+    },
+    {
+      "label": "[section] Strojové učení",
+      "content": "a.Metody strojového učeníb.Hluboké učení v pythonu"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Příprava databáze snímků a její značeníb.Příprava neuronové sítě pro klasifikaci objektů"
+    },
+    {
+      "label": "[section] Obrazová analýza pomocí strojového učení",
+      "content": "a.Příprava databáze snímků a její značeníb.Příprava neuronové sítě pro klasifikaci objektů"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška24 hcvičení12 hpříprava na zkoušku70 hzpracování projektů6 hCelkem112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Během semestru student vypracuje tři projekty. Student získá zápočet za prezentaci návrhu řešení projektu a prezentaci samotných výsledků. Zkouška je ústní a bude zaměřena na postupy bioinformatických analýz a další teoretické znalosti získané během semestru."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích30 %Absolvování závěrečného testu20 %Absolvování závěrečné ústní zkoušky50 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:BMC Bioinformatics. London: Biomed Central. ISSN 1471-2105.ZAPLATÍLEK, Karel. 2020. MATLAB® pro začínající uživatele. 1. vyd. Brno: Tribun EU, 200 s. Knihovnicka.cz. ISBN 978-80-263-1589-6.Doporučená:Gentleman R. 2009. R programming for Bioinformatics. CRC Press. 314 s. ISBN 978-1-4200-6367-7Gondro C. 2015, Primer to analysis of genomic data using R. Springer. 270 s. ISBN: 978-3-319-14474-0JIANG, Rui; ZHANG, Xuegong; ZHANG, Michael. 2013. Basics of Bioinformatics. Berlin: Springer, 395 s. ISBN 978-3-642-38950-4.MacLean D. 2019. R Bioinformatics cookbook. Pack Publishing.298 s. ISBN: 978-1-78995-069-4Mathur S.K. 2010. Statistical Bioinformatics with R. Elsevier. 319 s. ISBN: 978-12-375104-1Ortutay C., Ortutay Z. 2017. Molecular data analysis using R. Wiley Blackwell. 330 s. ISBN: 9781119165026Wickham, H. and Grolemund, G., 2017. R for data science: import, tidy, transform, visualize, and model data. O'Reilly Media. ISBN 1491910399.Xie, Y., Allaire, J.J. and Grolemund, G., 2018. R markdown: The definitive guide. Chapman and Hall/CRC. ISBN 1138359335"
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "BMC Bioinformatics. London: Biomed Central. ISSN 1471-2105.ZAPLATÍLEK, Karel. 2020. MATLAB® pro začínající uživatele. 1. vyd. Brno: Tribun EU, 200 s. Knihovnicka.cz. ISBN 978-80-263-1589-6."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "Gentleman R. 2009. R programming for Bioinformatics. CRC Press. 314 s. ISBN 978-1-4200-6367-7Gondro C. 2015, Primer to analysis of genomic data using R. Springer. 270 s. ISBN: 978-3-319-14474-0JIANG, Rui; ZHANG, Xuegong; ZHANG, Michael. 2013. Basics of Bioinformatics. Berlin: Springer, 395 s. ISBN 978-3-642-38950-4.MacLean D. 2019. R Bioinformatics cookbook. Pack Publishing.298 s. ISBN: 978-1-78995-069-4Mathur S.K. 2010. Statistical Bioinformatics with R. Elsevier. 319 s. ISBN: 978-12-375104-1Ortutay C., Ortutay Z. 2017. Molecular data analysis using R. Wiley Blackwell. 330 s. ISBN: 9781119165026Wickham, H. and Grolemund, G., 2017. R for data science: import, tidy, transform, visualize, and model data. O'Reilly Media. ISBN 1491910399.Xie, Y., Allaire, J.J. and Grolemund, G., 2018. R markdown: The definitive guide. Chapman and Hall/CRC. ISBN 1138359335"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-MBI Molekulární biologie a biotechnologie, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "BIF"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Bioinformatika"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Bioinformatics"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Mgr. Jan Novák, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Molecular Biology and Radiobiology (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Mgr. Martin Černý, Ph.D. (instructor, lecturer)doc. Mgr. Jan Novák, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Bioinformatics and Programming (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic Concepts"
+    },
+    {
+      "label": "b.",
+      "content": "Definition of the Study"
+    },
+    {
+      "label": "c.",
+      "content": "Programming Languages and Programs for Bioinformatics Analyses"
+    },
+    {
+      "label": "2.",
+      "content": "Objects in Programming and Operations with Them (allowance 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Variables, Strings, Vectors, Matrices, Tensors, and Operations"
+    },
+    {
+      "label": "b.",
+      "content": "Commands, Cycles, Scripts"
+    },
+    {
+      "label": "3.",
+      "content": "Matlab (allowance 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Tools and Extensions of Basic Functions – Statistics Toolbox, Bioinformatics Toolbox"
+    },
+    {
+      "label": "b.",
+      "content": "Comparison and Analysis of Nucleic Acid and Protein Sequences"
+    },
+    {
+      "label": "c.",
+      "content": "Phylogenetic Trees"
+    },
+    {
+      "label": "4.",
+      "content": "Image Analysis (allowance 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Processing, Editing, and Analysis of Images (ImageJ, Matlab)"
+    },
+    {
+      "label": "b.",
+      "content": "Automated Analysis (ImageJ, Java)"
+    },
+    {
+      "label": "c.",
+      "content": "Analysis of Hyperspectral Data (Matlab)"
+    },
+    {
+      "label": "5.",
+      "content": "Fundamentals of Statistics for Bioinformatics 1 (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Probability"
+    },
+    {
+      "label": "b.",
+      "content": "Data Distributions"
+    },
+    {
+      "label": "c.",
+      "content": "Estimations"
+    },
+    {
+      "label": "d.",
+      "content": "ANOVA and Nonparametric Tests"
+    },
+    {
+      "label": "6.",
+      "content": "Fundamentals of Statistics for Bioinformatics 2 (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Regression Models"
+    },
+    {
+      "label": "b.",
+      "content": "Correlation"
+    },
+    {
+      "label": "c.",
+      "content": "FDR and Benjamini-Hochberg Correction"
+    },
+    {
+      "label": "7.",
+      "content": "Data Complexity Reduction and Identification of Key Factors (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "PCA/ICA"
+    },
+    {
+      "label": "b.",
+      "content": "OPLS"
+    },
+    {
+      "label": "c.",
+      "content": "LDA"
+    },
+    {
+      "label": "8.",
+      "content": "Introduction to Systems Biology (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Boolean Networks"
+    },
+    {
+      "label": "b.",
+      "content": "Enzyme Kinetics and Basics of Metabolism Modeling"
+    },
+    {
+      "label": "c.",
+      "content": "Jacobi Matrix"
+    },
+    {
+      "label": "9.",
+      "content": "GWAS (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic Principles"
+    },
+    {
+      "label": "b.",
+      "content": "GWAS in Practise"
+    },
+    {
+      "label": "10.",
+      "content": "Analysis of RNA-seq (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Measurement of Gene Expression, Normalization, Summarization, and Differential Expression"
+    },
+    {
+      "label": "b.",
+      "content": "Identification of Transcriptional Variants - Alternative Splicing"
+    },
+    {
+      "label": "11.",
+      "content": "Machine Learning (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Machine Learning Methods"
+    },
+    {
+      "label": "b.",
+      "content": "Deep Learning in Python"
+    },
+    {
+      "label": "12.",
+      "content": "Image Analysis Using Machine Learning (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Preparing of Database and Labeling"
+    },
+    {
+      "label": "b.",
+      "content": "Classification by Neural Network"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "30 %"
+    },
+    {
+      "label": "Final test",
+      "content": "20 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "50 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021, SS 2019/2020 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Bioinformatika"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Bioinformatics"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Mgr. Jan Novák, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Molecular Biology and Radiobiology (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Mgr. Martin Černý, Ph.D. (instructor, lecturer)doc. Mgr. Jan Novák, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityFriday8.00-9.50C03J. Novák, M. ČernýLectureOdd week32Friday10.00-13.50C03J. Novák, M. ČernýSeminarOdd week26"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The course Bioinformatics focuses on bioinformatic analyses in the areas of image analysis, advanced statistical methods, and analysis of genomic and transcriptomic data. Students will be introduced to the university license of the Matlab program and python programming language."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Bioinformatics and Programming (allowance 1/1) a.Basic Conceptsb.Definition of the Studyc.Programming Languages and Programs for Bioinformatics Analyses2.Objects in Programming and Operations with Them (allowance 1/1) a.Variables, Strings, Vectors, Matrices, Tensors, and Operationsb.Commands, Cycles, Scripts3.Matlab (allowance 1/3) a.Tools and Extensions of Basic Functions – Statistics Toolbox, Bioinformatics Toolboxb.Comparison and Analysis of Nucleic Acid and Protein Sequencesc.Phylogenetic Trees4.Image Analysis (allowance 1/3) a.Processing, Editing, and Analysis of Images (ImageJ, Matlab)b.Automated Analysis (ImageJ, Java)c.Analysis of Hyperspectral Data (Matlab)5.Fundamentals of Statistics for Bioinformatics 1 (allowance 1/2) a.Probabilityb.Data Distributionsc.Estimationsd.ANOVA and Nonparametric Tests6.Fundamentals of Statistics for Bioinformatics 2 (allowance 1/2) a.Regression Modelsb.Correlationc.FDR and Benjamini-Hochberg Correction7.Data Complexity Reduction and Identification of Key Factors (allowance 1/2) a.PCA/ICAb.OPLSc.LDA8.Introduction to Systems Biology (allowance 1/2) a.Boolean Networksb.Enzyme Kinetics and Basics of Metabolism Modelingc.Jacobi Matrix9.GWAS (allowance 1/2) a.Basic Principlesb.GWAS in Practise10.Analysis of RNA-seq (allowance 1/2) a.Measurement of Gene Expression, Normalization, Summarization, and Differential Expressionb.Identification of Transcriptional Variants - Alternative Splicing11.Machine Learning (allowance 1/2) a.Machine Learning Methodsb.Deep Learning in Python12.Image Analysis Using Machine Learning (allowance 1/2) a.Preparing of Database and Labelingb.Classification by Neural Network"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Basic Conceptsb.Definition of the Studyc.Programming Languages and Programs for Bioinformatics Analyses"
+    },
+    {
+      "label": "[section] Bioinformatics and Programming",
+      "content": "a.Basic Conceptsb.Definition of the Studyc.Programming Languages and Programs for Bioinformatics Analyses"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Variables, Strings, Vectors, Matrices, Tensors, and Operationsb.Commands, Cycles, Scripts"
+    },
+    {
+      "label": "[section] Objects in Programming and Operations with Them",
+      "content": "a.Variables, Strings, Vectors, Matrices, Tensors, and Operationsb.Commands, Cycles, Scripts"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Tools and Extensions of Basic Functions – Statistics Toolbox, Bioinformatics Toolboxb.Comparison and Analysis of Nucleic Acid and Protein Sequencesc.Phylogenetic Trees"
+    },
+    {
+      "label": "[section] Matlab",
+      "content": "a.Tools and Extensions of Basic Functions – Statistics Toolbox, Bioinformatics Toolboxb.Comparison and Analysis of Nucleic Acid and Protein Sequencesc.Phylogenetic Trees"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Processing, Editing, and Analysis of Images (ImageJ, Matlab)b.Automated Analysis (ImageJ, Java)c.Analysis of Hyperspectral Data (Matlab)"
+    },
+    {
+      "label": "[section] Image Analysis",
+      "content": "a.Processing, Editing, and Analysis of Images (ImageJ, Matlab)b.Automated Analysis (ImageJ, Java)c.Analysis of Hyperspectral Data (Matlab)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Probabilityb.Data Distributionsc.Estimationsd.ANOVA and Nonparametric Tests"
+    },
+    {
+      "label": "[section] Fundamentals of Statistics for Bioinformatics 1",
+      "content": "a.Probabilityb.Data Distributionsc.Estimationsd.ANOVA and Nonparametric Tests"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Regression Modelsb.Correlationc.FDR and Benjamini-Hochberg Correction"
+    },
+    {
+      "label": "[section] Fundamentals of Statistics for Bioinformatics 2",
+      "content": "a.Regression Modelsb.Correlationc.FDR and Benjamini-Hochberg Correction"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.PCA/ICAb.OPLSc.LDA"
+    },
+    {
+      "label": "[section] Data Complexity Reduction and Identification of Key Factors",
+      "content": "a.PCA/ICAb.OPLSc.LDA"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Boolean Networksb.Enzyme Kinetics and Basics of Metabolism Modelingc.Jacobi Matrix"
+    },
+    {
+      "label": "[section] Introduction to Systems Biology",
+      "content": "a.Boolean Networksb.Enzyme Kinetics and Basics of Metabolism Modelingc.Jacobi Matrix"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Basic Principlesb.GWAS in Practise"
+    },
+    {
+      "label": "[section] GWAS",
+      "content": "a.Basic Principlesb.GWAS in Practise"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Measurement of Gene Expression, Normalization, Summarization, and Differential Expressionb.Identification of Transcriptional Variants - Alternative Splicing"
+    },
+    {
+      "label": "[section] Analysis of RNA-seq",
+      "content": "a.Measurement of Gene Expression, Normalization, Summarization, and Differential Expressionb.Identification of Transcriptional Variants - Alternative Splicing"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Machine Learning Methodsb.Deep Learning in Python"
+    },
+    {
+      "label": "[section] Machine Learning",
+      "content": "a.Machine Learning Methodsb.Deep Learning in Python"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Preparing of Database and Labelingb.Classification by Neural Network"
+    },
+    {
+      "label": "[section] Image Analysis Using Machine Learning",
+      "content": "a.Preparing of Database and Labelingb.Classification by Neural Network"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture24 hpractice12 hpreparation for exam70 helaboration and execution of projects6 hTotal112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "During the semester, the student will work on three projects. The student will receive credit for presenting the project proposal and presenting the results themselves. The exam is oral and will focus on the procedures of bioinformatics and other theoretical knowledge acquired during the semester."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation30 %Final test20 %Final oral exam50 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:BMC Bioinformatics. London: Biomed Central. ISSN 1471-2105.ZAPLATÍLEK, Karel. 2020. MATLAB® pro začínající uživatele. 1st ed. Brno: Tribun EU, 200 p. Knihovnicka.cz. ISBN 978-80-263-1589-6.Recommended:Gentleman R. 2009. R programming for Bioinformatics. CRC Press. 314 s. ISBN 978-1-4200-6367-7Gondro C. 2015, Primer to analysis of genomic data using R. Springer. 270 s. ISBN: 978-3-319-14474-0JIANG, Rui; ZHANG, Xuegong; ZHANG, Michael. 2013. Basics of Bioinformatics. Berlin: Springer, 395 s. ISBN 978-3-642-38950-4.MacLean D. 2019. R Bioinformatics cookbook. Pack Publishing.298 s. ISBN: 978-1-78995-069-4Mathur S.K. 2010. Statistical Bioinformatics with R. Elsevier. 319 s. ISBN: 978-12-375104-1Ortutay C., Ortutay Z. 2017. Molecular data analysis using R. Wiley Blackwell. 330 s. ISBN: 9781119165026Wickham, H. and Grolemund, G., 2017. R for data science: import, tidy, transform, visualize, and model data. O'Reilly Media. ISBN 1491910399.Xie, Y., Allaire, J.J. and Grolemund, G., 2018. R markdown: The definitive guide. Chapman and Hall/CRC. ISBN 1138359335"
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "BMC Bioinformatics. London: Biomed Central. ISSN 1471-2105.ZAPLATÍLEK, Karel. 2020. MATLAB® pro začínající uživatele. 1st ed. Brno: Tribun EU, 200 p. Knihovnicka.cz. ISBN 978-80-263-1589-6."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "Gentleman R. 2009. R programming for Bioinformatics. CRC Press. 314 s. ISBN 978-1-4200-6367-7Gondro C. 2015, Primer to analysis of genomic data using R. Springer. 270 s. ISBN: 978-3-319-14474-0JIANG, Rui; ZHANG, Xuegong; ZHANG, Michael. 2013. Basics of Bioinformatics. Berlin: Springer, 395 s. ISBN 978-3-642-38950-4.MacLean D. 2019. R Bioinformatics cookbook. Pack Publishing.298 s. ISBN: 978-1-78995-069-4Mathur S.K. 2010. Statistical Bioinformatics with R. Elsevier. 319 s. ISBN: 978-12-375104-1Ortutay C., Ortutay Z. 2017. Molecular data analysis using R. Wiley Blackwell. 330 s. ISBN: 9781119165026Wickham, H. and Grolemund, G., 2017. R for data science: import, tidy, transform, visualize, and model data. O'Reilly Media. ISBN 1491910399.Xie, Y., Allaire, J.J. and Grolemund, G., 2018. R markdown: The definitive guide. Chapman and Hall/CRC. ISBN 1138359335"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-MBI Molecular Biology and Biotechnology, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:18:01",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

@@ -1,0 +1,533 @@
+{
+  "courseCode": "EBC-VIL",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-VIL"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Virtuální instrumentace v LabVIEW"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Virtual Instrumentation in LabVIEW"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět je možné studovat během zahraniční stáže."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng. (garant)Ing. Robert Rouš (cvičící, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Vývojové prostředky a způsob vývoje v NI LabVIEW (dotace 1/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Přední panel a blokové schéma, terminály, řídicí prvky, vstupy a výstupy (dotace 1/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Způsob vývoje software, možnosti krokování, debugování a simulace (dotace 1/2)"
+    },
+    {
+      "label": "4.",
+      "content": "Základní řídicí struktury, práce s poli (dotace 1/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Práce s DAQmx ovladači a cDAQ hardwarem, čtení a zápis dat, program NI MAX (dotace 1/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Práce se soubory, čtení a zápis pomocí TDMS (dotace 1/2)"
+    },
+    {
+      "label": "7.",
+      "content": "Událostmi řízený běh a zpracování vstupů z GUI (vlastnosti a reference prvků) (dotace 1/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Asynchronní programování, zásobníky, fronty a nástroje pro paralelní běh (dotace 1/2)"
+    },
+    {
+      "label": "9.",
+      "content": "Zpracování chyb, budování robustního kódu (dotace 1/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Testování, Překlad, Distribuce a Nasazení aplikací, tvorba instalátorů (dotace 1/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Návrhové vzory – producent a spotřebitel (dotace 1/2)"
+    },
+    {
+      "label": "12.",
+      "content": "Návrhové vzory – stavový automat (dotace 1/2)"
+    },
+    {
+      "label": "13.",
+      "content": "Přesné časování a časově kritické aplikace (dotace 1/2)"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "50 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "50 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Virtuální instrumentace v LabVIEW"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Virtual Instrumentation in LabVIEW"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat během zahraniční stáže."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: prof. Ing. Radim Farana, CSc., FEng. (garant)Ing. Robert Rouš (cvičící, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaStředa15.00-16.50Q18B-OIR. RoušCvičeníKaždý týden20Středa17.00-17.50Q18B-OIR. RoušPřednáškaKaždý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Hlavním cílem je naučit studenty programovat ve vývojovém prostředí LabVIEW. Studenti budou schopni používat různé návrhové vzory jazyka G a implementovat je v LabVIEW."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Vývojové prostředky a způsob vývoje v NI LabVIEW (dotace 1/2)2.Přední panel a blokové schéma, terminály, řídicí prvky, vstupy a výstupy (dotace 1/2)3.Způsob vývoje software, možnosti krokování, debugování a simulace (dotace 1/2)4.Základní řídicí struktury, práce s poli (dotace 1/2)5.Práce s DAQmx ovladači a cDAQ hardwarem, čtení a zápis dat, program NI MAX (dotace 1/2)6.Práce se soubory, čtení a zápis pomocí TDMS (dotace 1/2)7.Událostmi řízený běh a zpracování vstupů z GUI (vlastnosti a reference prvků) (dotace 1/2)8.Asynchronní programování, zásobníky, fronty a nástroje pro paralelní běh (dotace 1/2)9.Zpracování chyb, budování robustního kódu (dotace 1/2)10.Testování, Překlad, Distribuce a Nasazení aplikací, tvorba instalátorů (dotace 1/2)11.Návrhové vzory – producent a spotřebitel (dotace 1/2)12.Návrhové vzory – stavový automat (dotace 1/2)13.Přesné časování a časově kritické aplikace (dotace 1/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Přední panel a blokové schéma, terminály, řídicí prvky, vstupy a výstupy (dotace 1/2)"
+    },
+    {
+      "label": "[section] Vývojové prostředky a způsob vývoje v NI LabVIEW",
+      "content": "2.Přední panel a blokové schéma, terminály, řídicí prvky, vstupy a výstupy (dotace 1/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Způsob vývoje software, možnosti krokování, debugování a simulace (dotace 1/2)"
+    },
+    {
+      "label": "[section] Přední panel a blokové schéma, terminály, řídicí prvky, vstupy a výstupy",
+      "content": "3.Způsob vývoje software, možnosti krokování, debugování a simulace (dotace 1/2)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Základní řídicí struktury, práce s poli (dotace 1/2)"
+    },
+    {
+      "label": "[section] Způsob vývoje software, možnosti krokování, debugování a simulace",
+      "content": "4.Základní řídicí struktury, práce s poli (dotace 1/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Práce s DAQmx ovladači a cDAQ hardwarem, čtení a zápis dat, program NI MAX (dotace 1/2)"
+    },
+    {
+      "label": "[section] Základní řídicí struktury, práce s poli",
+      "content": "5.Práce s DAQmx ovladači a cDAQ hardwarem, čtení a zápis dat, program NI MAX (dotace 1/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Práce se soubory, čtení a zápis pomocí TDMS (dotace 1/2)"
+    },
+    {
+      "label": "[section] Práce s DAQmx ovladači a cDAQ hardwarem, čtení a zápis dat, program NI MAX",
+      "content": "6.Práce se soubory, čtení a zápis pomocí TDMS (dotace 1/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Událostmi řízený běh a zpracování vstupů z GUI (vlastnosti a reference prvků) (dotace 1/2)"
+    },
+    {
+      "label": "[section] Práce se soubory, čtení a zápis pomocí TDMS",
+      "content": "7.Událostmi řízený běh a zpracování vstupů z GUI (vlastnosti a reference prvků) (dotace 1/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Asynchronní programování, zásobníky, fronty a nástroje pro paralelní běh (dotace 1/2)"
+    },
+    {
+      "label": "[section] Událostmi řízený běh a zpracování vstupů z GUI (vlastnosti a reference prvků)",
+      "content": "8.Asynchronní programování, zásobníky, fronty a nástroje pro paralelní běh (dotace 1/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Zpracování chyb, budování robustního kódu (dotace 1/2)"
+    },
+    {
+      "label": "[section] Asynchronní programování, zásobníky, fronty a nástroje pro paralelní běh",
+      "content": "9.Zpracování chyb, budování robustního kódu (dotace 1/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Testování, Překlad, Distribuce a Nasazení aplikací, tvorba instalátorů (dotace 1/2)"
+    },
+    {
+      "label": "[section] Zpracování chyb, budování robustního kódu",
+      "content": "10.Testování, Překlad, Distribuce a Nasazení aplikací, tvorba instalátorů (dotace 1/2)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Návrhové vzory – producent a spotřebitel (dotace 1/2)"
+    },
+    {
+      "label": "[section] Testování, Překlad, Distribuce a Nasazení aplikací, tvorba instalátorů",
+      "content": "11.Návrhové vzory – producent a spotřebitel (dotace 1/2)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Návrhové vzory – stavový automat (dotace 1/2)"
+    },
+    {
+      "label": "[section] Návrhové vzory – producent a spotřebitel",
+      "content": "12.Návrhové vzory – stavový automat (dotace 1/2)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Přesné časování a časově kritické aplikace (dotace 1/2)"
+    },
+    {
+      "label": "[section] Návrhové vzory – stavový automat",
+      "content": "13.Přesné časování a časově kritické aplikace (dotace 1/2)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení28 hzpracování projektů98 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Celkové hodnocení se skládá z hodnocení jedné semestrální práce (50 b.) a z bodů získaných v závěrečném testu (50 b.). Hodnotící stupnice: A90, B83, C75, D68, E60"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumVypracování semestrální práce50 %Absolvování závěrečného testu50 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Doporučená:BLOKDYK G.: LabVIEW, A Complete Guide, 2019 edition, 5STARCooks, 2019. ISBN: 9780655886938DOERING E.: NI myRIO Project Essentials Guide, National Technology and Science Press, 2016. [on-line]. Dostupné z http://www.ni.com/myrio/project-guide. 2019NATIONAL INSTRUMENTS: Kurz LabVIEW CORE 1 [on-line]. Dostupné z: https://learn.ni.com/training/resources/1232/labview-core-1.2019"
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "BLOKDYK G.: LabVIEW, A Complete Guide, 2019 edition, 5STARCooks, 2019. ISBN: 9780655886938DOERING E.: NI myRIO Project Essentials Guide, National Technology and Science Press, 2016. [on-line]. Dostupné z http://www.ni.com/myrio/project-guide. 2019NATIONAL INSTRUMENTS: Kurz LabVIEW CORE 1 [on-line]. Dostupné z: https://learn.ni.com/training/resources/1232/labview-core-1.2019"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Zaměření ZBOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-VIL"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Virtuální instrumentace v LabVIEW"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Virtual Instrumentation in LabVIEW"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "It is alowed to study this subject during intership at foreign university."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "prof. Ing. Radim Farana, CSc., FEng. (supervisor)Ing. Robert Rouš (examiner, instructor, lecturer, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam"
+    },
+    {
+      "label": "Term paper",
+      "content": "50 %"
+    },
+    {
+      "label": "Final test",
+      "content": "50 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Virtuální instrumentace v LabVIEW"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Virtual Instrumentation in LabVIEW"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: It is alowed to study this subject during intership at foreign university."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Ing. Radim Farana, CSc., FEng."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. Ing. Radim Farana, CSc., FEng. (supervisor)Ing. Robert Rouš (examiner, instructor, lecturer, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityWednesday15.00-16.50Q18B-OIR. RoušSeminarEvery week20Wednesday17.00-17.50Q18B-OIR. RoušLectureEvery week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Main goal is to teach students programing in LabVIEW development environment. Studensts will be able to use various design patterns of language G and implement them in LabVIEW."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "The content of the course has not been saved in this language version."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice28 helaboration and execution of projects98 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Final exam consisting of written test and evaluation of the project. Points from project: 50 b. Points from final test: 50 b. Assessment: A90, B83, C75, D68, E60"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTerm paper50 %Final test50 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Recommended:BLOKDYK G.: LabVIEW, A Complete Guide, 2019 edition, 5STARCooks, 2019. ISBN: 9780655886938DOERING E.: NI myRIO Project Essentials Guide, National Technology and Science Press, 2016. [on-line]. Dostupné z http://www.ni.com/myrio/project-guide. 2019NATIONAL INSTRUMENTS: Kurz LabVIEW CORE 1 [on-line]. Dostupné z: https://learn.ni.com/training/resources/1232/labview-core-1.2019"
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "BLOKDYK G.: LabVIEW, A Complete Guide, 2019 edition, 5STARCooks, 2019. ISBN: 9780655886938DOERING E.: NI myRIO Project Essentials Guide, National Technology and Science Press, 2016. [on-line]. Dostupné z http://www.ni.com/myrio/project-guide. 2019NATIONAL INSTRUMENTS: Kurz LabVIEW CORE 1 [on-line]. Dostupné z: https://learn.ni.com/training/resources/1232/labview-core-1.2019"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Scope ZBOI Scope for Open Informatics, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:46:42",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

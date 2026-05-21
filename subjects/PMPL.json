@@ -1,5 +1,14 @@
 {
   "courseCode": "PMPL",
+  "name": "Práce s motorovou pilou",
+  "nameCs": "Práce s motorovou pilou",
+  "nameEn": "Chainsaw Operation",
+  "predmetId": "153567",
+  "facultyId": 38,
+  "aliases": [
+    "PMP"
+  ],
+  "teachers": [],
   "stats": [
     {
       "semesterName": "ZS 2024/2025 - LDF",
@@ -8,7 +17,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=765;predmet=153567;lang=cz",
       "totalPass": 22,
-      "totalFail": 4,
+      "totalFail": 3,
       "terms": [
         {
           "term": "1. opravný",
@@ -22,10 +31,10 @@
             "FN": 0
           },
           "pass": 8,
-          "fail": 11,
+          "fail": 10,
           "creditGrades": {
             "zap": 8,
-            "nezap": 9,
+            "nezap": 8,
             "zapNedost": 2
           }
         },
@@ -41,10 +50,10 @@
             "FN": 0
           },
           "pass": 9,
-          "fail": 1,
+          "fail": 0,
           "creditGrades": {
             "zap": 9,
-            "nezap": 1,
+            "nezap": 0,
             "zapNedost": 0
           }
         },
@@ -60,10 +69,10 @@
             "FN": 0
           },
           "pass": 22,
-          "fail": 4,
+          "fail": 3,
           "creditGrades": {
             "zap": 22,
-            "nezap": 2,
+            "nezap": 1,
             "zapNedost": 2
           }
         },
@@ -79,10 +88,10 @@
             "FN": 0
           },
           "pass": 5,
-          "fail": 21,
+          "fail": 20,
           "creditGrades": {
             "zap": 5,
-            "nezap": 15,
+            "nezap": 14,
             "zapNedost": 6
           }
         }
@@ -500,5 +509,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-03-07T08:18:28.158Z"
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
 }

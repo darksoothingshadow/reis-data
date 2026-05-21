@@ -1,0 +1,993 @@
+{
+  "courseCode": "PDSPN",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "PDSPN"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Komplexní péče o výrobní techniku"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Complex Care for Production Machines"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Studium předmětu je možné během zahraniční mobility po individuální domluvě s garantem předmětu"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Vít Novák, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Vít Novák, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška a (Nástroje a procesy obrábění nebo nyní Nástroje a procesy obrábění)"
+    },
+    {
+      "label": "1.",
+      "content": "Komplexní péče o stroje a systémy údržby (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Systémy údržby a vedená dokumentace"
+    },
+    {
+      "label": "b.",
+      "content": "Technická diagnostika v systémech údržby"
+    },
+    {
+      "label": "2.",
+      "content": "Mechanismy opotřebení strojů (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Druhy tření ve stroji"
+    },
+    {
+      "label": "b.",
+      "content": "Opotřebení strojních součástí"
+    },
+    {
+      "label": "c.",
+      "content": "Měření rozměrů opotřebených strojích součástí a návrhy na opravu"
+    },
+    {
+      "label": "3.",
+      "content": "Spolehlivost a bezpečnost dřevoobráběcích strojů (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Provozní spolehlivost a hodnocené ukazatele"
+    },
+    {
+      "label": "b.",
+      "content": "Rizika úrazů, technická hlediska bezpečnostních systémů dřevoobráběcích strojů"
+    },
+    {
+      "label": "4.",
+      "content": "Péče o soustavy spalovacích motorů (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Údržba a diagnostika palivových soustav zážehových a vznětových motorů"
+    },
+    {
+      "label": "b.",
+      "content": "Péče o systémy sání vzduchu a mazací a chladící soustavy"
+    },
+    {
+      "label": "5.",
+      "content": "Péče o elektrická zařízení a motory (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Elektrické sítě, ochrany proti nedovolenému dotykovému napětí, zákonné revizní prohlídky elektrických silových zařízení"
+    },
+    {
+      "label": "b.",
+      "content": "Řízení otáček třífázových asynchronních elektromotorů, údržba stejnosměrných sériových elektromotorů"
+    },
+    {
+      "label": "c.",
+      "content": "Péče o elektrické soustavy mobilních strojů"
+    },
+    {
+      "label": "6.",
+      "content": "Zjišťování technického stavu pohonných motorů výrobních strojů (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Diagnostika a seřizování spalovacích motorů"
+    },
+    {
+      "label": "b.",
+      "content": "Diagnostika a revizní prohlídka elektromotorů"
+    },
+    {
+      "label": "7.",
+      "content": "Péče o hydraulické pohony (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Péče o hydraulické obvody"
+    },
+    {
+      "label": "b.",
+      "content": "Diagnostika technického stavu hydrogenerátorů a hydromotorů"
+    },
+    {
+      "label": "c.",
+      "content": "Doplňování a filtrace hydraulických kapalin"
+    },
+    {
+      "label": "8.",
+      "content": "Zjišťování technického stavu hydraulických pohonů (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Řízení otáček uzavřeného hydraulického převodu"
+    },
+    {
+      "label": "b.",
+      "content": "Zjišťování technického stavu hydrogenerátoru"
+    },
+    {
+      "label": "9.",
+      "content": "Péče o mechanické převody a mazání strojů (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Péče o řemenové a řetězové převody"
+    },
+    {
+      "label": "b.",
+      "content": "Péče o ozubené převodovky"
+    },
+    {
+      "label": "c.",
+      "content": "Systémy mazání strojů a používaná maziva"
+    },
+    {
+      "label": "10.",
+      "content": "Péče o dřevoobráběcí nástroje (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Údržba pilařských nástrojů"
+    },
+    {
+      "label": "b.",
+      "content": "Údržba fréz a frézovacích hlav"
+    },
+    {
+      "label": "c.",
+      "content": "Systémy upínání nástrojů"
+    },
+    {
+      "label": "11.",
+      "content": "Nestabilní stavy pilových kotoučů (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Měření házivosti pilového kotouče"
+    },
+    {
+      "label": "b.",
+      "content": "Metody zjišťování kritických otáček"
+    },
+    {
+      "label": "c.",
+      "content": "Měření vibrací pilového kotouče v rezonančních otáčkách"
+    },
+    {
+      "label": "12.",
+      "content": "Prašnost v dřevařských provozech (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Účinky dřevěného prachu na člověka a současná legislativa"
+    },
+    {
+      "label": "b.",
+      "content": "Emise prašnosti při obrábění materiálů na bázi dřeva"
+    },
+    {
+      "label": "c.",
+      "content": "Granulometrická a mikroskopická analýza dřevěného prachu"
+    },
+    {
+      "label": "13.",
+      "content": "Hlučnost v dřevařských provozech (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Účinky hluku na člověka a současná legislativa"
+    },
+    {
+      "label": "b.",
+      "content": "Dřevozpracující stroje – měření hluku"
+    },
+    {
+      "label": "c.",
+      "content": "Měření hlučnosti pilového kotouče"
+    },
+    {
+      "label": "14.",
+      "content": "Credit week (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Písemný test"
+    },
+    {
+      "label": "b.",
+      "content": "Hodnocení eleborátů z laboratorních cvičení"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, LS 2021/2022, LS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Komplexní péče o výrobní techniku"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Complex Care for Production Machines"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Studium předmětu je možné během zahraniční mobility po individuální domluvě s garantem předmětu"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Vít Novák, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Vít Novák, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška a (Nástroje a procesy obrábění nebo nyní Nástroje a procesy obrábění)"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkVyučujícíAkceČetnostKapacitaPondělí13.00-15.50T18N-TMZD1V. NovákPřednáškaNepravidelně28Středa9.00-10.50T-lab 2N-TMZD 112V. NovákPřednáškaKaždý týden16Středa11.00-11.50T-lab 2N-TMZD 112V. NovákCvičeníKaždý týden16"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět je zaměřen na zabezpečení optimální provozní péče a spolehlivosti dřevařských strojů a nástrojů. Cílem je seznámit studenty s používanou údržbou a jejími praktickými aplikacemi, včetně hodnocení technického stavu strojů. V předmětu jsou rozebírány teoretické a praktické poznatky údržby a metody provozní diagnostiky rozhodujících funkčních celků dřevařských strojů, se zaměřením na pohony, mechanismy strojů a dřevoobráběcí nástroje."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Komplexní péče o stroje a systémy údržby (dotace 2/1) a.Systémy údržby a vedená dokumentaceb.Technická diagnostika v systémech údržby2.Mechanismy opotřebení strojů (dotace 2/1) a.Druhy tření ve strojib.Opotřebení strojních součástíc.Měření rozměrů opotřebených strojích součástí a návrhy na opravu3.Spolehlivost a bezpečnost dřevoobráběcích strojů (dotace 2/1) a.Provozní spolehlivost a hodnocené ukazateleb.Rizika úrazů, technická hlediska bezpečnostních systémů dřevoobráběcích strojů4.Péče o soustavy spalovacích motorů (dotace 2/1) a.Údržba a diagnostika palivových soustav zážehových a vznětových motorůb.Péče o systémy sání vzduchu a mazací a chladící soustavy5.Péče o elektrická zařízení a motory (dotace 2/1) a.Elektrické sítě, ochrany proti nedovolenému dotykovému napětí, zákonné revizní prohlídky elektrických silových zařízeníb.Řízení otáček třífázových asynchronních elektromotorů, údržba stejnosměrných sériových elektromotorůc.Péče o elektrické soustavy mobilních strojů6.Zjišťování technického stavu pohonných motorů výrobních strojů (dotace 2/1) a.Diagnostika a seřizování spalovacích motorůb.Diagnostika a revizní prohlídka elektromotorů7.Péče o hydraulické pohony (dotace 2/1) a.Péče o hydraulické obvodyb.Diagnostika technického stavu hydrogenerátorů a hydromotorůc.Doplňování a filtrace hydraulických kapalin8.Zjišťování technického stavu hydraulických pohonů (dotace 2/1) a.Řízení otáček uzavřeného hydraulického převodub.Zjišťování technického stavu hydrogenerátoru9.Péče o mechanické převody a mazání strojů (dotace 2/1) a.Péče o řemenové a řetězové převodyb.Péče o ozubené převodovkyc.Systémy mazání strojů a používaná maziva10.Péče o dřevoobráběcí nástroje (dotace 2/1) a.Údržba pilařských nástrojůb.Údržba fréz a frézovacích hlavc.Systémy upínání nástrojů11.Nestabilní stavy pilových kotoučů (dotace 2/1) a.Měření házivosti pilového kotoučeb.Metody zjišťování kritických otáčekc.Měření vibrací pilového kotouče v rezonančních otáčkách12.Prašnost v dřevařských provozech (dotace 2/1) a.Účinky dřevěného prachu na člověka a současná legislativab.Emise prašnosti při obrábění materiálů na bázi dřevac.Granulometrická a mikroskopická analýza dřevěného prachu13.Hlučnost v dřevařských provozech (dotace 2/1) a.Účinky hluku na člověka a současná legislativab.Dřevozpracující stroje – měření hlukuc.Měření hlučnosti pilového kotouče14.Credit week (dotace 2/1) a.Písemný testb.Hodnocení eleborátů z laboratorních cvičení"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Systémy údržby a vedená dokumentaceb.Technická diagnostika v systémech údržby"
+    },
+    {
+      "label": "[section] Komplexní péče o stroje a systémy údržby",
+      "content": "a.Systémy údržby a vedená dokumentaceb.Technická diagnostika v systémech údržby"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Druhy tření ve strojib.Opotřebení strojních součástíc.Měření rozměrů opotřebených strojích součástí a návrhy na opravu"
+    },
+    {
+      "label": "[section] Mechanismy opotřebení strojů",
+      "content": "a.Druhy tření ve strojib.Opotřebení strojních součástíc.Měření rozměrů opotřebených strojích součástí a návrhy na opravu"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Provozní spolehlivost a hodnocené ukazateleb.Rizika úrazů, technická hlediska bezpečnostních systémů dřevoobráběcích strojů"
+    },
+    {
+      "label": "[section] Spolehlivost a bezpečnost dřevoobráběcích strojů",
+      "content": "a.Provozní spolehlivost a hodnocené ukazateleb.Rizika úrazů, technická hlediska bezpečnostních systémů dřevoobráběcích strojů"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Údržba a diagnostika palivových soustav zážehových a vznětových motorůb.Péče o systémy sání vzduchu a mazací a chladící soustavy"
+    },
+    {
+      "label": "[section] Péče o soustavy spalovacích motorů",
+      "content": "a.Údržba a diagnostika palivových soustav zážehových a vznětových motorůb.Péče o systémy sání vzduchu a mazací a chladící soustavy"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Elektrické sítě, ochrany proti nedovolenému dotykovému napětí, zákonné revizní prohlídky elektrických silových zařízeníb.Řízení otáček třífázových asynchronních elektromotorů, údržba stejnosměrných sériových elektromotorůc.Péče o elektrické soustavy mobilních strojů"
+    },
+    {
+      "label": "[section] Péče o elektrická zařízení a motory",
+      "content": "a.Elektrické sítě, ochrany proti nedovolenému dotykovému napětí, zákonné revizní prohlídky elektrických silových zařízeníb.Řízení otáček třífázových asynchronních elektromotorů, údržba stejnosměrných sériových elektromotorůc.Péče o elektrické soustavy mobilních strojů"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Diagnostika a seřizování spalovacích motorůb.Diagnostika a revizní prohlídka elektromotorů"
+    },
+    {
+      "label": "[section] Zjišťování technického stavu pohonných motorů výrobních strojů",
+      "content": "a.Diagnostika a seřizování spalovacích motorůb.Diagnostika a revizní prohlídka elektromotorů"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Péče o hydraulické obvodyb.Diagnostika technického stavu hydrogenerátorů a hydromotorůc.Doplňování a filtrace hydraulických kapalin"
+    },
+    {
+      "label": "[section] Péče o hydraulické pohony",
+      "content": "a.Péče o hydraulické obvodyb.Diagnostika technického stavu hydrogenerátorů a hydromotorůc.Doplňování a filtrace hydraulických kapalin"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Řízení otáček uzavřeného hydraulického převodub.Zjišťování technického stavu hydrogenerátoru"
+    },
+    {
+      "label": "[section] Zjišťování technického stavu hydraulických pohonů",
+      "content": "a.Řízení otáček uzavřeného hydraulického převodub.Zjišťování technického stavu hydrogenerátoru"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Péče o řemenové a řetězové převodyb.Péče o ozubené převodovkyc.Systémy mazání strojů a používaná maziva"
+    },
+    {
+      "label": "[section] Péče o mechanické převody a mazání strojů",
+      "content": "a.Péče o řemenové a řetězové převodyb.Péče o ozubené převodovkyc.Systémy mazání strojů a používaná maziva"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Údržba pilařských nástrojůb.Údržba fréz a frézovacích hlavc.Systémy upínání nástrojů"
+    },
+    {
+      "label": "[section] Péče o dřevoobráběcí nástroje",
+      "content": "a.Údržba pilařských nástrojůb.Údržba fréz a frézovacích hlavc.Systémy upínání nástrojů"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Měření házivosti pilového kotoučeb.Metody zjišťování kritických otáčekc.Měření vibrací pilového kotouče v rezonančních otáčkách"
+    },
+    {
+      "label": "[section] Nestabilní stavy pilových kotoučů",
+      "content": "a.Měření házivosti pilového kotoučeb.Metody zjišťování kritických otáčekc.Měření vibrací pilového kotouče v rezonančních otáčkách"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Účinky dřevěného prachu na člověka a současná legislativab.Emise prašnosti při obrábění materiálů na bázi dřevac.Granulometrická a mikroskopická analýza dřevěného prachu"
+    },
+    {
+      "label": "[section] Prašnost v dřevařských provozech",
+      "content": "a.Účinky dřevěného prachu na člověka a současná legislativab.Emise prašnosti při obrábění materiálů na bázi dřevac.Granulometrická a mikroskopická analýza dřevěného prachu"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Účinky hluku na člověka a současná legislativab.Dřevozpracující stroje – měření hlukuc.Měření hlučnosti pilového kotouče"
+    },
+    {
+      "label": "[section] Hlučnost v dřevařských provozech",
+      "content": "a.Účinky hluku na člověka a současná legislativab.Dřevozpracující stroje – měření hlukuc.Měření hlučnosti pilového kotouče"
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Písemný testb.Hodnocení eleborátů z laboratorních cvičení"
+    },
+    {
+      "label": "[section] Credit week",
+      "content": "a.Písemný testb.Hodnocení eleborátů z laboratorních cvičení"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška26 h14 hcvičení8 h0 hlaboratorní práce6 h4 hkonzultace2 h10 hpříprava na zkoušku30 h44 hpříprava na průběžný test20 h20 hzpracování protokolů20 h20 hCelkem112 h112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zkouška Podmínkou zápisu ke zkoušce je: - absolvování zápočtového testu z přednášené tématiky - odevzdání zpracovaných protokolů z provedených laboratorních cvičení"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumCelkem0 %0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:ROUSEK, Miroslav; KOPECKÝ, Zdeněk; NOVÁK, Vít. 2007. Elektrické a strojní mechanismy. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 156 s. ISBN 978-80-7375-062-6.OČKAJOVÁ, Alena. 2013. Pracovné prostredie a ergonómia. Banská Bystrica: Belianum UMB , 402 s. ISBN 978-80-557-0617-7.KOPECKÝ, Zdeněk. 2003. Condition Based Maintenance & Contamination Control Hydraulic Systems -- Key to Its Reliability. In: KOLAŘÍK, Josef (ed.). Proceedings of the 2nd ISC Fortechenvi - Forrest and Wood-processing Technology and the Environment. 1. vyd. Brno: MZLU v Brně, 175–185. ISBN 80-7157-665-4.Doporučená:DZURENDA, Ladislav. 2007. Sypká drevná hmota,vzduchotechnická doprava a odlučovanie. 1. vyd. Zvolen: Technická univerzita, 181 s. ISBN 978-80-228-1765-3. Možnosti snížení hlučnosti v dřevařském průmyslu. 1976. 1. vyd. Praha: VVÚD, 139 s.PROKEŠ, Stanislav. 1991. Údržba dřevoobráběcích nástrojů. Praha: Brázda, 233 s. ISBN 80-209-0191-4.KOPECKÝ, Zdeněk; JEDINÁK, Michal; KRYL, Jan; HLÁSKOVÁ, Luďka. 2014. Hladina hluku při velkoplošném formátování OSB desek. In: Trendy lesníckej, drevárskej a environmentálnej techniky a jej aplikácie vo výrobnom procese. 1. vyd. Zvolen: Technická univerzita ve Zvolene, 42–48. ISBN 978-80-228-2695-2.KOPECKÝ, Zdeněk; ROUSEK, Miroslav; KLEPÁRNÍK, Jan. 2006. Problematika konstrukce sacích zákrytů s ohledem na prašnost při vysokorychlostním frézování. In: DZURENDA, Ladislav (ed.). Trieskové a beztrieskové obrábanie dreva 2006, V. MVK. Zvolen: Vydavatelstvo TU vo Zvolene, 165–172. ISBN 80-228-1674-4."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "ROUSEK, Miroslav; KOPECKÝ, Zdeněk; NOVÁK, Vít. 2007. Elektrické a strojní mechanismy. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 156 s. ISBN 978-80-7375-062-6.OČKAJOVÁ, Alena. 2013. Pracovné prostredie a ergonómia. Banská Bystrica: Belianum UMB , 402 s. ISBN 978-80-557-0617-7.KOPECKÝ, Zdeněk. 2003. Condition Based Maintenance & Contamination Control Hydraulic Systems -- Key to Its Reliability. In: KOLAŘÍK, Josef (ed.). Proceedings of the 2nd ISC Fortechenvi - Forrest and Wood-processing Technology and the Environment. 1. vyd. Brno: MZLU v Brně, 175–185. ISBN 80-7157-665-4."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "DZURENDA, Ladislav. 2007. Sypká drevná hmota,vzduchotechnická doprava a odlučovanie. 1. vyd. Zvolen: Technická univerzita, 181 s. ISBN 978-80-228-1765-3. Možnosti snížení hlučnosti v dřevařském průmyslu. 1976. 1. vyd. Praha: VVÚD, 139 s.PROKEŠ, Stanislav. 1991. Údržba dřevoobráběcích nástrojů. Praha: Brázda, 233 s. ISBN 80-209-0191-4.KOPECKÝ, Zdeněk; JEDINÁK, Michal; KRYL, Jan; HLÁSKOVÁ, Luďka. 2014. Hladina hluku při velkoplošném formátování OSB desek. In: Trendy lesníckej, drevárskej a environmentálnej techniky a jej aplikácie vo výrobnom procese. 1. vyd. Zvolen: Technická univerzita ve Zvolene, 42–48. ISBN 978-80-228-2695-2.KOPECKÝ, Zdeněk; ROUSEK, Miroslav; KLEPÁRNÍK, Jan. 2006. Problematika konstrukce sacích zákrytů s ohledem na prašnost při vysokorychlostním frézování. In: DZURENDA, Ladislav (ed.). Trieskové a beztrieskové obrábanie dreva 2006, V. MVK. Zvolen: Vydavatelstvo TU vo Zvolene, 165–172. ISBN 80-228-1674-4."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-TMZD Technologie a management zpracování dřeva, prezenční forma, počáteční období ZS 2025/2026Program N-TMZD Technologie a management zpracování dřeva, kombinovaná forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "PDSPN"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Komplexní péče o výrobní techniku"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Complex Care for Production Machines"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The study of the subject is possible during foreign mobility after individualagreement with the subject guarantor"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Vít Novák, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Vít Novák, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "State Bachelor Examination and (Machining Tools and Processes or now Machining Tools and Processes)"
+    },
+    {
+      "label": "1.",
+      "content": "Complex care of machines and maintenance systems (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Maintenance systems and documentation"
+    },
+    {
+      "label": "b.",
+      "content": "Technical diagnostics in maintenance systems"
+    },
+    {
+      "label": "2.",
+      "content": "Mechanisms of machine wear (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Types of friction in the machine"
+    },
+    {
+      "label": "b.",
+      "content": "Wear of machine parts"
+    },
+    {
+      "label": "c.",
+      "content": "Measurement of dimensions of worn machine parts and suggestions for repair"
+    },
+    {
+      "label": "3.",
+      "content": "Reliability and safety of woodworking machines (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Operational reliability and rated indicators"
+    },
+    {
+      "label": "b.",
+      "content": "Risks of accidents, technical aspects of safety systems of woodworking machines"
+    },
+    {
+      "label": "4.",
+      "content": "Care of engine systems (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Maintenance and diagnostics of petrol and diesel engine fuel systems"
+    },
+    {
+      "label": "b.",
+      "content": "Care of air intake systems and lubrication and cooling systems"
+    },
+    {
+      "label": "5.",
+      "content": "Care of electrical equipment and motors (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Electrical networks, protection against unauthorized contact voltage, statutory inspection of electrical power equipment"
+    },
+    {
+      "label": "b.",
+      "content": "Speed control of three-phase asynchronous electromotors, maintenance of DC series electric motors"
+    },
+    {
+      "label": "c.",
+      "content": "Care of electrical systems of mobile machines"
+    },
+    {
+      "label": "6.",
+      "content": "Determination of technical condition of driving engines of production machines (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Diagnostics and adjustment of internal combustion engines"
+    },
+    {
+      "label": "b.",
+      "content": "Diagnostics and inspection of electric motors"
+    },
+    {
+      "label": "7.",
+      "content": "Care of hydraulic drives (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Care of hydraulic circuits"
+    },
+    {
+      "label": "b.",
+      "content": "Diagnostics of technical condition of hydraulic generators and motors"
+    },
+    {
+      "label": "c.",
+      "content": "Refilling and filtration of hydraulic fluids"
+    },
+    {
+      "label": "8.",
+      "content": "Determination of technical condition of hydraulic drives (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Speed control of closed hydraulic transmission"
+    },
+    {
+      "label": "b.",
+      "content": "Determination of technical condition of hydraulic generator"
+    },
+    {
+      "label": "9.",
+      "content": "Care of mechanical gears and machine lubrication (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Care of belt and chain transmissions"
+    },
+    {
+      "label": "b.",
+      "content": "Care of gearboxes"
+    },
+    {
+      "label": "c.",
+      "content": "Machine lubrication systems and used lubricants"
+    },
+    {
+      "label": "10.",
+      "content": "Care of woodworking tools (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Sawmill maintenance services"
+    },
+    {
+      "label": "b.",
+      "content": "Maitenance of milling cutters and milling heads"
+    },
+    {
+      "label": "c.",
+      "content": "Tool clamping systems"
+    },
+    {
+      "label": "11.",
+      "content": "Unstable conditions of circular saw blades (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Saw blade runout measurement"
+    },
+    {
+      "label": "b.",
+      "content": "Critical speed detection methods"
+    },
+    {
+      "label": "c.",
+      "content": "Circular saw blade vibration measurement in resonant speed"
+    },
+    {
+      "label": "12.",
+      "content": "Dustiness in woodworking workshops (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Effects of wood dust on humans and current legislation"
+    },
+    {
+      "label": "b.",
+      "content": "Dust emissions during machining of agglomerated materials"
+    },
+    {
+      "label": "c.",
+      "content": "Granulometric and microscopic analysis of wood dust"
+    },
+    {
+      "label": "13.",
+      "content": "Noise level in woodworking enterprise (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Effects of noise on humans and current legislation"
+    },
+    {
+      "label": "b.",
+      "content": "Woodworking machines - noise level measurement"
+    },
+    {
+      "label": "c.",
+      "content": "Measuring noise of circular saw blade"
+    },
+    {
+      "label": "14.",
+      "content": "Credit week (allowance 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Written test"
+    },
+    {
+      "label": "b.",
+      "content": "Evaluation of eleborates from laboratory exercises"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, SS 2021/2022, SS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Komplexní péče o výrobní techniku"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Complex Care for Production Machines"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The study of the subject is possible during foreign mobility after individualagreement with the subject guarantor"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Vít Novák, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Vít Novák, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: State Bachelor Examination and (Machining Tools and Processes or now Machining Tools and Processes)"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyTeacherEntryFrequencyCapacityMonday13.00-15.50T18N-TMZD1V. NovákLectureOccasionally28Wednesday9.00-10.50T-lab 2N-TMZD 112V. NovákLectureEvery week16Wednesday11.00-11.50T-lab 2N-TMZD 112V. NovákSeminarEvery week16"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The subject is focused on ensuring optimal operational care and reliability of woodworking machines and tools. The aim is to acquaint students with the maintenance systems and their practical applications, including evaluation of the technical condition of machines. The course discusses theoretical and practical knowledge of maintenance and methods of operational diagnostics of critical functional units of woodworking machines, with a focus on drives, machine mechanisms and woodworking tools."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Complex care of machines and maintenance systems (allowance 2/1) a.Maintenance systems and documentationb.Technical diagnostics in maintenance systems2.Mechanisms of machine wear (allowance 2/1) a.Types of friction in the machineb.Wear of machine partsc.Measurement of dimensions of worn machine parts and suggestions for repair3.Reliability and safety of woodworking machines (allowance 2/1) a.Operational reliability and rated indicatorsb.Risks of accidents, technical aspects of safety systems of woodworking machines4.Care of engine systems (allowance 2/1) a.Maintenance and diagnostics of petrol and diesel engine fuel systemsb.Care of air intake systems and lubrication and cooling systems5.Care of electrical equipment and motors (allowance 2/1) a.Electrical networks, protection against unauthorized contact voltage, statutory inspection of electrical power equipmentb.Speed control of three-phase asynchronous electromotors, maintenance of DC series electric motorsc.Care of electrical systems of mobile machines6.Determination of technical condition of driving engines of production machines (allowance 2/1) a.Diagnostics and adjustment of internal combustion enginesb.Diagnostics and inspection of electric motors7.Care of hydraulic drives (allowance 2/1) a.Care of hydraulic circuitsb.Diagnostics of technical condition of hydraulic generators and motorsc.Refilling and filtration of hydraulic fluids8.Determination of technical condition of hydraulic drives (allowance 2/1) a.Speed control of closed hydraulic transmissionb.Determination of technical condition of hydraulic generator9.Care of mechanical gears and machine lubrication (allowance 2/1) a.Care of belt and chain transmissionsb.Care of gearboxesc.Machine lubrication systems and used lubricants10.Care of woodworking tools (allowance 2/1) a.Sawmill maintenance servicesb.Maitenance of milling cutters and milling headsc.Tool clamping systems11.Unstable conditions of circular saw blades (allowance 2/1) a.Saw blade runout measurementb.Critical speed detection methodsc.Circular saw blade vibration measurement in resonant speed12.Dustiness in woodworking workshops (allowance 2/1) a.Effects of wood dust on humans and current legislationb.Dust emissions during machining of agglomerated materialsc.Granulometric and microscopic analysis of wood dust13.Noise level in woodworking enterprise (allowance 2/1) a.Effects of noise on humans and current legislationb.Woodworking machines - noise level measurementc.Measuring noise of circular saw blade14.Credit week (allowance 2/1) a.Written testb.Evaluation of eleborates from laboratory exercises"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Maintenance systems and documentationb.Technical diagnostics in maintenance systems"
+    },
+    {
+      "label": "[section] Complex care of machines and maintenance systems",
+      "content": "a.Maintenance systems and documentationb.Technical diagnostics in maintenance systems"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Types of friction in the machineb.Wear of machine partsc.Measurement of dimensions of worn machine parts and suggestions for repair"
+    },
+    {
+      "label": "[section] Mechanisms of machine wear",
+      "content": "a.Types of friction in the machineb.Wear of machine partsc.Measurement of dimensions of worn machine parts and suggestions for repair"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Operational reliability and rated indicatorsb.Risks of accidents, technical aspects of safety systems of woodworking machines"
+    },
+    {
+      "label": "[section] Reliability and safety of woodworking machines",
+      "content": "a.Operational reliability and rated indicatorsb.Risks of accidents, technical aspects of safety systems of woodworking machines"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Maintenance and diagnostics of petrol and diesel engine fuel systemsb.Care of air intake systems and lubrication and cooling systems"
+    },
+    {
+      "label": "[section] Care of engine systems",
+      "content": "a.Maintenance and diagnostics of petrol and diesel engine fuel systemsb.Care of air intake systems and lubrication and cooling systems"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Electrical networks, protection against unauthorized contact voltage, statutory inspection of electrical power equipmentb.Speed control of three-phase asynchronous electromotors, maintenance of DC series electric motorsc.Care of electrical systems of mobile machines"
+    },
+    {
+      "label": "[section] Care of electrical equipment and motors",
+      "content": "a.Electrical networks, protection against unauthorized contact voltage, statutory inspection of electrical power equipmentb.Speed control of three-phase asynchronous electromotors, maintenance of DC series electric motorsc.Care of electrical systems of mobile machines"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Diagnostics and adjustment of internal combustion enginesb.Diagnostics and inspection of electric motors"
+    },
+    {
+      "label": "[section] Determination of technical condition of driving engines of production machines",
+      "content": "a.Diagnostics and adjustment of internal combustion enginesb.Diagnostics and inspection of electric motors"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Care of hydraulic circuitsb.Diagnostics of technical condition of hydraulic generators and motorsc.Refilling and filtration of hydraulic fluids"
+    },
+    {
+      "label": "[section] Care of hydraulic drives",
+      "content": "a.Care of hydraulic circuitsb.Diagnostics of technical condition of hydraulic generators and motorsc.Refilling and filtration of hydraulic fluids"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Speed control of closed hydraulic transmissionb.Determination of technical condition of hydraulic generator"
+    },
+    {
+      "label": "[section] Determination of technical condition of hydraulic drives",
+      "content": "a.Speed control of closed hydraulic transmissionb.Determination of technical condition of hydraulic generator"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Care of belt and chain transmissionsb.Care of gearboxesc.Machine lubrication systems and used lubricants"
+    },
+    {
+      "label": "[section] Care of mechanical gears and machine lubrication",
+      "content": "a.Care of belt and chain transmissionsb.Care of gearboxesc.Machine lubrication systems and used lubricants"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Sawmill maintenance servicesb.Maitenance of milling cutters and milling headsc.Tool clamping systems"
+    },
+    {
+      "label": "[section] Care of woodworking tools",
+      "content": "a.Sawmill maintenance servicesb.Maitenance of milling cutters and milling headsc.Tool clamping systems"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Saw blade runout measurementb.Critical speed detection methodsc.Circular saw blade vibration measurement in resonant speed"
+    },
+    {
+      "label": "[section] Unstable conditions of circular saw blades",
+      "content": "a.Saw blade runout measurementb.Critical speed detection methodsc.Circular saw blade vibration measurement in resonant speed"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Effects of wood dust on humans and current legislationb.Dust emissions during machining of agglomerated materialsc.Granulometric and microscopic analysis of wood dust"
+    },
+    {
+      "label": "[section] Dustiness in woodworking workshops",
+      "content": "a.Effects of wood dust on humans and current legislationb.Dust emissions during machining of agglomerated materialsc.Granulometric and microscopic analysis of wood dust"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Effects of noise on humans and current legislationb.Woodworking machines - noise level measurementc.Measuring noise of circular saw blade"
+    },
+    {
+      "label": "[section] Noise level in woodworking enterprise",
+      "content": "a.Effects of noise on humans and current legislationb.Woodworking machines - noise level measurementc.Measuring noise of circular saw blade"
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Written testb.Evaluation of eleborates from laboratory exercises"
+    },
+    {
+      "label": "[section] Credit week",
+      "content": "a.Written testb.Evaluation of eleborates from laboratory exercises"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture26 h14 hpractice8 h0 hlaboratory work6 h4 hconsultation2 h10 hpreparation for exam30 h44 hpreparation for regular testing20 h20 helaboration of reports20 h20 hTotal112 h112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Exam Registration is claused by: - passing a credit test on the lectured topics - submission of processed protocols from performed laboratory exercises"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTotal0 %0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:ROUSEK, Miroslav; KOPECKÝ, Zdeněk; NOVÁK, Vít. 2007. Elektrické a strojní mechanismy. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 156 p. ISBN 978-80-7375-062-6.OČKAJOVÁ, Alena. 2013. Pracovné prostredie a ergonómia. Banská Bystrica: Belianum UMB , 402 p. ISBN 978-80-557-0617-7.KOPECKÝ, Zdeněk. 2003. Condition Based Maintenance & Contamination Control Hydraulic Systems -- Key to Its Reliability. In: KOLAŘÍK, Josef (ed.). Proceedings of the 2nd ISC Fortechenvi - Forrest and Wood-processing Technology and the Environment. 1st ed. Brno: MZLU v Brně, 175–185. ISBN 80-7157-665-4.Recommended:DZURENDA, Ladislav. 2007. Sypká drevná hmota,vzduchotechnická doprava a odlučovanie. 1st ed. Zvolen: Technická univerzita, 181 p. ISBN 978-80-228-1765-3. Možnosti snížení hlučnosti v dřevařském průmyslu. 1976. 1st ed. Praha: VVÚD, 139 p.PROKEŠ, Stanislav. 1991. Údržba dřevoobráběcích nástrojů. Praha: Brázda, 233 p. ISBN 80-209-0191-4.KOPECKÝ, Zdeněk; JEDINÁK, Michal; KRYL, Jan; HLÁSKOVÁ, Luďka. 2014. Hladina hluku při velkoplošném formátování OSB desek. In: Trendy lesníckej, drevárskej a environmentálnej techniky a jej aplikácie vo výrobnom procese. 1st ed. Zvolen: Technická univerzita ve Zvolene, 42–48. ISBN 978-80-228-2695-2.KOPECKÝ, Zdeněk; ROUSEK, Miroslav; KLEPÁRNÍK, Jan. 2006. Problematika konstrukce sacích zákrytů s ohledem na prašnost při vysokorychlostním frézování. In: DZURENDA, Ladislav (ed.). Trieskové a beztrieskové obrábanie dreva 2006, V. MVK. Zvolen: Vydavatelstvo TU vo Zvolene, 165–172. ISBN 80-228-1674-4."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "ROUSEK, Miroslav; KOPECKÝ, Zdeněk; NOVÁK, Vít. 2007. Elektrické a strojní mechanismy. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 156 p. ISBN 978-80-7375-062-6.OČKAJOVÁ, Alena. 2013. Pracovné prostredie a ergonómia. Banská Bystrica: Belianum UMB , 402 p. ISBN 978-80-557-0617-7.KOPECKÝ, Zdeněk. 2003. Condition Based Maintenance & Contamination Control Hydraulic Systems -- Key to Its Reliability. In: KOLAŘÍK, Josef (ed.). Proceedings of the 2nd ISC Fortechenvi - Forrest and Wood-processing Technology and the Environment. 1st ed. Brno: MZLU v Brně, 175–185. ISBN 80-7157-665-4."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "DZURENDA, Ladislav. 2007. Sypká drevná hmota,vzduchotechnická doprava a odlučovanie. 1st ed. Zvolen: Technická univerzita, 181 p. ISBN 978-80-228-1765-3. Možnosti snížení hlučnosti v dřevařském průmyslu. 1976. 1st ed. Praha: VVÚD, 139 p.PROKEŠ, Stanislav. 1991. Údržba dřevoobráběcích nástrojů. Praha: Brázda, 233 p. ISBN 80-209-0191-4.KOPECKÝ, Zdeněk; JEDINÁK, Michal; KRYL, Jan; HLÁSKOVÁ, Luďka. 2014. Hladina hluku při velkoplošném formátování OSB desek. In: Trendy lesníckej, drevárskej a environmentálnej techniky a jej aplikácie vo výrobnom procese. 1st ed. Zvolen: Technická univerzita ve Zvolene, 42–48. ISBN 978-80-228-2695-2.KOPECKÝ, Zdeněk; ROUSEK, Miroslav; KLEPÁRNÍK, Jan. 2006. Problematika konstrukce sacích zákrytů s ohledem na prašnost při vysokorychlostním frézování. In: DZURENDA, Ladislav (ed.). Trieskové a beztrieskové obrábanie dreva 2006, V. MVK. Zvolen: Vydavatelstvo TU vo Zvolene, 165–172. ISBN 80-228-1674-4."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-TMZD Technology and Management in Wood Processing, full-time form, initial period WS 2025/2026Programme C-TMZD Technology and Management in Wood Processing, part-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:44:54",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

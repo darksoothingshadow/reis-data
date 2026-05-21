@@ -1,0 +1,793 @@
+{
+  "courseCode": "ENC-MIS",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENC-MIS"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Modelování informačních systémů"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Information Systems Modeling"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraniční aktivity."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Ivana Rábová, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Oldřich Faldík, Ph.D. (cvičící, přednášející, tutor, zkoušející)doc. Ing. Ivana Rábová, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)RNDr. Zuzana Špendel, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Moderní přístupy k prezentaci architektury IS (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Podniková architektura a její modelování"
+    },
+    {
+      "label": "b.",
+      "content": "Architektonické rámce TOGAF, COBIT a ITIL"
+    },
+    {
+      "label": "2.",
+      "content": "Řízení požadavků na IS (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Specifikace, klasifikace a formát požadavků včetně modelování"
+    },
+    {
+      "label": "b.",
+      "content": "Sběr, správa a dokumentace požadavků"
+    },
+    {
+      "label": "c.",
+      "content": "Modelování požadavků"
+    },
+    {
+      "label": "3.",
+      "content": "Podnikové procesy (dotace 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Definice, klasifikace podnikových procesů, procesní řízení"
+    },
+    {
+      "label": "b.",
+      "content": "Modelování procesů (notace UML, BPMN, EPC), význam modelování procesů pro měření výkonnosti procesů, lidí a podniku, výkonnostní indikátory"
+    },
+    {
+      "label": "c.",
+      "content": "Optimalizace a řízení procesů v disciplíně procesního řízení, simulace procesů"
+    },
+    {
+      "label": "d.",
+      "content": "Mendix a ARIS moderní platformy pro procesní řízení a modelování"
+    },
+    {
+      "label": "4.",
+      "content": "Modelování procesů a Petriho sítě (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Petriho sítě a jejich využití pro procesní modelování a měření procesů"
+    },
+    {
+      "label": "5.",
+      "content": "Modelování webových aplikací a jazyk OCL (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Moderní notace pro modelování webových aplikací"
+    },
+    {
+      "label": "b.",
+      "content": "WebML, IFML a UVE - speciální Jazyky pro vyjádření obsahu, uživatelských interakcí a ke kontrole chování front-end aplikací"
+    },
+    {
+      "label": "c.",
+      "content": "Jazyk OCL - rozšíření UML pro podniková pravidla"
+    },
+    {
+      "label": "6.",
+      "content": "Strategické modelování (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Balanced Scorecard, organizační schéma, strategická mapa"
+    },
+    {
+      "label": "7.",
+      "content": "Funkční modelování systému (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Modelování systému pomocí use cases"
+    },
+    {
+      "label": "b.",
+      "content": "Prezentace chování systému pomocí user stories"
+    },
+    {
+      "label": "c.",
+      "content": "Modelování obrazovek a screenflow"
+    },
+    {
+      "label": "8.",
+      "content": "Modelování dat, struktury systému a komponent (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Modelování tříd a balíčků"
+    },
+    {
+      "label": "b.",
+      "content": "Rozdělení systému na komponenty"
+    },
+    {
+      "label": "c.",
+      "content": "Modelování komponent a jejich vztahů"
+    },
+    {
+      "label": "9.",
+      "content": "Odhady pracnosti v projektech (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Odhadování pomocí funkčních bodů"
+    },
+    {
+      "label": "b.",
+      "content": "Odhadování pomocí use case bodů"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "10 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "20 %"
+    },
+    {
+      "label": "Prezentace nebo obhajoba",
+      "content": "10 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "60 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Modelování informačních systémů"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Information Systems Modeling"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraniční aktivity."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Ivana Rábová, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Oldřich Faldík, Ph.D. (cvičící, přednášející, tutor, zkoušející)doc. Ing. Ivana Rábová, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)RNDr. Zuzana Špendel, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPoznámkaPondělí11.00-12.50Q06N-OII. Rábová, O. Faldík, Z. ŠpendelCvičeníKaždý týden26Projektová skupina 1 -- zachovejte stejné rozdělení do cvičení v předmětech MIS a MVIS.Pondělí13.00-14.50Q06N-OII. Rábová, O. Faldík, Z. ŠpendelCvičeníKaždý týden27Projektová skupina 2 -- zachovejte stejné rozdělení do cvičení v předmětech MIS a MVIS.Středa11.00-12.50Q16N-OII. Rábová, O. Faldík, Z. ŠpendelPřednáškaKaždý týden53"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je oblast formalizace informačních systémů a podnikových procesů a využití modelů a diagramů v etapách jejich životního cyklu. Pomocí formálních notací UML, BPMN, EPC a Petriho sítí a s podporou moderních CASE nástrojů Enterprise Architect a ARIS budou prezentovány základní prostředky vizualizace požadavků na informační systém včetně diagramů struktur a chování systému. Nedílnou součástí předmětu bude využití těchto modelů pro návrh a prezentaci architektury systému. Studenti získají znalosti formalizace reálného prostředí a využití softwarových nástrojů k jeho modelování a následně k simulaci návrhu nového informačního systému, nebo vazby na existující informační systém. Důraz bude kladen na procesní modelování a využití procesních modelů pro analýzu a návrh informačního systému."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Moderní přístupy k prezentaci architektury IS (dotace 4/4) a.Podniková architektura a její modelováníb.Architektonické rámce TOGAF, COBIT a ITIL2.Řízení požadavků na IS (dotace 2/2) a.Specifikace, klasifikace a formát požadavků včetně modelováníb.Sběr, správa a dokumentace požadavkůc.Modelování požadavků3.Podnikové procesy (dotace 8/8) a.Definice, klasifikace podnikových procesů, procesní řízeníb.Modelování procesů (notace UML, BPMN, EPC), význam modelování procesů pro měření výkonnosti procesů, lidí a podniku, výkonnostní indikátoryc.Optimalizace a řízení procesů v disciplíně procesního řízení, simulace procesůd.Mendix a ARIS moderní platformy pro procesní řízení a modelování4.Modelování procesů a Petriho sítě (dotace 2/2) a.Petriho sítě a jejich využití pro procesní modelování a měření procesů5.Modelování webových aplikací a jazyk OCL (dotace 2/2) a.Moderní notace pro modelování webových aplikacíb.WebML, IFML a UVE - speciální Jazyky pro vyjádření obsahu, uživatelských interakcí a ke kontrole chování front-end aplikacíc.Jazyk OCL - rozšíření UML pro podniková pravidla6.Strategické modelování (dotace 2/2) a.Balanced Scorecard, organizační schéma, strategická mapa7.Funkční modelování systému (dotace 4/4) a.Modelování systému pomocí use casesb.Prezentace chování systému pomocí user storiesc.Modelování obrazovek a screenflow8.Modelování dat, struktury systému a komponent (dotace 2/4) a.Modelování tříd a balíčkůb.Rozdělení systému na komponentyc.Modelování komponent a jejich vztahů9.Odhady pracnosti v projektech (dotace 2/0) a.Odhadování pomocí funkčních bodůb.Odhadování pomocí use case bodů"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Podniková architektura a její modelováníb.Architektonické rámce TOGAF, COBIT a ITIL"
+    },
+    {
+      "label": "[section] Moderní přístupy k prezentaci architektury IS",
+      "content": "a.Podniková architektura a její modelováníb.Architektonické rámce TOGAF, COBIT a ITIL"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Specifikace, klasifikace a formát požadavků včetně modelováníb.Sběr, správa a dokumentace požadavkůc.Modelování požadavků"
+    },
+    {
+      "label": "[section] Řízení požadavků na IS",
+      "content": "a.Specifikace, klasifikace a formát požadavků včetně modelováníb.Sběr, správa a dokumentace požadavkůc.Modelování požadavků"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Definice, klasifikace podnikových procesů, procesní řízeníb.Modelování procesů (notace UML, BPMN, EPC), význam modelování procesů pro měření výkonnosti procesů, lidí a podniku, výkonnostní indikátoryc.Optimalizace a řízení procesů v disciplíně procesního řízení, simulace procesůd.Mendix a ARIS moderní platformy pro procesní řízení a modelování"
+    },
+    {
+      "label": "[section] Podnikové procesy",
+      "content": "a.Definice, klasifikace podnikových procesů, procesní řízeníb.Modelování procesů (notace UML, BPMN, EPC), význam modelování procesů pro měření výkonnosti procesů, lidí a podniku, výkonnostní indikátoryc.Optimalizace a řízení procesů v disciplíně procesního řízení, simulace procesůd.Mendix a ARIS moderní platformy pro procesní řízení a modelování"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Petriho sítě a jejich využití pro procesní modelování a měření procesů"
+    },
+    {
+      "label": "[section] Modelování procesů a Petriho sítě",
+      "content": "a.Petriho sítě a jejich využití pro procesní modelování a měření procesů"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Moderní notace pro modelování webových aplikacíb.WebML, IFML a UVE - speciální Jazyky pro vyjádření obsahu, uživatelských interakcí a ke kontrole chování front-end aplikacíc.Jazyk OCL - rozšíření UML pro podniková pravidla"
+    },
+    {
+      "label": "[section] Modelování webových aplikací a jazyk OCL",
+      "content": "a.Moderní notace pro modelování webových aplikacíb.WebML, IFML a UVE - speciální Jazyky pro vyjádření obsahu, uživatelských interakcí a ke kontrole chování front-end aplikacíc.Jazyk OCL - rozšíření UML pro podniková pravidla"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Balanced Scorecard, organizační schéma, strategická mapa"
+    },
+    {
+      "label": "[section] Strategické modelování",
+      "content": "a.Balanced Scorecard, organizační schéma, strategická mapa"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Modelování systému pomocí use casesb.Prezentace chování systému pomocí user storiesc.Modelování obrazovek a screenflow"
+    },
+    {
+      "label": "[section] Funkční modelování systému",
+      "content": "a.Modelování systému pomocí use casesb.Prezentace chování systému pomocí user storiesc.Modelování obrazovek a screenflow"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Modelování tříd a balíčkůb.Rozdělení systému na komponentyc.Modelování komponent a jejich vztahů"
+    },
+    {
+      "label": "[section] Modelování dat, struktury systému a komponent",
+      "content": "a.Modelování tříd a balíčkůb.Rozdělení systému na komponentyc.Modelování komponent a jejich vztahů"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Odhadování pomocí funkčních bodůb.Odhadování pomocí use case bodů"
+    },
+    {
+      "label": "[section] Odhady pracnosti v projektech",
+      "content": "a.Odhadování pomocí funkčních bodůb.Odhadování pomocí use case bodů"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku45 hpříprava na průběžné hodnocení5 hpříprava na průběžný test10 hpříprava prezentace4 hzpracování projektů20 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Ke zkoušce je možné se přihlásit po získání zápočtu. Zápočet bude udělen studentům, kteří absolvují cvičení a odevzdají v daném termínu projekt do odevzdávárny a řádně jej odprezentují vyučujícím. Pokyny k projektu budou představeny na 1. cvičení a detailně popsány v samostatném dokumentu. Předmět je ukončen písemnou a ústní zkouškou. Písemná zkouška bude obsahovat 7 otevřených otázek z přednášené problematiky a 1 praktický příklad."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích10 %Vypracování semestrální práce20 %Prezentace nebo obhajoba10 %Absolvování závěrečného testu60 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:ARLOW, Jim; NEUSTADT, Ila. 2007. UML 2 a unifikovaný proces vývoje aplikací: objektově orientovaná analýza a návrh prakticky. 2. vyd. Brno: Computer Press, 567 s. ISBN 978-80-251-1503-9.BUCHALCEVOVÁ, Alena; STANOVSKÁ, Iva. 2013. Příklady modelů analýzy a návrhu aplikace v UML. Praha: Oeconomica, 197 s. ISBN 978-80-245-1922-7.DOSTÁL, Petr. 2008. Pokročilé metody analýz a modelování v podnikatelství a veřejné správě. 1. vyd. Brno: Akademické nakladatelství CERM, 340 s. ISBN 978-80-7204-605-8.Doporučená:BUCHALCEVOVÁ, Alena. 2005. Metodiky vývoje a údržby informačních systémů: kategorizace, agilní metodiky, vzory pro návrh metodiky. 1. vyd. Praga: Grada Publishing, 163 s. ISBN 80-247-1075-7.BASL, Josef; BLAŽÍČEK, Roman. 2012. Podnikové informační systémy: podnik v informační společnosti. 3. vyd. Praha: Grada, 323 s. Management v informační společnosti. ISBN 978-80-247-4307-3.SOMMERVILLE, Ian. 2016. Software Engineering - 10th Edition. England: Pearson Global Edition, 810 s. ISBN 978-1-292-09613-1."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "ARLOW, Jim; NEUSTADT, Ila. 2007. UML 2 a unifikovaný proces vývoje aplikací: objektově orientovaná analýza a návrh prakticky. 2. vyd. Brno: Computer Press, 567 s. ISBN 978-80-251-1503-9.BUCHALCEVOVÁ, Alena; STANOVSKÁ, Iva. 2013. Příklady modelů analýzy a návrhu aplikace v UML. Praha: Oeconomica, 197 s. ISBN 978-80-245-1922-7.DOSTÁL, Petr. 2008. Pokročilé metody analýz a modelování v podnikatelství a veřejné správě. 1. vyd. Brno: Akademické nakladatelství CERM, 340 s. ISBN 978-80-7204-605-8."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "BUCHALCEVOVÁ, Alena. 2005. Metodiky vývoje a údržby informačních systémů: kategorizace, agilní metodiky, vzory pro návrh metodiky. 1. vyd. Praga: Grada Publishing, 163 s. ISBN 80-247-1075-7.BASL, Josef; BLAŽÍČEK, Roman. 2012. Podnikové informační systémy: podnik v informační společnosti. 3. vyd. Praha: Grada, 323 s. Management v informační společnosti. ISBN 978-80-247-4307-3.SOMMERVILLE, Ian. 2016. Software Engineering - 10th Edition. England: Pearson Global Edition, 810 s. ISBN 978-1-292-09613-1."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-OI Otevřená informatika, prezenční forma, počáteční období LS 2024/2025Program N-OI Otevřená informatika, prezenční forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENC-MIS"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Modelování informačních systémů"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Information Systems Modeling"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course can not be studied during foreign activities."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Ivana Rábová, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Oldřich Faldík, Ph.D. (examiner, instructor, lecturer, tutor)doc. Ing. Ivana Rábová, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)RNDr. Zuzana Špendel, Ph.D. (examiner, instructor, lecturer, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Modern trends in the analysis and design of business information systems (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Business Architecture modeling"
+    },
+    {
+      "label": "b.",
+      "content": "Actual Architecture Frameworks TOGAF, COBIT and ITIL."
+    },
+    {
+      "label": "2.",
+      "content": "Requirements management (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Specification, classification a formalisation of requirements"
+    },
+    {
+      "label": "b.",
+      "content": "Management and documentation of requirements"
+    },
+    {
+      "label": "c.",
+      "content": "Requirements modeling"
+    },
+    {
+      "label": "3.",
+      "content": "Business processes (allowance 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Modeling of business processes and process management"
+    },
+    {
+      "label": "b.",
+      "content": "Notation of business processes (UML, BPMN, EPC)"
+    },
+    {
+      "label": "c.",
+      "content": "Importance of process modeling for measuring the performance of processes, people and companies, performance indicators"
+    },
+    {
+      "label": "d.",
+      "content": "Mendix and ARIS - actual platforms for process modeling, simulating and process management"
+    },
+    {
+      "label": "4.",
+      "content": "Petri nets (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Petri nets and their use for process modeling and process measurement"
+    },
+    {
+      "label": "5.",
+      "content": "Web apllication modeling (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "WebML, IFML and UWE - specialized modeling languages designed for defining content, user interactions, and controlling the behavior of front-end applications."
+    },
+    {
+      "label": "b.",
+      "content": "OCL (Object Constraint Language) - an extension of UML used to define business rules"
+    },
+    {
+      "label": "6.",
+      "content": "Strategic modeling (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Balanced Scorecard, Organization chart, strategic map, swot analysis"
+    },
+    {
+      "label": "7.",
+      "content": "Function modeling (Black box modeling) (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Use case modeling"
+    },
+    {
+      "label": "b.",
+      "content": "Presentation of system behavior with helping of User stories"
+    },
+    {
+      "label": "c.",
+      "content": "Screen and screenflow modeling"
+    },
+    {
+      "label": "8.",
+      "content": "Modeling of systems structure and components (white box modeling) (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Division of the system into components"
+    },
+    {
+      "label": "b.",
+      "content": "Modeling of components and relationships"
+    },
+    {
+      "label": "9.",
+      "content": "Projects estimations (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Projects estimation using function points"
+    },
+    {
+      "label": "b.",
+      "content": "Projects estimation using use case points"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "10 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "20 %"
+    },
+    {
+      "label": "Presentation or defence",
+      "content": "10 %"
+    },
+    {
+      "label": "Final test",
+      "content": "60 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Modelování informačních systémů"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Information Systems Modeling"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course can not be studied during foreign activities."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Ivana Rábová, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Oldřich Faldík, Ph.D. (examiner, instructor, lecturer, tutor)doc. Ing. Ivana Rábová, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)RNDr. Zuzana Špendel, Ph.D. (examiner, instructor, lecturer, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityNoteMonday11.00-12.50Q06N-OII. Rábová, O. Faldík, Z. ŠpendelSeminarEvery week26Projektová skupina 1 -- zachovejte stejné rozdělení do cvičení v předmětech MIS a MVIS.Monday13.00-14.50Q06N-OII. Rábová, O. Faldík, Z. ŠpendelSeminarEvery week27Projektová skupina 2 -- zachovejte stejné rozdělení do cvičení v předmětech MIS a MVIS.Wednesday11.00-12.50Q16N-OII. Rábová, O. Faldík, Z. ŠpendelLectureEvery week53"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to explore the formalization of information systems and business processes, and the use of models and diagrams throughout their life cycle. Using formal notations such as UML, BPMN, EPC, and Petri nets, and supported by modern CASE tools like Enterprise Architect and ARIS, the course will present fundamental methods for visualizing system requirements, including structural and behavioral diagrams. An integral part of the course will be the application of these models for designing and presenting system architecture. Students will gain knowledge in formalizing real-world environments and using software tools to model and simulate the design of new information systems or their integration with existing systems. Emphasis will be placed on process modeling and the use of process models for the analysis and design of information systems."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Modern trends in the analysis and design of business information systems (allowance 4/4) a.Business Architecture modelingb.Actual Architecture Frameworks TOGAF, COBIT and ITIL.2.Requirements management (allowance 2/2) a.Specification, classification a formalisation of requirementsb.Management and documentation of requirementsc.Requirements modeling3.Business processes (allowance 8/8) a.Modeling of business processes and process managementb.Notation of business processes (UML, BPMN, EPC)c.Importance of process modeling for measuring the performance of processes, people and companies, performance indicatorsd.Mendix and ARIS - actual platforms for process modeling, simulating and process management4.Petri nets (allowance 2/2) a.Petri nets and their use for process modeling and process measurement5.Web apllication modeling (allowance 2/2) a.WebML, IFML and UWE - specialized modeling languages designed for defining content, user interactions, and controlling the behavior of front-end applications.b.OCL (Object Constraint Language) - an extension of UML used to define business rules6.Strategic modeling (allowance 2/2) a.Balanced Scorecard, Organization chart, strategic map, swot analysis7.Function modeling (Black box modeling) (allowance 4/4) a.Use case modelingb.Presentation of system behavior with helping of User storiesc.Screen and screenflow modeling8.Modeling of systems structure and components (white box modeling) (allowance 2/4) a.Division of the system into componentsb.Modeling of components and relationships9.Projects estimations (allowance 2/0) a.Projects estimation using function pointsb.Projects estimation using use case points"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Business Architecture modelingb.Actual Architecture Frameworks TOGAF, COBIT and ITIL."
+    },
+    {
+      "label": "[section] Modern trends in the analysis and design of business information systems",
+      "content": "a.Business Architecture modelingb.Actual Architecture Frameworks TOGAF, COBIT and ITIL."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Specification, classification a formalisation of requirementsb.Management and documentation of requirementsc.Requirements modeling"
+    },
+    {
+      "label": "[section] Requirements management",
+      "content": "a.Specification, classification a formalisation of requirementsb.Management and documentation of requirementsc.Requirements modeling"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Modeling of business processes and process managementb.Notation of business processes (UML, BPMN, EPC)c.Importance of process modeling for measuring the performance of processes, people and companies, performance indicatorsd.Mendix and ARIS - actual platforms for process modeling, simulating and process management"
+    },
+    {
+      "label": "[section] Business processes",
+      "content": "a.Modeling of business processes and process managementb.Notation of business processes (UML, BPMN, EPC)c.Importance of process modeling for measuring the performance of processes, people and companies, performance indicatorsd.Mendix and ARIS - actual platforms for process modeling, simulating and process management"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Petri nets and their use for process modeling and process measurement"
+    },
+    {
+      "label": "[section] Petri nets",
+      "content": "a.Petri nets and their use for process modeling and process measurement"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.WebML, IFML and UWE - specialized modeling languages designed for defining content, user interactions, and controlling the behavior of front-end applications.b.OCL (Object Constraint Language) - an extension of UML used to define business rules"
+    },
+    {
+      "label": "[section] Web apllication modeling",
+      "content": "a.WebML, IFML and UWE - specialized modeling languages designed for defining content, user interactions, and controlling the behavior of front-end applications.b.OCL (Object Constraint Language) - an extension of UML used to define business rules"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Balanced Scorecard, Organization chart, strategic map, swot analysis"
+    },
+    {
+      "label": "[section] Strategic modeling",
+      "content": "a.Balanced Scorecard, Organization chart, strategic map, swot analysis"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Use case modelingb.Presentation of system behavior with helping of User storiesc.Screen and screenflow modeling"
+    },
+    {
+      "label": "[section] Function modeling (Black box modeling)",
+      "content": "a.Use case modelingb.Presentation of system behavior with helping of User storiesc.Screen and screenflow modeling"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Division of the system into componentsb.Modeling of components and relationships"
+    },
+    {
+      "label": "[section] Modeling of systems structure and components (white box modeling)",
+      "content": "a.Division of the system into componentsb.Modeling of components and relationships"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Projects estimation using function pointsb.Projects estimation using use case points"
+    },
+    {
+      "label": "[section] Projects estimations",
+      "content": "a.Projects estimation using function pointsb.Projects estimation using use case points"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam45 hpreparation for regular assessment5 hpreparation for regular testing10 hpreparation of presentation4 helaboration and execution of projects20 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "It is possible to register for the exam after obtaining the credit. Credit will be awarded to students who complete the exercises and submit the project to the submission office within the given deadline and properly present it to the teacher. The instructions for the project will be presented at the 1st exercise and described in detail in a separate document. The course is completed by a written and oral exam. The written exam will contain 7 open questions from the lectured issues and 1 practical example."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation10 %Term paper20 %Presentation or defence10 %Final test60 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:ARLOW, Jim; NEUSTADT, Ila. 2007. UML 2 a unifikovaný proces vývoje aplikací: objektově orientovaná analýza a návrh prakticky. 2nd ed. Brno: Computer Press, 567 p. ISBN 978-80-251-1503-9.BUCHALCEVOVÁ, Alena; STANOVSKÁ, Iva. 2013. Příklady modelů analýzy a návrhu aplikace v UML. Praha: Oeconomica, 197 p. ISBN 978-80-245-1922-7.DOSTÁL, Petr. 2008. Pokročilé metody analýz a modelování v podnikatelství a veřejné správě. 1st ed. Brno: Akademické nakladatelství CERM, 340 p. ISBN 978-80-7204-605-8.Recommended:BUCHALCEVOVÁ, Alena. 2005. Metodiky vývoje a údržby informačních systémů: kategorizace, agilní metodiky, vzory pro návrh metodiky. 1st ed. Praga: Grada Publishing, 163 p. ISBN 80-247-1075-7.BASL, Josef; BLAŽÍČEK, Roman. 2012. Podnikové informační systémy: podnik v informační společnosti. 3rd ed. Praha: Grada, 323 p. Management v informační společnosti. ISBN 978-80-247-4307-3.SOMMERVILLE, Ian. 2016. Software Engineering - 10th Edition. England: Pearson Global Edition, 810 p. ISBN 978-1-292-09613-1."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "ARLOW, Jim; NEUSTADT, Ila. 2007. UML 2 a unifikovaný proces vývoje aplikací: objektově orientovaná analýza a návrh prakticky. 2nd ed. Brno: Computer Press, 567 p. ISBN 978-80-251-1503-9.BUCHALCEVOVÁ, Alena; STANOVSKÁ, Iva. 2013. Příklady modelů analýzy a návrhu aplikace v UML. Praha: Oeconomica, 197 p. ISBN 978-80-245-1922-7.DOSTÁL, Petr. 2008. Pokročilé metody analýz a modelování v podnikatelství a veřejné správě. 1st ed. Brno: Akademické nakladatelství CERM, 340 p. ISBN 978-80-7204-605-8."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "BUCHALCEVOVÁ, Alena. 2005. Metodiky vývoje a údržby informačních systémů: kategorizace, agilní metodiky, vzory pro návrh metodiky. 1st ed. Praga: Grada Publishing, 163 p. ISBN 80-247-1075-7.BASL, Josef; BLAŽÍČEK, Roman. 2012. Podnikové informační systémy: podnik v informační společnosti. 3rd ed. Praha: Grada, 323 p. Management v informační společnosti. ISBN 978-80-247-4307-3.SOMMERVILLE, Ian. 2016. Software Engineering - 10th Edition. England: Pearson Global Edition, 810 p. ISBN 978-1-292-09613-1."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-OI Open Informatics, full-time form, initial period SS 2024/2025Programme C-OI Open Informatics, full-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:58:13",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

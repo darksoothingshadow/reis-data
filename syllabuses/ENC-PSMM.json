@@ -1,0 +1,777 @@
+{
+  "courseCode": "ENC-PSMM",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENC-PSMM"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Pokročilé statistické metody a modely"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Advanced Statistical Methods and Models"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné zapsat při zahraničním výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Mgr. David Hampel, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav statistiky a operačního výzkumu (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "prof. Mgr. David Hampel, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Terézia Vančová, Ph.D. (cvičící, přednášející, zkoušející)RNDr. Lenka Viskotová, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Výpočetní systém MATLAB (dotace 0/14)"
+    },
+    {
+      "label": "a.",
+      "content": "Principy práce v MATLABu"
+    },
+    {
+      "label": "b.",
+      "content": "Matice v MATLABu"
+    },
+    {
+      "label": "c.",
+      "content": "Logické výrazy. Programování v MATLABu."
+    },
+    {
+      "label": "d.",
+      "content": "Textové řetězce v MATLABu"
+    },
+    {
+      "label": "e.",
+      "content": "Úvod do práce s daty v MATLABu"
+    },
+    {
+      "label": "f.",
+      "content": "Grafika v MATLABu"
+    },
+    {
+      "label": "2.",
+      "content": "Odhady a jejich vlastnosti (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Bodové a intervalové odhady"
+    },
+    {
+      "label": "b.",
+      "content": "Metody hledání bodového odhadu"
+    },
+    {
+      "label": "c.",
+      "content": "Vlastnosti bodového odhadu"
+    },
+    {
+      "label": "3.",
+      "content": "Testy hypotéz o vybraných parametrech (dotace 5/10)"
+    },
+    {
+      "label": "a.",
+      "content": "Testy o parametrech alternativního rozdělení"
+    },
+    {
+      "label": "b.",
+      "content": "Testy o koeficientu korelace"
+    },
+    {
+      "label": "c.",
+      "content": "Vícefaktorová analýza rozptylu"
+    },
+    {
+      "label": "d.",
+      "content": "Obecná lineární hypotéza"
+    },
+    {
+      "label": "4.",
+      "content": "Pokročilé hodnocení závislosti nominálních a ordinálních dat (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Testy založené na multinomickém rozdělení"
+    },
+    {
+      "label": "b.",
+      "content": "Aplikace korespondenční analýzy"
+    },
+    {
+      "label": "c.",
+      "content": "Podíl šancí"
+    },
+    {
+      "label": "d.",
+      "content": "Spearmanova korelace"
+    },
+    {
+      "label": "5.",
+      "content": "Shluková analýza (dotace 2/5)"
+    },
+    {
+      "label": "a.",
+      "content": "Matematický popis shlukové analýzy"
+    },
+    {
+      "label": "b.",
+      "content": "Aglomerativní hierarchická procedura, dendrogram"
+    },
+    {
+      "label": "c.",
+      "content": "Metoda k-means"
+    },
+    {
+      "label": "6.",
+      "content": "Analýza hlavních komponent a faktorová analýza (dotace 2/5)"
+    },
+    {
+      "label": "a.",
+      "content": "Účel a motivace"
+    },
+    {
+      "label": "b.",
+      "content": "Podstata metod a rozdíly mezi metodami"
+    },
+    {
+      "label": "c.",
+      "content": "Grafické výstupy analýzy"
+    },
+    {
+      "label": "d.",
+      "content": "Identifikace faktorů"
+    },
+    {
+      "label": "7.",
+      "content": "Prezentace statistických výstupů (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Metodologie prezentace statistických výstupů"
+    },
+    {
+      "label": "b.",
+      "content": "Obvyklé chyby v prezentaci numerických a grafických výstupů"
+    },
+    {
+      "label": "c.",
+      "content": "Pokročilé metody zobrazování v MATLABu"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "40 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "60 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022, LS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Pokročilé statistické metody a modely"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Advanced Statistical Methods and Models"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné zapsat při zahraničním výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Mgr. David Hampel, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav statistiky a operačního výzkumu (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: prof. Mgr. David Hampel, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Terézia Vančová, Ph.D. (cvičící, přednášející, zkoušející)RNDr. Lenka Viskotová, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý13.00-13.50Q34D. Hampel, L. ViskotováPřednáškaKaždý týden24Čtvrtek11.00-12.50Q34T. Vančová, D. Hampel, L. ViskotováCvičeníKaždý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Studenti získají teoretické znalosti a praktické dovednosti v oblasti pokročilých statistických analýz a aplikace vícerozměrných metod. Studenti pochopí základní principy práce s výpočetním systémem MATLAB a naučí se realizovat prezentované metody ve výpočetním systému MATLAB."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Výpočetní systém MATLAB (dotace 0/14) a.Principy práce v MATLABub.Matice v MATLABuc.Logické výrazy. Programování v MATLABu.d.Textové řetězce v MATLABue.Úvod do práce s daty v MATLABuf.Grafika v MATLABu2.Odhady a jejich vlastnosti (dotace 2/0) a.Bodové a intervalové odhadyb.Metody hledání bodového odhaduc.Vlastnosti bodového odhadu3.Testy hypotéz o vybraných parametrech (dotace 5/10) a.Testy o parametrech alternativního rozděleníb.Testy o koeficientu korelacec.Vícefaktorová analýza rozptylud.Obecná lineární hypotéza4.Pokročilé hodnocení závislosti nominálních a ordinálních dat (dotace 2/6) a.Testy založené na multinomickém rozděleníb.Aplikace korespondenční analýzyc.Podíl šancíd.Spearmanova korelace5.Shluková analýza (dotace 2/5) a.Matematický popis shlukové analýzyb.Aglomerativní hierarchická procedura, dendrogramc.Metoda k-means6.Analýza hlavních komponent a faktorová analýza (dotace 2/5) a.Účel a motivaceb.Podstata metod a rozdíly mezi metodamic.Grafické výstupy analýzyd.Identifikace faktorů7.Prezentace statistických výstupů (dotace 1/2) a.Metodologie prezentace statistických výstupůb.Obvyklé chyby v prezentaci numerických a grafických výstupůc.Pokročilé metody zobrazování v MATLABu"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Principy práce v MATLABub.Matice v MATLABuc.Logické výrazy. Programování v MATLABu.d.Textové řetězce v MATLABue.Úvod do práce s daty v MATLABuf.Grafika v MATLABu"
+    },
+    {
+      "label": "[section] Výpočetní systém MATLAB",
+      "content": "a.Principy práce v MATLABub.Matice v MATLABuc.Logické výrazy. Programování v MATLABu.d.Textové řetězce v MATLABue.Úvod do práce s daty v MATLABuf.Grafika v MATLABu"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Bodové a intervalové odhadyb.Metody hledání bodového odhaduc.Vlastnosti bodového odhadu"
+    },
+    {
+      "label": "[section] Odhady a jejich vlastnosti",
+      "content": "a.Bodové a intervalové odhadyb.Metody hledání bodového odhaduc.Vlastnosti bodového odhadu"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Testy o parametrech alternativního rozděleníb.Testy o koeficientu korelacec.Vícefaktorová analýza rozptylud.Obecná lineární hypotéza"
+    },
+    {
+      "label": "[section] Testy hypotéz o vybraných parametrech",
+      "content": "a.Testy o parametrech alternativního rozděleníb.Testy o koeficientu korelacec.Vícefaktorová analýza rozptylud.Obecná lineární hypotéza"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Testy založené na multinomickém rozděleníb.Aplikace korespondenční analýzyc.Podíl šancíd.Spearmanova korelace"
+    },
+    {
+      "label": "[section] Pokročilé hodnocení závislosti nominálních a ordinálních dat",
+      "content": "a.Testy založené na multinomickém rozděleníb.Aplikace korespondenční analýzyc.Podíl šancíd.Spearmanova korelace"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Matematický popis shlukové analýzyb.Aglomerativní hierarchická procedura, dendrogramc.Metoda k-means"
+    },
+    {
+      "label": "[section] Shluková analýza",
+      "content": "a.Matematický popis shlukové analýzyb.Aglomerativní hierarchická procedura, dendrogramc.Metoda k-means"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Účel a motivaceb.Podstata metod a rozdíly mezi metodamic.Grafické výstupy analýzyd.Identifikace faktorů"
+    },
+    {
+      "label": "[section] Analýza hlavních komponent a faktorová analýza",
+      "content": "a.Účel a motivaceb.Podstata metod a rozdíly mezi metodamic.Grafické výstupy analýzyd.Identifikace faktorů"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Metodologie prezentace statistických výstupůb.Obvyklé chyby v prezentaci numerických a grafických výstupůc.Pokročilé metody zobrazování v MATLABu"
+    },
+    {
+      "label": "[section] Prezentace statistických výstupů",
+      "content": "a.Metodologie prezentace statistických výstupůb.Obvyklé chyby v prezentaci numerických a grafických výstupůc.Pokročilé metody zobrazování v MATLABu"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení42 hpříprava na zkoušku66 hzpracování seminární práce34 hpříprava na cvičení40 hCelkem196 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Celkové hodnocení studenta se odvíjí od počtu bodů získaných během celého semestru a to následujícím způsobem: 1) Vypracování souboru úloh z oblasti výpočetního systému MATLAB. Úlohy se řeší v rámci výuky dle harmonogramu. Skripty s vypracovanými úkoly studenti odešlou pomocí Odevzdávárny v UIS. Soubor úloh je ohodnocen maximálně 10 body, minimální bodový zisk není požadován. 2) Projekt z oblasti shlukové analýzy (max. 15 bodů, minimální bodový zisk není požadován), projekt z oblasti faktorové analýzy (max. 15 bodů, minimální bodový zisk není požadován). 3) Ústní zkouška (max. 60 bodů, minimální bodový zisk není stanoven). Hodnocení předmětu je dáno následovně: [90; 100] bodů - A [83; 90) bodů - B [75; 83) bodů - C [68; 75) bodů - D [60; 68) bodů - E [0; 60) bodů - F Studenti jsou povinni disponovat webkamerou, mikrofonem a dalším hardwarem s nainstalovaným funkčním výpočetním systémem MATLAB (https://www.mathworks.com/academia/tah-portal/mendelu-31494269.html) a internetovým připojením dostatečným pro videokonference. Tato výbava nebude kontrolována, nicméně její nedostatečnost nebude omluvou při případném přechodu na online výuku a zkoušení."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumVypracování semestrální práce40 %Absolvování závěrečné ústní zkoušky60 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:ANDĚL, Jiří. 2019. Statistické metody. 5. vyd. Praha: MatfyzPress, 300 s. ISBN 978-80-7378-381-5.HAMPEL, David; JANOVÁ, Jitka; VISKOTOVÁ, Lenka. 2018. MATLAB. Brno: Mendelova univerzita v Brně, 136 s. ISBN 978-80-7509-543-5.HEBÁK, Petr a kol. 2013. Statistické myšlení a nástroje analýzy dat. 1. vyd. Praha: Informatorum, 877 s. ISBN 978-80-7333-105-4.Doporučená:HEBÁK, Petr a kol. 2005. Vícerozměrné statistické metody [3]. 1. vyd. Praha: Informatorium, 255 s. ISBN 80-7333-039-3.MARTINEZ, Wendy L.; MARTINEZ, Angel R. 2016. Computational statistics handbook with MATLAB. Boca Raton, Fl: CRC Press, 731 s. Computer science and data analysis series. ISBN 978-1-4665-9273-5."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "ANDĚL, Jiří. 2019. Statistické metody. 5. vyd. Praha: MatfyzPress, 300 s. ISBN 978-80-7378-381-5.HAMPEL, David; JANOVÁ, Jitka; VISKOTOVÁ, Lenka. 2018. MATLAB. Brno: Mendelova univerzita v Brně, 136 s. ISBN 978-80-7509-543-5.HEBÁK, Petr a kol. 2013. Statistické myšlení a nástroje analýzy dat. 1. vyd. Praha: Informatorum, 877 s. ISBN 978-80-7333-105-4."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "HEBÁK, Petr a kol. 2005. Vícerozměrné statistické metody [3]. 1. vyd. Praha: Informatorium, 255 s. ISBN 80-7333-039-3.MARTINEZ, Wendy L.; MARTINEZ, Angel R. 2016. Computational statistics handbook with MATLAB. Boca Raton, Fl: CRC Press, 731 s. Computer science and data analysis series. ISBN 978-1-4665-9273-5."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-EMOS Ekonomické modelování a aplikovaná statistika, prezenční forma, počáteční období ZS 2024/2025Program N-EMOS Ekonomické modelování a aplikovaná statistika, prezenční forma, počáteční období LS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENC-PSMM"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Pokročilé statistické metody a modely"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Advanced Statistical Methods and Models"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course is not possible to enroll in a foreign trip."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Mgr. David Hampel, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Statistics and Operation Analysis (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "prof. Mgr. David Hampel, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Terézia Vančová, Ph.D. (examiner, instructor, lecturer)RNDr. Lenka Viskotová, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Computational system MATLAB (allowance 0/14)"
+    },
+    {
+      "label": "a.",
+      "content": "Principles of working in MATLAB"
+    },
+    {
+      "label": "b.",
+      "content": "Matrices in MATLAB"
+    },
+    {
+      "label": "c.",
+      "content": "Logical expressions. Programming in MATLAB."
+    },
+    {
+      "label": "d.",
+      "content": "Text strings in MATLAB"
+    },
+    {
+      "label": "e.",
+      "content": "Introduction to working with data in MATLAB"
+    },
+    {
+      "label": "f.",
+      "content": "Graphics in MATLAB"
+    },
+    {
+      "label": "2.",
+      "content": "Estimates and its properties (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Point and interval estimates"
+    },
+    {
+      "label": "b.",
+      "content": "Methods of finding a point estimate"
+    },
+    {
+      "label": "c.",
+      "content": "Properties of the point estimate"
+    },
+    {
+      "label": "3.",
+      "content": "Testing hypothesis on selected parameters (allowance 5/10)"
+    },
+    {
+      "label": "a.",
+      "content": "Tests about parameters of Bernoulli distribution"
+    },
+    {
+      "label": "b.",
+      "content": "Tests about correlation coefficient"
+    },
+    {
+      "label": "c.",
+      "content": "N-way analysis of variance"
+    },
+    {
+      "label": "d.",
+      "content": "General linear hypothesis"
+    },
+    {
+      "label": "4.",
+      "content": "Advanced evaluation of nominal and ordinal data dependence (allowance 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Tests based on multinomial distribution"
+    },
+    {
+      "label": "b.",
+      "content": "Application of correspondence analysis"
+    },
+    {
+      "label": "c.",
+      "content": "Odds ratio"
+    },
+    {
+      "label": "d.",
+      "content": "Spearman's correlation"
+    },
+    {
+      "label": "5.",
+      "content": "Cluster analysis (allowance 2/5)"
+    },
+    {
+      "label": "a.",
+      "content": "Mathematical description of cluster analysis"
+    },
+    {
+      "label": "b.",
+      "content": "Agglomerative hierarchical procedure, dendrogram"
+    },
+    {
+      "label": "c.",
+      "content": "k-means method"
+    },
+    {
+      "label": "6.",
+      "content": "Principal components analysis and factor analysis (allowance 2/5)"
+    },
+    {
+      "label": "a.",
+      "content": "Purpose and motivation"
+    },
+    {
+      "label": "b.",
+      "content": "Nature of methods and differences between methods"
+    },
+    {
+      "label": "c.",
+      "content": "Graphic outputs of the analysis"
+    },
+    {
+      "label": "d.",
+      "content": "Identification of factors"
+    },
+    {
+      "label": "7.",
+      "content": "Presentation of statistical outputs (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Methodology of statistical outputs presentation"
+    },
+    {
+      "label": "b.",
+      "content": "Common mistakes in presentation of numerical and graphical outputs"
+    },
+    {
+      "label": "c.",
+      "content": "Advanced display methods in MATLAB"
+    },
+    {
+      "label": "Term paper",
+      "content": "40 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "60 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, WS 2023/2024, WS 2022/2023, WS 2021/2022, SS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Pokročilé statistické metody a modely"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Advanced Statistical Methods and Models"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course is not possible to enroll in a foreign trip."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Mgr. David Hampel, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Statistics and Operation Analysis (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. Mgr. David Hampel, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Terézia Vančová, Ph.D. (examiner, instructor, lecturer)RNDr. Lenka Viskotová, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday13.00-13.50Q34D. Hampel, L. ViskotováLectureEvery week24Thursday11.00-12.50Q34T. Vančová, D. Hampel, L. ViskotováSeminarEvery week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Students will gain theoretical knowledge and practical skills in the field of advanced statistical analysis and multidimensional methods. Students will understand the basic principles of MATLAB and learn to implement the presented methods in MATLAB."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Computational system MATLAB (allowance 0/14) a.Principles of working in MATLABb.Matrices in MATLABc.Logical expressions. Programming in MATLAB.d.Text strings in MATLABe.Introduction to working with data in MATLABf.Graphics in MATLAB2.Estimates and its properties (allowance 2/0) a.Point and interval estimatesb.Methods of finding a point estimatec.Properties of the point estimate3.Testing hypothesis on selected parameters (allowance 5/10) a.Tests about parameters of Bernoulli distributionb.Tests about correlation coefficientc.N-way analysis of varianced.General linear hypothesis4.Advanced evaluation of nominal and ordinal data dependence (allowance 2/6) a.Tests based on multinomial distributionb.Application of correspondence analysisc.Odds ratiod.Spearman's correlation5.Cluster analysis (allowance 2/5) a.Mathematical description of cluster analysisb.Agglomerative hierarchical procedure, dendrogramc.k-means method6.Principal components analysis and factor analysis (allowance 2/5) a.Purpose and motivationb.Nature of methods and differences between methodsc.Graphic outputs of the analysisd.Identification of factors7.Presentation of statistical outputs (allowance 1/2) a.Methodology of statistical outputs presentationb.Common mistakes in presentation of numerical and graphical outputsc.Advanced display methods in MATLAB"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Principles of working in MATLABb.Matrices in MATLABc.Logical expressions. Programming in MATLAB.d.Text strings in MATLABe.Introduction to working with data in MATLABf.Graphics in MATLAB"
+    },
+    {
+      "label": "[section] Computational system MATLAB",
+      "content": "a.Principles of working in MATLABb.Matrices in MATLABc.Logical expressions. Programming in MATLAB.d.Text strings in MATLABe.Introduction to working with data in MATLABf.Graphics in MATLAB"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Point and interval estimatesb.Methods of finding a point estimatec.Properties of the point estimate"
+    },
+    {
+      "label": "[section] Estimates and its properties",
+      "content": "a.Point and interval estimatesb.Methods of finding a point estimatec.Properties of the point estimate"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Tests about parameters of Bernoulli distributionb.Tests about correlation coefficientc.N-way analysis of varianced.General linear hypothesis"
+    },
+    {
+      "label": "[section] Testing hypothesis on selected parameters",
+      "content": "a.Tests about parameters of Bernoulli distributionb.Tests about correlation coefficientc.N-way analysis of varianced.General linear hypothesis"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Tests based on multinomial distributionb.Application of correspondence analysisc.Odds ratiod.Spearman's correlation"
+    },
+    {
+      "label": "[section] Advanced evaluation of nominal and ordinal data dependence",
+      "content": "a.Tests based on multinomial distributionb.Application of correspondence analysisc.Odds ratiod.Spearman's correlation"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Mathematical description of cluster analysisb.Agglomerative hierarchical procedure, dendrogramc.k-means method"
+    },
+    {
+      "label": "[section] Cluster analysis",
+      "content": "a.Mathematical description of cluster analysisb.Agglomerative hierarchical procedure, dendrogramc.k-means method"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Purpose and motivationb.Nature of methods and differences between methodsc.Graphic outputs of the analysisd.Identification of factors"
+    },
+    {
+      "label": "[section] Principal components analysis and factor analysis",
+      "content": "a.Purpose and motivationb.Nature of methods and differences between methodsc.Graphic outputs of the analysisd.Identification of factors"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Methodology of statistical outputs presentationb.Common mistakes in presentation of numerical and graphical outputsc.Advanced display methods in MATLAB"
+    },
+    {
+      "label": "[section] Presentation of statistical outputs",
+      "content": "a.Methodology of statistical outputs presentationb.Common mistakes in presentation of numerical and graphical outputsc.Advanced display methods in MATLAB"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice42 hpreparation for exam66 hwriting of seminar paper34 hpreparation for seminary40 hTotal196 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "The assessment of the student is based on the number of points obtained during the semester as follows: 1) Processing of a set of problems in the field of MATLAB computing system. The problems are solved in the course according to the schedule. Students will submit scripts with completed assignments using the UIS Coursework Submission Form. The problem set is graded with a maximum of 10 points, no minimum score is required. 2) Project from the area of cluster analysis (max. 15 points, minimum score is not specified), project from the area of factor analysis (max. 15 points, minimum score is not specified). 3) Oral exam (max. 60 points, minimum score is not specified). The assessment of the course is given as follows: [90; 100] points - A [83; 90) points - B [75; 83) points - C [68; 75) points - D [60; 68) points - E [0; 60) points - F Students are required to obtain a webcam, microphone, hardware with the installed working computational system MATLAB (https://www.mathworks.com/academia/tah-portal/mendelu-31494269.html) and web connection suitable for video conferencing. Absence or inadequacy of these will not be an excuse during a possible transition to online teaching and testing."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTerm paper40 %Final oral exam60 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:ANDĚL, Jiří. 2019. Statistické metody. 5th ed. Praha: MatfyzPress, 300 p. ISBN 978-80-7378-381-5.HAMPEL, David; JANOVÁ, Jitka; VISKOTOVÁ, Lenka. 2018. MATLAB. Brno: Mendelova univerzita v Brně, 136 p. ISBN 978-80-7509-543-5.HEBÁK, Petr et al. 2013. Statistické myšlení a nástroje analýzy dat. 1st ed. Praha: Informatorum, 877 p. ISBN 978-80-7333-105-4.Recommended:HEBÁK, Petr et al. 2005. Vícerozměrné statistické metody [3]. 1st ed. Praha: Informatorium, 255 p. ISBN 80-7333-039-3.MARTINEZ, Wendy L.; MARTINEZ, Angel R. 2016. Computational statistics handbook with MATLAB. Boca Raton, Fl: CRC Press, 731 p. Computer science and data analysis series. ISBN 978-1-4665-9273-5."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "ANDĚL, Jiří. 2019. Statistické metody. 5th ed. Praha: MatfyzPress, 300 p. ISBN 978-80-7378-381-5.HAMPEL, David; JANOVÁ, Jitka; VISKOTOVÁ, Lenka. 2018. MATLAB. Brno: Mendelova univerzita v Brně, 136 p. ISBN 978-80-7509-543-5.HEBÁK, Petr et al. 2013. Statistické myšlení a nástroje analýzy dat. 1st ed. Praha: Informatorum, 877 p. ISBN 978-80-7333-105-4."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "HEBÁK, Petr et al. 2005. Vícerozměrné statistické metody [3]. 1st ed. Praha: Informatorium, 255 p. ISBN 80-7333-039-3.MARTINEZ, Wendy L.; MARTINEZ, Angel R. 2016. Computational statistics handbook with MATLAB. Boca Raton, Fl: CRC Press, 731 p. Computer science and data analysis series. ISBN 978-1-4665-9273-5."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-EMOS Economic modelling and applied statistics, full-time form, initial period WS 2024/2025Programme C-EMOS Economic modelling and applied statistics, full-time form, initial period SS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:00:09",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

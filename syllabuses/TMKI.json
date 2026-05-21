@@ -1,0 +1,829 @@
+{
+  "courseCode": "TMKI",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "TMKI"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Technická a stavební mechanika"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Technical and Construction Mechanics"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Pavla Kotásková, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav inženýrských staveb, tvorby a ochrany krajiny (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Pavla Kotásková, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Základy statiky (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "skládání a rozklad sil"
+    },
+    {
+      "label": "b.",
+      "content": "podmínky rovnováhy sil"
+    },
+    {
+      "label": "c.",
+      "content": "statický moment síly"
+    },
+    {
+      "label": "2.",
+      "content": "Statické veličiny průřezu (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "těžiště jednoduchých ploch"
+    },
+    {
+      "label": "b.",
+      "content": "těžiště složených ploch"
+    },
+    {
+      "label": "3.",
+      "content": "Statické veličiny průřezů (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "momenty a poloměry setrvačnosti složených průřezů"
+    },
+    {
+      "label": "b.",
+      "content": "průřezový modul"
+    },
+    {
+      "label": "4.",
+      "content": "Základy pružnosti a pevnosti (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "přetvoření a vnitřní síly"
+    },
+    {
+      "label": "b.",
+      "content": "napětí v tlaku, vzpěr"
+    },
+    {
+      "label": "c.",
+      "content": "napětí v tahu"
+    },
+    {
+      "label": "d.",
+      "content": "napětí v ohybu"
+    },
+    {
+      "label": "e.",
+      "content": "kroucení, smyk"
+    },
+    {
+      "label": "f.",
+      "content": "napětí v excentrickém tlaku a tahu"
+    },
+    {
+      "label": "5.",
+      "content": "Výpočet zatížení na stavební konstrukce a jejich posuzování podle teorie mezních stavů (dotace 1/0)"
+    },
+    {
+      "label": "6.",
+      "content": "Tlak sypkých hmot, hydrostatický tlak a kombinovaný tlak na opěrnou konstrukci (dotace 3/4)"
+    },
+    {
+      "label": "a.",
+      "content": "vyšetření velikosti zemního tlaku"
+    },
+    {
+      "label": "b.",
+      "content": "vyšetření velikosti tlaku vody"
+    },
+    {
+      "label": "c.",
+      "content": "výsledný tlak na opěrnou konstrukci"
+    },
+    {
+      "label": "7.",
+      "content": "Opěrné zdi (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "návrh a posouzení"
+    },
+    {
+      "label": "8.",
+      "content": "Staticky určité nosníky (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "zjišťování ohybových momentů a posouvajících sil, jejich průběhy"
+    },
+    {
+      "label": "9.",
+      "content": "Navrhování a posouzení nosníků (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "zatížení stálé"
+    },
+    {
+      "label": "10.",
+      "content": "Nosník s převislými konci, nosník konzolový, soustava rovnoběžných nosníků (dotace 2/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Průhyb nosníku pro různé typy zatížení (dotace 2/2)"
+    },
+    {
+      "label": "12.",
+      "content": "Pohyblivé zatížení nosníků (dotace 2/2)"
+    },
+    {
+      "label": "13.",
+      "content": "Prutové soustavy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "řešení osových sil v jednotlivých prutech soustavy"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, LS 2022/2023, ZS 2022/2023, LS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Technická a stavební mechanika"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Technical and Construction Mechanics"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Pavla Kotásková, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav inženýrských staveb, tvorby a ochrany krajiny (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Pavla Kotásková, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPoznámkaPondělí7.00-8.50B36P. KotáskováCvičeníKaždý týden20spol. s TSTMPondělí9.00-10.50B34P. KotáskováCvičeníKaždý týden22spol. s TSTMČtvrtek11.00-12.50B02P. KotáskováPřednáškaKaždý týden97spol. s TSTM"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Od základních pojmů statiky, dynamiky a kinematiky přes účinky zatížení na prvky a konstrukce se naučit navrhovat a posuzovat dílčí části staveb."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Základy statiky (dotace 4/4) a.skládání a rozklad silb.podmínky rovnováhy silc.statický moment síly2.Statické veličiny průřezu (dotace 2/2) a.těžiště jednoduchých plochb.těžiště složených ploch3.Statické veličiny průřezů (dotace 2/2) a.momenty a poloměry setrvačnosti složených průřezůb.průřezový modul4.Základy pružnosti a pevnosti (dotace 2/2) a.přetvoření a vnitřní sílyb.napětí v tlaku, vzpěrc.napětí v tahud.napětí v ohybue.kroucení, smykf.napětí v excentrickém tlaku a tahu5.Výpočet zatížení na stavební konstrukce a jejich posuzování podle teorie mezních stavů (dotace 1/0)6.Tlak sypkých hmot, hydrostatický tlak a kombinovaný tlak na opěrnou konstrukci (dotace 3/4) a.vyšetření velikosti zemního tlakub.vyšetření velikosti tlaku vodyc.výsledný tlak na opěrnou konstrukci7.Opěrné zdi (dotace 2/2) a.návrh a posouzení8.Staticky určité nosníky (dotace 2/2) a.zjišťování ohybových momentů a posouvajících sil, jejich průběhy9.Navrhování a posouzení nosníků (dotace 2/2) a.zatížení stálé10.Nosník s převislými konci, nosník konzolový, soustava rovnoběžných nosníků (dotace 2/2)11.Průhyb nosníku pro různé typy zatížení (dotace 2/2)12.Pohyblivé zatížení nosníků (dotace 2/2)13.Prutové soustavy (dotace 2/2) a.řešení osových sil v jednotlivých prutech soustavy"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.skládání a rozklad silb.podmínky rovnováhy silc.statický moment síly"
+    },
+    {
+      "label": "[section] Základy statiky",
+      "content": "a.skládání a rozklad silb.podmínky rovnováhy silc.statický moment síly"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.těžiště jednoduchých plochb.těžiště složených ploch"
+    },
+    {
+      "label": "[section] Statické veličiny průřezu",
+      "content": "a.těžiště jednoduchých plochb.těžiště složených ploch"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.momenty a poloměry setrvačnosti složených průřezůb.průřezový modul"
+    },
+    {
+      "label": "[section] Statické veličiny průřezů",
+      "content": "a.momenty a poloměry setrvačnosti složených průřezůb.průřezový modul"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.přetvoření a vnitřní sílyb.napětí v tlaku, vzpěrc.napětí v tahud.napětí v ohybue.kroucení, smykf.napětí v excentrickém tlaku a tahu"
+    },
+    {
+      "label": "[section] Základy pružnosti a pevnosti",
+      "content": "a.přetvoření a vnitřní sílyb.napětí v tlaku, vzpěrc.napětí v tahud.napětí v ohybue.kroucení, smykf.napětí v excentrickém tlaku a tahu"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Tlak sypkých hmot, hydrostatický tlak a kombinovaný tlak na opěrnou konstrukci (dotace 3/4)"
+    },
+    {
+      "label": "[section] Výpočet zatížení na stavební konstrukce a jejich posuzování podle teorie mezních stavů",
+      "content": "6.Tlak sypkých hmot, hydrostatický tlak a kombinovaný tlak na opěrnou konstrukci (dotace 3/4)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.vyšetření velikosti zemního tlakub.vyšetření velikosti tlaku vodyc.výsledný tlak na opěrnou konstrukci"
+    },
+    {
+      "label": "[section] Tlak sypkých hmot, hydrostatický tlak a kombinovaný tlak na opěrnou konstrukci",
+      "content": "a.vyšetření velikosti zemního tlakub.vyšetření velikosti tlaku vodyc.výsledný tlak na opěrnou konstrukci"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.návrh a posouzení"
+    },
+    {
+      "label": "[section] Opěrné zdi",
+      "content": "a.návrh a posouzení"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.zjišťování ohybových momentů a posouvajících sil, jejich průběhy"
+    },
+    {
+      "label": "[section] Staticky určité nosníky",
+      "content": "a.zjišťování ohybových momentů a posouvajících sil, jejich průběhy"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.zatížení stálé"
+    },
+    {
+      "label": "[section] Navrhování a posouzení nosníků",
+      "content": "a.zatížení stálé"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Průhyb nosníku pro různé typy zatížení (dotace 2/2)"
+    },
+    {
+      "label": "[section] Nosník s převislými konci, nosník konzolový, soustava rovnoběžných nosníků",
+      "content": "11.Průhyb nosníku pro různé typy zatížení (dotace 2/2)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Pohyblivé zatížení nosníků (dotace 2/2)"
+    },
+    {
+      "label": "[section] Průhyb nosníku pro různé typy zatížení",
+      "content": "12.Pohyblivé zatížení nosníků (dotace 2/2)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Prutové soustavy (dotace 2/2)"
+    },
+    {
+      "label": "[section] Pohyblivé zatížení nosníků",
+      "content": "13.Prutové soustavy (dotace 2/2)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.řešení osových sil v jednotlivých prutech soustavy"
+    },
+    {
+      "label": "[section] Prutové soustavy",
+      "content": "a.řešení osových sil v jednotlivých prutech soustavy"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h28 hcvičení28 h0 hpříprava na zkoušku14 h14 hpříprava na průběžné hodnocení14 h28 hzpracování protokolů28 h42 hCelkem112 h112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "V každém cvičení student procvičuje látku na příkladech, během semestru odevzdává 25 příkladů. K zápočtu vypracovává 3 protokoly, které obsahují výpočty a grafické řešení. Zápočtová písemka je rozdělena na 2 části. První část se píše během semestru a druhá na konci. K úspěšnému zvládnutí je třeba mít alespoň 70 % správně u každé písemky. Pro udělení zápočtu je nutná aktivní účast na cvičení min. 80 %. Zkouška je písemnou formou. Otázky jsou teoretické i výpočtové. Na vypracování má student 60 min. K úspěšnému zvládnutí je třeba mít alespoň 70 % správných odpovědí."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumCelkem0 %0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:HAVÍŘOVÁ, Zdeňka. 2003. Technická mechanika I.: základy statiky, pružnost a pevnost. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 105 s. ISBN 80-7157-667-0.HAVÍŘOVÁ, Zdeňka. 1997. Technická mechanika II: vybrané statě pro lesnický obor. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita, 39 s. ISBN 80-7157-233-0.HAVÍŘOVÁ, Zdeňka. 2006. Technická mechanika : cvičení. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 88 s. ISBN 80-7157-940-8.Doporučená:DVOŘÁK, Jiří. 1994. Stavební mechanika: pro 2. a 3. ročník SPŠ stavební. 1. vyd. Praha: Sobotáles, 402 s. ISBN 80-901570-7-6.KADLČÁK, Jaroslav; KYTÝR, Jiří. 2010. Statika stavebních konstrukcí. 3. vyd. V Brně: VUTIUM, 349 s. ISBN 978-80-214-3419-6.MIČKAL, Karel. 1998. Sbírka úloh z technické mechaniky: pro střední odborná učiliště a střední odborné školy. 5. vyd. Praha: Informatorium, 265 s. ISBN 80-86073-36-X."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "HAVÍŘOVÁ, Zdeňka. 2003. Technická mechanika I.: základy statiky, pružnost a pevnost. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 105 s. ISBN 80-7157-667-0.HAVÍŘOVÁ, Zdeňka. 1997. Technická mechanika II: vybrané statě pro lesnický obor. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita, 39 s. ISBN 80-7157-233-0.HAVÍŘOVÁ, Zdeňka. 2006. Technická mechanika : cvičení. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 88 s. ISBN 80-7157-940-8."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "DVOŘÁK, Jiří. 1994. Stavební mechanika: pro 2. a 3. ročník SPŠ stavební. 1. vyd. Praha: Sobotáles, 402 s. ISBN 80-901570-7-6.KADLČÁK, Jaroslav; KYTÝR, Jiří. 2010. Statika stavebních konstrukcí. 3. vyd. V Brně: VUTIUM, 349 s. ISBN 978-80-214-3419-6.MIČKAL, Karel. 1998. Sbírka úloh z technické mechaniky: pro střední odborná učiliště a střední odborné školy. 5. vyd. Praha: Informatorium, 265 s. ISBN 80-86073-36-X."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-KRAJN Krajinářství, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "TMKI"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Technická a stavební mechanika"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Technical and Construction Mechanics"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 20/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Pavla Kotásková, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Landscape Management (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Pavla Kotásková, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not State Bachelor Examination"
+    },
+    {
+      "label": "1.",
+      "content": "Principles of statics (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "composition and decomposition of forces"
+    },
+    {
+      "label": "b.",
+      "content": "conditions of equilibrium of forces"
+    },
+    {
+      "label": "c.",
+      "content": "static torque"
+    },
+    {
+      "label": "2.",
+      "content": "Static variables section (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "center of gravity"
+    },
+    {
+      "label": "b.",
+      "content": "radii and moments of inertia of composite sections"
+    },
+    {
+      "label": "c.",
+      "content": "section modulus"
+    },
+    {
+      "label": "3.",
+      "content": "Flexibility and strength (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "tension"
+    },
+    {
+      "label": "b.",
+      "content": "compressive stress"
+    },
+    {
+      "label": "c.",
+      "content": "buckling, torsion, shear and bending"
+    },
+    {
+      "label": "d.",
+      "content": "tension in eccentric pressure and stroke"
+    },
+    {
+      "label": "4.",
+      "content": "The basic types of friction (allowance 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Calculation of load on structures and their assessment according to the theory of limit states (allowance 1/0)"
+    },
+    {
+      "label": "6.",
+      "content": "Bulk mass pressure, hydrostatic pressure and combined pressure on the support structure (allowance 3/4)"
+    },
+    {
+      "label": "a.",
+      "content": "examination of the magnitude of earth pressure"
+    },
+    {
+      "label": "b.",
+      "content": "examination of the amount of water pressure"
+    },
+    {
+      "label": "c.",
+      "content": "resulting pressure on the supporting structure"
+    },
+    {
+      "label": "7.",
+      "content": "Retaining walls (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "design and assessment"
+    },
+    {
+      "label": "8.",
+      "content": "Statically determined beams (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "determination of bending moments and sliding forces, their courses"
+    },
+    {
+      "label": "9.",
+      "content": "Design and assessment of beams (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "constant load"
+    },
+    {
+      "label": "10.",
+      "content": "Beam with overhanging ends, cantilever beam, system of parallel beams (allowance 2/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Beam deflection for different types of loads (allowance 2/2)"
+    },
+    {
+      "label": "12.",
+      "content": "Moving load on beams (allowance 2/2)"
+    },
+    {
+      "label": "13.",
+      "content": "Bar systems (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "solution of axial forces in individual members of the system"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, SS 2022/2023, WS 2022/2023, SS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Technická a stavební mechanika"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Technical and Construction Mechanics"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 20/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 20/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Pavla Kotásková, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Landscape Management (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Pavla Kotásková, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not State Bachelor Examination"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityNoteMonday7.00-8.50B36P. KotáskováSeminarEvery week20spol. s TSTMMonday9.00-10.50B34P. KotáskováSeminarEvery week22spol. s TSTMThursday11.00-12.50B02P. KotáskováLectureEvery week97spol. s TSTM"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "From basic concepts of statics, dynamics and kinematics despite the effects of loading on elements and structure to learn to design and assess component parts of buildings."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Principles of statics (allowance 4/4) a.composition and decomposition of forcesb.conditions of equilibrium of forcesc.static torque2.Static variables section (allowance 2/2) a.center of gravityb.radii and moments of inertia of composite sectionsc.section modulus3.Flexibility and strength (allowance 2/2) a.tensionb.compressive stressc.buckling, torsion, shear and bendingd.tension in eccentric pressure and stroke4.The basic types of friction (allowance 2/2)5.Calculation of load on structures and their assessment according to the theory of limit states (allowance 1/0)6.Bulk mass pressure, hydrostatic pressure and combined pressure on the support structure (allowance 3/4) a.examination of the magnitude of earth pressureb.examination of the amount of water pressurec.resulting pressure on the supporting structure7.Retaining walls (allowance 2/2) a.design and assessment8.Statically determined beams (allowance 2/2) a.determination of bending moments and sliding forces, their courses9.Design and assessment of beams (allowance 2/2) a.constant load10.Beam with overhanging ends, cantilever beam, system of parallel beams (allowance 2/2)11.Beam deflection for different types of loads (allowance 2/2)12.Moving load on beams (allowance 2/2)13.Bar systems (allowance 2/2) a.solution of axial forces in individual members of the system"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.composition and decomposition of forcesb.conditions of equilibrium of forcesc.static torque"
+    },
+    {
+      "label": "[section] Principles of statics",
+      "content": "a.composition and decomposition of forcesb.conditions of equilibrium of forcesc.static torque"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.center of gravityb.radii and moments of inertia of composite sectionsc.section modulus"
+    },
+    {
+      "label": "[section] Static variables section",
+      "content": "a.center of gravityb.radii and moments of inertia of composite sectionsc.section modulus"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.tensionb.compressive stressc.buckling, torsion, shear and bendingd.tension in eccentric pressure and stroke"
+    },
+    {
+      "label": "[section] Flexibility and strength",
+      "content": "a.tensionb.compressive stressc.buckling, torsion, shear and bendingd.tension in eccentric pressure and stroke"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Calculation of load on structures and their assessment according to the theory of limit states (allowance 1/0)"
+    },
+    {
+      "label": "[section] The basic types of friction",
+      "content": "5.Calculation of load on structures and their assessment according to the theory of limit states (allowance 1/0)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Bulk mass pressure, hydrostatic pressure and combined pressure on the support structure (allowance 3/4)"
+    },
+    {
+      "label": "[section] Calculation of load on structures and their assessment according to the theory of limit states",
+      "content": "6.Bulk mass pressure, hydrostatic pressure and combined pressure on the support structure (allowance 3/4)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.examination of the magnitude of earth pressureb.examination of the amount of water pressurec.resulting pressure on the supporting structure"
+    },
+    {
+      "label": "[section] Bulk mass pressure, hydrostatic pressure and combined pressure on the support structure",
+      "content": "a.examination of the magnitude of earth pressureb.examination of the amount of water pressurec.resulting pressure on the supporting structure"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.design and assessment"
+    },
+    {
+      "label": "[section] Retaining walls",
+      "content": "a.design and assessment"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.determination of bending moments and sliding forces, their courses"
+    },
+    {
+      "label": "[section] Statically determined beams",
+      "content": "a.determination of bending moments and sliding forces, their courses"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.constant load"
+    },
+    {
+      "label": "[section] Design and assessment of beams",
+      "content": "a.constant load"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Beam deflection for different types of loads (allowance 2/2)"
+    },
+    {
+      "label": "[section] Beam with overhanging ends, cantilever beam, system of parallel beams",
+      "content": "11.Beam deflection for different types of loads (allowance 2/2)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Moving load on beams (allowance 2/2)"
+    },
+    {
+      "label": "[section] Beam deflection for different types of loads",
+      "content": "12.Moving load on beams (allowance 2/2)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Bar systems (allowance 2/2)"
+    },
+    {
+      "label": "[section] Moving load on beams",
+      "content": "13.Bar systems (allowance 2/2)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.solution of axial forces in individual members of the system"
+    },
+    {
+      "label": "[section] Bar systems",
+      "content": "a.solution of axial forces in individual members of the system"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h28 hpractice28 h0 hpreparation for exam14 h14 hpreparation for regular assessment14 h28 helaboration of reports28 h42 hTotal112 h112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Each student is practicing substance in the examples throughout the semester gives 25 examples. To prepare three credit reports that include computing and graphics solutions. Class exam is divided into 2 parts. The first part is written during the semester and the second at the end. To successfully manage must have at least 70 % correct for each test. In order to be awarded credit, active participation in the exercise is required for min. 80%. The exam is in written form. Questions are theoretical and computational. To develop the student 60 min. To successfully manage must have at least 70% correct answers."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTotal0 %0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:HAVÍŘOVÁ, Zdeňka. 2003. Technická mechanika I.: základy statiky, pružnost a pevnost. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 105 p. ISBN 80-7157-667-0.HAVÍŘOVÁ, Zdeňka. 1997. Technická mechanika II: vybrané statě pro lesnický obor. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita, 39 p. ISBN 80-7157-233-0.HAVÍŘOVÁ, Zdeňka. 2006. Technická mechanika : cvičení. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 88 p. ISBN 80-7157-940-8.Recommended:DVOŘÁK, Jiří. 1994. Stavební mechanika: pro 2. a 3. ročník SPŠ stavební. 1st ed. Praha: Sobotáles, 402 p. ISBN 80-901570-7-6.KADLČÁK, Jaroslav; KYTÝR, Jiří. 2010. Statika stavebních konstrukcí. 3rd ed. V Brně: VUTIUM, 349 p. ISBN 978-80-214-3419-6.MIČKAL, Karel. 1998. Sbírka úloh z technické mechaniky: pro střední odborná učiliště a střední odborné školy. 5th ed. Praha: Informatorium, 265 p. ISBN 80-86073-36-X."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "HAVÍŘOVÁ, Zdeňka. 2003. Technická mechanika I.: základy statiky, pružnost a pevnost. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 105 p. ISBN 80-7157-667-0.HAVÍŘOVÁ, Zdeňka. 1997. Technická mechanika II: vybrané statě pro lesnický obor. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita, 39 p. ISBN 80-7157-233-0.HAVÍŘOVÁ, Zdeňka. 2006. Technická mechanika : cvičení. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 88 p. ISBN 80-7157-940-8."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "DVOŘÁK, Jiří. 1994. Stavební mechanika: pro 2. a 3. ročník SPŠ stavební. 1st ed. Praha: Sobotáles, 402 p. ISBN 80-901570-7-6.KADLČÁK, Jaroslav; KYTÝR, Jiří. 2010. Statika stavebních konstrukcí. 3rd ed. V Brně: VUTIUM, 349 p. ISBN 978-80-214-3419-6.MIČKAL, Karel. 1998. Sbírka úloh z technické mechaniky: pro střední odborná učiliště a střední odborné školy. 5th ed. Praha: Informatorium, 265 p. ISBN 80-86073-36-X."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-KRAJN Landscaping, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:24:27",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

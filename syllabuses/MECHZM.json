@@ -1,0 +1,641 @@
+{
+  "courseCode": "MECHZM",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "MECHZM"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Mechanizace zemědělství"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Mechanization of Agriculture"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Bc. Ing. Jan Kudělka, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav zemědělské, potravinářské a environmentální techniky (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Jiří Fryč, CSc. (cvičící, přednášející, zkoušející)Ing. Tomáš Krajíček (cvičící, přednášející, zkoušející)Bc. Ing. Jan Kudělka, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Josef Los, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Doprava a manipulace v ŽV (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Mechanické dopravníky"
+    },
+    {
+      "label": "b.",
+      "content": "Doprava kapalin"
+    },
+    {
+      "label": "c.",
+      "content": "Pneumatické dopravníky"
+    },
+    {
+      "label": "2.",
+      "content": "Linky krmení skotu (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Mobilní linky krmení skotu"
+    },
+    {
+      "label": "b.",
+      "content": "Kombinované linky krmení skotu"
+    },
+    {
+      "label": "3.",
+      "content": "Strojní dojení (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Podstata strojního dojení"
+    },
+    {
+      "label": "b.",
+      "content": "Dojírny"
+    },
+    {
+      "label": "c.",
+      "content": "Robotizované dojení"
+    },
+    {
+      "label": "d.",
+      "content": "Identifikace zvířat"
+    },
+    {
+      "label": "4.",
+      "content": "Strojní linky chlazení mléka (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Přímé a nepřímé chlazení"
+    },
+    {
+      "label": "b.",
+      "content": "Možnost energetických úspor při chlazení mléka"
+    },
+    {
+      "label": "5.",
+      "content": "Strojní linky v chovu prasat a drůbeže (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Strojní linky v chovu prasat"
+    },
+    {
+      "label": "b.",
+      "content": "Strojní linky v chovu drůbeže"
+    },
+    {
+      "label": "6.",
+      "content": "Strojní linky pro odliz, zpracování a skladování výkalů (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Odkliz a skladování výkalů ze stlaných provozů"
+    },
+    {
+      "label": "b.",
+      "content": "Odkliz, zpracování a skladování výkalů z bezstelivových provozů"
+    },
+    {
+      "label": "7.",
+      "content": "Stroje pro zpracování půdy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Stroje pro základní zpracování půdy"
+    },
+    {
+      "label": "b.",
+      "content": "Stroje pro ochranné zpracování půdy"
+    },
+    {
+      "label": "8.",
+      "content": "Stroje pro setí a hnojení (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Secí stroje"
+    },
+    {
+      "label": "b.",
+      "content": "Sázecí stroje"
+    },
+    {
+      "label": "c.",
+      "content": "Rozmetadla organických hnojiv"
+    },
+    {
+      "label": "d.",
+      "content": "Rozmetadla minerálních hnojiv"
+    },
+    {
+      "label": "9.",
+      "content": "Stroje pro ochranu rostlin (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Postřikovače"
+    },
+    {
+      "label": "b.",
+      "content": "Rosiče"
+    },
+    {
+      "label": "c.",
+      "content": "Kontrolní testování postřikovačů"
+    },
+    {
+      "label": "10.",
+      "content": "Stroje pro sklizeň pícnin (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Stroje pro sklizeň nízkostébelnatých pícnin"
+    },
+    {
+      "label": "b.",
+      "content": "Stroje pro sklizen kukuřice"
+    },
+    {
+      "label": "11.",
+      "content": "Stroje pro sklizen obilovin (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Sklízecí mlátičky pro obiloviny"
+    },
+    {
+      "label": "b.",
+      "content": "Sklízecí mlátičky pro jiné plodiny"
+    },
+    {
+      "label": "12.",
+      "content": "Stroje pro sklizeň okopanin (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Stroje pro sklizeň brambor"
+    },
+    {
+      "label": "b.",
+      "content": "Stroje pro sklizen cukrovky"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "100 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, 2000/2001 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Mechanizace zemědělství"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Mechanization of Agriculture"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Bc. Ing. Jan Kudělka, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav zemědělské, potravinářské a environmentální techniky (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Jiří Fryč, CSc. (cvičící, přednášející, zkoušející)Ing. Tomáš Krajíček (cvičící, přednášející, zkoušející)Bc. Ing. Jan Kudělka, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Josef Los, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý13.00-14.50Q19J. Los, J. Fryč, J. KudělkaPřednáškaKaždý týden36Úterý17.00-18.50Q01.02J. Los, J. Fryč, J. KudělkaCvičeníKaždý týden22"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "-Cíl předmětu: 1. Získat znalosti o používaných strojích a strojních linkách v živočišné a rostlinné výrobě. 2. Získat dovednoti v oblasti stanovení základních technických parametrů některých strojních zařízení používaných v živočišné a rostlinné výrobě. 3. Získat kompetence v navrhování složení strojních linek pro technologické operace v živočišné a rostlinné výrobě."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Doprava a manipulace v ŽV (dotace 2/4) a.Mechanické dopravníkyb.Doprava kapalinc.Pneumatické dopravníky2.Linky krmení skotu (dotace 2/4) a.Mobilní linky krmení skotub.Kombinované linky krmení skotu3.Strojní dojení (dotace 4/2) a.Podstata strojního dojeníb.Dojírnyc.Robotizované dojeníd.Identifikace zvířat4.Strojní linky chlazení mléka (dotace 2/2) a.Přímé a nepřímé chlazeníb.Možnost energetických úspor při chlazení mléka5.Strojní linky v chovu prasat a drůbeže (dotace 2/1) a.Strojní linky v chovu prasatb.Strojní linky v chovu drůbeže6.Strojní linky pro odliz, zpracování a skladování výkalů (dotace 2/1) a.Odkliz a skladování výkalů ze stlaných provozůb.Odkliz, zpracování a skladování výkalů z bezstelivových provozů7.Stroje pro zpracování půdy (dotace 2/2) a.Stroje pro základní zpracování půdyb.Stroje pro ochranné zpracování půdy8.Stroje pro setí a hnojení (dotace 2/4) a.Secí strojeb.Sázecí strojec.Rozmetadla organických hnojivd.Rozmetadla minerálních hnojiv9.Stroje pro ochranu rostlin (dotace 2/2) a.Postřikovačeb.Rosičec.Kontrolní testování postřikovačů10.Stroje pro sklizeň pícnin (dotace 2/2) a.Stroje pro sklizeň nízkostébelnatých pícninb.Stroje pro sklizen kukuřice11.Stroje pro sklizen obilovin (dotace 2/2) a.Sklízecí mlátičky pro obilovinyb.Sklízecí mlátičky pro jiné plodiny12.Stroje pro sklizeň okopanin (dotace 2/2) a.Stroje pro sklizeň bramborb.Stroje pro sklizen cukrovky"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Mechanické dopravníkyb.Doprava kapalinc.Pneumatické dopravníky"
+    },
+    {
+      "label": "[section] Doprava a manipulace v ŽV",
+      "content": "a.Mechanické dopravníkyb.Doprava kapalinc.Pneumatické dopravníky"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Mobilní linky krmení skotub.Kombinované linky krmení skotu"
+    },
+    {
+      "label": "[section] Linky krmení skotu",
+      "content": "a.Mobilní linky krmení skotub.Kombinované linky krmení skotu"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Podstata strojního dojeníb.Dojírnyc.Robotizované dojeníd.Identifikace zvířat"
+    },
+    {
+      "label": "[section] Strojní dojení",
+      "content": "a.Podstata strojního dojeníb.Dojírnyc.Robotizované dojeníd.Identifikace zvířat"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Přímé a nepřímé chlazeníb.Možnost energetických úspor při chlazení mléka"
+    },
+    {
+      "label": "[section] Strojní linky chlazení mléka",
+      "content": "a.Přímé a nepřímé chlazeníb.Možnost energetických úspor při chlazení mléka"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Strojní linky v chovu prasatb.Strojní linky v chovu drůbeže"
+    },
+    {
+      "label": "[section] Strojní linky v chovu prasat a drůbeže",
+      "content": "a.Strojní linky v chovu prasatb.Strojní linky v chovu drůbeže"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Odkliz a skladování výkalů ze stlaných provozůb.Odkliz, zpracování a skladování výkalů z bezstelivových provozů"
+    },
+    {
+      "label": "[section] Strojní linky pro odliz, zpracování a skladování výkalů",
+      "content": "a.Odkliz a skladování výkalů ze stlaných provozůb.Odkliz, zpracování a skladování výkalů z bezstelivových provozů"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Stroje pro základní zpracování půdyb.Stroje pro ochranné zpracování půdy"
+    },
+    {
+      "label": "[section] Stroje pro zpracování půdy",
+      "content": "a.Stroje pro základní zpracování půdyb.Stroje pro ochranné zpracování půdy"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Secí strojeb.Sázecí strojec.Rozmetadla organických hnojivd.Rozmetadla minerálních hnojiv"
+    },
+    {
+      "label": "[section] Stroje pro setí a hnojení",
+      "content": "a.Secí strojeb.Sázecí strojec.Rozmetadla organických hnojivd.Rozmetadla minerálních hnojiv"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Postřikovačeb.Rosičec.Kontrolní testování postřikovačů"
+    },
+    {
+      "label": "[section] Stroje pro ochranu rostlin",
+      "content": "a.Postřikovačeb.Rosičec.Kontrolní testování postřikovačů"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Stroje pro sklizeň nízkostébelnatých pícninb.Stroje pro sklizen kukuřice"
+    },
+    {
+      "label": "[section] Stroje pro sklizeň pícnin",
+      "content": "a.Stroje pro sklizeň nízkostébelnatých pícninb.Stroje pro sklizen kukuřice"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Sklízecí mlátičky pro obilovinyb.Sklízecí mlátičky pro jiné plodiny"
+    },
+    {
+      "label": "[section] Stroje pro sklizen obilovin",
+      "content": "a.Sklízecí mlátičky pro obilovinyb.Sklízecí mlátičky pro jiné plodiny"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Stroje pro sklizeň bramborb.Stroje pro sklizen cukrovky"
+    },
+    {
+      "label": "[section] Stroje pro sklizeň okopanin",
+      "content": "a.Stroje pro sklizeň bramborb.Stroje pro sklizen cukrovky"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení24 hlaboratorní práce4 hpříprava na zkoušku40 hpříprava na průběžné hodnocení14 hzpracování protokolů30 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Pro udělení zápočtu je nutná minimálně 75% účast na cvičeních, odevzdané protokoly z jednotlivých cvičení. Předmět je ukončen ústní zkouškou, která trvá 30 minut. Student si vylosuje tématický okruh. Poté má čas na přípravu. Po úspěšném složení zkoušky (minimálně 70%) je mu známka zapsána do UISu."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAbsolvování závěrečné ústní zkoušky100 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:BŘEČKA, Josef. 2001. Stroje pro sklizeň pícnin a obilnin. Praha: Česká zemědělská univerzita, ISBN 80-213-0738-2.GÁLIK, Roman. 2015. Technika pre chov zvierat. Nitra: SPU Nitra, 225 s. ISBN 978-80-552-1407-8.GÁLÍK, Roman. 2012. Technika pre živočíšnu výrobu 1. Nitra: SPU v Nitre, 186 s. ISBN 978-80-552-0926-5.KUMHÁLA, František a kol. 2007. Zemědělská technika: stroje a technologie pro rostlinnou výrobu. 1. vyd. V Praze: Česká zemědělská univerzita, 426 s. ISBN 978-80-213-1701-7.PÁLTIK, Jaroslav. 2005. Stroje pre rastlinnú výroby, obrábanie pôdy, sejba. SPU Nitra: Baila, 241 s. ISBN 80-8069-200-9.Doporučená:KEJÍK, Cyril; FRYČ, Jiří. 1997. Technika pro živočišnou výrobu II. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 153 s. ISBN 80-7157-252-7.KEJÍK, Cyril; FRYČ, Jiří. 1998. Technika pro živočišnou výrobu. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita, 154 s. ISBN 80-7157-331-0.GÁLIK, Roman; BOĎO, Štefan; FRYČ, Jiří. 2014. Technological systems for layer housing and their influence on products quality. 1. vyd. Nitra: Slovak university of agriculture in Nitra, 69 s. ISBN 978-80-552-1167-1.KUDĚLKA, J., FRYČ, J., ŠEVČÍK, J. Interaktivní materiály pro stroje v živočišné výrobě. Elektronické výukové materiály dostupné na: http://uzpet.af.mendelu.cz/soubory-ke-stazeni/25771-interaktivni-materialy-pro-stroje-v-zivocisne-vyrobe"
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "BŘEČKA, Josef. 2001. Stroje pro sklizeň pícnin a obilnin. Praha: Česká zemědělská univerzita, ISBN 80-213-0738-2.GÁLIK, Roman. 2015. Technika pre chov zvierat. Nitra: SPU Nitra, 225 s. ISBN 978-80-552-1407-8.GÁLÍK, Roman. 2012. Technika pre živočíšnu výrobu 1. Nitra: SPU v Nitre, 186 s. ISBN 978-80-552-0926-5.KUMHÁLA, František a kol. 2007. Zemědělská technika: stroje a technologie pro rostlinnou výrobu. 1. vyd. V Praze: Česká zemědělská univerzita, 426 s. ISBN 978-80-213-1701-7.PÁLTIK, Jaroslav. 2005. Stroje pre rastlinnú výroby, obrábanie pôdy, sejba. SPU Nitra: Baila, 241 s. ISBN 80-8069-200-9."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "KEJÍK, Cyril; FRYČ, Jiří. 1997. Technika pro živočišnou výrobu II. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 153 s. ISBN 80-7157-252-7.KEJÍK, Cyril; FRYČ, Jiří. 1998. Technika pro živočišnou výrobu. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita, 154 s. ISBN 80-7157-331-0.GÁLIK, Roman; BOĎO, Štefan; FRYČ, Jiří. 2014. Technological systems for layer housing and their influence on products quality. 1. vyd. Nitra: Slovak university of agriculture in Nitra, 69 s. ISBN 978-80-552-1167-1.KUDĚLKA, J., FRYČ, J., ŠEVČÍK, J. Interaktivní materiály pro stroje v živočišné výrobě. Elektronické výukové materiály dostupné na: http://uzpet.af.mendelu.cz/soubory-ke-stazeni/25771-interaktivni-materialy-pro-stroje-v-zivocisne-vyrobe"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Specializace SBZI Zemědělské inženýrství, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "MECHZM"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Mechanizace zemědělství"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Mechanization of Agriculture"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Bc. Ing. Jan Kudělka, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Agricultural, Food and Environmental Engineering (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Jiří Fryč, CSc. (examiner, instructor, lecturer)Ing. Tomáš Krajíček (examiner, instructor, lecturer)Bc. Ing. Jan Kudělka, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Josef Los, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "100 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, 2000/2001 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Mechanizace zemědělství"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Mechanization of Agriculture"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Bc. Ing. Jan Kudělka, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Agricultural, Food and Environmental Engineering (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Jiří Fryč, CSc. (examiner, instructor, lecturer)Ing. Tomáš Krajíček (examiner, instructor, lecturer)Bc. Ing. Jan Kudělka, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Josef Los, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday13.00-14.50Q19J. Los, J. Fryč, J. KudělkaLectureEvery week36Tuesday17.00-18.50Q01.02J. Los, J. Fryč, J. KudělkaSeminarEvery week22"
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "The content of the course has not been saved in this language version."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice24 hlaboratory work4 hpreparation for exam40 hpreparation for regular assessment14 helaboration of reports30 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceFinal oral exam100 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:BŘEČKA, Josef. 2001. Stroje pro sklizeň pícnin a obilnin. Praha: Česká zemědělská univerzita, ISBN 80-213-0738-2.GÁLIK, Roman. 2015. Technika pre chov zvierat. Nitra: SPU Nitra, 225 p. ISBN 978-80-552-1407-8.GÁLÍK, Roman. 2012. Technika pre živočíšnu výrobu 1. Nitra: SPU v Nitre, 186 p. ISBN 978-80-552-0926-5.KUMHÁLA, František et al. 2007. Zemědělská technika: stroje a technologie pro rostlinnou výrobu. 1st ed. V Praze: Česká zemědělská univerzita, 426 p. ISBN 978-80-213-1701-7.PÁLTIK, Jaroslav. 2005. Stroje pre rastlinnú výroby, obrábanie pôdy, sejba. SPU Nitra: Baila, 241 p. ISBN 80-8069-200-9.Recommended:KEJÍK, Cyril; FRYČ, Jiří. 1997. Technika pro živočišnou výrobu II. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 153 p. ISBN 80-7157-252-7.KEJÍK, Cyril; FRYČ, Jiří. 1998. Technika pro živočišnou výrobu. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita, 154 p. ISBN 80-7157-331-0.GÁLIK, Roman; BOĎO, Štefan; FRYČ, Jiří. 2014. Technological systems for layer housing and their influence on products quality. 1st ed. Nitra: Slovak university of agriculture in Nitra, 69 p. ISBN 978-80-552-1167-1.KUDĚLKA, J., FRYČ, J., ŠEVČÍK, J. Interaktivní materiály pro stroje v živočišné výrobě. Elektronické výukové materiály dostupné na: http://uzpet.af.mendelu.cz/soubory-ke-stazeni/25771-interaktivni-materialy-pro-stroje-v-zivocisne-vyrobe"
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "BŘEČKA, Josef. 2001. Stroje pro sklizeň pícnin a obilnin. Praha: Česká zemědělská univerzita, ISBN 80-213-0738-2.GÁLIK, Roman. 2015. Technika pre chov zvierat. Nitra: SPU Nitra, 225 p. ISBN 978-80-552-1407-8.GÁLÍK, Roman. 2012. Technika pre živočíšnu výrobu 1. Nitra: SPU v Nitre, 186 p. ISBN 978-80-552-0926-5.KUMHÁLA, František et al. 2007. Zemědělská technika: stroje a technologie pro rostlinnou výrobu. 1st ed. V Praze: Česká zemědělská univerzita, 426 p. ISBN 978-80-213-1701-7.PÁLTIK, Jaroslav. 2005. Stroje pre rastlinnú výroby, obrábanie pôdy, sejba. SPU Nitra: Baila, 241 p. ISBN 80-8069-200-9."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "KEJÍK, Cyril; FRYČ, Jiří. 1997. Technika pro živočišnou výrobu II. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 153 p. ISBN 80-7157-252-7.KEJÍK, Cyril; FRYČ, Jiří. 1998. Technika pro živočišnou výrobu. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita, 154 p. ISBN 80-7157-331-0.GÁLIK, Roman; BOĎO, Štefan; FRYČ, Jiří. 2014. Technological systems for layer housing and their influence on products quality. 1st ed. Nitra: Slovak university of agriculture in Nitra, 69 p. ISBN 978-80-552-1167-1.KUDĚLKA, J., FRYČ, J., ŠEVČÍK, J. Interaktivní materiály pro stroje v živočišné výrobě. Elektronické výukové materiály dostupné na: http://uzpet.af.mendelu.cz/soubory-ke-stazeni/25771-interaktivni-materialy-pro-stroje-v-zivocisne-vyrobe"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Track SBZI General Agriculture, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:27:57",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

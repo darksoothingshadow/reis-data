@@ -1,0 +1,633 @@
+{
+  "courseCode": "SWVP",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "SWVP"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Softwarová podpora managementu nábytkářského průmyslu"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Software Support for the Management of the Furniture Industry"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Adam Kořený, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav designu a nábytku (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Adam Kořený, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do problematiky TPV (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Co je to TPV"
+    },
+    {
+      "label": "b.",
+      "content": "Jakou má TPV podobu ve vztahu k ( Velikosti podniku, Ekonomice, Inovacím, Technologii )"
+    },
+    {
+      "label": "c.",
+      "content": "Co patří do TPV ( Konstrukce, Dokumentace, Cenotvorba, Plánování, Podklady pro zákazníka a trh )"
+    },
+    {
+      "label": "2.",
+      "content": "Technologie strojní – typy strojů a jejich využití (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Technologické postupy"
+    },
+    {
+      "label": "b.",
+      "content": "Organizace výrobního toku"
+    },
+    {
+      "label": "c.",
+      "content": "Pila"
+    },
+    {
+      "label": "d.",
+      "content": "Olepování"
+    },
+    {
+      "label": "e.",
+      "content": "CNC"
+    },
+    {
+      "label": "f.",
+      "content": "Broušení a lakování"
+    },
+    {
+      "label": "g.",
+      "content": "Ostatní"
+    },
+    {
+      "label": "3.",
+      "content": "Software – obecný a specializovaný (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní nástroje WOP, Excel, Konfigurátory"
+    },
+    {
+      "label": "b.",
+      "content": "Přehled řešení optimalizace, Pila, Nesting, Principy, Využití"
+    },
+    {
+      "label": "c.",
+      "content": "Přehled řešení CAD"
+    },
+    {
+      "label": "d.",
+      "content": "Přehled řešení CAM"
+    },
+    {
+      "label": "e.",
+      "content": "Přehled řešení MRP, ERP, CRM"
+    },
+    {
+      "label": "f.",
+      "content": "Principy softwarového průmyslu – výběr software, maintenance"
+    },
+    {
+      "label": "4.",
+      "content": "Příprava v systémech zpracování dokumentace konvenční – WOP, Excel, AutoCAD (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Ruční"
+    },
+    {
+      "label": "b.",
+      "content": "Excel"
+    },
+    {
+      "label": "c.",
+      "content": "Optimalizace nářezu Ardis"
+    },
+    {
+      "label": "d.",
+      "content": "CAD"
+    },
+    {
+      "label": "5.",
+      "content": "Systémy zpracování dokumentace automatizované – imos CAD/CAM/NET (dotace 0/14)"
+    },
+    {
+      "label": "a.",
+      "content": "Imos CAD/CAM"
+    },
+    {
+      "label": "b.",
+      "content": "Výstupy CAD"
+    },
+    {
+      "label": "c.",
+      "content": "Výstupy CAM"
+    },
+    {
+      "label": "d.",
+      "content": "Výstupy a přenosy"
+    },
+    {
+      "label": "6.",
+      "content": "Simulace výrobního toku s využitím imos CAD/CAM (dotace 0/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Praktická demonstrace výrobního toku"
+    },
+    {
+      "label": "b.",
+      "content": "Příprava výrobku CAD"
+    },
+    {
+      "label": "c.",
+      "content": "Výstupy (Kusovník, THN, CNC, Cenotvorba, Výkresová dokumentace)"
+    },
+    {
+      "label": "d.",
+      "content": "Demonstrace přípravy pro CNC výrobu (Přenos Ardis, Optimalizace, Pořez a tisk, Olepování, Obrábění)"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "50 %"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "50 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Softwarová podpora managementu nábytkářského průmyslu"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Software Support for the Management of the Furniture Industry"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Adam Kořený, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav designu a nábytku (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Adam Kořený, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkVyučujícíAkceČetnostKapacitaPondělí8.00-9.50T413N-NBI 112A. KořenýPřednáškaKaždý týden27Pondělí10.00-10.50T413N-NBI 112A. KořenýCvičeníKaždý týden27"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Orientovat se v postupech a nástrojích pro technickou přípravu výroby(TPV). V průběhu předmětu bude představen průřez postupů od ručních a konvenčních až po nejmodernější automatizované systémy. Výstupem je orientace v problematice a schopnost vyhodnocení vhodnosti nástrojů a postupů."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do problematiky TPV (dotace 0/2) a.Co je to TPVb.Jakou má TPV podobu ve vztahu k ( Velikosti podniku, Ekonomice, Inovacím, Technologii )c.Co patří do TPV ( Konstrukce, Dokumentace, Cenotvorba, Plánování, Podklady pro zákazníka a trh )2.Technologie strojní – typy strojů a jejich využití (dotace 0/2) a.Technologické postupyb.Organizace výrobního tokuc.Pilad.Olepováníe.CNCf.Broušení a lakováníg.Ostatní3.Software – obecný a specializovaný (dotace 0/2) a.Základní nástroje WOP, Excel, Konfigurátoryb.Přehled řešení optimalizace, Pila, Nesting, Principy, Využitíc.Přehled řešení CADd.Přehled řešení CAMe.Přehled řešení MRP, ERP, CRMf.Principy softwarového průmyslu – výběr software, maintenance4.Příprava v systémech zpracování dokumentace konvenční – WOP, Excel, AutoCAD (dotace 0/2) a.Ručníb.Excelc.Optimalizace nářezu Ardisd.CAD5.Systémy zpracování dokumentace automatizované – imos CAD/CAM/NET (dotace 0/14) a.Imos CAD/CAMb.Výstupy CADc.Výstupy CAMd.Výstupy a přenosy6.Simulace výrobního toku s využitím imos CAD/CAM (dotace 0/8) a.Praktická demonstrace výrobního tokub.Příprava výrobku CADc.Výstupy (Kusovník, THN, CNC, Cenotvorba, Výkresová dokumentace)d.Demonstrace přípravy pro CNC výrobu (Přenos Ardis, Optimalizace, Pořez a tisk, Olepování, Obrábění)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Co je to TPVb.Jakou má TPV podobu ve vztahu k ( Velikosti podniku, Ekonomice, Inovacím, Technologii )c.Co patří do TPV ( Konstrukce, Dokumentace, Cenotvorba, Plánování, Podklady pro zákazníka a trh )"
+    },
+    {
+      "label": "[section] Úvod do problematiky TPV",
+      "content": "a.Co je to TPVb.Jakou má TPV podobu ve vztahu k ( Velikosti podniku, Ekonomice, Inovacím, Technologii )c.Co patří do TPV ( Konstrukce, Dokumentace, Cenotvorba, Plánování, Podklady pro zákazníka a trh )"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Technologické postupyb.Organizace výrobního tokuc.Pilad.Olepováníe.CNCf.Broušení a lakováníg.Ostatní"
+    },
+    {
+      "label": "[section] Technologie strojní – typy strojů a jejich využití",
+      "content": "a.Technologické postupyb.Organizace výrobního tokuc.Pilad.Olepováníe.CNCf.Broušení a lakováníg.Ostatní"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Základní nástroje WOP, Excel, Konfigurátoryb.Přehled řešení optimalizace, Pila, Nesting, Principy, Využitíc.Přehled řešení CADd.Přehled řešení CAMe.Přehled řešení MRP, ERP, CRMf.Principy softwarového průmyslu – výběr software, maintenance"
+    },
+    {
+      "label": "[section] Software – obecný a specializovaný",
+      "content": "a.Základní nástroje WOP, Excel, Konfigurátoryb.Přehled řešení optimalizace, Pila, Nesting, Principy, Využitíc.Přehled řešení CADd.Přehled řešení CAMe.Přehled řešení MRP, ERP, CRMf.Principy softwarového průmyslu – výběr software, maintenance"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Ručníb.Excelc.Optimalizace nářezu Ardisd.CAD"
+    },
+    {
+      "label": "[section] Příprava v systémech zpracování dokumentace konvenční – WOP, Excel, AutoCAD",
+      "content": "a.Ručníb.Excelc.Optimalizace nářezu Ardisd.CAD"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Imos CAD/CAMb.Výstupy CADc.Výstupy CAMd.Výstupy a přenosy"
+    },
+    {
+      "label": "[section] Systémy zpracování dokumentace automatizované – imos CAD/CAM/NET",
+      "content": "a.Imos CAD/CAMb.Výstupy CADc.Výstupy CAMd.Výstupy a přenosy"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Praktická demonstrace výrobního tokub.Příprava výrobku CADc.Výstupy (Kusovník, THN, CNC, Cenotvorba, Výkresová dokumentace)d.Demonstrace přípravy pro CNC výrobu (Přenos Ardis, Optimalizace, Pořez a tisk, Olepování, Obrábění)"
+    },
+    {
+      "label": "[section] Simulace výrobního toku s využitím imos CAD/CAM",
+      "content": "a.Praktická demonstrace výrobního tokub.Příprava výrobku CADc.Výstupy (Kusovník, THN, CNC, Cenotvorba, Výkresová dokumentace)d.Demonstrace přípravy pro CNC výrobu (Přenos Ardis, Optimalizace, Pořez a tisk, Olepování, Obrábění)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumcvičení28 hpříprava na průběžné hodnocení18 hpříprava na průběžný test28 hzpracování protokolů10 hCelkem84 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Udělení zápočtu je podmíněno úspěšným absolvováním testů znalostí a vypracováním závěrečné práce."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumVypracování semestrální práce50 %Absolvování průběžného testu (testů)50 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:TRÁVNÍK, Arnošt; SVOBODA, Jaroslav. 2008. Organizace a řízení výrobního provozu. Brno: ediční středisko MZLU, 165 s. ISBN 978-80-7375-190-6.TRÁVNÍK, Arnošt; JANČOVÁ, Věra. 2009. Technická příprava výroby dřevěného a čalouněného nábytku. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 108 s. ISBN 978-80-7375-307-8.KEŘKOVSKÝ, Miloslav. 2009. Moderní přístupy k řízení výroby. Praha: C.H. Beck, 137 s. ISBN 978-80-7400-119-2.SIMR, Pavel; BARILLA, Jiří; SÝKOROVÁ, Květuše. 2013. Microsoft Excel 2013, Podrobná uživatelská příručka. Brno: Computer Press, 496 s. ISBN 978-80-251-4114-4.STINSON, Craing; DODGE, Mark. 2008. Mistrovství v Microsoft Office Excel 2007. Brno: Computer Press, 936 s. ISBN 978-80-251-1980-8.KRÁL, Pavel; ŠRAJER, Jan. 2008. CNC obráběcí centra. Zemědělská 1, 613 00 Brno: Mendelova zemědělská a lesnická univerzita v Brně, 79 s. ISBN 978-80-7375-163-0.FOŘT, Petr; KLETEČKA, Jaroslav. 2014. AutoCAD 2014: učebnice. 1. vyd. Brno: Computer Press, 399 s. ISBN 978-80-251-4154-0."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "TRÁVNÍK, Arnošt; SVOBODA, Jaroslav. 2008. Organizace a řízení výrobního provozu. Brno: ediční středisko MZLU, 165 s. ISBN 978-80-7375-190-6.TRÁVNÍK, Arnošt; JANČOVÁ, Věra. 2009. Technická příprava výroby dřevěného a čalouněného nábytku. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 108 s. ISBN 978-80-7375-307-8.KEŘKOVSKÝ, Miloslav. 2009. Moderní přístupy k řízení výroby. Praha: C.H. Beck, 137 s. ISBN 978-80-7400-119-2.SIMR, Pavel; BARILLA, Jiří; SÝKOROVÁ, Květuše. 2013. Microsoft Excel 2013, Podrobná uživatelská příručka. Brno: Computer Press, 496 s. ISBN 978-80-251-4114-4.STINSON, Craing; DODGE, Mark. 2008. Mistrovství v Microsoft Office Excel 2007. Brno: Computer Press, 936 s. ISBN 978-80-251-1980-8.KRÁL, Pavel; ŠRAJER, Jan. 2008. CNC obráběcí centra. Zemědělská 1, 613 00 Brno: Mendelova zemědělská a lesnická univerzita v Brně, 79 s. ISBN 978-80-7375-163-0.FOŘT, Petr; KLETEČKA, Jaroslav. 2014. AutoCAD 2014: učebnice. 1. vyd. Brno: Computer Press, 399 s. ISBN 978-80-251-4154-0."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-NBI Nábytkové inženýrství, prezenční forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "SWVP"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Softwarová podpora managementu nábytkářského průmyslu"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Software Support for the Management of the Furniture Industry"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Adam Kořený, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Design and Furniture (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Adam Kořený, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "State Bachelor Examination"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to the issue of documentation for technical preparation (allowance 0/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Processing system documentation from product design to handover to production. (allowance 0/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Manage production documentation (allowance 0/2)"
+    },
+    {
+      "label": "4.",
+      "content": "Computer Support in the process of CA *, history, overview, use. (allowance 0/6)"
+    },
+    {
+      "label": "5.",
+      "content": "Basic use of MS Excel for production engineering. (allowance 0/8)"
+    },
+    {
+      "label": "6.",
+      "content": "Advanced use MS Excel for production engineering. (allowance 0/8)"
+    },
+    {
+      "label": "Term paper",
+      "content": "50 %"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "50 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Softwarová podpora managementu nábytkářského průmyslu"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Software Support for the Management of the Furniture Industry"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Adam Kořený, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Design and Furniture (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Adam Kořený, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: State Bachelor Examination"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyTeacherEntryFrequencyCapacityMonday8.00-9.50T413N-NBI 112A. KořenýLectureEvery week27Monday10.00-10.50T413N-NBI 112A. KořenýSeminarEvery week27"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Orientation in procedures and tools for technical preparation of production (TPV). During the course, a cross-section of procedures from manual and conventional to the most modern automated systems will be presented. The output is an orientation in the issue and the ability to evaluate the suitability of tools and procedures."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to the issue of documentation for technical preparation (allowance 0/2)2.Processing system documentation from product design to handover to production. (allowance 0/2)3.Manage production documentation (allowance 0/2)4.Computer Support in the process of CA *, history, overview, use. (allowance 0/6)5.Basic use of MS Excel for production engineering. (allowance 0/8)6.Advanced use MS Excel for production engineering. (allowance 0/8)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Processing system documentation from product design to handover to production. (allowance 0/2)"
+    },
+    {
+      "label": "[section] Introduction to the issue of documentation for technical preparation",
+      "content": "2.Processing system documentation from product design to handover to production. (allowance 0/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Manage production documentation (allowance 0/2)"
+    },
+    {
+      "label": "[section] Processing system documentation from product design to handover to production.",
+      "content": "3.Manage production documentation (allowance 0/2)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Computer Support in the process of CA *, history, overview, use. (allowance 0/6)"
+    },
+    {
+      "label": "[section] Manage production documentation",
+      "content": "4.Computer Support in the process of CA *, history, overview, use. (allowance 0/6)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Basic use of MS Excel for production engineering. (allowance 0/8)"
+    },
+    {
+      "label": "[section] Computer Support in the process of CA *, history, overview, use.",
+      "content": "5.Basic use of MS Excel for production engineering. (allowance 0/8)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Advanced use MS Excel for production engineering. (allowance 0/8)"
+    },
+    {
+      "label": "[section] Basic use of MS Excel for production engineering.",
+      "content": "6.Advanced use MS Excel for production engineering. (allowance 0/8)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancepractice28 hpreparation for regular assessment18 hpreparation for regular testing28 helaboration of reports10 hTotal84 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Credit is conditional on successful completion of knowledge tests and elaboration of a final thesis."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTerm paper50 %Mid-term test(s)50 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:TRÁVNÍK, Arnošt; SVOBODA, Jaroslav. 2008. Organizace a řízení výrobního provozu. Brno: ediční středisko MZLU, 165 p. ISBN 978-80-7375-190-6.TRÁVNÍK, Arnošt; JANČOVÁ, Věra. 2009. Technická příprava výroby dřevěného a čalouněného nábytku. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 108 p. ISBN 978-80-7375-307-8.KEŘKOVSKÝ, Miloslav. 2009. Moderní přístupy k řízení výroby. Praha: C.H. Beck, 137 p. ISBN 978-80-7400-119-2.SIMR, Pavel; BARILLA, Jiří; SÝKOROVÁ, Květuše. 2013. Microsoft Excel 2013, Podrobná uživatelská příručka. Brno: Computer Press, 496 p. ISBN 978-80-251-4114-4.STINSON, Craing; DODGE, Mark. 2008. Mistrovství v Microsoft Office Excel 2007. Brno: Computer Press, 936 p. ISBN 978-80-251-1980-8.KRÁL, Pavel; ŠRAJER, Jan. 2008. CNC obráběcí centra. Zemědělská 1, 613 00 Brno: Mendelova zemědělská a lesnická univerzita v Brně, 79 p. ISBN 978-80-7375-163-0.FOŘT, Petr; KLETEČKA, Jaroslav. 2014. AutoCAD 2014: učebnice. 1st ed. Brno: Computer Press, 399 p. ISBN 978-80-251-4154-0."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "TRÁVNÍK, Arnošt; SVOBODA, Jaroslav. 2008. Organizace a řízení výrobního provozu. Brno: ediční středisko MZLU, 165 p. ISBN 978-80-7375-190-6.TRÁVNÍK, Arnošt; JANČOVÁ, Věra. 2009. Technická příprava výroby dřevěného a čalouněného nábytku. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 108 p. ISBN 978-80-7375-307-8.KEŘKOVSKÝ, Miloslav. 2009. Moderní přístupy k řízení výroby. Praha: C.H. Beck, 137 p. ISBN 978-80-7400-119-2.SIMR, Pavel; BARILLA, Jiří; SÝKOROVÁ, Květuše. 2013. Microsoft Excel 2013, Podrobná uživatelská příručka. Brno: Computer Press, 496 p. ISBN 978-80-251-4114-4.STINSON, Craing; DODGE, Mark. 2008. Mistrovství v Microsoft Office Excel 2007. Brno: Computer Press, 936 p. ISBN 978-80-251-1980-8.KRÁL, Pavel; ŠRAJER, Jan. 2008. CNC obráběcí centra. Zemědělská 1, 613 00 Brno: Mendelova zemědělská a lesnická univerzita v Brně, 79 p. ISBN 978-80-7375-163-0.FOŘT, Petr; KLETEČKA, Jaroslav. 2014. AutoCAD 2014: učebnice. 1st ed. Brno: Computer Press, 399 p. ISBN 978-80-251-4154-0."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-NBI Furniture Engineering, full-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:19:54",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

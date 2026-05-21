@@ -1,0 +1,1073 @@
+{
+  "courseCode": "ENA-KB",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENA-KB"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Kybernetická bezpečnost v AJ"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Cyber Security"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "angličtina"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jiří Balej, Ph.D. (cvičící, tutor, zkoušející)Ing. Andrej Juríčka (cvičící, tutor, zkoušející)prof. Ing. Cyril Klimeš, CSc. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Ludmila Kunderová (přednášející, tutor, zkoušející)Ing. Jan Přichystal, Ph.D. (přednášející)doc. RNDr. Tomáš Sochor, CSc. (přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Obecné principy zajišťování bezpečnosti a dostupnosti digitálních aktiv (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "hodnocení digitálních aktiv, hodnocení a eliminace rizik"
+    },
+    {
+      "label": "b.",
+      "content": "bezpečnostní politiky"
+    },
+    {
+      "label": "c.",
+      "content": "fyzická a organizační ochrana infrastruktury"
+    },
+    {
+      "label": "2.",
+      "content": "Kryptografie a kryptoanalýza (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "symetrické a asymetrické algoritmy"
+    },
+    {
+      "label": "b.",
+      "content": "hash funkce"
+    },
+    {
+      "label": "c.",
+      "content": "bezpečnostní techniky založené na kryptografických systémech"
+    },
+    {
+      "label": "3.",
+      "content": "AAA - Authentication, authorization, accounting (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "heslové politiky, nakládání s hesly, vícefaktorová autentizace"
+    },
+    {
+      "label": "b.",
+      "content": "uživatelské účty, skupiny, oprávnění"
+    },
+    {
+      "label": "c.",
+      "content": "centralizovaná autentizace/autorizace/accounting"
+    },
+    {
+      "label": "d.",
+      "content": "single-sign on"
+    },
+    {
+      "label": "4.",
+      "content": "Ochrana serverů a dat (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "aplikace uživatelský rolí a oprávnění"
+    },
+    {
+      "label": "b.",
+      "content": "audit událostí (např. SELinux)"
+    },
+    {
+      "label": "c.",
+      "content": "zálohování dat"
+    },
+    {
+      "label": "d.",
+      "content": "šifrování disků"
+    },
+    {
+      "label": "5.",
+      "content": "Management a monitoring služeb a sítě (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "cíle monitoringu serverů"
+    },
+    {
+      "label": "b.",
+      "content": "metriky pro monitorování služeb"
+    },
+    {
+      "label": "c.",
+      "content": "nástroje pro monitorování"
+    },
+    {
+      "label": "d.",
+      "content": "logging a syslog server"
+    },
+    {
+      "label": "6.",
+      "content": "Zabezpečení komunikace služeb (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "PKI, certifikáty, šifrovaná komunikace"
+    },
+    {
+      "label": "b.",
+      "content": "elektronický podpis"
+    },
+    {
+      "label": "c.",
+      "content": "vysoká dostupnost (anycast, DNS, CDN)"
+    },
+    {
+      "label": "7.",
+      "content": "Nástroje pro ochranu koncových stanic (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "antiviry, antimalware apod."
+    },
+    {
+      "label": "b.",
+      "content": "personální firewally a jejich možnosti"
+    },
+    {
+      "label": "c.",
+      "content": "hromadná správa koncových stanic"
+    },
+    {
+      "label": "d.",
+      "content": "řízení přístupu koncových uzlů do sítě (network admission)"
+    },
+    {
+      "label": "8.",
+      "content": "Techniky ochrany síťové infrastruktury (dotace 4/8)"
+    },
+    {
+      "label": "a.",
+      "content": "zabezpečení protokolu IP (IP spoofing apod.)"
+    },
+    {
+      "label": "b.",
+      "content": "segmentace sítí, VLAN"
+    },
+    {
+      "label": "c.",
+      "content": "síťové firewally, IPS apod."
+    },
+    {
+      "label": "d.",
+      "content": "NGFW, webové proxy"
+    },
+    {
+      "label": "e.",
+      "content": "VPN (site-to-site, remote access)"
+    },
+    {
+      "label": "9.",
+      "content": "Zabezpečení bezdrátové komunikace (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "PSK vs. enterprise (protokol IEEE 802.1x)"
+    },
+    {
+      "label": "b.",
+      "content": "bezdrátové kontroléry a jejich řízení"
+    },
+    {
+      "label": "c.",
+      "content": "kontrola rádiového spektra a detekce cizích AP"
+    },
+    {
+      "label": "d.",
+      "content": "specifika IoT sítí"
+    },
+    {
+      "label": "10.",
+      "content": "Speciální nástroje pro zabezpečení sítí (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "honeypoty a jejich možnosti a omezení"
+    },
+    {
+      "label": "b.",
+      "content": "princip a účel sandboxů"
+    },
+    {
+      "label": "c.",
+      "content": "serverová virtualizace pro vysokou dostupnost"
+    },
+    {
+      "label": "11.",
+      "content": "Legislativní rámec kybernetické bezpečnosti (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "osobní data – vymezení pojmu a nástroje ochrany"
+    },
+    {
+      "label": "b.",
+      "content": "Zákon o kybernetické bezpečnosti, GDPR, NIS2, …"
+    },
+    {
+      "label": "c.",
+      "content": "kybernetická bezpečnost na úrovni organizace a státu"
+    },
+    {
+      "label": "12.",
+      "content": "CSIRT a CERT týmy a SOC centra a jejich působnost (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "vymezení pojmu CSIRT a CERT a odlišnost od SOC"
+    },
+    {
+      "label": "b.",
+      "content": "postavení CSIRT a SOC v organizacích"
+    },
+    {
+      "label": "c.",
+      "content": "prosazování zásad bezpečnostní politiky a její nástroje"
+    },
+    {
+      "label": "13.",
+      "content": "Sociální inženýrství (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "metody sociálního inženýrství (phishing, pharming, …)"
+    },
+    {
+      "label": "b.",
+      "content": "způsoby obrany"
+    },
+    {
+      "label": "c.",
+      "content": "školení uživatelů"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "40 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "60 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, ZS 2023/2024, LS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Kybernetická bezpečnost v AJ"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Cyber Security"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: angličtina"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jiří Balej, Ph.D. (cvičící, tutor, zkoušející)Ing. Andrej Juríčka (cvičící, tutor, zkoušející)prof. Ing. Cyril Klimeš, CSc. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Ludmila Kunderová (přednášející, tutor, zkoušející)Ing. Jan Přichystal, Ph.D. (přednášející)doc. RNDr. Tomáš Sochor, CSc. (přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaČtvrtek15.00-16.50Q15N-OIAL. Kunderová, J. Přichystal, T. SochorPřednáškaKaždý týden16Pátek13.00-14.50Q01.48N-OIAJ. Balej, A. JuríčkaCvičeníKaždý týden16"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět studentům prohloubí znalostmi a dovednostmi v oblasti kybernetické bezpečnosti a umožní jim poznatky aplikovat v praxi."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Obecné principy zajišťování bezpečnosti a dostupnosti digitálních aktiv (dotace 2/2) a.hodnocení digitálních aktiv, hodnocení a eliminace rizikb.bezpečnostní politikyc.fyzická a organizační ochrana infrastruktury2.Kryptografie a kryptoanalýza (dotace 2/2) a.symetrické a asymetrické algoritmyb.hash funkcec.bezpečnostní techniky založené na kryptografických systémech3.AAA - Authentication, authorization, accounting (dotace 2/2) a.heslové politiky, nakládání s hesly, vícefaktorová autentizaceb.uživatelské účty, skupiny, oprávněníc.centralizovaná autentizace/autorizace/accountingd.single-sign on4.Ochrana serverů a dat (dotace 2/2) a.aplikace uživatelský rolí a oprávněníb.audit událostí (např. SELinux)c.zálohování datd.šifrování disků5.Management a monitoring služeb a sítě (dotace 2/2) a.cíle monitoringu serverůb.metriky pro monitorování služebc.nástroje pro monitorováníd.logging a syslog server6.Zabezpečení komunikace služeb (dotace 2/2) a.PKI, certifikáty, šifrovaná komunikaceb.elektronický podpisc.vysoká dostupnost (anycast, DNS, CDN)7.Nástroje pro ochranu koncových stanic (dotace 2/4) a.antiviry, antimalware apod.b.personální firewally a jejich možnostic.hromadná správa koncových stanicd.řízení přístupu koncových uzlů do sítě (network admission)8.Techniky ochrany síťové infrastruktury (dotace 4/8) a.zabezpečení protokolu IP (IP spoofing apod.)b.segmentace sítí, VLANc.síťové firewally, IPS apod.d.NGFW, webové proxye.VPN (site-to-site, remote access)9.Zabezpečení bezdrátové komunikace (dotace 2/2) a.PSK vs. enterprise (protokol IEEE 802.1x)b.bezdrátové kontroléry a jejich řízeníc.kontrola rádiového spektra a detekce cizích APd.specifika IoT sítí10.Speciální nástroje pro zabezpečení sítí (dotace 2/2) a.honeypoty a jejich možnosti a omezeníb.princip a účel sandboxůc.serverová virtualizace pro vysokou dostupnost11.Legislativní rámec kybernetické bezpečnosti (dotace 2/0) a.osobní data – vymezení pojmu a nástroje ochranyb.Zákon o kybernetické bezpečnosti, GDPR, NIS2, …c.kybernetická bezpečnost na úrovni organizace a státu12.CSIRT a CERT týmy a SOC centra a jejich působnost (dotace 2/0) a.vymezení pojmu CSIRT a CERT a odlišnost od SOCb.postavení CSIRT a SOC v organizacíchc.prosazování zásad bezpečnostní politiky a její nástroje13.Sociální inženýrství (dotace 2/0) a.metody sociálního inženýrství (phishing, pharming, …)b.způsoby obranyc.školení uživatelů"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.hodnocení digitálních aktiv, hodnocení a eliminace rizikb.bezpečnostní politikyc.fyzická a organizační ochrana infrastruktury"
+    },
+    {
+      "label": "[section] Obecné principy zajišťování bezpečnosti a dostupnosti digitálních aktiv",
+      "content": "a.hodnocení digitálních aktiv, hodnocení a eliminace rizikb.bezpečnostní politikyc.fyzická a organizační ochrana infrastruktury"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.symetrické a asymetrické algoritmyb.hash funkcec.bezpečnostní techniky založené na kryptografických systémech"
+    },
+    {
+      "label": "[section] Kryptografie a kryptoanalýza",
+      "content": "a.symetrické a asymetrické algoritmyb.hash funkcec.bezpečnostní techniky založené na kryptografických systémech"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.heslové politiky, nakládání s hesly, vícefaktorová autentizaceb.uživatelské účty, skupiny, oprávněníc.centralizovaná autentizace/autorizace/accountingd.single-sign on"
+    },
+    {
+      "label": "[section] AAA - Authentication, authorization, accounting",
+      "content": "a.heslové politiky, nakládání s hesly, vícefaktorová autentizaceb.uživatelské účty, skupiny, oprávněníc.centralizovaná autentizace/autorizace/accountingd.single-sign on"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.aplikace uživatelský rolí a oprávněníb.audit událostí (např. SELinux)c.zálohování datd.šifrování disků"
+    },
+    {
+      "label": "[section] Ochrana serverů a dat",
+      "content": "a.aplikace uživatelský rolí a oprávněníb.audit událostí (např. SELinux)c.zálohování datd.šifrování disků"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.cíle monitoringu serverůb.metriky pro monitorování služebc.nástroje pro monitorováníd.logging a syslog server"
+    },
+    {
+      "label": "[section] Management a monitoring služeb a sítě",
+      "content": "a.cíle monitoringu serverůb.metriky pro monitorování služebc.nástroje pro monitorováníd.logging a syslog server"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.PKI, certifikáty, šifrovaná komunikaceb.elektronický podpisc.vysoká dostupnost (anycast, DNS, CDN)"
+    },
+    {
+      "label": "[section] Zabezpečení komunikace služeb",
+      "content": "a.PKI, certifikáty, šifrovaná komunikaceb.elektronický podpisc.vysoká dostupnost (anycast, DNS, CDN)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.antiviry, antimalware apod.b.personální firewally a jejich možnostic.hromadná správa koncových stanicd.řízení přístupu koncových uzlů do sítě (network admission)"
+    },
+    {
+      "label": "[section] Nástroje pro ochranu koncových stanic",
+      "content": "a.antiviry, antimalware apod.b.personální firewally a jejich možnostic.hromadná správa koncových stanicd.řízení přístupu koncových uzlů do sítě (network admission)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.zabezpečení protokolu IP (IP spoofing apod.)b.segmentace sítí, VLANc.síťové firewally, IPS apod.d.NGFW, webové proxye.VPN (site-to-site, remote access)"
+    },
+    {
+      "label": "[section] Techniky ochrany síťové infrastruktury",
+      "content": "a.zabezpečení protokolu IP (IP spoofing apod.)b.segmentace sítí, VLANc.síťové firewally, IPS apod.d.NGFW, webové proxye.VPN (site-to-site, remote access)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.PSK vs. enterprise (protokol IEEE 802.1x)b.bezdrátové kontroléry a jejich řízeníc.kontrola rádiového spektra a detekce cizích APd.specifika IoT sítí"
+    },
+    {
+      "label": "[section] Zabezpečení bezdrátové komunikace",
+      "content": "a.PSK vs. enterprise (protokol IEEE 802.1x)b.bezdrátové kontroléry a jejich řízeníc.kontrola rádiového spektra a detekce cizích APd.specifika IoT sítí"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.honeypoty a jejich možnosti a omezeníb.princip a účel sandboxůc.serverová virtualizace pro vysokou dostupnost"
+    },
+    {
+      "label": "[section] Speciální nástroje pro zabezpečení sítí",
+      "content": "a.honeypoty a jejich možnosti a omezeníb.princip a účel sandboxůc.serverová virtualizace pro vysokou dostupnost"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.osobní data – vymezení pojmu a nástroje ochranyb.Zákon o kybernetické bezpečnosti, GDPR, NIS2, …c.kybernetická bezpečnost na úrovni organizace a státu"
+    },
+    {
+      "label": "[section] Legislativní rámec kybernetické bezpečnosti",
+      "content": "a.osobní data – vymezení pojmu a nástroje ochranyb.Zákon o kybernetické bezpečnosti, GDPR, NIS2, …c.kybernetická bezpečnost na úrovni organizace a státu"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.vymezení pojmu CSIRT a CERT a odlišnost od SOCb.postavení CSIRT a SOC v organizacíchc.prosazování zásad bezpečnostní politiky a její nástroje"
+    },
+    {
+      "label": "[section] CSIRT a CERT týmy a SOC centra a jejich působnost",
+      "content": "a.vymezení pojmu CSIRT a CERT a odlišnost od SOCb.postavení CSIRT a SOC v organizacíchc.prosazování zásad bezpečnostní politiky a její nástroje"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.metody sociálního inženýrství (phishing, pharming, …)b.způsoby obranyc.školení uživatelů"
+    },
+    {
+      "label": "[section] Sociální inženýrství",
+      "content": "a.metody sociálního inženýrství (phishing, pharming, …)b.způsoby obranyc.školení uživatelů"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku42 hpříprava na průběžné hodnocení42 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Písemná zkouška (60 bodů), vypracování a obhajoba seminární práce (40 bodů). Známka: A 90-100, B 83-89, C 75-82, D 68-74, E 60-67 bodů."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích40 %Absolvování závěrečného testu60 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:WALKER, B. 2019. Cyber Security: Comprehensive Beginners Guide to Learn the Basics and Effective Methods of Cyber Security. .: Independently Published, ISBN 978-1-075-25767-4.STALLINGS, W; BROWN, L. 2018. Computer Security: Principles and Practice, 4th edition. .: Published by Pearson, ISBN 978-0-13-479410-5.Doporučená:SCAMBRAY, J; MCCLURE, S; KURTZ, G. 2012. Hacking Exposed 7: Network Security Secrets and Solutions 7th Ed., 2012, ISBN 0071780289. N/A: Network Security Secrets and Solutions.CONKLIN, William Arthur; WHITE, Gregory. 2018. Principles of Computer Security: CompTIA Security+ and Beyond. New York: McGraw Hill, 848 s. ISBN 978-1-260-02601-6.BROTHERSTON, Lee; BERLIN, Amanda. 2017. Defensive Security Handbook: Best Practices for Securing Infrastructure. Sebastopol: O'Reilly Media, 284 s. ISBN 978-1-491-96038-7."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "WALKER, B. 2019. Cyber Security: Comprehensive Beginners Guide to Learn the Basics and Effective Methods of Cyber Security. .: Independently Published, ISBN 978-1-075-25767-4.STALLINGS, W; BROWN, L. 2018. Computer Security: Principles and Practice, 4th edition. .: Published by Pearson, ISBN 978-0-13-479410-5."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "SCAMBRAY, J; MCCLURE, S; KURTZ, G. 2012. Hacking Exposed 7: Network Security Secrets and Solutions 7th Ed., 2012, ISBN 0071780289. N/A: Network Security Secrets and Solutions.CONKLIN, William Arthur; WHITE, Gregory. 2018. Principles of Computer Security: CompTIA Security+ and Beyond. New York: McGraw Hill, 848 s. ISBN 978-1-260-02601-6.BROTHERSTON, Lee; BERLIN, Amanda. 2017. Defensive Security Handbook: Best Practices for Securing Infrastructure. Sebastopol: O'Reilly Media, 284 s. ISBN 978-1-491-96038-7."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-OIA Open Informatics, prezenční forma, počáteční období ZS 2023/2024Program N-OIA Open Informatics, prezenční forma, počáteční období LS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENA-KB"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Kybernetická bezpečnost v AJ"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Cyber Security"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course cannot be studied during abroad internship."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "English"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jiří Balej, Ph.D. (examiner, instructor, tutor)Ing. Andrej Juríčka (examiner, instructor, tutor)prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, supervisor, tutor)Ing. Ludmila Kunderová (examiner, lecturer, tutor)Ing. Jan Přichystal, Ph.D. (lecturer)doc. RNDr. Tomáš Sochor, CSc. (examiner, lecturer, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Common principles of ensuring security and availability of digital assets (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "evaluation of digital assets, risks and their assessment and elimination"
+    },
+    {
+      "label": "b.",
+      "content": "security policies"
+    },
+    {
+      "label": "c.",
+      "content": "physical and organizational protection of IT infrastructure"
+    },
+    {
+      "label": "2.",
+      "content": "Cryptography and crypto analysis (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "symmetrical and asymmetrical algorithms"
+    },
+    {
+      "label": "b.",
+      "content": "hash functions"
+    },
+    {
+      "label": "c.",
+      "content": "security techniques based on cryptographic mechanisms"
+    },
+    {
+      "label": "3.",
+      "content": "Authentication, authorization, accounting (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "password policies, password management, multi-factor authentication"
+    },
+    {
+      "label": "b.",
+      "content": "user accounts, groups, permissions"
+    },
+    {
+      "label": "c.",
+      "content": "centralized authentication/authorization/accounting"
+    },
+    {
+      "label": "d.",
+      "content": "single-sign on"
+    },
+    {
+      "label": "4.",
+      "content": "Protection of servers and data (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "application of user roles and permissions in operating systems"
+    },
+    {
+      "label": "b.",
+      "content": "event audit (eg. SELinux)"
+    },
+    {
+      "label": "c.",
+      "content": "data backup"
+    },
+    {
+      "label": "d.",
+      "content": "disk encryption"
+    },
+    {
+      "label": "5.",
+      "content": "Management and monitoring of services and networks (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "server monitoring goals"
+    },
+    {
+      "label": "b.",
+      "content": "metrics for service monitoring"
+    },
+    {
+      "label": "c.",
+      "content": "monitoring Tools"
+    },
+    {
+      "label": "d.",
+      "content": "logging and syslog server"
+    },
+    {
+      "label": "6.",
+      "content": "Securing communication of services (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "PKI, certificates, encrypted communication"
+    },
+    {
+      "label": "b.",
+      "content": "digital signature"
+    },
+    {
+      "label": "c.",
+      "content": "high availability (anycast, DNS, CDN)"
+    },
+    {
+      "label": "7.",
+      "content": "Tools for protection of endpoints (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "antivirus, antimalware, etc."
+    },
+    {
+      "label": "b.",
+      "content": "personal firewall and its potential"
+    },
+    {
+      "label": "c.",
+      "content": "unified endpoint management"
+    },
+    {
+      "label": "d.",
+      "content": "control of endpoints access to the network (network admission)"
+    },
+    {
+      "label": "8.",
+      "content": "Methods of network infrastructure protection (allowance 4/8)"
+    },
+    {
+      "label": "a.",
+      "content": "securing of IP protocol (against IP spoofing, etc.)"
+    },
+    {
+      "label": "b.",
+      "content": "network segmentation, VLAN"
+    },
+    {
+      "label": "c.",
+      "content": "network firewalls, IPS, etc."
+    },
+    {
+      "label": "d.",
+      "content": "NGFW, web proxy"
+    },
+    {
+      "label": "e.",
+      "content": "VPN (site-to-site, remote access)"
+    },
+    {
+      "label": "9.",
+      "content": "Security of wireless communication (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "PSK vs. enterprise (IEEE 802.1x protocol)"
+    },
+    {
+      "label": "b.",
+      "content": "wireless controllers and their management"
+    },
+    {
+      "label": "c.",
+      "content": "monitoring of radio spectrum, rogue AP detection"
+    },
+    {
+      "label": "d.",
+      "content": "specifics of IoT networks"
+    },
+    {
+      "label": "10.",
+      "content": "Special tools for securing networks (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "honeypots and their possibilities and limitations"
+    },
+    {
+      "label": "b.",
+      "content": "principle and purpose of sandboxing"
+    },
+    {
+      "label": "c.",
+      "content": "server virtualization for high availability"
+    },
+    {
+      "label": "11.",
+      "content": "Legislation framework of cybersecurity (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "personal data – definition of the term, methods of protection."
+    },
+    {
+      "label": "b.",
+      "content": "Cybersecurity law, GDPR, NIS2, …"
+    },
+    {
+      "label": "c.",
+      "content": "cybersecurity at the level of an organization and country"
+    },
+    {
+      "label": "12.",
+      "content": "CSIRT and CERT teams, SOC centers and their competencies (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "definition of CSIRT and CERT, difference from SOC"
+    },
+    {
+      "label": "b.",
+      "content": "role and position of CSIRT and SOC in organizations"
+    },
+    {
+      "label": "c.",
+      "content": "enforcing of security policy principles and its tools."
+    },
+    {
+      "label": "13.",
+      "content": "Social engineering (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "methods of social engineering (phishing, pharming, …)"
+    },
+    {
+      "label": "b.",
+      "content": "protection principles"
+    },
+    {
+      "label": "c.",
+      "content": "security training"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "40 %"
+    },
+    {
+      "label": "Final test",
+      "content": "60 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, WS 2023/2024, SS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Kybernetická bezpečnost v AJ"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Cyber Security"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course cannot be studied during abroad internship."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: English"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jiří Balej, Ph.D. (examiner, instructor, tutor)Ing. Andrej Juríčka (examiner, instructor, tutor)prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, supervisor, tutor)Ing. Ludmila Kunderová (examiner, lecturer, tutor)Ing. Jan Přichystal, Ph.D. (lecturer)doc. RNDr. Tomáš Sochor, CSc. (examiner, lecturer, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityThursday15.00-16.50Q15N-OIAL. Kunderová, J. Přichystal, T. SochorLectureEvery week16Friday13.00-14.50Q01.48N-OIAJ. Balej, A. JuríčkaSeminarEvery week16"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The course will deepen students' knowledge and skills in the field of cyber security and enable them to apply the knowledge in practice."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Common principles of ensuring security and availability of digital assets (allowance 2/2) a.evaluation of digital assets, risks and their assessment and eliminationb.security policiesc.physical and organizational protection of IT infrastructure2.Cryptography and crypto analysis (allowance 2/2) a.symmetrical and asymmetrical algorithmsb.hash functionsc.security techniques based on cryptographic mechanisms3.Authentication, authorization, accounting (allowance 2/2) a.password policies, password management, multi-factor authenticationb.user accounts, groups, permissionsc.centralized authentication/authorization/accountingd.single-sign on4.Protection of servers and data (allowance 2/2) a.application of user roles and permissions in operating systemsb.event audit (eg. SELinux)c.data backupd.disk encryption5.Management and monitoring of services and networks (allowance 2/2) a.server monitoring goalsb.metrics for service monitoringc.monitoring Toolsd.logging and syslog server6.Securing communication of services (allowance 2/2) a.PKI, certificates, encrypted communicationb.digital signaturec.high availability (anycast, DNS, CDN)7.Tools for protection of endpoints (allowance 2/4) a.antivirus, antimalware, etc.b.personal firewall and its potentialc.unified endpoint managementd.control of endpoints access to the network (network admission)8.Methods of network infrastructure protection (allowance 4/8) a.securing of IP protocol (against IP spoofing, etc.)b.network segmentation, VLANc.network firewalls, IPS, etc.d.NGFW, web proxye.VPN (site-to-site, remote access)9.Security of wireless communication (allowance 2/2) a.PSK vs. enterprise (IEEE 802.1x protocol)b.wireless controllers and their managementc.monitoring of radio spectrum, rogue AP detectiond.specifics of IoT networks10.Special tools for securing networks (allowance 2/2) a.honeypots and their possibilities and limitationsb.principle and purpose of sandboxingc.server virtualization for high availability11.Legislation framework of cybersecurity (allowance 2/0) a.personal data – definition of the term, methods of protection.b.Cybersecurity law, GDPR, NIS2, …c.cybersecurity at the level of an organization and country12.CSIRT and CERT teams, SOC centers and their competencies (allowance 2/0) a.definition of CSIRT and CERT, difference from SOCb.role and position of CSIRT and SOC in organizationsc.enforcing of security policy principles and its tools.13.Social engineering (allowance 2/0) a.methods of social engineering (phishing, pharming, …)b.protection principlesc.security training"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.evaluation of digital assets, risks and their assessment and eliminationb.security policiesc.physical and organizational protection of IT infrastructure"
+    },
+    {
+      "label": "[section] Common principles of ensuring security and availability of digital assets",
+      "content": "a.evaluation of digital assets, risks and their assessment and eliminationb.security policiesc.physical and organizational protection of IT infrastructure"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.symmetrical and asymmetrical algorithmsb.hash functionsc.security techniques based on cryptographic mechanisms"
+    },
+    {
+      "label": "[section] Cryptography and crypto analysis",
+      "content": "a.symmetrical and asymmetrical algorithmsb.hash functionsc.security techniques based on cryptographic mechanisms"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.password policies, password management, multi-factor authenticationb.user accounts, groups, permissionsc.centralized authentication/authorization/accountingd.single-sign on"
+    },
+    {
+      "label": "[section] Authentication, authorization, accounting",
+      "content": "a.password policies, password management, multi-factor authenticationb.user accounts, groups, permissionsc.centralized authentication/authorization/accountingd.single-sign on"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.application of user roles and permissions in operating systemsb.event audit (eg. SELinux)c.data backupd.disk encryption"
+    },
+    {
+      "label": "[section] Protection of servers and data",
+      "content": "a.application of user roles and permissions in operating systemsb.event audit (eg. SELinux)c.data backupd.disk encryption"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.server monitoring goalsb.metrics for service monitoringc.monitoring Toolsd.logging and syslog server"
+    },
+    {
+      "label": "[section] Management and monitoring of services and networks",
+      "content": "a.server monitoring goalsb.metrics for service monitoringc.monitoring Toolsd.logging and syslog server"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.PKI, certificates, encrypted communicationb.digital signaturec.high availability (anycast, DNS, CDN)"
+    },
+    {
+      "label": "[section] Securing communication of services",
+      "content": "a.PKI, certificates, encrypted communicationb.digital signaturec.high availability (anycast, DNS, CDN)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.antivirus, antimalware, etc.b.personal firewall and its potentialc.unified endpoint managementd.control of endpoints access to the network (network admission)"
+    },
+    {
+      "label": "[section] Tools for protection of endpoints",
+      "content": "a.antivirus, antimalware, etc.b.personal firewall and its potentialc.unified endpoint managementd.control of endpoints access to the network (network admission)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.securing of IP protocol (against IP spoofing, etc.)b.network segmentation, VLANc.network firewalls, IPS, etc.d.NGFW, web proxye.VPN (site-to-site, remote access)"
+    },
+    {
+      "label": "[section] Methods of network infrastructure protection",
+      "content": "a.securing of IP protocol (against IP spoofing, etc.)b.network segmentation, VLANc.network firewalls, IPS, etc.d.NGFW, web proxye.VPN (site-to-site, remote access)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.PSK vs. enterprise (IEEE 802.1x protocol)b.wireless controllers and their managementc.monitoring of radio spectrum, rogue AP detectiond.specifics of IoT networks"
+    },
+    {
+      "label": "[section] Security of wireless communication",
+      "content": "a.PSK vs. enterprise (IEEE 802.1x protocol)b.wireless controllers and their managementc.monitoring of radio spectrum, rogue AP detectiond.specifics of IoT networks"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.honeypots and their possibilities and limitationsb.principle and purpose of sandboxingc.server virtualization for high availability"
+    },
+    {
+      "label": "[section] Special tools for securing networks",
+      "content": "a.honeypots and their possibilities and limitationsb.principle and purpose of sandboxingc.server virtualization for high availability"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.personal data – definition of the term, methods of protection.b.Cybersecurity law, GDPR, NIS2, …c.cybersecurity at the level of an organization and country"
+    },
+    {
+      "label": "[section] Legislation framework of cybersecurity",
+      "content": "a.personal data – definition of the term, methods of protection.b.Cybersecurity law, GDPR, NIS2, …c.cybersecurity at the level of an organization and country"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.definition of CSIRT and CERT, difference from SOCb.role and position of CSIRT and SOC in organizationsc.enforcing of security policy principles and its tools."
+    },
+    {
+      "label": "[section] CSIRT and CERT teams, SOC centers and their competencies",
+      "content": "a.definition of CSIRT and CERT, difference from SOCb.role and position of CSIRT and SOC in organizationsc.enforcing of security policy principles and its tools."
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.methods of social engineering (phishing, pharming, …)b.protection principlesc.security training"
+    },
+    {
+      "label": "[section] Social engineering",
+      "content": "a.methods of social engineering (phishing, pharming, …)b.protection principlesc.security training"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam42 hpreparation for regular assessment42 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Written exam (60 points), preparation and defense of the seminar project for the topic assigned by the teacher (40 points). Evaluation: A 90-100, B 83-89, C 75-82, D 68-74, E 60-67 points."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation40 %Final test60 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:WALKER, B. 2019. Cyber Security: Comprehensive Beginners Guide to Learn the Basics and Effective Methods of Cyber Security. .: Independently Published, ISBN 978-1-075-25767-4.STALLINGS, W; BROWN, L. 2018. Computer Security: Principles and Practice, 4th edition. .: Published by Pearson, ISBN 978-0-13-479410-5.Recommended:SCAMBRAY, J; MCCLURE, S; KURTZ, G. 2012. Hacking Exposed 7: Network Security Secrets and Solutions 7th Ed., 2012, ISBN 0071780289. N/A: Network Security Secrets and Solutions.CONKLIN, William Arthur; WHITE, Gregory. 2018. Principles of Computer Security: CompTIA Security+ and Beyond. New York: McGraw Hill, 848 p. ISBN 978-1-260-02601-6.BROTHERSTON, Lee; BERLIN, Amanda. 2017. Defensive Security Handbook: Best Practices for Securing Infrastructure. Sebastopol: O'Reilly Media, 284 p. ISBN 978-1-491-96038-7."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "WALKER, B. 2019. Cyber Security: Comprehensive Beginners Guide to Learn the Basics and Effective Methods of Cyber Security. .: Independently Published, ISBN 978-1-075-25767-4.STALLINGS, W; BROWN, L. 2018. Computer Security: Principles and Practice, 4th edition. .: Published by Pearson, ISBN 978-0-13-479410-5."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "SCAMBRAY, J; MCCLURE, S; KURTZ, G. 2012. Hacking Exposed 7: Network Security Secrets and Solutions 7th Ed., 2012, ISBN 0071780289. N/A: Network Security Secrets and Solutions.CONKLIN, William Arthur; WHITE, Gregory. 2018. Principles of Computer Security: CompTIA Security+ and Beyond. New York: McGraw Hill, 848 p. ISBN 978-1-260-02601-6.BROTHERSTON, Lee; BERLIN, Amanda. 2017. Defensive Security Handbook: Best Practices for Securing Infrastructure. Sebastopol: O'Reilly Media, 284 p. ISBN 978-1-491-96038-7."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-OIA Open Informatics, full-time form, initial period WS 2023/2024Programme C-OIA Open Informatics, full-time form, initial period SS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:52:15",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

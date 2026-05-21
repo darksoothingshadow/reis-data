@@ -1,0 +1,641 @@
+{
+  "courseCode": "ENA-NS",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENA-NS"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Neuronové sítě v AJ"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Neural Networks"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "konzultační"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět je možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "angličtina"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. František Dařena, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. František Dařena, Ph.D. (garant)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Motivace, historie a základní terminologie (dotace 2/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Lineární regrese s jednou proměnou (dotace 2/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Lineární regrese s více proměnnými (dotace 2/2)"
+    },
+    {
+      "label": "4.",
+      "content": "Nelineární regrese s více proměnnými (dotace 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Logistická regrese (dotace 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Perceptronové sítě pro klasifikaci a regresi (dotace 2/2)"
+    },
+    {
+      "label": "7.",
+      "content": "Dopředný a zpětný výpočet neuronové sítě (dotace 2/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Postup návrhu řešení problému pomocí neuronové sítě (dotace 4/4)"
+    },
+    {
+      "label": "9.",
+      "content": "Rekurentní neuronové sítě a jejich aplikace (dotace 2/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Neuronové sítě pro predikci časových řad (dotace 4/4)"
+    },
+    {
+      "label": "11.",
+      "content": "Hluboké neuronové sítě (dotace 4/4)"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "50 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "50 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, ZS 2024/2025, LS 2023/2024, ZS 2023/2024, ZS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Neuronové sítě v AJ"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Neural Networks"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: konzultační"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: angličtina"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. František Dařena, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. František Dařena, Ph.D. (garant)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Student získá teoretický základ i praktické dovednosti ve využití neuronových sítí pro potřeby řešení vybraných problémů regrese, klasifikace a predikce. Důraz je kladen na pochopení základních principů fungování běžné perceptronové sítě i složitějších rekurentních a hlubokých neuronových sítí. Předmět objasňuje kroky vedoucí k úspěšnému nasazení neuronové sítě pro řešení zadaných problémů."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Motivace, historie a základní terminologie (dotace 2/2)2.Lineární regrese s jednou proměnou (dotace 2/2)3.Lineární regrese s více proměnnými (dotace 2/2)4.Nelineární regrese s více proměnnými (dotace 2/2)5.Logistická regrese (dotace 2/2)6.Perceptronové sítě pro klasifikaci a regresi (dotace 2/2)7.Dopředný a zpětný výpočet neuronové sítě (dotace 2/2)8.Postup návrhu řešení problému pomocí neuronové sítě (dotace 4/4)9.Rekurentní neuronové sítě a jejich aplikace (dotace 2/2)10.Neuronové sítě pro predikci časových řad (dotace 4/4)11.Hluboké neuronové sítě (dotace 4/4)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Lineární regrese s jednou proměnou (dotace 2/2)"
+    },
+    {
+      "label": "[section] Motivace, historie a základní terminologie",
+      "content": "2.Lineární regrese s jednou proměnou (dotace 2/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Lineární regrese s více proměnnými (dotace 2/2)"
+    },
+    {
+      "label": "[section] Lineární regrese s jednou proměnou",
+      "content": "3.Lineární regrese s více proměnnými (dotace 2/2)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Nelineární regrese s více proměnnými (dotace 2/2)"
+    },
+    {
+      "label": "[section] Lineární regrese s více proměnnými",
+      "content": "4.Nelineární regrese s více proměnnými (dotace 2/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Logistická regrese (dotace 2/2)"
+    },
+    {
+      "label": "[section] Nelineární regrese s více proměnnými",
+      "content": "5.Logistická regrese (dotace 2/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Perceptronové sítě pro klasifikaci a regresi (dotace 2/2)"
+    },
+    {
+      "label": "[section] Logistická regrese",
+      "content": "6.Perceptronové sítě pro klasifikaci a regresi (dotace 2/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Dopředný a zpětný výpočet neuronové sítě (dotace 2/2)"
+    },
+    {
+      "label": "[section] Perceptronové sítě pro klasifikaci a regresi",
+      "content": "7.Dopředný a zpětný výpočet neuronové sítě (dotace 2/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Postup návrhu řešení problému pomocí neuronové sítě (dotace 4/4)"
+    },
+    {
+      "label": "[section] Dopředný a zpětný výpočet neuronové sítě",
+      "content": "8.Postup návrhu řešení problému pomocí neuronové sítě (dotace 4/4)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Rekurentní neuronové sítě a jejich aplikace (dotace 2/2)"
+    },
+    {
+      "label": "[section] Postup návrhu řešení problému pomocí neuronové sítě",
+      "content": "9.Rekurentní neuronové sítě a jejich aplikace (dotace 2/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Neuronové sítě pro predikci časových řad (dotace 4/4)"
+    },
+    {
+      "label": "[section] Rekurentní neuronové sítě a jejich aplikace",
+      "content": "10.Neuronové sítě pro predikci časových řad (dotace 4/4)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Hluboké neuronové sítě (dotace 4/4)"
+    },
+    {
+      "label": "[section] Neuronové sítě pro predikci časových řad",
+      "content": "11.Hluboké neuronové sítě (dotace 4/4)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hkonzultace14 hpříprava na zkoušku40 hzpracování projektů30 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Výsledná známka je založena na hodnocení semestrální práce (max. 50 bodů) a ústní zkoušky (max. 50 bodů). Zápočet je udělen za alespoň 25 bodů získaných za semestrální práci. Aktivitou na cvičeních a přednáškách je možné získat body navíc, maximálně 10. Známka bude určena podle následující stupnice: méně než 60 bodů F, 60 bodů a více E, 68 bodů a více D, 75 bodů a více C, 83 bodů a více B a 90 bodů a více A."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumVypracování semestrální práce50 %Absolvování závěrečné ústní zkoušky50 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:TIBSHIRANI, Robert; HASTIE, Trevor; FRIEDMAN, Jerome. 2009. The Elements of Statistical Learning 2nd edition. USA: Springer, 768 s. ISBN 0-387-84857-6.GOODFELLOW, Ian; BENGIO, Yoshua; COURVILLE, Aaron. 2016. Deep Learning. Cambridge: The MIT Press, ISBN 978-0-262-03561-3.Doporučená:DA SILVA, I N a kol. 2017. Artificial Neural Networks: A Practical Course. Cham: Springer, ISBN 978-3-319-43162-8."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "TIBSHIRANI, Robert; HASTIE, Trevor; FRIEDMAN, Jerome. 2009. The Elements of Statistical Learning 2nd edition. USA: Springer, 768 s. ISBN 0-387-84857-6.GOODFELLOW, Ian; BENGIO, Yoshua; COURVILLE, Aaron. 2016. Deep Learning. Cambridge: The MIT Press, ISBN 978-0-262-03561-3."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "DA SILVA, I N a kol. 2017. Artificial Neural Networks: A Practical Course. Cham: Springer, ISBN 978-3-319-43162-8."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENA-NS"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Neuronové sítě v AJ"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Neural Networks"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "consulting"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course can be studied during a student's mobility abroad."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "English"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. František Dařena, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. František Dařena, Ph.D. (supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Motivation, history, and basic terminology (allowance 2/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Simple linear regression (allowance 2/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Multiple linear regression (allowance 2/2)"
+    },
+    {
+      "label": "4.",
+      "content": "Multivariate nonlinear regression (allowance 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Logistic regression (allowance 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Perceptron networks for classification and regression (allowance 2/2)"
+    },
+    {
+      "label": "7.",
+      "content": "Forward and backward calculations in neural networks (allowance 2/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Designing a problem solving procedure using neural networks (allowance 4/4)"
+    },
+    {
+      "label": "9.",
+      "content": "Recurrent neural networks and their applications (allowance 2/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Neural networks for time series prediction (allowance 4/4)"
+    },
+    {
+      "label": "11.",
+      "content": "Deep neural networks (allowance 4/4)"
+    },
+    {
+      "label": "Term paper",
+      "content": "50 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "50 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, WS 2024/2025, SS 2023/2024, WS 2023/2024, WS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Neuronové sítě v AJ"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Neural Networks"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: consulting"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course can be studied during a student's mobility abroad."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: English"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. František Dařena, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. František Dařena, Ph.D. (supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The student will gain theoretical background and practical skills in the use of neural networks for solving selected problems of regression, classification, and prediction. Emphasis is placed on understanding the basic principles of a common perceptron network as well as more complex recurrent and deep neural networks. The course clarifies the steps leading to the successful deployment of a neural network for solving a problem."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Motivation, history, and basic terminology (allowance 2/2)2.Simple linear regression (allowance 2/2)3.Multiple linear regression (allowance 2/2)4.Multivariate nonlinear regression (allowance 2/2)5.Logistic regression (allowance 2/2)6.Perceptron networks for classification and regression (allowance 2/2)7.Forward and backward calculations in neural networks (allowance 2/2)8.Designing a problem solving procedure using neural networks (allowance 4/4)9.Recurrent neural networks and their applications (allowance 2/2)10.Neural networks for time series prediction (allowance 4/4)11.Deep neural networks (allowance 4/4)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Simple linear regression (allowance 2/2)"
+    },
+    {
+      "label": "[section] Motivation, history, and basic terminology",
+      "content": "2.Simple linear regression (allowance 2/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Multiple linear regression (allowance 2/2)"
+    },
+    {
+      "label": "[section] Simple linear regression",
+      "content": "3.Multiple linear regression (allowance 2/2)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Multivariate nonlinear regression (allowance 2/2)"
+    },
+    {
+      "label": "[section] Multiple linear regression",
+      "content": "4.Multivariate nonlinear regression (allowance 2/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Logistic regression (allowance 2/2)"
+    },
+    {
+      "label": "[section] Multivariate nonlinear regression",
+      "content": "5.Logistic regression (allowance 2/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Perceptron networks for classification and regression (allowance 2/2)"
+    },
+    {
+      "label": "[section] Logistic regression",
+      "content": "6.Perceptron networks for classification and regression (allowance 2/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Forward and backward calculations in neural networks (allowance 2/2)"
+    },
+    {
+      "label": "[section] Perceptron networks for classification and regression",
+      "content": "7.Forward and backward calculations in neural networks (allowance 2/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Designing a problem solving procedure using neural networks (allowance 4/4)"
+    },
+    {
+      "label": "[section] Forward and backward calculations in neural networks",
+      "content": "8.Designing a problem solving procedure using neural networks (allowance 4/4)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Recurrent neural networks and their applications (allowance 2/2)"
+    },
+    {
+      "label": "[section] Designing a problem solving procedure using neural networks",
+      "content": "9.Recurrent neural networks and their applications (allowance 2/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Neural networks for time series prediction (allowance 4/4)"
+    },
+    {
+      "label": "[section] Recurrent neural networks and their applications",
+      "content": "10.Neural networks for time series prediction (allowance 4/4)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Deep neural networks (allowance 4/4)"
+    },
+    {
+      "label": "[section] Neural networks for time series prediction",
+      "content": "11.Deep neural networks (allowance 4/4)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hconsultation14 hpreparation for exam40 helaboration and execution of projects30 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "The final grade is based on the evaluation of the semestral project (max. 50 points) and the oral exam (max. 50 points). A small credit is awarded when achieving at least 25 points for the semestral project. It is possible to get extra points based on a student's activity (max. 10 points). The grade will be determined according to the following scale: less than 60 points F, 60 points and more E, 68 points and more D, 75 points and more C, 83 points and more B, and 90 points and more A."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTerm paper50 %Final oral exam50 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:TIBSHIRANI, Robert; HASTIE, Trevor; FRIEDMAN, Jerome. 2009. The Elements of Statistical Learning 2nd edition. USA: Springer, 768 p. ISBN 0-387-84857-6.GOODFELLOW, Ian; BENGIO, Yoshua; COURVILLE, Aaron. 2016. Deep Learning. Cambridge: The MIT Press, ISBN 978-0-262-03561-3.Recommended:DA SILVA, I N et al. 2017. Artificial Neural Networks: A Practical Course. Cham: Springer, ISBN 978-3-319-43162-8."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "TIBSHIRANI, Robert; HASTIE, Trevor; FRIEDMAN, Jerome. 2009. The Elements of Statistical Learning 2nd edition. USA: Springer, 768 p. ISBN 0-387-84857-6.GOODFELLOW, Ian; BENGIO, Yoshua; COURVILLE, Aaron. 2016. Deep Learning. Cambridge: The MIT Press, ISBN 978-0-262-03561-3."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "DA SILVA, I N et al. 2017. Artificial Neural Networks: A Practical Course. Cham: Springer, ISBN 978-3-319-43162-8."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:53:09",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

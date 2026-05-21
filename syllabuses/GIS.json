@@ -1,0 +1,673 @@
+{
+  "courseCode": "GIS",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "GIS"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Geoinformační systémy"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Geoinformation Systems"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Martin Klimánek, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav hospodářské úpravy lesů a aplikované geoinformatiky (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Stanislav Herber (cvičící)doc. Ing. Martin Klimánek, Ph.D. (garant, přednášející, zkoušející)Ing. Dominika Krausková (cvičící)Ing. Petr Vahalík, Ph.D. (cvičící, přednášející)Ing. Nikola Žižlavská (cvičící)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška nebo nyní Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Prostorová data (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "definice a základní pojmy"
+    },
+    {
+      "label": "b.",
+      "content": "datové modely"
+    },
+    {
+      "label": "c.",
+      "content": "struktura prostorových dat"
+    },
+    {
+      "label": "2.",
+      "content": "Analogová a digitální data a jejich integrace do GIS (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "datové zdroje v ČR a v zahraničí"
+    },
+    {
+      "label": "b.",
+      "content": "kvalita dat a jejich obsahová náplň, zdroje chyb"
+    },
+    {
+      "label": "c.",
+      "content": "kartografická zobrazení a souřadnicové systémy"
+    },
+    {
+      "label": "3.",
+      "content": "Technologie pořizování dat (dotace 6/12)"
+    },
+    {
+      "label": "a.",
+      "content": "globální navigační satelitní systémy, senzorové sítě"
+    },
+    {
+      "label": "b.",
+      "content": "dálkový průzkum Země -- multispektrální snímky a laserové skenování"
+    },
+    {
+      "label": "c.",
+      "content": "digitalizace, georeferencování, využití analogových dat"
+    },
+    {
+      "label": "d.",
+      "content": "digitální modely terénu a topografické analýzy"
+    },
+    {
+      "label": "e.",
+      "content": "atributová data a jejich integrace do GIS, geodatabáze, dotazy"
+    },
+    {
+      "label": "4.",
+      "content": "Prostorové operace (dotace 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "prohledávání a měření, překryty"
+    },
+    {
+      "label": "b.",
+      "content": "operace s okolím -- analýza kontextu, spojitosti a síťové analýzy, frikční povrchy"
+    },
+    {
+      "label": "c.",
+      "content": "multikriteriální prostorové analýzy"
+    },
+    {
+      "label": "5.",
+      "content": "Prezentace výstupů z GIS (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "tvorba mapových kompozic"
+    },
+    {
+      "label": "b.",
+      "content": "zásady (tematické) kartografie, metody vizualizace"
+    },
+    {
+      "label": "6.",
+      "content": "Aplikace GIS (dotace 8/4)"
+    },
+    {
+      "label": "a.",
+      "content": "management GIS projektů, participativní a kolaborativní mapování"
+    },
+    {
+      "label": "b.",
+      "content": "mobilní GIS, webové mapové servery a služby, geoportály"
+    },
+    {
+      "label": "c.",
+      "content": "precizní lesnictví, precizní zemědělství"
+    },
+    {
+      "label": "d.",
+      "content": "management přírodních zdrojů a rizik, mapování změn krajiny"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, LS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024, ZS 2023/2024 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Geoinformační systémy"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Geoinformation Systems"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Martin Klimánek, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav hospodářské úpravy lesů a aplikované geoinformatiky (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Stanislav Herber (cvičící)doc. Ing. Martin Klimánek, Ph.D. (garant, přednášející, zkoušející)Ing. Dominika Krausková (cvičící)Ing. Petr Vahalík, Ph.D. (cvičící, přednášející)Ing. Nikola Žižlavská (cvičící)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška nebo nyní Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkVyučujícíAkceČetnostKapacitaPoznámkaPondělí11.00-12.50B03S. HerberCvičeníKaždý týden20 Pondělí15.00-16.50B03N. ŽižlavskáCvičeníKaždý týden20 Pondělí17.00-18.50B03N. ŽižlavskáCvičeníKaždý týden20 Úterý11.00-12.50B03D. KrauskováCvičeníKaždý týden20 Úterý13.00-14.50B03D. KrauskováCvičeníKaždý týden20 Úterý17.00-18.50B03P. VahalíkCvičeníKaždý týden20opakujícíStředa8.00-11.50B03B-ARBOB-LESN32není určenPřednáškaNepravidelně26 Čtvrtek11.00-12.50B03S. HerberCvičeníKaždý týden20 Čtvrtek13.00-14.50B03S. HerberCvičeníKaždý týden20 Čtvrtek15.00-16.50B32M. KlimánekPřednáškaKaždý týden120"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Podat posluchačům základní informaci o prostorových datech (geodatech), geografických informačních systémech (GIS) a nejdůležitějších funkčních a analytických operacích používaných v GIS. Naučit je nejdůležitějším praktickým úlohám GIS."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Prostorová data (dotace 2/2) a.definice a základní pojmyb.datové modelyc.struktura prostorových dat2.Analogová a digitální data a jejich integrace do GIS (dotace 4/2) a.datové zdroje v ČR a v zahraničíb.kvalita dat a jejich obsahová náplň, zdroje chybc.kartografická zobrazení a souřadnicové systémy3.Technologie pořizování dat (dotace 6/12) a.globální navigační satelitní systémy, senzorové sítěb.dálkový průzkum Země -- multispektrální snímky a laserové skenováníc.digitalizace, georeferencování, využití analogových datd.digitální modely terénu a topografické analýzye.atributová data a jejich integrace do GIS, geodatabáze, dotazy4.Prostorové operace (dotace 6/6) a.prohledávání a měření, překrytyb.operace s okolím -- analýza kontextu, spojitosti a síťové analýzy, frikční povrchyc.multikriteriální prostorové analýzy5.Prezentace výstupů z GIS (dotace 2/2) a.tvorba mapových kompozicb.zásady (tematické) kartografie, metody vizualizace6.Aplikace GIS (dotace 8/4) a.management GIS projektů, participativní a kolaborativní mapováníb.mobilní GIS, webové mapové servery a služby, geoportályc.precizní lesnictví, precizní zemědělstvíd.management přírodních zdrojů a rizik, mapování změn krajiny"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.definice a základní pojmyb.datové modelyc.struktura prostorových dat"
+    },
+    {
+      "label": "[section] Prostorová data",
+      "content": "a.definice a základní pojmyb.datové modelyc.struktura prostorových dat"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.datové zdroje v ČR a v zahraničíb.kvalita dat a jejich obsahová náplň, zdroje chybc.kartografická zobrazení a souřadnicové systémy"
+    },
+    {
+      "label": "[section] Analogová a digitální data a jejich integrace do GIS",
+      "content": "a.datové zdroje v ČR a v zahraničíb.kvalita dat a jejich obsahová náplň, zdroje chybc.kartografická zobrazení a souřadnicové systémy"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.globální navigační satelitní systémy, senzorové sítěb.dálkový průzkum Země -- multispektrální snímky a laserové skenováníc.digitalizace, georeferencování, využití analogových datd.digitální modely terénu a topografické analýzye.atributová data a jejich integrace do GIS, geodatabáze, dotazy"
+    },
+    {
+      "label": "[section] Technologie pořizování dat",
+      "content": "a.globální navigační satelitní systémy, senzorové sítěb.dálkový průzkum Země -- multispektrální snímky a laserové skenováníc.digitalizace, georeferencování, využití analogových datd.digitální modely terénu a topografické analýzye.atributová data a jejich integrace do GIS, geodatabáze, dotazy"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.prohledávání a měření, překrytyb.operace s okolím -- analýza kontextu, spojitosti a síťové analýzy, frikční povrchyc.multikriteriální prostorové analýzy"
+    },
+    {
+      "label": "[section] Prostorové operace",
+      "content": "a.prohledávání a měření, překrytyb.operace s okolím -- analýza kontextu, spojitosti a síťové analýzy, frikční povrchyc.multikriteriální prostorové analýzy"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.tvorba mapových kompozicb.zásady (tematické) kartografie, metody vizualizace"
+    },
+    {
+      "label": "[section] Prezentace výstupů z GIS",
+      "content": "a.tvorba mapových kompozicb.zásady (tematické) kartografie, metody vizualizace"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.management GIS projektů, participativní a kolaborativní mapováníb.mobilní GIS, webové mapové servery a služby, geoportályc.precizní lesnictví, precizní zemědělstvíd.management přírodních zdrojů a rizik, mapování změn krajiny"
+    },
+    {
+      "label": "[section] Aplikace GIS",
+      "content": "a.management GIS projektů, participativní a kolaborativní mapováníb.mobilní GIS, webové mapové servery a služby, geoportályc.precizní lesnictví, precizní zemědělstvíd.management přírodních zdrojů a rizik, mapování změn krajiny"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h0 hcvičení28 h20 hkonzultace16 h40 hpříprava na zkoušku50 h62 hpříprava na průběžné hodnocení8 h8 hpříprava na průběžný test10 h10 hCelkem140 h140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zápočet: splnění všech průběžných úkolů zadávaných na cvičení a zpracování finální zápočtové úlohy (samostatná práce multikriteriální analýzy) či individuální semestrální práce. Při flexibilní výuce studenti průběžně odevzdávají úkoly z jednotlivých cvičení do odevzdávárny v UIS a samostatně zpracují a odevzdají i finální/semestrální zápočtovou úlohu. Zkouška: Časově omezený elektronický test z přednášených okruhů v e-learningovém prostředí UIS. U každé otázky je zobrazen nápovědný text, jak ji vyplnit (kolik má správných odpovědí). Minimální hranice úspěšnosti je 50 % a všechny klasifikační stupně jsou rovnoměrně procenticky odstupňovány od minimální úspěšnosti (po 10 %)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumCelkem0 %0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:GAO, Jay. 2022. Fundamentals of spatial analysis and modelling. New York: CRC Press, 348 s. ISBN 978-1-032-11575-7. GIS Fundamentals: a first text on geographic information systems. 2019. 6. vyd. Ann Arbor: XanEdu, 764 s. ISBN 978-1-59399-552-2. The philosophy of GIS. 2019. Cham: Springer Nature Switzerland AG, 268 s. Springer geography. ISBN 978-3-030-16828-5.Doporučená:KLIMÁNEK, Martin. 2006. Digitální modely terénu. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 85 s. ISBN 80-7157-982-3. Základy práce s ArcGIS 10. 2012. 1. vyd. Brno: Mendelova univerzita v Brně, 150 s. ISBN 978-80-7375-595-9. Introduction to geospatial technologies. 2014. 2. vyd. New York: W. H. Freeman and company, 512 s. ISBN 978-1-4641-3345-9.HUANG, Qunying. 2024. Open GIS. Cham. ISBN 978-3-031-41748-1. https://doi.org/10.1007/978-3-031-41748-1.PETERSON, Gretchen N. 2021. GIS cartography: a guide to effective map design. Boca Raton: CRC Press, 318 s. ISBN 978-0-367-85794-3.WEGMANN, Martin; DECH, Stefan. 2020. Introduction to spatial data analysis: remote sensing and GIS with open source software. Exeter: Pelagic Publishing, 216 s. Data in the wild series. ISBN 978-1-78427-212-8."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "GAO, Jay. 2022. Fundamentals of spatial analysis and modelling. New York: CRC Press, 348 s. ISBN 978-1-032-11575-7. GIS Fundamentals: a first text on geographic information systems. 2019. 6. vyd. Ann Arbor: XanEdu, 764 s. ISBN 978-1-59399-552-2. The philosophy of GIS. 2019. Cham: Springer Nature Switzerland AG, 268 s. Springer geography. ISBN 978-3-030-16828-5."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "KLIMÁNEK, Martin. 2006. Digitální modely terénu. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 85 s. ISBN 80-7157-982-3. Základy práce s ArcGIS 10. 2012. 1. vyd. Brno: Mendelova univerzita v Brně, 150 s. ISBN 978-80-7375-595-9. Introduction to geospatial technologies. 2014. 2. vyd. New York: W. H. Freeman and company, 512 s. ISBN 978-1-4641-3345-9.HUANG, Qunying. 2024. Open GIS. Cham. ISBN 978-3-031-41748-1. https://doi.org/10.1007/978-3-031-41748-1.PETERSON, Gretchen N. 2021. GIS cartography: a guide to effective map design. Boca Raton: CRC Press, 318 s. ISBN 978-0-367-85794-3.WEGMANN, Martin; DECH, Stefan. 2020. Introduction to spatial data analysis: remote sensing and GIS with open source software. Exeter: Pelagic Publishing, 216 s. Data in the wild series. ISBN 978-1-78427-212-8."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-ARBO Arboristika, kombinovaná forma, počáteční období ZS 2023/2024Program B-ARBO Arboristika, prezenční forma, počáteční období ZS 2023/2024Program B-KRAJN Krajinářství, prezenční forma, počáteční období ZS 2024/2025Specializace B-LESN-TROP Lesnictví tropů a subtropů, prezenční forma, počáteční období ZS 2024/2025Specializace B-LESN-LES Lesnictví, prezenční forma, počáteční období ZS 2024/2025Specializace B-LESN-LES Lesnictví, kombinovaná forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "GIS"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Geoinformační systémy"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Geoinformation Systems"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 20/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Martin Klimánek, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Forest Management and Applied Geoinformatics (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Stanislav Herber (instructor)doc. Ing. Martin Klimánek, Ph.D. (examiner, lecturer, supervisor)Ing. Dominika Krausková (instructor)Ing. Petr Vahalík, Ph.D. (instructor, lecturer)Ing. Nikola Žižlavská (instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not State Bachelor Examination or now State Bachelor Examination"
+    },
+    {
+      "label": "1.",
+      "content": "Spatial data (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "definitions and terminology"
+    },
+    {
+      "label": "b.",
+      "content": "data models"
+    },
+    {
+      "label": "c.",
+      "content": "spatial data infrastructure"
+    },
+    {
+      "label": "2.",
+      "content": "Geospatial data and its integration to GIS (allowance 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "data sets in Czechia and abroad"
+    },
+    {
+      "label": "b.",
+      "content": "data quality and error propagation"
+    },
+    {
+      "label": "c.",
+      "content": "cartographic projections and coordinate systems"
+    },
+    {
+      "label": "3.",
+      "content": "Geodata input (allowance 6/12)"
+    },
+    {
+      "label": "a.",
+      "content": "global navigation satellite systems, sensor networks"
+    },
+    {
+      "label": "b.",
+      "content": "Remote Sensing - multispectral images and laser scanning"
+    },
+    {
+      "label": "c.",
+      "content": "digitalization, georeferencing, analogue data usage"
+    },
+    {
+      "label": "d.",
+      "content": "digital elevation models and topographical modeling"
+    },
+    {
+      "label": "e.",
+      "content": "attribute data and its integration, geodatabase and queries"
+    },
+    {
+      "label": "4.",
+      "content": "Spatial operations (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "location and measurement of distances, areas and perimeters, buffering"
+    },
+    {
+      "label": "b.",
+      "content": "neighbourhood operations, spread functions, friction surfaces and networking"
+    },
+    {
+      "label": "c.",
+      "content": "multicriterial spatial evaluation"
+    },
+    {
+      "label": "5.",
+      "content": "GIS outputs (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "map producing and compositions"
+    },
+    {
+      "label": "b.",
+      "content": "thematical cartography, visualization"
+    },
+    {
+      "label": "6.",
+      "content": "GIS applications (allowance 8/4)"
+    },
+    {
+      "label": "a.",
+      "content": "management of GIS projects, participative and collaborative mapping"
+    },
+    {
+      "label": "b.",
+      "content": "GIS for mobile devices, geoweb, geoportals"
+    },
+    {
+      "label": "c.",
+      "content": "precision forestry and agriculture"
+    },
+    {
+      "label": "d.",
+      "content": "management of natural resources, landscape formation and protection"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, SS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024, WS 2023/2024 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Geoinformační systémy"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Geoinformation Systems"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 20/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 20/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Martin Klimánek, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Forest Management and Applied Geoinformatics (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Stanislav Herber (instructor)doc. Ing. Martin Klimánek, Ph.D. (examiner, lecturer, supervisor)Ing. Dominika Krausková (instructor)Ing. Petr Vahalík, Ph.D. (instructor, lecturer)Ing. Nikola Žižlavská (instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not State Bachelor Examination or now State Bachelor Examination"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyTeacherEntryFrequencyCapacityNoteMonday11.00-12.50B03S. HerberSeminarEvery week20 Monday15.00-16.50B03N. ŽižlavskáSeminarEvery week20 Monday17.00-18.50B03N. ŽižlavskáSeminarEvery week20 Tuesday11.00-12.50B03D. KrauskováSeminarEvery week20 Tuesday13.00-14.50B03D. KrauskováSeminarEvery week20 Tuesday17.00-18.50B03P. VahalíkSeminarEvery week20opakujícíWednesday8.00-11.50B03B-ARBOB-LESN32not setLectureOccasionally26 Thursday11.00-12.50B03S. HerberSeminarEvery week20 Thursday13.00-14.50B03S. HerberSeminarEvery week20 Thursday15.00-16.50B32M. KlimánekLectureEvery week120"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Students will get the basic information about spatial data (geodata), geographical information systems (GIS) and main functions and analytical operations using in GIS; learn students the most important practical GIS skills."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Spatial data (allowance 2/2) a.definitions and terminologyb.data modelsc.spatial data infrastructure2.Geospatial data and its integration to GIS (allowance 4/2) a.data sets in Czechia and abroadb.data quality and error propagationc.cartographic projections and coordinate systems3.Geodata input (allowance 6/12) a.global navigation satellite systems, sensor networksb.Remote Sensing - multispectral images and laser scanningc.digitalization, georeferencing, analogue data usaged.digital elevation models and topographical modelinge.attribute data and its integration, geodatabase and queries4.Spatial operations (allowance 6/6) a.location and measurement of distances, areas and perimeters, bufferingb.neighbourhood operations, spread functions, friction surfaces and networkingc.multicriterial spatial evaluation5.GIS outputs (allowance 2/2) a.map producing and compositionsb.thematical cartography, visualization6.GIS applications (allowance 8/4) a.management of GIS projects, participative and collaborative mappingb.GIS for mobile devices, geoweb, geoportalsc.precision forestry and agricultured.management of natural resources, landscape formation and protection"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.definitions and terminologyb.data modelsc.spatial data infrastructure"
+    },
+    {
+      "label": "[section] Spatial data",
+      "content": "a.definitions and terminologyb.data modelsc.spatial data infrastructure"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.data sets in Czechia and abroadb.data quality and error propagationc.cartographic projections and coordinate systems"
+    },
+    {
+      "label": "[section] Geospatial data and its integration to GIS",
+      "content": "a.data sets in Czechia and abroadb.data quality and error propagationc.cartographic projections and coordinate systems"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.global navigation satellite systems, sensor networksb.Remote Sensing - multispectral images and laser scanningc.digitalization, georeferencing, analogue data usaged.digital elevation models and topographical modelinge.attribute data and its integration, geodatabase and queries"
+    },
+    {
+      "label": "[section] Geodata input",
+      "content": "a.global navigation satellite systems, sensor networksb.Remote Sensing - multispectral images and laser scanningc.digitalization, georeferencing, analogue data usaged.digital elevation models and topographical modelinge.attribute data and its integration, geodatabase and queries"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.location and measurement of distances, areas and perimeters, bufferingb.neighbourhood operations, spread functions, friction surfaces and networkingc.multicriterial spatial evaluation"
+    },
+    {
+      "label": "[section] Spatial operations",
+      "content": "a.location and measurement of distances, areas and perimeters, bufferingb.neighbourhood operations, spread functions, friction surfaces and networkingc.multicriterial spatial evaluation"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.map producing and compositionsb.thematical cartography, visualization"
+    },
+    {
+      "label": "[section] GIS outputs",
+      "content": "a.map producing and compositionsb.thematical cartography, visualization"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.management of GIS projects, participative and collaborative mappingb.GIS for mobile devices, geoweb, geoportalsc.precision forestry and agricultured.management of natural resources, landscape formation and protection"
+    },
+    {
+      "label": "[section] GIS applications",
+      "content": "a.management of GIS projects, participative and collaborative mappingb.GIS for mobile devices, geoweb, geoportalsc.precision forestry and agricultured.management of natural resources, landscape formation and protection"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h0 hpractice28 h20 hconsultation16 h40 hpreparation for exam50 h62 hpreparation for regular assessment8 h8 hpreparation for regular testing10 h10 hTotal140 h140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Pre-exam credit: fulfillment of all training tasks and defense of final credit task (individual work on multi-criteria analysis) or individual semester project. In case of flexible learning methods, students work continuously on individual tasks and submit the results into UIS Coursework submissions application, as well as the final course credit work. Exam: Time-limited electronic test from lectured topics in the UIS e-learning environment. For each question, a help text is displayed on how to complete it (how many correct answers it has). The minimum success threshold is 50 % and all classification levels are evenly graded in percentage from the minimum success (10 % each)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTotal0 %0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:GAO, Jay. 2022. Fundamentals of spatial analysis and modelling. New York: CRC Press, 348 p. ISBN 978-1-032-11575-7. GIS Fundamentals: a first text on geographic information systems. 2019. 6th ed. Ann Arbor: XanEdu, 764 p. ISBN 978-1-59399-552-2. The philosophy of GIS. 2019. Cham: Springer Nature Switzerland AG, 268 p. Springer geography. ISBN 978-3-030-16828-5.Recommended:KLIMÁNEK, Martin. 2006. Digitální modely terénu. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 85 p. ISBN 80-7157-982-3. Základy práce s ArcGIS 10. 2012. 1st ed. Brno: Mendelova univerzita v Brně, 150 p. ISBN 978-80-7375-595-9. Introduction to geospatial technologies. 2014. 2nd ed. New York: W. H. Freeman and company, 512 p. ISBN 978-1-4641-3345-9.HUANG, Qunying. 2024. Open GIS. Cham. ISBN 978-3-031-41748-1. https://doi.org/10.1007/978-3-031-41748-1.PETERSON, Gretchen N. 2021. GIS cartography: a guide to effective map design. Boca Raton: CRC Press, 318 p. ISBN 978-0-367-85794-3.WEGMANN, Martin; DECH, Stefan. 2020. Introduction to spatial data analysis: remote sensing and GIS with open source software. Exeter: Pelagic Publishing, 216 p. Data in the wild series. ISBN 978-1-78427-212-8."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "GAO, Jay. 2022. Fundamentals of spatial analysis and modelling. New York: CRC Press, 348 p. ISBN 978-1-032-11575-7. GIS Fundamentals: a first text on geographic information systems. 2019. 6th ed. Ann Arbor: XanEdu, 764 p. ISBN 978-1-59399-552-2. The philosophy of GIS. 2019. Cham: Springer Nature Switzerland AG, 268 p. Springer geography. ISBN 978-3-030-16828-5."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "KLIMÁNEK, Martin. 2006. Digitální modely terénu. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 85 p. ISBN 80-7157-982-3. Základy práce s ArcGIS 10. 2012. 1st ed. Brno: Mendelova univerzita v Brně, 150 p. ISBN 978-80-7375-595-9. Introduction to geospatial technologies. 2014. 2nd ed. New York: W. H. Freeman and company, 512 p. ISBN 978-1-4641-3345-9.HUANG, Qunying. 2024. Open GIS. Cham. ISBN 978-3-031-41748-1. https://doi.org/10.1007/978-3-031-41748-1.PETERSON, Gretchen N. 2021. GIS cartography: a guide to effective map design. Boca Raton: CRC Press, 318 p. ISBN 978-0-367-85794-3.WEGMANN, Martin; DECH, Stefan. 2020. Introduction to spatial data analysis: remote sensing and GIS with open source software. Exeter: Pelagic Publishing, 216 p. Data in the wild series. ISBN 978-1-78427-212-8."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-ARBO Arboristics, part-time form, initial period WS 2023/2024Programme B-ARBO Arboristics, full-time form, initial period WS 2023/2024Programme B-KRAJN Landscaping, full-time form, initial period WS 2024/2025Track B-LESN-TROP Forestry of Tropics and Subtropics, full-time form, initial period WS 2024/2025Track B-LESN-FOR Forestry, full-time form, initial period WS 2024/2025Track B-LESN-FOR Forestry, part-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:13:20",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

@@ -1,0 +1,621 @@
+{
+  "courseCode": "MMAZM",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "MMAZM"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Mikroskopické a zobrazovací metody"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Microscopic and imaging techniques"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět nemůže být studován během zahraniční mobility."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Petr Kalousek, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav biologie rostlin (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Petr Kalousek, Ph.D. (cvičící, garant, přednášející, zkoušející)RNDr. Lenka Vaňková, Ph.D. (cvičící)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do předmětu, světelná mikroskopie (dotace 3/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Světelný mikroskop, optické principy"
+    },
+    {
+      "label": "b.",
+      "content": "Jednotlivé součásti mikroskopu, konstrukce a funkce"
+    },
+    {
+      "label": "c.",
+      "content": "Nastavování mikroskopu"
+    },
+    {
+      "label": "d.",
+      "content": "Typy světelných mikroskopů podle konstrukce, využití"
+    },
+    {
+      "label": "2.",
+      "content": "Příprava preparátů pro světelnou mikroskopii (dotace 3/17)"
+    },
+    {
+      "label": "a.",
+      "content": "Typy mikroskopických preparátů"
+    },
+    {
+      "label": "b.",
+      "content": "Fixace vzorků, úpravy vzorků před řezáním"
+    },
+    {
+      "label": "c.",
+      "content": "Řezání objektů pro přípravu preparátů"
+    },
+    {
+      "label": "d.",
+      "content": "Barvení preparátů"
+    },
+    {
+      "label": "e.",
+      "content": "Uzavírání preparátů"
+    },
+    {
+      "label": "3.",
+      "content": "Mikroskopie v temném poli, fázově kontrastní mikroskopie, Diferenciální interferenční kontrast (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam, princip, příslušná doplňková zařízení ke světelným mikroskopům"
+    },
+    {
+      "label": "b.",
+      "content": "Příprava doplňkových zařízení k práci"
+    },
+    {
+      "label": "4.",
+      "content": "Měření a počítání mikroskopických objektů (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam, příslušná doplňková zařízení ke světelným mikroskopům"
+    },
+    {
+      "label": "b.",
+      "content": "Cejchování okulárového mikrometru"
+    },
+    {
+      "label": "5.",
+      "content": "Mikrofotografie a analýza obrazu v mikroskopii (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Principy. Pořizování snímku"
+    },
+    {
+      "label": "b.",
+      "content": "Digitální mikrofotografie"
+    },
+    {
+      "label": "c.",
+      "content": "Software"
+    },
+    {
+      "label": "6.",
+      "content": "Fluorescenční mikroskopie (dotace 1/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Fluorescence. Fluorescenční barviva, fluorescenční proteiny, využití"
+    },
+    {
+      "label": "b.",
+      "content": "Fluorescenční mikroskop - složení, principy"
+    },
+    {
+      "label": "c.",
+      "content": "Praktické využití fluorescenční mikroskopie"
+    },
+    {
+      "label": "7.",
+      "content": "Imunofluorescenční metody (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Princip, využití"
+    },
+    {
+      "label": "b.",
+      "content": "Příprava preparátů"
+    },
+    {
+      "label": "8.",
+      "content": "Využití hybridizačních sond v mikroskopii (dotace 1/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Metoda FISH, princip, využití"
+    },
+    {
+      "label": "b.",
+      "content": "Metoda GISH, princip, využití"
+    },
+    {
+      "label": "c.",
+      "content": "Metoda PRINS, princip, využití"
+    },
+    {
+      "label": "9.",
+      "content": "Konfokální mikroskopie (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Konfokální mikroskop – typy, principy, využití"
+    },
+    {
+      "label": "b.",
+      "content": "Režimy snímání optických řezů"
+    },
+    {
+      "label": "c.",
+      "content": "Zpracování a prezentace snímků"
+    },
+    {
+      "label": "10.",
+      "content": "Elektronová mikroskopie (dotace 1/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Typy elektronových mikroskopů podle konstrukce, principy, využití"
+    },
+    {
+      "label": "b.",
+      "content": "Příprava preparátů pro elektronovou mikroskopii"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "50 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "50 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, LS 2025/2026, LS 2024/2025, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Mikroskopické a zobrazovací metody"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Microscopic and imaging techniques"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět nemůže být studován během zahraniční mobility."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Petr Kalousek, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav biologie rostlin (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Petr Kalousek, Ph.D. (cvičící, garant, přednášející, zkoušející)RNDr. Lenka Vaňková, Ph.D. (cvičící)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostSkupinaVyučujícíAkceČetnostKapacitaStředa15.00-15.50M2.11P. KalousekPřednáškaKaždý týden50Středa16.00-18.50M2.13P. Kalousek, L. VaňkováCvičeníKaždý týden13Čtvrtek8.00-10.50M2.13P. Kalousek, L. VaňkováCvičeníKaždý týden13Pátek7.00-9.50M2.13P. Kalousek, L. VaňkováCvičeníKaždý týden13Pátek10.00-12.50M2.1399P. Kalousek, L. VaňkováCvičeníKaždý týden13"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Studenti získají znalosti týkající se světelné, fluorescenční, konfokální, rastrovací a transmisní elektronové mikroskopie a analýzy obrazu. Teoretické znalosti povedou k nabytí těchto dovedností: příprava nativních, roztlakových, zmrazených a trvalých preparátů z rostlinných buněk, pletiv a orgánů a jejich pozorování s využitím uvedených mikroskopických technik, hodnocení pozorování a pořizování dokumentace."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do předmětu, světelná mikroskopie (dotace 3/3) a.Světelný mikroskop, optické principyb.Jednotlivé součásti mikroskopu, konstrukce a funkcec.Nastavování mikroskopud.Typy světelných mikroskopů podle konstrukce, využití2.Příprava preparátů pro světelnou mikroskopii (dotace 3/17) a.Typy mikroskopických preparátůb.Fixace vzorků, úpravy vzorků před řezánímc.Řezání objektů pro přípravu preparátůd.Barvení preparátůe.Uzavírání preparátů3.Mikroskopie v temném poli, fázově kontrastní mikroskopie, Diferenciální interferenční kontrast (dotace 1/3) a.Význam, princip, příslušná doplňková zařízení ke světelným mikroskopůmb.Příprava doplňkových zařízení k práci4.Měření a počítání mikroskopických objektů (dotace 1/3) a.Význam, příslušná doplňková zařízení ke světelným mikroskopůmb.Cejchování okulárového mikrometru5.Mikrofotografie a analýza obrazu v mikroskopii (dotace 1/3) a.Principy. Pořizování snímkub.Digitální mikrofotografiec.Software6.Fluorescenční mikroskopie (dotace 1/4) a.Fluorescence. Fluorescenční barviva, fluorescenční proteiny, využitíb.Fluorescenční mikroskop - složení, principyc.Praktické využití fluorescenční mikroskopie7.Imunofluorescenční metody (dotace 1/3) a.Princip, využitíb.Příprava preparátů8.Využití hybridizačních sond v mikroskopii (dotace 1/0) a.Metoda FISH, princip, využitíb.Metoda GISH, princip, využitíc.Metoda PRINS, princip, využití9.Konfokální mikroskopie (dotace 1/3) a.Konfokální mikroskop – typy, principy, využitíb.Režimy snímání optických řezůc.Zpracování a prezentace snímků10.Elektronová mikroskopie (dotace 1/3) a.Typy elektronových mikroskopů podle konstrukce, principy, využitíb.Příprava preparátů pro elektronovou mikroskopii"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Světelný mikroskop, optické principyb.Jednotlivé součásti mikroskopu, konstrukce a funkcec.Nastavování mikroskopud.Typy světelných mikroskopů podle konstrukce, využití"
+    },
+    {
+      "label": "[section] Úvod do předmětu, světelná mikroskopie",
+      "content": "a.Světelný mikroskop, optické principyb.Jednotlivé součásti mikroskopu, konstrukce a funkcec.Nastavování mikroskopud.Typy světelných mikroskopů podle konstrukce, využití"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Typy mikroskopických preparátůb.Fixace vzorků, úpravy vzorků před řezánímc.Řezání objektů pro přípravu preparátůd.Barvení preparátůe.Uzavírání preparátů"
+    },
+    {
+      "label": "[section] Příprava preparátů pro světelnou mikroskopii",
+      "content": "a.Typy mikroskopických preparátůb.Fixace vzorků, úpravy vzorků před řezánímc.Řezání objektů pro přípravu preparátůd.Barvení preparátůe.Uzavírání preparátů"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Význam, princip, příslušná doplňková zařízení ke světelným mikroskopůmb.Příprava doplňkových zařízení k práci"
+    },
+    {
+      "label": "[section] Mikroskopie v temném poli, fázově kontrastní mikroskopie, Diferenciální interferenční kontrast",
+      "content": "a.Význam, princip, příslušná doplňková zařízení ke světelným mikroskopůmb.Příprava doplňkových zařízení k práci"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Význam, příslušná doplňková zařízení ke světelným mikroskopůmb.Cejchování okulárového mikrometru"
+    },
+    {
+      "label": "[section] Měření a počítání mikroskopických objektů",
+      "content": "a.Význam, příslušná doplňková zařízení ke světelným mikroskopůmb.Cejchování okulárového mikrometru"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Principy. Pořizování snímkub.Digitální mikrofotografiec.Software"
+    },
+    {
+      "label": "[section] Mikrofotografie a analýza obrazu v mikroskopii",
+      "content": "a.Principy. Pořizování snímkub.Digitální mikrofotografiec.Software"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Fluorescence. Fluorescenční barviva, fluorescenční proteiny, využitíb.Fluorescenční mikroskop - složení, principyc.Praktické využití fluorescenční mikroskopie"
+    },
+    {
+      "label": "[section] Fluorescenční mikroskopie",
+      "content": "a.Fluorescence. Fluorescenční barviva, fluorescenční proteiny, využitíb.Fluorescenční mikroskop - složení, principyc.Praktické využití fluorescenční mikroskopie"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Princip, využitíb.Příprava preparátů"
+    },
+    {
+      "label": "[section] Imunofluorescenční metody",
+      "content": "a.Princip, využitíb.Příprava preparátů"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Metoda FISH, princip, využitíb.Metoda GISH, princip, využitíc.Metoda PRINS, princip, využití"
+    },
+    {
+      "label": "[section] Využití hybridizačních sond v mikroskopii",
+      "content": "a.Metoda FISH, princip, využitíb.Metoda GISH, princip, využitíc.Metoda PRINS, princip, využití"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Konfokální mikroskop – typy, principy, využitíb.Režimy snímání optických řezůc.Zpracování a prezentace snímků"
+    },
+    {
+      "label": "[section] Konfokální mikroskopie",
+      "content": "a.Konfokální mikroskop – typy, principy, využitíb.Režimy snímání optických řezůc.Zpracování a prezentace snímků"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Typy elektronových mikroskopů podle konstrukce, principy, využitíb.Příprava preparátů pro elektronovou mikroskopii"
+    },
+    {
+      "label": "[section] Elektronová mikroskopie",
+      "content": "a.Typy elektronových mikroskopů podle konstrukce, principy, využitíb.Příprava preparátů pro elektronovou mikroskopii"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška12 hcvičení36 hodborná exkurze2 hkonzultace6 hpříprava na zkoušku70 hzpracování protokolů14 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Pro získání zápočtu je nutná účast na cvičeních a vypracování protokolů z jednotlivých úloh. Závěrečná zkouška zahrnuje písemnou a ústní část. Dvaceti minutový test obsahuje 15 otázek, pro úspěšné absolvování testu je nutné dosáhnout minimálně 60 % z maximálního počtu bodů. Následující ústní zkouška zahrnuje dvě otázky z tematických okruhů uvedených v sylabu předmětu (každá otázka musí být alespoň částečně zodpovězena)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAbsolvování závěrečného testu50 %Absolvování závěrečné ústní zkoušky50 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Doporučená:KNOZ, J., OPRAVILOVÁ V. Základy mikroskopické techniky. 1. vyd. Brno: Masarykova univerzita. 1992LACEY, A. J.: Light microscopy in biology: a practical approach. Oxford. Oxford University Press. 1999PALEČEK, J.: Biologie buňky I. - Základy mikroskopické cytologie. Praha. Karolinum. 1996PALEČEK, J.: Biologie buňky II. -Základy mikroskopické histologie. Praha. Karolinum. 1996SPECTOR, D. L.,GOLDMAN, R. D.,LEINWAND, L. A. Cells: A Laboratory Manual -Vol.2: Light Microscopy and Cell Structure. New York. CSHL Press. 1997"
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "KNOZ, J., OPRAVILOVÁ V. Základy mikroskopické techniky. 1. vyd. Brno: Masarykova univerzita. 1992LACEY, A. J.: Light microscopy in biology: a practical approach. Oxford. Oxford University Press. 1999PALEČEK, J.: Biologie buňky I. - Základy mikroskopické cytologie. Praha. Karolinum. 1996PALEČEK, J.: Biologie buňky II. -Základy mikroskopické histologie. Praha. Karolinum. 1996SPECTOR, D. L.,GOLDMAN, R. D.,LEINWAND, L. A. Cells: A Laboratory Manual -Vol.2: Light Microscopy and Cell Structure. New York. CSHL Press. 1997"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-MBI Molekulární biologie a biotechnologie, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "MMAZM"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Mikroskopické a zobrazovací metody"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Microscopic and imaging techniques"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The subject cannot be studied during international mobilities."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Petr Kalousek, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Plant Biology (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Petr Kalousek, Ph.D. (examiner, instructor, lecturer, supervisor)RNDr. Lenka Vaňková, Ph.D. (instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "Final test",
+      "content": "50 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "50 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, SS 2025/2026, SS 2024/2025, WS 2024/2025, WS 2023/2024, WS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Mikroskopické a zobrazovací metody"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Microscopic and imaging techniques"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: -- item not defined --"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The subject cannot be studied during international mobilities."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Petr Kalousek, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Plant Biology (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Petr Kalousek, Ph.D. (examiner, instructor, lecturer, supervisor)RNDr. Lenka Vaňková, Ph.D. (instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomGroupTeacherEntryFrequencyCapacityWednesday15.00-15.50M2.11P. KalousekLectureEvery week50Wednesday16.00-18.50M2.13P. Kalousek, L. VaňkováSeminarEvery week13Thursday8.00-10.50M2.13P. Kalousek, L. VaňkováSeminarEvery week13Friday7.00-9.50M2.13P. Kalousek, L. VaňkováSeminarEvery week13Friday10.00-12.50M2.1399P. Kalousek, L. VaňkováSeminarEvery week13"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Students will acquire knowledge of light, fluorescence, confocal, scanning and transmission electron microscopy and image analysis. Theoretical knowledge will lead to the acquisition of the following skills: preparation of rapid, squash, frozen and permanent slide preparations from plant cells, tissues and organs and their observation using the abovementioned microscopic techniques, evaluation of observations and acquisition of documentation."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "The content of the course has not been saved in this language version."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture12 hpractice36 hprofessional educational excursion2 hconsultation6 hpreparation for exam70 helaboration of reports14 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "In order to obtain credit, it is necessary to attend the exercises and prepare protocols from individual tasks. The final exam includes a written and an oral part. The twenty-minute test contains 15 questions, to pass the test it is necessary to achieve at least 60% of the maximum number of points. The following oral exam includes two questions from the thematic topics listed in the course syllabus (each question must be at least partially answered)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceFinal test50 %Final oral exam50 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Recommended:KNOZ, J., OPRAVILOVÁ V. Základy mikroskopické techniky. 1. vyd. Brno: Masarykova univerzita. 1992LACEY, A. J.: Light microscopy in biology: a practical approach. Oxford. Oxford University Press. 1999PALEČEK, J.: Biologie buňky I. - Základy mikroskopické cytologie. Praha. Karolinum. 1996PALEČEK, J.: Biologie buňky II. -Základy mikroskopické histologie. Praha. Karolinum. 1996SPECTOR, D. L.,GOLDMAN, R. D.,LEINWAND, L. A. Cells: A Laboratory Manual -Vol.2: Light Microscopy and Cell Structure. New York. CSHL Press. 1997"
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "KNOZ, J., OPRAVILOVÁ V. Základy mikroskopické techniky. 1. vyd. Brno: Masarykova univerzita. 1992LACEY, A. J.: Light microscopy in biology: a practical approach. Oxford. Oxford University Press. 1999PALEČEK, J.: Biologie buňky I. - Základy mikroskopické cytologie. Praha. Karolinum. 1996PALEČEK, J.: Biologie buňky II. -Základy mikroskopické histologie. Praha. Karolinum. 1996SPECTOR, D. L.,GOLDMAN, R. D.,LEINWAND, L. A. Cells: A Laboratory Manual -Vol.2: Light Microscopy and Cell Structure. New York. CSHL Press. 1997"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-MBI Molecular Biology and Biotechnology, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:30:18",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

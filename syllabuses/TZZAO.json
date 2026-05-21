@@ -1,0 +1,829 @@
+{
+  "courseCode": "TZZAO",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "TZZAO"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Technika zpracování zahradnických odpadů"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Technology of Processing Horticulture Waste"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Ing. Patrik Burg, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav zahradnické techniky (ZF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "prof. Ing. Patrik Burg, Ph.D. (garant, přednášející, tutor, zkoušející)Ing. Alice Čížková, Ph.D. (cvičící, přednášející)prof. Ing. Pavel Zemánek, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do předmětu (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Vyváženost agroekosystému, úloha organické hmoty v půdě, způsoby využití BDO, anaerobní biodegradace, aerobní biodegradace, fáze kompostovacího procesu"
+    },
+    {
+      "label": "2.",
+      "content": "Faktory ovlivňující proces kompostování (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Poměr C:N, teplota, vlhkost, provzdušněnost, pH, možnosti jejich monitorování a regulace"
+    },
+    {
+      "label": "b.",
+      "content": "Rozložitelnost biopolymerů v kompostovacím procesu (Uplatnění výsledků z projektu IGA - ZF/2016 - AP008)"
+    },
+    {
+      "label": "3.",
+      "content": "Optimalizace surovinové skladby kompostové zakládky (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "případová studie - praktický výpočet"
+    },
+    {
+      "label": "4.",
+      "content": "Zahradnické odpady (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Rozdělení a stručná charakteristika nejčastěji uplatňovaných BDO (listí, odpadní dřevo, atd.)"
+    },
+    {
+      "label": "b.",
+      "content": "případová studie -- sezónnost, bilance produkce BDO v dané oblasti"
+    },
+    {
+      "label": "5.",
+      "content": "Uplatnění logistiky při návrhu a provozu komostáren (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam logistiky, logistické metody, materiálový tok, logistické řetězce"
+    },
+    {
+      "label": "b.",
+      "content": "Případová studie -- praktická aplikace logistických metod, návrh na umístění kompostárny"
+    },
+    {
+      "label": "6.",
+      "content": "Kompostovaní technologie (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Plošné zakládky, pásové zakládky, intenzivní kompostovaní technologie"
+    },
+    {
+      "label": "b.",
+      "content": "(Obsahová náplň přednášky vychází z řešení výzkumného projektu IGA-ZF/2019–AP011 \"Hodnocení stupně rozpadu částic při kompostování\")"
+    },
+    {
+      "label": "7.",
+      "content": "Strojní linky pro kompostování (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Linky pro výrobu hrubého a jemného kompostu, případová studie -- návrh linky pro kompostování"
+    },
+    {
+      "label": "8.",
+      "content": "Drtiče (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam a charakteristika procesu, rozdělení, pracovní orgány, pomaluběžné drtiče, rychloběžné drtiče"
+    },
+    {
+      "label": "9.",
+      "content": "Štěpkovače (dotace 2/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Překopávače kompostů (dotace 2/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Překopávače kompostů (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Popis konstrukčních řešení jednotlivých typů, stanovení výkonnosti, provozní problematika"
+    },
+    {
+      "label": "12.",
+      "content": "Separační zařízení (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "význam, principy separačních a třídících mechanismů, rozdělení, pracovní orgány, vibrační síta, rotační třídiče, třídiče s rotačními rošty, odlučovače"
+    },
+    {
+      "label": "13.",
+      "content": "Legislativa a marketing kompostování (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Přehled právních předpisů a norem, hlavní marketingové zásady"
+    },
+    {
+      "label": "14.",
+      "content": "Terénní exkurze (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Návštěva kompostárenských provozoven (2-3)"
+    },
+    {
+      "label": "b.",
+      "content": "Praktické ukázky sortimentu měřícího a laboratorního vybavení kompostárny (Projekt IRP kategorie B – 2018 - Zkvalitnění praktické výuky předmětu Technika pro zpracování zahradnických odpadů (TZZO a TZZAO))."
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2020/2021, LS 2019/2020, LS 2018/2019 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Technika zpracování zahradnických odpadů"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Technology of Processing Horticulture Waste"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Ing. Patrik Burg, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav zahradnické techniky (ZF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: prof. Ing. Patrik Burg, Ph.D. (garant, přednášející, tutor, zkoušející)Ing. Alice Čížková, Ph.D. (cvičící, přednášející)prof. Ing. Pavel Zemánek, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPátek8.00-15.50Q01.02P. Zemánek, P. Burg, A. ČížkováPřednáškaNepravidelně20Pátek8.00-15.50Q01.02A. Čížková, P. ZemánekCvičeníNepravidelně20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Seznámit posluchače s problematikou kompostování odpadů vznikajících v zahradnictví a komunální sféře z pohledu technologických procesů a uplatňované mechanizace."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do předmětu (dotace 2/0) a.Vyváženost agroekosystému, úloha organické hmoty v půdě, způsoby využití BDO, anaerobní biodegradace, aerobní biodegradace, fáze kompostovacího procesu2.Faktory ovlivňující proces kompostování (dotace 2/2) a.Poměr C:N, teplota, vlhkost, provzdušněnost, pH, možnosti jejich monitorování a regulaceb.Rozložitelnost biopolymerů v kompostovacím procesu (Uplatnění výsledků z projektu IGA - ZF/2016 - AP008)3.Optimalizace surovinové skladby kompostové zakládky (dotace 0/2) a.případová studie - praktický výpočet4.Zahradnické odpady (dotace 2/2) a.Rozdělení a stručná charakteristika nejčastěji uplatňovaných BDO (listí, odpadní dřevo, atd.) b.případová studie -- sezónnost, bilance produkce BDO v dané oblasti5.Uplatnění logistiky při návrhu a provozu komostáren (dotace 4/4) a.Význam logistiky, logistické metody, materiálový tok, logistické řetězceb.Případová studie -- praktická aplikace logistických metod, návrh na umístění kompostárny6.Kompostovaní technologie (dotace 2/2) a.Plošné zakládky, pásové zakládky, intenzivní kompostovaní technologieb.(Obsahová náplň přednášky vychází z řešení výzkumného projektu IGA-ZF/2019–AP011 \"Hodnocení stupně rozpadu částic při kompostování\")7.Strojní linky pro kompostování (dotace 2/2) a.Linky pro výrobu hrubého a jemného kompostu, případová studie -- návrh linky pro kompostování8.Drtiče (dotace 2/2) a.Význam a charakteristika procesu, rozdělení, pracovní orgány, pomaluběžné drtiče, rychloběžné drtiče9.Štěpkovače (dotace 2/2) a.Význam a charakteristika procesu, rozdělení, pracovní orgány10.Překopávače kompostů (dotace 2/2) a.Význam a charakteristika procesu, rozdělení, pracovní orgány11.Překopávače kompostů (dotace 2/2) a.Popis konstrukčních řešení jednotlivých typů, stanovení výkonnosti, provozní problematika12.Separační zařízení (dotace 2/2) a.význam, principy separačních a třídících mechanismů, rozdělení, pracovní orgány, vibrační síta, rotační třídiče, třídiče s rotačními rošty, odlučovače13.Legislativa a marketing kompostování (dotace 2/2) a.Přehled právních předpisů a norem, hlavní marketingové zásady14.Terénní exkurze (dotace 2/6) a.Návštěva kompostárenských provozoven (2-3)b.Praktické ukázky sortimentu měřícího a laboratorního vybavení kompostárny (Projekt IRP kategorie B – 2018 - Zkvalitnění praktické výuky předmětu Technika pro zpracování zahradnických odpadů (TZZO a TZZAO))."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Vyváženost agroekosystému, úloha organické hmoty v půdě, způsoby využití BDO, anaerobní biodegradace, aerobní biodegradace, fáze kompostovacího procesu"
+    },
+    {
+      "label": "[section] Úvod do předmětu",
+      "content": "a.Vyváženost agroekosystému, úloha organické hmoty v půdě, způsoby využití BDO, anaerobní biodegradace, aerobní biodegradace, fáze kompostovacího procesu"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Poměr C:N, teplota, vlhkost, provzdušněnost, pH, možnosti jejich monitorování a regulaceb.Rozložitelnost biopolymerů v kompostovacím procesu (Uplatnění výsledků z projektu IGA - ZF/2016 - AP008)"
+    },
+    {
+      "label": "[section] Faktory ovlivňující proces kompostování",
+      "content": "a.Poměr C:N, teplota, vlhkost, provzdušněnost, pH, možnosti jejich monitorování a regulaceb.Rozložitelnost biopolymerů v kompostovacím procesu (Uplatnění výsledků z projektu IGA - ZF/2016 - AP008)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.případová studie - praktický výpočet"
+    },
+    {
+      "label": "[section] Optimalizace surovinové skladby kompostové zakládky",
+      "content": "a.případová studie - praktický výpočet"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Rozdělení a stručná charakteristika nejčastěji uplatňovaných BDO (listí, odpadní dřevo, atd.) b.případová studie -- sezónnost, bilance produkce BDO v dané oblasti"
+    },
+    {
+      "label": "[section] Zahradnické odpady",
+      "content": "a.Rozdělení a stručná charakteristika nejčastěji uplatňovaných BDO (listí, odpadní dřevo, atd.) b.případová studie -- sezónnost, bilance produkce BDO v dané oblasti"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Význam logistiky, logistické metody, materiálový tok, logistické řetězceb.Případová studie -- praktická aplikace logistických metod, návrh na umístění kompostárny"
+    },
+    {
+      "label": "[section] Uplatnění logistiky při návrhu a provozu komostáren",
+      "content": "a.Význam logistiky, logistické metody, materiálový tok, logistické řetězceb.Případová studie -- praktická aplikace logistických metod, návrh na umístění kompostárny"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Plošné zakládky, pásové zakládky, intenzivní kompostovaní technologieb.(Obsahová náplň přednášky vychází z řešení výzkumného projektu IGA-ZF/2019–AP011 \"Hodnocení stupně rozpadu částic při kompostování\")"
+    },
+    {
+      "label": "[section] Kompostovaní technologie",
+      "content": "a.Plošné zakládky, pásové zakládky, intenzivní kompostovaní technologieb.(Obsahová náplň přednášky vychází z řešení výzkumného projektu IGA-ZF/2019–AP011 \"Hodnocení stupně rozpadu částic při kompostování\")"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Linky pro výrobu hrubého a jemného kompostu, případová studie -- návrh linky pro kompostování"
+    },
+    {
+      "label": "[section] Strojní linky pro kompostování",
+      "content": "a.Linky pro výrobu hrubého a jemného kompostu, případová studie -- návrh linky pro kompostování"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Význam a charakteristika procesu, rozdělení, pracovní orgány, pomaluběžné drtiče, rychloběžné drtiče"
+    },
+    {
+      "label": "[section] Drtiče",
+      "content": "a.Význam a charakteristika procesu, rozdělení, pracovní orgány, pomaluběžné drtiče, rychloběžné drtiče"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Význam a charakteristika procesu, rozdělení, pracovní orgány"
+    },
+    {
+      "label": "[section] Štěpkovače",
+      "content": "a.Význam a charakteristika procesu, rozdělení, pracovní orgány"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Význam a charakteristika procesu, rozdělení, pracovní orgány"
+    },
+    {
+      "label": "[section] Překopávače kompostů",
+      "content": "a.Význam a charakteristika procesu, rozdělení, pracovní orgány"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Popis konstrukčních řešení jednotlivých typů, stanovení výkonnosti, provozní problematika"
+    },
+    {
+      "label": "[section] Překopávače kompostů",
+      "content": "a.Popis konstrukčních řešení jednotlivých typů, stanovení výkonnosti, provozní problematika"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.význam, principy separačních a třídících mechanismů, rozdělení, pracovní orgány, vibrační síta, rotační třídiče, třídiče s rotačními rošty, odlučovače"
+    },
+    {
+      "label": "[section] Separační zařízení",
+      "content": "a.význam, principy separačních a třídících mechanismů, rozdělení, pracovní orgány, vibrační síta, rotační třídiče, třídiče s rotačními rošty, odlučovače"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Přehled právních předpisů a norem, hlavní marketingové zásady"
+    },
+    {
+      "label": "[section] Legislativa a marketing kompostování",
+      "content": "a.Přehled právních předpisů a norem, hlavní marketingové zásady"
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Návštěva kompostárenských provozoven (2-3)b.Praktické ukázky sortimentu měřícího a laboratorního vybavení kompostárny (Projekt IRP kategorie B – 2018 - Zkvalitnění praktické výuky předmětu Technika pro zpracování zahradnických odpadů (TZZO a TZZAO))."
+    },
+    {
+      "label": "[section] Terénní exkurze",
+      "content": "a.Návštěva kompostárenských provozoven (2-3)b.Praktické ukázky sortimentu měřícího a laboratorního vybavení kompostárny (Projekt IRP kategorie B – 2018 - Zkvalitnění praktické výuky předmětu Technika pro zpracování zahradnických odpadů (TZZO a TZZAO))."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení24 hodborná exkurze4 hpříprava na zkoušku40 hpříprava prezentace4 hzpracování projektů40 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zkouška se skládá ze dvou částí, písemné a ústní. Písemnou část představuje test ve formě otázek a krátkých odpovědí. Minimální úspěšnost 60%."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:ZEMÁNEK, Pavel a kol. 2010. Biologicky rozložitelné odpady a kompostování. 1. vyd. Praha: Výzkumný ústav zemědělské techniky, 113 s. ISBN 978-80-86884-52-3.ZEMÁNEK, Pavel; BURG, Patrik; MICHÁLEK, Milan. 2012. Technika pro zpracování zahradnických odpadů - návody do cvičení. http://is.mendelu.cz (veřejná knihovna e-objektů).PLÍVA, Petr. 2016. Kompostování a kompostárny: Petr Plíva, Vlastimil Altmann, Aleš Hanč, Květuše hejátková, Amitava Roy, Jiří Souček, Lucie Valentová. 1. vyd. Praha: Vydavatelství Profi Press, 149 s. ISBN 978-80-86726-74-8.PLÍVA, Petr a kol. 2009. Kompostování v pásových hromadách na volné ploše. 1. vyd. Praha: Profi Press, 136 s. ISBN 978-80-86726-32-8.ZEMÁNEK, Pavel; HEJÁTKOVÁ, Květuše; PLÍVA, Petr; JELÍNEK, Antonín. 2003. Faremní kompost. Praha: VUZT Praha, 62 s. ISBN 80-238-9749-7.EPSTEIN, E. 2000. The Science of Composting. Lancaster - Basel: Publishing Technomic."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "ZEMÁNEK, Pavel a kol. 2010. Biologicky rozložitelné odpady a kompostování. 1. vyd. Praha: Výzkumný ústav zemědělské techniky, 113 s. ISBN 978-80-86884-52-3.ZEMÁNEK, Pavel; BURG, Patrik; MICHÁLEK, Milan. 2012. Technika pro zpracování zahradnických odpadů - návody do cvičení. http://is.mendelu.cz (veřejná knihovna e-objektů).PLÍVA, Petr. 2016. Kompostování a kompostárny: Petr Plíva, Vlastimil Altmann, Aleš Hanč, Květuše hejátková, Amitava Roy, Jiří Souček, Lucie Valentová. 1. vyd. Praha: Vydavatelství Profi Press, 149 s. ISBN 978-80-86726-74-8.PLÍVA, Petr a kol. 2009. Kompostování v pásových hromadách na volné ploše. 1. vyd. Praha: Profi Press, 136 s. ISBN 978-80-86726-32-8.ZEMÁNEK, Pavel; HEJÁTKOVÁ, Květuše; PLÍVA, Petr; JELÍNEK, Antonín. 2003. Faremní kompost. Praha: VUZT Praha, 62 s. ISBN 80-238-9749-7.EPSTEIN, E. 2000. The Science of Composting. Lancaster - Basel: Publishing Technomic."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-OHO Odpadové hospodářství, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "TZZAO"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Technika zpracování zahradnických odpadů"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Technology of Processing Horticulture Waste"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Ing. Patrik Burg, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Horticultural Machinery (FH)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "prof. Ing. Patrik Burg, Ph.D. (examiner, lecturer, supervisor, tutor)Ing. Alice Čížková, Ph.D. (instructor, lecturer)prof. Ing. Pavel Zemánek, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to course (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Agroecosystem balance, the role of soil organic matter, uses BDO, anaerobic biodegradation, aerobic biodegradation, phase composting process"
+    },
+    {
+      "label": "2.",
+      "content": "Factors affecting the composting process (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "The ratio C: N, temperature, humidity, aeration, pH, the possibility of monitoring and control"
+    },
+    {
+      "label": "3.",
+      "content": "Optimization of raw material compositions compost fill (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Case study - a practical calculation"
+    },
+    {
+      "label": "4.",
+      "content": "Horticultural waste (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Classification and brief description often applied BDO (leaves, wood waste, etc.)"
+    },
+    {
+      "label": "b.",
+      "content": "Case Study - seasonality, balance BDO production in the area"
+    },
+    {
+      "label": "5.",
+      "content": "The application of logistics in the design and operation the composting (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "The importance of logistics, logistics methods, material flow, logistics chain"
+    },
+    {
+      "label": "b.",
+      "content": "Case study - a practical application of logistics methods, the proposed location of the composting"
+    },
+    {
+      "label": "6.",
+      "content": "Composting technology (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Surface fill, the fill conveyor, intensive composting technology"
+    },
+    {
+      "label": "7.",
+      "content": "Machine lines for composting (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Lines for production of coarse and fine compost, a case study - design lines for composting"
+    },
+    {
+      "label": "8.",
+      "content": "Crushers (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "The importance and process characterization, classification, working bodies, slow-speed shredders, high-speed shredder"
+    },
+    {
+      "label": "9.",
+      "content": "Chippers (allowance 2/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Compost turner (allowance 2/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Compost turner (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Description of different types of design solutions, determination of performance, operational issues"
+    },
+    {
+      "label": "12.",
+      "content": "Separation equipment (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Importance, the principles of separation and sorting mechanisms allocation, working bodies, vibrating screens, rotary screens, screens with rotating grates, traps"
+    },
+    {
+      "label": "13.",
+      "content": "Legislation and Marketing of composting (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Overview of legislation and standards, the main principles of marketing"
+    },
+    {
+      "label": "14.",
+      "content": "Field trips (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Visit plants od composting (2-3)"
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2020/2021, SS 2019/2020, SS 2018/2019 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Technika zpracování zahradnických odpadů"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Technology of Processing Horticulture Waste"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Ing. Patrik Burg, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Horticultural Machinery (FH)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. Ing. Patrik Burg, Ph.D. (examiner, lecturer, supervisor, tutor)Ing. Alice Čížková, Ph.D. (instructor, lecturer)prof. Ing. Pavel Zemánek, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityFriday8.00-15.50Q01.02A. Čížková, P. ZemánekSeminarOccasionally20Friday8.00-15.50Q01.02P. Zemánek, P. Burg, A. ČížkováLectureOccasionally20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "To acquaint students with problems arising in waste composting garden and municipal sphere in terms of applied technological processes and machinery."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to course (allowance 2/0) a.Agroecosystem balance, the role of soil organic matter, uses BDO, anaerobic biodegradation, aerobic biodegradation, phase composting process2.Factors affecting the composting process (allowance 2/2) a.The ratio C: N, temperature, humidity, aeration, pH, the possibility of monitoring and control3.Optimization of raw material compositions compost fill (allowance 0/2) a.Case study - a practical calculation4.Horticultural waste (allowance 2/2) a.Classification and brief description often applied BDO (leaves, wood waste, etc.)b.Case Study - seasonality, balance BDO production in the area5.The application of logistics in the design and operation the composting (allowance 4/4) a.The importance of logistics, logistics methods, material flow, logistics chainb.Case study - a practical application of logistics methods, the proposed location of the composting6.Composting technology (allowance 2/2) a.Surface fill, the fill conveyor, intensive composting technology7.Machine lines for composting (allowance 2/2) a.Lines for production of coarse and fine compost, a case study - design lines for composting8.Crushers (allowance 2/2) a.The importance and process characterization, classification, working bodies, slow-speed shredders, high-speed shredder9.Chippers (allowance 2/2) a.The importance and process characterization, classification, working bodies10.Compost turner (allowance 2/2) a.The importance and process characterization, classification, working bodies11.Compost turner (allowance 2/2) a.Description of different types of design solutions, determination of performance, operational issues12.Separation equipment (allowance 2/2) a.Importance, the principles of separation and sorting mechanisms allocation, working bodies, vibrating screens, rotary screens, screens with rotating grates, traps13.Legislation and Marketing of composting (allowance 2/2) a.Overview of legislation and standards, the main principles of marketing14.Field trips (allowance 2/2) a.Visit plants od composting (2-3)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Agroecosystem balance, the role of soil organic matter, uses BDO, anaerobic biodegradation, aerobic biodegradation, phase composting process"
+    },
+    {
+      "label": "[section] Introduction to course",
+      "content": "a.Agroecosystem balance, the role of soil organic matter, uses BDO, anaerobic biodegradation, aerobic biodegradation, phase composting process"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.The ratio C: N, temperature, humidity, aeration, pH, the possibility of monitoring and control"
+    },
+    {
+      "label": "[section] Factors affecting the composting process",
+      "content": "a.The ratio C: N, temperature, humidity, aeration, pH, the possibility of monitoring and control"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Case study - a practical calculation"
+    },
+    {
+      "label": "[section] Optimization of raw material compositions compost fill",
+      "content": "a.Case study - a practical calculation"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Classification and brief description often applied BDO (leaves, wood waste, etc.)b.Case Study - seasonality, balance BDO production in the area"
+    },
+    {
+      "label": "[section] Horticultural waste",
+      "content": "a.Classification and brief description often applied BDO (leaves, wood waste, etc.)b.Case Study - seasonality, balance BDO production in the area"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.The importance of logistics, logistics methods, material flow, logistics chainb.Case study - a practical application of logistics methods, the proposed location of the composting"
+    },
+    {
+      "label": "[section] The application of logistics in the design and operation the composting",
+      "content": "a.The importance of logistics, logistics methods, material flow, logistics chainb.Case study - a practical application of logistics methods, the proposed location of the composting"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Surface fill, the fill conveyor, intensive composting technology"
+    },
+    {
+      "label": "[section] Composting technology",
+      "content": "a.Surface fill, the fill conveyor, intensive composting technology"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Lines for production of coarse and fine compost, a case study - design lines for composting"
+    },
+    {
+      "label": "[section] Machine lines for composting",
+      "content": "a.Lines for production of coarse and fine compost, a case study - design lines for composting"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.The importance and process characterization, classification, working bodies, slow-speed shredders, high-speed shredder"
+    },
+    {
+      "label": "[section] Crushers",
+      "content": "a.The importance and process characterization, classification, working bodies, slow-speed shredders, high-speed shredder"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.The importance and process characterization, classification, working bodies"
+    },
+    {
+      "label": "[section] Chippers",
+      "content": "a.The importance and process characterization, classification, working bodies"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.The importance and process characterization, classification, working bodies"
+    },
+    {
+      "label": "[section] Compost turner",
+      "content": "a.The importance and process characterization, classification, working bodies"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Description of different types of design solutions, determination of performance, operational issues"
+    },
+    {
+      "label": "[section] Compost turner",
+      "content": "a.Description of different types of design solutions, determination of performance, operational issues"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Importance, the principles of separation and sorting mechanisms allocation, working bodies, vibrating screens, rotary screens, screens with rotating grates, traps"
+    },
+    {
+      "label": "[section] Separation equipment",
+      "content": "a.Importance, the principles of separation and sorting mechanisms allocation, working bodies, vibrating screens, rotary screens, screens with rotating grates, traps"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Overview of legislation and standards, the main principles of marketing"
+    },
+    {
+      "label": "[section] Legislation and Marketing of composting",
+      "content": "a.Overview of legislation and standards, the main principles of marketing"
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Visit plants od composting (2-3)"
+    },
+    {
+      "label": "[section] Field trips",
+      "content": "a.Visit plants od composting (2-3)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice24 hprofessional educational excursion4 hpreparation for exam40 hpreparation of presentation4 helaboration and execution of projects40 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "The course is ended on the basis of the exam which has two parts. The first part is the written test (questions and short answers) and the second part is the oral exam. Success rate at least 60%."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:ZEMÁNEK, Pavel et al. 2010. Biologicky rozložitelné odpady a kompostování. 1st ed. Praha: Výzkumný ústav zemědělské techniky, 113 p. ISBN 978-80-86884-52-3.ZEMÁNEK, Pavel; BURG, Patrik; MICHÁLEK, Milan. 2012. Technika pro zpracování zahradnických odpadů - návody do cvičení. http://is.mendelu.cz (veřejná knihovna e-objektů).PLÍVA, Petr. 2016. Kompostování a kompostárny: Petr Plíva, Vlastimil Altmann, Aleš Hanč, Květuše hejátková, Amitava Roy, Jiří Souček, Lucie Valentová. 1st ed. Praha: Vydavatelství Profi Press, 149 p. ISBN 978-80-86726-74-8.PLÍVA, Petr et al. 2009. Kompostování v pásových hromadách na volné ploše. 1st ed. Praha: Profi Press, 136 p. ISBN 978-80-86726-32-8.ZEMÁNEK, Pavel; HEJÁTKOVÁ, Květuše; PLÍVA, Petr; JELÍNEK, Antonín. 2003. Faremní kompost. Praha: VUZT Praha, 62 p. ISBN 80-238-9749-7.EPSTEIN, E. 2000. The Science of Composting. Lancaster - Basel: Publishing Technomic."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "ZEMÁNEK, Pavel et al. 2010. Biologicky rozložitelné odpady a kompostování. 1st ed. Praha: Výzkumný ústav zemědělské techniky, 113 p. ISBN 978-80-86884-52-3.ZEMÁNEK, Pavel; BURG, Patrik; MICHÁLEK, Milan. 2012. Technika pro zpracování zahradnických odpadů - návody do cvičení. http://is.mendelu.cz (veřejná knihovna e-objektů).PLÍVA, Petr. 2016. Kompostování a kompostárny: Petr Plíva, Vlastimil Altmann, Aleš Hanč, Květuše hejátková, Amitava Roy, Jiří Souček, Lucie Valentová. 1st ed. Praha: Vydavatelství Profi Press, 149 p. ISBN 978-80-86726-74-8.PLÍVA, Petr et al. 2009. Kompostování v pásových hromadách na volné ploše. 1st ed. Praha: Profi Press, 136 p. ISBN 978-80-86726-32-8.ZEMÁNEK, Pavel; HEJÁTKOVÁ, Květuše; PLÍVA, Petr; JELÍNEK, Antonín. 2003. Faremní kompost. Praha: VUZT Praha, 62 p. ISBN 80-238-9749-7.EPSTEIN, E. 2000. The Science of Composting. Lancaster - Basel: Publishing Technomic."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-OHO Waste Management, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 09:28:40",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

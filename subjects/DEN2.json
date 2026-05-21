@@ -1,5 +1,16 @@
 {
   "courseCode": "DEN2",
+  "name": "Dendrologie II",
+  "nameCs": "Dendrologie II",
+  "nameEn": "Dendrology II",
+  "predmetId": "156770",
+  "facultyId": 38,
+  "aliases": [
+    "DE2",
+    "DEND2",
+    "DNOP2"
+  ],
+  "teachers": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - LDF",
@@ -8,7 +19,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156770;lang=cz",
       "totalPass": 14,
-      "totalFail": 6,
+      "totalFail": 5,
       "terms": [
         {
           "term": "1. opravný",
@@ -18,11 +29,11 @@
             "C": 1,
             "D": 3,
             "E": 1,
-            "F": 14,
+            "F": 13,
             "FN": 0
           },
           "pass": 6,
-          "fail": 14
+          "fail": 13
         },
         {
           "term": "2. opravný",
@@ -32,11 +43,11 @@
             "C": 4,
             "D": 4,
             "E": 0,
-            "F": 4,
+            "F": 3,
             "FN": 0
           },
           "pass": 8,
-          "fail": 4
+          "fail": 3
         },
         {
           "term": "Všechny termíny",
@@ -46,11 +57,11 @@
             "C": 5,
             "D": 7,
             "E": 1,
-            "F": 6,
+            "F": 5,
             "FN": 0
           },
           "pass": 14,
-          "fail": 6
+          "fail": 5
         },
         {
           "term": "Řádný termín",
@@ -60,14 +71,14 @@
             "C": 0,
             "D": 0,
             "E": 0,
-            "F": 20,
+            "F": 19,
             "FN": 0
           },
           "pass": 0,
-          "fail": 20
+          "fail": 19
         }
       ]
     }
   ],
-  "lastUpdated": "2026-03-07T08:18:27.058Z"
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
 }

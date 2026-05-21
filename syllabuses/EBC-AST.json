@@ -1,0 +1,857 @@
+{
+  "courseCode": "EBC-AST",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-AST"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Aplikovaná statistika"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Applied Statistics"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Mgr. Veronika Blašková, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav statistiky a operačního výzkumu (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Martin Baťka (cvičící, zkoušející)doc. Mgr. Veronika Blašková, Ph.D. (cvičící, garant, přednášející, zkoušející)doc. Ing. Luboš Střelec, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Ekonometrie 1 a ne Státní bakalářská zkouška a ne Aplikovaná statistika"
+    },
+    {
+      "label": "1.",
+      "content": "Číselné a grafické charakteristiky znaků (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Absolutní a relativní četnost"
+    },
+    {
+      "label": "b.",
+      "content": "Bodové a intervalové rozdělení četností"
+    },
+    {
+      "label": "c.",
+      "content": "Typy znaků"
+    },
+    {
+      "label": "d.",
+      "content": "Číselné charakteristiky znaků"
+    },
+    {
+      "label": "e.",
+      "content": "Grafická prezentace charakteristik znaků (krabicový diagram, histogram apod.)"
+    },
+    {
+      "label": "2.",
+      "content": "Vybrané parametrické testy (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Úlohy o jednom a dvou výběrech z normálního rozdělení"
+    },
+    {
+      "label": "b.",
+      "content": "Úlohy o jednom a dvou výběrech z alternativního rozdělení"
+    },
+    {
+      "label": "c.",
+      "content": "Korelační analýza, Pearsonův korelační koeficient, Spearmanův koeficient pořadové korelace"
+    },
+    {
+      "label": "d.",
+      "content": "Jednofaktorová a dvoufaktorová analýza rozptylu"
+    },
+    {
+      "label": "e.",
+      "content": "Metody mnohonásobného porovnávání"
+    },
+    {
+      "label": "f.",
+      "content": "Aplikace na ekonomických datech"
+    },
+    {
+      "label": "3.",
+      "content": "Vybrané neparametrické testy (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Jednovýběrový a párový znaménkový test"
+    },
+    {
+      "label": "b.",
+      "content": "Jednovýběrový a párový Wilcoxonův test"
+    },
+    {
+      "label": "c.",
+      "content": "Dvouvýběrový Wilcoxonův test"
+    },
+    {
+      "label": "d.",
+      "content": "Dvouvýběrový Kolmogorovův-Smirnovův test"
+    },
+    {
+      "label": "e.",
+      "content": "Kruskalův-Wallisův test a mediánový test"
+    },
+    {
+      "label": "f.",
+      "content": "Metody mnohonásobného porovnávání pro neparametrickou analýzu rozptylu"
+    },
+    {
+      "label": "4.",
+      "content": "Základy analýzy nominálních a ordinálních dat (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Kontingenční tabulka"
+    },
+    {
+      "label": "b.",
+      "content": "Testy nezávislosti v kontingenční tabulce"
+    },
+    {
+      "label": "c.",
+      "content": "Další testy a charakteristiky spojené s kontingenčními tabulkami"
+    },
+    {
+      "label": "d.",
+      "content": "Aplikace při vyhodnocování dotazníku"
+    },
+    {
+      "label": "5.",
+      "content": "Statistické srovnávání (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Absolutní a relativní srovnávání"
+    },
+    {
+      "label": "b.",
+      "content": "Jednoduché individuální, složené a souhrnné indexy"
+    },
+    {
+      "label": "c.",
+      "content": "Rozklady indexů"
+    },
+    {
+      "label": "d.",
+      "content": "Problematika cenových indexů"
+    },
+    {
+      "label": "6.",
+      "content": "Specifické problémy spojené s regresí (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Otázka stability parametrů"
+    },
+    {
+      "label": "b.",
+      "content": "Problém chybějících dat"
+    },
+    {
+      "label": "c.",
+      "content": "Vlivné (odlehlé) hodnoty"
+    },
+    {
+      "label": "d.",
+      "content": "Sezónnost a periodicita"
+    },
+    {
+      "label": "e.",
+      "content": "Zdánlivá (falešná) závislost"
+    },
+    {
+      "label": "7.",
+      "content": "Nadstavbové metody analýzy dat (dotace 3/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Robustní regrese, kvantilová regrese"
+    },
+    {
+      "label": "b.",
+      "content": "Spektrální analýza časových řad"
+    },
+    {
+      "label": "c.",
+      "content": "Metoda difference-in-differences s aplikacemi"
+    },
+    {
+      "label": "8.",
+      "content": "Modelování vybraných ekonomických zákonitostí (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Praktické příklady zpracování ekonomických dat pomocí parametrických i neparametrických metod"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "40 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "60 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Aplikovaná statistika"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Applied Statistics"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Mgr. Veronika Blašková, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav statistiky a operačního výzkumu (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Martin Baťka (cvičící, zkoušející)doc. Mgr. Veronika Blašková, Ph.D. (cvičící, garant, přednášející, zkoušející)doc. Ing. Luboš Střelec, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Ekonometrie 1 a ne Státní bakalářská zkouška a ne Aplikovaná statistika"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek8.00-8.50Q37V. Blašková, L. StřelecPřednáškaKaždý týden24Čtvrtek9.00-10.50Q37V. Blašková, M. Baťka, L. StřelecCvičeníKaždý týden22"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Studenti rozšíří znalosti nabyté v předmětu Statistika a získají praktické dovednosti s aplikací jednotlivých metod v software Statistica a Gretl. V rámci předmětu budou uvedeny nové pokročilé avšak snadno realizovatelné metody analýzy dat. Studenti budou rovněž seznámeni s problematikou statistického srovnavání a indexů, dále budou diskutovány vybrané specifické problémy regresních modelů a pokročilých metod analýzy dat. Předpokládáme, že nabyté znalosti a dovednosti budou studenty využity mj. při zpracování bakalářských prací."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Číselné a grafické charakteristiky znaků (dotace 1/2) a.Absolutní a relativní četnostb.Bodové a intervalové rozdělení četnostíc.Typy znakůd.Číselné charakteristiky znakůe.Grafická prezentace charakteristik znaků (krabicový diagram, histogram apod.)2.Vybrané parametrické testy (dotace 2/4) a.Úlohy o jednom a dvou výběrech z normálního rozděleníb.Úlohy o jednom a dvou výběrech z alternativního rozděleníc.Korelační analýza, Pearsonův korelační koeficient, Spearmanův koeficient pořadové korelaced.Jednofaktorová a dvoufaktorová analýza rozptylue.Metody mnohonásobného porovnáváníf.Aplikace na ekonomických datech3.Vybrané neparametrické testy (dotace 2/4) a.Jednovýběrový a párový znaménkový testb.Jednovýběrový a párový Wilcoxonův testc.Dvouvýběrový Wilcoxonův testd.Dvouvýběrový Kolmogorovův-Smirnovův teste.Kruskalův-Wallisův test a mediánový testf.Metody mnohonásobného porovnávání pro neparametrickou analýzu rozptylu4.Základy analýzy nominálních a ordinálních dat (dotace 2/4) a.Kontingenční tabulkab.Testy nezávislosti v kontingenční tabulcec.Další testy a charakteristiky spojené s kontingenčními tabulkamid.Aplikace při vyhodnocování dotazníku5.Statistické srovnávání (dotace 2/4) a.Absolutní a relativní srovnáváníb.Jednoduché individuální, složené a souhrnné indexyc.Rozklady indexůd.Problematika cenových indexů6.Specifické problémy spojené s regresí (dotace 1/2) a.Otázka stability parametrůb.Problém chybějících datc.Vlivné (odlehlé) hodnotyd.Sezónnost a periodicitae.Zdánlivá (falešná) závislost7.Nadstavbové metody analýzy dat (dotace 3/6) a.Robustní regrese, kvantilová regreseb.Spektrální analýza časových řadc.Metoda difference-in-differences s aplikacemi8.Modelování vybraných ekonomických zákonitostí (dotace 1/2) a.Praktické příklady zpracování ekonomických dat pomocí parametrických i neparametrických metod"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Absolutní a relativní četnostb.Bodové a intervalové rozdělení četnostíc.Typy znakůd.Číselné charakteristiky znakůe.Grafická prezentace charakteristik znaků (krabicový diagram, histogram apod.)"
+    },
+    {
+      "label": "[section] Číselné a grafické charakteristiky znaků",
+      "content": "a.Absolutní a relativní četnostb.Bodové a intervalové rozdělení četnostíc.Typy znakůd.Číselné charakteristiky znakůe.Grafická prezentace charakteristik znaků (krabicový diagram, histogram apod.)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Úlohy o jednom a dvou výběrech z normálního rozděleníb.Úlohy o jednom a dvou výběrech z alternativního rozděleníc.Korelační analýza, Pearsonův korelační koeficient, Spearmanův koeficient pořadové korelaced.Jednofaktorová a dvoufaktorová analýza rozptylue.Metody mnohonásobného porovnáváníf.Aplikace na ekonomických datech"
+    },
+    {
+      "label": "[section] Vybrané parametrické testy",
+      "content": "a.Úlohy o jednom a dvou výběrech z normálního rozděleníb.Úlohy o jednom a dvou výběrech z alternativního rozděleníc.Korelační analýza, Pearsonův korelační koeficient, Spearmanův koeficient pořadové korelaced.Jednofaktorová a dvoufaktorová analýza rozptylue.Metody mnohonásobného porovnáváníf.Aplikace na ekonomických datech"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Jednovýběrový a párový znaménkový testb.Jednovýběrový a párový Wilcoxonův testc.Dvouvýběrový Wilcoxonův testd.Dvouvýběrový Kolmogorovův-Smirnovův teste.Kruskalův-Wallisův test a mediánový testf.Metody mnohonásobného porovnávání pro neparametrickou analýzu rozptylu"
+    },
+    {
+      "label": "[section] Vybrané neparametrické testy",
+      "content": "a.Jednovýběrový a párový znaménkový testb.Jednovýběrový a párový Wilcoxonův testc.Dvouvýběrový Wilcoxonův testd.Dvouvýběrový Kolmogorovův-Smirnovův teste.Kruskalův-Wallisův test a mediánový testf.Metody mnohonásobného porovnávání pro neparametrickou analýzu rozptylu"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Kontingenční tabulkab.Testy nezávislosti v kontingenční tabulcec.Další testy a charakteristiky spojené s kontingenčními tabulkamid.Aplikace při vyhodnocování dotazníku"
+    },
+    {
+      "label": "[section] Základy analýzy nominálních a ordinálních dat",
+      "content": "a.Kontingenční tabulkab.Testy nezávislosti v kontingenční tabulcec.Další testy a charakteristiky spojené s kontingenčními tabulkamid.Aplikace při vyhodnocování dotazníku"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Absolutní a relativní srovnáváníb.Jednoduché individuální, složené a souhrnné indexyc.Rozklady indexůd.Problematika cenových indexů"
+    },
+    {
+      "label": "[section] Statistické srovnávání",
+      "content": "a.Absolutní a relativní srovnáváníb.Jednoduché individuální, složené a souhrnné indexyc.Rozklady indexůd.Problematika cenových indexů"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Otázka stability parametrůb.Problém chybějících datc.Vlivné (odlehlé) hodnotyd.Sezónnost a periodicitae.Zdánlivá (falešná) závislost"
+    },
+    {
+      "label": "[section] Specifické problémy spojené s regresí",
+      "content": "a.Otázka stability parametrůb.Problém chybějících datc.Vlivné (odlehlé) hodnotyd.Sezónnost a periodicitae.Zdánlivá (falešná) závislost"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Robustní regrese, kvantilová regreseb.Spektrální analýza časových řadc.Metoda difference-in-differences s aplikacemi"
+    },
+    {
+      "label": "[section] Nadstavbové metody analýzy dat",
+      "content": "a.Robustní regrese, kvantilová regreseb.Spektrální analýza časových řadc.Metoda difference-in-differences s aplikacemi"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Praktické příklady zpracování ekonomických dat pomocí parametrických i neparametrických metod"
+    },
+    {
+      "label": "[section] Modelování vybraných ekonomických zákonitostí",
+      "content": "a.Praktické příklady zpracování ekonomických dat pomocí parametrických i neparametrických metod"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení28 hpříprava na zkoušku28 hpříprava na průběžné hodnocení28 hprůběžná příprava na cvičení (bloky konzultací u kombinované formy)14 hCelkem112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "V rámci předmětu je možné získat body za: 1. Průběžný test - maximálně 40 bodů, minimum je stanoveno na 24 bodů 2. Závěrečná zkouška – maximálně 60 bodů, minimum je stanoveno na 36 bodů Student, který nesplnil některou z výše uvedených dílčích podmínek předmětu, je z předmětu hodnocen známkou \"nevyhověl (F)\". První dílčí podmínka představuje průběžnou kontrolu studijních povinností. Výsledné hodnocení předmětu je dáno součtem získaných bodů zprůběžného testu a závěrečné zkoušky, a to následovně: [90 – 100] bodů = A [83 – 90) bodů = B [75 – 83) bodů = C [68 – 75) bodů = D [60 – 68) bodů = E [0 – 60) bodů = F Jakékoli zaznamenávání závěrečné zkoušky, používání nedovolených pomůcek, mobilních telefonů či jiných komunikačních zařízení nebo jiné narušování objektivity zkoušky bude považováno za nesplnění podmínek ukončení předmětu a za hrubé porušení studijních předpisů. Následkem toho uzavře vyučující předmět v UIS hodnocením \"nevyhověl (F)\", případně se studentem zahájí disciplinární řízení."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích40 %Absolvování závěrečné ústní zkoušky60 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:BUDÍKOVÁ, Marie; KRÁLOVÁ, Maria; MAROŠ, Bohumil. 2010. Průvodce základními statistickými metodami. 1. vyd. Praha: Grada, 272 s. Expert. ISBN 978-80-247-3243-5.CIPRA, Tomáš. 2013. Finanční ekonometrie. 2. vyd. Praha: Ekopress, 538 s. ISBN 978-80-86929-93-4.Doporučená:BLAŠKOVÁ, Veronika; VISKOTOVÁ, Lenka. 2018. Základy matematiky a statistiky. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-586-2.HINDLS, Richard a kol. 2007. Statistika pro ekonomy. 8. vyd. Praha: Professional Publishing, 415 s. ISBN 978-80-86946-43-6.MAREK, Luboš a kol. 2007. Statistika pro ekonomy: aplikace. 2. vyd. Praha: Professional Publishing, 485 s. ISBN 978-80-86946-40-5.NEUBAUER, Jiří; SEDLAČÍK, Marek; KŘÍŽ, Oldřich. 2016. Základy statistiky: aplikace v technických a ekonomických oborech. 2. vyd. Praha: Grada, 278 s. ISBN 978-80-247-5786-5.MARQUES DE SÁ, J. P. Applied Statistics Using SPSS, STATISTICA, MATLAB and R. 2nd ed. Springer. 2007. ISBN 978-3540719717."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "BUDÍKOVÁ, Marie; KRÁLOVÁ, Maria; MAROŠ, Bohumil. 2010. Průvodce základními statistickými metodami. 1. vyd. Praha: Grada, 272 s. Expert. ISBN 978-80-247-3243-5.CIPRA, Tomáš. 2013. Finanční ekonometrie. 2. vyd. Praha: Ekopress, 538 s. ISBN 978-80-86929-93-4."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "BLAŠKOVÁ, Veronika; VISKOTOVÁ, Lenka. 2018. Základy matematiky a statistiky. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-586-2.HINDLS, Richard a kol. 2007. Statistika pro ekonomy. 8. vyd. Praha: Professional Publishing, 415 s. ISBN 978-80-86946-43-6.MAREK, Luboš a kol. 2007. Statistika pro ekonomy: aplikace. 2. vyd. Praha: Professional Publishing, 485 s. ISBN 978-80-86946-40-5.NEUBAUER, Jiří; SEDLAČÍK, Marek; KŘÍŽ, Oldřich. 2016. Základy statistiky: aplikace v technických a ekonomických oborech. 2. vyd. Praha: Grada, 278 s. ISBN 978-80-247-5786-5.MARQUES DE SÁ, J. P. Applied Statistics Using SPSS, STATISTICA, MATLAB and R. 2nd ed. Springer. 2007. ISBN 978-3540719717."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Specializace EBEFA Ekonomická a finanční analýza, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-AST"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Aplikovaná statistika"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Applied Statistics"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course is not possible to study during foreign mobility."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Mgr. Veronika Blašková, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Statistics and Operation Analysis (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Martin Baťka (examiner, instructor)doc. Mgr. Veronika Blašková, Ph.D. (examiner, instructor, lecturer, supervisor)doc. Ing. Luboš Střelec, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Econometrics 1 and not Final Bachelor Exam and not Applied Statistics"
+    },
+    {
+      "label": "1.",
+      "content": "Numeric and graphical characteristics (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Absolute and relative frequency"
+    },
+    {
+      "label": "b.",
+      "content": "Frequency distribution"
+    },
+    {
+      "label": "c.",
+      "content": "Statistical characteristics"
+    },
+    {
+      "label": "d.",
+      "content": "Numeric characteristics"
+    },
+    {
+      "label": "e.",
+      "content": "Graphical presentation"
+    },
+    {
+      "label": "2.",
+      "content": "Parametric tests (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "One-sample and two-samples tests about parameters of Normal distribution"
+    },
+    {
+      "label": "b.",
+      "content": "One-sample and two-samples tests about parameters of Bernoulli distribution"
+    },
+    {
+      "label": "c.",
+      "content": "Correlation analysis, Pearson's correlation coefficient, Spearman's rank correlation coefficient"
+    },
+    {
+      "label": "d.",
+      "content": "One-way and two-way analysis of variance"
+    },
+    {
+      "label": "e.",
+      "content": "Post-hoc methods of multiple comparison"
+    },
+    {
+      "label": "f.",
+      "content": "Application of parametric methods in economic data"
+    },
+    {
+      "label": "3.",
+      "content": "Nonparametric tests (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Sign test"
+    },
+    {
+      "label": "b.",
+      "content": "Wilcoxon signed-rank test"
+    },
+    {
+      "label": "c.",
+      "content": "Mann-Whitney-Wilcoxon test"
+    },
+    {
+      "label": "d.",
+      "content": "Two-sample Kolmogorov-Smirnov test"
+    },
+    {
+      "label": "e.",
+      "content": "Kruskal-Wallis test"
+    },
+    {
+      "label": "f.",
+      "content": "Post-hoc methods of multiple comparison for nonparametric ANOVA"
+    },
+    {
+      "label": "4.",
+      "content": "Fundamentals of nominal and ordinal data analysis (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Contingency table"
+    },
+    {
+      "label": "b.",
+      "content": "Testing hypothesis about independency in qualitative data"
+    },
+    {
+      "label": "c.",
+      "content": "Measures of dependency for nominal or ordinal variables"
+    },
+    {
+      "label": "d.",
+      "content": "Evaluation of questionnaire"
+    },
+    {
+      "label": "5.",
+      "content": "Statistical comparison (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Absolute and relative changes"
+    },
+    {
+      "label": "b.",
+      "content": "Individual, composite and aggregate indices"
+    },
+    {
+      "label": "c.",
+      "content": "Indices decomposition"
+    },
+    {
+      "label": "d.",
+      "content": "Price indices"
+    },
+    {
+      "label": "6.",
+      "content": "Specific regression problems (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Parameter stability"
+    },
+    {
+      "label": "b.",
+      "content": "Missing data"
+    },
+    {
+      "label": "c.",
+      "content": "Outliers"
+    },
+    {
+      "label": "d.",
+      "content": "Seasonality and periodicity"
+    },
+    {
+      "label": "e.",
+      "content": "Spurious regression"
+    },
+    {
+      "label": "7.",
+      "content": "Advanced data analysis methods (allowance 3/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Robust regression, Quantile regression"
+    },
+    {
+      "label": "b.",
+      "content": "Spectral analysis"
+    },
+    {
+      "label": "c.",
+      "content": "Difference in differences method"
+    },
+    {
+      "label": "8.",
+      "content": "Modeling of selected economic patterns (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Practical examples of econometric modeling"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "40 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "60 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Aplikovaná statistika"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Applied Statistics"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course is not possible to study during foreign mobility."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Mgr. Veronika Blašková, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Statistics and Operation Analysis (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Martin Baťka (examiner, instructor)doc. Mgr. Veronika Blašková, Ph.D. (examiner, instructor, lecturer, supervisor)doc. Ing. Luboš Střelec, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Econometrics 1 and not Final Bachelor Exam and not Applied Statistics"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday8.00-8.50Q37V. Blašková, L. StřelecLectureEvery week24Thursday9.00-10.50Q37V. Blašková, M. Baťka, L. StřelecSeminarEvery week22"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Obtaining theoretical knowledge and practical experience with advanced statistical and econometric methods. Competence to apply statistical tools and built-in functions of software Statistica and Gretl. Knowledge and skills learned by students in this course are expected to be used during work on student bachelor's thesis."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Numeric and graphical characteristics (allowance 1/2) a.Absolute and relative frequencyb.Frequency distributionc.Statistical characteristicsd.Numeric characteristicse.Graphical presentation2.Parametric tests (allowance 2/4) a.One-sample and two-samples tests about parameters of Normal distributionb.One-sample and two-samples tests about parameters of Bernoulli distributionc.Correlation analysis, Pearson's correlation coefficient, Spearman's rank correlation coefficientd.One-way and two-way analysis of variancee.Post-hoc methods of multiple comparisonf.Application of parametric methods in economic data3.Nonparametric tests (allowance 2/4) a.Sign testb.Wilcoxon signed-rank testc.Mann-Whitney-Wilcoxon testd.Two-sample Kolmogorov-Smirnov teste.Kruskal-Wallis testf.Post-hoc methods of multiple comparison for nonparametric ANOVA4.Fundamentals of nominal and ordinal data analysis (allowance 2/4) a.Contingency tableb.Testing hypothesis about independency in qualitative datac.Measures of dependency for nominal or ordinal variablesd.Evaluation of questionnaire5.Statistical comparison (allowance 2/4) a.Absolute and relative changesb.Individual, composite and aggregate indicesc.Indices decompositiond.Price indices6.Specific regression problems (allowance 1/2) a.Parameter stabilityb.Missing datac.Outliersd.Seasonality and periodicitye.Spurious regression7.Advanced data analysis methods (allowance 3/6) a.Robust regression, Quantile regressionb.Spectral analysisc.Difference in differences method8.Modeling of selected economic patterns (allowance 1/2) a.Practical examples of econometric modeling"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Absolute and relative frequencyb.Frequency distributionc.Statistical characteristicsd.Numeric characteristicse.Graphical presentation"
+    },
+    {
+      "label": "[section] Numeric and graphical characteristics",
+      "content": "a.Absolute and relative frequencyb.Frequency distributionc.Statistical characteristicsd.Numeric characteristicse.Graphical presentation"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.One-sample and two-samples tests about parameters of Normal distributionb.One-sample and two-samples tests about parameters of Bernoulli distributionc.Correlation analysis, Pearson's correlation coefficient, Spearman's rank correlation coefficientd.One-way and two-way analysis of variancee.Post-hoc methods of multiple comparisonf.Application of parametric methods in economic data"
+    },
+    {
+      "label": "[section] Parametric tests",
+      "content": "a.One-sample and two-samples tests about parameters of Normal distributionb.One-sample and two-samples tests about parameters of Bernoulli distributionc.Correlation analysis, Pearson's correlation coefficient, Spearman's rank correlation coefficientd.One-way and two-way analysis of variancee.Post-hoc methods of multiple comparisonf.Application of parametric methods in economic data"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Sign testb.Wilcoxon signed-rank testc.Mann-Whitney-Wilcoxon testd.Two-sample Kolmogorov-Smirnov teste.Kruskal-Wallis testf.Post-hoc methods of multiple comparison for nonparametric ANOVA"
+    },
+    {
+      "label": "[section] Nonparametric tests",
+      "content": "a.Sign testb.Wilcoxon signed-rank testc.Mann-Whitney-Wilcoxon testd.Two-sample Kolmogorov-Smirnov teste.Kruskal-Wallis testf.Post-hoc methods of multiple comparison for nonparametric ANOVA"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Contingency tableb.Testing hypothesis about independency in qualitative datac.Measures of dependency for nominal or ordinal variablesd.Evaluation of questionnaire"
+    },
+    {
+      "label": "[section] Fundamentals of nominal and ordinal data analysis",
+      "content": "a.Contingency tableb.Testing hypothesis about independency in qualitative datac.Measures of dependency for nominal or ordinal variablesd.Evaluation of questionnaire"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Absolute and relative changesb.Individual, composite and aggregate indicesc.Indices decompositiond.Price indices"
+    },
+    {
+      "label": "[section] Statistical comparison",
+      "content": "a.Absolute and relative changesb.Individual, composite and aggregate indicesc.Indices decompositiond.Price indices"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Parameter stabilityb.Missing datac.Outliersd.Seasonality and periodicitye.Spurious regression"
+    },
+    {
+      "label": "[section] Specific regression problems",
+      "content": "a.Parameter stabilityb.Missing datac.Outliersd.Seasonality and periodicitye.Spurious regression"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Robust regression, Quantile regressionb.Spectral analysisc.Difference in differences method"
+    },
+    {
+      "label": "[section] Advanced data analysis methods",
+      "content": "a.Robust regression, Quantile regressionb.Spectral analysisc.Difference in differences method"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Practical examples of econometric modeling"
+    },
+    {
+      "label": "[section] Modeling of selected economic patterns",
+      "content": "a.Practical examples of econometric modeling"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice28 hpreparation for exam28 hpreparation for regular assessment28 hcontinuous preparation for seminars (sessions of combined form of study)14 hTotal112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "To successfully complete the course, the following conditions must be satisfied: 1. Passing the mid-term test 2. Passing the final examination: at least 36 points out of 60 are needed, to pass the final. A student who has not met any of the above partial conditions of the course is evaluated with the mark \"failed (F)\". The first partial condition represents the continuous monitoring of study obligations. The final evaluation of the course is given by the sum of points obtained from mid-term test and final exam, as follows: [90 – 100] points = A [83 – 90) points = B [75 – 83) points = C [68 – 75) points = D [60 – 68) points = E [0 – 60) points = F Any recording of the final oral examination, the use of illicit devices as well as means of communication or other impairment of objectivity in the verification of knowledge will be considered gross violation of the study regulations. As a result, the course is closed in the UIS by the mark \"failed (F)\". Further, teacher can initiate disciplinary proceedings, which may result in termination of studies."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation40 %Final oral exam60 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:BUDÍKOVÁ, Marie; KRÁLOVÁ, Maria; MAROŠ, Bohumil. 2010. Průvodce základními statistickými metodami. 1st ed. Praha: Grada, 272 p. Expert. ISBN 978-80-247-3243-5.CIPRA, Tomáš. 2013. Finanční ekonometrie. 2nd ed. Praha: Ekopress, 538 p. ISBN 978-80-86929-93-4.Recommended:BLAŠKOVÁ, Veronika; VISKOTOVÁ, Lenka. 2018. Základy matematiky a statistiky. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-586-2.HINDLS, Richard et al. 2007. Statistika pro ekonomy. 8th ed. Praha: Professional Publishing, 415 p. ISBN 978-80-86946-43-6.MAREK, Luboš et al. 2007. Statistika pro ekonomy: aplikace. 2nd ed. Praha: Professional Publishing, 485 p. ISBN 978-80-86946-40-5.NEUBAUER, Jiří; SEDLAČÍK, Marek; KŘÍŽ, Oldřich. 2016. Základy statistiky: aplikace v technických a ekonomických oborech. 2nd ed. Praha: Grada, 278 p. ISBN 978-80-247-5786-5.MARQUES DE SÁ, J. P. Applied Statistics Using SPSS, STATISTICA, MATLAB and R. 2nd ed. Springer. 2007. ISBN 978-3540719717."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "BUDÍKOVÁ, Marie; KRÁLOVÁ, Maria; MAROŠ, Bohumil. 2010. Průvodce základními statistickými metodami. 1st ed. Praha: Grada, 272 p. Expert. ISBN 978-80-247-3243-5.CIPRA, Tomáš. 2013. Finanční ekonometrie. 2nd ed. Praha: Ekopress, 538 p. ISBN 978-80-86929-93-4."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "BLAŠKOVÁ, Veronika; VISKOTOVÁ, Lenka. 2018. Základy matematiky a statistiky. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-586-2.HINDLS, Richard et al. 2007. Statistika pro ekonomy. 8th ed. Praha: Professional Publishing, 415 p. ISBN 978-80-86946-43-6.MAREK, Luboš et al. 2007. Statistika pro ekonomy: aplikace. 2nd ed. Praha: Professional Publishing, 485 p. ISBN 978-80-86946-40-5.NEUBAUER, Jiří; SEDLAČÍK, Marek; KŘÍŽ, Oldřich. 2016. Základy statistiky: aplikace v technických a ekonomických oborech. 2nd ed. Praha: Grada, 278 p. ISBN 978-80-247-5786-5.MARQUES DE SÁ, J. P. Applied Statistics Using SPSS, STATISTICA, MATLAB and R. 2nd ed. Springer. 2007. ISBN 978-3540719717."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Track EBEFA Economic and Financial Analysis, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:38:24",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

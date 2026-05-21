@@ -1,0 +1,641 @@
+{
+  "courseCode": "ENA-BK",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENA-BK"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Blockchain a kryptoměny v AJ"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Blockchain and Cryptocurrencies"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Vzhledem k aktivitě na seminářích a týmovému projektu není možné studovat během pobytu v zahraničí."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "angličtina"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Pavel Turčínek, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Oldřich Faldík, Ph.D. (cvičící, přednášející, zkoušející)Ing. Pavel Turčínek, Ph.D. (cvičící, garant, přednášející)Ing. Bc. Martin Záklasník (cvičící, přednášející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do předmětu (dotace 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Seznámení se se základními pojmy"
+    },
+    {
+      "label": "b.",
+      "content": "Implementace vlastního blockchainu"
+    },
+    {
+      "label": "2.",
+      "content": "Úvod do problematiky blochainu a kryptoměn (dotace 3/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Důvěra v blockchainové systémy"
+    },
+    {
+      "label": "b.",
+      "content": "Ekonomika kryptoměn"
+    },
+    {
+      "label": "c.",
+      "content": "Společenský dopad kryptoměn"
+    },
+    {
+      "label": "d.",
+      "content": "Klady a zápory kryptoměn"
+    },
+    {
+      "label": "3.",
+      "content": "IBM Hyperledger Fabric (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Úvod do technologie a vytvoření základní konfigurace sítě."
+    },
+    {
+      "label": "b.",
+      "content": "Vytváření transakcí a jejich schvalování."
+    },
+    {
+      "label": "c.",
+      "content": "Tvorba chytrých kontraktů."
+    },
+    {
+      "label": "4.",
+      "content": "Blockchainové aplikace (dotace 4/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Důvěryhodná časová razítka"
+    },
+    {
+      "label": "b.",
+      "content": "Samostatná identita"
+    },
+    {
+      "label": "c.",
+      "content": "Dodavatelský řetězec"
+    },
+    {
+      "label": "d.",
+      "content": "Blockchain v akademické sféře"
+    },
+    {
+      "label": "e.",
+      "content": "Decentrailzované aplikace"
+    },
+    {
+      "label": "f.",
+      "content": "Reálné příklady technologie Blockchain"
+    },
+    {
+      "label": "5.",
+      "content": "Návštěvy odborníků z praxe (dotace 3/4)"
+    },
+    {
+      "label": "6.",
+      "content": "Konzultace (dotace 0/2)"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "30 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "70 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "(a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Blockchain a kryptoměny v AJ"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Blockchain and Cryptocurrencies"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Vzhledem k aktivitě na seminářích a týmovému projektu není možné studovat během pobytu v zahraničí."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: angličtina"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Pavel Turčínek, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Oldřich Faldík, Ph.D. (cvičící, přednášející, zkoušející)Ing. Pavel Turčínek, Ph.D. (cvičící, garant, přednášející)Ing. Bc. Martin Záklasník (cvičící, přednášející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPoznámkaPátek13.00-13.50Q04N-OIN-OIAO. Faldík, P. Turčínek, M. ZáklasníkPřednáškaKaždý týden34Lessons will take place individually by agreement with the teacher. Pátek14.00-15.50Q04N-OIN-OIAO. Faldík, P. Turčínek, M. ZáklasníkCvičeníKaždý týden34Lessons will take place individually by agreement with the teacher."
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Po absolvování předmětu budou studenti znát základní princip blockchainu, stejně jako různé druhy blockchainů a aplikací založených na blockchainu. Studenti budou umět kriticky zhodnotit silné a slabé stránky řešení založených na blockchainu a implementovat prototyp přístupu založeného na blockchainu k podpoře řešení konkrétního úkolu."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do předmětu (dotace 1/2) a.Seznámení se se základními pojmyb.Implementace vlastního blockchainu2.Úvod do problematiky blochainu a kryptoměn (dotace 3/6) a.Důvěra v blockchainové systémyb.Ekonomika kryptoměnc.Společenský dopad kryptoměnd.Klady a zápory kryptoměn3.IBM Hyperledger Fabric (dotace 2/4) a.Úvod do technologie a vytvoření základní konfigurace sítě.b.Vytváření transakcí a jejich schvalování.c.Tvorba chytrých kontraktů.4.Blockchainové aplikace (dotace 4/8) a.Důvěryhodná časová razítkab.Samostatná identitac.Dodavatelský řetězecd.Blockchain v akademické sféřee.Decentrailzované aplikacef.Reálné příklady technologie Blockchain5.Návštěvy odborníků z praxe (dotace 3/4)6.Konzultace (dotace 0/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Seznámení se se základními pojmyb.Implementace vlastního blockchainu"
+    },
+    {
+      "label": "[section] Úvod do předmětu",
+      "content": "a.Seznámení se se základními pojmyb.Implementace vlastního blockchainu"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Důvěra v blockchainové systémyb.Ekonomika kryptoměnc.Společenský dopad kryptoměnd.Klady a zápory kryptoměn"
+    },
+    {
+      "label": "[section] Úvod do problematiky blochainu a kryptoměn",
+      "content": "a.Důvěra v blockchainové systémyb.Ekonomika kryptoměnc.Společenský dopad kryptoměnd.Klady a zápory kryptoměn"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Úvod do technologie a vytvoření základní konfigurace sítě.b.Vytváření transakcí a jejich schvalování.c.Tvorba chytrých kontraktů."
+    },
+    {
+      "label": "[section] IBM Hyperledger Fabric",
+      "content": "a.Úvod do technologie a vytvoření základní konfigurace sítě.b.Vytváření transakcí a jejich schvalování.c.Tvorba chytrých kontraktů."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Důvěryhodná časová razítkab.Samostatná identitac.Dodavatelský řetězecd.Blockchain v akademické sféřee.Decentrailzované aplikacef.Reálné příklady technologie Blockchain"
+    },
+    {
+      "label": "[section] Blockchainové aplikace",
+      "content": "a.Důvěryhodná časová razítkab.Samostatná identitac.Dodavatelský řetězecd.Blockchain v akademické sféřee.Decentrailzované aplikacef.Reálné příklady technologie Blockchain"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Konzultace (dotace 0/2)"
+    },
+    {
+      "label": "[section] Návštěvy odborníků z praxe",
+      "content": "6.Konzultace (dotace 0/2)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení28 hkonzultace14 hprojektová práce70 hpříprava na průběžné hodnocení7 hpříprava prezentace7 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Aktivita a průběžná práce na cvičeních a domácí úkoly: 30 bodů Vypracování semestrálního projektu a jeho prezentace: 70 bodů Projekt budou studenti zpracovávat v tříčlenných týmech. Cílem tohoto projektu je navrhnout a implementovat decentralizovanou síť pro vydávání a validaci tzv. mikrocertifikátů pomocí technologie blockchain. Vaše řešení musí umožňovat nejen vydávání certifikátů, ale také jejich zneplatnění, pokud to bude potřeba. Některé certifikáty budou platné jen po určitou dobu, proto by měla být zahrnuta i možnost jejich obnovování. Vaše síť by měla být také schopná poskytovat oprávněným institucím nebo firmám přístup ke čtení validních mikrocertifikátů uložených v blockchainové síti. Před samotnou realizací je nutné konzultovat a nechat schválit vámi zvolené blockchainové řešení u vyučujícího. Při návrhu a implementaci věnujte pozornost také nefunkčním požadavkům, jako jsou bezpečnost a výkonnost systému. S ohledem na to, že mohou být obsaženy citlivé osobní údaje, je nutné zajistit, aby nebylo veřejně přístupné všem členům sítě. Tento aspekt ochrany osobních údajů je potřeba zohlednit ve vašem návrhu. Při prezentaci projektu mohou být studenti dotazováni na principy probírané v přednáškách a cvičeních souvisejících s tématem projektu."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích30 %Vypracování semestrální práce70 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:NAKAMOTO, Satoshi. 2008. Bitcoin: A Peer-to-Peer Electronic Cash System. https://bitcoin.org/en/bitcoin-paper.NARAYANAN, Arvind. 2016. Coursera: Bitcoin and Cryptocurrency Technologies. https://www.coursera.org/learn/cryptocurrency.SWAN, Melanie. 2015. Blockchain: Blueprint for a New Economy. Sebastopol, CA: O’Reilly Media, Inc. , 152 s. ISBN 1-49-192045-9.Doporučená:ANTONOPOULOS, Andreas. 2015. Mastering bitcoin. 1. vyd. Sebastopol: O´Reilly Media, ISBN 978-1-4493-7404-4.ANTONOPOULOS, A. 2018. Mastering Ethereum: Building Smart Contracts and DApps. Sebastopol: O'Reilly Media, 422 s. ISBN 978-1-4919-7194-9.TĚTEK, Josef. 2021. Bitcoin: Odluka peněz od státu. Praha: Braiins Publishing, 116 s. ISBN 978-80-907975-8-1."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "NAKAMOTO, Satoshi. 2008. Bitcoin: A Peer-to-Peer Electronic Cash System. https://bitcoin.org/en/bitcoin-paper.NARAYANAN, Arvind. 2016. Coursera: Bitcoin and Cryptocurrency Technologies. https://www.coursera.org/learn/cryptocurrency.SWAN, Melanie. 2015. Blockchain: Blueprint for a New Economy. Sebastopol, CA: O’Reilly Media, Inc. , 152 s. ISBN 1-49-192045-9."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "ANTONOPOULOS, Andreas. 2015. Mastering bitcoin. 1. vyd. Sebastopol: O´Reilly Media, ISBN 978-1-4493-7404-4.ANTONOPOULOS, A. 2018. Mastering Ethereum: Building Smart Contracts and DApps. Sebastopol: O'Reilly Media, 422 s. ISBN 978-1-4919-7194-9.TĚTEK, Josef. 2021. Bitcoin: Odluka peněz od státu. Praha: Braiins Publishing, 116 s. ISBN 978-80-907975-8-1."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Zaměření ZNOIA Zaměření pro Otevřenou informatiku v AJ, prezenční forma, počáteční období ZS 2023/2024Zaměření ZNOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období ZS 2023/2024"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENA-BK"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Blockchain a kryptoměny v AJ"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Blockchain and Cryptocurrencies"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "Due to the activity at the seminars and the team project, it is not possible to study during the stay abroad."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "English"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Pavel Turčínek, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Oldřich Faldík, Ph.D. (examiner, instructor, lecturer)Ing. Pavel Turčínek, Ph.D. (instructor, lecturer, supervisor)Ing. Bc. Martin Záklasník (instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Course introduction (allowance 1/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Getting to know the basic concepts"
+    },
+    {
+      "label": "b.",
+      "content": "Implementing your own blockchain"
+    },
+    {
+      "label": "2.",
+      "content": "Introduction to Blockchain and Cryptocurrencies (allowance 3/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Trust in blockchain systems"
+    },
+    {
+      "label": "b.",
+      "content": "Cryptocurrency economics"
+    },
+    {
+      "label": "c.",
+      "content": "Social Impact of Cryptocurrencies"
+    },
+    {
+      "label": "d.",
+      "content": "Pros and Cons of Cryptocurrencies"
+    },
+    {
+      "label": "3.",
+      "content": "IBM Hyperledger Fabric (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Introduction to technology and creating a basic network configuration."
+    },
+    {
+      "label": "b.",
+      "content": "Creation of transactions and their approval."
+    },
+    {
+      "label": "c.",
+      "content": "Creation of smart contracts."
+    },
+    {
+      "label": "4.",
+      "content": "Application of blockchain (allowance 4/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Trusted timestamps"
+    },
+    {
+      "label": "b.",
+      "content": "Self-Sovereign Identity"
+    },
+    {
+      "label": "c.",
+      "content": "Supply chain"
+    },
+    {
+      "label": "d.",
+      "content": "Blockchain in academia"
+    },
+    {
+      "label": "e.",
+      "content": "Decentralized Applications (DApps)"
+    },
+    {
+      "label": "f.",
+      "content": "Real examples of Blockchain technology"
+    },
+    {
+      "label": "5.",
+      "content": "Visits by experts from practice (allowance 3/4)"
+    },
+    {
+      "label": "6.",
+      "content": "Consultation (allowance 0/2)"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "30 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "70 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "(and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Blockchain a kryptoměny v AJ"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Blockchain and Cryptocurrencies"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: Due to the activity at the seminars and the team project, it is not possible to study during the stay abroad."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: English"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Pavel Turčínek, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Oldřich Faldík, Ph.D. (examiner, instructor, lecturer)Ing. Pavel Turčínek, Ph.D. (instructor, lecturer, supervisor)Ing. Bc. Martin Záklasník (instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityNoteFriday13.00-13.50Q04N-OIN-OIAO. Faldík, P. Turčínek, M. ZáklasníkLectureEvery week34Lessons will take place individually by agreement with the teacher. Friday14.00-15.50Q04N-OIN-OIAO. Faldík, P. Turčínek, M. ZáklasníkSeminarEvery week34Lessons will take place individually by agreement with the teacher."
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "By completing the course, students will get to know the fundamental principles of blockchain technology as well as different blockchains and blockchain-backed applications. The participants will be enabled to critically evaluate the strengths and weaknesses of blockchain-backed solutions and to prototypically implement a blockchain-backed approach to support a specific task."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Course introduction (allowance 1/2) a.Getting to know the basic conceptsb.Implementing your own blockchain2.Introduction to Blockchain and Cryptocurrencies (allowance 3/6) a.Trust in blockchain systemsb.Cryptocurrency economicsc.Social Impact of Cryptocurrenciesd.Pros and Cons of Cryptocurrencies3.IBM Hyperledger Fabric (allowance 2/4) a.Introduction to technology and creating a basic network configuration.b.Creation of transactions and their approval.c.Creation of smart contracts.4.Application of blockchain (allowance 4/8) a.Trusted timestampsb.Self-Sovereign Identityc.Supply chaind.Blockchain in academiae.Decentralized Applications (DApps)f.Real examples of Blockchain technology5.Visits by experts from practice (allowance 3/4)6.Consultation (allowance 0/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Getting to know the basic conceptsb.Implementing your own blockchain"
+    },
+    {
+      "label": "[section] Course introduction",
+      "content": "a.Getting to know the basic conceptsb.Implementing your own blockchain"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Trust in blockchain systemsb.Cryptocurrency economicsc.Social Impact of Cryptocurrenciesd.Pros and Cons of Cryptocurrencies"
+    },
+    {
+      "label": "[section] Introduction to Blockchain and Cryptocurrencies",
+      "content": "a.Trust in blockchain systemsb.Cryptocurrency economicsc.Social Impact of Cryptocurrenciesd.Pros and Cons of Cryptocurrencies"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Introduction to technology and creating a basic network configuration.b.Creation of transactions and their approval.c.Creation of smart contracts."
+    },
+    {
+      "label": "[section] IBM Hyperledger Fabric",
+      "content": "a.Introduction to technology and creating a basic network configuration.b.Creation of transactions and their approval.c.Creation of smart contracts."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Trusted timestampsb.Self-Sovereign Identityc.Supply chaind.Blockchain in academiae.Decentralized Applications (DApps)f.Real examples of Blockchain technology"
+    },
+    {
+      "label": "[section] Application of blockchain",
+      "content": "a.Trusted timestampsb.Self-Sovereign Identityc.Supply chaind.Blockchain in academiae.Decentralized Applications (DApps)f.Real examples of Blockchain technology"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Consultation (allowance 0/2)"
+    },
+    {
+      "label": "[section] Visits by experts from practice",
+      "content": "6.Consultation (allowance 0/2)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice28 hconsultation14 hproject work70 hpreparation for regular assessment7 hpreparation of presentation7 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Activity and ongoing work on exercises and homework: 30 points Development of a semester project and its presentation: 70 points Students will work on the project in teams of three. The goal of this project is to design and implement a decentralized network for issuing and validating so-called micro certificates using blockchain technology. Your solution must allow not only the issuance of certificates but also their revocation if needed. Some certificates will only be valid for a certain period of time, so the possibility of renewing them should be included. Your network should also be able to provide authorized institutions or businesses with access to read valid micro certificates stored on the blockchain network. Before the implementation, it is necessary to consult and have your chosen blockchain solution approved by the teacher. During design and implementation, attention must also be paid to non-functional requirements such as security and system performance. Considering that there can be sensitive personal data, it is necessary to ensure that it is not publicly accessible to all network members. This aspect of personal data protection needs to be taken into account in your design. During the presentation of the project, students may be asked about the principles discussed in lectures and exercises related to the topic of the project."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation30 %Term paper70 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:NAKAMOTO, Satoshi. 2008. Bitcoin: A Peer-to-Peer Electronic Cash System. https://bitcoin.org/en/bitcoin-paper.NARAYANAN, Arvind. 2016. Coursera: Bitcoin and Cryptocurrency Technologies. https://www.coursera.org/learn/cryptocurrency.SWAN, Melanie. 2015. Blockchain: Blueprint for a New Economy. Sebastopol, CA: O’Reilly Media, Inc. , 152 p. ISBN 1-49-192045-9.Recommended:ANTONOPOULOS, Andreas. 2015. Mastering bitcoin. 1st ed. Sebastopol: O´Reilly Media, ISBN 978-1-4493-7404-4.ANTONOPOULOS, A. 2018. Mastering Ethereum: Building Smart Contracts and DApps. Sebastopol: O'Reilly Media, 422 p. ISBN 978-1-4919-7194-9.TĚTEK, Josef. 2021. Bitcoin: Odluka peněz od státu. Praha: Braiins Publishing, 116 p. ISBN 978-80-907975-8-1."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "NAKAMOTO, Satoshi. 2008. Bitcoin: A Peer-to-Peer Electronic Cash System. https://bitcoin.org/en/bitcoin-paper.NARAYANAN, Arvind. 2016. Coursera: Bitcoin and Cryptocurrency Technologies. https://www.coursera.org/learn/cryptocurrency.SWAN, Melanie. 2015. Blockchain: Blueprint for a New Economy. Sebastopol, CA: O’Reilly Media, Inc. , 152 p. ISBN 1-49-192045-9."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "ANTONOPOULOS, Andreas. 2015. Mastering bitcoin. 1st ed. Sebastopol: O´Reilly Media, ISBN 978-1-4493-7404-4.ANTONOPOULOS, A. 2018. Mastering Ethereum: Building Smart Contracts and DApps. Sebastopol: O'Reilly Media, 422 p. ISBN 978-1-4919-7194-9.TĚTEK, Josef. 2021. Bitcoin: Odluka peněz od státu. Praha: Braiins Publishing, 116 p. ISBN 978-80-907975-8-1."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Scope ZNOIA Scope for Open Informatics, full-time form, initial period WS 2023/2024Scope ZNOI Scope for Open Informatics, full-time form, initial period WS 2023/2024"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:51:29",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

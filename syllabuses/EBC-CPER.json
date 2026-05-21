@@ -1,0 +1,521 @@
+{
+  "courseCode": "EBC-CPER",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-CPER"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Implementace směrování a služeb CCNP ENARSI"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Implementing Routing and Services CCNP ENARSI"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. RNDr. Tomáš Sochor, CSc."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jiří Balej, Ph.D. (cvičící, přednášející, zkoušející)Ing. Igor Grellneth, Ph.D. (cvičící, zkoušející)doc. RNDr. Tomáš Sochor, CSc. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška a Protokoly počítačových sítí a Přepínání a směrování v počítačových sítích a Pokročilé směrování a přepínání CCNA3"
+    },
+    {
+      "label": "1.",
+      "content": "IPv4 a IPv6 adresace, směrování a jejich troubleshooting (dotace 2/3)"
+    },
+    {
+      "label": "2.",
+      "content": "EIGRP - základy a pokročilá nastavení pro IPv4 a IPv6, troubleshooting (dotace 2/6)"
+    },
+    {
+      "label": "3.",
+      "content": "OSPF - základy a pokročilá nastavení pro IPv4 a IPv6, troubleshooting (dotace 2/6)"
+    },
+    {
+      "label": "4.",
+      "content": "BGP - základy a pokročilá nastavení pro IPv4 a IPv6, troubleshooting (dotace 2/6)"
+    },
+    {
+      "label": "5.",
+      "content": "Policy based routing, redistribuce route a její troubleshooting (dotace 2/6)"
+    },
+    {
+      "label": "6.",
+      "content": "VPN, MPLS, DMVPN tunely a jejich zabezpečení (dotace 2/6)"
+    },
+    {
+      "label": "7.",
+      "content": "Troubleshooting zabezpečení zařízení - ACL, prefix listy, AAA, uRPF, CoPP, protokoly pro správu zařízení (dotace 2/9)"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, ZS 2023/2024, LS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Implementace směrování a služeb CCNP ENARSI"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Implementing Routing and Services CCNP ENARSI"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. RNDr. Tomáš Sochor, CSc."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jiří Balej, Ph.D. (cvičící, přednášející, zkoušející)Ing. Igor Grellneth, Ph.D. (cvičící, zkoušející)doc. RNDr. Tomáš Sochor, CSc. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a Protokoly počítačových sítí a Přepínání a směrování v počítačových sítích a Pokročilé směrování a přepínání CCNA3"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaČtvrtek9.00-10.50Q15B-AIIJ. Balej, T. SochorPřednáškaSudý týden12Čtvrtek11.00-13.50Q01.48B-AIII. Grellneth, J. Balej, T. SochorCvičeníKaždý týden12"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu přípravit studenty po teoretické i praktické stránce na složení průmyslové certifikační zkoušky CCNP Enterprise Implementing Cisco Enterprise Advanced Routing and Services (300-410 ENARSI)."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.IPv4 a IPv6 adresace, směrování a jejich troubleshooting (dotace 2/3)2.EIGRP - základy a pokročilá nastavení pro IPv4 a IPv6, troubleshooting (dotace 2/6)3.OSPF - základy a pokročilá nastavení pro IPv4 a IPv6, troubleshooting (dotace 2/6)4.BGP - základy a pokročilá nastavení pro IPv4 a IPv6, troubleshooting (dotace 2/6)5.Policy based routing, redistribuce route a její troubleshooting (dotace 2/6)6.VPN, MPLS, DMVPN tunely a jejich zabezpečení (dotace 2/6)7.Troubleshooting zabezpečení zařízení - ACL, prefix listy, AAA, uRPF, CoPP, protokoly pro správu zařízení (dotace 2/9)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.EIGRP - základy a pokročilá nastavení pro IPv4 a IPv6, troubleshooting (dotace 2/6)"
+    },
+    {
+      "label": "[section] IPv4 a IPv6 adresace, směrování a jejich troubleshooting",
+      "content": "2.EIGRP - základy a pokročilá nastavení pro IPv4 a IPv6, troubleshooting (dotace 2/6)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.OSPF - základy a pokročilá nastavení pro IPv4 a IPv6, troubleshooting (dotace 2/6)"
+    },
+    {
+      "label": "[section] EIGRP - základy a pokročilá nastavení pro IPv4 a IPv6, troubleshooting",
+      "content": "3.OSPF - základy a pokročilá nastavení pro IPv4 a IPv6, troubleshooting (dotace 2/6)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.BGP - základy a pokročilá nastavení pro IPv4 a IPv6, troubleshooting (dotace 2/6)"
+    },
+    {
+      "label": "[section] OSPF - základy a pokročilá nastavení pro IPv4 a IPv6, troubleshooting",
+      "content": "4.BGP - základy a pokročilá nastavení pro IPv4 a IPv6, troubleshooting (dotace 2/6)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Policy based routing, redistribuce route a její troubleshooting (dotace 2/6)"
+    },
+    {
+      "label": "[section] BGP - základy a pokročilá nastavení pro IPv4 a IPv6, troubleshooting",
+      "content": "5.Policy based routing, redistribuce route a její troubleshooting (dotace 2/6)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.VPN, MPLS, DMVPN tunely a jejich zabezpečení (dotace 2/6)"
+    },
+    {
+      "label": "[section] Policy based routing, redistribuce route a její troubleshooting",
+      "content": "6.VPN, MPLS, DMVPN tunely a jejich zabezpečení (dotace 2/6)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Troubleshooting zabezpečení zařízení - ACL, prefix listy, AAA, uRPF, CoPP, protokoly pro správu zařízení (dotace 2/9)"
+    },
+    {
+      "label": "[section] VPN, MPLS, DMVPN tunely a jejich zabezpečení",
+      "content": "7.Troubleshooting zabezpečení zařízení - ACL, prefix listy, AAA, uRPF, CoPP, protokoly pro správu zařízení (dotace 2/9)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška14 h16 hcvičení42 h0 hseminář0 h40 hpříprava na zkoušku30 h30 hpříprava na průběžný test40 h40 hzpracování projektů14 h14 hCelkem140 h140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Průběžné projekty, zkouška praktických dovedností a teoretická ústní zkouška."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumVypracování semestrální práce30 %30 %Absolvování závěrečné ústní zkoušky30 %30 %Absolvování závěrečné praktické zkoušky40 %40 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:SOCHOR, Tomáš. 2018. Cisco CCNP Route. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-608-1. CCNP enterprise advanced routing ENARSI 300-410: official cert guide. 2020. Hoboken: Cisco Press, 1002 s. ISBN 978-1-58714-525-4.Doporučená:LAMMLE, Todd. 2015. CCNA Výukový průvodce. Brno: Computer Press, 1016 s. ISBN 978-80-251-4602-6.VELTE, T; VELTE, A. 2013. Cisco A Beginner's Guide, Fifth Edition. USA: McGraw Hill, ISBN 978-0-07-181231-3."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "SOCHOR, Tomáš. 2018. Cisco CCNP Route. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-608-1. CCNP enterprise advanced routing ENARSI 300-410: official cert guide. 2020. Hoboken: Cisco Press, 1002 s. ISBN 978-1-58714-525-4."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "LAMMLE, Todd. 2015. CCNA Výukový průvodce. Brno: Computer Press, 1016 s. ISBN 978-80-251-4602-6.VELTE, T; VELTE, A. 2013. Cisco A Beginner's Guide, Fifth Edition. USA: McGraw Hill, ISBN 978-0-07-181231-3."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-CPER"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Implementace směrování a služeb CCNP ENARSI"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Implementing Routing and Services CCNP ENARSI"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course cannot be studied during abroad internship."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. RNDr. Tomáš Sochor, CSc."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jiří Balej, Ph.D. (examiner, instructor, lecturer)Ing. Igor Grellneth, Ph.D. (examiner, instructor)doc. RNDr. Tomáš Sochor, CSc. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam and Computer Networks Protocols and Switching and Routing in Computer Networks and Advanced Routing and Switching CCNA3"
+    },
+    {
+      "label": "1.",
+      "content": "IPv4 and IPv6 addressing, routing and its troubleshooting (allowance 2/3)"
+    },
+    {
+      "label": "2.",
+      "content": "EIGRP - basic and advanced settings, troubleshooting (allowance 2/6)"
+    },
+    {
+      "label": "3.",
+      "content": "OSPF - basic and advanced settings, troubleshooting (allowance 2/6)"
+    },
+    {
+      "label": "4.",
+      "content": "BGP - basic and advanced settings, troubleshooting (allowance 2/6)"
+    },
+    {
+      "label": "5.",
+      "content": "Policy based routing, route redistribution and troubleshooting (allowance 2/6)"
+    },
+    {
+      "label": "6.",
+      "content": "VPN, MPLS, DMVPN tunnels and securing it (allowance 2/6)"
+    },
+    {
+      "label": "7.",
+      "content": "Troubleshooting for device security - ACL, prefix lists, AAA, uRPF, CoPP, protokols for device management (allowance 2/9)"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, WS 2023/2024, SS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Implementace směrování a služeb CCNP ENARSI"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Implementing Routing and Services CCNP ENARSI"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course cannot be studied during abroad internship."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. RNDr. Tomáš Sochor, CSc."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jiří Balej, Ph.D. (examiner, instructor, lecturer)Ing. Igor Grellneth, Ph.D. (examiner, instructor)doc. RNDr. Tomáš Sochor, CSc. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam and Computer Networks Protocols and Switching and Routing in Computer Networks and Advanced Routing and Switching CCNA3"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityThursday9.00-10.50Q15B-AIIJ. Balej, T. SochorLectureEven week12Thursday11.00-13.50Q01.48B-AIII. Grellneth, J. Balej, T. SochorSeminarEvery week12"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to prepare students in theoretical and practical terms for passing the industrial certification exam CCNP Enterprise mplementing Cisco Enterprise Advanced Routing and Services (300-410 ENARSI)."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.IPv4 and IPv6 addressing, routing and its troubleshooting (allowance 2/3)2.EIGRP - basic and advanced settings, troubleshooting (allowance 2/6)3.OSPF - basic and advanced settings, troubleshooting (allowance 2/6)4.BGP - basic and advanced settings, troubleshooting (allowance 2/6)5.Policy based routing, route redistribution and troubleshooting (allowance 2/6)6.VPN, MPLS, DMVPN tunnels and securing it (allowance 2/6)7.Troubleshooting for device security - ACL, prefix lists, AAA, uRPF, CoPP, protokols for device management (allowance 2/9)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.EIGRP - basic and advanced settings, troubleshooting (allowance 2/6)"
+    },
+    {
+      "label": "[section] IPv4 and IPv6 addressing, routing and its troubleshooting",
+      "content": "2.EIGRP - basic and advanced settings, troubleshooting (allowance 2/6)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.OSPF - basic and advanced settings, troubleshooting (allowance 2/6)"
+    },
+    {
+      "label": "[section] EIGRP - basic and advanced settings, troubleshooting",
+      "content": "3.OSPF - basic and advanced settings, troubleshooting (allowance 2/6)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.BGP - basic and advanced settings, troubleshooting (allowance 2/6)"
+    },
+    {
+      "label": "[section] OSPF - basic and advanced settings, troubleshooting",
+      "content": "4.BGP - basic and advanced settings, troubleshooting (allowance 2/6)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Policy based routing, route redistribution and troubleshooting (allowance 2/6)"
+    },
+    {
+      "label": "[section] BGP - basic and advanced settings, troubleshooting",
+      "content": "5.Policy based routing, route redistribution and troubleshooting (allowance 2/6)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.VPN, MPLS, DMVPN tunnels and securing it (allowance 2/6)"
+    },
+    {
+      "label": "[section] Policy based routing, route redistribution and troubleshooting",
+      "content": "6.VPN, MPLS, DMVPN tunnels and securing it (allowance 2/6)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Troubleshooting for device security - ACL, prefix lists, AAA, uRPF, CoPP, protokols for device management (allowance 2/9)"
+    },
+    {
+      "label": "[section] VPN, MPLS, DMVPN tunnels and securing it",
+      "content": "7.Troubleshooting for device security - ACL, prefix lists, AAA, uRPF, CoPP, protokols for device management (allowance 2/9)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture14 h16 hpractice42 h0 hseminar0 h40 hpreparation for exam30 h30 hpreparation for regular testing40 h40 helaboration and execution of projects14 h14 hTotal140 h140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Projects duding semester, practical skill exam and theoretical oral exam."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTerm paper30 %30 %Final oral exam30 %30 %Passing practical final exam40 %40 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:SOCHOR, Tomáš. 2018. Cisco CCNP Route. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-608-1. CCNP enterprise advanced routing ENARSI 300-410: official cert guide. 2020. Hoboken: Cisco Press, 1002 p. ISBN 978-1-58714-525-4.Recommended:LAMMLE, Todd. 2015. CCNA Výukový průvodce. Brno: Computer Press, 1016 p. ISBN 978-80-251-4602-6.VELTE, T; VELTE, A. 2013. Cisco A Beginner's Guide, Fifth Edition. USA: McGraw Hill, ISBN 978-0-07-181231-3."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "SOCHOR, Tomáš. 2018. Cisco CCNP Route. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-608-1. CCNP enterprise advanced routing ENARSI 300-410: official cert guide. 2020. Hoboken: Cisco Press, 1002 p. ISBN 978-1-58714-525-4."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "LAMMLE, Todd. 2015. CCNA Výukový průvodce. Brno: Computer Press, 1016 p. ISBN 978-80-251-4602-6.VELTE, T; VELTE, A. 2013. Cisco A Beginner's Guide, Fifth Edition. USA: McGraw Hill, ISBN 978-0-07-181231-3."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:39:16",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

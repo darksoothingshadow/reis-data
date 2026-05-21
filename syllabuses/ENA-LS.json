@@ -1,0 +1,633 @@
+{
+  "courseCode": "ENA-LS",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENA-LS"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Lokační služby v AJ"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Location-based Services"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět nelze studovat studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "angličtina"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Jaromír Landa, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jaromír Landa, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do problematiky GIS (dotace 6/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní pojmy kartografie"
+    },
+    {
+      "label": "b.",
+      "content": "Reprezentace modelových objektů"
+    },
+    {
+      "label": "c.",
+      "content": "Souřadnicové systémy"
+    },
+    {
+      "label": "d.",
+      "content": "Vstupy a výstupy z GIS"
+    },
+    {
+      "label": "e.",
+      "content": "Hodnocení kvality geografických dat"
+    },
+    {
+      "label": "f.",
+      "content": "Práce s GIS programy"
+    },
+    {
+      "label": "2.",
+      "content": "Úvod do lokačních služeb (dotace 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Historie lokačních služeb"
+    },
+    {
+      "label": "b.",
+      "content": "Metody získání lokace"
+    },
+    {
+      "label": "c.",
+      "content": "Koncept lokačních služeb a jeho využití v praxi"
+    },
+    {
+      "label": "d.",
+      "content": "Využití lokačních služeb v praxi"
+    },
+    {
+      "label": "e.",
+      "content": "Překážky využití lokačních služeb"
+    },
+    {
+      "label": "f.",
+      "content": "Bezpečnost"
+    },
+    {
+      "label": "g.",
+      "content": "Získání lokačních dat z různých zdrojů a jejich analýza (GNSS, iBeacon, QRCode, Wifi, NFC, RFID"
+    },
+    {
+      "label": "3.",
+      "content": "Location intelligence (dotace 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Základy Location intelligence"
+    },
+    {
+      "label": "b.",
+      "content": "Prostorové dotazy nad daty"
+    },
+    {
+      "label": "c.",
+      "content": "Vizualizace a reprezentace dat pomocí mapy"
+    },
+    {
+      "label": "4.",
+      "content": "Samostatná práce na projektu (dotace 6/6)"
+    },
+    {
+      "label": "5.",
+      "content": "Prezentace týmových projektů (dotace 2/0)"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "70 %"
+    },
+    {
+      "label": "Prezentace nebo obhajoba",
+      "content": "10 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "20 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, LS 2024/2025, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Lokační služby v AJ"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Location-based Services"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět nelze studovat studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: angličtina"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Jaromír Landa, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jaromír Landa, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaÚterý13.00-14.50Q04N-OIJ. LandaCvičeníKaždý týden28Čtvrtek11.00-12.50Q04N-OIJ. LandaCvičeníKaždý týden28Čtvrtek13.00-14.50Q16N-OIJ. LandaPřednáškaKaždý týden56"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Student získá teoretický základ i praktické dovednosti z oblasti lokačních služeb a geografických informačních systémů. Předmět poskytuje komplexní pohled na problematiku využití GIS pro poskytování relevantních informací (Location Based Services, Location Intelligence). Student se naučí pracovat s geografickým informačním systémem běžné využívaným v komerční sféře."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do problematiky GIS (dotace 6/8) a.Základní pojmy kartografieb.Reprezentace modelových objektůc.Souřadnicové systémyd.Vstupy a výstupy z GISe.Hodnocení kvality geografických datf.Práce s GIS programy2.Úvod do lokačních služeb (dotace 8/8) a.Historie lokačních služebb.Metody získání lokacec.Koncept lokačních služeb a jeho využití v praxid.Využití lokačních služeb v praxie.Překážky využití lokačních služebf.Bezpečnostg.Získání lokačních dat z různých zdrojů a jejich analýza (GNSS, iBeacon, QRCode, Wifi, NFC, RFID3.Location intelligence (dotace 6/6) a.Základy Location intelligenceb.Prostorové dotazy nad datyc.Vizualizace a reprezentace dat pomocí mapy4.Samostatná práce na projektu (dotace 6/6)5.Prezentace týmových projektů (dotace 2/0)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Základní pojmy kartografieb.Reprezentace modelových objektůc.Souřadnicové systémyd.Vstupy a výstupy z GISe.Hodnocení kvality geografických datf.Práce s GIS programy"
+    },
+    {
+      "label": "[section] Úvod do problematiky GIS",
+      "content": "a.Základní pojmy kartografieb.Reprezentace modelových objektůc.Souřadnicové systémyd.Vstupy a výstupy z GISe.Hodnocení kvality geografických datf.Práce s GIS programy"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Historie lokačních služebb.Metody získání lokacec.Koncept lokačních služeb a jeho využití v praxid.Využití lokačních služeb v praxie.Překážky využití lokačních služebf.Bezpečnostg.Získání lokačních dat z různých zdrojů a jejich analýza (GNSS, iBeacon, QRCode, Wifi, NFC, RFID"
+    },
+    {
+      "label": "[section] Úvod do lokačních služeb",
+      "content": "a.Historie lokačních služebb.Metody získání lokacec.Koncept lokačních služeb a jeho využití v praxid.Využití lokačních služeb v praxie.Překážky využití lokačních služebf.Bezpečnostg.Získání lokačních dat z různých zdrojů a jejich analýza (GNSS, iBeacon, QRCode, Wifi, NFC, RFID"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Základy Location intelligenceb.Prostorové dotazy nad datyc.Vizualizace a reprezentace dat pomocí mapy"
+    },
+    {
+      "label": "[section] Location intelligence",
+      "content": "a.Základy Location intelligenceb.Prostorové dotazy nad datyc.Vizualizace a reprezentace dat pomocí mapy"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Prezentace týmových projektů (dotace 2/0)"
+    },
+    {
+      "label": "[section] Samostatná práce na projektu",
+      "content": "5.Prezentace týmových projektů (dotace 2/0)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hkonzultace10 hprojektová práce60 hveřejná prezentace (ústní)2 hpříprava na zkoušku10 hpříprava prezentace10 hzpracování seminární práce20 hCelkem168 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Pro úspěšné splnění zkoušky je nutné získat zápočet. Zápočet je udělen na základě praktického projektu, který studenti vytvoří během semestru. Projekt je zaměřen a tvorbu vlastní lokační služby. Studenti si v týmech vymyslí vlastní lokační službu, provedou její analýzu a zhodnocení její použitelnosti v praxi. Součástí hodnocení projektu jsou i průběžné konzultace a samostudium látky. Ústní zkouška je zaměřena na ověření teoretických znalostí získaných v průběhu semestru. V průběhu semestru mají studenti možnost získat až 100 bodů. Pro úspěšné splnění zkoušky je nutné projít ústní zkouškou (20 bodů), získat zápočet (80 bodů). Pro získání známky E je nezbytné získat alespoň 60 bodů. Zároveň je nutné z projektu získat minimálně 40 bodů a ze zkoušky minimálně 10 bodů. Škála hodnocení: méně než 60 bodů F, 60 bodů a více E, 68 bodů a více D, 75 bodů a více C, 83 bodů a více B a 90 bodů a více A. Požadavky na ukončení předmětu pro distanční formu výuky: Požadavky na projekt zůstávají stejné, mění se pouze forma zkoušení. Zkouška bude probíhat pomocí aplikace MS Teams formou videohovoru."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumVypracování semestrální práce70 %Prezentace nebo obhajoba10 %Absolvování závěrečné ústní zkoušky20 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:WERNER, Martin. 2014. Indoor Location-Based Services: Prerequisites and Foundations. 1. vyd. Springer, ISBN 978-3-319-10699-1.CORNELIUS, Sarah; CARVER, Steve; HEYWOOD, AIan. 2012. An Introduction to Geographical Information Systems. 4th edition. USA: Prentice Hall, 480 s. ISBN 0-273-72259-X.Doporučená:DE SHERBININ, A. a kol. Preparing for Resettlement Associated with Climate Change. Science, 2011, 334: 456-457.DE SHERBININ a kol. Climate vulnerability mapping: a systematic review and future prospects. Wiley Interdisciplinary Reviews: Climate Change, 2019, 10(5). ISSN 1757-7799.STOJANOV, R., DUŽÍ, B., KELMAN, I., NĚMEC, D., PROCHÁZKA, D. Local perceptions of climate change impacts and migration patterns in Malé, Maldives. The Geographical Journal, 2017, 183(4), 370–385. ISSN 1475-4959."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "WERNER, Martin. 2014. Indoor Location-Based Services: Prerequisites and Foundations. 1. vyd. Springer, ISBN 978-3-319-10699-1.CORNELIUS, Sarah; CARVER, Steve; HEYWOOD, AIan. 2012. An Introduction to Geographical Information Systems. 4th edition. USA: Prentice Hall, 480 s. ISBN 0-273-72259-X."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "DE SHERBININ, A. a kol. Preparing for Resettlement Associated with Climate Change. Science, 2011, 334: 456-457.DE SHERBININ a kol. Climate vulnerability mapping: a systematic review and future prospects. Wiley Interdisciplinary Reviews: Climate Change, 2019, 10(5). ISSN 1757-7799.STOJANOV, R., DUŽÍ, B., KELMAN, I., NĚMEC, D., PROCHÁZKA, D. Local perceptions of climate change impacts and migration patterns in Malé, Maldives. The Geographical Journal, 2017, 183(4), 370–385. ISSN 1475-4959."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Zaměření ZNOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období LS 2023/2024Zaměření ZNOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období ZS 2024/2025Zaměření ZNUR Uživatelská rozhraní, prezenční forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENA-LS"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Lokační služby v AJ"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Location-based Services"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The subject cannot be attended during foreign trip."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "English"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Jaromír Landa, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jaromír Landa, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to GIS (allowance 6/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic concepts of cartography"
+    },
+    {
+      "label": "b.",
+      "content": "Representation of objects"
+    },
+    {
+      "label": "c.",
+      "content": "Coordinate systems"
+    },
+    {
+      "label": "d.",
+      "content": "GIS inputs and outputs"
+    },
+    {
+      "label": "e.",
+      "content": "Evaluation of the quality of geographic data"
+    },
+    {
+      "label": "f.",
+      "content": "Working with GIS programs"
+    },
+    {
+      "label": "2.",
+      "content": "Introduction to location-based services (allowance 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "History of location-based services"
+    },
+    {
+      "label": "b.",
+      "content": "Methods for obtaining a location"
+    },
+    {
+      "label": "c.",
+      "content": "The concept of location-based services and its practical use"
+    },
+    {
+      "label": "d.",
+      "content": "Use of location services in practice"
+    },
+    {
+      "label": "e.",
+      "content": "Obstacles to the use of location services"
+    },
+    {
+      "label": "f.",
+      "content": "Security"
+    },
+    {
+      "label": "g.",
+      "content": "Acquisition of location data from various sources and their analysis (GNSS, iBeacon, QRCode, Wifi, NFC, RFID)"
+    },
+    {
+      "label": "3.",
+      "content": "Location Intelligence (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Location Intelligence basics"
+    },
+    {
+      "label": "b.",
+      "content": "Spatial data queries"
+    },
+    {
+      "label": "c.",
+      "content": "Visualization and representation of data using a map"
+    },
+    {
+      "label": "4.",
+      "content": "Individual work on the project (allowance 6/6)"
+    },
+    {
+      "label": "5.",
+      "content": "Presentation of team projects (allowance 2/0)"
+    },
+    {
+      "label": "Term paper",
+      "content": "70 %"
+    },
+    {
+      "label": "Presentation or defence",
+      "content": "10 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "20 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, SS 2024/2025, WS 2024/2025, WS 2023/2024, WS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Lokační služby v AJ"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Location-based Services"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The subject cannot be attended during foreign trip."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: English"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Jaromír Landa, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jaromír Landa, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityTuesday13.00-14.50Q04N-OIJ. LandaSeminarEvery week28Thursday11.00-12.50Q04N-OIJ. LandaSeminarEvery week28Thursday13.00-14.50Q16N-OIJ. LandaLectureEvery week56"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The student will gain a theoretical basics and practical skills in the field of location-based services and Geographic Information systems. The course provides a comprehensive view of the use of GIS to provide relevant information (Location Based Services, Location Intelligence). The student will learn to work with a geographic information system commonly used in the commercial sector."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to GIS (allowance 6/8) a.Basic concepts of cartographyb.Representation of objectsc.Coordinate systemsd.GIS inputs and outputse.Evaluation of the quality of geographic dataf.Working with GIS programs2.Introduction to location-based services (allowance 8/8) a.History of location-based servicesb.Methods for obtaining a locationc.The concept of location-based services and its practical used.Use of location services in practicee.Obstacles to the use of location servicesf.Securityg.Acquisition of location data from various sources and their analysis (GNSS, iBeacon, QRCode, Wifi, NFC, RFID)3.Location Intelligence (allowance 6/6) a.Location Intelligence basicsb.Spatial data queriesc.Visualization and representation of data using a map4.Individual work on the project (allowance 6/6)5.Presentation of team projects (allowance 2/0)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Basic concepts of cartographyb.Representation of objectsc.Coordinate systemsd.GIS inputs and outputse.Evaluation of the quality of geographic dataf.Working with GIS programs"
+    },
+    {
+      "label": "[section] Introduction to GIS",
+      "content": "a.Basic concepts of cartographyb.Representation of objectsc.Coordinate systemsd.GIS inputs and outputse.Evaluation of the quality of geographic dataf.Working with GIS programs"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.History of location-based servicesb.Methods for obtaining a locationc.The concept of location-based services and its practical used.Use of location services in practicee.Obstacles to the use of location servicesf.Securityg.Acquisition of location data from various sources and their analysis (GNSS, iBeacon, QRCode, Wifi, NFC, RFID)"
+    },
+    {
+      "label": "[section] Introduction to location-based services",
+      "content": "a.History of location-based servicesb.Methods for obtaining a locationc.The concept of location-based services and its practical used.Use of location services in practicee.Obstacles to the use of location servicesf.Securityg.Acquisition of location data from various sources and their analysis (GNSS, iBeacon, QRCode, Wifi, NFC, RFID)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Location Intelligence basicsb.Spatial data queriesc.Visualization and representation of data using a map"
+    },
+    {
+      "label": "[section] Location Intelligence",
+      "content": "a.Location Intelligence basicsb.Spatial data queriesc.Visualization and representation of data using a map"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Presentation of team projects (allowance 2/0)"
+    },
+    {
+      "label": "[section] Individual work on the project",
+      "content": "5.Presentation of team projects (allowance 2/0)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hconsultation10 hproject work60 hpublic presentation (oral)2 hpreparation for exam10 hpreparation of presentation10 hwriting of seminar paper20 hTotal168 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "To successfully pass the exam, it is necessary to pass the final exam and do the project. The project is focused on creating your own location service. Students in teams will invent their own location service, perform its analysis and evaluation of its usability in practice. The evaluation of the project also includes ongoing consultations and self-study of the subject. The oral exam is aimed at verifying the theoretical knowledge acquired during the semester. During the semester, the student can get up to 100 points. To pass the subject, students need to pass oral exam for at least 10 points (out of 20 total) and do the project for at least 40 points (out of 80 total). At least 60 points are necessary for the E grade. Students must get at least 40 points from the project and at least 10 points from the exam. Points for grade: less than 60 points F, 60 points and more E, 68 points and more D, 75 points and more C, 83 points and more B a 90 points and more A. Requirements for completion of the course for distant form of education: The project requirements remain the same, only the form of testing changes. The exam will be conducted using the MS Teams application in the form of a video call."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTerm paper70 %Presentation or defence10 %Final oral exam20 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:WERNER, Martin. 2014. Indoor Location-Based Services: Prerequisites and Foundations. 1st ed. Springer, ISBN 978-3-319-10699-1.CORNELIUS, Sarah; CARVER, Steve; HEYWOOD, AIan. 2012. An Introduction to Geographical Information Systems. 4th edition. USA: Prentice Hall, 480 p. ISBN 0-273-72259-X.Recommended:DE SHERBININ, A. a kol. Preparing for Resettlement Associated with Climate Change. Science, 2011, 334: 456-457.DE SHERBININ a kol. Climate vulnerability mapping: a systematic review and future prospects. Wiley Interdisciplinary Reviews: Climate Change, 2019, 10(5). ISSN 1757-7799.STOJANOV, R., DUŽÍ, B., KELMAN, I., NĚMEC, D., PROCHÁZKA, D. Local perceptions of climate change impacts and migration patterns in Malé, Maldives. The Geographical Journal, 2017, 183(4), 370–385. ISSN 1475-4959."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "WERNER, Martin. 2014. Indoor Location-Based Services: Prerequisites and Foundations. 1st ed. Springer, ISBN 978-3-319-10699-1.CORNELIUS, Sarah; CARVER, Steve; HEYWOOD, AIan. 2012. An Introduction to Geographical Information Systems. 4th edition. USA: Prentice Hall, 480 p. ISBN 0-273-72259-X."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "DE SHERBININ, A. a kol. Preparing for Resettlement Associated with Climate Change. Science, 2011, 334: 456-457.DE SHERBININ a kol. Climate vulnerability mapping: a systematic review and future prospects. Wiley Interdisciplinary Reviews: Climate Change, 2019, 10(5). ISSN 1757-7799.STOJANOV, R., DUŽÍ, B., KELMAN, I., NĚMEC, D., PROCHÁZKA, D. Local perceptions of climate change impacts and migration patterns in Malé, Maldives. The Geographical Journal, 2017, 183(4), 370–385. ISSN 1475-4959."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Scope ZNOI Scope for Open Informatics, full-time form, initial period SS 2023/2024Scope ZNOI Scope for Open Informatics, full-time form, initial period WS 2024/2025Scope ZNUR Uživatelská rozhraní, full-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:52:26",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

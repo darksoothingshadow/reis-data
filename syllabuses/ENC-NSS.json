@@ -1,0 +1,705 @@
+{
+  "courseCode": "ENC-NSS",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENC-NSS"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Nasazení software a služeb"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Software and Services Deployment"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, etapa A 0/0, etapa B 2/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský; magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraniční mobility vzhledem k požadavkům na technologické zázemí."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Jan Kolomazník, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Oldřich Faldík, Ph.D. (přednášející, tutor)Ing. Miroslav Jaroš (cvičící, přednášející)Ing. David Klepáček (cvičící, tutor)Ing. Jan Kolomazník, Ph.D. (garant, tutor)doc. Ing. Oldřich Trenz, Ph.D. (cvičící, přednášející, tutor, zkoušející)Ing. et Ing. Michaela Veselá (cvičící, tutor)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Development cycle (dotace 3/6)"
+    },
+    {
+      "label": "a.",
+      "content": "moderní trendy vývoje"
+    },
+    {
+      "label": "b.",
+      "content": "výhody cloudu a virtualizace při vývoji aplikací"
+    },
+    {
+      "label": "c.",
+      "content": "teoretické seznámení s DevOPS"
+    },
+    {
+      "label": "d.",
+      "content": "technologie pro continuous integration a jejich implementace"
+    },
+    {
+      "label": "e.",
+      "content": "implementace CI/DI při vývoji"
+    },
+    {
+      "label": "2.",
+      "content": "Virtualizace a využití cloudových služeb (dotace 3/6)"
+    },
+    {
+      "label": "a.",
+      "content": "virtualizace v podnikovém prostředí a při vývoji software"
+    },
+    {
+      "label": "b.",
+      "content": "cloudové služby a jejich nasazení"
+    },
+    {
+      "label": "c.",
+      "content": "hybridní cloud"
+    },
+    {
+      "label": "3.",
+      "content": "Správa databází a ORM (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "moderní práce s databázi, základní přístupy k mapování objektu na ERD"
+    },
+    {
+      "label": "b.",
+      "content": "ORM a databázová migrace"
+    },
+    {
+      "label": "c.",
+      "content": "techniky virtualizace databáze v cloudu"
+    },
+    {
+      "label": "d.",
+      "content": "NoSQL vs. SQL z pohledu správy a nasazení"
+    },
+    {
+      "label": "4.",
+      "content": "Manager position (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "teorie vedení programátorských týmů"
+    },
+    {
+      "label": "b.",
+      "content": "psychologie práce, motivace"
+    },
+    {
+      "label": "c.",
+      "content": "zpracování zpětné vazby od týmu"
+    },
+    {
+      "label": "d.",
+      "content": "vedení přijímacích pohovorů"
+    },
+    {
+      "label": "5.",
+      "content": "Správa kódu (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "metriky a automatické hodnocení kvality a zranitelnosti kódu"
+    },
+    {
+      "label": "b.",
+      "content": "návrh komplexních API s ohledem na nasazení"
+    },
+    {
+      "label": "c.",
+      "content": "management změn v kódu, refaktoring a inkrementální vývoj a jejich dopady na nasazení"
+    },
+    {
+      "label": "d.",
+      "content": "dokumentace kódu a nasazení"
+    },
+    {
+      "label": "6.",
+      "content": "Testování (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "automatické testování jako proces nasazení SW"
+    },
+    {
+      "label": "b.",
+      "content": "funkční, integrační, výkonnostní a bezpečnostní testy"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "50 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "50 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Nasazení software a služeb"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Software and Services Deployment"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, etapa A 0/0, etapa B 2/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, etapa A 0/0, etapa B 2/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský; magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraniční mobility vzhledem k požadavkům na technologické zázemí."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Jan Kolomazník, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Oldřich Faldík, Ph.D. (přednášející, tutor)Ing. Miroslav Jaroš (cvičící, přednášející)Ing. David Klepáček (cvičící, tutor)Ing. Jan Kolomazník, Ph.D. (garant, tutor)doc. Ing. Oldřich Trenz, Ph.D. (cvičící, přednášející, tutor, zkoušející)Ing. et Ing. Michaela Veselá (cvičící, tutor)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPoznámkaÚterý15.00-16.50Q16N-OIO. Trenz, O. Faldík, M. JarošPřednáškaKaždý týden80 Středa13.00-16.50Q05N-OIO. Trenz, M. Jaroš, D. KlepáčekCvičeníKaždý týden22Cvičení z ASS zvolte ve stejnou dobu.Čtvrtek11.00-14.50Q05N-OIO. Trenz, M. Jaroš, D. KlepáčekCvičeníKaždý týden22Cvičení z ASS zvolte ve stejnou dobu."
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Student získá teoretický základ i praktické dovednosti z oblasti vývojových prostředí, vývoje softwaru (v rámci softwarového projektu), a to až do jeho finálního nasazení. Důraz je kladen především na nasazení softwarového díla do testovacího a produkčního prostředí. Student se taktéž seznámí s automatizací procesu nasazení softwaru a jeho udržování v tzv. prostředí kontinuálního vývoje aplikace. Obsah cvičení je orientován na aplikaci získaných znalostí, osvojení si praktických dovedností."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Development cycle (dotace 3/6) a.moderní trendy vývojeb.výhody cloudu a virtualizace při vývoji aplikacíc.teoretické seznámení s DevOPSd.technologie pro continuous integration a jejich implementacee.implementace CI/DI při vývoji2.Virtualizace a využití cloudových služeb (dotace 3/6) a.virtualizace v podnikovém prostředí a při vývoji softwareb.cloudové služby a jejich nasazeníc.hybridní cloud3.Správa databází a ORM (dotace 2/4) a.moderní práce s databázi, základní přístupy k mapování objektu na ERDb.ORM a databázová migracec.techniky virtualizace databáze v cloudud.NoSQL vs. SQL z pohledu správy a nasazení4.Manager position (dotace 2/4) a.teorie vedení programátorských týmůb.psychologie práce, motivacec.zpracování zpětné vazby od týmud.vedení přijímacích pohovorů5.Správa kódu (dotace 2/4) a.metriky a automatické hodnocení kvality a zranitelnosti kódub.návrh komplexních API s ohledem na nasazeníc.management změn v kódu, refaktoring a inkrementální vývoj a jejich dopady na nasazeníd.dokumentace kódu a nasazení6.Testování (dotace 2/4) a.automatické testování jako proces nasazení SWb.funkční, integrační, výkonnostní a bezpečnostní testy"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.moderní trendy vývojeb.výhody cloudu a virtualizace při vývoji aplikacíc.teoretické seznámení s DevOPSd.technologie pro continuous integration a jejich implementacee.implementace CI/DI při vývoji"
+    },
+    {
+      "label": "[section] Development cycle",
+      "content": "a.moderní trendy vývojeb.výhody cloudu a virtualizace při vývoji aplikacíc.teoretické seznámení s DevOPSd.technologie pro continuous integration a jejich implementacee.implementace CI/DI při vývoji"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.virtualizace v podnikovém prostředí a při vývoji softwareb.cloudové služby a jejich nasazeníc.hybridní cloud"
+    },
+    {
+      "label": "[section] Virtualizace a využití cloudových služeb",
+      "content": "a.virtualizace v podnikovém prostředí a při vývoji softwareb.cloudové služby a jejich nasazeníc.hybridní cloud"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.moderní práce s databázi, základní přístupy k mapování objektu na ERDb.ORM a databázová migracec.techniky virtualizace databáze v cloudud.NoSQL vs. SQL z pohledu správy a nasazení"
+    },
+    {
+      "label": "[section] Správa databází a ORM",
+      "content": "a.moderní práce s databázi, základní přístupy k mapování objektu na ERDb.ORM a databázová migracec.techniky virtualizace databáze v cloudud.NoSQL vs. SQL z pohledu správy a nasazení"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.teorie vedení programátorských týmůb.psychologie práce, motivacec.zpracování zpětné vazby od týmud.vedení přijímacích pohovorů"
+    },
+    {
+      "label": "[section] Manager position",
+      "content": "a.teorie vedení programátorských týmůb.psychologie práce, motivacec.zpracování zpětné vazby od týmud.vedení přijímacích pohovorů"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.metriky a automatické hodnocení kvality a zranitelnosti kódub.návrh komplexních API s ohledem na nasazeníc.management změn v kódu, refaktoring a inkrementální vývoj a jejich dopady na nasazeníd.dokumentace kódu a nasazení"
+    },
+    {
+      "label": "[section] Správa kódu",
+      "content": "a.metriky a automatické hodnocení kvality a zranitelnosti kódub.návrh komplexních API s ohledem na nasazeníc.management změn v kódu, refaktoring a inkrementální vývoj a jejich dopady na nasazeníd.dokumentace kódu a nasazení"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.automatické testování jako proces nasazení SWb.funkční, integrační, výkonnostní a bezpečnostní testy"
+    },
+    {
+      "label": "[section] Testování",
+      "content": "a.automatické testování jako proces nasazení SWb.funkční, integrační, výkonnostní a bezpečnostní testy"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení28 hprojektová práce74 hpříprava na zkoušku24 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Praktické a tematické úlohy z předmětné oblasti, vč. vyhodnocení, realizované na cvičení, aktivity a pod. (možno získat až 20 bodů, minimum je 12 bodů). Semestrální týmový projekt, v rámci kterého studenti využijí dostupnou architekturu a aplikují postupy nutné pro nasazení softwaru, projekt s obhajobou (40 bodů, minimálně 24 bodů). Zkouška v písemné a ústní podobě ověřuje u studentů získané znalosti z oblasti provozu softwaru, zejména však nasazení a údržby komplexních softwarových systémů (40 bodů, minimálně 25 bodů). Hodnotící stupnice podle dosažených bodů je: A 100 - 90 B 83 - 89 C 75 - 82 D 68 - 74 E 60 - 69 F 0 - 59"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumVypracování semestrální práce50 %Absolvování závěrečné ústní zkoušky50 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:PRESSMAN, Roger. 2010. Software engineering: a practitioner's approach. Boston: McGraw-Hill, 928 s. ISBN 0-07-337597-7.SOMMERVILLE, Ian. 2016. Software Engineering. London: Pearson, 816 s. ISBN 978-1-292-09613-1. Software engineering for Internet applications. Cambridge, Mass.: MIT Press, 399 s. ISBN 0-262-51191-6.Kol. 2009. Engineering web applications. New York: Springer, 349 s. Data-centric systems and application. ISBN 978-3-540-92200-1."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "PRESSMAN, Roger. 2010. Software engineering: a practitioner's approach. Boston: McGraw-Hill, 928 s. ISBN 0-07-337597-7.SOMMERVILLE, Ian. 2016. Software Engineering. London: Pearson, 816 s. ISBN 978-1-292-09613-1. Software engineering for Internet applications. Cambridge, Mass.: MIT Press, 399 s. ISBN 0-262-51191-6.Kol. 2009. Engineering web applications. New York: Springer, 349 s. Data-centric systems and application. ISBN 978-3-540-92200-1."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-OI Otevřená informatika, prezenční forma, počáteční období ZS 2024/2025Program N-OI Otevřená informatika, prezenční forma, počáteční období LS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENC-NSS"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Nasazení software a služeb"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Software and Services Deployment"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, period A 0/0, period B 2/4 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master; master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "It is not possible to study the subject during foreign mobility due to the requirements for technological background."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Jan Kolomazník, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Oldřich Faldík, Ph.D. (lecturer, tutor)Ing. Miroslav Jaroš (instructor, lecturer)Ing. David Klepáček (instructor, tutor)Ing. Jan Kolomazník, Ph.D. (supervisor, tutor)doc. Ing. Oldřich Trenz, Ph.D. (examiner, instructor, lecturer, tutor)Ing. et Ing. Michaela Veselá (instructor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Development cycle (allowance 3/6)"
+    },
+    {
+      "label": "a.",
+      "content": "modern development trends"
+    },
+    {
+      "label": "b.",
+      "content": "benefits of cloud and virtualization in application development"
+    },
+    {
+      "label": "c.",
+      "content": "theoretical introduction to DevOPS"
+    },
+    {
+      "label": "d.",
+      "content": "technologies for continuous integration and their implementation"
+    },
+    {
+      "label": "e.",
+      "content": "CI / DI implementation during development"
+    },
+    {
+      "label": "2.",
+      "content": "Virtualization and utilization of cloud services (allowance 3/6)"
+    },
+    {
+      "label": "a.",
+      "content": "virtualization in the enterprise environment and in software development"
+    },
+    {
+      "label": "b.",
+      "content": "cloud services and their deployment"
+    },
+    {
+      "label": "c.",
+      "content": "hybrid cloud"
+    },
+    {
+      "label": "3.",
+      "content": "Database and ORM management (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "modern database work, basic approaches to mapping an object to ERD"
+    },
+    {
+      "label": "b.",
+      "content": "ORM and database migration"
+    },
+    {
+      "label": "c.",
+      "content": "vcloud database virtualization techniques"
+    },
+    {
+      "label": "d.",
+      "content": "NoSQL vs. SQL in terms of administration and deployment"
+    },
+    {
+      "label": "4.",
+      "content": "Manager position (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "theory of programming team leadership"
+    },
+    {
+      "label": "b.",
+      "content": "work psychology, motivation"
+    },
+    {
+      "label": "c.",
+      "content": "processing feedback from the team"
+    },
+    {
+      "label": "d.",
+      "content": "conducting job interviews"
+    },
+    {
+      "label": "5.",
+      "content": "Code Management (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "metrics and automatic assessment of code quality and vulnerability"
+    },
+    {
+      "label": "b.",
+      "content": "design of complex APIs with regard to deployment"
+    },
+    {
+      "label": "c.",
+      "content": "code change management, refactoring and incremental development and their impact on deployment"
+    },
+    {
+      "label": "d.",
+      "content": "code documentation and deployment"
+    },
+    {
+      "label": "6.",
+      "content": "Testing (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "automatic testing as a SW deployment process"
+    },
+    {
+      "label": "b.",
+      "content": "functional, integration, performance and safety tests"
+    },
+    {
+      "label": "Term paper",
+      "content": "50 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "50 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Nasazení software a služeb"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Software and Services Deployment"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, period A 0/0, period B 2/4 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, period A 0/0, period B 2/4 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master; master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: It is not possible to study the subject during foreign mobility due to the requirements for technological background."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Jan Kolomazník, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Oldřich Faldík, Ph.D. (lecturer, tutor)Ing. Miroslav Jaroš (instructor, lecturer)Ing. David Klepáček (instructor, tutor)Ing. Jan Kolomazník, Ph.D. (supervisor, tutor)doc. Ing. Oldřich Trenz, Ph.D. (examiner, instructor, lecturer, tutor)Ing. et Ing. Michaela Veselá (instructor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityNoteTuesday15.00-16.50Q16N-OIO. Trenz, O. Faldík, M. JarošLectureEvery week80 Wednesday13.00-16.50Q05N-OIO. Trenz, M. Jaroš, D. KlepáčekSeminarEvery week22Cvičení z ASS zvolte ve stejnou dobu.Thursday11.00-14.50Q05N-OIO. Trenz, M. Jaroš, D. KlepáčekSeminarEvery week22Cvičení z ASS zvolte ve stejnou dobu."
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The student will gain a theoretical basis and practical skills in the field of development environments, software development (within a software project), until its final deployment. Emphasis is placed primarily on the deployment of software work in a test and production environment. The student will also get acquainted with the automation of the software deployment process and its maintenance in the so-called environment of continuous application development. The content of the exercise is focused on the application of acquired knowledge, the acquisition of practical skills."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Development cycle (allowance 3/6) a.modern development trendsb.benefits of cloud and virtualization in application developmentc.theoretical introduction to DevOPSd.technologies for continuous integration and their implementatione.CI / DI implementation during development2.Virtualization and utilization of cloud services (allowance 3/6) a.virtualization in the enterprise environment and in software developmentb.cloud services and their deploymentc.hybrid cloud3.Database and ORM management (allowance 2/4) a.modern database work, basic approaches to mapping an object to ERDb.ORM and database migrationc.vcloud database virtualization techniquesd.NoSQL vs. SQL in terms of administration and deployment4.Manager position (allowance 2/4) a.theory of programming team leadershipb.work psychology, motivationc.processing feedback from the teamd.conducting job interviews5.Code Management (allowance 2/4) a.metrics and automatic assessment of code quality and vulnerabilityb.design of complex APIs with regard to deploymentc.code change management, refactoring and incremental development and their impact on deploymentd.code documentation and deployment6.Testing (allowance 2/4) a.automatic testing as a SW deployment processb.functional, integration, performance and safety tests"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.modern development trendsb.benefits of cloud and virtualization in application developmentc.theoretical introduction to DevOPSd.technologies for continuous integration and their implementatione.CI / DI implementation during development"
+    },
+    {
+      "label": "[section] Development cycle",
+      "content": "a.modern development trendsb.benefits of cloud and virtualization in application developmentc.theoretical introduction to DevOPSd.technologies for continuous integration and their implementatione.CI / DI implementation during development"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.virtualization in the enterprise environment and in software developmentb.cloud services and their deploymentc.hybrid cloud"
+    },
+    {
+      "label": "[section] Virtualization and utilization of cloud services",
+      "content": "a.virtualization in the enterprise environment and in software developmentb.cloud services and their deploymentc.hybrid cloud"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.modern database work, basic approaches to mapping an object to ERDb.ORM and database migrationc.vcloud database virtualization techniquesd.NoSQL vs. SQL in terms of administration and deployment"
+    },
+    {
+      "label": "[section] Database and ORM management",
+      "content": "a.modern database work, basic approaches to mapping an object to ERDb.ORM and database migrationc.vcloud database virtualization techniquesd.NoSQL vs. SQL in terms of administration and deployment"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.theory of programming team leadershipb.work psychology, motivationc.processing feedback from the teamd.conducting job interviews"
+    },
+    {
+      "label": "[section] Manager position",
+      "content": "a.theory of programming team leadershipb.work psychology, motivationc.processing feedback from the teamd.conducting job interviews"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.metrics and automatic assessment of code quality and vulnerabilityb.design of complex APIs with regard to deploymentc.code change management, refactoring and incremental development and their impact on deploymentd.code documentation and deployment"
+    },
+    {
+      "label": "[section] Code Management",
+      "content": "a.metrics and automatic assessment of code quality and vulnerabilityb.design of complex APIs with regard to deploymentc.code change management, refactoring and incremental development and their impact on deploymentd.code documentation and deployment"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.automatic testing as a SW deployment processb.functional, integration, performance and safety tests"
+    },
+    {
+      "label": "[section] Testing",
+      "content": "a.automatic testing as a SW deployment processb.functional, integration, performance and safety tests"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice28 hproject work74 hpreparation for exam24 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Practical and thematic tasks of the subject area, incl. evaluation, carried out for exercises, activities, etc. (up to 20 points can be obtained, the minimum is 12 points). Semester team project, in which students use the available architecture and apply the procedures necessary for the deployment of software, project sobhajobou (40 points, at least 24 points). The written and oral exam verifies the students' acquired knowledge in the field of software operation, but especially the deployment and maintenance of complex software systems (40 points, at least 25 points). The evaluation scale according to the achieved points is: A 100 - 90 B 83 - 89 C 75 - 82 D 68 - 74 E 60 - 69 F 0 - 59"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTerm paper50 %Final oral exam50 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:PRESSMAN, Roger. 2010. Software engineering: a practitioner's approach. Boston: McGraw-Hill, 928 p. ISBN 0-07-337597-7.SOMMERVILLE, Ian. 2016. Software Engineering. London: Pearson, 816 p. ISBN 978-1-292-09613-1. Software engineering for Internet applications. Cambridge, Mass.: MIT Press, 399 p. ISBN 0-262-51191-6.Col. 2009. Engineering web applications. New York: Springer, 349 p. Data-centric systems and application. ISBN 978-3-540-92200-1."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "PRESSMAN, Roger. 2010. Software engineering: a practitioner's approach. Boston: McGraw-Hill, 928 p. ISBN 0-07-337597-7.SOMMERVILLE, Ian. 2016. Software Engineering. London: Pearson, 816 p. ISBN 978-1-292-09613-1. Software engineering for Internet applications. Cambridge, Mass.: MIT Press, 399 p. ISBN 0-262-51191-6.Col. 2009. Engineering web applications. New York: Springer, 349 p. Data-centric systems and application. ISBN 978-3-540-92200-1."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-OI Open Informatics, full-time form, initial period WS 2024/2025Programme C-OI Open Informatics, full-time form, initial period SS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:58:56",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

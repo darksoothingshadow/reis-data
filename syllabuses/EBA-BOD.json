@@ -1,0 +1,665 @@
+{
+  "courseCode": "EBA-BOD",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBA-BOD"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Bezpečnost a ochrana dat v AJ"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Data Safety and Security"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "angličtina"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "prof. Ing. Cyril Klimeš, CSc. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Ludmila Kunderová (cvičící, přednášející, tutor, zkoušející)doc. RNDr. Tomáš Sochor, CSc. (cvičící, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Principy bezpečnosti IS/IT – Model systému a lidé v něm; Pojmy: aktivum, zranitelné místo, hrozba, riziko, útok; (dotace 2/0)"
+    },
+    {
+      "label": "2.",
+      "content": "Kybernetická kriminalita; Typy, skutečné příklady a cíle útoků. (dotace 2/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Metody zabezpečení podnikových IS/IT – Bezpečnostní politika podniku a bezpečnostní cíle; (dotace 2/0)"
+    },
+    {
+      "label": "4.",
+      "content": "Analýza rizik, bezpečnostní audit (dotace 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Principy hodnoceni bezpečnosti IS/IT. Přehled standardů pro hodnocení IS/IT; (dotace 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Standard ISO/IEC 15408 (Common Criteria); Standard ISO 27001 (řízení informační bezpečnosti) (dotace 2/0)"
+    },
+    {
+      "label": "7.",
+      "content": "Zákon o kybernetické bezpečnosti a jeho aplikace. Dopady GDPR do IT systémů; Česká a evropská legislativa v souvislosti s kybernetickou bezpečností. (dotace 2/0)"
+    },
+    {
+      "label": "8.",
+      "content": "Sociální inženýrství – Význam sociálního inženýrství v podnikové praxi; Metody sociotechniky (pretxting, phishing, pharming atd.); Obranné mechanismy. Rozpoznávání hoax a phishing zpráv (dotace 2/2)"
+    },
+    {
+      "label": "9.",
+      "content": "Digitální stopa a anonymita na internetu, ochrana osobních dat (dotace 2/0)"
+    },
+    {
+      "label": "10.",
+      "content": "Postupy školení oblasti informační bezpečnosti. Směrnice informační bezpečnosti; On-boarding, off-boarding. Tvorba bezpečností politiky organizace a osnovy školení (dotace 2/1)"
+    },
+    {
+      "label": "11.",
+      "content": "Šifrovaní a elektronický podpis – Principy moderní kryptografie. Proces šifrování a dešifrování, šifrovací klíč, kryptoanalýza. (dotace 2/1)"
+    },
+    {
+      "label": "12.",
+      "content": "Bezpečnostní funkcionalita kryptografických mechanismů; Symetrické a asymetrické kryptografické algoritmy, jejich výhody a nevýhody. Známé standardy a implementace. Hash funkce; (dotace 2/1)"
+    },
+    {
+      "label": "13.",
+      "content": "Elektronický podpis. Certifikáty a hierarchie PKI. Nástroje pro šifrování komunikace (dotace 2/2)"
+    },
+    {
+      "label": "14.",
+      "content": "Infrastruktura pro obranu a prevenci kybernetických útoků, nástroje pro monitoring a sběr provozních dat (SIEM) (dotace 2/1)"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "40 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "60 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Bezpečnost a ochrana dat v AJ"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Data Safety and Security"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: angličtina"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: prof. Ing. Cyril Klimeš, CSc. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Ludmila Kunderová (cvičící, přednášející, tutor, zkoušející)doc. RNDr. Tomáš Sochor, CSc. (cvičící, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaÚterý11.00-12.50Q05B-EAMAL. Kunderová, T. SochorPřednáškaKaždý týden30Úterý15.00-16.50Q05B-EAMAnení určenCvičeníSudý týden25Úterý15.00-16.50Q05B-EAMAL. Kunderová, T. SochorCvičeníLichý týden25"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je poskytnutí přehledu a znalostní báze pro úspěšné řízení informační bezpečnosti a výkon funkcí manažera/správce infomační bezpečnosti a představit problematiku informační bezpečnosti. Předmět pokrývá relevantní normy (ISO/IEC 15408, ISO/IEC 27001, ISO/IEC 27037), zákony (GDPR, ZoKB) a procesy bezpečnostního auditu, analýzy rizik a forenzní analýzy spolu s nástroji pro měření a zajišťování úrovně informační bezpečnosti."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Principy bezpečnosti IS/IT – Model systému a lidé v něm; Pojmy: aktivum, zranitelné místo, hrozba, riziko, útok; (dotace 2/0)2.Kybernetická kriminalita; Typy, skutečné příklady a cíle útoků. (dotace 2/2)3.Metody zabezpečení podnikových IS/IT – Bezpečnostní politika podniku a bezpečnostní cíle; (dotace 2/0)4.Analýza rizik, bezpečnostní audit (dotace 2/2)5.Principy hodnoceni bezpečnosti IS/IT. Přehled standardů pro hodnocení IS/IT; (dotace 2/2)6.Standard ISO/IEC 15408 (Common Criteria); Standard ISO 27001 (řízení informační bezpečnosti) (dotace 2/0)7.Zákon o kybernetické bezpečnosti a jeho aplikace. Dopady GDPR do IT systémů; Česká a evropská legislativa v souvislosti s kybernetickou bezpečností. (dotace 2/0)8.Sociální inženýrství – Význam sociálního inženýrství v podnikové praxi; Metody sociotechniky (pretxting, phishing, pharming atd.); Obranné mechanismy. Rozpoznávání hoax a phishing zpráv (dotace 2/2)9.Digitální stopa a anonymita na internetu, ochrana osobních dat (dotace 2/0)10.Postupy školení oblasti informační bezpečnosti. Směrnice informační bezpečnosti; On-boarding, off-boarding. Tvorba bezpečností politiky organizace a osnovy školení (dotace 2/1)11.Šifrovaní a elektronický podpis – Principy moderní kryptografie. Proces šifrování a dešifrování, šifrovací klíč, kryptoanalýza. (dotace 2/1)12.Bezpečnostní funkcionalita kryptografických mechanismů; Symetrické a asymetrické kryptografické algoritmy, jejich výhody a nevýhody. Známé standardy a implementace. Hash funkce; (dotace 2/1)13.Elektronický podpis. Certifikáty a hierarchie PKI. Nástroje pro šifrování komunikace (dotace 2/2)14.Infrastruktura pro obranu a prevenci kybernetických útoků, nástroje pro monitoring a sběr provozních dat (SIEM) (dotace 2/1)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Kybernetická kriminalita; Typy, skutečné příklady a cíle útoků. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Metody zabezpečení podnikových IS/IT – Bezpečnostní politika podniku a bezpečnostní cíle; (dotace 2/0)"
+    },
+    {
+      "label": "[section] Kybernetická kriminalita; Typy, skutečné příklady a cíle útoků.",
+      "content": "3.Metody zabezpečení podnikových IS/IT – Bezpečnostní politika podniku a bezpečnostní cíle; (dotace 2/0)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Analýza rizik, bezpečnostní audit (dotace 2/2)"
+    },
+    {
+      "label": "[section] Metody zabezpečení podnikových IS/IT – Bezpečnostní politika podniku a bezpečnostní cíle;",
+      "content": "4.Analýza rizik, bezpečnostní audit (dotace 2/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Principy hodnoceni bezpečnosti IS/IT. Přehled standardů pro hodnocení IS/IT; (dotace 2/2)"
+    },
+    {
+      "label": "[section] Analýza rizik, bezpečnostní audit",
+      "content": "5.Principy hodnoceni bezpečnosti IS/IT. Přehled standardů pro hodnocení IS/IT; (dotace 2/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Standard ISO/IEC 15408 (Common Criteria); Standard ISO 27001 (řízení informační bezpečnosti) (dotace 2/0)"
+    },
+    {
+      "label": "[section] Principy hodnoceni bezpečnosti IS/IT. Přehled standardů pro hodnocení IS/IT;",
+      "content": "6.Standard ISO/IEC 15408 (Common Criteria); Standard ISO 27001 (řízení informační bezpečnosti) (dotace 2/0)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Zákon o kybernetické bezpečnosti a jeho aplikace. Dopady GDPR do IT systémů; Česká a evropská legislativa v souvislosti s kybernetickou bezpečností. (dotace 2/0)"
+    },
+    {
+      "label": "[section] Standard ISO/IEC 15408 (Common Criteria); Standard ISO 27001 (řízení informační bezpečnosti)",
+      "content": "7.Zákon o kybernetické bezpečnosti a jeho aplikace. Dopady GDPR do IT systémů; Česká a evropská legislativa v souvislosti s kybernetickou bezpečností. (dotace 2/0)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Sociální inženýrství – Význam sociálního inženýrství v podnikové praxi; Metody sociotechniky (pretxting, phishing, pharming atd.); Obranné mechanismy. Rozpoznávání hoax a phishing zpráv (dotace 2/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Digitální stopa a anonymita na internetu, ochrana osobních dat (dotace 2/0)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Postupy školení oblasti informační bezpečnosti. Směrnice informační bezpečnosti; On-boarding, off-boarding. Tvorba bezpečností politiky organizace a osnovy školení (dotace 2/1)"
+    },
+    {
+      "label": "[section] Digitální stopa a anonymita na internetu, ochrana osobních dat",
+      "content": "10.Postupy školení oblasti informační bezpečnosti. Směrnice informační bezpečnosti; On-boarding, off-boarding. Tvorba bezpečností politiky organizace a osnovy školení (dotace 2/1)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Šifrovaní a elektronický podpis – Principy moderní kryptografie. Proces šifrování a dešifrování, šifrovací klíč, kryptoanalýza. (dotace 2/1)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Bezpečnostní funkcionalita kryptografických mechanismů; Symetrické a asymetrické kryptografické algoritmy, jejich výhody a nevýhody. Známé standardy a implementace. Hash funkce; (dotace 2/1)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Elektronický podpis. Certifikáty a hierarchie PKI. Nástroje pro šifrování komunikace (dotace 2/2)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "14.Infrastruktura pro obranu a prevenci kybernetických útoků, nástroje pro monitoring a sběr provozních dat (SIEM) (dotace 2/1)"
+    },
+    {
+      "label": "[section] Elektronický podpis. Certifikáty a hierarchie PKI. Nástroje pro šifrování komunikace",
+      "content": "14.Infrastruktura pro obranu a prevenci kybernetických útoků, nástroje pro monitoring a sběr provozních dat (SIEM) (dotace 2/1)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení14 hpříprava na zkoušku35 hzpracování projektů35 hCelkem112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Písemná zkouška (60 bodů), vypracování a obhajoba seminární práce (40 bodů)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumVypracování semestrální práce40 %Absolvování závěrečného testu60 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:GRALLA, Preston. 2006. How the Personal and Internet Security Works. Indianopolis: Que, 288 s. ISBN 978-0-7897-3553-9. Information security risk analysis. 2001. Boca Raton: Auerbach, 281 s. ISBN 0-8493-0880-1.Doporučená:NIST, NIST. 2008. NIST Special Publication 800-115, Technical Guide to Information Security Testing and Assessment, 2008. USA: NIST.EC, EC. 2010. EC-Council. Computer Forensics: Investigating Network Intrusions and Cyber Crime. Course Technology, 2010, ISBN 1435483529 . Brusel: EC.STAMP, Mark. 2011. Information Security: Principles and Practice . London, UK: Wiley, 606 s. ISBN 978-04-706-2639-9."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "GRALLA, Preston. 2006. How the Personal and Internet Security Works. Indianopolis: Que, 288 s. ISBN 978-0-7897-3553-9. Information security risk analysis. 2001. Boca Raton: Auerbach, 281 s. ISBN 0-8493-0880-1."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "NIST, NIST. 2008. NIST Special Publication 800-115, Technical Guide to Information Security Testing and Assessment, 2008. USA: NIST.EC, EC. 2010. EC-Council. Computer Forensics: Investigating Network Intrusions and Cyber Crime. Course Technology, 2010, ISBN 1435483529 . Brusel: EC.STAMP, Mark. 2011. Information Security: Principles and Practice . London, UK: Wiley, 606 s. ISBN 978-04-706-2639-9."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-EAMA Economics and Management, prezenční forma, počáteční období ZS 2024/2025Program B-EAMA Economics and Management, prezenční forma, počáteční období LS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBA-BOD"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Bezpečnost a ochrana dat v AJ"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Data Safety and Security"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course cannot be studied during abroad internship."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "English"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, supervisor, tutor)Ing. Ludmila Kunderová (examiner, instructor, lecturer, tutor)doc. RNDr. Tomáš Sochor, CSc. (examiner, instructor, lecturer, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Principles of IS/IT security – Model of the system and people inside; Basic terms: asset, vulnerability, threat, risk, attack. (allowance 2/0)"
+    },
+    {
+      "label": "2.",
+      "content": "Cyber criminality; Types of cyber-attack, real examples and attack targets. (allowance 2/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Methods of securing of enterprise IS/IT – Security policy of an enterprise, security goals. (allowance 2/0)"
+    },
+    {
+      "label": "4.",
+      "content": "Risk analysis, security audit. (allowance 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Principles of IS/IT security assessment; Overview of standards for IS/IT assessment (allowance 2/0)"
+    },
+    {
+      "label": "6.",
+      "content": "Standard ISO/IEC 15408 (Common Criteria); Standard ISO 27001 (information security management). (allowance 2/0)"
+    },
+    {
+      "label": "7.",
+      "content": "Cybersecurity law and its applications. Impacts of GDPR into IT systems; Czech and European legislature in relation with cyber security. (allowance 2/0)"
+    },
+    {
+      "label": "8.",
+      "content": "Social engineering – Significance of social engineering in enterprise practice; Methods of social engineering (pretexting, phishing, pharming etc.); Protection and prevention mechanisms. Recognition of hoax and phishing messages (allowance 2/2)"
+    },
+    {
+      "label": "9.",
+      "content": "Digital track and anonymity on the Internet, protection of personal data. (allowance 2/0)"
+    },
+    {
+      "label": "10.",
+      "content": "Procedures of training in the field of information security; Information security regulations; On-boarding, off-boarding. Creation of organization security policy and cybersecurity training outline (allowance 2/1)"
+    },
+    {
+      "label": "11.",
+      "content": "Encryption and digital signature – Principles of modern cryptography. Process of encryption and decryption, encryption key, crypto analysis. (allowance 2/1)"
+    },
+    {
+      "label": "12.",
+      "content": "Security function of cryptographic mechanisms; Symmetric and asymmetric cryptographic algorithms, their advantages and drawbacks. Known standards and implementations. Hash functions. (allowance 2/1)"
+    },
+    {
+      "label": "13.",
+      "content": "Electronic signature; Certificates and PKI hierarchy; Tools for communication encryption. (allowance 2/2)"
+    },
+    {
+      "label": "14.",
+      "content": "Infrastructure for defense and prevention of cyber-attacks; Tools for monitoring and gathering of operational data (SIEM) (allowance 2/1)"
+    },
+    {
+      "label": "Term paper",
+      "content": "40 %"
+    },
+    {
+      "label": "Final test",
+      "content": "60 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Bezpečnost a ochrana dat v AJ"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Data Safety and Security"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course cannot be studied during abroad internship."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: English"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Ing. Cyril Klimeš, CSc."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, supervisor, tutor)Ing. Ludmila Kunderová (examiner, instructor, lecturer, tutor)doc. RNDr. Tomáš Sochor, CSc. (examiner, instructor, lecturer, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityTuesday11.00-12.50Q05B-EAMAL. Kunderová, T. SochorLectureEvery week30Tuesday15.00-16.50Q05B-EAMAL. Kunderová, T. SochorSeminarOdd week25Tuesday15.00-16.50Q05B-EAMAnot setSeminarEven week25"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The goal of the course is to provide students an overview and knowledge necessary for successful information security management and for working in positions like information security manager. An introduction into information security field is provided. The course covers relevant standards (ISO/IEC 15408, ISO/IEC 27001, ISO/IEC 27037), law (GDPR, and national law) and processes of security audit, risk analysis and forensic analysis together with tools allowing the information security level to be measured."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Principles of IS/IT security – Model of the system and people inside; Basic terms: asset, vulnerability, threat, risk, attack. (allowance 2/0)2.Cyber criminality; Types of cyber-attack, real examples and attack targets. (allowance 2/2)3.Methods of securing of enterprise IS/IT – Security policy of an enterprise, security goals. (allowance 2/0)4.Risk analysis, security audit. (allowance 2/2)5.Principles of IS/IT security assessment; Overview of standards for IS/IT assessment (allowance 2/0)6.Standard ISO/IEC 15408 (Common Criteria); Standard ISO 27001 (information security management). (allowance 2/0)7.Cybersecurity law and its applications. Impacts of GDPR into IT systems; Czech and European legislature in relation with cyber security. (allowance 2/0)8.Social engineering – Significance of social engineering in enterprise practice; Methods of social engineering (pretexting, phishing, pharming etc.); Protection and prevention mechanisms. Recognition of hoax and phishing messages (allowance 2/2)9.Digital track and anonymity on the Internet, protection of personal data. (allowance 2/0)10.Procedures of training in the field of information security; Information security regulations; On-boarding, off-boarding. Creation of organization security policy and cybersecurity training outline (allowance 2/1)11.Encryption and digital signature – Principles of modern cryptography. Process of encryption and decryption, encryption key, crypto analysis. (allowance 2/1)12.Security function of cryptographic mechanisms; Symmetric and asymmetric cryptographic algorithms, their advantages and drawbacks. Known standards and implementations. Hash functions. (allowance 2/1)13.Electronic signature; Certificates and PKI hierarchy; Tools for communication encryption. (allowance 2/2)14.Infrastructure for defense and prevention of cyber-attacks; Tools for monitoring and gathering of operational data (SIEM) (allowance 2/1)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Cyber criminality; Types of cyber-attack, real examples and attack targets. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Methods of securing of enterprise IS/IT – Security policy of an enterprise, security goals. (allowance 2/0)"
+    },
+    {
+      "label": "[section] Cyber criminality; Types of cyber-attack, real examples and attack targets.",
+      "content": "3.Methods of securing of enterprise IS/IT – Security policy of an enterprise, security goals. (allowance 2/0)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Risk analysis, security audit. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Methods of securing of enterprise IS/IT – Security policy of an enterprise, security goals.",
+      "content": "4.Risk analysis, security audit. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Principles of IS/IT security assessment; Overview of standards for IS/IT assessment (allowance 2/0)"
+    },
+    {
+      "label": "[section] Risk analysis, security audit.",
+      "content": "5.Principles of IS/IT security assessment; Overview of standards for IS/IT assessment (allowance 2/0)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Standard ISO/IEC 15408 (Common Criteria); Standard ISO 27001 (information security management). (allowance 2/0)"
+    },
+    {
+      "label": "[section] Principles of IS/IT security assessment; Overview of standards for IS/IT assessment",
+      "content": "6.Standard ISO/IEC 15408 (Common Criteria); Standard ISO 27001 (information security management). (allowance 2/0)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Cybersecurity law and its applications. Impacts of GDPR into IT systems; Czech and European legislature in relation with cyber security. (allowance 2/0)"
+    },
+    {
+      "label": "[section] Standard ISO/IEC 15408 (Common Criteria); Standard ISO 27001 (information security management).",
+      "content": "7.Cybersecurity law and its applications. Impacts of GDPR into IT systems; Czech and European legislature in relation with cyber security. (allowance 2/0)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Social engineering – Significance of social engineering in enterprise practice; Methods of social engineering (pretexting, phishing, pharming etc.); Protection and prevention mechanisms. Recognition of hoax and phishing messages (allowance 2/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Digital track and anonymity on the Internet, protection of personal data. (allowance 2/0)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Procedures of training in the field of information security; Information security regulations; On-boarding, off-boarding. Creation of organization security policy and cybersecurity training outline (allowance 2/1)"
+    },
+    {
+      "label": "[section] Digital track and anonymity on the Internet, protection of personal data.",
+      "content": "10.Procedures of training in the field of information security; Information security regulations; On-boarding, off-boarding. Creation of organization security policy and cybersecurity training outline (allowance 2/1)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Encryption and digital signature – Principles of modern cryptography. Process of encryption and decryption, encryption key, crypto analysis. (allowance 2/1)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Security function of cryptographic mechanisms; Symmetric and asymmetric cryptographic algorithms, their advantages and drawbacks. Known standards and implementations. Hash functions. (allowance 2/1)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Electronic signature; Certificates and PKI hierarchy; Tools for communication encryption. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "14.Infrastructure for defense and prevention of cyber-attacks; Tools for monitoring and gathering of operational data (SIEM) (allowance 2/1)"
+    },
+    {
+      "label": "[section] Electronic signature; Certificates and PKI hierarchy; Tools for communication encryption.",
+      "content": "14.Infrastructure for defense and prevention of cyber-attacks; Tools for monitoring and gathering of operational data (SIEM) (allowance 2/1)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice14 hpreparation for exam35 helaboration and execution of projects35 hTotal112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Written exam (60 points), preparation and defense of the seminar project for the topic assigned by the teacher (40 points)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTerm paper40 %Final test60 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:GRALLA, Preston. 2006. How the Personal and Internet Security Works. Indianopolis: Que, 288 p. ISBN 978-0-7897-3553-9. Information security risk analysis. 2001. Boca Raton: Auerbach, 281 p. ISBN 0-8493-0880-1.Recommended:NIST, NIST. 2008. NIST Special Publication 800-115, Technical Guide to Information Security Testing and Assessment, 2008. USA: NIST.EC, EC. 2010. EC-Council. Computer Forensics: Investigating Network Intrusions and Cyber Crime. Course Technology, 2010, ISBN 1435483529 . Brusel: EC.STAMP, Mark. 2011. Information Security: Principles and Practice . London, UK: Wiley, 606 p. ISBN 978-04-706-2639-9."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "GRALLA, Preston. 2006. How the Personal and Internet Security Works. Indianopolis: Que, 288 p. ISBN 978-0-7897-3553-9. Information security risk analysis. 2001. Boca Raton: Auerbach, 281 p. ISBN 0-8493-0880-1."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "NIST, NIST. 2008. NIST Special Publication 800-115, Technical Guide to Information Security Testing and Assessment, 2008. USA: NIST.EC, EC. 2010. EC-Council. Computer Forensics: Investigating Network Intrusions and Cyber Crime. Course Technology, 2010, ISBN 1435483529 . Brusel: EC.STAMP, Mark. 2011. Information Security: Principles and Practice . London, UK: Wiley, 606 p. ISBN 978-04-706-2639-9."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-EAMA Economics and Management, full-time form, initial period WS 2024/2025Programme B-EAMA Economics and Management, full-time form, initial period SS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:34:53",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

@@ -1,0 +1,953 @@
+{
+  "courseCode": "EBC-PPS",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-PPS"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Protokoly počítačových sítí"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Computer Networks Protocols"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět je možné studovat během zahraničního výjezdu, před zápisem předmětu se však informujte u garanta předmětu o podmínkách studia během výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Jiří Balej, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jiří Balej, Ph.D. (garant, přednášející, zkoušející)Ing. Igor Grellneth, Ph.D. (cvičící, přednášející, zkoušející)Ing. Petr Hemerka (cvičící, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška a ne (Počítačové sítě nebo nyní Počítačové sítě)"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do počítačových sítí (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "zajišťované služby"
+    },
+    {
+      "label": "b.",
+      "content": "koncepty"
+    },
+    {
+      "label": "c.",
+      "content": "síťová bezpečnost"
+    },
+    {
+      "label": "d.",
+      "content": "aktuální trendy"
+    },
+    {
+      "label": "2.",
+      "content": "Síťové operační systémy (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "pro koncová i mezilehlá zařízení"
+    },
+    {
+      "label": "b.",
+      "content": "typy OS"
+    },
+    {
+      "label": "c.",
+      "content": "syntaxe příkazů"
+    },
+    {
+      "label": "d.",
+      "content": "základní konfigurace"
+    },
+    {
+      "label": "3.",
+      "content": "Síťové protokoly a principy komunikace (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "referenční modely TCP/IP a ISO OSI"
+    },
+    {
+      "label": "b.",
+      "content": "enkapsulace síťových protokolů"
+    },
+    {
+      "label": "4.",
+      "content": "Fyzická média a přenos signálu (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "metalická, optická a bezdrátová media"
+    },
+    {
+      "label": "b.",
+      "content": "kódování a modulace"
+    },
+    {
+      "label": "c.",
+      "content": "metody přístupu k médiu"
+    },
+    {
+      "label": "5.",
+      "content": "Ethernet (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "specifikace"
+    },
+    {
+      "label": "b.",
+      "content": "formát rámce"
+    },
+    {
+      "label": "c.",
+      "content": "princip přepínání rámců"
+    },
+    {
+      "label": "d.",
+      "content": "ARP protokol"
+    },
+    {
+      "label": "6.",
+      "content": "Protokoly síťové vrstvy (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "IPv4 a IPv6, formát jejich záhlaví"
+    },
+    {
+      "label": "b.",
+      "content": "principy směrování"
+    },
+    {
+      "label": "c.",
+      "content": "základní konfigurace směrovače"
+    },
+    {
+      "label": "7.",
+      "content": "IP adresace (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "struktura IPv4 adresy"
+    },
+    {
+      "label": "b.",
+      "content": "síťová maska"
+    },
+    {
+      "label": "c.",
+      "content": "speciální adresy IPv4 a IPv6"
+    },
+    {
+      "label": "d.",
+      "content": "protokol ICMP"
+    },
+    {
+      "label": "8.",
+      "content": "Návrh adresního prostoru (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "třídní a beztřídní IPv4 adresace"
+    },
+    {
+      "label": "b.",
+      "content": "podsíťování"
+    },
+    {
+      "label": "c.",
+      "content": "návrh IPv4 i IPv6 adresace"
+    },
+    {
+      "label": "9.",
+      "content": "Protokoly transportní vrstvy (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "TCP a UDP"
+    },
+    {
+      "label": "b.",
+      "content": "zajištění spolehlivosti pomocí protokolu TCP"
+    },
+    {
+      "label": "10.",
+      "content": "Aplikační vrstva (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "HTTP(S)"
+    },
+    {
+      "label": "b.",
+      "content": "e-mail (SMTP, IMAP, POP3)"
+    },
+    {
+      "label": "c.",
+      "content": "DNS"
+    },
+    {
+      "label": "d.",
+      "content": "DHCP"
+    },
+    {
+      "label": "e.",
+      "content": "Telnet"
+    },
+    {
+      "label": "f.",
+      "content": "SSH"
+    },
+    {
+      "label": "g.",
+      "content": "FTP"
+    },
+    {
+      "label": "h.",
+      "content": "TFTP"
+    },
+    {
+      "label": "11.",
+      "content": "Návrh sítě malého rozsahu (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "design sítě a koncepty návrhu"
+    },
+    {
+      "label": "b.",
+      "content": "zajištění bezpečnosti"
+    },
+    {
+      "label": "c.",
+      "content": "řešení problémů v síti malého rozsahu"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Protokoly počítačových sítí"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Computer Networks Protocols"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat během zahraničního výjezdu, před zápisem předmětu se však informujte u garanta předmětu o podmínkách studia během výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Jiří Balej, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jiří Balej, Ph.D. (garant, přednášející, zkoušející)Ing. Igor Grellneth, Ph.D. (cvičící, přednášející, zkoušející)Ing. Petr Hemerka (cvičící, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a ne (Počítačové sítě nebo nyní Počítačové sítě)"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaÚterý15.00-17.50Q01.48B-AIIP. HemerkaCvičeníKaždý týden20Středa11.00-12.50Q15B-AIIJ. BalejPřednáškaKaždý týden48Pátek9.00-12.50Q-LCNAB-AIII. Grellneth, J. BalejPřednáškaNepravidelně20Pátek9.00-11.50Q01.48B-AIII. GrellnethCvičeníKaždý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět obsahuje úvod do problematiky počítačových sítí a je zde detailně popsána architektura protokolů podle jednotlivých vrstev referenčních modelů. Zároveň je prvním ze tří kurzů připravujících na složení certikace CCNA."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do počítačových sítí (dotace 2/2) a.zajišťované službyb.konceptyc.síťová bezpečnostd.aktuální trendy2.Síťové operační systémy (dotace 2/4) a.pro koncová i mezilehlá zařízeníb.typy OSc.syntaxe příkazůd.základní konfigurace3.Síťové protokoly a principy komunikace (dotace 2/4) a.referenční modely TCP/IP a ISO OSIb.enkapsulace síťových protokolů4.Fyzická média a přenos signálu (dotace 2/4) a.metalická, optická a bezdrátová mediab.kódování a modulacec.metody přístupu k médiu5.Ethernet (dotace 4/4) a.specifikaceb.formát rámcec.princip přepínání rámcůd.ARP protokol6.Protokoly síťové vrstvy (dotace 2/4) a.IPv4 a IPv6, formát jejich záhlavíb.principy směrováníc.základní konfigurace směrovače7.IP adresace (dotace 2/4) a.struktura IPv4 adresyb.síťová maskac.speciální adresy IPv4 a IPv6d.protokol ICMP8.Návrh adresního prostoru (dotace 4/4) a.třídní a beztřídní IPv4 adresaceb.podsíťováníc.návrh IPv4 i IPv6 adresace9.Protokoly transportní vrstvy (dotace 2/4) a.TCP a UDPb.zajištění spolehlivosti pomocí protokolu TCP10.Aplikační vrstva (dotace 4/4) a.HTTP(S)b.e-mail (SMTP, IMAP, POP3)c.DNSd.DHCPe.Telnetf.SSHg.FTPh.TFTP11.Návrh sítě malého rozsahu (dotace 2/4) a.design sítě a koncepty návrhub.zajištění bezpečnostic.řešení problémů v síti malého rozsahu"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.zajišťované službyb.konceptyc.síťová bezpečnostd.aktuální trendy"
+    },
+    {
+      "label": "[section] Úvod do počítačových sítí",
+      "content": "a.zajišťované službyb.konceptyc.síťová bezpečnostd.aktuální trendy"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.pro koncová i mezilehlá zařízeníb.typy OSc.syntaxe příkazůd.základní konfigurace"
+    },
+    {
+      "label": "[section] Síťové operační systémy",
+      "content": "a.pro koncová i mezilehlá zařízeníb.typy OSc.syntaxe příkazůd.základní konfigurace"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.referenční modely TCP/IP a ISO OSIb.enkapsulace síťových protokolů"
+    },
+    {
+      "label": "[section] Síťové protokoly a principy komunikace",
+      "content": "a.referenční modely TCP/IP a ISO OSIb.enkapsulace síťových protokolů"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.metalická, optická a bezdrátová mediab.kódování a modulacec.metody přístupu k médiu"
+    },
+    {
+      "label": "[section] Fyzická média a přenos signálu",
+      "content": "a.metalická, optická a bezdrátová mediab.kódování a modulacec.metody přístupu k médiu"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.specifikaceb.formát rámcec.princip přepínání rámcůd.ARP protokol"
+    },
+    {
+      "label": "[section] Ethernet",
+      "content": "a.specifikaceb.formát rámcec.princip přepínání rámcůd.ARP protokol"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.IPv4 a IPv6, formát jejich záhlavíb.principy směrováníc.základní konfigurace směrovače"
+    },
+    {
+      "label": "[section] Protokoly síťové vrstvy",
+      "content": "a.IPv4 a IPv6, formát jejich záhlavíb.principy směrováníc.základní konfigurace směrovače"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.struktura IPv4 adresyb.síťová maskac.speciální adresy IPv4 a IPv6d.protokol ICMP"
+    },
+    {
+      "label": "[section] IP adresace",
+      "content": "a.struktura IPv4 adresyb.síťová maskac.speciální adresy IPv4 a IPv6d.protokol ICMP"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.třídní a beztřídní IPv4 adresaceb.podsíťováníc.návrh IPv4 i IPv6 adresace"
+    },
+    {
+      "label": "[section] Návrh adresního prostoru",
+      "content": "a.třídní a beztřídní IPv4 adresaceb.podsíťováníc.návrh IPv4 i IPv6 adresace"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.TCP a UDPb.zajištění spolehlivosti pomocí protokolu TCP"
+    },
+    {
+      "label": "[section] Protokoly transportní vrstvy",
+      "content": "a.TCP a UDPb.zajištění spolehlivosti pomocí protokolu TCP"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.HTTP(S)b.e-mail (SMTP, IMAP, POP3)c.DNSd.DHCPe.Telnetf.SSHg.FTPh.TFTP"
+    },
+    {
+      "label": "[section] Aplikační vrstva",
+      "content": "a.HTTP(S)b.e-mail (SMTP, IMAP, POP3)c.DNSd.DHCPe.Telnetf.SSHg.FTPh.TFTP"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.design sítě a koncepty návrhub.zajištění bezpečnostic.řešení problémů v síti malého rozsahu"
+    },
+    {
+      "label": "[section] Návrh sítě malého rozsahu",
+      "content": "a.design sítě a koncepty návrhub.zajištění bezpečnostic.řešení problémů v síti malého rozsahu"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení42 h0 hkonzultace0 h54 hpříprava na zkoušku42 h42 hpříprava na průběžný test28 h28 hzpracování protokolů28 h28 hCelkem168 h168 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Hodnocení 10 testů na začátku cvičení, každý test bude hodnocen max. 2mi body. Kombinovaná forma bude mít zadáno 10 korespondenčních úkolů, jejichž výstup bude hodnocen max. 3mi body. Celkem je nutné získat alespoň bodů (50 %) z průběžných testů/korespondenčních úkolů. Praktický domácí úkol pro prezenční formu studia za 10 bodů, nutné získat alespoň 5 bodů (50 %). Dalším hodnocením s nepovinnou části jsou elektronické testy a to průběžné – 6 po 1 bodu a závěrečný za max 4 body. Tyto testy nemají dané minimum. Závěrečná zkouška má dvě části – praktickou a teoretickou část, každou je nutné splnit nad 60 %. Neúspěšnou část je možné 2x opakovat. Každá část se na celkovém hodnocení podílí ze 30 %. Celkové hodnocení je dáno součtem bodů z jednotlivých částí (10x průběžných testů, elektronické testy z portálu netacad, teoretická a praktická část zkoušky). Známka: A (alespoň 90 bodů), B (83 bodů), C (75 bodů), D (68 bodů), E (60 bodů)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích20 %0 %Vypracování semestrální práce10 %30 %Absolvování průběžného testu (testů)10 %10 %Absolvování závěrečné ústní zkoušky30 %30 %Absolvování závěrečné praktické zkoušky30 %30 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:BALEJ, Jiří. 2018. Protokoly počítačových sítí. Brno: Mendelova univerzita v Brně, 72 s. ISBN 978-80-7509-580-0. Global NetAcad Instance - Networking Academy: Introduction to Networks v7.02 (ITN). 2023. https://www.netacad.com.Doporučená:ODOM, Wendell; WILKINS, Sean. 2017. CCNA Routing and Switching 200-125 Official Cert Guide Library and Pearson Ucertify Network Simulator Academic Edition Bundle (1st ed.). Indianapolis, Indiana: Cisco Press, 1600 s. ISBN 978-1-58720-673-3.LAMMLE, Todd. 2016. CCNA Routing and Switching Complete Study Guide: Exam 100-105, Exam 200-105, Exam 200-125 (2nd ed.). Alameda, CA, USA: SYBEX Inc., 1136 s. ISBN 978-1-11928-828-2.DOSTÁLEK, Libor; KABELOVÁ, Alena. 2012. Velký průvodce protokoly TCP/IP a systémem DNS. : Computer Press, 488 s. ISBN 978-80-251-2236-5."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "BALEJ, Jiří. 2018. Protokoly počítačových sítí. Brno: Mendelova univerzita v Brně, 72 s. ISBN 978-80-7509-580-0. Global NetAcad Instance - Networking Academy: Introduction to Networks v7.02 (ITN). 2023. https://www.netacad.com."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "ODOM, Wendell; WILKINS, Sean. 2017. CCNA Routing and Switching 200-125 Official Cert Guide Library and Pearson Ucertify Network Simulator Academic Edition Bundle (1st ed.). Indianapolis, Indiana: Cisco Press, 1600 s. ISBN 978-1-58720-673-3.LAMMLE, Todd. 2016. CCNA Routing and Switching Complete Study Guide: Exam 100-105, Exam 200-105, Exam 200-125 (2nd ed.). Alameda, CA, USA: SYBEX Inc., 1136 s. ISBN 978-1-11928-828-2.DOSTÁLEK, Libor; KABELOVÁ, Alena. 2012. Velký průvodce protokoly TCP/IP a systémem DNS. : Computer Press, 488 s. ISBN 978-80-251-2236-5."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-AII Administrace IS/ICT, prezenční forma, počáteční období ZS 2024/2025Program B-AII Administrace IS/ICT, kombinovaná forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-PPS"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Protokoly počítačových sítí"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Computer Networks Protocols"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course can be studied during abroad internship, but in advance ask course supervisor about conditions of study during internship."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Jiří Balej, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jiří Balej, Ph.D. (examiner, lecturer, supervisor)Ing. Igor Grellneth, Ph.D. (examiner, instructor, lecturer)Ing. Petr Hemerka (examiner, instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam and not (Computer Networks or now Computer Networks)"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to computer networks (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "provided services"
+    },
+    {
+      "label": "b.",
+      "content": "concepts"
+    },
+    {
+      "label": "c.",
+      "content": "network security"
+    },
+    {
+      "label": "d.",
+      "content": "current trends"
+    },
+    {
+      "label": "2.",
+      "content": "Network operating systems (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "for end and intermediate devices"
+    },
+    {
+      "label": "b.",
+      "content": "OS types"
+    },
+    {
+      "label": "c.",
+      "content": "command syntax"
+    },
+    {
+      "label": "d.",
+      "content": "basic configuration of network devices"
+    },
+    {
+      "label": "3.",
+      "content": "Network protocols and princple of communication (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "reference models TCP/IP and ISO/OSI"
+    },
+    {
+      "label": "b.",
+      "content": "network protocols encapsulation"
+    },
+    {
+      "label": "4.",
+      "content": "Physical network media and signal transmission (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "metallic, optic and wireless network media"
+    },
+    {
+      "label": "b.",
+      "content": "coding and modulation"
+    },
+    {
+      "label": "c.",
+      "content": "methods for media access control"
+    },
+    {
+      "label": "5.",
+      "content": "Ethernet (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "specification"
+    },
+    {
+      "label": "b.",
+      "content": "frame structure"
+    },
+    {
+      "label": "c.",
+      "content": "switching principle"
+    },
+    {
+      "label": "d.",
+      "content": "ARP protocol"
+    },
+    {
+      "label": "6.",
+      "content": "Network layer protocols (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "IPv4 and IPv6, their header structure"
+    },
+    {
+      "label": "b.",
+      "content": "routing principles"
+    },
+    {
+      "label": "c.",
+      "content": "basic configuration of router"
+    },
+    {
+      "label": "7.",
+      "content": "IP addressing (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "structure of IPv4 address"
+    },
+    {
+      "label": "b.",
+      "content": "network mask"
+    },
+    {
+      "label": "c.",
+      "content": "IPv4 and IPv6 address for special purposes"
+    },
+    {
+      "label": "d.",
+      "content": "ICMP protocol"
+    },
+    {
+      "label": "8.",
+      "content": "Address space design (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "classfull and classless IPv4 addressing"
+    },
+    {
+      "label": "b.",
+      "content": "subnetting"
+    },
+    {
+      "label": "c.",
+      "content": "design of IPv4 and Ipv6 addressing"
+    },
+    {
+      "label": "9.",
+      "content": "Transport layer protocols (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "TCP and UDP"
+    },
+    {
+      "label": "b.",
+      "content": "ensuring reliability using TCP protocol"
+    },
+    {
+      "label": "10.",
+      "content": "Application layer (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "HTTP(S)"
+    },
+    {
+      "label": "b.",
+      "content": "e-mail (SMTP, IMAP, POP3)"
+    },
+    {
+      "label": "c.",
+      "content": "DNS"
+    },
+    {
+      "label": "d.",
+      "content": "DHCP"
+    },
+    {
+      "label": "e.",
+      "content": "Telnet"
+    },
+    {
+      "label": "f.",
+      "content": "SSH"
+    },
+    {
+      "label": "g.",
+      "content": "FTP"
+    },
+    {
+      "label": "h.",
+      "content": "TFTP"
+    },
+    {
+      "label": "11.",
+      "content": "Design of small size network (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "network design and its concepts"
+    },
+    {
+      "label": "b.",
+      "content": "ensuring security"
+    },
+    {
+      "label": "c.",
+      "content": "troubleshooting in small size network"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Protokoly počítačových sítí"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Computer Networks Protocols"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course can be studied during abroad internship, but in advance ask course supervisor about conditions of study during internship."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Jiří Balej, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jiří Balej, Ph.D. (examiner, lecturer, supervisor)Ing. Igor Grellneth, Ph.D. (examiner, instructor, lecturer)Ing. Petr Hemerka (examiner, instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam and not (Computer Networks or now Computer Networks)"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityTuesday15.00-17.50Q01.48B-AIIP. HemerkaSeminarEvery week20Wednesday11.00-12.50Q15B-AIIJ. BalejLectureEvery week48Friday9.00-11.50Q01.48B-AIII. GrellnethSeminarEvery week20Friday9.00-12.50Q-LCNAB-AIII. Grellneth, J. BalejLectureOccasionally20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Course provides introduction to computer networks and in detail describes protocol architecture according to individual reference model layers. Also it is the first of three courses preparing for CCNA certification."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to computer networks (allowance 2/2) a.provided servicesb.conceptsc.network securityd.current trends2.Network operating systems (allowance 2/4) a.for end and intermediate devicesb.OS typesc.command syntaxd.basic configuration of network devices3.Network protocols and princple of communication (allowance 2/4) a.reference models TCP/IP and ISO/OSIb.network protocols encapsulation4.Physical network media and signal transmission (allowance 2/4) a.metallic, optic and wireless network mediab.coding and modulationc.methods for media access control5.Ethernet (allowance 4/4) a.specificationb.frame structurec.switching principled.ARP protocol6.Network layer protocols (allowance 2/4) a.IPv4 and IPv6, their header structureb.routing principlesc.basic configuration of router7.IP addressing (allowance 2/4) a.structure of IPv4 addressb.network maskc.IPv4 and IPv6 address for special purposesd.ICMP protocol8.Address space design (allowance 4/4) a.classfull and classless IPv4 addressingb.subnettingc.design of IPv4 and Ipv6 addressing9.Transport layer protocols (allowance 2/4) a.TCP and UDPb.ensuring reliability using TCP protocol10.Application layer (allowance 4/4) a.HTTP(S)b.e-mail (SMTP, IMAP, POP3)c.DNSd.DHCPe.Telnetf.SSHg.FTPh.TFTP11.Design of small size network (allowance 2/4) a.network design and its conceptsb.ensuring securityc.troubleshooting in small size network"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.provided servicesb.conceptsc.network securityd.current trends"
+    },
+    {
+      "label": "[section] Introduction to computer networks",
+      "content": "a.provided servicesb.conceptsc.network securityd.current trends"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.for end and intermediate devicesb.OS typesc.command syntaxd.basic configuration of network devices"
+    },
+    {
+      "label": "[section] Network operating systems",
+      "content": "a.for end and intermediate devicesb.OS typesc.command syntaxd.basic configuration of network devices"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.reference models TCP/IP and ISO/OSIb.network protocols encapsulation"
+    },
+    {
+      "label": "[section] Network protocols and princple of communication",
+      "content": "a.reference models TCP/IP and ISO/OSIb.network protocols encapsulation"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.metallic, optic and wireless network mediab.coding and modulationc.methods for media access control"
+    },
+    {
+      "label": "[section] Physical network media and signal transmission",
+      "content": "a.metallic, optic and wireless network mediab.coding and modulationc.methods for media access control"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.specificationb.frame structurec.switching principled.ARP protocol"
+    },
+    {
+      "label": "[section] Ethernet",
+      "content": "a.specificationb.frame structurec.switching principled.ARP protocol"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.IPv4 and IPv6, their header structureb.routing principlesc.basic configuration of router"
+    },
+    {
+      "label": "[section] Network layer protocols",
+      "content": "a.IPv4 and IPv6, their header structureb.routing principlesc.basic configuration of router"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.structure of IPv4 addressb.network maskc.IPv4 and IPv6 address for special purposesd.ICMP protocol"
+    },
+    {
+      "label": "[section] IP addressing",
+      "content": "a.structure of IPv4 addressb.network maskc.IPv4 and IPv6 address for special purposesd.ICMP protocol"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.classfull and classless IPv4 addressingb.subnettingc.design of IPv4 and Ipv6 addressing"
+    },
+    {
+      "label": "[section] Address space design",
+      "content": "a.classfull and classless IPv4 addressingb.subnettingc.design of IPv4 and Ipv6 addressing"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.TCP and UDPb.ensuring reliability using TCP protocol"
+    },
+    {
+      "label": "[section] Transport layer protocols",
+      "content": "a.TCP and UDPb.ensuring reliability using TCP protocol"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.HTTP(S)b.e-mail (SMTP, IMAP, POP3)c.DNSd.DHCPe.Telnetf.SSHg.FTPh.TFTP"
+    },
+    {
+      "label": "[section] Application layer",
+      "content": "a.HTTP(S)b.e-mail (SMTP, IMAP, POP3)c.DNSd.DHCPe.Telnetf.SSHg.FTPh.TFTP"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.network design and its conceptsb.ensuring securityc.troubleshooting in small size network"
+    },
+    {
+      "label": "[section] Design of small size network",
+      "content": "a.network design and its conceptsb.ensuring securityc.troubleshooting in small size network"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice42 h0 hconsultation0 h54 hpreparation for exam42 h42 hpreparation for regular testing28 h28 helaboration of reports28 h28 hTotal168 h168 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "There will be 10 tests at the beginning of the seminars, each test for max. 2 points. The students of part-time form will get 10 corresponding tasks and each submitted solution will be evaluated for max 3 points. In total, it is necessary to obtain at least 12 points (60%) from continuous tests/corresponding tasks. Practical homework given for regular students for 10 points, necessary to get 5 points (50 %). Another evaluation with an optional part are electronic tests, continuous - 6 for 1 point each and final for max. 4 points. These tests do not have a given minimum. The final exam includes two parts - the practical and theoretical part, each part has the passing minimum 60 %. The unsuccessful part can be repeated twice. Each part is 30 % of final evaluation. The total score is given by the sum of the points from the individual parts (10x continuous test/coresponding task, electronic tests from netacad portal, theoretical and practical final exam). Evaluation: A (at least 90 points), B (83 points), C (75 points), D (68 points), E (60 points)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation20 %0 %Term paper10 %30 %Mid-term test(s)10 %10 %Final oral exam30 %30 %Passing practical final exam30 %30 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:BALEJ, Jiří. 2018. Protokoly počítačových sítí. Brno: Mendelova univerzita v Brně, 72 p. ISBN 978-80-7509-580-0. Global NetAcad Instance - Networking Academy: Introduction to Networks v7.02 (ITN). 2023. https://www.netacad.com.Recommended:ODOM, Wendell; WILKINS, Sean. 2017. CCNA Routing and Switching 200-125 Official Cert Guide Library and Pearson Ucertify Network Simulator Academic Edition Bundle (1st ed.). Indianapolis, Indiana: Cisco Press, 1600 p. ISBN 978-1-58720-673-3.LAMMLE, Todd. 2016. CCNA Routing and Switching Complete Study Guide: Exam 100-105, Exam 200-105, Exam 200-125 (2nd ed.). Alameda, CA, USA: SYBEX Inc., 1136 p. ISBN 978-1-11928-828-2.DOSTÁLEK, Libor; KABELOVÁ, Alena. 2012. Velký průvodce protokoly TCP/IP a systémem DNS. : Computer Press, 488 p. ISBN 978-80-251-2236-5."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "BALEJ, Jiří. 2018. Protokoly počítačových sítí. Brno: Mendelova univerzita v Brně, 72 p. ISBN 978-80-7509-580-0. Global NetAcad Instance - Networking Academy: Introduction to Networks v7.02 (ITN). 2023. https://www.netacad.com."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "ODOM, Wendell; WILKINS, Sean. 2017. CCNA Routing and Switching 200-125 Official Cert Guide Library and Pearson Ucertify Network Simulator Academic Edition Bundle (1st ed.). Indianapolis, Indiana: Cisco Press, 1600 p. ISBN 978-1-58720-673-3.LAMMLE, Todd. 2016. CCNA Routing and Switching Complete Study Guide: Exam 100-105, Exam 200-105, Exam 200-125 (2nd ed.). Alameda, CA, USA: SYBEX Inc., 1136 p. ISBN 978-1-11928-828-2.DOSTÁLEK, Libor; KABELOVÁ, Alena. 2012. Velký průvodce protokoly TCP/IP a systémem DNS. : Computer Press, 488 p. ISBN 978-80-251-2236-5."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-AII Administration IS/ICT, full-time form, initial period WS 2024/2025Programme B-AII Administration IS/ICT, part-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:43:54",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

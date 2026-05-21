@@ -1,0 +1,953 @@
+{
+  "courseCode": "OBHSP",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "OBHSP"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Oběhové hospodářství"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Circular economy"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2024/2025"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Cvičení není možné odstudovat během mobility."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Bc. Ing. Dana Adamcová, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav aplikované a krajinné ekologie (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Bc. Ing. Dana Adamcová, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Markéta Škrabalová, Ph.D. (cvičící, přednášející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Historie vztahů mezi lidmi a přírodou (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "antropocén"
+    },
+    {
+      "label": "b.",
+      "content": "vývoj přístupu člověka k životnímu prostředí"
+    },
+    {
+      "label": "c.",
+      "content": "formule IPAT"
+    },
+    {
+      "label": "2.",
+      "content": "Společenský a ekonomický rozvoj, technologie . (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "rostoucí globální populace, vliv globalizace,"
+    },
+    {
+      "label": "b.",
+      "content": "ekonomický růst"
+    },
+    {
+      "label": "c.",
+      "content": "spotřeba, demografický rozvoj"
+    },
+    {
+      "label": "3.",
+      "content": "Přírodní zdroje (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "nerostné suroviny, těžba a její důsledky"
+    },
+    {
+      "label": "b.",
+      "content": "energie a její zdroje,"
+    },
+    {
+      "label": "c.",
+      "content": "zemědělství"
+    },
+    {
+      "label": "4.",
+      "content": "Udržitelná společnost (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "přístup ke vznikajícímu znečištění"
+    },
+    {
+      "label": "b.",
+      "content": "udržitelný rozvoj"
+    },
+    {
+      "label": "c.",
+      "content": "Agenda 2030"
+    },
+    {
+      "label": "5.",
+      "content": "Oběhové hospodářství (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "definice, princip, legislativní předpisy, příklady z praxe."
+    },
+    {
+      "label": "b.",
+      "content": "odpadové versus oběhové hospodářství – odpadové hospodářství, základní terminologie, diference"
+    },
+    {
+      "label": "6.",
+      "content": "Fáze oběhového hospodářství - materiálové využití (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "recyklace"
+    },
+    {
+      "label": "b.",
+      "content": "druhotné suroviny"
+    },
+    {
+      "label": "c.",
+      "content": "plýtvání s potravinami"
+    },
+    {
+      "label": "7.",
+      "content": "Fáze oběhového hospodářství – biologické zpracování (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "kompostování - principy, fáze, parametry, technologie"
+    },
+    {
+      "label": "b.",
+      "content": "anaerobní digesce"
+    },
+    {
+      "label": "8.",
+      "content": "Fáze oběhového hospodářství – energetické zpracování (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "termické zpracování"
+    },
+    {
+      "label": "b.",
+      "content": "ZEVO"
+    },
+    {
+      "label": "9.",
+      "content": "Fáze oběhového hospodářství – výroba a spotřeba (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "udržitelná výroba, udržitelná spotřeba,"
+    },
+    {
+      "label": "b.",
+      "content": "environmentální politika"
+    },
+    {
+      "label": "c.",
+      "content": "Ekodesign"
+    },
+    {
+      "label": "d.",
+      "content": "zelené veřejné zakázky"
+    },
+    {
+      "label": "10.",
+      "content": "Udržitelná výroba a spotřeba – environmentální nástroje (dotace 2/22)"
+    },
+    {
+      "label": "a.",
+      "content": "ISO 14001"
+    },
+    {
+      "label": "b.",
+      "content": "LCA, Čistší produkce"
+    },
+    {
+      "label": "c.",
+      "content": "benchmarking, environmentální značení"
+    },
+    {
+      "label": "d.",
+      "content": "legislativní nástroje"
+    },
+    {
+      "label": "11.",
+      "content": "Skládkování (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "definice, terminologie, členění, řízené skládky"
+    },
+    {
+      "label": "b.",
+      "content": "monitoring skládek"
+    },
+    {
+      "label": "c.",
+      "content": "rekultivace skládek"
+    },
+    {
+      "label": "12.",
+      "content": "Vliv skládek na životní prostředí (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "popis možných vlivů skládek"
+    },
+    {
+      "label": "b.",
+      "content": "rizika spojená se skládkováním"
+    },
+    {
+      "label": "c.",
+      "content": "biologické metody a hodnocení"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "20 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "80 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Oběhové hospodářství"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Circular economy"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2024/2025"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Cvičení není možné odstudovat během mobility."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Bc. Ing. Dana Adamcová, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav aplikované a krajinné ekologie (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Bc. Ing. Dana Adamcová, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Markéta Škrabalová, Ph.D. (cvičící, přednášející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý11.00-12.50Q111M. Škrabalová, D. AdamcováCvičeníKaždý týden22Čtvrtek9.00-10.50Q111D. Adamcová, M. ŠkrabalováPřednáškaKaždý týden22"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Seznámit studenty s novým trendem v oblasti odpadů - oběhovým hospodářstvím, teoreticky i prakticky. Využívat prevenční nástroje."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Historie vztahů mezi lidmi a přírodou (dotace 2/2) a.antropocénb.vývoj přístupu člověka k životnímu prostředíc.formule IPAT2.Společenský a ekonomický rozvoj, technologie . (dotace 2/0) a.rostoucí globální populace, vliv globalizace,b.ekonomický růstc.spotřeba, demografický rozvoj3.Přírodní zdroje (dotace 2/0) a.nerostné suroviny, těžba a její důsledkyb.energie a její zdroje,c.zemědělství4.Udržitelná společnost (dotace 2/0) a.přístup ke vznikajícímu znečištěníb.udržitelný rozvojc.Agenda 20305.Oběhové hospodářství (dotace 2/0) a.definice, princip, legislativní předpisy, příklady z praxe.b.odpadové versus oběhové hospodářství – odpadové hospodářství, základní terminologie, diference6.Fáze oběhového hospodářství - materiálové využití (dotace 2/0) a.recyklaceb.druhotné surovinyc.plýtvání s potravinami7.Fáze oběhového hospodářství – biologické zpracování (dotace 2/0) a.kompostování - principy, fáze, parametry, technologieb.anaerobní digesce8.Fáze oběhového hospodářství – energetické zpracování (dotace 2/0) a.termické zpracováníb.ZEVO9.Fáze oběhového hospodářství – výroba a spotřeba (dotace 2/2) a.udržitelná výroba, udržitelná spotřeba,b.environmentální politikac.Ekodesignd.zelené veřejné zakázky10.Udržitelná výroba a spotřeba – environmentální nástroje (dotace 2/22) a.ISO 14001b.LCA, Čistší produkcec.benchmarking, environmentální značeníd.legislativní nástroje11.Skládkování (dotace 2/0) a.definice, terminologie, členění, řízené skládkyb.monitoring skládekc.rekultivace skládek12.Vliv skládek na životní prostředí (dotace 2/0) a.popis možných vlivů skládekb.rizika spojená se skládkovánímc.biologické metody a hodnocení"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.antropocénb.vývoj přístupu člověka k životnímu prostředíc.formule IPAT"
+    },
+    {
+      "label": "[section] Historie vztahů mezi lidmi a přírodou",
+      "content": "a.antropocénb.vývoj přístupu člověka k životnímu prostředíc.formule IPAT"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.rostoucí globální populace, vliv globalizace,b.ekonomický růstc.spotřeba, demografický rozvoj"
+    },
+    {
+      "label": "[section] Společenský a ekonomický rozvoj, technologie .",
+      "content": "a.rostoucí globální populace, vliv globalizace,b.ekonomický růstc.spotřeba, demografický rozvoj"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.nerostné suroviny, těžba a její důsledkyb.energie a její zdroje,c.zemědělství"
+    },
+    {
+      "label": "[section] Přírodní zdroje",
+      "content": "a.nerostné suroviny, těžba a její důsledkyb.energie a její zdroje,c.zemědělství"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.přístup ke vznikajícímu znečištěníb.udržitelný rozvojc.Agenda 2030"
+    },
+    {
+      "label": "[section] Udržitelná společnost",
+      "content": "a.přístup ke vznikajícímu znečištěníb.udržitelný rozvojc.Agenda 2030"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.definice, princip, legislativní předpisy, příklady z praxe.b.odpadové versus oběhové hospodářství – odpadové hospodářství, základní terminologie, diference"
+    },
+    {
+      "label": "[section] Oběhové hospodářství",
+      "content": "a.definice, princip, legislativní předpisy, příklady z praxe.b.odpadové versus oběhové hospodářství – odpadové hospodářství, základní terminologie, diference"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.recyklaceb.druhotné surovinyc.plýtvání s potravinami"
+    },
+    {
+      "label": "[section] Fáze oběhového hospodářství - materiálové využití",
+      "content": "a.recyklaceb.druhotné surovinyc.plýtvání s potravinami"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.kompostování - principy, fáze, parametry, technologieb.anaerobní digesce"
+    },
+    {
+      "label": "[section] Fáze oběhového hospodářství – biologické zpracování",
+      "content": "a.kompostování - principy, fáze, parametry, technologieb.anaerobní digesce"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.termické zpracováníb.ZEVO"
+    },
+    {
+      "label": "[section] Fáze oběhového hospodářství – energetické zpracování",
+      "content": "a.termické zpracováníb.ZEVO"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.udržitelná výroba, udržitelná spotřeba,b.environmentální politikac.Ekodesignd.zelené veřejné zakázky"
+    },
+    {
+      "label": "[section] Fáze oběhového hospodářství – výroba a spotřeba",
+      "content": "a.udržitelná výroba, udržitelná spotřeba,b.environmentální politikac.Ekodesignd.zelené veřejné zakázky"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.ISO 14001b.LCA, Čistší produkcec.benchmarking, environmentální značeníd.legislativní nástroje"
+    },
+    {
+      "label": "[section] Udržitelná výroba a spotřeba – environmentální nástroje",
+      "content": "a.ISO 14001b.LCA, Čistší produkcec.benchmarking, environmentální značeníd.legislativní nástroje"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.definice, terminologie, členění, řízené skládkyb.monitoring skládekc.rekultivace skládek"
+    },
+    {
+      "label": "[section] Skládkování",
+      "content": "a.definice, terminologie, členění, řízené skládkyb.monitoring skládekc.rekultivace skládek"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.popis možných vlivů skládekb.rizika spojená se skládkovánímc.biologické metody a hodnocení"
+    },
+    {
+      "label": "[section] Vliv skládek na životní prostředí",
+      "content": "a.popis možných vlivů skládekb.rizika spojená se skládkovánímc.biologické metody a hodnocení"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku40 hpříprava prezentace10 hzpracování projektů35 hCelkem141 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Prezentace a odevzdání seminární práce (projektu). Povinná účast na cvičeních (75 %). Písemná zkouška (60 %). Požadavky na průběh a ukončení předmětu jsou vždy sděleny ve výuce na začátku semestru."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumVypracování semestrální práce20 %Absolvování závěrečného testu80 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:MOLDAN, Bedřich. 2015. Podmaněná planeta. V Praze: Univerzita Karlova, nakladatelství Karolinum, 511 s. ISBN 978-80-246-2999-5.KURAŠ, Mečislav. 2014. Odpady a jejich zpracování. 1. vyd. Chrudim: Vodní zdroje Ekomonitor, 343 s. ISBN 978-80-86832-80-7.KOTOVICOVÁ, Jana; REMTOVÁ, Květa. 2013. Udržitelná spotřeba a výroba. 1. vyd. Brno: Mendelova univerzita v Brně, 173 s. ISBN 978-80-7375-707-6.MAIER, Karel a kol. 2013. Udržitelný rozvoj území. 0 Praha: Grada Publishing, 253 s. ISBN 978-80-247-4198-7.DOLEŽAL, Tomáš; CHUDÁREK, Tomáš; ČECH, Libor. 2013. Odpadové hospodářství v praxi. Brno: Masarykova univerzita, Centrum pro výzkum toxických látek v prostředí a SITA CZ a.s., 157 s. ISBN 978-80-210-6601-4."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "MOLDAN, Bedřich. 2015. Podmaněná planeta. V Praze: Univerzita Karlova, nakladatelství Karolinum, 511 s. ISBN 978-80-246-2999-5.KURAŠ, Mečislav. 2014. Odpady a jejich zpracování. 1. vyd. Chrudim: Vodní zdroje Ekomonitor, 343 s. ISBN 978-80-86832-80-7.KOTOVICOVÁ, Jana; REMTOVÁ, Květa. 2013. Udržitelná spotřeba a výroba. 1. vyd. Brno: Mendelova univerzita v Brně, 173 s. ISBN 978-80-7375-707-6.MAIER, Karel a kol. 2013. Udržitelný rozvoj území. 0 Praha: Grada Publishing, 253 s. ISBN 978-80-247-4198-7.DOLEŽAL, Tomáš; CHUDÁREK, Tomáš; ČECH, Libor. 2013. Odpadové hospodářství v praxi. Brno: Masarykova univerzita, Centrum pro výzkum toxických látek v prostředí a SITA CZ a.s., 157 s. ISBN 978-80-210-6601-4."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "OBHSP"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Oběhové hospodářství"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Circular economy"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2024/2025"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The exercise cannot be completed remotely during the mobility period."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Bc. Ing. Dana Adamcová, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Applied and Landscape Ecology (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Bc. Ing. Dana Adamcová, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Markéta Škrabalová, Ph.D. (instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "History of relationships between people and nature (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "anthropocene"
+    },
+    {
+      "label": "b.",
+      "content": "development of human approach to the environment"
+    },
+    {
+      "label": "c.",
+      "content": "IPAT formula"
+    },
+    {
+      "label": "2.",
+      "content": "Social and economic development, technology. (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Growing global population, the impact of globalization"
+    },
+    {
+      "label": "b.",
+      "content": "Economic growth"
+    },
+    {
+      "label": "c.",
+      "content": "Consumption, demographic development"
+    },
+    {
+      "label": "3.",
+      "content": "Natural resources (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Minerals, mining and its consequences"
+    },
+    {
+      "label": "b.",
+      "content": "Energy and its sources"
+    },
+    {
+      "label": "c.",
+      "content": "Agriculture"
+    },
+    {
+      "label": "4.",
+      "content": "Sustainable society (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Access to emerging pollution"
+    },
+    {
+      "label": "b.",
+      "content": "Sustainable development"
+    },
+    {
+      "label": "c.",
+      "content": "Agenda 2030"
+    },
+    {
+      "label": "5.",
+      "content": "Circulating economy (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Definition, principle, legislative regulations, practical examples."
+    },
+    {
+      "label": "b.",
+      "content": "Waste management versus circular economy - waste management, basic terminology, differences"
+    },
+    {
+      "label": "6.",
+      "content": "Phases of circular economy - material utilization (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Recycling"
+    },
+    {
+      "label": "b.",
+      "content": "Secondary raw materials"
+    },
+    {
+      "label": "c.",
+      "content": "Wasting food"
+    },
+    {
+      "label": "7.",
+      "content": "Phases of circular economy - biological processing (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Composting - principles, phases, parameters, technologies"
+    },
+    {
+      "label": "b.",
+      "content": "Anaerobic digestion"
+    },
+    {
+      "label": "8.",
+      "content": "Phases of circular economy - energy processing (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Thermal treatment"
+    },
+    {
+      "label": "b.",
+      "content": "ZEVO"
+    },
+    {
+      "label": "9.",
+      "content": "Phases of circular economy - production and consumption (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Sustainable production, sustainable consumption,"
+    },
+    {
+      "label": "b.",
+      "content": "Environmental policy"
+    },
+    {
+      "label": "c.",
+      "content": "Ecodesign"
+    },
+    {
+      "label": "d.",
+      "content": "Green public procurement"
+    },
+    {
+      "label": "10.",
+      "content": "Sustainable production and consumption - environmental tools (allowance 2/22)"
+    },
+    {
+      "label": "a.",
+      "content": "ISO 14001"
+    },
+    {
+      "label": "b.",
+      "content": "LCA, Cleaner Production"
+    },
+    {
+      "label": "c.",
+      "content": "Benchmarking, environmental labeling"
+    },
+    {
+      "label": "d.",
+      "content": "Legislative instruments"
+    },
+    {
+      "label": "11.",
+      "content": "Landfilling (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Definition, terminology, classification, controlled landfills"
+    },
+    {
+      "label": "b.",
+      "content": "Landfill monitoring"
+    },
+    {
+      "label": "c.",
+      "content": "Landfill reclamation"
+    },
+    {
+      "label": "12.",
+      "content": "Impact of landfills on the environment (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Description of possible landfill effects"
+    },
+    {
+      "label": "b.",
+      "content": "Risks associated with landfilling"
+    },
+    {
+      "label": "c.",
+      "content": "Biological methods and evaluation"
+    },
+    {
+      "label": "Term paper",
+      "content": "20 %"
+    },
+    {
+      "label": "Final test",
+      "content": "80 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Oběhové hospodářství"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Circular economy"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The exercise cannot be completed remotely during the mobility period."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Bc. Ing. Dana Adamcová, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Applied and Landscape Ecology (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Bc. Ing. Dana Adamcová, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Markéta Škrabalová, Ph.D. (instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday11.00-12.50Q111M. Škrabalová, D. AdamcováSeminarEvery week22Thursday9.00-10.50Q111D. Adamcová, M. ŠkrabalováLectureEvery week22"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "To acquaint students with a new trend in the field of waste - circular economy, theoretically and practically. Use prevention procedures."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.History of relationships between people and nature (allowance 2/2) a.anthropoceneb.development of human approach to the environmentc.IPAT formula2.Social and economic development, technology. (allowance 2/0) a.Growing global population, the impact of globalizationb.Economic growthc.Consumption, demographic development3.Natural resources (allowance 2/0) a.Minerals, mining and its consequencesb.Energy and its sourcesc.Agriculture4.Sustainable society (allowance 2/0) a.Access to emerging pollutionb.Sustainable developmentc.Agenda 20305.Circulating economy (allowance 2/0) a.Definition, principle, legislative regulations, practical examples.b.Waste management versus circular economy - waste management, basic terminology, differences6.Phases of circular economy - material utilization (allowance 2/0) a.Recyclingb.Secondary raw materialsc.Wasting food7.Phases of circular economy - biological processing (allowance 2/0) a.Composting - principles, phases, parameters, technologiesb.Anaerobic digestion8.Phases of circular economy - energy processing (allowance 2/0) a.Thermal treatmentb.ZEVO9.Phases of circular economy - production and consumption (allowance 2/0) a.Sustainable production, sustainable consumption,b.Environmental policyc.Ecodesignd.Green public procurement10.Sustainable production and consumption - environmental tools (allowance 2/22) a.ISO 14001b.LCA, Cleaner Productionc.Benchmarking, environmental labelingd.Legislative instruments11.Landfilling (allowance 2/0) a.Definition, terminology, classification, controlled landfillsb.Landfill monitoringc.Landfill reclamation12.Impact of landfills on the environment (allowance 2/0) a.Description of possible landfill effectsb.Risks associated with landfillingc.Biological methods and evaluation"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.anthropoceneb.development of human approach to the environmentc.IPAT formula"
+    },
+    {
+      "label": "[section] History of relationships between people and nature",
+      "content": "a.anthropoceneb.development of human approach to the environmentc.IPAT formula"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Growing global population, the impact of globalizationb.Economic growthc.Consumption, demographic development"
+    },
+    {
+      "label": "[section] Social and economic development, technology.",
+      "content": "a.Growing global population, the impact of globalizationb.Economic growthc.Consumption, demographic development"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Minerals, mining and its consequencesb.Energy and its sourcesc.Agriculture"
+    },
+    {
+      "label": "[section] Natural resources",
+      "content": "a.Minerals, mining and its consequencesb.Energy and its sourcesc.Agriculture"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Access to emerging pollutionb.Sustainable developmentc.Agenda 2030"
+    },
+    {
+      "label": "[section] Sustainable society",
+      "content": "a.Access to emerging pollutionb.Sustainable developmentc.Agenda 2030"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Definition, principle, legislative regulations, practical examples.b.Waste management versus circular economy - waste management, basic terminology, differences"
+    },
+    {
+      "label": "[section] Circulating economy",
+      "content": "a.Definition, principle, legislative regulations, practical examples.b.Waste management versus circular economy - waste management, basic terminology, differences"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Recyclingb.Secondary raw materialsc.Wasting food"
+    },
+    {
+      "label": "[section] Phases of circular economy - material utilization",
+      "content": "a.Recyclingb.Secondary raw materialsc.Wasting food"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Composting - principles, phases, parameters, technologiesb.Anaerobic digestion"
+    },
+    {
+      "label": "[section] Phases of circular economy - biological processing",
+      "content": "a.Composting - principles, phases, parameters, technologiesb.Anaerobic digestion"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Thermal treatmentb.ZEVO"
+    },
+    {
+      "label": "[section] Phases of circular economy - energy processing",
+      "content": "a.Thermal treatmentb.ZEVO"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Sustainable production, sustainable consumption,b.Environmental policyc.Ecodesignd.Green public procurement"
+    },
+    {
+      "label": "[section] Phases of circular economy - production and consumption",
+      "content": "a.Sustainable production, sustainable consumption,b.Environmental policyc.Ecodesignd.Green public procurement"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.ISO 14001b.LCA, Cleaner Productionc.Benchmarking, environmental labelingd.Legislative instruments"
+    },
+    {
+      "label": "[section] Sustainable production and consumption - environmental tools",
+      "content": "a.ISO 14001b.LCA, Cleaner Productionc.Benchmarking, environmental labelingd.Legislative instruments"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Definition, terminology, classification, controlled landfillsb.Landfill monitoringc.Landfill reclamation"
+    },
+    {
+      "label": "[section] Landfilling",
+      "content": "a.Definition, terminology, classification, controlled landfillsb.Landfill monitoringc.Landfill reclamation"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Description of possible landfill effectsb.Risks associated with landfillingc.Biological methods and evaluation"
+    },
+    {
+      "label": "[section] Impact of landfills on the environment",
+      "content": "a.Description of possible landfill effectsb.Risks associated with landfillingc.Biological methods and evaluation"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam40 hpreparation of presentation10 helaboration and execution of projects35 hTotal141 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "The presentation and hand over the seminary work. The compulsory participation at the exercise (75 %). The written examination (60 %). Requirements for the course and completion of the course are always specified at the beginning of the semester."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTerm paper20 %Final test80 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:MOLDAN, Bedřich. 2015. Podmaněná planeta. V Praze: Univerzita Karlova, nakladatelství Karolinum, 511 p. ISBN 978-80-246-2999-5.KURAŠ, Mečislav. 2014. Odpady a jejich zpracování. 1st ed. Chrudim: Vodní zdroje Ekomonitor, 343 p. ISBN 978-80-86832-80-7.KOTOVICOVÁ, Jana; REMTOVÁ, Květa. 2013. Udržitelná spotřeba a výroba. 1st ed. Brno: Mendelova univerzita v Brně, 173 p. ISBN 978-80-7375-707-6.MAIER, Karel et al. 2013. Udržitelný rozvoj území. 0 Praha: Grada Publishing, 253 p. ISBN 978-80-247-4198-7.DOLEŽAL, Tomáš; CHUDÁREK, Tomáš; ČECH, Libor. 2013. Odpadové hospodářství v praxi. Brno: Masarykova univerzita, Centrum pro výzkum toxických látek v prostředí a SITA CZ a.s., 157 p. ISBN 978-80-210-6601-4."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "MOLDAN, Bedřich. 2015. Podmaněná planeta. V Praze: Univerzita Karlova, nakladatelství Karolinum, 511 p. ISBN 978-80-246-2999-5.KURAŠ, Mečislav. 2014. Odpady a jejich zpracování. 1st ed. Chrudim: Vodní zdroje Ekomonitor, 343 p. ISBN 978-80-86832-80-7.KOTOVICOVÁ, Jana; REMTOVÁ, Květa. 2013. Udržitelná spotřeba a výroba. 1st ed. Brno: Mendelova univerzita v Brně, 173 p. ISBN 978-80-7375-707-6.MAIER, Karel et al. 2013. Udržitelný rozvoj území. 0 Praha: Grada Publishing, 253 p. ISBN 978-80-247-4198-7.DOLEŽAL, Tomáš; CHUDÁREK, Tomáš; ČECH, Libor. 2013. Odpadové hospodářství v praxi. Brno: Masarykova univerzita, Centrum pro výzkum toxických látek v prostředí a SITA CZ a.s., 157 p. ISBN 978-80-210-6601-4."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:36:51",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

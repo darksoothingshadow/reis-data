@@ -1,0 +1,753 @@
+{
+  "courseCode": "BIDEP",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "BIDEP"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Biometrika a design pokusu"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Biometrics and Design of Experiments"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zápočet (3 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět je možné studovat během zahraniční mobility. Předpokladem je vysoká míra samostudia. Praktická cvičení budou nahrazena povinností vypracovat na základě modelových dat statistické analýzy včetně interpretace. Testy budou stejně jako denní studenti absolvovat online. Příprava těchto úkolů bude z hlediska časové zátěže odpovídat dotaci na cvičení v případě prezenčního studia. Zápočet je udělen na základě odevzdaných úkolů a zpracované metodiky valstní diplmové práce."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Mgr. Miroslav Baránek, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Mendeleum - ústav genetiky (ZF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Zahradnická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "prof. Mgr. Miroslav Baránek, Ph.D. (cvičící, garant)Ing. Miroslav Vachůn, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "AKR19"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do studia předmětu Biometrika a design pokusu (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Pokusnictví – význam pro praxi"
+    },
+    {
+      "label": "b.",
+      "content": "Historie pokusnictví a experimentálního designu"
+    },
+    {
+      "label": "c.",
+      "content": "Základy pokusnictví, pojmy a terminologie"
+    },
+    {
+      "label": "2.",
+      "content": "Plánování pokusů (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "základy vědecké práce"
+    },
+    {
+      "label": "b.",
+      "content": "Stanovení experimentální hypotézy"
+    },
+    {
+      "label": "c.",
+      "content": "Plánování experimentální práce"
+    },
+    {
+      "label": "3.",
+      "content": "Design pokusu (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní pokusná uspořádání"
+    },
+    {
+      "label": "b.",
+      "content": "Uspořádání pokusných členů v experimentu"
+    },
+    {
+      "label": "c.",
+      "content": "Základní typy designu"
+    },
+    {
+      "label": "4.",
+      "content": "Biometrické základy získávání pokusných dat (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní soubor"
+    },
+    {
+      "label": "b.",
+      "content": "Výběrový soubor"
+    },
+    {
+      "label": "c.",
+      "content": "Typy proměnných a dat"
+    },
+    {
+      "label": "d.",
+      "content": "Transformace a normalizace dat"
+    },
+    {
+      "label": "5.",
+      "content": "Zpracování pokusných dat v programu Statistica (dotace 0/10)"
+    },
+    {
+      "label": "a.",
+      "content": "Pořizování a import dat do programu Statistica"
+    },
+    {
+      "label": "b.",
+      "content": "Práce v prostředí programu Statistica"
+    },
+    {
+      "label": "c.",
+      "content": "Hodnocení rozdílu středních hodnot"
+    },
+    {
+      "label": "d.",
+      "content": "Testování homogenity rozptylu"
+    },
+    {
+      "label": "6.",
+      "content": "Analýza variance, zásady jejího použití (dotace 2/10)"
+    },
+    {
+      "label": "a.",
+      "content": "Design pokusu v souvislosti s analýzou variance (ANOVA)"
+    },
+    {
+      "label": "b.",
+      "content": "Vícefaktorová ANOVA"
+    },
+    {
+      "label": "c.",
+      "content": "Využití a vytváření bloků v pokusu a jejich účelnost"
+    },
+    {
+      "label": "7.",
+      "content": "Obecný lineární model (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Interakce ve vícefaktorových pokusech"
+    },
+    {
+      "label": "b.",
+      "content": "Modelování vícefaktorového pokusu"
+    },
+    {
+      "label": "c.",
+      "content": "Dvoufaktorové dělené dílce – model a výpočet"
+    },
+    {
+      "label": "8.",
+      "content": "Význam polních pokusů v systému práce odrůdového zkušebnictví (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Zakládání, vedení a hodnocení polních pokusů"
+    },
+    {
+      "label": "b.",
+      "content": "Příklady metodik polních pokusů"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022, ZS 2020/2021 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Lednice"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Biometrika a design pokusu"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Biometrics and Design of Experiments"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zápočet (3 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zápočet (3 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat během zahraniční mobility. Předpokladem je vysoká míra samostudia. Praktická cvičení budou nahrazena povinností vypracovat na základě modelových dat statistické analýzy včetně interpretace. Testy budou stejně jako denní studenti absolvovat online. Příprava těchto úkolů bude z hlediska časové zátěže odpovídat dotaci na cvičení v případě prezenčního studia. Zápočet je udělen na základě odevzdaných úkolů a zpracované metodiky valstní diplmové práce."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Mgr. Miroslav Baránek, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Mendeleum - ústav genetiky (ZF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Zahradnická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: prof. Mgr. Miroslav Baránek, Ph.D. (cvičící, garant)Ing. Miroslav Vachůn, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: AKR19"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí15.00-15.50ZFAula (Led)M. VachůnPřednáškaKaždý týden149Pondělí16.00-17.50ZFC13 (Led)M. VachůnCvičeníKaždý týden32Čtvrtek10.00-11.50ZFC13 (Led)M. VachůnCvičeníKaždý týden22Pátek8.00-11.50ZFDP1 (Led)M. VachůnPřednáškaNepravidelně65"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět navazuje na výuku předmětu výpočetní technika a aplikovaná statistika. Cílem předmětu je seznámit studenty s principy vědeckého experimentu v zemědělství a zahradnictví, se zásadami správného návrhu pokusů a se způsoby jejich statistického vyhodnocení. Předmět klade důraz na propojení teoretických znalostí s praktickými dovednostmi a poskytuje metodickou podporu při přípravě diplomových prací. Studenti se naučí plánovat experimenty tak, aby byly spolehlivé, objektivní a interpretovatelné, a osvojí si práci se softwarem Statistica, který budou využívat pro analýzu a vizualizaci dat ve své budoucí práci."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do studia předmětu Biometrika a design pokusu (dotace 2/0) a.Pokusnictví – význam pro praxib.Historie pokusnictví a experimentálního designuc.Základy pokusnictví, pojmy a terminologie2.Plánování pokusů (dotace 2/0) a.základy vědecké práceb.Stanovení experimentální hypotézyc.Plánování experimentální práce3.Design pokusu (dotace 2/0) a.Základní pokusná uspořádáníb.Uspořádání pokusných členů v experimentuc.Základní typy designu4.Biometrické základy získávání pokusných dat (dotace 2/4) a.Základní souborb.Výběrový souborc.Typy proměnných a datd.Transformace a normalizace dat5.Zpracování pokusných dat v programu Statistica (dotace 0/10) a.Pořizování a import dat do programu Statisticab.Práce v prostředí programu Statisticac.Hodnocení rozdílu středních hodnotd.Testování homogenity rozptylu6.Analýza variance, zásady jejího použití (dotace 2/10) a.Design pokusu v souvislosti s analýzou variance (ANOVA)b.Vícefaktorová ANOVAc.Využití a vytváření bloků v pokusu a jejich účelnost7.Obecný lineární model (dotace 2/4) a.Interakce ve vícefaktorových pokusechb.Modelování vícefaktorového pokusuc.Dvoufaktorové dělené dílce – model a výpočet8.Význam polních pokusů v systému práce odrůdového zkušebnictví (dotace 2/0) a.Zakládání, vedení a hodnocení polních pokusůb.Příklady metodik polních pokusů"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Pokusnictví – význam pro praxib.Historie pokusnictví a experimentálního designuc.Základy pokusnictví, pojmy a terminologie"
+    },
+    {
+      "label": "[section] Úvod do studia předmětu Biometrika a design pokusu",
+      "content": "a.Pokusnictví – význam pro praxib.Historie pokusnictví a experimentálního designuc.Základy pokusnictví, pojmy a terminologie"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.základy vědecké práceb.Stanovení experimentální hypotézyc.Plánování experimentální práce"
+    },
+    {
+      "label": "[section] Plánování pokusů",
+      "content": "a.základy vědecké práceb.Stanovení experimentální hypotézyc.Plánování experimentální práce"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Základní pokusná uspořádáníb.Uspořádání pokusných členů v experimentuc.Základní typy designu"
+    },
+    {
+      "label": "[section] Design pokusu",
+      "content": "a.Základní pokusná uspořádáníb.Uspořádání pokusných členů v experimentuc.Základní typy designu"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Základní souborb.Výběrový souborc.Typy proměnných a datd.Transformace a normalizace dat"
+    },
+    {
+      "label": "[section] Biometrické základy získávání pokusných dat",
+      "content": "a.Základní souborb.Výběrový souborc.Typy proměnných a datd.Transformace a normalizace dat"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Pořizování a import dat do programu Statisticab.Práce v prostředí programu Statisticac.Hodnocení rozdílu středních hodnotd.Testování homogenity rozptylu"
+    },
+    {
+      "label": "[section] Zpracování pokusných dat v programu Statistica",
+      "content": "a.Pořizování a import dat do programu Statisticab.Práce v prostředí programu Statisticac.Hodnocení rozdílu středních hodnotd.Testování homogenity rozptylu"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Design pokusu v souvislosti s analýzou variance (ANOVA)b.Vícefaktorová ANOVAc.Využití a vytváření bloků v pokusu a jejich účelnost"
+    },
+    {
+      "label": "[section] Analýza variance, zásady jejího použití",
+      "content": "a.Design pokusu v souvislosti s analýzou variance (ANOVA)b.Vícefaktorová ANOVAc.Využití a vytváření bloků v pokusu a jejich účelnost"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Interakce ve vícefaktorových pokusechb.Modelování vícefaktorového pokusuc.Dvoufaktorové dělené dílce – model a výpočet"
+    },
+    {
+      "label": "[section] Obecný lineární model",
+      "content": "a.Interakce ve vícefaktorových pokusechb.Modelování vícefaktorového pokusuc.Dvoufaktorové dělené dílce – model a výpočet"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Zakládání, vedení a hodnocení polních pokusůb.Příklady metodik polních pokusů"
+    },
+    {
+      "label": "[section] Význam polních pokusů v systému práce odrůdového zkušebnictví",
+      "content": "a.Zakládání, vedení a hodnocení polních pokusůb.Příklady metodik polních pokusů"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška12 h16 hcvičení24 h0 hkonzultace2 h22 hprojektová práce14 h14 hveřejná prezentace (ústní)2 h2 hpříprava na průběžné hodnocení6 h6 hpříprava na průběžný test8 h8 hpříprava prezentace6 h6 hzpracování protokolů6 h6 hzpracování seminární práce4 h4 hCelkem84 h84 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zápočet je udělen na základě zpracovaní průběžných úkolů (Statistica – analýza modelových dat, grafické výstupy). Dále dvou krátkých průběžných testů (ověření základních pojmů: kontrola, randomizace, replikace, ANOVA atd.). Vypracování projektu návrhu metodiky vlastní diplomové práce. Metodika musí obsahovat: výzkumnou otázku, hypotézu, návrh designu (včetně kontrol, variant, počtu opakování), způsob analýzy dat. Na závěr semstru budou studenti krátce prezentovat (5 - 10 minut) návrh experimentu před vyučujícím a spolužáky (11.–12. týden). Hodnotí se jasnost, logika návrhu a schopnost obhájit zvolené postupy. U studentů denního studia je podmínkou účast na cvičeních min. z 70%. Ukončení předmětu je formou zápočtu. Zápočet je udělen u prezenční i kombinované formy studia za účast a aktivitu (20 %) průběžné testy a úkoly (20 %). Projekt návrhu experimentu (40 %) a prezentace (20 %). Minimální podmínkou je získat alespoň 60 % z celkového hodnocení 100 bodů."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích20 %20 %Vypracování semestrální práce80 %80 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:BLÁHA, Ladislav; ŠERÁ, Božena. 2014. Příspěvky k problematice zemědělského pokusnictví = contribution to agricultural experimentation. 1. vyd. Praha: Výzkumný ústav rostlinné výroby ;, 140 s. ISBN 978-80-7427-153-3.EHRENBERGEROVÁ, Jaroslava. 1995. Zakládání a hodnocení pokusů. 1. vyd. Brno: MZLU, 108 s. ISBN 80-7157-153-9.HENDL, Jan. 2015. Přehled statistických metod: analýza a metaanalýza dat. Praha: Portál, 734 s. ISBN 978-80-262-0981-2. Statistical methods in agriculture and experimental biology. 3. vyd. Boca Raton: Chapman & Hall/CRC, 472 s. ISBN 1-5848-8187-9. Kompendium statistického zpracování dat: metody a řešené úlohy. 2006. 2. vyd. Praha: Academia, 982 s. ISBN 80-200-1396-2.STÁVKOVÁ, Jana; DUFEK, Jaroslav. 2012. Biometrika. 2. vyd. Brno: Mendelova univerzita v Brně, 178 s. ISBN 978-80-7375-634-5."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "BLÁHA, Ladislav; ŠERÁ, Božena. 2014. Příspěvky k problematice zemědělského pokusnictví = contribution to agricultural experimentation. 1. vyd. Praha: Výzkumný ústav rostlinné výroby ;, 140 s. ISBN 978-80-7427-153-3.EHRENBERGEROVÁ, Jaroslava. 1995. Zakládání a hodnocení pokusů. 1. vyd. Brno: MZLU, 108 s. ISBN 80-7157-153-9.HENDL, Jan. 2015. Přehled statistických metod: analýza a metaanalýza dat. Praha: Portál, 734 s. ISBN 978-80-262-0981-2. Statistical methods in agriculture and experimental biology. 3. vyd. Boca Raton: Chapman & Hall/CRC, 472 s. ISBN 1-5848-8187-9. Kompendium statistického zpracování dat: metody a řešené úlohy. 2006. 2. vyd. Praha: Academia, 982 s. ISBN 80-200-1396-2.STÁVKOVÁ, Jana; DUFEK, Jaroslav. 2012. Biometrika. 2. vyd. Brno: Mendelova univerzita v Brně, 178 s. ISBN 978-80-7375-634-5."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-ZIZ Zahradnické inženýrství, kombinovaná forma, počáteční období ZS 2025/2026Program N-ZIZ Zahradnické inženýrství, prezenční forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Lednice"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "BIDEP"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Biometrika a design pokusu"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Biometrics and Design of Experiments"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Pass credit (3 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "It is possible to undertake this course during foreign mobility. A significant degree of self-study is imperative. Practical exercises will be substituted by the requirement to prepare statistical analyses, including interpretation, based on model data. Assessments will be administered online, consistent with the approach employed for full-time students. With regard to the time commitment involved, the preparation of these tasks will be commensurate with the allocation for exercises in the case of full-time study. Credit is awarded on the basis of submitted tasks and the methodology of the student's own diploma thesis."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Mgr. Miroslav Baránek, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Mendeleum - Institute of Genetics and Plant Breeding (FH)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Horticulture"
+    },
+    {
+      "label": "Teachers:",
+      "content": "prof. Mgr. Miroslav Baránek, Ph.D. (instructor, supervisor)Ing. Miroslav Vachůn, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "AKR19"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to the Study of Biometrics and Design of Experiments (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Experimentation - importance for practice"
+    },
+    {
+      "label": "b.",
+      "content": "History of experimentation and experimental design"
+    },
+    {
+      "label": "c.",
+      "content": "Basics of experimentation, concepts and terminology"
+    },
+    {
+      "label": "2.",
+      "content": "Experiment planning (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Basics of scientific work"
+    },
+    {
+      "label": "b.",
+      "content": "Determination of experimental hypothesis"
+    },
+    {
+      "label": "c.",
+      "content": "Planning of experimental work"
+    },
+    {
+      "label": "3.",
+      "content": "Experiment Design (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic experimental arrangements"
+    },
+    {
+      "label": "b.",
+      "content": "Arrangement of experimental members in the experiment"
+    },
+    {
+      "label": "c.",
+      "content": "Basic types of design"
+    },
+    {
+      "label": "4.",
+      "content": "Biometric basics of experimental data acquisition (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Population data file"
+    },
+    {
+      "label": "b.",
+      "content": "Sample data file"
+    },
+    {
+      "label": "c.",
+      "content": "Types of variables and data"
+    },
+    {
+      "label": "d.",
+      "content": "Data transformation and normalization"
+    },
+    {
+      "label": "5.",
+      "content": "Experimental data processing in Statistica (allowance 0/10)"
+    },
+    {
+      "label": "a.",
+      "content": "Data acquisition and import into Statistica program"
+    },
+    {
+      "label": "b.",
+      "content": "Work in Statistica"
+    },
+    {
+      "label": "c.",
+      "content": "Evaluation of the mean difference"
+    },
+    {
+      "label": "d.",
+      "content": "Testing of homogeneity of variance"
+    },
+    {
+      "label": "6.",
+      "content": "Analysis of variance, principles of its use (allowance 2/10)"
+    },
+    {
+      "label": "a.",
+      "content": "Design of experiment in connection with an Analysis Of Variance (ANOVA)"
+    },
+    {
+      "label": "b.",
+      "content": "Multi-factor ANOVA"
+    },
+    {
+      "label": "c.",
+      "content": "Use and creation of blocks in the experiment and their effectiveness"
+    },
+    {
+      "label": "7.",
+      "content": "General Linear Model (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Interactions in multi-factor experiments"
+    },
+    {
+      "label": "b.",
+      "content": "Modeling of a multi-factor experiment"
+    },
+    {
+      "label": "c.",
+      "content": "Two-factor split parts - model and calculation"
+    },
+    {
+      "label": "8.",
+      "content": "Importance of field trials in the system of varietal testing (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Establishment, management, and evaluation of field trials"
+    },
+    {
+      "label": "b.",
+      "content": "Examples of methods of field experiments"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022, WS 2020/2021 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Lednice"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Biometrika a design pokusu"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Biometrics and Design of Experiments"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Pass credit (3 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Pass credit (3 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: It is possible to undertake this course during foreign mobility. A significant degree of self-study is imperative. Practical exercises will be substituted by the requirement to prepare statistical analyses, including interpretation, based on model data. Assessments will be administered online, consistent with the approach employed for full-time students. With regard to the time commitment involved, the preparation of these tasks will be commensurate with the allocation for exercises in the case of full-time study. Credit is awarded on the basis of submitted tasks and the methodology of the student's own diploma thesis."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Mgr. Miroslav Baránek, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Mendeleum - Institute of Genetics and Plant Breeding (FH)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Horticulture"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. Mgr. Miroslav Baránek, Ph.D. (instructor, supervisor)Ing. Miroslav Vachůn, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: AKR19"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday15.00-15.50ZFAula (Led)M. VachůnLectureEvery week149Monday16.00-17.50ZFC13 (Led)M. VachůnSeminarEvery week32Thursday10.00-11.50ZFC13 (Led)M. VachůnSeminarEvery week22Friday8.00-11.50ZFDP1 (Led)M. VachůnLectureOccasionally65"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The course is a continuation of the course of computer technology and applied statistics. The aim of the course is to introduce students to the principles of scientific experimentation in agriculture and horticulture, the principles of proper experimental design and the methods of statistical evaluation. The course emphasizes the connection of theoretical knowledge with practical skills and provides methodological support in the preparation of theses. Students will learn how to design experiments to be reliable, objective and interpretable, and will learn how to use Statistica software to analyse and visualise data in their future work."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to the Study of Biometrics and Design of Experiments (allowance 2/0) a.Experimentation - importance for practiceb.History of experimentation and experimental designc.Basics of experimentation, concepts and terminology2.Experiment planning (allowance 2/0) a.Basics of scientific workb.Determination of experimental hypothesisc.Planning of experimental work3.Experiment Design (allowance 2/0) a.Basic experimental arrangementsb.Arrangement of experimental members in the experimentc.Basic types of design4.Biometric basics of experimental data acquisition (allowance 2/4) a.Population data fileb.Sample data filec.Types of variables and datad.Data transformation and normalization5.Experimental data processing in Statistica (allowance 0/10) a.Data acquisition and import into Statistica programb.Work in Statisticac.Evaluation of the mean differenced.Testing of homogeneity of variance6.Analysis of variance, principles of its use (allowance 2/10) a.Design of experiment in connection with an Analysis Of Variance (ANOVA)b.Multi-factor ANOVAc.Use and creation of blocks in the experiment and their effectiveness7.General Linear Model (allowance 2/4) a.Interactions in multi-factor experimentsb.Modeling of a multi-factor experimentc.Two-factor split parts - model and calculation8.Importance of field trials in the system of varietal testing (allowance 2/0) a.Establishment, management, and evaluation of field trialsb.Examples of methods of field experiments"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Experimentation - importance for practiceb.History of experimentation and experimental designc.Basics of experimentation, concepts and terminology"
+    },
+    {
+      "label": "[section] Introduction to the Study of Biometrics and Design of Experiments",
+      "content": "a.Experimentation - importance for practiceb.History of experimentation and experimental designc.Basics of experimentation, concepts and terminology"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Basics of scientific workb.Determination of experimental hypothesisc.Planning of experimental work"
+    },
+    {
+      "label": "[section] Experiment planning",
+      "content": "a.Basics of scientific workb.Determination of experimental hypothesisc.Planning of experimental work"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Basic experimental arrangementsb.Arrangement of experimental members in the experimentc.Basic types of design"
+    },
+    {
+      "label": "[section] Experiment Design",
+      "content": "a.Basic experimental arrangementsb.Arrangement of experimental members in the experimentc.Basic types of design"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Population data fileb.Sample data filec.Types of variables and datad.Data transformation and normalization"
+    },
+    {
+      "label": "[section] Biometric basics of experimental data acquisition",
+      "content": "a.Population data fileb.Sample data filec.Types of variables and datad.Data transformation and normalization"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Data acquisition and import into Statistica programb.Work in Statisticac.Evaluation of the mean differenced.Testing of homogeneity of variance"
+    },
+    {
+      "label": "[section] Experimental data processing in Statistica",
+      "content": "a.Data acquisition and import into Statistica programb.Work in Statisticac.Evaluation of the mean differenced.Testing of homogeneity of variance"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Design of experiment in connection with an Analysis Of Variance (ANOVA)b.Multi-factor ANOVAc.Use and creation of blocks in the experiment and their effectiveness"
+    },
+    {
+      "label": "[section] Analysis of variance, principles of its use",
+      "content": "a.Design of experiment in connection with an Analysis Of Variance (ANOVA)b.Multi-factor ANOVAc.Use and creation of blocks in the experiment and their effectiveness"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Interactions in multi-factor experimentsb.Modeling of a multi-factor experimentc.Two-factor split parts - model and calculation"
+    },
+    {
+      "label": "[section] General Linear Model",
+      "content": "a.Interactions in multi-factor experimentsb.Modeling of a multi-factor experimentc.Two-factor split parts - model and calculation"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Establishment, management, and evaluation of field trialsb.Examples of methods of field experiments"
+    },
+    {
+      "label": "[section] Importance of field trials in the system of varietal testing",
+      "content": "a.Establishment, management, and evaluation of field trialsb.Examples of methods of field experiments"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture12 h16 hpractice24 h0 hconsultation2 h22 hproject work14 h14 hpublic presentation (oral)2 h2 hpreparation for regular assessment6 h6 hpreparation for regular testing8 h8 hpreparation of presentation6 h6 helaboration of reports6 h6 hwriting of seminar paper4 h4 hTotal84 h84 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Credit is awarded on the basis of the successful completion of ongoing tasks (Statistica – analysis of model data, graphical outputs). Furthermore, two brief, continuous assessments are to be conducted. These will verify fundamental principles, including control, randomisation, replication, and ANOVA, among others. The preparation of a preliminary methodology for the student's own thesis is hereby outlined. The methodology must encompass the following elements: a research question, a hypothesis, a design proposal (including controls, variants, and the number of repetitions), and a method of data analysis. At the conclusion of the semester, students will be required to deliver a concise presentation (duration 5-10 minutes) outlining their experiment proposal to the instructor and their peers (weeks 11-12). The clarity and logic of the proposal, as well as the ability to defend the chosen procedures, will be evaluated. Full-time students are required to attend a minimum of 70% of the exercises. The course is completed in the form of a credit. The credit is awarded for attendance and activity (20%), continuous tests and assignments (20%), the experiment design project (40%), and the presentation (20%). In order to satisfy the minimum requirement, it is necessary to obtain a minimum of 60% of the total score, which is 100 points."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation20 %20 %Term paper80 %80 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:BLÁHA, Ladislav; ŠERÁ, Božena. 2014. Příspěvky k problematice zemědělského pokusnictví = contribution to agricultural experimentation. 1st ed. Praha: Výzkumný ústav rostlinné výroby ;, 140 p. ISBN 978-80-7427-153-3.EHRENBERGEROVÁ, Jaroslava. 1995. Zakládání a hodnocení pokusů. 1st ed. Brno: MZLU, 108 p. ISBN 80-7157-153-9.HENDL, Jan. 2015. Přehled statistických metod: analýza a metaanalýza dat. Praha: Portál, 734 p. ISBN 978-80-262-0981-2. Statistical methods in agriculture and experimental biology. 3rd ed. Boca Raton: Chapman & Hall/CRC, 472 p. ISBN 1-5848-8187-9. Kompendium statistického zpracování dat: metody a řešené úlohy. 2006. 2nd ed. Praha: Academia, 982 p. ISBN 80-200-1396-2.STÁVKOVÁ, Jana; DUFEK, Jaroslav. 2012. Biometrika. 2nd ed. Brno: Mendelova univerzita v Brně, 178 p. ISBN 978-80-7375-634-5."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "BLÁHA, Ladislav; ŠERÁ, Božena. 2014. Příspěvky k problematice zemědělského pokusnictví = contribution to agricultural experimentation. 1st ed. Praha: Výzkumný ústav rostlinné výroby ;, 140 p. ISBN 978-80-7427-153-3.EHRENBERGEROVÁ, Jaroslava. 1995. Zakládání a hodnocení pokusů. 1st ed. Brno: MZLU, 108 p. ISBN 80-7157-153-9.HENDL, Jan. 2015. Přehled statistických metod: analýza a metaanalýza dat. Praha: Portál, 734 p. ISBN 978-80-262-0981-2. Statistical methods in agriculture and experimental biology. 3rd ed. Boca Raton: Chapman & Hall/CRC, 472 p. ISBN 1-5848-8187-9. Kompendium statistického zpracování dat: metody a řešené úlohy. 2006. 2nd ed. Praha: Academia, 982 p. ISBN 80-200-1396-2.STÁVKOVÁ, Jana; DUFEK, Jaroslav. 2012. Biometrika. 2nd ed. Brno: Mendelova univerzita v Brně, 178 p. ISBN 978-80-7375-634-5."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-HEN Horticulture engineering, part-time form, initial period WS 2025/2026Programme C-HEN Horticulture engineering, full-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Lednice"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:17:57",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

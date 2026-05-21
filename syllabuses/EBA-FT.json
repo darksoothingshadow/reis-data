@@ -1,0 +1,921 @@
+{
+  "courseCode": "EBA-FT",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBA-FT"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Finanční trhy v AJ"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Financial Markets"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "angličtina"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Mgr. Ing. Martin Stachoň, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav financí a účetnictví (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Luděk Benada, Ph.D. (cvičící, přednášející, tutor, zkoušející)Mgr. Ing. Martin Stachoň, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška a ne Finanční trhy v AJ"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do teorie finančních trhů (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Vztah mezi ekonomickým a finančním systémem, funkce finančního trhu"
+    },
+    {
+      "label": "b.",
+      "content": "Význam finančních trhů a dopady jejich neefektivností"
+    },
+    {
+      "label": "c.",
+      "content": "Finanční a reálné investice, přímé a nepřímé financování"
+    },
+    {
+      "label": "2.",
+      "content": "Regulatorní instituce (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Centrální banka"
+    },
+    {
+      "label": "b.",
+      "content": "Monetární banka - cíle, nástroje"
+    },
+    {
+      "label": "3.",
+      "content": "Komerční instituce (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Funkce obchodních bank, současná situace v ČR a EU"
+    },
+    {
+      "label": "b.",
+      "content": "Úvěrové produkty (hypoteční trh) a vkladové produkty"
+    },
+    {
+      "label": "c.",
+      "content": "Pojišťovací instituce: základní pojmy, struktura pojistného trhu v ČR a EU"
+    },
+    {
+      "label": "d.",
+      "content": "Penzijní společnosti a fondy: důchodový systém a druhy penzijního spoření"
+    },
+    {
+      "label": "4.",
+      "content": "Burzy a mimoburzovní instituce (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam a funkce burz, jejich rozdělení"
+    },
+    {
+      "label": "b.",
+      "content": "BCPP (kontinuální obchodování), RM Systém (aukční systém)"
+    },
+    {
+      "label": "c.",
+      "content": "Přehled významných světových burz, mimoburzovní instituce"
+    },
+    {
+      "label": "5.",
+      "content": "Úvod do finančních instrumentů - akcie (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Akcie - definice, rozdělení, práva"
+    },
+    {
+      "label": "b.",
+      "content": "Dividendy"
+    },
+    {
+      "label": "c.",
+      "content": "Aktuální situace na akciovém trhu"
+    },
+    {
+      "label": "6.",
+      "content": "Kolektivní investování (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Česká právní úprava kolektivního investování"
+    },
+    {
+      "label": "b.",
+      "content": "Podílové fondy: jejich typy, struktura a fungování"
+    },
+    {
+      "label": "c.",
+      "content": "Investiční strategie podílových fondů"
+    },
+    {
+      "label": "7.",
+      "content": "Dluhopisy (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní pojmy a druhy dluhopisů"
+    },
+    {
+      "label": "b.",
+      "content": "Faktory ovlivňující cenu dluhopisů"
+    },
+    {
+      "label": "c.",
+      "content": "Vývoj dluhopisového trhu v ČR a ve světě, příklady"
+    },
+    {
+      "label": "d.",
+      "content": "Základy výnosových křivek dluhopisů"
+    },
+    {
+      "label": "8.",
+      "content": "Technická a fundamentální analýza (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Technická analýza - předpoklady analýzy a vymezení základních pojmů"
+    },
+    {
+      "label": "b.",
+      "content": "Technická analýza - ukázka nejčastěji používaných grafů a technických indikátorů"
+    },
+    {
+      "label": "c.",
+      "content": "Fundamentální analýza - makroekonomická a oborová analýza"
+    },
+    {
+      "label": "d.",
+      "content": "Fundamentální analýza - analýza společnosti, metody výpočtu vnitřní hodnoty akcie"
+    },
+    {
+      "label": "9.",
+      "content": "Alternativní investice (dotace 6/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam a rozdělení alternativních aktiv"
+    },
+    {
+      "label": "b.",
+      "content": "Komodity, kryptoměny: charakteristika, výhody a nevýhody"
+    },
+    {
+      "label": "c.",
+      "content": "Doporučení v aktuálních tržních podmínkách"
+    },
+    {
+      "label": "10.",
+      "content": "Behaviorální finance (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Behaviorální finance: iracionalita v investičním rozhodování"
+    },
+    {
+      "label": "b.",
+      "content": "Základní teorie rozhodování"
+    },
+    {
+      "label": "c.",
+      "content": "Psychologické aspekty investování"
+    },
+    {
+      "label": "11.",
+      "content": "Alternativní investice: nemovitosti (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Faktory ovlivňující cenu nemovitostí"
+    },
+    {
+      "label": "b.",
+      "content": "Praktické příklady a využití oceňování v investičním rozhodování"
+    },
+    {
+      "label": "12.",
+      "content": "Finanční matematika (dotace 0/14)"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "100 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, LS 2025/2026, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Finanční trhy v AJ"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Financial Markets"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: angličtina"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Mgr. Ing. Martin Stachoň, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav financí a účetnictví (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Luděk Benada, Ph.D. (cvičící, přednášející, tutor, zkoušející)Mgr. Ing. Martin Stachoň, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a ne Finanční trhy v AJ"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek15.00-16.50Q14L. Benada, M. StachoňPřednáškaKaždý týden30Čtvrtek17.00-18.50Q14L. BenadaCvičeníLichý týden30"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Po absolvování předmětu získají studenti základní znalosti o principech fungování finančních trhů v rámci ekonomického systém. Budou rovněž znát finanční instituce působící na finančních trzích, finanční instrumenty a nástroje finanční analýzy. Navíc se v každém tématu seznámí s aktuální situací na příslušném trhu. Student je schopen znalosti z oblasti finanční matematiky použít v životních situacích i v profesní praxi. Rovněž student získá přehled o finančních produktech a je schopen investičního rozhodování."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do teorie finančních trhů (dotace 2/0) a.Vztah mezi ekonomickým a finančním systémem, funkce finančního trhub.Význam finančních trhů a dopady jejich neefektivnostíc.Finanční a reálné investice, přímé a nepřímé financování2.Regulatorní instituce (dotace 2/0) a.Centrální bankab.Monetární banka - cíle, nástroje3.Komerční instituce (dotace 2/0) a.Funkce obchodních bank, současná situace v ČR a EUb.Úvěrové produkty (hypoteční trh) a vkladové produktyc.Pojišťovací instituce: základní pojmy, struktura pojistného trhu v ČR a EUd.Penzijní společnosti a fondy: důchodový systém a druhy penzijního spoření4.Burzy a mimoburzovní instituce (dotace 2/0) a.Význam a funkce burz, jejich rozděleníb.BCPP (kontinuální obchodování), RM Systém (aukční systém)c.Přehled významných světových burz, mimoburzovní instituce5.Úvod do finančních instrumentů - akcie (dotace 2/0) a.Akcie - definice, rozdělení, právab.Dividendyc.Aktuální situace na akciovém trhu6.Kolektivní investování (dotace 2/0) a.Česká právní úprava kolektivního investováníb.Podílové fondy: jejich typy, struktura a fungováníc.Investiční strategie podílových fondů7.Dluhopisy (dotace 2/0) a.Základní pojmy a druhy dluhopisůb.Faktory ovlivňující cenu dluhopisůc.Vývoj dluhopisového trhu v ČR a ve světě, příkladyd.Základy výnosových křivek dluhopisů8.Technická a fundamentální analýza (dotace 2/0) a.Technická analýza - předpoklady analýzy a vymezení základních pojmůb.Technická analýza - ukázka nejčastěji používaných grafů a technických indikátorůc.Fundamentální analýza - makroekonomická a oborová analýzad.Fundamentální analýza - analýza společnosti, metody výpočtu vnitřní hodnoty akcie9.Alternativní investice (dotace 6/0) a.Význam a rozdělení alternativních aktivb.Komodity, kryptoměny: charakteristika, výhody a nevýhodyc.Doporučení v aktuálních tržních podmínkách10.Behaviorální finance (dotace 2/0) a.Behaviorální finance: iracionalita v investičním rozhodováníb.Základní teorie rozhodováníc.Psychologické aspekty investování11.Alternativní investice: nemovitosti (dotace 2/0) a.Faktory ovlivňující cenu nemovitostíb.Praktické příklady a využití oceňování v investičním rozhodování12.Finanční matematika (dotace 0/14)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Vztah mezi ekonomickým a finančním systémem, funkce finančního trhub.Význam finančních trhů a dopady jejich neefektivnostíc.Finanční a reálné investice, přímé a nepřímé financování"
+    },
+    {
+      "label": "[section] Úvod do teorie finančních trhů",
+      "content": "a.Vztah mezi ekonomickým a finančním systémem, funkce finančního trhub.Význam finančních trhů a dopady jejich neefektivnostíc.Finanční a reálné investice, přímé a nepřímé financování"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Centrální bankab.Monetární banka - cíle, nástroje"
+    },
+    {
+      "label": "[section] Regulatorní instituce",
+      "content": "a.Centrální bankab.Monetární banka - cíle, nástroje"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Funkce obchodních bank, současná situace v ČR a EUb.Úvěrové produkty (hypoteční trh) a vkladové produktyc.Pojišťovací instituce: základní pojmy, struktura pojistného trhu v ČR a EUd.Penzijní společnosti a fondy: důchodový systém a druhy penzijního spoření"
+    },
+    {
+      "label": "[section] Komerční instituce",
+      "content": "a.Funkce obchodních bank, současná situace v ČR a EUb.Úvěrové produkty (hypoteční trh) a vkladové produktyc.Pojišťovací instituce: základní pojmy, struktura pojistného trhu v ČR a EUd.Penzijní společnosti a fondy: důchodový systém a druhy penzijního spoření"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Význam a funkce burz, jejich rozděleníb.BCPP (kontinuální obchodování), RM Systém (aukční systém)c.Přehled významných světových burz, mimoburzovní instituce"
+    },
+    {
+      "label": "[section] Burzy a mimoburzovní instituce",
+      "content": "a.Význam a funkce burz, jejich rozděleníb.BCPP (kontinuální obchodování), RM Systém (aukční systém)c.Přehled významných světových burz, mimoburzovní instituce"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Akcie - definice, rozdělení, právab.Dividendyc.Aktuální situace na akciovém trhu"
+    },
+    {
+      "label": "[section] Úvod do finančních instrumentů - akcie",
+      "content": "a.Akcie - definice, rozdělení, právab.Dividendyc.Aktuální situace na akciovém trhu"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Česká právní úprava kolektivního investováníb.Podílové fondy: jejich typy, struktura a fungováníc.Investiční strategie podílových fondů"
+    },
+    {
+      "label": "[section] Kolektivní investování",
+      "content": "a.Česká právní úprava kolektivního investováníb.Podílové fondy: jejich typy, struktura a fungováníc.Investiční strategie podílových fondů"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Základní pojmy a druhy dluhopisůb.Faktory ovlivňující cenu dluhopisůc.Vývoj dluhopisového trhu v ČR a ve světě, příkladyd.Základy výnosových křivek dluhopisů"
+    },
+    {
+      "label": "[section] Dluhopisy",
+      "content": "a.Základní pojmy a druhy dluhopisůb.Faktory ovlivňující cenu dluhopisůc.Vývoj dluhopisového trhu v ČR a ve světě, příkladyd.Základy výnosových křivek dluhopisů"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Technická analýza - předpoklady analýzy a vymezení základních pojmůb.Technická analýza - ukázka nejčastěji používaných grafů a technických indikátorůc.Fundamentální analýza - makroekonomická a oborová analýzad.Fundamentální analýza - analýza společnosti, metody výpočtu vnitřní hodnoty akcie"
+    },
+    {
+      "label": "[section] Technická a fundamentální analýza",
+      "content": "a.Technická analýza - předpoklady analýzy a vymezení základních pojmůb.Technická analýza - ukázka nejčastěji používaných grafů a technických indikátorůc.Fundamentální analýza - makroekonomická a oborová analýzad.Fundamentální analýza - analýza společnosti, metody výpočtu vnitřní hodnoty akcie"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Význam a rozdělení alternativních aktivb.Komodity, kryptoměny: charakteristika, výhody a nevýhodyc.Doporučení v aktuálních tržních podmínkách"
+    },
+    {
+      "label": "[section] Alternativní investice",
+      "content": "a.Význam a rozdělení alternativních aktivb.Komodity, kryptoměny: charakteristika, výhody a nevýhodyc.Doporučení v aktuálních tržních podmínkách"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Behaviorální finance: iracionalita v investičním rozhodováníb.Základní teorie rozhodováníc.Psychologické aspekty investování"
+    },
+    {
+      "label": "[section] Behaviorální finance",
+      "content": "a.Behaviorální finance: iracionalita v investičním rozhodováníb.Základní teorie rozhodováníc.Psychologické aspekty investování"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Faktory ovlivňující cenu nemovitostíb.Praktické příklady a využití oceňování v investičním rozhodování"
+    },
+    {
+      "label": "[section] Alternativní investice: nemovitosti",
+      "content": "a.Faktory ovlivňující cenu nemovitostíb.Praktické příklady a využití oceňování v investičním rozhodování"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení14 hpříprava na zkoušku40 hpříprava na průběžné hodnocení23 hpříprava na průběžný test23 hCelkem128 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "-1 zápočtová písemka z finanční matematiky (maximum 20 bodů, minimum 12 bodů) -1 řádný + 1 opravný termín -závěrečná písemná zkouška z finanční teorie (maximum 70 bodů) -aktivita v seminářích až 10 bodů -celkové body = zápočet + aktivita + zkouška (maximum 100 bodů) Hodnocení -méně než 60 bodů … F -60 a více … E -68 a více … D -75 a více … C -83 a více … B -90 a více … A"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAbsolvování závěrečného testu100 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:MISHKIN, Frederic. 2016. The Economics of Money, Banking, and Financial Markets. 11th ed. Boston: Pearson, ISBN 978-1-292-09418-2.ROSE, Peter S. 1997. Money and capital markets: financial institutions and instruments in a global marketplace. Chicago: Irwin MCGraw-Hill, 750 s. ISBN 0-256-15239-X."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "MISHKIN, Frederic. 2016. The Economics of Money, Banking, and Financial Markets. 11th ed. Boston: Pearson, ISBN 978-1-292-09418-2.ROSE, Peter S. 1997. Money and capital markets: financial institutions and instruments in a global marketplace. Chicago: Irwin MCGraw-Hill, 750 s. ISBN 0-256-15239-X."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-EAMA Economics and Management, prezenční forma, počáteční období LS 2023/2024Program B-EAMA Economics and Management, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBA-FT"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Finanční trhy v AJ"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Financial Markets"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "English"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Mgr. Ing. Martin Stachoň, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Finance and Accounting (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Luděk Benada, Ph.D. (examiner, instructor, lecturer, tutor)Mgr. Ing. Martin Stachoň, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam and not Financial Markets"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction into Theory of Financial Market (allowance 3/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Relationship of economic system and financial system -- Importance and functions of financial market"
+    },
+    {
+      "label": "b.",
+      "content": "Importance of financial markets - real effects of inefficiencies in financial markets"
+    },
+    {
+      "label": "c.",
+      "content": "Financial and real investments, direct and indirect financing"
+    },
+    {
+      "label": "d.",
+      "content": "Division of capital and money market"
+    },
+    {
+      "label": "e.",
+      "content": "Systematization of securities market"
+    },
+    {
+      "label": "2.",
+      "content": "Commercial Institutions (allowance 6/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Commercial banks - functions, banking sector - trends in Czech Republic and Europe"
+    },
+    {
+      "label": "b.",
+      "content": "Commercial banks - credit banking products with a focus on mortgage market, deposit products"
+    },
+    {
+      "label": "c.",
+      "content": "Insurance companies - basic terms, insurance sector structure in Czech republic and Europe"
+    },
+    {
+      "label": "d.",
+      "content": "Insurance companies - life and non-life insurance with focus on practical application of insurance products"
+    },
+    {
+      "label": "e.",
+      "content": "Pension companies and pension funds - pension system in Czech Republic, types of pension insurance"
+    },
+    {
+      "label": "f.",
+      "content": "Pension companies and pension funds - current problem in czech pension system"
+    },
+    {
+      "label": "3.",
+      "content": "Regulatory Institutions (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Central bank"
+    },
+    {
+      "label": "b.",
+      "content": "Monetary policy, goals, instruments"
+    },
+    {
+      "label": "4.",
+      "content": "Introduction to financial instruments - stocks (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Stocks - types, basic terms"
+    },
+    {
+      "label": "b.",
+      "content": "Dividends"
+    },
+    {
+      "label": "c.",
+      "content": "Current stock market trends"
+    },
+    {
+      "label": "5.",
+      "content": "Institution of Collective Investments (allowance 2/0)"
+    },
+    {
+      "label": "6.",
+      "content": "Theory of investments, bonds (allowance 3/0)"
+    },
+    {
+      "label": "a.",
+      "content": "World stock exchanges, OTC market"
+    },
+    {
+      "label": "b.",
+      "content": "Basic factors of investment strategy for specific financial instruments"
+    },
+    {
+      "label": "c.",
+      "content": "Examples of portfolio diversification"
+    },
+    {
+      "label": "d.",
+      "content": "Collective investments"
+    },
+    {
+      "label": "e.",
+      "content": "Basic terms, types of bonds, risk of bonds"
+    },
+    {
+      "label": "f.",
+      "content": "Current situation in bond market in Czech Republic and Europe, examples of actual bonds"
+    },
+    {
+      "label": "g.",
+      "content": "Yield curves"
+    },
+    {
+      "label": "7.",
+      "content": "Technical and Fundamental Analysis (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Technical analysis - assumptions of technical analysis, basic terms"
+    },
+    {
+      "label": "b.",
+      "content": "Technical analysis - the most frequent graphs and technical indicators"
+    },
+    {
+      "label": "c.",
+      "content": "Fundamental analysis - macroeconomic and sector analysis"
+    },
+    {
+      "label": "d.",
+      "content": "Fundamental analysis - analysis of company, intrinsic value"
+    },
+    {
+      "label": "8.",
+      "content": "Derivatives (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic terms"
+    },
+    {
+      "label": "b.",
+      "content": "Futures, forward, swaps - definition, examples"
+    },
+    {
+      "label": "c.",
+      "content": "Options - basic terms, examples"
+    },
+    {
+      "label": "d.",
+      "content": "Usefulness of derivatives in long and short position"
+    },
+    {
+      "label": "9.",
+      "content": "Alternative Investments (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Importance of alternative investments, types of assets"
+    },
+    {
+      "label": "b.",
+      "content": "Commodities, real estates, crypto currencies and others - characterization, pros and cons"
+    },
+    {
+      "label": "c.",
+      "content": "Recommendations for this type of investments in current situation at financial market"
+    },
+    {
+      "label": "10.",
+      "content": "Behavioral finance (allowance 4/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Efficient Market Hypothesis"
+    },
+    {
+      "label": "b.",
+      "content": "behavioral attention, behavioral inattetion, selective attention"
+    },
+    {
+      "label": "c.",
+      "content": "Anomalies at Capital Markets"
+    },
+    {
+      "label": "11.",
+      "content": "Financial Mathematics (allowance 0/14)"
+    },
+    {
+      "label": "Final test",
+      "content": "100 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, SS 2025/2026, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Finanční trhy v AJ"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Financial Markets"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: English"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Mgr. Ing. Martin Stachoň, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Finance and Accounting (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Luděk Benada, Ph.D. (examiner, instructor, lecturer, tutor)Mgr. Ing. Martin Stachoň, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam and not Financial Markets"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday15.00-16.50Q14L. Benada, M. StachoňLectureEvery week30Thursday17.00-18.50Q14L. BenadaSeminarOdd week30"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "After graduating the course students will obtain a basic knowledge of the principles of functioning of financial markets in economical system. Students will obtain knowledge of the financial institutions operating in the financial markets, financial instruments and financial analysis. In addition, each lecture will provide further information about current situation at market. Student is able to use the knowledge of financial mathematics in personal and professional life. Student has overview about financial products and makes investment decisions."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction into Theory of Financial Market (allowance 3/0) a.Relationship of economic system and financial system -- Importance and functions of financial marketb.Importance of financial markets - real effects of inefficiencies in financial marketsc.Financial and real investments, direct and indirect financingd.Division of capital and money markete.Systematization of securities market2.Commercial Institutions (allowance 6/0) a.Commercial banks - functions, banking sector - trends in Czech Republic and Europeb.Commercial banks - credit banking products with a focus on mortgage market, deposit productsc.Insurance companies - basic terms, insurance sector structure in Czech republic and Europed.Insurance companies - life and non-life insurance with focus on practical application of insurance productse.Pension companies and pension funds - pension system in Czech Republic, types of pension insurancef.Pension companies and pension funds - current problem in czech pension system3.Regulatory Institutions (allowance 2/0) a.Central bankb.Monetary policy, goals, instruments4.Introduction to financial instruments - stocks (allowance 2/0) a.Stocks - types, basic termsb.Dividendsc.Current stock market trends5.Institution of Collective Investments (allowance 2/0)6.Theory of investments, bonds (allowance 3/0) a.World stock exchanges, OTC marketb.Basic factors of investment strategy for specific financial instrumentsc.Examples of portfolio diversificationd.Collective investmentse.Basic terms, types of bonds, risk of bondsf.Current situation in bond market in Czech Republic and Europe, examples of actual bondsg.Yield curves7.Technical and Fundamental Analysis (allowance 2/0) a.Technical analysis - assumptions of technical analysis, basic termsb.Technical analysis - the most frequent graphs and technical indicatorsc.Fundamental analysis - macroeconomic and sector analysisd.Fundamental analysis - analysis of company, intrinsic value8.Derivatives (allowance 2/0) a.Basic termsb.Futures, forward, swaps - definition, examplesc.Options - basic terms, examplesd.Usefulness of derivatives in long and short position9.Alternative Investments (allowance 2/0) a.Importance of alternative investments, types of assetsb.Commodities, real estates, crypto currencies and others - characterization, pros and consc.Recommendations for this type of investments in current situation at financial market10.Behavioral finance (allowance 4/0) a.Efficient Market Hypothesisb.behavioral attention, behavioral inattetion, selective attentionc.Anomalies at Capital Markets11.Financial Mathematics (allowance 0/14)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Relationship of economic system and financial system -- Importance and functions of financial marketb.Importance of financial markets - real effects of inefficiencies in financial marketsc.Financial and real investments, direct and indirect financingd.Division of capital and money markete.Systematization of securities market"
+    },
+    {
+      "label": "[section] Introduction into Theory of Financial Market",
+      "content": "a.Relationship of economic system and financial system -- Importance and functions of financial marketb.Importance of financial markets - real effects of inefficiencies in financial marketsc.Financial and real investments, direct and indirect financingd.Division of capital and money markete.Systematization of securities market"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Commercial banks - functions, banking sector - trends in Czech Republic and Europeb.Commercial banks - credit banking products with a focus on mortgage market, deposit productsc.Insurance companies - basic terms, insurance sector structure in Czech republic and Europed.Insurance companies - life and non-life insurance with focus on practical application of insurance productse.Pension companies and pension funds - pension system in Czech Republic, types of pension insurancef.Pension companies and pension funds - current problem in czech pension system"
+    },
+    {
+      "label": "[section] Commercial Institutions",
+      "content": "a.Commercial banks - functions, banking sector - trends in Czech Republic and Europeb.Commercial banks - credit banking products with a focus on mortgage market, deposit productsc.Insurance companies - basic terms, insurance sector structure in Czech republic and Europed.Insurance companies - life and non-life insurance with focus on practical application of insurance productse.Pension companies and pension funds - pension system in Czech Republic, types of pension insurancef.Pension companies and pension funds - current problem in czech pension system"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Central bankb.Monetary policy, goals, instruments"
+    },
+    {
+      "label": "[section] Regulatory Institutions",
+      "content": "a.Central bankb.Monetary policy, goals, instruments"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Stocks - types, basic termsb.Dividendsc.Current stock market trends"
+    },
+    {
+      "label": "[section] Introduction to financial instruments - stocks",
+      "content": "a.Stocks - types, basic termsb.Dividendsc.Current stock market trends"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Theory of investments, bonds (allowance 3/0)"
+    },
+    {
+      "label": "[section] Institution of Collective Investments",
+      "content": "6.Theory of investments, bonds (allowance 3/0)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.World stock exchanges, OTC marketb.Basic factors of investment strategy for specific financial instrumentsc.Examples of portfolio diversificationd.Collective investmentse.Basic terms, types of bonds, risk of bondsf.Current situation in bond market in Czech Republic and Europe, examples of actual bondsg.Yield curves"
+    },
+    {
+      "label": "[section] Theory of investments, bonds",
+      "content": "a.World stock exchanges, OTC marketb.Basic factors of investment strategy for specific financial instrumentsc.Examples of portfolio diversificationd.Collective investmentse.Basic terms, types of bonds, risk of bondsf.Current situation in bond market in Czech Republic and Europe, examples of actual bondsg.Yield curves"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Technical analysis - assumptions of technical analysis, basic termsb.Technical analysis - the most frequent graphs and technical indicatorsc.Fundamental analysis - macroeconomic and sector analysisd.Fundamental analysis - analysis of company, intrinsic value"
+    },
+    {
+      "label": "[section] Technical and Fundamental Analysis",
+      "content": "a.Technical analysis - assumptions of technical analysis, basic termsb.Technical analysis - the most frequent graphs and technical indicatorsc.Fundamental analysis - macroeconomic and sector analysisd.Fundamental analysis - analysis of company, intrinsic value"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Basic termsb.Futures, forward, swaps - definition, examplesc.Options - basic terms, examplesd.Usefulness of derivatives in long and short position"
+    },
+    {
+      "label": "[section] Derivatives",
+      "content": "a.Basic termsb.Futures, forward, swaps - definition, examplesc.Options - basic terms, examplesd.Usefulness of derivatives in long and short position"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Importance of alternative investments, types of assetsb.Commodities, real estates, crypto currencies and others - characterization, pros and consc.Recommendations for this type of investments in current situation at financial market"
+    },
+    {
+      "label": "[section] Alternative Investments",
+      "content": "a.Importance of alternative investments, types of assetsb.Commodities, real estates, crypto currencies and others - characterization, pros and consc.Recommendations for this type of investments in current situation at financial market"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Efficient Market Hypothesisb.behavioral attention, behavioral inattetion, selective attentionc.Anomalies at Capital Markets"
+    },
+    {
+      "label": "[section] Behavioral finance",
+      "content": "a.Efficient Market Hypothesisb.behavioral attention, behavioral inattetion, selective attentionc.Anomalies at Capital Markets"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice14 hpreparation for exam40 hpreparation for regular assessment23 hpreparation for regular testing23 hTotal128 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "1 written test in financial mathematics (maximum 20 points, minimum 12 points) -1 regular attempt + one extra attempt when needed Final written exam in financial theory (maximum 70 points) -class activity up to 10 points -total points = test + activity + exam (maximum 100 points) Grading -less than 60 points … F -60 or more … E -68 or more … D -75 or more … C -83 or more … B -90 or more … A"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceFinal test100 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:MISHKIN, Frederic. 2016. The Economics of Money, Banking, and Financial Markets. 11th ed. Boston: Pearson, ISBN 978-1-292-09418-2.ROSE, Peter S. 1997. Money and capital markets: financial institutions and instruments in a global marketplace. Chicago: Irwin MCGraw-Hill, 750 p. ISBN 0-256-15239-X."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "MISHKIN, Frederic. 2016. The Economics of Money, Banking, and Financial Markets. 11th ed. Boston: Pearson, ISBN 978-1-292-09418-2.ROSE, Peter S. 1997. Money and capital markets: financial institutions and instruments in a global marketplace. Chicago: Irwin MCGraw-Hill, 750 p. ISBN 0-256-15239-X."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-EAMA Economics and Management, full-time form, initial period SS 2023/2024Programme B-EAMA Economics and Management, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 07:35:38",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}

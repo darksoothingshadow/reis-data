@@ -1,0 +1,485 @@
+{
+  "courseCode": "GEPOP",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "GEPOP"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Genetika populací"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Population genetics"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Ing. Tomáš Urban, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav morfologie, fyziologie a genetiky zvířat (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "prof. Ing. Tomáš Urban, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Struktura populace, genetická diverzita (dotace 1/3)"
+    },
+    {
+      "label": "2.",
+      "content": "Evoluční faktory měnící genetickou variabilitu populace (selekce, migrace, mutace, genetický drift, inbriding) (dotace 3/9)"
+    },
+    {
+      "label": "3.",
+      "content": "Statistické metody v genetice - Využívání programu R – statistické přístupy hodnocení variability populací. (dotace 1/3)"
+    },
+    {
+      "label": "4.",
+      "content": "Komplexní vlastnosti a genetická variabilita (dotace 1/3)"
+    },
+    {
+      "label": "5.",
+      "content": "Odhad genetických parametrů (dotace 2/6)"
+    },
+    {
+      "label": "6.",
+      "content": "Modelování pomocí matic v programu R. Lineární modely s náhodnými efekty (BLUP, ML, REML) (dotace 1/3)"
+    },
+    {
+      "label": "7.",
+      "content": "Analýza genetických dat pro šlechtění zvířat - Modely odhadu plemenných hodnot – animal model (jednoznakový) (dotace 2/6)"
+    },
+    {
+      "label": "8.",
+      "content": "Genomická příbuznost a odhad genomické plemenné hodnoty v rámci genomické selekce (GBLUP) (dotace 1/3)"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "50 %"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "10 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "10 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "30 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Genetika populací"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Population genetics"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Ing. Tomáš Urban, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav morfologie, fyziologie a genetiky zvířat (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: prof. Ing. Tomáš Urban, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí10.00-12.50A416T. UrbanCvičeníKaždý týden20Úterý13.00-15.50A416T. UrbanCvičeníKaždý týden20Úterý16.00-16.50A416T. UrbanPřednáškaKaždý týden40"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je získat znalosti podstaty genetické variability v populacích, její hodnocení a využití ve šlechtění zvířat. Rozvíjet dovednost využívání softwarů (zejména programu R) pro rozklad fenotypové variance pomocí statistických metod (lineární regrese, analýza variance) a odhadovat genetické parametry (heritabilita, opakovatelnost, genetické korelace) a odhadovat plemenné hodnoty pomocí lineárních modelů. Aplikovat molekulární data genetických markerů v hodnocení variability kvantitativních znaků – odhad genomické plemenné hodnoty. Interpretovat tyto poznatky a konkrétně je využívat jako základ pro cílené šlechtění hospodářských zvířat."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Struktura populace, genetická diverzita (dotace 1/3)2.Evoluční faktory měnící genetickou variabilitu populace (selekce, migrace, mutace, genetický drift, inbriding) (dotace 3/9)3.Statistické metody v genetice - Využívání programu R – statistické přístupy hodnocení variability populací. (dotace 1/3)4.Komplexní vlastnosti a genetická variabilita (dotace 1/3)5.Odhad genetických parametrů (dotace 2/6)6.Modelování pomocí matic v programu R. Lineární modely s náhodnými efekty (BLUP, ML, REML) (dotace 1/3)7.Analýza genetických dat pro šlechtění zvířat - Modely odhadu plemenných hodnot – animal model (jednoznakový) (dotace 2/6)8.Genomická příbuznost a odhad genomické plemenné hodnoty v rámci genomické selekce (GBLUP) (dotace 1/3)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Evoluční faktory měnící genetickou variabilitu populace (selekce, migrace, mutace, genetický drift, inbriding) (dotace 3/9)"
+    },
+    {
+      "label": "[section] Struktura populace, genetická diverzita",
+      "content": "2.Evoluční faktory měnící genetickou variabilitu populace (selekce, migrace, mutace, genetický drift, inbriding) (dotace 3/9)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Statistické metody v genetice - Využívání programu R – statistické přístupy hodnocení variability populací. (dotace 1/3)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Komplexní vlastnosti a genetická variabilita (dotace 1/3)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Odhad genetických parametrů (dotace 2/6)"
+    },
+    {
+      "label": "[section] Komplexní vlastnosti a genetická variabilita",
+      "content": "5.Odhad genetických parametrů (dotace 2/6)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Modelování pomocí matic v programu R. Lineární modely s náhodnými efekty (BLUP, ML, REML) (dotace 1/3)"
+    },
+    {
+      "label": "[section] Odhad genetických parametrů",
+      "content": "6.Modelování pomocí matic v programu R. Lineární modely s náhodnými efekty (BLUP, ML, REML) (dotace 1/3)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Analýza genetických dat pro šlechtění zvířat - Modely odhadu plemenných hodnot – animal model (jednoznakový) (dotace 2/6)"
+    },
+    {
+      "label": "[section] Modelování pomocí matic v programu R. Lineární modely s náhodnými efekty (BLUP, ML, REML)",
+      "content": "7.Analýza genetických dat pro šlechtění zvířat - Modely odhadu plemenných hodnot – animal model (jednoznakový) (dotace 2/6)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Genomická příbuznost a odhad genomické plemenné hodnoty v rámci genomické selekce (GBLUP) (dotace 1/3)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení42 hpříprava na zkoušku20 hpříprava na průběžný test5 hzpracování projektů5 hCelkem86 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Docházka cvičení minimálně 80 %. Zápočet je udělen na základě prověření znalostí dvou teoretických testů a tří projektů celkem za 50 bodů, pro zápočet min. 60 %. Zkouška je písemná a ústní. V písemné části zodpoví studenti 15 otázek (min. z 60 %). Poté následuje ústní zkouška, kde si vyberou 2 otázky z tematických okruhů uvedených v sylabu předmětu."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích50 %Absolvování průběžného testu (testů)10 %Absolvování závěrečného testu10 %Absolvování závěrečné ústní zkoušky30 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:URBAN, Tomáš. 2008. Virtuální svět genetiky 3 - principy genetiky populací a kvantitativních znaků. http://user.mendelu.cz/urban/vsg3/. Genetics and Analysis of Quantitative Traits. 1997. Sunderland: Sinauer Associates, 980 s. ISBN 0-87893-481-2. Principles of population genetics. 1997. 3. vyd. Sunderland, Massachusetts: Sinauer Associates, 542 s. ISBN 0-87893-306-9.KUCIEL, Jiří; URBAN, Tomáš. 2023. Principy genetiky. Brno: Mendelova univerzita v Brně, 200 s. ISBN 978-80-7509-385-1.Doporučená:ALLENDORF, Frederick William, Gordon LUIKART a Sally N. AITKEN. Conservation and the genetics of populations. 2. vyd. Ilustroval Agostinho ANTUNES. Chichester, West Sussex: John Wiley, 2013. ISBN 978-0-470-67146-7."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "URBAN, Tomáš. 2008. Virtuální svět genetiky 3 - principy genetiky populací a kvantitativních znaků. http://user.mendelu.cz/urban/vsg3/. Genetics and Analysis of Quantitative Traits. 1997. Sunderland: Sinauer Associates, 980 s. ISBN 0-87893-481-2. Principles of population genetics. 1997. 3. vyd. Sunderland, Massachusetts: Sinauer Associates, 542 s. ISBN 0-87893-306-9.KUCIEL, Jiří; URBAN, Tomáš. 2023. Principy genetiky. Brno: Mendelova univerzita v Brně, 200 s. ISBN 978-80-7509-385-1."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "ALLENDORF, Frederick William, Gordon LUIKART a Sally N. AITKEN. Conservation and the genetics of populations. 2. vyd. Ilustroval Agostinho ANTUNES. Chichester, West Sussex: John Wiley, 2013. ISBN 978-0-470-67146-7."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-ZOT Zootechnika, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "GEPOP"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Genetika populací"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Population genetics"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Ing. Tomáš Urban, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Morphology, Physiology and Animal Genetics (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "prof. Ing. Tomáš Urban, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "50 %"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "10 %"
+    },
+    {
+      "label": "Final test",
+      "content": "10 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "30 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Genetika populací"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Population genetics"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/3 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Ing. Tomáš Urban, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Morphology, Physiology and Animal Genetics (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. Ing. Tomáš Urban, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday10.00-12.50A416T. UrbanSeminarEvery week20Tuesday13.00-15.50A416T. UrbanSeminarEvery week20Tuesday16.00-16.50A416T. UrbanLectureEvery week40"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to gain knowledge of the nature of genetic variability in populations, its evaluation and use in animal breeding. To develop the ability to use software (especially R) to decompose phenotypic variance using statistical methods (linear regression, analysis of variance) and to estimate genetic parameters (heritability, repeatability, genetic correlations) and to estimate breeding values using linear models. Apply molecular genetic marker data in the evaluation of variability of quantitative traits - estimation of genomic breeding values. Interpret these findings and specifically use them as a basis for targeted livestock breeding."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "The content of the course has not been saved in this language version."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice42 hpreparation for exam20 hpreparation for regular testing5 helaboration and execution of projects5 hTotal86 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Attendance minim. 80 %. Credit is obtained on the basis of the verification of knowledge of two theoretical tests and three projects for a total of 50 points, with a minimum of 60% for credit. The exam is written and oral. In the written part, students answer 15 questions (min. 60%). This is followed by an oral exam where they choose 2 questions from the topics listed in the course syllabus."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation50 %Mid-term test(s)10 %Final test10 %Final oral exam30 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:URBAN, Tomáš. 2008. Virtuální svět genetiky 3 - principy genetiky populací a kvantitativních znaků. http://user.mendelu.cz/urban/vsg3/. Genetics and Analysis of Quantitative Traits. 1997. Sunderland: Sinauer Associates, 980 p. ISBN 0-87893-481-2. Principles of population genetics. 1997. 3rd ed. Sunderland, Massachusetts: Sinauer Associates, 542 p. ISBN 0-87893-306-9.KUCIEL, Jiří; URBAN, Tomáš. 2023. Principy genetiky. Brno: Mendelova univerzita v Brně, 200 p. ISBN 978-80-7509-385-1.Recommended:ALLENDORF, Frederick William, Gordon LUIKART a Sally N. AITKEN. Conservation and the genetics of populations. 2. vyd. Ilustroval Agostinho ANTUNES. Chichester, West Sussex: John Wiley, 2013. ISBN 978-0-470-67146-7."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "URBAN, Tomáš. 2008. Virtuální svět genetiky 3 - principy genetiky populací a kvantitativních znaků. http://user.mendelu.cz/urban/vsg3/. Genetics and Analysis of Quantitative Traits. 1997. Sunderland: Sinauer Associates, 980 p. ISBN 0-87893-481-2. Principles of population genetics. 1997. 3rd ed. Sunderland, Massachusetts: Sinauer Associates, 542 p. ISBN 0-87893-306-9.KUCIEL, Jiří; URBAN, Tomáš. 2023. Principy genetiky. Brno: Mendelova univerzita v Brně, 200 p. ISBN 978-80-7509-385-1."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "ALLENDORF, Frederick William, Gordon LUIKART a Sally N. AITKEN. Conservation and the genetics of populations. 2. vyd. Ilustroval Agostinho ANTUNES. Chichester, West Sussex: John Wiley, 2013. ISBN 978-0-470-67146-7."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-ZOT Animal Breeding, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-05-21 08:12:56",
+  "lastUpdated": "2026-05-21T11:13:20.177Z"
+}
