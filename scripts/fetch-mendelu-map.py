@@ -99,6 +99,11 @@ def main():
                 "floorId": p.get("floorId"),
                 "floorLevel": fl["level"] if fl else None,
                 "name": cz(p, "name") or "",
+                # Human hall label ("A01" for BA01N1052). For most buildings the
+                # `name` above is just the passport code and this nickname carries
+                # the friendly name; for PEF (Q) it's the reverse. reIS resolves
+                # the display label from both (see roomLabel in the extension).
+                "nickname": cz(p, "nickname") or None,
                 "type": t,
                 "category": cat,
                 "label": label,
